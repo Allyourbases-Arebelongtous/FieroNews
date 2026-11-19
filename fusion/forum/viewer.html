@@ -630,15 +630,6 @@
 
             renderPagination(data.page, data.total_pages);
         }
-                        <td class="thread-author">${escapeHtml(t.author)}</td>
-                        <td class="thread-replies">${t.replies}</td>
-                        <td class="thread-date">${escapeHtml(t.date)} ${escapeHtml(t.time)}</td>
-                    </tr>
-                `;
-            }).join("");
-
-            renderPagination(data.page, data.total_pages);
-        }
 
         function renderPagination(page, totalPages) {
             const pBar = document.getElementById("paginationBar");
