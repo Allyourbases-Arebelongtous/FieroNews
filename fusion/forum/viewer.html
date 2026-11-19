@@ -457,49 +457,39 @@
         let currentQuery = "";
         let forumsList = [];
         const _cachedForumThreads = {};
+        const ALL_FORUM_IDS = ["Forum1", "Forum2", "Forum6", "Forum7", "Archive-000001", "Archive-000002"];
 
         // Image base path for avatars and smilies (relative so it works on GitHub Pages subpaths)
         const IMAGE_BASE = "../../2017/PFFCDVOL2/PFFCD%20VOL%202/Images/";
 
         async function init() {
             try {
-                const res = await fetch("/api/forums");
-                if (res.ok) {
-                    forumsList = await res.json();
-                    renderForumTabs();
-                } else {
-                    throw new Error("API not available");
-                }
-            } catch (err) {
-                // Static Fallback for GitHub Pages
-                try {
-                    const sRes = await fetch("data/forums.json");
-                    if (sRes.ok) {
-                        const sData = await sRes.json();
-                        forumsList = sData.map(f => ({
+                const sRes = await fetch("data/forums.json");
+                if (sRes.ok) {
+                    const sData = await sRes.json();
+                    forumsList = [
+                        { id: "all", name: "All Forums", thread_count: 34908 },
+                        ...sData.map(f => ({
                             id: f.id,
                             name: f.name,
                             thread_count: f.total_threads
-                        }));
-                    } else {
-                        throw new Error("Static forums.json missing");
-                    }
-                } catch (sErr) {
-                    forumsList = [
-                        { id: "Forum1", name: "General Fiero Discussion", thread_count: 4008 },
-                        { id: "Forum2", name: "Technical Section", thread_count: 6113 },
-                        { id: "Forum6", name: "The Mall & Chat", thread_count: 5109 },
-                        { id: "Forum7", name: "Announcements", thread_count: 48 },
-                        { id: "Archive-000001", name: "Archive Vol 1", thread_count: 10637 },
-                        { id: "Archive-000002", name: "Archive Vol 2", thread_count: 8991 }
+                        }))
                     ];
+                } else {
+                    throw new Error("Static forums.json missing");
                 }
-                renderForumTabs();
+            } catch (err) {
+                forumsList = [
+                    { id: "all", name: "All Forums", thread_count: 34908 },
+                    { id: "Forum1", name: "General Fiero Discussion", thread_count: 4008 },
+                    { id: "Forum2", name: "Technical Section", thread_count: 6113 },
+                    { id: "Forum6", name: "The Mall & Chat", thread_count: 5109 },
+                    { id: "Forum7", name: "Announcements", thread_count: 48 },
+                    { id: "Archive-000001", name: "Archive Vol 1", thread_count: 10637 },
+                    { id: "Archive-000002", name: "Archive Vol 2", thread_count: 8991 }
+                ];
             }
-
-            // Check URL hash for direct links (e.g. #forum=Forum1&thread=002878.cgi)
-            parseHash();
-            window.addEventListener("hashchange", parseHash);
+            renderForumTabs();
 
             // Search listeners
             document.getElementById("searchBtn").addEventListener("click", doSearch);
@@ -510,8 +500,13 @@
                 document.getElementById("searchInput").value = "";
                 currentQuery = "";
                 currentPage = 1;
+                updateHash();
                 loadThreads();
             });
+
+            // Parse initial URL hash
+            parseHash();
+            window.addEventListener("hashchange", parseHash);
         }
 
         function renderForumTabs() {
@@ -527,8 +522,6 @@
         function selectForum(forumId) {
             currentForum = forumId;
             currentPage = 1;
-            currentQuery = "";
-            document.getElementById("searchInput").value = "";
             renderForumTabs();
             updateHash();
             showListView();
@@ -538,35 +531,43 @@
         function doSearch() {
             currentQuery = document.getElementById("searchInput").value.trim();
             currentPage = 1;
+            updateHash();
             loadThreads();
         }
 
         async function loadThreads() {
             const tbody = document.getElementById("threadsBody");
-            tbody.innerHTML = `<tr><td colspan="5" class="loading-spinner">Loading threads...</td></tr>`;
+            tbody.innerHTML = `<tr><td colspan="5" class="loading-spinner">Searching archive topics...</td></tr>`;
 
-            // Try dynamic API first if available
             try {
-                const url = `/api/threads?forum=${encodeURIComponent(currentForum)}&page=${currentPage}&limit=50&q=${encodeURIComponent(currentQuery)}`;
-                const res = await fetch(url);
-                if (res.ok) {
-                    const data = await res.json();
-                    renderThreadsTable(data);
-                    return;
-                }
-            } catch (e) {
-                // Fall through to static JSON loader
-            }
+                let list = [];
 
-            // Static JSON loader for GitHub Pages
-            try {
-                if (!_cachedForumThreads[currentForum]) {
-                    const res = await fetch(`data/threads_${encodeURIComponent(currentForum)}.json`);
-                    if (!res.ok) throw new Error("Could not load forum data file");
-                    _cachedForumThreads[currentForum] = await res.json();
+                if (currentForum === "all") {
+                    // Load all forum categories in parallel
+                    await Promise.all(ALL_FORUM_IDS.map(async (fid) => {
+                        if (!_cachedForumThreads[fid]) {
+                            try {
+                                const res = await fetch(`data/threads_${encodeURIComponent(fid)}.json`);
+                                if (res.ok) {
+                                    const items = await res.json();
+                                    items.forEach(item => item.forum = fid);
+                                    _cachedForumThreads[fid] = items;
+                                }
+                            } catch (e) {}
+                        }
+                    }));
+                    list = [].concat(...ALL_FORUM_IDS.map(fid => _cachedForumThreads[fid] || []));
+                } else {
+                    if (!_cachedForumThreads[currentForum]) {
+                        const res = await fetch(`data/threads_${encodeURIComponent(currentForum)}.json`);
+                        if (!res.ok) throw new Error("Could not load forum data file");
+                        const items = await res.json();
+                        items.forEach(item => item.forum = currentForum);
+                        _cachedForumThreads[currentForum] = items;
+                    }
+                    list = _cachedForumThreads[currentForum] || [];
                 }
 
-                let list = _cachedForumThreads[currentForum] || [];
                 if (currentQuery) {
                     const q = currentQuery.toLowerCase();
                     list = list.filter(t => 
@@ -588,6 +589,7 @@
                     threads: pageThreads
                 });
             } catch (err) {
+                console.error("Failed to load forum threads:", err);
                 tbody.innerHTML = `<tr><td colspan="5" class="empty-state">Could not load forum archive data.</td></tr>`;
             }
         }
@@ -600,7 +602,7 @@
                 (currentQuery ? ` matching "${escapeHtml(currentQuery)}"` : '');
 
             if (!data.threads || data.threads.length === 0) {
-                tbody.innerHTML = `<tr><td colspan="5" class="empty-state">No topics found. Try another search.</td></tr>`;
+                tbody.innerHTML = `<tr><td colspan="5" class="empty-state">No topics found matching "${escapeHtml(currentQuery)}". Try another search keyword.</td></tr>`;
                 document.getElementById("paginationBar").innerHTML = "";
                 return;
             }
@@ -608,16 +610,26 @@
             tbody.innerHTML = data.threads.map(t => {
                 const iconNum = t.icon || "1";
                 const iconUrl = `${IMAGE_BASE}icon${iconNum}.gif`;
+                const tForum = t.forum || currentForum;
                 return `
                     <tr>
                         <td style="text-align: center;">
                             <img src="${iconUrl}" onerror="this.src='${IMAGE_BASE}icon1.gif'" class="thread-icon" alt="icon">
                         </td>
                         <td>
-                            <a href="#forum=${encodeURIComponent(currentForum)}&thread=${encodeURIComponent(t.file)}" class="thread-link" onclick="openThread('${t.file}'); return false;">
+                            <a href="#forum=${encodeURIComponent(tForum)}&thread=${encodeURIComponent(t.file)}" class="thread-link" onclick="openThread('${t.file}', '${tForum}'); return false;">
                                 ${escapeHtml(t.title)}
                             </a>
                         </td>
+                        <td class="thread-author">${escapeHtml(t.author)}</td>
+                        <td class="thread-replies">${t.replies}</td>
+                        <td class="thread-date">${escapeHtml(t.date)} ${escapeHtml(t.time)}</td>
+                    </tr>
+                `;
+            }).join("");
+
+            renderPagination(data.page, data.total_pages);
+        }
                         <td class="thread-author">${escapeHtml(t.author)}</td>
                         <td class="thread-replies">${t.replies}</td>
                         <td class="thread-date">${escapeHtml(t.date)} ${escapeHtml(t.time)}</td>
@@ -650,7 +662,9 @@
             window.scrollTo({ top: 120, behavior: "smooth" });
         }
 
-        async function openThread(threadFile) {
+        async function openThread(threadFile, forumId) {
+            const targetForum = (forumId && forumId !== "all") ? forumId : (currentForum === "all" ? "Forum1" : currentForum);
+
             document.getElementById("listView").style.display = "none";
             const tView = document.getElementById("threadView");
             tView.style.display = "block";
@@ -660,11 +674,13 @@
             document.getElementById("threadMeta").innerText = "Fetching thread records...";
             document.getElementById("postsContainer").innerHTML = `<div class="loading-spinner">Loading posts...</div>`;
 
-            window.location.hash = `forum=${encodeURIComponent(currentForum)}&thread=${encodeURIComponent(threadFile)}`;
+            if (window.location.hash !== `#forum=${encodeURIComponent(targetForum)}&thread=${encodeURIComponent(threadFile)}`) {
+                history.replaceState(null, '', `#forum=${encodeURIComponent(targetForum)}&thread=${encodeURIComponent(threadFile)}`);
+            }
 
             // 1. Try dynamic API first if available
             try {
-                const res = await fetch(`/api/thread?forum=${encodeURIComponent(currentForum)}&id=${encodeURIComponent(threadFile)}`);
+                const res = await fetch(`/api/thread?forum=${encodeURIComponent(targetForum)}&id=${encodeURIComponent(threadFile)}`);
                 if (res.ok) {
                     const data = await res.json();
                     renderThread(data);
@@ -676,13 +692,13 @@
 
             // 2. Static .cgi loader for GitHub Pages
             try {
-                const rawUrl = `../../2017/PFFCDVOL2/PFFCD%20VOL%202/Data/${encodeURIComponent(currentForum)}/${encodeURIComponent(threadFile)}`;
+                const rawUrl = `../../2017/PFFCDVOL2/PFFCD%20VOL%202/Data/${encodeURIComponent(targetForum)}/${encodeURIComponent(threadFile)}`;
                 const res = await fetch(rawUrl);
                 if (!res.ok) throw new Error("Could not fetch static thread file");
                 const text = await res.text();
-                const forumObj = forumsList.find(f => f.id === currentForum);
-                const forumName = forumObj ? forumObj.name : currentForum;
-                const parsedData = parseCgiThread(text, currentForum, threadFile, forumName);
+                const forumObj = forumsList.find(f => f.id === targetForum);
+                const forumName = forumObj ? forumObj.name : targetForum;
+                const parsedData = parseCgiThread(text, targetForum, threadFile, forumName);
                 if (parsedData) {
                     renderThread(parsedData);
                 } else {
@@ -775,11 +791,17 @@
         function showListView() {
             document.getElementById("threadView").style.display = "none";
             document.getElementById("listView").style.display = "block";
-            window.location.hash = `forum=${encodeURIComponent(currentForum)}`;
+            updateHash();
         }
 
         function updateHash() {
-            window.location.hash = `forum=${encodeURIComponent(currentForum)}`;
+            let h = `forum=${encodeURIComponent(currentForum)}`;
+            if (currentQuery) {
+                h += `&q=${encodeURIComponent(currentQuery)}`;
+            }
+            if (window.location.hash !== '#' + h) {
+                history.replaceState(null, '', '#' + h);
+            }
         }
 
         function parseHash() {
@@ -791,16 +813,24 @@
             const params = new URLSearchParams(hash);
             const forum = params.get("forum");
             const thread = params.get("thread");
+            const search = params.get("q") || params.get("search");
 
-            if (forum && forum !== currentForum) {
+            if (forum) {
                 currentForum = forum;
                 renderForumTabs();
             }
 
+            if (search !== null && search !== undefined) {
+                currentQuery = search.trim();
+                const sInput = document.getElementById("searchInput");
+                if (sInput) sInput.value = currentQuery;
+            }
+
             if (thread) {
-                openThread(thread);
+                openThread(thread, forum);
             } else {
-                showListView();
+                document.getElementById("threadView").style.display = "none";
+                document.getElementById("listView").style.display = "block";
                 loadThreads();
             }
         }
