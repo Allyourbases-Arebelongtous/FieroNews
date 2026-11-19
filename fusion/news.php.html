@@ -1,15 +1,16 @@
-<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+﻿<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
 <html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Fieronews.net - News</title>
-<meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
 <meta name='description' content=''>
 <meta name='keywords' content=''>
 <link rel='stylesheet' href='themes/sk_bluemarble2/styles.css' type='text/css' media='screen'>
 <link rel='shortcut icon' href='images/favicon.ico' type='image/x-icon'>
 <script type='text/javascript' src='includes/jquery/jquery.js'></script>
 <script type='text/javascript' src='includes/jscript.js'></script>
+<script type='text/javascript' src='includes/events-feed.js'></script>
 </head>
 <body>
 
@@ -111,25 +112,397 @@
 <center>MEMBERS HAVE MEMBERS ONLY DOWNLOADS AND TECH ACCESS</center>
 
 </td></tr></table><!--news_prepost_1-->
-<a name='news_21' id='news_21'></a><br>
-<div class='news-item floatfix'>
+<!--BEGIN_FIERO_EVENTS-->
+<a name='news_events' id='news_events'></a><br>
+<div class='news-item floatfix fiero-events-post'>
 <div class='content'>
-<div class='image'><a href='news_cats.php-1.html?cat_id=13'><img src='images/news_cats/security.gif' alt='Security' class='news-category'></a></div>
+<div class='image'><a href='https://fierohub.com/events/' target='_blank' rel='noopener'><img src='images/news_cats/news.gif' alt='Events' class='news-category'></a></div>
 <div>
-<span class='title'><a href='news.php-1.html?readmore=21'>Registration Closed</a><br></span>
-<span class='poster'><!--news_poster--><img src='themes/sk_bluemarble2/images/bullet.png' alt='' style='vertical-align:middle; border: 0px;'> <span><a href='profile.php-1.html?lookup=1' class='profile-link'>fieronews</a></span> on October 15 2018
+<span class='title'><a href='https://fierohub.com/events/' target='_blank' rel='noopener'>Worldwide Fiero Car Events & Gatherings</a><br></span>
+<span class='poster'><!--news_poster--><img src='themes/sk_bluemarble2/images/bullet.png' alt='' style='vertical-align:middle; border: 0px;'> <span><a href='https://fierohub.com/events/' target='_blank' class='profile-link'>FieroHub Global Feed</a></span> &bull; Synced November 19, 2026
 </span>
 </div>
-<div class='subject'>For the time being the registration system will be closed.  This is due to a spam bot in Russia that is sending about 10 registrations a day.  If you want to register you will now have to email me at the contact page and I will manually register you.  Please include the username that you want in the email.  <br>
-<br>
-Thank You<br>
-Tom</div>
+<div class='subject'>
+<p class='events-lead-text'>
+Upcoming Pontiac Fiero car shows, meets, road trips, and anniversary celebrations happening around the world. Synchronized directly with the global Fiero registry at <a href='https://fierohub.com/events/' target='_blank' rel='noopener'><strong>FieroHub.com/events</strong></a>.
+</p>
+
+<div class='events-controls-bar'>
+    <div class='events-filters' id='eventFilterButtons'>
+        <button class='filter-pill active' onclick='filterEvents("all", this)'>All (16)</button>
+        <button class='filter-pill' onclick='filterEvents("meetup", this)'>🚘 Shows & Meets</button>
+        <button class='filter-pill' onclick='filterEvents("cruise", this)'>🛣️ Cruises</button>
+        <button class='filter-pill' onclick='filterEvents("club", this)'>👥 Clubs</button>
+    </div>
+    <div class='events-portal-actions'>
+        <a href='https://fierohub.com/events/' target='_blank' rel='noopener' class='event-portal-btn'>🌐 Open Full FieroHub Map & Calendar ↗</a>
+    </div>
+</div>
+
+<div class='events-grid' id='fieroEventsGrid'>
+
+        <div class='event-card' data-type='meetup'>
+            
+            <div class='event-card-media'>
+                <img src='https://fierohub.com/event/pictures/9920460080452.png' alt='100th Anniversary of Pontiac' loading='lazy' onerror="this.parentElement.style.display='none';">
+            </div>
+            <div class='event-card-body'>
+                <div class='event-card-meta'>
+                    <span class='event-type-pill'>🚘 Car Show / Meet</span>
+                    <span class='event-date-pill'>📅 Jun 22–28, 2026</span>
+                </div>
+                <h4 class='event-card-title'>
+                    <a href='https://fierohub.com/events/?id=23' target='_blank' rel='noopener'>100th Anniversary of Pontiac</a>
+                </h4>
+                <div class='event-card-loc'>📍 Pontiac, Michigan, United States of America</div>
+                <p class='event-card-desc'>Being held at the Pontiac Transportation Museum, come celebrate the 100th anniversary of Pontiac Motors. This is a POCI show, with lots of sub events and speakers. More details ...</p>
+                <div class='event-card-actions'>
+                    <a href='https://fierohub.com/events/?id=23' target='_blank' rel='noopener' class='event-btn-primary'>View Details on FieroHub ↗</a>
+                    
+                </div>
+            </div>
+        </div>
+
+        <div class='event-card' data-type='meetup'>
+            
+            <div class='event-card-media'>
+                <img src='https://fierohub.com/event/pictures/3953958880451.jpg' alt='Carlisle GM Nationals' loading='lazy' onerror="this.parentElement.style.display='none';">
+            </div>
+            <div class='event-card-body'>
+                <div class='event-card-meta'>
+                    <span class='event-type-pill'>🚘 Car Show / Meet</span>
+                    <span class='event-date-pill'>📅 Jun 19–20, 2026</span>
+                </div>
+                <h4 class='event-card-title'>
+                    <a href='https://fierohub.com/events/?id=22' target='_blank' rel='noopener'>Carlisle GM Nationals</a>
+                </h4>
+                <div class='event-card-loc'>📍 Carlisle, Pennsylvania, United States of America</div>
+                <p class='event-card-desc'>Join us at the Carlisle GM Nationals on June 19-20, 2026, to celebrate automotive excellence. The event will showcase nearly 1,000 General Motors vehicles on the spacious Nation...</p>
+                <div class='event-card-actions'>
+                    <a href='https://fierohub.com/events/?id=22' target='_blank' rel='noopener' class='event-btn-primary'>View Details on FieroHub ↗</a>
+                    <a href='https://www.facebook.com/share/15pFxLAG6J/' target='_blank' rel='noopener' class='event-btn-sub'>Official Site ↗</a>
+                </div>
+            </div>
+        </div>
+
+        <div class='event-card' data-type='otherevent'>
+            
+            <div class='event-card-body'>
+                <div class='event-card-meta'>
+                    <span class='event-type-pill'>🗓️ Fiero Event</span>
+                    <span class='event-date-pill'>📅 Feb 21, 2026</span>
+                </div>
+                <h4 class='event-card-title'>
+                    <a href='https://fierohub.com/events/?id=25' target='_blank' rel='noopener'>Get Together</a>
+                </h4>
+                <div class='event-card-loc'>📍 Douglasville, GA, United States of America</div>
+                <p class='event-card-desc'>Remnants of the Georgia Fiero Club are getting together February 21st at 1pm at "This Is It! Southern Kitchen & BBQ" in Douglasville -- 6912 Douglas Blvd, Douglasville, GA 30135...</p>
+                <div class='event-card-actions'>
+                    <a href='https://fierohub.com/events/?id=25' target='_blank' rel='noopener' class='event-btn-primary'>View Details on FieroHub ↗</a>
+                    
+                </div>
+            </div>
+        </div>
+
+        <div class='event-card' data-type='cruise'>
+            
+            <div class='event-card-media'>
+                <img src='https://fierohub.com/event/pictures/44012994943_n.jpg' alt='7th Annual Fall Canyon Run' loading='lazy' onerror="this.parentElement.style.display='none';">
+            </div>
+            <div class='event-card-body'>
+                <div class='event-card-meta'>
+                    <span class='event-type-pill'>🛣️ Cruise / Road Trip</span>
+                    <span class='event-date-pill'>📅 Oct 25, 2025</span>
+                </div>
+                <h4 class='event-card-title'>
+                    <a href='https://fierohub.com/events/?id=24' target='_blank' rel='noopener'>7th Annual Fall Canyon Run</a>
+                </h4>
+                <div class='event-card-loc'>📍 Eureka Springs, Arkansas, United States of America</div>
+                <p class='event-card-desc'>Get ready for one of the most scenic and fun drives of the year! We’re excited to announce the 7th Annual Fall Canyon Run, proudly hosted in partnership with the Kansas City Fie...</p>
+                <div class='event-card-actions'>
+                    <a href='https://fierohub.com/events/?id=24' target='_blank' rel='noopener' class='event-btn-primary'>View Details on FieroHub ↗</a>
+                    <a href='https://nwapontiacclub.com/' target='_blank' rel='noopener' class='event-btn-sub'>Official Site ↗</a>
+                </div>
+            </div>
+        </div>
+
+        <div class='event-card' data-type='meetup'>
+            
+            <div class='event-card-media'>
+                <img src='https://fierohub.com/event/pictures/779526368ma29.jpg' alt='Fierorama 29' loading='lazy' onerror="this.parentElement.style.display='none';">
+            </div>
+            <div class='event-card-body'>
+                <div class='event-card-meta'>
+                    <span class='event-type-pill'>🚘 Car Show / Meet</span>
+                    <span class='event-date-pill'>📅 Sep 07, 2025</span>
+                </div>
+                <h4 class='event-card-title'>
+                    <a href='https://fierohub.com/events/?id=20' target='_blank' rel='noopener'>Fierorama 29</a>
+                </h4>
+                <div class='event-card-loc'>📍 Pottawatomie Park, IL, United States of America</div>
+                <p class='event-card-desc'>Come Experience the Excitement! Also happening this year is a once in a lifetime MERA reunion! We have a ton of other events planned for this exciting weekend as well! Check out...</p>
+                <div class='event-card-actions'>
+                    <a href='https://fierohub.com/events/?id=20' target='_blank' rel='noopener' class='event-btn-primary'>View Details on FieroHub ↗</a>
+                    <a href='https://www.facebook.com/Fierorama' target='_blank' rel='noopener' class='event-btn-sub'>Official Site ↗</a>
+                </div>
+            </div>
+        </div>
+
+        <div class='event-card' data-type='meetup'>
+            
+            <div class='event-card-media'>
+                <img src='https://fierohub.com/event/pictures/466464975isle.png' alt='Carlisle GM Nationals' loading='lazy' onerror="this.parentElement.style.display='none';">
+            </div>
+            <div class='event-card-body'>
+                <div class='event-card-meta'>
+                    <span class='event-type-pill'>🚘 Car Show / Meet</span>
+                    <span class='event-date-pill'>📅 Jun 19–22, 2025</span>
+                </div>
+                <h4 class='event-card-title'>
+                    <a href='https://fierohub.com/events/?id=19' target='_blank' rel='noopener'>Carlisle GM Nationals</a>
+                </h4>
+                <div class='event-card-loc'>📍 Carlisle, Pennsylvania, United States of America</div>
+                <p class='event-card-desc'>Come experience the longest running Fiero show in the nation! Hosted during the Carlisle GM Nationals event, Fieros At Carlisle brings around 300 Fiero faithful out to display t...</p>
+                <div class='event-card-actions'>
+                    <a href='https://fierohub.com/events/?id=19' target='_blank' rel='noopener' class='event-btn-primary'>View Details on FieroHub ↗</a>
+                    <a href='https://mafoa.com/carlisle25' target='_blank' rel='noopener' class='event-btn-sub'>Official Site ↗</a>
+                </div>
+            </div>
+        </div>
+
+        <div class='event-card' data-type='meetup'>
+            
+            <div class='event-card-media'>
+                <img src='https://fierohub.com/event/pictures/4131420540598.jpg' alt='Back to the 80's' loading='lazy' onerror="this.parentElement.style.display='none';">
+            </div>
+            <div class='event-card-body'>
+                <div class='event-card-meta'>
+                    <span class='event-type-pill'>🚘 Car Show / Meet</span>
+                    <span class='event-date-pill'>📅 Jun 07, 2025</span>
+                </div>
+                <h4 class='event-card-title'>
+                    <a href='https://fierohub.com/events/?id=21' target='_blank' rel='noopener'>Back to the 80's</a>
+                </h4>
+                <div class='event-card-loc'>📍 Hugo, MN, United States of America</div>
+                <p class='event-card-desc'>Let's bring together the best of 80's cars and car-culture in Minnesota!</p>
+                <div class='event-card-actions'>
+                    <a href='https://fierohub.com/events/?id=21' target='_blank' rel='noopener' class='event-btn-primary'>View Details on FieroHub ↗</a>
+                    <a href='https://www.backtothe80smn.com/' target='_blank' rel='noopener' class='event-btn-sub'>Official Site ↗</a>
+                </div>
+            </div>
+        </div>
+
+        <div class='event-card' data-type='meetup'>
+            
+            <div class='event-card-media'>
+                <img src='https://fierohub.com/event/pictures/8647666361854.jpg' alt='Fierorama 28' loading='lazy' onerror="this.parentElement.style.display='none';">
+            </div>
+            <div class='event-card-body'>
+                <div class='event-card-meta'>
+                    <span class='event-type-pill'>🚘 Car Show / Meet</span>
+                    <span class='event-date-pill'>📅 Sep 08, 2024</span>
+                </div>
+                <h4 class='event-card-title'>
+                    <a href='https://fierohub.com/events/?id=18' target='_blank' rel='noopener'>Fierorama 28</a>
+                </h4>
+                <div class='event-card-loc'>📍 Pottawatomie Park, 8 North Ave, St. Charles, IL, United States of America</div>
+                <p class='event-card-desc'>This is one of the best and largest Fiero shows of the year and always a fun and exciting time. We look forward to seeing you and having you join us for some great times and goo...</p>
+                <div class='event-card-actions'>
+                    <a href='https://fierohub.com/events/?id=18' target='_blank' rel='noopener' class='event-btn-primary'>View Details on FieroHub ↗</a>
+                    <a href='https://fierofocus.com/fierorama_2010.html' target='_blank' rel='noopener' class='event-btn-sub'>Official Site ↗</a>
+                </div>
+            </div>
+        </div>
+
+        <div class='event-card' data-type='meetup'>
+            
+            <div class='event-card-media'>
+                <img src='https://fierohub.com/event/pictures/64195880646_n.jpg' alt='30 Years of Fieros At Carlisle' loading='lazy' onerror="this.parentElement.style.display='none';">
+            </div>
+            <div class='event-card-body'>
+                <div class='event-card-meta'>
+                    <span class='event-type-pill'>🚘 Car Show / Meet</span>
+                    <span class='event-date-pill'>📅 Jun 20–23, 2024</span>
+                </div>
+                <h4 class='event-card-title'>
+                    <a href='https://fierohub.com/events/?id=17' target='_blank' rel='noopener'>30 Years of Fieros At Carlisle</a>
+                </h4>
+                <div class='event-card-loc'>📍 Carlisle, Carlisle Fairgrounds, PA, United States of America</div>
+                <p class='event-card-desc'>Get ready to celebrate 30 Years of Fieros at Carlisle!! We are so excited to celebrate the longest-running and largest annual Fiero shows in the nation!</p>
+                <div class='event-card-actions'>
+                    <a href='https://fierohub.com/events/?id=17' target='_blank' rel='noopener' class='event-btn-primary'>View Details on FieroHub ↗</a>
+                    <a href='https://mafoa.com/carlisle24/' target='_blank' rel='noopener' class='event-btn-sub'>Official Site ↗</a>
+                </div>
+            </div>
+        </div>
+
+        <div class='event-card' data-type='meetup'>
+            
+            <div class='event-card-media'>
+                <img src='https://fierohub.com/event/pictures/8647953900b12.jpg' alt='Fierorama 27' loading='lazy' onerror="this.parentElement.style.display='none';">
+            </div>
+            <div class='event-card-body'>
+                <div class='event-card-meta'>
+                    <span class='event-type-pill'>🚘 Car Show / Meet</span>
+                    <span class='event-date-pill'>📅 Sep 10, 2023</span>
+                </div>
+                <h4 class='event-card-title'>
+                    <a href='https://fierohub.com/events/?id=16' target='_blank' rel='noopener'>Fierorama 27</a>
+                </h4>
+                <div class='event-card-loc'>📍 Pottawatomie Park, IL, United States of America</div>
+                <p class='event-card-desc'>This is one of the best and largest Fiero shows of the year and always a fun and exciting time. We look forward to seeing you and having you join us for some great times and goo...</p>
+                <div class='event-card-actions'>
+                    <a href='https://fierohub.com/events/?id=16' target='_blank' rel='noopener' class='event-btn-primary'>View Details on FieroHub ↗</a>
+                    <a href='https://fierofocus.com/fierorama_2010.html' target='_blank' rel='noopener' class='event-btn-sub'>Official Site ↗</a>
+                </div>
+            </div>
+        </div>
+
+        <div class='event-card' data-type='cruise'>
+            
+            <div class='event-card-media'>
+                <img src='https://fierohub.com/event/pictures/615044747001.jpg,764736597002.jpg,940384552003.jpg' alt='16. Alpenrundfahrt 2023' loading='lazy' onerror="this.parentElement.style.display='none';">
+            </div>
+            <div class='event-card-body'>
+                <div class='event-card-meta'>
+                    <span class='event-type-pill'>🛣️ Cruise / Road Trip</span>
+                    <span class='event-date-pill'>📅 Sep 02, 2023</span>
+                </div>
+                <h4 class='event-card-title'>
+                    <a href='https://fierohub.com/events/?id=15' target='_blank' rel='noopener'>16. Alpenrundfahrt 2023</a>
+                </h4>
+                <div class='event-card-loc'>📍 Bad Tölz, 83646, Germany</div>
+                <p class='event-card-desc'>Hello Fiero fans, the date for the 16th Bad Tölz Alpenrundfahrt is set! As always, on the first Saturday in September, namely September 2nd, 2023, it's that time again. check th...</p>
+                <div class='event-card-actions'>
+                    <a href='https://fierohub.com/events/?id=15' target='_blank' rel='noopener' class='event-btn-primary'>View Details on FieroHub ↗</a>
+                    <a href='https://reloaded.fiero.de/index.php/community/treffen' target='_blank' rel='noopener' class='event-btn-sub'>Official Site ↗</a>
+                </div>
+            </div>
+        </div>
+
+        <div class='event-card' data-type='otherevent'>
+            
+            <div class='event-card-media'>
+                <img src='https://fierohub.com/event/pictures/18227540355_n.jpg' alt='40th Fiero Anniversary Celebration' loading='lazy' onerror="this.parentElement.style.display='none';">
+            </div>
+            <div class='event-card-body'>
+                <div class='event-card-meta'>
+                    <span class='event-type-pill'>🗓️ Fiero Event</span>
+                    <span class='event-date-pill'>📅 Jul 12–16, 2023</span>
+                </div>
+                <h4 class='event-card-title'>
+                    <a href='https://fierohub.com/events/?id=7' target='_blank' rel='noopener'>40th Fiero Anniversary Celebration</a>
+                </h4>
+                <div class='event-card-loc'>📍 Auburn Hills Marriott Pontiac, MI, United States of America</div>
+                <p class='event-card-desc'>The Midwest Fiero Clubs Region of the Antique Automobile Club of America is officially announcing the 40th Anniversary Celebration of the Pontiac Fiero presented by the M1 Conco...</p>
+                <div class='event-card-actions'>
+                    <a href='https://fierohub.com/events/?id=7' target='_blank' rel='noopener' class='event-btn-primary'>View Details on FieroHub ↗</a>
+                    <a href='https://fiero40th.com/' target='_blank' rel='noopener' class='event-btn-sub'>Official Site ↗</a>
+                </div>
+            </div>
+        </div>
+
+        <div class='event-card' data-type='meetup'>
+            
+            <div class='event-card-media'>
+                <img src='https://fierohub.com/event/pictures/6766512074662.jpg' alt='29th Fieros At Carlisle' loading='lazy' onerror="this.parentElement.style.display='none';">
+            </div>
+            <div class='event-card-body'>
+                <div class='event-card-meta'>
+                    <span class='event-type-pill'>🚘 Car Show / Meet</span>
+                    <span class='event-date-pill'>📅 Jun 22–25, 2023</span>
+                </div>
+                <h4 class='event-card-title'>
+                    <a href='https://fierohub.com/events/?id=8' target='_blank' rel='noopener'>29th Fieros At Carlisle</a>
+                </h4>
+                <div class='event-card-loc'>📍 Carlisle, Carlisle Fairgrounds, PA, United States of America</div>
+                <p class='event-card-desc'>The Fiero will be the feature car to kick off the 40th Anniversary. We are excited for the opportunities for building displays, as well as being part of the event merch. Stay tu...</p>
+                <div class='event-card-actions'>
+                    <a href='https://fierohub.com/events/?id=8' target='_blank' rel='noopener' class='event-btn-primary'>View Details on FieroHub ↗</a>
+                    <a href='https://mafoa.com/fac2023/' target='_blank' rel='noopener' class='event-btn-sub'>Official Site ↗</a>
+                </div>
+            </div>
+        </div>
+
+        <div class='event-card' data-type='meetup'>
+            
+            <div class='event-card-media'>
+                <img src='https://fierohub.com/event/pictures/115422154nal.avif' alt='Back to the 80's' loading='lazy' onerror="this.parentElement.style.display='none';">
+            </div>
+            <div class='event-card-body'>
+                <div class='event-card-meta'>
+                    <span class='event-type-pill'>🚘 Car Show / Meet</span>
+                    <span class='event-date-pill'>📅 Jun 17, 2023</span>
+                </div>
+                <h4 class='event-card-title'>
+                    <a href='https://fierohub.com/events/?id=10' target='_blank' rel='noopener'>Back to the 80's</a>
+                </h4>
+                <div class='event-card-loc'>📍 Buck Hill 15400, MN, United States of America</div>
+                <p class='event-card-desc'>Welcome back to the best decade in the history of decades & the ORIGINAL Car Show & Event to celebrate it!</p>
+                <div class='event-card-actions'>
+                    <a href='https://fierohub.com/events/?id=10' target='_blank' rel='noopener' class='event-btn-primary'>View Details on FieroHub ↗</a>
+                    <a href='https://www.eventbrite.com/e/back-to-the-80s-2023-car-show-event-tickets-536533725817' target='_blank' rel='noopener' class='event-btn-sub'>Official Site ↗</a>
+                </div>
+            </div>
+        </div>
+
+        <div class='event-card' data-type='meetup'>
+            
+            <div class='event-card-media'>
+                <img src='https://fierohub.com/event/pictures/400556762nner.jpg' alt='NW Fiero Fest' loading='lazy' onerror="this.parentElement.style.display='none';">
+            </div>
+            <div class='event-card-body'>
+                <div class='event-card-meta'>
+                    <span class='event-type-pill'>🚘 Car Show / Meet</span>
+                    <span class='event-date-pill'>📅 Jun 16–17, 2023</span>
+                </div>
+                <h4 class='event-card-title'>
+                    <a href='https://fierohub.com/events/?id=14' target='_blank' rel='noopener'>NW Fiero Fest</a>
+                </h4>
+                <div class='event-card-loc'>📍 Richland, Washington, United States of America</div>
+                <p class='event-card-desc'>Welcome Back! The organizing committee for the NW Fiero Fest is would like to say a big thank you to all who attended our 2022 show! We are happy to announce that we will be ret...</p>
+                <div class='event-card-actions'>
+                    <a href='https://fierohub.com/events/?id=14' target='_blank' rel='noopener' class='event-btn-primary'>View Details on FieroHub ↗</a>
+                    <a href='http://www.nwfierofest.com/' target='_blank' rel='noopener' class='event-btn-sub'>Official Site ↗</a>
+                </div>
+            </div>
+        </div>
+
+        <div class='event-card' data-type='cruise'>
+            
+            <div class='event-card-media'>
+                <img src='https://fierohub.com/event/pictures/8386597890938.jpg' alt='28th Annual Run for the Hills Scouting Run' loading='lazy' onerror="this.parentElement.style.display='none';">
+            </div>
+            <div class='event-card-body'>
+                <div class='event-card-meta'>
+                    <span class='event-type-pill'>🛣️ Cruise / Road Trip</span>
+                    <span class='event-date-pill'>📅 Apr 15, 2023</span>
+                </div>
+                <h4 class='event-card-title'>
+                    <a href='https://fierohub.com/events/?id=13' target='_blank' rel='noopener'>28th Annual Run for the Hills Scouting Run</a>
+                </h4>
+                <div class='event-card-loc'>📍 Hampton Inn, Cornelia, GA, United States of America</div>
+                <p class='event-card-desc'>The starting location is Clayton, Ga located Northeast corner of Georgia on US 441. Follow link to club forum for details!</p>
+                <div class='event-card-actions'>
+                    <a href='https://fierohub.com/events/?id=13' target='_blank' rel='noopener' class='event-btn-primary'>View Details on FieroHub ↗</a>
+                    <a href='Http://www.gafiero.org' target='_blank' rel='noopener' class='event-btn-sub'>Official Site ↗</a>
+                </div>
+            </div>
+        </div>
+</div>
+
+<div class='events-footer-note'>
+    <span>Hosting a Fiero event or meet? <a href='https://fierohub.com/events/' target='_blank' rel='noopener'><strong>Submit your event on FieroHub</strong></a> to have it broadcast to the global Fiero community.</span>
+</div>
+</div>
 <div class='footer'>
-<span class='category'><!--news_cat-->In <a href='news_cats.php-1.html?cat_id=13'>Security</a>  -  </span><span class='read-more'><!--news_opts--><a href='print.php.html?type=N&amp;item_id=21'><img src='images/printer.png' alt='Print' style='vertical-align:middle;border:0;'></a>
-</span></div>
+<span class='category'><!--news_cat-->In <a href='news_cats.php-2.html?cat_id=11'>News & Events</a>  -  </span>
+<span class='read-more'><a href='https://fierohub.com/events/' target='_blank' rel='noopener' title='View on FieroHub'><img src='images/printer.png' alt='Link' style='vertical-align:middle;border:0;'></a></span>
+</div>
 </div>
 <div class='clear'></div><br><hr>
 </div>
+<!--END_FIERO_EVENTS-->
 <!--news_prepost_2-->
 <a name='news_20' id='news_20'></a><br>
 <div class='news-item floatfix'>
@@ -266,14 +639,14 @@ The meeting will take place Saturday, November 12, 2016 starting at 10:00am at R
 <div class='content'>
 <div class='image'></div>
 <div>
-<span class='title'><a href='news.php-9.html?readmore=13'>NIFE Fall Color Tour &amp; NIFE�s 25th Anniversary Dinner Party</a><br></span>
+<span class='title'><a href='news.php-9.html?readmore=13'>NIFE Fall Color Tour &amp; NIFEs 25th Anniversary Dinner Party</a><br></span>
 <span class='poster'><!--news_poster--><img src='themes/sk_bluemarble2/images/bullet.png' alt='' style='vertical-align:middle; border: 0px;'> <span><a href='profile.php-1.html?lookup=1' class='profile-link'>fieronews</a></span> on September 22 2016
 </span>
 </div>
-<div class='subject'>This year�s Fall Color Tour will be a break from the normal routine as this year we will include two events in one day: our 2016 Fall Color Tour and NIFE�s 25th anniversary dinner celebration. The day�s events will begin at the McDonald�s located at 1019 Maple Ave in Lisle, IL 60532. We will plan to DEPART from here at 1:00pm. If you would like to have lunch prior to our departure, please arrive accordingly to be ready to leave at 1:00pm.<br>
+<div class='subject'>This years Fall Color Tour will be a break from the normal routine as this year we will include two events in one day: our 2016 Fall Color Tour and NIFEs 25th anniversary dinner celebration. The days events will begin at the McDonalds located at 1019 Maple Ave in Lisle, IL 60532. We will plan to DEPART from here at 1:00pm. If you would like to have lunch prior to our departure, please arrive accordingly to be ready to leave at 1:00pm.<br>
 Heading South on I-355, we will exit onto I-80 West over to the Larkin Avenue exit. From here we will get on US-6 to head into Channahon, IL to meet up with our hosts, NIFE Member Hank Roe and friend of NIFE Roger Gerken (you may recall them as they planned out our 2016 Spring Driving Tour as well) at the Channahon Parkway State Park. We will plan to meet here around 2:00pm.<br>
-Our first stop on this year�s Fall Color Tour will be the I&M Canal Park in Channahon, IL where our club will see an example of some amazing engineering dating back to the 1840�s. To cross the Du Page River the builders had two choices, build a long and expensive aqueduct to carry the canal boats across the river or build a causeway creating a deep pool so the boats could cross using the river. They chose a causeway that the Du Page River cascades down on its way to the Illinois River. The Park also has one of only two surviving Lock Masters houses on the western part of the I&M.<br>
-The next stop, after driving down into the Illinois Valley, is the Aux Able lock and aqueduct that crosses a stream too small for a causeway. The other Lockmasters house is in this little park. Our group will then travel on one of the old trails into Morris, IL. The fall colors should be very nice. In Morris, just south of the Grundy County Courthouse, is the Morris I&M Canal Park. One of the features we will see here is a reproduction of a canal boat. On leaving Morris we will take IL Route 47 North to head to our NIFE 25th anniversary dinner, which will take place at Claddagh Irish Pub located at 1702 Commons Drive in Geneva, IL 60134. Check out their website located at www.claddaghirishpubs.com/geneva/  If you are not able to join us on this year�s Fall Color Tour, join us at Claddagh�s Irish Pub around 5:00pm for a dinner celebration honoring NIFE�s 25th anniversary.</div>
+Our first stop on this years Fall Color Tour will be the I&M Canal Park in Channahon, IL where our club will see an example of some amazing engineering dating back to the 1840s. To cross the Du Page River the builders had two choices, build a long and expensive aqueduct to carry the canal boats across the river or build a causeway creating a deep pool so the boats could cross using the river. They chose a causeway that the Du Page River cascades down on its way to the Illinois River. The Park also has one of only two surviving Lock Masters houses on the western part of the I&M.<br>
+The next stop, after driving down into the Illinois Valley, is the Aux Able lock and aqueduct that crosses a stream too small for a causeway. The other Lockmasters house is in this little park. Our group will then travel on one of the old trails into Morris, IL. The fall colors should be very nice. In Morris, just south of the Grundy County Courthouse, is the Morris I&M Canal Park. One of the features we will see here is a reproduction of a canal boat. On leaving Morris we will take IL Route 47 North to head to our NIFE 25th anniversary dinner, which will take place at Claddagh Irish Pub located at 1702 Commons Drive in Geneva, IL 60134. Check out their website located at www.claddaghirishpubs.com/geneva/  If you are not able to join us on this years Fall Color Tour, join us at Claddaghs Irish Pub around 5:00pm for a dinner celebration honoring NIFEs 25th anniversary.</div>
 <div class='footer'>
 <span class='category'><!--news_cat-->In <a href='news_cats.php-4.html?cat_id=0'>Uncategorised</a>  -  </span><span class='read-more'><!--news_opts--><a href='print.php-8.html?type=N&amp;item_id=13'><img src='images/printer.png' alt='Print' style='vertical-align:middle;border:0;'></a>
 </span></div>
@@ -290,7 +663,7 @@ The next stop, after driving down into the Illinois Valley, is the Aux Able lock
 <span class='poster'><!--news_poster--><img src='themes/sk_bluemarble2/images/bullet.png' alt='' style='vertical-align:middle; border: 0px;'> <span><a href='profile.php-1.html?lookup=1' class='profile-link'>fieronews</a></span> on August 23 2016
 </span>
 </div>
-<div class='subject'>Want to attend a unique car show in a historic location? Come join us on Saturday, September 3, 2016 at the �Heartland Fieros 13th Car Show� held in the historic Village Of East Davenport, IA along the Mississippi River near Davenport, IA. The six square block business area has numerous restaurants, a great ice cream parlor and deli called Lagomarcino�s that will feature the �Fiero Freeze� as well as many other gift and specialty shops.  Davenport, IA is a short 2-1/2 hour drive from the Chicago area and well worth the trip. Following the car show we are invited to attend a barbeque at the home of the Heartland Fiero Club�s Chairman, Fred Bartemeyer. Show registration is from 10:00am - noon and awards will be at 3:30pm. For more information on the Village of East Davenport check out their website at villageofeastdavenport.com. The host hotel is again the Quality Inn & Suites in Davenport, IA located at 6605 North Brady Street. Reservations are being taken at 563-386-8336. If you are in town Friday night, Heartland Fieros hosts a group dinner; meet at the host hotel around 5:30pm.  We look forward to seeing you in Davenport, IA for the show! </div>
+<div class='subject'>Want to attend a unique car show in a historic location? Come join us on Saturday, September 3, 2016 at the Heartland Fieros 13th Car Show held in the historic Village Of East Davenport, IA along the Mississippi River near Davenport, IA. The six square block business area has numerous restaurants, a great ice cream parlor and deli called Lagomarcinos that will feature the Fiero Freeze as well as many other gift and specialty shops.  Davenport, IA is a short 2-1/2 hour drive from the Chicago area and well worth the trip. Following the car show we are invited to attend a barbeque at the home of the Heartland Fiero Clubs Chairman, Fred Bartemeyer. Show registration is from 10:00am - noon and awards will be at 3:30pm. For more information on the Village of East Davenport check out their website at villageofeastdavenport.com. The host hotel is again the Quality Inn & Suites in Davenport, IA located at 6605 North Brady Street. Reservations are being taken at 563-386-8336. If you are in town Friday night, Heartland Fieros hosts a group dinner; meet at the host hotel around 5:30pm.  We look forward to seeing you in Davenport, IA for the show! </div>
 <div class='footer'>
 <span class='category'><!--news_cat-->In <a href='news_cats.php-4.html?cat_id=0'>Uncategorised</a>  -  </span><span class='read-more'><!--news_opts--><a href='print.php-9.html?type=N&amp;item_id=12'><img src='images/printer.png' alt='Print' style='vertical-align:middle;border:0;'></a>
 </span></div>
@@ -362,3 +735,4 @@ Blue Marble theme by <a href='../index-1.htm'>skpacman</a><br>
 </div> 
 </body>
 </html>
+

@@ -1,0 +1,39 @@
+name: Sync FieroHub Worldwide Events
+
+on:
+  schedule:
+    # Run daily at 06:00 UTC (1:00 AM EST)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync-events:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch and synchronize events
+        run: |
+          python scripts/sync_events.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add fusion/events.json fusion/news.php.html
+          if git diff --staged --quiet; then
+            echo "No new events or changes detected."
+          else
+            git commit -m "Auto-sync worldwide Fiero events from FieroHub [skip ci]"
+            git push origin main
+          fi
