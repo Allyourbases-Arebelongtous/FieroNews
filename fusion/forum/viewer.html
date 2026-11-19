@@ -378,9 +378,119 @@
             font-size: 15px;
         }
         @media (max-width: 768px) {
-            .post-card { flex-direction: column; }
-            .post-user { width: 100%; border-right: none; border-bottom: 1px solid #20354a; text-align: left; display: flex; align-items: center; gap: 10px; }
-            .post-avatar { margin: 0; }
+            .header-bar {
+                padding: 12px 14px;
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+                gap: 12px;
+            }
+            .header-left {
+                flex-direction: column;
+                gap: 8px;
+            }
+            .header-logo {
+                max-height: 40px;
+            }
+            .nav-links {
+                display: flex;
+                justify-content: center;
+                flex-wrap: wrap;
+                gap: 6px;
+            }
+            .nav-links a {
+                padding: 6px 10px;
+                font-size: 12px;
+            }
+            .main-container {
+                margin: 10px auto;
+                padding: 0 10px 30px 10px;
+            }
+            .forum-tabs {
+                overflow-x: auto;
+                flex-wrap: nowrap;
+                padding-bottom: 8px;
+                -webkit-overflow-scrolling: touch;
+            }
+            .tab-btn {
+                flex-shrink: 0;
+                padding: 7px 12px;
+                font-size: 12px;
+            }
+            .controls-bar {
+                flex-direction: column;
+                align-items: stretch;
+                padding: 10px 12px;
+            }
+            .search-box {
+                max-width: 100%;
+                width: 100%;
+            }
+            .search-input {
+                font-size: 13px;
+                padding: 7px 10px;
+            }
+            .stats-text {
+                font-size: 12px;
+                text-align: center;
+            }
+            .table-card {
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
+            }
+            .threads-table {
+                min-width: 540px;
+            }
+            .pagination {
+                flex-wrap: wrap;
+                justify-content: center;
+                gap: 6px;
+            }
+            .page-btn {
+                padding: 6px 10px;
+                font-size: 12px;
+            }
+            .page-info {
+                width: 100%;
+                text-align: center;
+                order: -1;
+                margin-bottom: 6px;
+                font-size: 12px;
+            }
+            .thread-view-title {
+                font-size: 18px;
+            }
+            .post-card {
+                flex-direction: column;
+            }
+            .post-user {
+                width: 100%;
+                min-width: 100%;
+                border-right: none;
+                border-bottom: 1px solid #20354a;
+                text-align: left;
+                display: flex;
+                align-items: center;
+                gap: 12px;
+                padding: 10px 14px;
+            }
+            .post-avatar {
+                margin: 0;
+            }
+            .post-body {
+                padding: 14px;
+                font-size: 13px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .header-title h1 { font-size: 16px; }
+            .header-title p { font-size: 11px; }
+            .threads-table { min-width: 100%; }
+            .threads-table th:nth-child(5),
+            .threads-table td:nth-child(5) {
+                display: none; /* Hide date on very narrow mobile screens */
+            }
         }
     </style>
 </head>
