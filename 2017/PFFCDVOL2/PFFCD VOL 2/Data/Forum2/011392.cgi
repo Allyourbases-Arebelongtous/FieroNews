@@ -1,0 +1,4 @@
+A||||2||hyhy4u||Normal RPM'S||||5||
+Z||000000||hyhy4u||06-19-2001||10:44 PM||||I seem to remember reading on here a little while back that cars where running 3500 Rpm's going 65, well when i was driving on the expressway today my car runs at 3000 Rpm's going 65 and has gotta be going at least80 to hit 3500, whats up??||||reg||5
+Z||000001||Posthumane||06-19-2001||10:53 PM||||Maybe you have a different tranny than they did. There were two ratios of 4 speed in 84 and a 3 spd auto. Then in 85 the isuzu 5 spd came about, and a couple of years later the getrag 5 spd. I know I run at about 3000 at 105 km/h (about 65mph)||||reg||1
+Z||000002||btoth||06-20-2001||12:13 AM||||My 86 GT auto runs at around 3300 at 70 MPH.  Don't know if that's good or not  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> haha.  My new engine is supposed to have a performance cam and more hp/toruqe, but I don't actually have any specs on it.||||reg||1

@@ -1,0 +1,5 @@
+A||||3||85ZainoGT||TONIGHT, SATURDAY!!! INDY GUYS!!!||||1||
+Z||000000||85ZainoGT||08-11-2001||08:52 PM||||I knows its short notice, unless you saw my other thread, but I am going up to steak n shake on N31 away from the mall and walmart in greenwood, towards downtown, there is a steak n shake a few cars chill at, if ANYONE wants to meet up there with me, ill be there from 930-1000, then we can go wherever, the circle, suds, or wherever you all know about, SHOW UP THOUGH!!!||||reg||1
+Z||000001||Coop88||08-12-2001||05:44 AM||||Sorry, I work Saturday nights(actually every night but Sunday). ||||reg||9
+Z||000002||Indyrestoguy_JR||08-12-2001||06:11 AM||||Indiana_resto_guy is my dad. He is in Boston and I am house sitting. I wish I checked his mail sooner or I would have came down. If you wanna do this again shoot him or I an email. Oh well day late dollar short.||||reg||1
+Z||000003||BOILERMAKER||08-12-2001||04:22 PM||||Keep the emails coming on when you want to get together next.  I am kinda tied up this week, but that doesn't mean i won't hook up for a little cruisin'.<P>Maybe you should come to Cinci this next weekend and join the rest of us.||||reg||1

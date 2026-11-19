@@ -1,0 +1,3 @@
+A||N||1||burdell1||Visor Mirrors||||5||
+Z||000000||burdell1||12-01-1999||10:35 AM||||Awhile back I got some replacement sun visors for my '85 GT but they didn't have the built in mirrors. I put a clip on one, but I want to retain that built in look. I felt beneath the cloth that there are holes for the screws, but I am not sure how to put them on without wrecking the visor. Anyone tried this before?||||reg||5
+Z||000001||TOM||12-01-1999||11:36 AM||||First pull the mirror from the old one. It will just pop off. You will see the knobs on the back and the holes in the visor. Then cut the fabric out on the new ones. I used a razor blade. I also put a mirror on the driver side. ||||reg||1

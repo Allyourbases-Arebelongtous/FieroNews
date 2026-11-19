@@ -1,0 +1,5 @@
+A||N||3||cscougar||Sensors||||1||
+Z||000000||cscougar||07-23-2000||05:03 PM||||Is the ECM coolant sensor the same sensor as the temperature gauge sensor or do they have different part nos.<P>||||reg||1
+Z||000001||Phil||07-23-2000||09:21 PM||||On the V6's there are 3 different temp sensors 1- gauge and idiot light(2 wire in the head by dist.  2-ECM( 2 wire by thermo housing) 3-fan  switch( 1 wire by thermo housing). Don't know about 4 cyl.<BR>||||reg||1
+Z||000002||cscougar||07-23-2000||10:24 PM||||My temperature gauge was not working so I went to Autozone (of all places) to get a temperature gauge sensor.  They called it a coolant temperature sensor but I think it is the one for the ECM.  It fit in the hole and looks like the previous one but if it is not the right one then that maybe why it doesnt work.  I ground the grn/gry wire and the gauge pegs to the right but hooking up the sensor I get no reading at all.||||reg||1
+Z||000003||Phil||07-24-2000||06:00 AM||||Also make sure that you don't use teflon tape on the sensor because the shell must be grounded.||||reg||1

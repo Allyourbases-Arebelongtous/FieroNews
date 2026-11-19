@@ -1,0 +1,3 @@
+A||||1||JayUSA77||Everyone can you help me on this||||1||
+Z||000000||JayUSA77||09-18-2001||06:53 PM||||this is what im trying to do find a Oldsmobile Achieva S  transaxle. I was talking to slammed fiero and he doesnt know what year it came out of and there super rare. Does anyone have any idea it was supposed to have 3.93 rear end if im right. Its supposed to be superstrong.  Can anyone with any info post it Thanks<BR>j<P>------------------<BR>86' Black Fiero GT||||reg||1
+Z||000001||rockcrawl||09-18-2001||07:57 PM||||If I find one I'm sure not going to tell you where it is!  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> I think Rodney may have some info on this subject.||||reg||1

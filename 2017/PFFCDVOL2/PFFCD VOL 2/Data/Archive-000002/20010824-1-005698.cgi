@@ -1,0 +1,12 @@
+A||||10||Alex4mula||My new set of wheels :)||||1||
+Z||000000||Alex4mula||02-08-2001||02:48 PM||||Well.. ordered these today. 17x7 with 215/40 in front & 235/40 in back. Just getting ready for Daytona  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><BR> <IMG SRC="http://www.fiero.nl/uploads/Fiero-MAS-gif.gif"> ||||reg||1
+Z||000001||Alex4mula||02-08-2001||02:51 PM||||Weeee! My first picture post that comes out good!<BR>Anyway, that's not my car. Is for you to see them in a Fiero. Mine is a red Formula.<BR>Here is a photo of the wheel:<BR>MAS-President. Also sold as Voxx MGR<BR>Opps.. screw it up. Lets see Oh well.. Keeps posting the previous picture... Anyway. Thats it.<p>[This message has been edited by Alex4mula (edited 02-08-2001).]||||reg||1
+Z||000002||1FST2M6||02-08-2001||02:58 PM||||MAS MGRs?  very nice.. what kinda tires?||||reg||1
+Z||000003||Alex4mula||02-08-2001||03:01 PM||||Nitto Xtreme 450. Bought at Discount Tire.||||reg||1
+Z||000004||TheFiero64||02-08-2001||03:09 PM||||Those look like some sweet wheels.||||reg||10
+Z||000005||Alex4mula||02-08-2001||04:13 PM||||Testing again..<BR> <IMG SRC="http://www.fiero.nl/uploads/MAS_President_4.jpg"> <P>Good.||||reg||1
+Z||000006||Eric||02-08-2001||04:17 PM||||What offsets are those?  Did you have to use spacers for the rears?||||reg||1
+Z||000007||Oreif||02-08-2001||04:29 PM||||Very nice looking wheels! Congrats.||||reg||14
+Z||000008||1FST2M6||02-08-2001||04:47 PM||||they are available in 38,42 and 45mm offset.. <A HREF="http://www.tires.com" TARGET=_blank>www.tires.com</A>   (parent page to where he ordered them) are very knowledgable and odds are their 42mm.. for appearanace and saftey... the 45s on a 7" wid wheel would look strange.. I bought my Konig GT-Rs from them.. had em in 4 business days.. they said 7-10... i was impressed. ||||reg||1
+Z||000009||Alex4mula||02-08-2001||06:05 PM||||1FST; Those are the right offsets for the Voxx MGR. Mines are MAS-Italy President with a 40mm offset. They are the same design. Voxx bought the mold from MAS and manufacture the same wheels now. They told me to be here in FL in 4 days. Can't wait  <IMG SRC="http://www.fiero.nl/forum/smile.gif">!||||reg||1
+Z||000010||Sleeper||02-08-2001||09:09 PM||||wait till you get them on. they're gonna look dope, dude. i always liked 5 star rims.<P>------------------<BR>85 GT<BR>17" Racing Hart C5 wheels, Kumho Ecsta Supra 712 tires, Intrax lowering spring, KYB shocks, KYB-GR2 struts, Chris West's Strut Tower Bar, J.E.T. super chip, Accel Super Coil, Accel Wires, K&N filter and Optima Battery.||||reg||1

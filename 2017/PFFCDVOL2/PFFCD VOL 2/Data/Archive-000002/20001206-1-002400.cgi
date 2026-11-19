@@ -1,0 +1,4 @@
+A||||2||overlord||more fiero videos!  ||||1||
+Z||000000||overlord||06-01-2000||08:27 PM||||some more videos i found...although are quite large infile size. 1 is 18 megs.<BR> <A HREF="http://www.umount.com/thirdgen/movies/index_other.html" TARGET=_blank>http://www.umount.com/thirdgen/movies/index_other.html</A> <P>||||reg||1
+Z||000001||Dan86gt3.8||06-02-2000||01:39 PM||||thoose are cool.  I love how that thing launches.  I also like getting squirely on the wet road course, I just wish there was sound to it, maybey something like O SHHHH*T.<BR>Anyways do you have any info about the car (ie v8 size, fuelinjected/carb, suspension mods, stick/auto)  anyways good find!||||reg||1
+Z||000002||Master_Sushi||06-02-2000||05:39 PM||||Now we really know what the batmobile is like  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

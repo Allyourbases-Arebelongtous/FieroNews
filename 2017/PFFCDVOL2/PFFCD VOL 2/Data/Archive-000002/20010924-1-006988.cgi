@@ -1,0 +1,5 @@
+A||N||3||Fierodave2001||Cleaning valve covers ??||||5||
+Z||000000||Fierodave2001||04-21-2001||05:32 PM||||Does anyone have a sure fire way to clean to<BR>V6 valve covers ?  The silver is tarnishing a bit.<P>Are they clear coated ?  Should I use mag polish ?<P>What method is best ?<P>Thank you.||||reg||5
+Z||000001||stimpy||04-21-2001||07:08 PM||||Metal polish and a Dremel tool with a cotton polishing wheel will shine that shizz up like chrome.||||reg||1
+Z||000002||Fierodave2001||04-21-2001||07:49 PM||||Okay.   I'll try it.  It's been bugging me for some time now, and did not know how to attack it.<P>Thank you much    8&gt; )||||reg||6
+Z||000003||AusFiero||04-21-2001||07:54 PM||||Stimpys is probably a better method but I got a chrome like finish by using  cutting compound and a buffing wheel. Mine was off the car at the time though which made it easier. Yeah I was too cheap to go down the shop and buy some metal polish on the day  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

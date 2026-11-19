@@ -1,0 +1,821 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pennock's Fiero Forum - Web Archive Viewer</title>
+    <link rel="stylesheet" href="../themes/sk_bluemarble2/styles.css" type="text/css">
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            background-color: #0e1621;
+            color: #d1d8e0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.5;
+        }
+        .header-bar {
+            background: linear-gradient(180deg, #162436 0%, #0d1724 100%);
+            border-bottom: 2px solid #2980b9;
+            padding: 12px 24px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        .header-left {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+        .header-logo {
+            max-height: 48px;
+            border-radius: 4px;
+        }
+        .header-title h1 {
+            margin: 0;
+            font-size: 20px;
+            color: #5dade2;
+            letter-spacing: 0.5px;
+        }
+        .header-title p {
+            margin: 2px 0 0 0;
+            font-size: 13px;
+            color: #8da3b8;
+        }
+        .nav-links a {
+            color: #ecf0f1;
+            text-decoration: none;
+            padding: 6px 14px;
+            background: #1f364d;
+            border-radius: 4px;
+            font-size: 13px;
+            font-weight: 500;
+            transition: background 0.2s;
+        }
+        .nav-links a:hover {
+            background: #2980b9;
+        }
+        .main-container {
+            max-width: 1300px;
+            margin: 20px auto;
+            padding: 0 16px 40px 16px;
+        }
+        /* Forum Selector Pills */
+        .forum-tabs {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-bottom: 16px;
+        }
+        .tab-btn {
+            background: #172635;
+            color: #a4b7c6;
+            border: 1px solid #243b53;
+            padding: 9px 16px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            transition: all 0.2s;
+        }
+        .tab-btn:hover {
+            background: #20364c;
+            color: #ffffff;
+            border-color: #3b82f6;
+        }
+        .tab-btn.active {
+            background: #2563eb;
+            color: #ffffff;
+            border-color: #3b82f6;
+            box-shadow: 0 2px 8px rgba(37, 99, 235, 0.4);
+        }
+        .tab-badge {
+            background: rgba(0,0,0,0.3);
+            padding: 2px 7px;
+            border-radius: 10px;
+            font-size: 11px;
+            font-weight: normal;
+        }
+        /* Controls & Search */
+        .controls-bar {
+            background: #142231;
+            border: 1px solid #20354a;
+            border-radius: 6px;
+            padding: 12px 16px;
+            margin-bottom: 16px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+        .search-box {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex: 1;
+            max-width: 450px;
+        }
+        .search-input {
+            width: 100%;
+            background: #0d1722;
+            border: 1px solid #2a4360;
+            color: #ffffff;
+            padding: 8px 12px;
+            border-radius: 4px;
+            font-size: 14px;
+            outline: none;
+        }
+        .search-input:focus {
+            border-color: #3b82f6;
+        }
+        .btn {
+            background: #2563eb;
+            color: #fff;
+            border: none;
+            padding: 8px 14px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: 500;
+        }
+        .btn:hover { background: #1d4ed8; }
+        .btn-secondary {
+            background: #243b53;
+            color: #cbd5e1;
+        }
+        .btn-secondary:hover { background: #334e68; color: #fff; }
+        .stats-text {
+            color: #8da3b8;
+            font-size: 13px;
+        }
+        /* Table View */
+        .table-card {
+            background: #142231;
+            border: 1px solid #20354a;
+            border-radius: 6px;
+            overflow: hidden;
+        }
+        .threads-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 13px;
+        }
+        .threads-table th {
+            background: #0f1b27;
+            color: #8da3b8;
+            text-align: left;
+            padding: 10px 14px;
+            font-weight: 600;
+            border-bottom: 1px solid #20354a;
+            text-transform: uppercase;
+            font-size: 11px;
+            letter-spacing: 0.5px;
+        }
+        .threads-table td {
+            padding: 10px 14px;
+            border-bottom: 1px solid #1a2c3f;
+            vertical-align: middle;
+        }
+        .threads-table tr:hover {
+            background: #182a3d;
+        }
+        .thread-icon {
+            width: 20px;
+            height: 20px;
+            object-fit: contain;
+            vertical-align: middle;
+            margin-right: 6px;
+        }
+        .thread-link {
+            color: #60a5fa;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 14px;
+            display: inline-block;
+        }
+        .thread-link:hover {
+            color: #93c5fd;
+            text-decoration: underline;
+        }
+        .thread-author {
+            color: #cbd5e1;
+        }
+        .thread-replies {
+            text-align: center;
+            font-weight: 600;
+            color: #38bdf8;
+        }
+        .thread-date {
+            color: #718096;
+            font-size: 12px;
+            white-space: nowrap;
+        }
+        /* Pagination */
+        .pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 6px;
+            margin-top: 18px;
+            flex-wrap: wrap;
+        }
+        .page-btn {
+            background: #172635;
+            color: #cbd5e1;
+            border: 1px solid #243b53;
+            padding: 6px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 12px;
+        }
+        .page-btn:hover:not(:disabled) {
+            background: #2563eb;
+            color: #fff;
+        }
+        .page-btn:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+        .page-info {
+            color: #8da3b8;
+            font-size: 13px;
+            padding: 0 8px;
+        }
+        /* Thread Detail View */
+        .thread-view {
+            display: none;
+        }
+        .thread-header-card {
+            background: #142231;
+            border: 1px solid #20354a;
+            border-radius: 6px;
+            padding: 16px 20px;
+            margin-bottom: 16px;
+        }
+        .back-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: #1f364d;
+            color: #e2e8f0;
+            border: 1px solid #334e68;
+            padding: 6px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 13px;
+            margin-bottom: 12px;
+        }
+        .back-btn:hover { background: #2563eb; color: #fff; }
+        .thread-view-title {
+            margin: 0 0 6px 0;
+            color: #f1f5f9;
+            font-size: 20px;
+        }
+        .thread-meta {
+            color: #94a3b8;
+            font-size: 13px;
+        }
+        /* Posts */
+        .posts-container {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .post-card {
+            background: #142231;
+            border: 1px solid #20354a;
+            border-radius: 6px;
+            display: flex;
+            overflow: hidden;
+        }
+        .post-user {
+            width: 170px;
+            min-width: 170px;
+            background: #0f1b27;
+            border-right: 1px solid #20354a;
+            padding: 16px 12px;
+            text-align: center;
+        }
+        .post-username {
+            font-weight: bold;
+            color: #38bdf8;
+            font-size: 14px;
+            word-break: break-word;
+        }
+        .post-status {
+            font-size: 11px;
+            color: #94a3b8;
+            margin-top: 4px;
+            background: #1a2a3a;
+            padding: 2px 6px;
+            border-radius: 3px;
+            display: inline-block;
+        }
+        .post-avatar {
+            margin: 10px auto;
+            width: 32px;
+            height: 32px;
+            object-fit: contain;
+            display: block;
+        }
+        .post-content-box {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+        .post-header {
+            background: #111e2c;
+            border-bottom: 1px solid #1c3044;
+            padding: 8px 16px;
+            display: flex;
+            justify-content: space-between;
+            color: #718096;
+            font-size: 12px;
+        }
+        .post-body {
+            padding: 16px 20px;
+            font-size: 14px;
+            color: #e2e8f0;
+            line-height: 1.6;
+            word-break: break-word;
+            flex: 1;
+        }
+        .post-body img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+            margin: 6px 0;
+            vertical-align: middle;
+        }
+        .post-body img[src*="cool.gif"], 
+        .post-body img[src*="smile.gif"], 
+        .post-body img[src*="wink.gif"], 
+        .post-body img[src*="biggrin.gif"],
+        .post-body img[src*="frown.gif"],
+        .post-body img[src*="angry.gif"],
+        .post-body img[src*="eek.gif"] {
+            display: inline-block;
+            margin: 0 2px;
+            vertical-align: text-bottom;
+        }
+        .empty-state {
+            padding: 40px;
+            text-align: center;
+            color: #8da3b8;
+            font-size: 15px;
+        }
+        .loading-spinner {
+            text-align: center;
+            padding: 40px;
+            color: #38bdf8;
+            font-size: 15px;
+        }
+        @media (max-width: 768px) {
+            .post-card { flex-direction: column; }
+            .post-user { width: 100%; border-right: none; border-bottom: 1px solid #20354a; text-align: left; display: flex; align-items: center; gap: 10px; }
+            .post-avatar { margin: 0; }
+        }
+    </style>
+</head>
+<body>
+
+    <header class="header-bar">
+        <div class="header-left">
+            <img src="../images/fieronews1logo.gif" alt="Fiero News Logo" class="header-logo">
+            <div class="header-title">
+                <h1>Pennock's Fiero Forum Web Archive</h1>
+                <p>34,000+ Preserved Technical Threads &amp; Discussion Records (2000–2002)</p>
+            </div>
+        </div>
+        <div class="nav-links">
+            <a href="../news.php.html">← Return to Fiero News</a>
+            <a href="../downloads.php.html">Downloads</a>
+            <a href="../articles.php.html">Articles</a>
+        </div>
+    </header>
+
+    <main class="main-container">
+        <!-- Forum Categories Navigation -->
+        <nav class="forum-tabs" id="forumTabs"></nav>
+
+        <!-- List View Container -->
+        <div id="listView">
+            <div class="controls-bar">
+                <div class="search-box">
+                    <input type="text" id="searchInput" class="search-input" placeholder="Search topics or authors (e.g. V8 swap, brakes, clutch)...">
+                    <button id="searchBtn" class="btn">Search</button>
+                    <button id="clearBtn" class="btn btn-secondary">Clear</button>
+                </div>
+                <div class="stats-text" id="statsText">Loading forum index...</div>
+            </div>
+
+            <div class="table-card">
+                <table class="threads-table">
+                    <thead>
+                        <tr>
+                            <th style="width: 50px;"></th>
+                            <th>Topic Title</th>
+                            <th style="width: 170px;">Started By</th>
+                            <th style="width: 80px; text-align: center;">Replies</th>
+                            <th style="width: 170px;">Date &amp; Time</th>
+                        </tr>
+                    </thead>
+                    <tbody id="threadsBody">
+                        <tr><td colspan="5" class="loading-spinner">Loading threads...</td></tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="pagination" id="paginationBar"></div>
+        </div>
+
+        <!-- Thread Reader View Container -->
+        <div id="threadView" class="thread-view">
+            <div class="thread-header-card">
+                <button class="back-btn" onclick="showListView()">← Back to Topics List</button>
+                <h2 id="threadTitle" class="thread-view-title">Topic Title</h2>
+                <div id="threadMeta" class="thread-meta">Topic details...</div>
+            </div>
+            <div class="posts-container" id="postsContainer"></div>
+            <div style="margin-top: 16px;">
+                <button class="back-btn" onclick="showListView()">← Back to Topics List</button>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        const API_BASE = "";
+        let currentForum = "Forum1";
+        let currentPage = 1;
+        let currentQuery = "";
+        let forumsList = [];
+        const _cachedForumThreads = {};
+
+        // Image base path for avatars and smilies (relative so it works on GitHub Pages subpaths)
+        const IMAGE_BASE = "../../2017/PFFCDVOL2/PFFCD%20VOL%202/Images/";
+
+        async function init() {
+            try {
+                const res = await fetch("/api/forums");
+                if (res.ok) {
+                    forumsList = await res.json();
+                    renderForumTabs();
+                } else {
+                    throw new Error("API not available");
+                }
+            } catch (err) {
+                // Static Fallback for GitHub Pages
+                try {
+                    const sRes = await fetch("data/forums.json");
+                    if (sRes.ok) {
+                        const sData = await sRes.json();
+                        forumsList = sData.map(f => ({
+                            id: f.id,
+                            name: f.name,
+                            thread_count: f.total_threads
+                        }));
+                    } else {
+                        throw new Error("Static forums.json missing");
+                    }
+                } catch (sErr) {
+                    forumsList = [
+                        { id: "Forum1", name: "General Fiero Discussion", thread_count: 4008 },
+                        { id: "Forum2", name: "Technical Section", thread_count: 6113 },
+                        { id: "Forum6", name: "The Mall & Chat", thread_count: 5109 },
+                        { id: "Forum7", name: "Announcements", thread_count: 48 },
+                        { id: "Archive-000001", name: "Archive Vol 1", thread_count: 10637 },
+                        { id: "Archive-000002", name: "Archive Vol 2", thread_count: 8991 }
+                    ];
+                }
+                renderForumTabs();
+            }
+
+            // Check URL hash for direct links (e.g. #forum=Forum1&thread=002878.cgi)
+            parseHash();
+            window.addEventListener("hashchange", parseHash);
+
+            // Search listeners
+            document.getElementById("searchBtn").addEventListener("click", doSearch);
+            document.getElementById("searchInput").addEventListener("keydown", (e) => {
+                if (e.key === "Enter") doSearch();
+            });
+            document.getElementById("clearBtn").addEventListener("click", () => {
+                document.getElementById("searchInput").value = "";
+                currentQuery = "";
+                currentPage = 1;
+                loadThreads();
+            });
+        }
+
+        function renderForumTabs() {
+            const tabsContainer = document.getElementById("forumTabs");
+            tabsContainer.innerHTML = forumsList.map(f => `
+                <button class="tab-btn ${f.id === currentForum ? 'active' : ''}" onclick="selectForum('${f.id}')">
+                    <span>${f.name}</span>
+                    <span class="tab-badge">${(f.thread_count || 0).toLocaleString()}</span>
+                </button>
+            `).join("");
+        }
+
+        function selectForum(forumId) {
+            currentForum = forumId;
+            currentPage = 1;
+            currentQuery = "";
+            document.getElementById("searchInput").value = "";
+            renderForumTabs();
+            updateHash();
+            showListView();
+            loadThreads();
+        }
+
+        function doSearch() {
+            currentQuery = document.getElementById("searchInput").value.trim();
+            currentPage = 1;
+            loadThreads();
+        }
+
+        async function loadThreads() {
+            const tbody = document.getElementById("threadsBody");
+            tbody.innerHTML = `<tr><td colspan="5" class="loading-spinner">Loading threads...</td></tr>`;
+
+            // Try dynamic API first if available
+            try {
+                const url = `/api/threads?forum=${encodeURIComponent(currentForum)}&page=${currentPage}&limit=50&q=${encodeURIComponent(currentQuery)}`;
+                const res = await fetch(url);
+                if (res.ok) {
+                    const data = await res.json();
+                    renderThreadsTable(data);
+                    return;
+                }
+            } catch (e) {
+                // Fall through to static JSON loader
+            }
+
+            // Static JSON loader for GitHub Pages
+            try {
+                if (!_cachedForumThreads[currentForum]) {
+                    const res = await fetch(`data/threads_${encodeURIComponent(currentForum)}.json`);
+                    if (!res.ok) throw new Error("Could not load forum data file");
+                    _cachedForumThreads[currentForum] = await res.json();
+                }
+
+                let list = _cachedForumThreads[currentForum] || [];
+                if (currentQuery) {
+                    const q = currentQuery.toLowerCase();
+                    list = list.filter(t => 
+                        (t.title && t.title.toLowerCase().includes(q)) || 
+                        (t.author && t.author.toLowerCase().includes(q))
+                    );
+                }
+
+                const total = list.length;
+                const limit = 50;
+                const totalPages = Math.max(1, Math.ceil(total / limit));
+                const start = (currentPage - 1) * limit;
+                const pageThreads = list.slice(start, start + limit);
+
+                renderThreadsTable({
+                    total: total,
+                    page: currentPage,
+                    total_pages: totalPages,
+                    threads: pageThreads
+                });
+            } catch (err) {
+                tbody.innerHTML = `<tr><td colspan="5" class="empty-state">Could not load forum archive data.</td></tr>`;
+            }
+        }
+
+        function renderThreadsTable(data) {
+            const tbody = document.getElementById("threadsBody");
+            const stats = document.getElementById("statsText");
+
+            stats.innerHTML = `Showing ${data.total.toLocaleString()} topic${data.total === 1 ? '' : 's'}` + 
+                (currentQuery ? ` matching "${escapeHtml(currentQuery)}"` : '');
+
+            if (!data.threads || data.threads.length === 0) {
+                tbody.innerHTML = `<tr><td colspan="5" class="empty-state">No topics found. Try another search.</td></tr>`;
+                document.getElementById("paginationBar").innerHTML = "";
+                return;
+            }
+
+            tbody.innerHTML = data.threads.map(t => {
+                const iconNum = t.icon || "1";
+                const iconUrl = `${IMAGE_BASE}icon${iconNum}.gif`;
+                return `
+                    <tr>
+                        <td style="text-align: center;">
+                            <img src="${iconUrl}" onerror="this.src='${IMAGE_BASE}icon1.gif'" class="thread-icon" alt="icon">
+                        </td>
+                        <td>
+                            <a href="#forum=${encodeURIComponent(currentForum)}&thread=${encodeURIComponent(t.file)}" class="thread-link" onclick="openThread('${t.file}'); return false;">
+                                ${escapeHtml(t.title)}
+                            </a>
+                        </td>
+                        <td class="thread-author">${escapeHtml(t.author)}</td>
+                        <td class="thread-replies">${t.replies}</td>
+                        <td class="thread-date">${escapeHtml(t.date)} ${escapeHtml(t.time)}</td>
+                    </tr>
+                `;
+            }).join("");
+
+            renderPagination(data.page, data.total_pages);
+        }
+
+        function renderPagination(page, totalPages) {
+            const pBar = document.getElementById("paginationBar");
+            if (totalPages <= 1) {
+                pBar.innerHTML = "";
+                return;
+            }
+
+            pBar.innerHTML = `
+                <button class="page-btn" ${page <= 1 ? 'disabled' : ''} onclick="goToPage(1)">« First</button>
+                <button class="page-btn" ${page <= 1 ? 'disabled' : ''} onclick="goToPage(${page - 1})">‹ Prev</button>
+                <span class="page-info">Page <strong>${page}</strong> of <strong>${totalPages}</strong></span>
+                <button class="page-btn" ${page >= totalPages ? 'disabled' : ''} onclick="goToPage(${page + 1})">Next ›</button>
+                <button class="page-btn" ${page >= totalPages ? 'disabled' : ''} onclick="goToPage(${totalPages})">Last »</button>
+            `;
+        }
+
+        function goToPage(p) {
+            currentPage = p;
+            loadThreads();
+            window.scrollTo({ top: 120, behavior: "smooth" });
+        }
+
+        async function openThread(threadFile) {
+            document.getElementById("listView").style.display = "none";
+            const tView = document.getElementById("threadView");
+            tView.style.display = "block";
+            window.scrollTo({ top: 0, behavior: "smooth" });
+
+            document.getElementById("threadTitle").innerText = "Loading topic...";
+            document.getElementById("threadMeta").innerText = "Fetching thread records...";
+            document.getElementById("postsContainer").innerHTML = `<div class="loading-spinner">Loading posts...</div>`;
+
+            window.location.hash = `forum=${encodeURIComponent(currentForum)}&thread=${encodeURIComponent(threadFile)}`;
+
+            // 1. Try dynamic API first if available
+            try {
+                const res = await fetch(`/api/thread?forum=${encodeURIComponent(currentForum)}&id=${encodeURIComponent(threadFile)}`);
+                if (res.ok) {
+                    const data = await res.json();
+                    renderThread(data);
+                    return;
+                }
+            } catch (err) {
+                // Fall through to static .cgi file loader
+            }
+
+            // 2. Static .cgi loader for GitHub Pages
+            try {
+                const rawUrl = `../../2017/PFFCDVOL2/PFFCD%20VOL%202/Data/${encodeURIComponent(currentForum)}/${encodeURIComponent(threadFile)}`;
+                const res = await fetch(rawUrl);
+                if (!res.ok) throw new Error("Could not fetch static thread file");
+                const text = await res.text();
+                const forumObj = forumsList.find(f => f.id === currentForum);
+                const forumName = forumObj ? forumObj.name : currentForum;
+                const parsedData = parseCgiThread(text, currentForum, threadFile, forumName);
+                if (parsedData) {
+                    renderThread(parsedData);
+                } else {
+                    throw new Error("Failed to parse thread file format");
+                }
+            } catch (err) {
+                console.error("Failed to load thread statically:", err);
+                document.getElementById("postsContainer").innerHTML = `<div class="empty-state">Failed to load topic ${escapeHtml(threadFile)}.</div>`;
+            }
+        }
+
+        function parseCgiThread(text, forumId, threadFile, forumName) {
+            const lines = text.split(/\r?\n/);
+            if (!lines || lines.length === 0) return null;
+
+            const headerParts = lines[0].split("||");
+            const title = (headerParts.length > 4 && headerParts[4]) ? headerParts[4] : "Untitled Thread";
+            const author = (headerParts.length > 3 && headerParts[3]) ? headerParts[3] : "Unknown";
+
+            const posts = [];
+            for (let i = 1; i < lines.length; i++) {
+                const line = lines[i];
+                if (!line.startsWith("Z||")) continue;
+                const p = line.split("||");
+                if (p.length >= 7) {
+                    let rawBody = p[6];
+
+                    // Rewrite legacy PFF image and smiley URLs to relative local paths
+                    rawBody = rawBody.replace(/https?:\/\/(?:www\.)?fiero\.nl\/uploads\/([^\s"'<>]+)/gi, 
+                        "../../2017/PFFCDVOL2/PFFCD%20VOL%202/uploads/$1");
+                    rawBody = rawBody.replace(/https?:\/\/(?:www\.)?fiero\.nl\/forum\/(?:smilies\/)?([^\s"'<>]+)/gi, 
+                        "../../2017/PFFCDVOL2/PFFCD%20VOL%202/Images/$1");
+
+                    posts.push({
+                        id: p[1],
+                        author: p[2],
+                        date: p[3],
+                        time: p[4],
+                        body: rawBody,
+                        status: p.length > 8 ? p[8] : "Member",
+                        icon: p.length > 9 ? p[9] : "1"
+                    });
+                }
+            }
+
+            return {
+                forum_id: forumId,
+                forum_name: forumName,
+                thread_file: threadFile,
+                title: title,
+                author: author,
+                post_count: posts.length,
+                posts: posts
+            };
+        }
+
+        function renderThread(data) {
+            document.getElementById("threadTitle").innerText = data.title;
+            document.getElementById("threadMeta").innerHTML = `
+                Forum: <strong>${escapeHtml(data.forum_name)}</strong> &bull; 
+                Started by: <strong>${escapeHtml(data.author)}</strong> &bull; 
+                Total Posts: <strong>${data.post_count}</strong>
+            `;
+
+            const container = document.getElementById("postsContainer");
+            container.innerHTML = data.posts.map((p, idx) => {
+                const iconNum = p.icon || "1";
+                const avatarUrl = `${IMAGE_BASE}icon${iconNum}.gif`;
+                return `
+                    <div class="post-card" id="post-${idx}">
+                        <div class="post-user">
+                            <div class="post-username">${escapeHtml(p.author)}</div>
+                            <div class="post-status">${escapeHtml(p.status || 'Member')}</div>
+                            <img src="${avatarUrl}" onerror="this.style.display='none'" class="post-avatar" alt="Avatar">
+                        </div>
+                        <div class="post-content-box">
+                            <div class="post-header">
+                                <span>Posted: ${escapeHtml(p.date)} at ${escapeHtml(p.time)}</span>
+                                <span>#${idx + 1}</span>
+                            </div>
+                            <div class="post-body">
+                                ${p.body}
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join("");
+        }
+
+        function showListView() {
+            document.getElementById("threadView").style.display = "none";
+            document.getElementById("listView").style.display = "block";
+            window.location.hash = `forum=${encodeURIComponent(currentForum)}`;
+        }
+
+        function updateHash() {
+            window.location.hash = `forum=${encodeURIComponent(currentForum)}`;
+        }
+
+        function parseHash() {
+            const hash = window.location.hash.substring(1);
+            if (!hash) {
+                loadThreads();
+                return;
+            }
+            const params = new URLSearchParams(hash);
+            const forum = params.get("forum");
+            const thread = params.get("thread");
+
+            if (forum && forum !== currentForum) {
+                currentForum = forum;
+                renderForumTabs();
+            }
+
+            if (thread) {
+                openThread(thread);
+            } else {
+                showListView();
+                loadThreads();
+            }
+        }
+
+        function escapeHtml(str) {
+            if (!str) return "";
+            return str
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+        }
+
+        init();
+    </script>
+</body>
+</html>

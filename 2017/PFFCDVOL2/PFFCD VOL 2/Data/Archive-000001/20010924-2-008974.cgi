@@ -1,0 +1,2 @@
+A||||0||MoneypitGT||T-Tops to Non T-Tops verdict?||||5||
+Z||000000||MoneypitGT||03-15-2001||11:11 PM||||Nevermind, didn't see the post down below...<BR>Chris<BR>   DUH DUH DUH<BR>------------------<BR><B>Check out my site at:</B> <A HREF="http://www.geocities.com/fieroproject" TARGET=_blank>www.geocities.com/fieroproject</A> <BR>2 '87 GT Projects<P><p>[This message has been edited by MoneypitGT (edited 03-15-2001).]||||reg||5

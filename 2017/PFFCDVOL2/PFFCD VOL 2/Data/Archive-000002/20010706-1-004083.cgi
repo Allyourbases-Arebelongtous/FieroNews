@@ -1,0 +1,2 @@
+A||N||0||Haze_Performance||Coming soon #1500||||1||
+Z||000000||Haze_Performance||10-22-2000||08:14 PM||||Take a look at the amount of members.. Its 1499...   Soon to hit the big 1500..  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>      <IMG SRC="http://www.fiero.nl/uploads/2d_00010aa3.gif"> <BR><B>Website's  <A HREF="http://www.WS6Fiero.com" TARGET=_blank>www.WS6Fiero.com</A>-                  <A HREF="http://www.hazeperformance.com" TARGET=_blank>www.HazePerformance.com </A></B>||||reg||1

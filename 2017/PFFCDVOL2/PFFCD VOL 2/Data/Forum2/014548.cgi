@@ -1,0 +1,4 @@
+A||||2||FieroRacer||Tranmission Modulator Valve||||1||
+Z||000000||FieroRacer||10-18-2001||06:24 PM||||AAF newsgroup told me my tranmission modulator valve could've went bad on me and that's causing the TH125 to slip and cause a nice layer of oil sludge on the case and bell housing.  Anyone know what this peice looks like, where it's at, and how to check it?||||reg||1
+Z||000001||theogre||10-18-2001||06:58 PM||||there is no modulator in a TH125...........<P>exterior oil is a seal failure. inside the bell housing could be rear main of engine or transmission seals or both.<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/forum/fullstaff.gif">  <FONT COLOR="blue"><I><B>11-Sept-01, The day the world as we knew it ended.</B></I></FONT>||||reg||1
+Z||000002||FieroRacer||10-18-2001||10:45 PM||||Well drat, that wasn't what I was hoping to hear.  I guess that would explain why I couldn't find the stupid thing.||||reg||1

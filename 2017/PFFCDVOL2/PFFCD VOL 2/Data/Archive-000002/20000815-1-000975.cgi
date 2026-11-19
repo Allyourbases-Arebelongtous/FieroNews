@@ -1,0 +1,3 @@
+A||||1||fierosound||Fiero Owner's Location Database||||14||
+Z||000000||fierosound||01-13-2000||06:47 PM||||Mr. Mike's interiors is kindly sponsoring Fiero Owners Location Database. There's even provision to include your own webpage information.<P> <A HREF="http://www.mrmikes.com/fold/fold.htm" TARGET=_blank>http://www.mrmikes.com/fold/fold.htm</A>  <P>I found this useful in connecting with Fiero owners in my city (Calgary, Canada) using the search function. Any of you that haven't already gone here, may want to check it out. Thanks...<BR>||||reg||14
+Z||000001||william_thorniii||01-13-2000||06:55 PM||||FOLD is great.  I signed up long ago.  It has helped me contact other Fiero owners in my area.  <P>William T. Thorn, III||||reg||3

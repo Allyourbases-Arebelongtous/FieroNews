@@ -1,0 +1,7 @@
+A||||5||Homicidal||Making stock rims look BETTER????||||1||
+Z||000000||Homicidal||05-14-2000||03:28 AM||||I got the stock rims on my Fiero.  What metal alloy are they?  Aluminium?  I got them to shine pretty good using Mother's Paste, but they still are a bit faded.  Anybody got any tips on making my rims looks shinier?||||reg||1
+Z||000001||2M4 Dale||05-14-2000||10:38 AM||||Use a heavier/courser grade of polish and keep on rubbin', stepping down to finer grades as you go. It's a lot of work, but it's worth it.||||reg||7
+Z||000002||Oreif||05-14-2000||08:06 PM|||| <A HREF="http://www.tir.com/~jaski/wheel.htm" TARGET=_blank>http://www.tir.com/~jaski/wheel.htm</A> <P>The above link is the best way to get your wheels to look like chrome! I am using this to refinish a set of GT wheels.||||reg||6
+Z||000003||Boxdin||05-16-2000||12:22 PM||||On my Formulas, I took the wheels to the local powder coater, and had them stripped. Then I polished the outer rim with Mothers, and they look perfect.  Total cost was 50.00, and the natural silver centers look much better than black. In New Mexico, we have no corrosion, some of you in rougher climates might not be able to leave them natural. ||||reg||6
+Z||000004||Phil||05-16-2000||12:50 PM||||Boxdin<BR>Power Tour is going to be in Albuquerque on Sat June 3 (arr. 3;30) Stop in and say Hi||||reg||1
+Z||000005||Homicidal||05-16-2000||04:53 PM||||Mine are ALREADY silver!  They are the classic Pontiac "swirl" style.  I got them to shine a little, but I want them to REALLY glint.||||reg||1

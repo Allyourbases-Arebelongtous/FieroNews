@@ -1,0 +1,5 @@
+A||||3||ka4nkf||Windshield Wipers
+Z||000000||ka4nkf||05-26-99||08:49 AM||||My Windshield Wipers At Random Will Wipe One Time At Start Up, And Lots Of Times When I Use The Turn Signals. Does Anyone Know The Problem Or Cure.
+Z||000001||theogre||05-26-99||09:22 AM||||sounds like the turn stalk is worn out. when you push it for turning it makes intermitant contact in the wiper switch. I'd start with that. than if you still get the one when you turn the key, check out the delayer box. It might need some work too.<p>I forget just off hand if you need to take off the sterring wheel to fix the stalk or not. You probably will need to take the trim from under the dask off in order to get to the conectors.
+Z||000002||PaUL||05-26-99||05:11 PM||||Fortunately GM used almost the exact same steering column in all their cars in the 80s and 70s. It shouldnt be to hard to find a replacement at a junkyard.
+Z||000003||Howard||05-27-99||11:06 AM||||i had this same problem, it was the ground for the turn signal, i just added a new ground and it was fixed. When a ground goes bad, the current looks for the next shortest<br>path.

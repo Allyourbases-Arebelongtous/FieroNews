@@ -1,0 +1,5 @@
+A||N||3||WhiteWolf||keeps dieing||||9||
+Z||000000||WhiteWolf||09-13-2001||07:42 PM||||Sorry if this has already been addressed but the other day after driving the ol' 85 2m4 i came off the highway to a stop and my fiero died.. ever since then it won't idle just die.. any ideas or suggestions?  I've already checked the plugs, cap, rotor, air filter, oil and simple things but now I'm at a loss.... Thanks||||reg||9
+Z||000001||Leadfoot||09-13-2001||08:04 PM||||I read a thread that said if the speedo is not working then the car will not idle.  I guess it's some sort of feature implemented by GM.  <IMG SRC="http://www.fiero.nl/forum/smiley_bs.gif">||||reg||1
+Z||000002||Hank is Here||09-13-2001||08:10 PM||||check the TCC, could it be locked just causing the car to stall?||||reg||1
+Z||000003||Jake_Dragon||09-13-2001||08:31 PM||||My 85 ran fine without a speedometer, the torque converter didn’t lock but other than that it ran fine.<BR>I replaced it and now I drive a lot slower.<BR> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>||||reg||1

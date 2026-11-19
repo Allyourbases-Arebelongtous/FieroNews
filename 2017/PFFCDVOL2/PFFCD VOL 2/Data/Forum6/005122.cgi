@@ -1,0 +1,5 @@
+A||||3||maryjane||Before we celebrate the New Year..||||1||
+Z||000000||maryjane||12-31-2001||02:49 PM||||Let's take a few minutes to remember 2001<BR> <IMG SRC="http://www.fiero.nl/uploads/pic07376.jpg"> ||||reg||1
+Z||000001||Sage||12-31-2001||04:12 PM||||I think it's a safe bet that moment will be remembered for the remainder of recorded history.  I do understand what you are saying and am with you.<P>Here's hoping the new year will move us all closer together toward mutual benefit in maintenance of the planet. <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>PAX||||reg||1
+Z||000002||California Kid||12-31-2001||05:06 PM||||...<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/californiakidsig_2.gif"> ||||reg||1
+Z||000003||West Coast Fiero||12-31-2001||05:12 PM||||Hopefully by the end of 2002, we will be remembering the time when we nuked Osama<P>------------------<BR> <IMG SRC="http://clubs.hemmings.com/fieroswest/WestCoast300.gif"> <BR>Eric Nelson<BR>Technician,<BR>West Coast Fiero<BR>www.cwestco.com<BR>310-305-4111||||reg||1

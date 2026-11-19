@@ -1,0 +1,5 @@
+A||||3||DXR_DAD||TO: MOTORHEAD (sail panels)
+Z||000000||DXR_DAD||06-01-99||09:18 PM||||I second that plug for Paul, Just got a set today and they are *$#@* good, and priced right. My baby was in need of some bad.<br>just could not bring myself to pay the fiero store price. thanks for info.<p>Ok, in prep stage as we speak so I got go.<p>THANKS
+Z||000001||Eric||06-02-99||12:18 PM||||Are you guys talking about GT windows or notchback windows?  In any case, I need some new GT windows.  The right side was broken when I bought the car and now the left side has a huge crack in it.  The price for a new set is around $300 most places.  I would be satisfied with replicas if the price was right.  Any clues?
+Z||000002||Motorhead||06-02-99||02:13 PM||||The panels this gentleman makes are for the notchback. He doesn't do fastbacks. Best way to save money is keep searching the junkyards.<p>Sorry not more help!
+Z||000003||burdell1||06-03-99||07:13 AM||||The best place to go is a website ran by Paul McKibben at htp://www.angelfire.com/biz/fierosails/. He makes the plexiglass outer part really cheap ($60 for two) and he backs up his product too.

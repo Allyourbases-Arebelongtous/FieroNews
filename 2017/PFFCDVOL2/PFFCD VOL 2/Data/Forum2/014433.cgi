@@ -1,0 +1,3 @@
+A||||1||FieroBUZZ||Fuel Pump About to Fail?||||5||
+Z||000000||FieroBUZZ||10-14-2001||09:49 PM||||86 GT 2.8... Heard the fuel pump grinding/howling for a minute after a warm start yesterday.  The car seems to be thirsty, and getting 'smoke' from the pipes at idle.  Are these signs of the fuel pump giving up the ghost?<BR>Gary||||reg||5
+Z||000001||Bluebottlejunky||10-14-2001||10:01 PM||||hmm, sounds like the fuel pump!..mine did that, it got really loud, then one day.bammmo..no fuel pump! car died.  I have a brand new AC delco fuel pump/strainer/filter/gaskets.  If you find out what that truly is the pump..send me an e-mail Killerredgt@cs.com<P>------------------<BR>Mike<BR>85'GT 4sp<BR>AIM: <B>KilleRedGT</B>||||reg||1

@@ -1,0 +1,7 @@
+A||N||5||COUNTIBLIS||It was a good day for the Fiero!||||14||
+Z||000000||COUNTIBLIS||12-14-1999||11:22 PM||||Just wanted to say I saw 3 Fiero's today vs 2 MR2's. The day went to the Fiero, and one was a GT!||||reg||14
+Z||000001||Monkeyman||12-15-1999||01:12 AM||||It's always a good day for Fieros.  The only exception was the day they discontinued them.  That's it.  It's always a good day for Fieros.  (Did I already mention that?! <IMG SRC="http://www.fiero.nl/forum/smile.gif">)||||reg||1
+Z||000002||Wolfhound||12-15-1999||05:39 AM||||Is I just me or do you tend to see more Fieros when you are in another car. I almost never see a Fiero when I,m driving mine.||||reg||5
+Z||000003||fiero56||12-15-1999||08:44 AM||||I'll go with that. The last three weeks, I haven't had my Fiero. These are the only three weeks that I've ever seen at least one Fiero a day. I don't wave to them since I'm not in mine, they might think I'm "weird" <IMG SRC="http://www.fiero.nl/forum/wink.gif">.<P>Anyone else wave to other Fiero drivers when you're in "the Fiero"?||||reg||1
+Z||000004||Wolfhound||12-15-1999||08:51 AM||||I usually wave before I realize I,m not in mine, they just have to go ahead and think I,m wierd. Anyway there is a local debate as to whether this is the case or not.||||reg||7
+Z||000005||Monkeyman||12-15-1999||04:20 PM||||Everyone around here already knows I'm wierd, so I'm set.  Most people just think they must know me when I wave.  They get a little scared though when I start to drool.||||reg||1

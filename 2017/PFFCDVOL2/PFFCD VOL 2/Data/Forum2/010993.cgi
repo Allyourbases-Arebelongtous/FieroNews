@@ -1,0 +1,3 @@
+A||||1||isthiswhereiputausername?||rust behind batterycase ?||||9||
+Z||000000||isthiswhereiputausername?||06-04-2001||04:45 PM||||My car was garaged  for 3 years, just took it out recently, Behind my battery (the infamous rusting area) and the other side above my gas filler pipe is all rusted (actually a hole there underneath the insulation)<BR>Question is..  How solid is the frame there?  Should I pull off my rear panels and reinforce the frame or would it ever move?<P>Its not rusted all the way through..just want to do this as a preventive if needed.<P> Thanks!..<P><BR>84SE with a 2.8L<P><BR>||||reg||9
+Z||000001||84Bill||06-04-2001||05:20 PM||||Rust no matter where it is and how big of an area it may be, it's a baaaaaaad thing.||||reg||1

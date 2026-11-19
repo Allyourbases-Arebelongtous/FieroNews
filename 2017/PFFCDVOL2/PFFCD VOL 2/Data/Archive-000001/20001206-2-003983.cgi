@@ -1,0 +1,5 @@
+A||N||3||burdell1||Oil leaking from tube||||1||
+Z||000000||burdell1||05-28-2000||03:35 PM||||There seems to be oil leaking from a tube that is coming out of the front valve cover (it is parallel to the rear valve cover where the PCV valve is at.) I'm not sure what this tube is; I'm not even certain if there is oil leaking from this tube, but there is oil on it. What is this tube for? can it be easily replaced?||||reg||1
+Z||000001||theogre||05-28-2000||04:06 PM||||PCV intake by the sound of it. replace it's grommit and see if that stops it. other wise you can clamp it as long as the tubing isn't split. don't overtighten the clamp.||||reg||1
+Z||000002||burdell1||05-30-2000||03:39 PM||||what is the difference between the PCV intake and the PCV valve?||||reg||1
+Z||000003||theogre||05-31-2000||11:00 AM||||PCV intake is the line that brings filtered ait into the motor.<P>PCV outlet and valve scavenge vapors out of the crank case and pass them to the intake to be burned. PCV valve in this line regulates the flow rate/time of the process. If it was just an open line you'd have the effect of a giant vacuum leak.||||reg||1

@@ -1,0 +1,6 @@
+A||||4||p4n1c||ATTN: London'ers... NOS Reproductions||||1||
+Z||000000||p4n1c||06-14-2001||07:51 PM||||I was wondering if any of you have heard of or had experience with this place?  <P>I got a total reproduction of my cars interior carpet(including heel pads under the pedals, supposedly heat molded) from them.  But I haven't seen it yet, my dad has it at their place.  <P>------------------<BR>-=-=-=[ p4n1c ]=-=-=-<BR>1988 Olds Cutlass Supreme International<BR>2.8L MPFI V6/TH440-T4 OD auto<BR>"Ride the geriatric mobile.. err..  rocket"||||reg||1
+Z||000001||Urchin||06-14-2001||09:41 PM||||never heard of the place, but let me know how it turns out.  I might have to check it out myself <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/signature2_3.jpg">   <P>If you can read this, I'm parked.||||reg||1
+Z||000002||p4n1c||06-14-2001||09:43 PM||||Yeah man, they seem to have a lot of restoration stuff.  I'll probably be going back for a lot more stuff if the carpet turns out.  I'll let you all know when I install it.  And take some pics.||||reg||1
+Z||000003||Urchin||06-14-2001||09:45 PM||||Ya, definatly post some pics!  Do you know if they reapolster seats too, or anyone else who does in the area?||||reg||1
+Z||000004||p4n1c||06-14-2001||09:47 PM||||I don't know about seats.  Next time I talk to my dad I'll ask him to look in the catalog.||||reg||1

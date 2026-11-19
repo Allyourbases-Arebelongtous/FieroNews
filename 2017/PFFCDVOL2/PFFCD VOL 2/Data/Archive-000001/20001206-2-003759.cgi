@@ -1,0 +1,5 @@
+A||N||3||gmata||High RPM||||11||
+Z||000000||gmata||05-15-2000||01:59 PM||||I just bought my a 1986 Fiero GT.  I had some engine work done to it, including a tune-up.  I noticed that my RPMs are high while driving over 60 mph.  At 60 mph, the rpm gauge registers 4000!!!  The engine doesn't sound like it is struggling.  Could it be my gauge?  <P>||||reg||11
+Z||000001||mshill||05-15-2000||06:51 PM||||Unless someone switched in a tranny with a different gear ratio something is amiss... at 3000 rpm my 86SE V6 4 speed is doing just under 70 mph. <P>You didn't mention whether it was a stick or auto????||||reg||1
+Z||000002||GT Bastard||05-15-2000||07:02 PM||||If it's registering 4 grand and your motor isn't working hard, then more than it's off.  Check the tach filter by the distributor and also the connector on top of the ignition coil nearest the back of the car.  That plug will directly affect the function of your tach.||||reg||1
+Z||000003||DRH||05-15-2000||07:04 PM||||Maybe someone put a 4 cyl tach in it???||||reg||5

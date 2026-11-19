@@ -1,0 +1,3 @@
+A||N||1||trigger||problems with power||||1||
+Z||000000||trigger||07-25-2000||09:13 PM||||Hi,<BR>I tried to install my power trunk release today and it doesn't work.  It is from an 84 and my car is an 88.  It is not getting power to the solenoid.  How can I test the components?  What should I look for?  Thanks.||||reg||1
+Z||000001||fiero56||07-25-2000||09:55 PM||||For the solonoid to work, you need a 4-wire "wheather pak" for '87-'88 Fieros. This plugs into the existing "weather pak" near the passenger side deck hinge. You will see 4 wires out the cabin side, and 3 wires running into the decklid. Pull out the 3 wire harness, and run a 4 wire harness through.<P>Ogre has an article at the bottom of this page.||||reg||1

@@ -1,0 +1,5 @@
+A||||3||Loki||Coolant sensor plug||||1||
+Z||000000||Loki||03-02-2001||08:26 PM||||On my new Fiero the engine was rebuilt and they didnt add the coolant sensor back..It has the plug and I have a sensor. Anyone know what size bit/tool I need to remove plug?<P><P>------------------<BR>Loki<BR>ICQ# 16477998<BR>   <IMG SRC="http://members.home.net/loki137/loki5.jpg">  <BR> <IMG SRC="http://cwm.ragesofsanity.com/s/net4/headshot.gif"> ||||reg||1
+Z||000001||Loki||03-03-2001||12:06 AM||||Anyone? Im hoping to try this tommorow but need to know what size.....<P><P>------------------<BR>Loki<BR>ICQ# 16477998<BR>   <IMG SRC="http://members.home.net/loki137/loki5.jpg">  <BR> <IMG SRC="http://cwm.ragesofsanity.com/s/net4/headshot.gif"> ||||reg||1
+Z||000002||bubbajoexx||03-03-2001||12:13 AM||||usually 7 mm hex key||||reg||1
+Z||000003||Indiana_resto_guy||03-03-2001||12:16 AM||||If it's recessed square hole, use a 3/8" drive ratchet with a short extension. If it's a square protruding type plug, keep looking for a wrench that will fit the best or if you have the room use an adjustable wrench on it.||||reg||1

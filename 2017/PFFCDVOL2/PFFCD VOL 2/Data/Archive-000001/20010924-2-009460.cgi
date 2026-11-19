@@ -1,0 +1,5 @@
+A||||3||William||torque specs   chilton vs haynes||||1||
+Z||000000||William||04-06-2001||03:42 PM||||Anyone notice that they do not match? The specs for the front susp vary greatly. I.E. the chilton spec for the lower shock bolt is 20ftlbs. The haynes book lists it at 50ftlbs. Many of the haynes specs are double the value listed in the chiltons. Whats a boy to do? Sounds like my old method of guessing is best.||||reg||1
+Z||000001||filthyscarecrow||04-06-2001||05:35 PM||||the chilton manual agrees with the helms/GM dealer manual, and that's the only one i'd trust. front shock bolt= 20 lb.ft. ||||reg||1
+Z||000002||William||04-06-2001||05:43 PM||||Hey was that the upper or lower shock bolt? the haynes shows 20 for the upper bolt and the chilton shows 20 for the lower bolt?||||reg||1
+Z||000003||theogre||04-06-2001||07:52 PM||||check partsamerica.com<P>in with the parts listing are a bunch of otherthings. The allot of torque specs and brake rotor resurfacing info is in there. That might help you decide what number to use.||||reg||1

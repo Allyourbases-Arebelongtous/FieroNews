@@ -1,0 +1,4 @@
+A||||2||DaveL||87-88 2.5 Interchangeable?||||5||
+Z||000000||DaveL||06-22-2001||09:46 AM||||I'm looking at  replacing engine on my 87 2.5 SE. Have access to an 88 engine, can I use it? Whats different.||||reg||5
+Z||000001||KRMFiero||06-22-2001||11:28 AM||||I am not 100% positive but i am pretty sure that the 87 and 88 are the same engines, both distrubuter less... they 88 engine i would think is a direct bolt/plug in?  anyone know if i am right? no?<P>Kyle||||reg||1
+Z||000002||theogre||06-22-2001||07:42 PM||||88 should drop in w/o modification. Only real diference is the balance unit and the oil filter in the pan. Make sure the filter plug is good. You may need a special wrench to remove it if there is damage.<P>If the plug is bad check Grand Am and Olds Cutlass Calais for replacements. Same motor, just FWD.<p>[This message has been edited by theogre (edited 06-22-2001).]||||reg||1

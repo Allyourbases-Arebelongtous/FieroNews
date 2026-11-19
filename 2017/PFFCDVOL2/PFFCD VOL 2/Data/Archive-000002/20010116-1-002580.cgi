@@ -1,0 +1,3 @@
+A||N||1||Fiero5||Gold 86 Fiero for sale||||10||
+Z||000000||Fiero5||06-17-2000||09:13 PM||||We have 8 Fiero's and need to make some room. I am going to let this one go to free up some space, so my loss is your gain. It's a base model 86 5 speed 4 cyl with just over 100,000 miles. I just had the clutch replaced at over $600. and the crank case gasket replaced at $200. The Gold paint is starting to fade to silver over the back, but it is so even and gradual it looks like it was painted that way. She is still very shiny and a sweet car, with a very smooth ride. Asking $1200. or BRO<BR>Steve||||reg||10
+Z||000001||Monkeyman||06-18-2000||02:03 PM||||Try the Mall section.||||reg||1

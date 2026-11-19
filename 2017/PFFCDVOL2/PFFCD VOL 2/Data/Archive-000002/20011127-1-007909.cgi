@@ -1,0 +1,4 @@
+A||||2||btoth||Just got a digital camera... pic of car||||10||
+Z||000000||btoth||06-04-2001||06:14 PM||||I just got a new Canon Digital Elph S100 camera, so naturally the fist thing I took a picture of was my car.  Car needs some work, as do my photography skills.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P> <IMG SRC="http://www.fiero.nl/uploads/btoth-fiero(small).jpg"> ||||reg||10
+Z||000001||Urchin||06-04-2001||06:28 PM||||Nice car!   I gotta get a digital<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/signature2_3.jpg">   <P>If you can read this, I'm parked.||||reg||1
+Z||000002||88CoupeV6||06-04-2001||06:37 PM||||Wow, I love your Black GT<P>------------------<BR>Josh <B>(known by TheFiero64 for first 1239 posts)</B><BR>     <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg">    <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||7

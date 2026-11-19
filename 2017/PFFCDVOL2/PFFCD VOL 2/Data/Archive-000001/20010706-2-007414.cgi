@@ -1,0 +1,4 @@
+A||||2||JohnnyK||Agggg! Clutch fluid going down!!||||1||
+Z||000000||JohnnyK||12-19-2000||11:18 AM||||I can't freakin take it anymore! the Clutch fluid reservoir is down to the low mark now! New clutch, new clutch lines!! The master cylinder doesn't look to be losing any fluid! I had to custom make the clutch line though. I hope it's not leaking at the couplers! Anyone have any ideas?!||||reg||1
+Z||000001||DRH||12-19-2000||01:21 PM||||If the master cylinder seal goes bad it leaks INSIDE the car. Look for signs of leakage under the dash. Soggy carpet padding is a dead give away...||||reg||1
+Z||000002||JohnnyK||12-19-2000||05:12 PM||||I got two feet of snow man. The carpets drenched... Unfortunately (fortunately?), none is from the master cylinder. What about the slave? What are the signs of that?||||reg||1

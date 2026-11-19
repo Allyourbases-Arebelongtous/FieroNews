@@ -1,0 +1,6 @@
+A||||4||Homicidal||How much does a front plate for your car cost?||||1||
+Z||000000||Homicidal||06-23-2000||02:45 AM||||Gotta go down in the morning to the DMV to get a front plate for my car.  Don't know how much to take with me!<P>I already am registered, but I never got 2 plates.  How much does this normally run?||||reg||1
+Z||000001||Monkeyman||06-23-2000||11:08 AM||||I live in one of the sane states that only gives you one plate (Indiana), but my wife and some of my friends are from OH.  I don't remember it costing my wife anything extra for the second plate.  Can I assume you don't have a choice?  Why would it cost more?||||reg||1
+Z||000002||lennyb4||06-23-2000||11:18 AM||||Homicidal.. I live in Ohio and they always give you two plates. If your in Ohio you cant just get a new front plate. You will have to get both new plates ($45.00 + e-check).||||reg||1
+Z||000003||Homicidal||06-23-2000||01:11 PM||||Heh, I only paid $8.  ||||reg||1
+Z||000004||Monkeyman||06-23-2000||04:54 PM||||lennyb4--You don't necessarily have to get an echeck.  Depends on when you had the last one, year of car, if it's a new reg or renewal, etc.  but I know what you mean.<P>Homicidal--It might help if you told us where you're from.  There are alot of us either from Ohio or with connections in Ohio.  We can't help you if you live somewhere else.||||reg||1

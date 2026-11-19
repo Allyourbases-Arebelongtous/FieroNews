@@ -1,0 +1,3 @@
+A||||1||Philphine||windfall||||1||
+Z||000000||Philphine||01-27-2001||04:08 PM||||as a perfect attendance incentive i got $250 (not that i need incentive. i've already found out i can't get them to pay me unless i show up). however, it's only good at one of the local malls. <P>i usually don't go to malls. get my black jeans at a local discount store and wear work shirts and t-shirts from various trips and local events (running usually).<P>not much interesting there if you're not into clothes. i'm thinking two cheap 19" tv's, as the start of a multimedia set up.<BR> <BR>what would you get?<BR>||||reg||1
+Z||000001||rogergarrison||01-28-2001||12:06 PM||||digital camera !!!!! for taking to car shows.||||reg||1

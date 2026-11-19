@@ -1,0 +1,3 @@
+A||||1||CUTTER||87fieroGT  Vs.   91 MR2 (non-turbo)||||1||
+Z||000000||CUTTER||07-16-2000||09:58 PM||||a guy wants to race me at the racetrack next week with his MR2 (non-turbo) its a 91 2nd generation. Its all stock. T-Tops and wants to race 1/4 mile, he also has a 5 spd. I have a 87GT auto. Who should win?||||reg||1
+Z||000001||ChadMan||07-17-2000||09:36 AM||||I think it'll be close.  If he's really good with a stick, him.  If your reaction time is great, you.  He has no torque and you have plenty!<P>I drove a 91 non-turbo MR2 - the ass-o-meter said it was quite a bit slower than my 4-sp 86 SE, but would be really close with my father-in-law's automatic 86 SE.  (Needless to say Mister Two would eat my 88 Coupe for breakfast.)||||reg||1

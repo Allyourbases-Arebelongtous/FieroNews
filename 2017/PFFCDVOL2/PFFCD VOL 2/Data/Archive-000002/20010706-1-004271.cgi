@@ -1,0 +1,6 @@
+A||||4||FIEROCIOUS||TEST  ignore||||1||
+Z||000000||FIEROCIOUS||11-06-2000||12:13 AM||||My Fiero GT  <IMG SRC="http://www.fiero.nl/uploads/fierobckside.JPG"> ||||reg||1
+Z||000001||onfire||11-06-2000||12:32 AM||||Something that nice you can't ignore. <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>    <IMG SRC="http://homestead.deja.com/user.on_fire/files/onfirepff.JPG">   <BR>  <A HREF="http://homestead.deja.com/user.on_fire/on_fire.html" TARGET=_blank><B>Check out my little waist of bandwidth onfire</B></A>||||reg||1
+Z||000002||TheFiero64||11-06-2000||11:20 AM||||Sorry, The temptation was too great. I am glad I looked. That GT looks Sweet  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif"> ||||reg||10
+Z||000003||Tigger||11-06-2000||11:26 AM||||Sweet Gee Tee, you got me! <P>------------------<BR>T-T-F-N, Tah Tah For Now!<BR>  <IMG SRC="http://www.fiero.nl/uploads/tiggerblue.gif"> ||||reg||11
+Z||000004||FIEROCIOUS||11-06-2000||01:14 PM||||I was trying the image poster for the first time before I posted it in the mall. I couldn't figure out how to do it for the longest time! Sorry, I made ya look! LOL||||reg||1

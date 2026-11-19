@@ -1,0 +1,2 @@
+A||||0||Greg Piet||I Wub you folks||||1||
+Z||000000||Greg Piet||11-26-2000||01:52 AM||||Went looking through the archives for a little info (primarily axle seal replacement) and I found detailed descriptions!<P>Thanks all for making this a Kick Butt site!<P>Lately I have been in a pissing contest with a friennd as to whether his RX-7 UBB site is better than PFF, and now PFF is definately the winner!||||reg||1

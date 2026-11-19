@@ -1,0 +1,3 @@
+A||||1||Philphine||archie or someone...gt tail light conversion||||1||
+Z||000000||Philphine||05-11-2001||03:15 PM||||<BR>i read archie has done it, but i'm wondering if someone was looking at that purple pavement eater and thinkng he had.<P>archie, have you? if you don't want to give out the details ok, but i'd just like to know if it's something doable if i come across the parts.<P>or maybe if anyone else has done it, i'd like to know.||||reg||1
+Z||000001||Wolfhound||05-12-2001||08:29 AM||||The Purple Pavement Eater started as a GT and was made a notch back during the chop retaining the GT tail lights.||||reg||1

@@ -1,0 +1,2 @@
+A||||0||HYPTNOTiSE||New Coil-over conversion kits for sale!||||1||
+Z||000000||HYPTNOTiSE||11-09-2000||12:49 PM||||In the For Sale section. <A HREF="http://www.fiero.nl/forum/Forum4/HTML/001698.html" TARGET=_blank>http://www.fiero.nl/forum/Forum4/HTML/001698.html</A> <P>CHECK IT OUT!<P>------------------<BR>       Mike LeCompte<BR>86 Fiero GT 3.2L w/ Nitrous<BR>  <IMG SRC="http://www.tcac.net/~daddyg/hypsig.gif"> ||||reg||1

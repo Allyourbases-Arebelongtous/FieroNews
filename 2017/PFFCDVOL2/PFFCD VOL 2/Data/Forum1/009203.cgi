@@ -1,0 +1,4 @@
+A||||2||8Ball||Autostick in a Fiero??||||1||
+Z||000000||8Ball||08-01-2001||11:32 PM||||I was just curious if Anyone has ever put an autostick in a Fiero?? I was kind of thinking that someday in the future, how cool it would be.<P>I wonder how much trouble it would be to do.<P>Anything is possible but is it really plausable?<BR>||||reg||1
+Z||000001||saleenfiero||08-02-2001||02:23 PM||||You probably need to match a Dodge transaxle up.  Everyone can imagine that it would be a real big hassle.  The coolest I'm thinking would be Ferarri 360 paddle style shifters (but that would cost more than 10 fieros to do probably)||||reg||1
+Z||000002||Jay||08-02-2001||04:08 PM||||Only 10 Fieros?  Try a couple hundred! <IMG SRC="http://www.fiero.nl/forum/smile.gif">  But that would be sweet!!!!<P>------------------<BR>Jay<BR>1986 Northstar GT<BR>www.members.home.net/jaygrande<BR> <IMG SRC="http://www.fiero.nl/uploads/cayuga3_3.jpg"> ||||reg||1

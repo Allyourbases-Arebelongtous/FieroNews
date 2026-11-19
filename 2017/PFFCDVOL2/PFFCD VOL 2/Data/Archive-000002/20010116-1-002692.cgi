@@ -1,0 +1,8 @@
+A||N||6||Haze_Performance||Headliner Question||||1||
+Z||000000||Haze_Performance||06-25-2000||03:40 AM||||I have an 85..so I dont have a 3rd brake light. Do I need a diffrent headliner to install one? ||||reg||1
+Z||000001||Gokart||06-25-2000||06:16 AM||||I would imagine so because there is a cut out for it in the board as well as the sunroof handle. If you want to put in a 3rd brake light I have one to sell. Wait till you see how much fun it is to get the sunvisors back in...pain in the A$$ <IMG SRC="http://www.fiero.nl/forum/mad.gif">||||reg||2
+Z||000002||Monkeyman||06-25-2000||10:14 AM||||You can cut out the notch for the 3rd brake light easily.  <P>Gokart--I don't plan on putting my visors back in.  I'm tall enough that I can't use them.  Either they need to be all the way down or all the way up otherwise you can get a serious dent in your forehead if you get in a wreck.||||reg||1
+Z||000003||coyote||06-26-2000||02:49 PM||||Haze:<BR>you can cut it easily enough, however i would caution you to even start playing with it, most headliners look good until you start moving it around, they tend to fall apart upon removal.<P>coyote||||reg||1
+Z||000004||Gokart||06-27-2000||08:53 PM||||Monkey, if your that tall maybe you shouldn't replace the hanger holders as well. Could you imagine the blow to the back of your head from one of these if hit hard enough in the rear <IMG SRC="http://www.fiero.nl/forum/eek.gif">||||reg||12
+Z||000005||Monkeyman||06-27-2000||09:47 PM||||My head comes no where near the clothes hooks, but thanx for the concern. <IMG SRC="http://www.fiero.nl/forum/smile.gif">  I've never liked sun visors.  Don't know why.||||reg||1
+Z||000006||Formula||06-27-2000||09:51 PM||||2000th post WOHOOOOOOOO GC only||||reg||1

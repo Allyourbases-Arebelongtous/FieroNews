@@ -1,0 +1,4 @@
+A||N||2||Elenor84||Removing Lugage rack?||||1||
+Z||000000||Elenor84||01-21-2001||03:29 AM||||Hello, I have been seeing alot of pictures of fiero's with no lugage rack..and it looks hot!  I want to do it to my car but I was just wondering how and if there would be holes in it from the rack?<BR>thX!<P>------------------<BR>Lance||||reg||1
+Z||000001||Monkeyman||01-21-2001||07:06 AM||||I think there are 8 holes (I'll check later).  You'd have to fill the holes in.||||reg||1
+Z||000002||theogre||01-21-2001||11:55 AM||||at least 10 holes. 2 per rack section.<P>Choice of filler material has to be done carefully. The deck lid gets temperatures of 150-200F easily in hot weather. Since you have to repaint after the rack is off anyway, I'd recomend using another deck lid to eliminate the holes poping open again. ||||reg||1

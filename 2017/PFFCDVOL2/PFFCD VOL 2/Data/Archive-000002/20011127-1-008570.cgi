@@ -1,0 +1,2 @@
+A||||0||BC-GT||Please reconsider||||9||
+Z||000000||BC-GT||07-03-2001||08:40 PM||||Cliff, you gotta do what you gotta do, but reconsider opening at a later date. Take some time off or something. I'm not gonna beg because once I make up my mind it's usually final but????<P>------------------<BR>Darryl Martin<BR>1985 GT <BR>  <IMG SRC="http://www.zing.com/picture/pf251a969c96964ef15691e97e7ac4489/feb64e3a.jpg.orig.jpg"> ||||reg||9

@@ -1,0 +1,6 @@
+A||||4||wkayl||Download picture of Fiero at Fire (without van)||||1||
+Z||000000||wkayl||06-14-2000||10:37 AM||||Here is the picture of my Fiero from the "Fiero Fire" post.  I did a little Adobe magic to get rid of the van in the background.<BR> <IMG SRC="http://www.fiero.nl/uploads/fieroatfire.jpg"> ||||reg||1
+Z||000001||Monkeyman||06-14-2000||12:13 PM||||Much better.  We don't need no stinkin' vans!||||reg||1
+Z||000002||dogtired||06-14-2000||12:23 PM||||Van?<BR>What Van?<BR>I just came here to see a Fiero on fire!<BR>Had heard so much about them burning thought I would finally get to see one.   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Maybe I could just light-up one of MM's    <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>Just Kidding!<P>Animals R US.||||reg||6
+Z||000003||Monkeyman||06-14-2000||12:31 PM||||Very funny, dog!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  Email me.  I keep getting your mail (mine to you) kicked back.  Don't know why.  <P>Animals <B>R</B> us.  (Glad you remembered  <IMG SRC="http://www.fiero.nl/forum/smile.gif">)<p>[This message has been edited by Monkeyman (edited 06-14-2000).]||||reg||1
+Z||000004||ChadMan||06-14-2000||12:39 PM||||That picture is now my wallpaper on my work PC.  Thanks.||||reg||1

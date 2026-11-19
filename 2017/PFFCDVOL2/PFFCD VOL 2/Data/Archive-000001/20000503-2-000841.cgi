@@ -1,0 +1,3 @@
+A||||1||Groot||LPG ruines engine ?!||||4
+Z||000000||Groot||09-13-1999||10:00 AM||||I heard of a Fiero running on LPG that<BR>had a melted piston and cracked head.<BR>Most engines run fine on LPG, despite the<BR>higher temperatures.<P>Is the Fiero different ? Are the valves<BR>hard enough to resist LPG ??<P>I have a 84, 4 cylinder with 118 Kmiles||||reg||4
+Z||000001||theogre||09-13-1999||10:08 AM||||A properly designed LPG/LNG system Will Not destroy a good running stock motor.<P>The key is proper design. You can't just change the fuel. you have to reprogram the ECM or convert to vacuum/mechanical advanced ignition eliminating ECM control completely.<P>Burning pistons is a sign of bad mix, and to much advance. To hot a plug can also do it.<BR>||||reg||13

@@ -1,0 +1,4 @@
+A||N||2||leetee@webaccess.net||Fan||||1||
+Z||000000||leetee@webaccess.net||06-24-2001||12:59 AM||||I had the fan swith replaced on my 86 v SE but not the fan is on all the time.  I had it check at my regular mechanics and they just couldn't figure it out.  It is supposed to come on at about 175 from what I have read, or when the AC is on.  Any ideas out there? ||||reg||1
+Z||000001||tgowens||06-24-2001||01:12 AM||||normally the fan should come on at 239 degrees or when the A/C is turned on. Did they replace it with a lo-temp fan switch?||||reg||1
+Z||000002||beachbomb||06-24-2001||09:38 AM||||Hi, make sure they put the right part back in, there is a difference between a temp switch and a temp sensor( i learned the hard way on this one), both parts look identical, but have different part numbers! If i remember right you need a temp SENSOR. I put a temp switch in by mistake and my fan never came on unless the ac was on...hope this helps..Jim(2 '84 Indys)||||reg||1

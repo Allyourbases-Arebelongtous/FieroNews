@@ -1,0 +1,5 @@
+A||||3||fierofreek2001||what color were original plug wires||||1||
+Z||000000||fierofreek2001||05-12-2001||02:14 PM||||um... what color were the original plug wires  on the v6 fiero when they came off the showroom floor?<BR>thanks<BR>steve||||reg||1
+Z||000001||TheFiero64||05-12-2001||02:16 PM||||Red||||reg||1
+Z||000002||AusFiero||05-12-2001||07:56 PM||||Yep Red. I think mine still had the original fatory ones when I bought it 2 years ago.  <IMG SRC="http://www.fiero.nl/forum/eek.gif"><P>------------------<BR> <IMG SRC="http://www.jadeweb.com.au/fiero/ausfiero.gif"> <BR>When I was young I spent 80% of my money on Women, Gambling and Alcohol. I guess I wasted the rest.||||reg||14
+Z||000003||Fierodave2001||05-12-2001||09:40 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by fierofreek2001:<BR><B>um... what color were the original plug wires  on the v6 fiero when they came off the showroom floor?<BR>thanks<BR>steve</B><HR></BLOCKQUOTE><P>Here's mine, (1700 miles)<BR> <IMG SRC="http://www.fiero.nl/uploads/Daytona_clean.jpg"> <BR>||||reg||1

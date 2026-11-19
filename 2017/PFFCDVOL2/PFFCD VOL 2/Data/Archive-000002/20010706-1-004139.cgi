@@ -1,0 +1,8 @@
+A||N||6||count_iblis||can someone show me the side view to this fiero!||||1||
+Z||000000||count_iblis||10-26-2000||04:55 PM|||| <IMG SRC="http://www.fiero.nl/uploads/linkstitle.jpg"> ||||reg||1
+Z||000001||Xtreme Fiero's||10-26-2000||05:11 PM||||I want that wing!! and the front chin  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P><P>------------------<BR><P><BR>Tom D.<BR>85 GT  <IMG SRC="http://www.fiero.nl/uploads/asthanos.gif"> <BR>Black/Yellow 84 SE (4:10 4-speed)<P>Xtreme Kustumz<BR>http://community-2.webtv.net/XTREME_KUSTUMZ/XTREMEKUSTUMZ/||||reg||1
+Z||000002||william_thorniii||10-26-2000||05:13 PM||||count,<P>That looks like one of the original DGP IMSA racing bodies.  There are lots of pics.  Most recently in FD's "Just bought an IMSA" post.  <P>William T. Thorn, III ||||reg||1
+Z||000003||Tigger||10-26-2000||05:16 PM||||Now, that's the type of wing I was talking about FD.  Well, one similar.<P>Sorry count, that's the first time I've seen that IMSA Fiero.<p>[This message has been edited by Tigger (edited 10-26-2000).]||||reg||14
+Z||000004||Jaei Sun||10-26-2000||05:30 PM|||| <IMG SRC="http://members.aol.com/umebottle3/wing.jpg">      <P>I think these wings look a hellva lot cooler on fieros than the stock.<P> <IMG SRC="http://members.aol.com/umebottle3/fie_sig.gif"> <p>[This message has been edited by Jaei Sun (edited 10-26-2000).]||||reg||1
+Z||000005||count_iblis||10-26-2000||08:30 PM||||i love that wing also,  i believe that it is a gt touring wing on stilts?  ||||reg||1
+Z||000006||Cheever2||10-27-2000||12:35 AM||||I don't like it.  Okay w/me if you do though.<BR>||||reg||1

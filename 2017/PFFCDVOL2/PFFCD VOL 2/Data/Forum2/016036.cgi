@@ -1,0 +1,2 @@
+A||N||0||dcaprio||interchange manual||||1||
+Z||000000||dcaprio||12-04-2001||12:38 PM||||Hey guys I'm a junkyard freak. I love looking for parts at my local u-pull-it junkyard. My favorite place got a lot better with a 1/2 yard. Example bucket seats $5.00 per pair, running checked engine pulled from the car while you wait $125.00. Is there an interchange manual for the Fiero ? Any other junkyard freaks in N. Eastern Pa.?  ||||reg||1

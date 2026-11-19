@@ -1,0 +1,5 @@
+A||||3||Flash Box||Saved The Best For Last!!!||||6||
+Z||000000||Flash Box||07-14-2000||11:46 PM||||This is the last drawing I have.<P> <IMG SRC="http://www.fiero.nl/uploads/GirlOnFiero.jpg"> <P>------------------<BR>"In Racing You Have A SPLIT SECOND To Do It And Six Days To Talk About It!"<p>[This message has been edited by Flash Box (edited 07-14-2000).]||||reg||6
+Z||000001||tgowens||07-14-2000||11:51 PM||||Flash Box, you need to rename your photo something like: Girl_on_Fiero.jpg - there can be no breaks in a file name but you can use the underline to separate words.......rename it and then upload it again and you will see that it works.......<P>------------------<BR>     '87 Fiero GT<BR>       <IMG SRC="http://www.tgowens.com/3D_sig.gif">            <BR><A HREF="http://www.tgowens.com/fiero" TARGET=_blank>www.tgowens.com/fiero</A>||||reg||1
+Z||000002||tgowens||07-14-2000||11:52 PM||||oic, you figured it out!! good drawing!||||reg||1
+Z||000003||2M4 Dale||07-15-2000||01:35 AM||||Did you draw that ??? Awesome drawing !!!||||reg||1

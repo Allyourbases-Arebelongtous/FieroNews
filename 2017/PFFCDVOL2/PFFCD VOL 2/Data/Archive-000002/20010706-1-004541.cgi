@@ -1,0 +1,12 @@
+A||||10||FieroJoe||Another Interesting find on ebay......||||1||
+Z||000000||FieroJoe||11-27-2000||06:50 PM||||Saw this one while looking for a TTop GT for my dad, made me laugh alot!<BR> <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=508982022" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=508982022</A> <P>The item description is two words, and the car even has a driver side airbag!!!  What a find!||||reg||1
+Z||000001||TheFiero64||11-27-2000||06:51 PM||||Lol. There even is someone that bid on it.<P>------------------<BR>88 Coupe V6<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif"> ||||reg||1
+Z||000002||Cheever2||11-27-2000||07:05 PM||||I sent him an email inquiring about it.<BR>Will pass along any response I get.<BR>||||reg||1
+Z||000003||FieroJoe||11-27-2000||09:10 PM||||I like the 100000 mile "mint condition"<P>Yes, someone did bid on it, I laughed quite a bit.||||reg||1
+Z||000004||RaeQwan||11-27-2000||09:30 PM||||Was this driver side airbag some option I didn't know about? I wonder if it had a RPO code? maybe my car spose to have it but dont, I want answers people. hehe<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/raeqwancfa.gif"> ||||reg||1
+Z||000005||Cheever2||11-28-2000||12:08 AM||||Here's the reply he sent me...<P>drivers side air bag was an error.  pictures will be sent to you tonight.  <BR>thank you.<BR>mark (mfffer)<P>I've been waiting for pic's but none yet.  I gotta go now, so maybe I'll get 'em here tomorrow.<BR>||||reg||1
+Z||000006||rodmcneill||11-28-2000||12:40 AM||||I have had an airbag on the passenger side of my Fiero for 2 years now .....oh wait a minute that was my ex girlfriend! ||||reg||12
+Z||000007||rockcrawl||11-28-2000||04:13 PM||||Did you guys miss the '87 GT on Ebay with the factory 16" alloys? Wow, that's a rare option!<P>------------------<BR>Jon Lagler<BR>'87 GT<BR>4.9 liter V8 Testarossa Spyder (under construction)<BR> <IMG SRC="http://www.fiero.nl/uploads/rockcrawlsig.jpg"> ||||reg||1
+Z||000008||Tigger||11-28-2000||04:39 PM||||Can't wait to see the pics!<P>drum roll please...<P>------------------<BR>T-T-F-N, Tah Tah For Now!<BR>    <IMG SRC="http://www.fiero.nl/uploads/tiggerblue2.gif"> ||||reg||7
+Z||000009||Cheever2||11-28-2000||06:34 PM||||He let me down.  No pics.  Not yet anyway.<BR>||||reg||1
+Z||000010||KnightRyder31||11-28-2000||07:41 PM||||HAHAHA!!!<BR>Nice picture of the car.||||reg||1

@@ -1,0 +1,7 @@
+A||N||5||b lo 0||FORMULA-read this!!||||2||
+Z||000000||b lo 0||07-27-2000||11:25 AM||||Did you buy your car from Excite classifieds?  Isn't this your car? <A HREF="http://www.classifieds2000.com/cgi-cls/ad.exe?P61+C14+R959662+Q357943645" TARGET=_blank>http://www.classifieds2000.com/cgi-cls/ad.exe?P61+C14+R959662+Q357943645</A> <P>------------------<BR>'85 GT (in progress)  <BR>titled ICE-plates B LO 0 <BR>  <IMG SRC="http://www.angelfire.com/ga3/audioimagery/ice.gif">  <BR>Go to <A HREF="http://www.audioimagery.i-p.com" TARGET=_blank>www.audioimagery.i-p.com</A>  !!!||||reg||2
+Z||000001||Pontiaddict||07-27-2000||03:49 PM||||It's his car alright.<BR>||||reg||1
+Z||000002||Homicidal||07-27-2000||08:16 PM||||I would sell mine and get his if I:<P>a) Didn't love my car SO damn much!<P>and <P>B)wanted an automatic!<P>I doubt he bought his car off Excite, I think he is selling it!||||reg||1
+Z||000003||Formula||07-27-2000||08:23 PM||||I wanted a GT  <IMG SRC="http://www.fiero.nl/forum/frown.gif">   ||||reg||1
+Z||000004||Formula||07-27-2000||08:27 PM||||Its almost done being painted now too, Everyonce in a while you feel like getting a different fiero ya know...  btw, I put that on there about a month or 2 ago||||reg||1
+Z||000005||Formula||07-27-2000||08:34 PM||||also..... if anyone wants to buy it for around $4000 or trade for a near perfect condition GT 86-88 (dobt I could get an 88). I might be up for it.... also if I would sell it for $4k I might need someone to help me find a near mint GT to take its place||||reg||1

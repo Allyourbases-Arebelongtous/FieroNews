@@ -1,0 +1,3 @@
+A||||1||Formula||Heater||||1||
+Z||000000||Formula||02-11-2000||09:02 PM||||I was wondering if anyone has had problems with there heater?<P>Mine worked on high until today and now it doesn't come on.<P>I think its the switch, hasanyone had to replace the connectors or the whole unit altogether.  It gets cold in the winter LOL||||reg||1
+Z||000001||Phaeton||02-11-2000||11:22 PM||||Used to sell a lot os switches, but number two was resistor coils. working on high only is usually the coils, nothing is usually the switch.  The Fiero is Not usual.  The coils are in an air duct, I forget which one but they are enormously easier to get to than the switch.||||reg||1

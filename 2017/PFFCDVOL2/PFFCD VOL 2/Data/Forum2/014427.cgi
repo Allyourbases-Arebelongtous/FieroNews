@@ -1,0 +1,3 @@
+A||||1||Two88GTs||p/n needed for '88 fuel pump relay||||1||
+Z||000000||Two88GTs||10-14-2001||05:27 PM||||10040035 is coming up as a discontinued item, as is 22538339 which is the p/n from a working relay that I pulled from a Quad 4 Grand Am to use as a spare.  <P>Is there a big difference between all the relays like these that are similarly shaped?<BR>I've also seen 10034222 and 10038490 which are $16.63 and $7.58 respectively per GM wholesale prices.||||reg||1
+Z||000001||JohnF||10-14-2001||07:34 PM||||I don't know about P/N.  With an '88, I just went to Autozone, told them what I wanted and for about $10.00 had a good replacement.||||reg||1

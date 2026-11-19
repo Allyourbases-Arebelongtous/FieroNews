@@ -1,0 +1,9 @@
+A||||7||Cooter||Another stupid product warning.||||1||
+Z||000000||Cooter||04-12-2001||11:30 PM||||While taking my morning relief, I picked up a package of hair removal cream and read this on the tube: <BR>Not to be used on breast nipples.<P>Just where exactly on your body, other than the obvious, will you find nipples? Butt nipples? Toe nipples? I wonder what they were thinking.||||reg||1
+Z||000001||Black88GT||04-12-2001||11:34 PM||||There's a term for that in the law business, "legally specific", meaning they just want to cover their butts, if they just put "nipples" then someone might say "oh I didn't know you meant body nipples" or whatever. ||||reg||1
+Z||000002||AkursedX||04-12-2001||11:39 PM||||We really only have breast nipples??  What about those nipples on my ummmm.........maybe I shouldn't be discussing this on a message board.   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000003||wkayl||04-12-2001||11:53 PM||||And if it has hair on it....I don't know...||||reg||1
+Z||000004||JohnnyK||04-13-2001||01:43 PM||||wkayl: You haven't gone through puberty or something? Ya get hairy all over!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000005||stimpy||04-13-2001||02:12 PM||||Hey Johnny, no offense intended, but are hairy-nippled women a turn on for all Canadians? Or just you?  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Loud Pipes Save Lives!      <IMG SRC="http://www.fiero.nl/uploads/stimpy_sig.gif"> ||||reg||1
+Z||000006||rogergarrison||04-13-2001||05:55 PM||||[QUOTE]Originally posted by stimpy:<BR>[B]Hey Johnny, no offense intended, but are hairy-nippled women a turn on for all Canadians? Or just you?   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>EEEEEEEEWWWWWWWWWWWWW. LMAO<P>||||reg||1
+Z||000007||terryk||04-13-2001||11:50 PM||||If you get a chance, read the Material Safety Data Sheet for water. Comical...||||reg||1

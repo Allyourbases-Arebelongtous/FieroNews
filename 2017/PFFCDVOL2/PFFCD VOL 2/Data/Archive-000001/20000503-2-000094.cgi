@@ -1,0 +1,4 @@
+A||||2||Lason||87 5sp into an 84 2m4
+Z||000000||Lason||04-22-99||11:32 AM||||I am changing the cluth in my 84 2m4 and was curious if the 87 5sp I found could replace the existing 4sp. And what it would require if possible.
+Z||000001||Carrolles||04-22-99||11:38 AM||||I believe the transmission will fit the engine but you will have to change out the shifter and cables and maybe modify the mounts.  You also might have to do some changes to make the speedometer work properly.<br>Ed Parks of The Fiero Factory in Alabama could probably tell you everything you need.  He is very helpful and can be reached at<br>fierofactory@juno.com<br>Good luck,<br>Carroll
+Z||000002||Phil||04-24-99||07:53 PM||||I do believe that the input shaft on the 5sp Isuzu and the 4sp Muncie are diffedrent maybe you cand make up the difference with a fabricated pilot bearing

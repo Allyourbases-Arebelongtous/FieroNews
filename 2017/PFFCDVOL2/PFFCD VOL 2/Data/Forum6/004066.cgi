@@ -1,0 +1,2 @@
+A||N||0||Reality||Understanding Private Messages||||1||
+Z||000000||Reality||11-02-2001||05:10 PM||||Just a quick question. When two forum members are useing the same computer is there a way to get one user to "log out" so the other user can check his or her private messages. The only way I've been able to do it is come on here and post something then it kicks the other user out. Was just curious if someone knew? <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/realitysignature.gif"> ||||reg||1

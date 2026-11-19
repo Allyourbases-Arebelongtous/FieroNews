@@ -1,0 +1,5 @@
+A||||3||fred||need info fast on surging & excess fuel
+Z||000000||fred||07-30-99||08:09 PM||||need info on vaccum lines    <br>(ref to EGR solenoid)<p>please <br>im dying to drive 
+Z||000001||JetroGT||07-30-99||09:03 PM||||Where is the line melted? Can you see where it was attatched? If so you could temporally patch it with some vacume hose. Or for a more permanent fix you could use copper tubing with vacume hose on the ends of the tubing.
+Z||000002||fred||07-31-99||12:52 PM||||cant seem to find where burnt line went .<br>good idea on copper line <br>but need info where vaccum line(s) go<br> thanx 
+Z||000003||GREENDANO||07-31-99||06:54 PM||||Fred,<br>One line goes to a vacuum source, you should be able to hear the vacuum leak as a high pitched whistle.  One line goes to the EGR valve, you knew that, and the extra line, which might be the one you're talking about goea to the air cleaner.  It's the fresh air intake for the vacuum solenoid when it releases.  (oversimplified explination)<br>I've heard of the CEL coming on even with the vac and egr lines connected, but with the vent line off.

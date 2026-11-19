@@ -1,0 +1,3 @@
+A||N||1||banditbalz||coil-overs||||1||
+Z||000000||banditbalz||11-01-2001||11:20 PM||||Considering switching my rear Eibachs for coil-overs. Any brand names to look for? Any links to pages offering coil-overs for Fieros. Those of you with coil-overs, do you find it easy to adjust ride height? Any help appreciated...<P>------------------<BR>Silver 86 GT<BR>completely stock,<BR>completely fast!||||reg||1
+Z||000001||fix||11-01-2001||11:30 PM||||can't tell you much about them, but held motorsports sells a few different sets of coilovers.  <A HREF="http://www.heldmotorsports.com" TARGET=_blank>www.heldmotorsports.com</A> ||||reg||1

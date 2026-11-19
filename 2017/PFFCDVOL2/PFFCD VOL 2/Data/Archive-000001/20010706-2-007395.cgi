@@ -1,0 +1,2 @@
+A||||0||sqoach||checking sig (ignore)||||1||
+Z||000000||sqoach||12-18-2000||12:55 PM|||| <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>sQoaCh<BR>sqoach@yahoo.com<BR>        <IMG SRC="http://www.fiero.nl/uploads/mysig_2.JPG"> ||||reg||1

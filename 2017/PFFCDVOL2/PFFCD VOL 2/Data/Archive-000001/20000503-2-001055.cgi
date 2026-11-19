@@ -1,0 +1,6 @@
+A||||4||GWMORGAN||Tire Rotation||||1
+Z||000000||GWMORGAN||10-08-1999||04:46 AM||||How do you guys go about rotating your tires? I have 205-60-15 up front and 215-60-15 on the rear.||||reg||1
+Z||000001||fiero56||10-08-1999||08:39 AM||||I don't rotate my tires.  I just replace the rear pair when they need it, and the front pair...<BR>Acutally, In the manual for my fiero, (formula) it says not to rotate the tires due to the fact that they are not the same size. 15x6 front, 15x7 rear, These sizes only came stock on the '88 model year, so I don't know what the other books would say.  Me, I would just let 'em go until one pair needs replacing, then do the next when they need it.||||reg||1
+Z||000002||theogre||10-08-1999||09:44 AM||||you can't rotate the tires unless they are all the same size. even then you have to make sure if they are unidirection or not. ||||reg||1
+Z||000003||GWMORGAN||10-08-1999||01:24 PM||||Thanks for info guys...Is it ok to run 215-60  (same as rear) up front also?? I'm planning on lowering it 1" all round. V6 GT.||||reg||1
+Z||000004||batboy||10-08-1999||10:32 PM||||If you're only lowering it an inch, there should be no problem with 215-60 tires all the way around.||||reg||1

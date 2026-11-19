@@ -1,0 +1,6 @@
+A||N||4||87GTBro||Engraved Intake Plenum||||5||
+Z||000000||87GTBro||03-20-2000||12:35 AM||||Does anyone know where I can find a new or used engraved intake plenum for the v6?  I can't stand the one with the sticker......<P>What would a new one run? ($$$)||||reg||5
+Z||000001||Oreif||03-20-2000||01:11 AM||||Try Contacting Bob Steiger at Twin Lakes Fiero. His phone is 1-217-379-9140.<BR>I don't know what he'd charge you but on items I've bought from him before, Prices have been real good.||||reg||1
+Z||000002||Fformula88||03-21-2000||08:42 PM||||I'd call Bob Steiger too!  He gave me a great deal on a spoiler for my Formula (original was missing when I bought the car) at last years Fiero Festival.  ||||reg||1
+Z||000003||dogtired||03-22-2000||11:20 AM||||I would like a little more info on the engraved Plenums???<BR>What year Fiero's did they come out on??<BR>My first Fiero was an 85SE that had an engraved plenum but I was told the motor had been replaced??<BR>Neither of my 86s V6s have it??? But my 87SE does???<BR>I am thinking maybe 87 and 88? Who knows for sure???    <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||6
+Z||000004||SCCA FIERO||03-22-2000||08:49 PM||||Hey dog. It was 87-88's that had the engraved intake.||||reg||1

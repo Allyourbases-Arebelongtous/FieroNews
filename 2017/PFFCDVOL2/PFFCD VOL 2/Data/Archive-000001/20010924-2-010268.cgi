@@ -1,0 +1,5 @@
+A||||3||GodSend||Which tube will fit?||||5||
+Z||000000||GodSend||05-08-2001||03:52 PM|||| Are all EGR tubes the same for fieros?  Which ones (years and models) will fit a 87' gt?||||reg||5
+Z||000001||ThatRickGuy||05-08-2001||04:19 PM||||there was a good replacement a few months ago, I'm thinking it was from Rodney, but I can't remember, it's a flex pipe replacement and is cheaper then the stock ones.<BR>||||reg||1
+Z||000002||Carrolles||05-08-2001||04:35 PM||||I believe all the Fiero v-6 egr tubes are alike.  A mid to late 80s tube from the 2.8L Pontiac 6000 and Camaro/Firebird fits with a little modifications to one of the flanges ( You slot the existing bolt holes).||||reg||1
+Z||000003||Steven||05-08-2001||06:11 PM||||Godsend, <BR>I thought you were buying a tube from Jason in the Mall section of this forum, as for part number, I listed the two that the parts catalog shows for Fiero V-6's on that thread, but just in case, here they are again. 85-87 used 10137017, and 88 used 10137021, now I don't know what is different between these two number, but GM does show two different number. Hope you can sort this all out.<BR>Steve||||reg||1

@@ -1,0 +1,2 @@
+A||N||0||Boomtastic||Another Fiero in Hot Rod!||||10||
+Z||000000||Boomtastic||08-17-2001||12:30 AM||||Hey - maybe Hot Rod is taking a liking to our cars.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> On page 20 (August 2001 issue) there's a picture of Smokey Yunick standing beside a white '84 Fiero. No mention of the car though ..  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>------------------<BR>Boomtastic<BR>  <IMG SRC="http://www.fiero.nl/uploads/mirror_md_clr.gif"> ||||reg||10

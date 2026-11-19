@@ -1,0 +1,2 @@
+A||||0||ka4nkf||Phamtom Wipers||||1||
+Z||000000||ka4nkf||09-28-1999||02:25 PM||||There Is One Other Control For The Wipers. It Is Called A Pulse Module. It Is Located Under The Dash On The Right Side Of The Steering Column By The Steering Column Bracket. To Test It, Disconnect The Two Connectors From The Module And Reconnect Them To Each Other. This Bypasses The Pulse Module. The Wipers Should Work Like Normal, And Turn Off Like Normal. This Could Be The Answer To Our Phamtom Wipes.||||reg||1

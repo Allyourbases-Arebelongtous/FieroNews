@@ -1,0 +1,6 @@
+A||N||4||Bryan Hord||Fuel Pump Replacement Question||||5||
+Z||000000||Bryan Hord||12-09-2000||12:41 PM||||Does anyone have any timesaving or safety tips for replacing the fuel pump on an 85 Fiero GT.<P>||||reg||5
+Z||000001||Indiana_resto_guy||12-09-2000||01:18 PM||||None on time saving (shouldn't take that long anyway).<BR>Safety:<BR>1) Empty fuel tank. (any way you want short of poking a hole in it)<BR>2) Disconnect BOTH battery terminals.<BR>3) Don't smoke or have open flames.<BR>4) Support tank while removing bolts and hanger hardware.<BR>5) Make sure that all electrical connections and fuel lines are disconnected from tank.<BR>6) When removing locking ring for pump and sending unit, use a brass drift or a good piece of wood to knock it loose. (Avoid making any type of spark!)<BR>||||reg||1
+Z||000002||terryk||12-09-2000||05:56 PM||||Buy the new O-ring for the sender unit *before* you take the tank out. It will need replacing. GM rings are better than the aftermarket.||||reg||1
+Z||000003||fieroparts.com||12-09-2000||06:35 PM||||spend the money and ONLY buy the GM pump<BR>most aftermarket ones just don't cut it!||||reg||1
+Z||000004||Phil||12-09-2000||07:33 PM||||While you're in there don't forget the fuel gage sender||||reg||1

@@ -1,0 +1,10 @@
+A||||8||Gold87SE||Holding out first gear||||1||
+Z||000000||Gold87SE||04-25-2001||06:53 PM||||Hi,<BR>I just test drove an automatic GT with 117,000 miles on it and it first gear seems to hold out for a while and it goes into second pretty hard. What do you think the problem could be?||||reg||1
+Z||000001||StuGood||04-25-2001||07:04 PM||||I pretty clueless about automatics, but...<P>What would I do first?  Check trans. fluid level (no cost, can't hurt).<P>Next, I'd see about the TV cable adjustment.<P>||||reg||5
+Z||000002||Gold87SE||04-25-2001||07:09 PM||||The fluid was full and it looked to be good.||||reg||1
+Z||000003||Carrolles||04-26-2001||07:52 AM||||I agree with the TV cable sdjustment.||||reg||1
+Z||000004||Formula88||04-26-2001||08:48 AM||||Or it could just be a shift kit.||||reg||1
+Z||000005||EdsB52||04-26-2001||09:57 AM||||Do GM trannys have vacuum modulators? I know older Fords did and that's what controlled the shift points.||||reg||1
+Z||000006||Mr.Frosty||04-26-2001||11:12 AM||||My 85Gt does the exact same thing and it pisses me off.My understanding is that it is the t.v.cable and it is out of adjustment,BUT I tried adjusting it and it's a ***** .I'll just have to wait until the motor is out to do it.<P>------------------<BR>88 Formula T-top-ForSale <BR>85 GT Turbo-project car||||reg||11
+Z||000007||StuGood||04-26-2001||02:39 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by EdsB52:<BR><B>Do GM trannys have vacuum modulators? I know older Fords did and that's what controlled the shift points.</B><HR></BLOCKQUOTE><P>Older GM auto transmissions (e.g. THM 350) had vacuum modulators.  I believe the GM FWD and Fiero auto transmissions do <B>not</B> have vacuum modulators. ||||reg||1
+Z||000008||Fierowrecker||04-26-2001||09:35 PM||||On the Duke, it is easy, press the tab and pull up on the cable, then depress the gas pedal to the floor SLOWLY!!!<BR>If it still shifts hard afterwards, change fluid and filter...<BR>My 84 would do the same thing, and only a fluid change would restore the shifting...<BR>crash...||||reg||1

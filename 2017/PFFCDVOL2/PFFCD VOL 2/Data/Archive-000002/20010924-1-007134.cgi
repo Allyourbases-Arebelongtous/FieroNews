@@ -1,0 +1,2 @@
+A||||0||Galen||Come on ya'll .. lets chat!:)||||1||
+Z||000000||Galen||04-29-2001||10:50 PM||||I'm all alone.. come on ya'll lets chat <IMG SRC="http://www.fiero.nl/forum/smile.gif"> hehe<P>------------------<BR>Galen - 1988 Hawaiian Orchid Coupe - <A HREF="http://myfiero.spinrpg.com/" TARGET=_blank>My Fiero Website</A><BR><A HREF="http://www.spinrpg.com/" TARGET=_blank>Spinrpg.com - Free URL & e-mail Forwarding</A>||||reg||1

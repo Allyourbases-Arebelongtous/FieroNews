@@ -1,0 +1,3 @@
+A||||1||DrewBoOty||Racing BucKets???????||||5||
+Z||000000||DrewBoOty||10-07-2001||04:50 AM||||i was looking at racing bucktes to put in my fiero and (recaro)i think, anyways the smallest ones they had that i liked were a width of 20.5 inches i measured up the stock seat to be 19.5 Does anyone think i might be able to put a pair in my fiero or no becuase of the inch??<P>------------------<BR>----"There Are No Stupid Questions, But There Are A LOT Of Inquisitive Idiots."||||reg||5
+Z||000001||danny boy||10-07-2001||02:36 PM||||I have Corbeau Forzas in mine. they just fit. There are pics around here somewhere,  use search  and you'll find what you're looking for.||||reg||1

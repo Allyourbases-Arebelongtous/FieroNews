@@ -1,0 +1,5 @@
+A||||3||Stoic||Need input||||5||
+Z||000000||Stoic||12-06-2000||07:24 PM||||I went to start up my car today and waited a couple of minutes for the idle to smooth out (cold weather).  Instead of smoothing out, it started stinking.  I popped the deck lid and realized my exhaust manifold was glowing red.  I was thinking it might be that my catilated convertor is plugged but I'm not sure, any ideas, or similar experiences?||||reg||5
+Z||000001||Indiana_resto_guy||12-06-2000||07:45 PM||||I think it was last year, my son backed into a snow bank and stuffed the exhaust and drove home. Next day wouldn't start, I was baffeled! It wanted to start but wouldn't. I then thought about it for a couple of days and the only thing I came up with was a restricted exhaust. Pulled the car into the garage and pointed the salamander heater up to it for about 15 minutes and it started right up!<BR>Strange . . . . . .||||reg||1
+Z||000002||Richard Parnell||12-06-2000||07:50 PM||||It may be the wire is broken from the O sensor or the sensor is just plain bad.||||reg||1
+Z||000003||Got2manyfieros||12-06-2000||08:35 PM||||It may be a broken EGR tube...||||reg||1

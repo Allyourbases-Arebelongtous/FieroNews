@@ -1,0 +1,4 @@
+A||N||2||SloPonti||Custom Exhaust||||5
+Z||000000||SloPonti||11-26-1999||12:27 AM||||i have used the search forum for trying to find which exhaust i want to buy but the only ones listed are borla(way to much) fiero store(to many people on here don't like it plus i do not like there tips) and i prefer not to take it to a muffler shop!! i would rather buy a kit from someone! does anyone know were to get the stock exhaust tips for cheaper than the fiero store! i have an 84 coupe and i want to add the dual exhaust! thanks<BR>Rob||||reg||5
+Z||000001||ggarsk||11-26-1999||01:55 AM||||I just got a dual exhaust from a V-6. It was a lot cheaper then any option you mentioned. The muffler is stainless so if you can find a good one it should last for a while.||||reg||1
+Z||000002||DXR_DAD||11-26-1999||11:57 PM||||Try Wrenchead.com. No pics but I think I remember it being listed.??||||reg||1

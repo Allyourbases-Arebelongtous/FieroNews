@@ -1,0 +1,5 @@
+A||N||3||Freshj||Power Mirror Swap||||1||
+Z||000000||Freshj||11-20-2001||08:11 PM||||Hey, What all do I need to swap from cable/manual Mirrors to Electric. Both my mirrors are broken off so I need to buy them regardless. I know I'll need the mirrors and the center switch plate. Is there any harnesses I need? Gonna try and get everything @ once. Thanks||||reg||1
+Z||000001||Fleabitdog||11-20-2001||08:23 PM||||Freshj.<BR> You will need the harness that connects to both mirrors and runs up the center console to the switch. Also the switch. And you might want to replace your door panel(interior) That is up to you. Do you have p/w? I have everything you need other than the door panel. Mail me if you are interested. Thanks  Dave||||reg||1
+Z||000002||Phil||11-20-2001||08:30 PM||||Check Ogre's Cave for the article on Monkeyman's Ford switch mirror control. All you will need is a Ford power mirror switch($8 junk yard) and 3 wires from each mirror to the switch. Very easy installation, I've done two cars so far.||||reg||1
+Z||000003||Freshj||11-20-2001||11:13 PM||||Fleabitdog, Check your E-mail :-)||||reg||7

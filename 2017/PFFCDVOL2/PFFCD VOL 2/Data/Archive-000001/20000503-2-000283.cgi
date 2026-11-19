@@ -1,0 +1,3 @@
+A||||1||burdell1||REPLACEMENT DOOR HANDLE
+Z||000000||burdell1||06-12-99||09:15 AM||||Help! My interior driver's side door handle broke off. I haven't taken it apart yet, but are these easy to fix? And where could I get a replacement one? Has this happened to anybody else out there?
+Z||000001||PaUL||06-12-99||01:56 PM||||hey burdell1, the exact same thing happened to me. I noticed that the F cars have the same handle (Camaro Firebird). I got one from a junkyard for $5. The handle itself is exactly the same but the metal bracket is different having an extra piece riveted on. I swapped brakets with my old handle. Had to punch out the hinge pin but it was real easy.

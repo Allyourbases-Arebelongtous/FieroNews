@@ -1,0 +1,6 @@
+A||||4||My7Fieros||Need quick help please........||||9||
+Z||000000||My7Fieros||11-12-2000||07:02 PM||||When I turn off my lights on my 86 GT the pass side motor keeps spinning. Ive pulled the fuse as a temp. fix. I also replaced the relays (used ones, but should be good)..to no avail. Whats the cure? Thanx||||reg||9
+Z||000001||robertjay||11-12-2000||07:29 PM||||There is a torque swithc on both the up stroke of the motor and down stroke of the motor, my guess is the one going down isn't working.||||reg||1
+Z||000002||My7Fieros||11-12-2000||07:55 PM||||Where is that located? How do I fix it?||||reg||1
+Z||000003||batboy||11-12-2000||07:56 PM||||I'll bet it's stripped out nylon gears. Sometimes you can open up the case (it might be riveted) you can sometimes turn the gear 180 degrees and get it working again (only half the gear is used). Clean the old caked up grease off and lube it up with new. There are also metal gears available, I think.||||reg||1
+Z||000004||2xsess||11-12-2000||09:07 PM||||My headlight started doing the same thing about 2wks ago, I pulled the case apart nad it was the big nylon gear. There was a stripped part. I bought Rodneysit for $45 and now it works awesome, nice and quiet.<P><P>------------------<BR>Jeff<BR> <IMG SRC="http://www.fiero.nl/uploads/My_car_(large)sig_1.JPG"> ||||reg||1

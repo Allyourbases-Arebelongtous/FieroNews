@@ -1,0 +1,2 @@
+A||||0||87GT3.4||88 GT turbo For sale in Toronto CHEAP||||1||
+Z||000000||87GT3.4||05-17-2001||10:31 AM||||The Fiero Shop in Toronto has an 88 GT turbo for sale for $9000 Canadian Dollars. The car is in great condition , new turbo kit and lots of upgrades. It's an automatic<P>Phone them at:<BR>Phone: (416) 747-5728 Fax: (416) 747-0965<BR>141 Turbine Drive<BR>Weston, Ontario CANADA M9L 2S7<P>With the canadian dollar This car is about $5600US<P>G.G<BR>VA<BR>3.4ltr 5spd GT<BR>||||reg||1

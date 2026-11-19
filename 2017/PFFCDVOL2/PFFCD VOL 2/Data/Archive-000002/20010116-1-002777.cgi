@@ -1,0 +1,2 @@
+A||||0||DaRkLoRD||a different kind of Firebird seat swap!!??!||||12||
+Z||000000||DaRkLoRD||07-03-2000||03:51 AM||||I thought this would be of interest to anyone who has done a seat conversion in their Fiero.. read this page carefully..  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P> <A HREF="http://www.newcovenant.com/firebird/inside.htm" TARGET=_blank>http://www.newcovenant.com/firebird/inside.htm</A> <P>------------------<BR> <A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A> ||||reg||12

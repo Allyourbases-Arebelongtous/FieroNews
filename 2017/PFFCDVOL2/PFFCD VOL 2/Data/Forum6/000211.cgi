@@ -1,0 +1,3 @@
+A||||1||zebrex||since were on the computer subject||||1||
+Z||000000||zebrex||04-04-2000||01:30 AM||||I need a fair priced dual slot 1 coppermine board (p3 800 dual) that will take dimms all the ones that ive found want rimms and im not going to pay 1000 for 396 megs of ram. any ideas would be greatly appreciated||||reg||1
+Z||000001||Carolina 88GT||04-04-2000||08:36 AM||||Pop on over to <A HREF="http://www.pricewatch.com" TARGET=_blank>www.pricewatch.com</A>  (if you havent already) you can do a search for the type of mobo you are looking for and will give the best prices currently available.  You going to be running Win2000 or NT4 ??||||reg||1

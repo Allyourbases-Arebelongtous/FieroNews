@@ -1,0 +1,3 @@
+A||||1||walsh2001||Thermochip?||||5||
+Z||000000||walsh2001||09-25-2001||01:06 AM||||Is the "thermochip" sold in the Fiero Store catalog worth the money? Does it really increase the performance of the engine? I have heard varying opinions on this...<P>------------------<BR>'87 Fiero GT ... Cherry Red||||reg||5
+Z||000001||Kasdan||09-25-2001||09:08 AM||||I've heard different opinions as well.  best way to tell if you have a performance gain is by the seat-o-pants meter, or, more expensively, a dyno!<P>------------------<BR>Tyler Morgan, 1986 GT<BR> <IMG SRC="http://www.fiero.nl/uploads/Fiero21.jpg">         <BR>Power Steering, Holley Scoop<BR>Aim=FieroDriver1986||||reg||1

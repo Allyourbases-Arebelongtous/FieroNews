@@ -1,0 +1,2 @@
+A||||0||Cheever3000||Fiero pic: seen in Pensacola Florida ||||14||
+Z||000000||Cheever3000||08-15-2001||11:37 AM||||Hey, guys.  What's up? <BR>Here's another Fiero I saw when on vacation.  The plates say PEGASIX.  It was a beautiful dark purple.<P> <IMG SRC="http://www.fiero.nl/uploads/Vacation0001.jpg"> <BR>========================<BR>And here's the whole Cheever gang...<BR>========================<BR> <IMG SRC="http://www.fiero.nl/uploads/Vacation0002.jpg"> <P><p>[This message has been edited by Cheever3000 (edited 08-15-2001).]||||reg||14

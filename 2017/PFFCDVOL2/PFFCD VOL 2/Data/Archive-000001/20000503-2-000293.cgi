@@ -1,0 +1,7 @@
+A||||5||BOILERMAKER||Battery Tray
+Z||000000||BOILERMAKER||06-14-99||07:51 AM||||I just took my battery out yesterday and when I looked at the tray that holds it, I found it was in 2 or 3 pieces.  this is obviously not good.<p>Does anybody know of the best place to buy one of these.  I realize that I have to do some welding, so that is not a problem.<p>Thx
+Z||000001||theogre||06-14-99||01:13 PM||||these guys should have one.  <A HREF="http://www.kickhill.com/" TARGET=_blank>http://www.kickhill.com/</A> 
+Z||000002||Larry C||06-14-99||05:26 PM||||The Fiero store at www.fierostore.com lists new battery trays for $21. + shipping.  I have bought several parts from them & they have delivered quickly & parts were high quality.
+Z||000003||87FieroGT||06-14-99||09:48 PM||||I bought the one from the Fiero Store. It is a good quality piece and not that expensive. Until you add the shipping and handling. :]
+Z||000004||Racer 1||06-15-99||11:40 AM||||I bought a extra black battery tray from the fiero store.I would sell it but I have to find it in my garage.  8-(
+Z||000005||GREENDANO||06-15-99||04:16 PM||||I don't have the part number, but it was still available a few months ago from GM.  Always check with the dealer first before ordering from the Fiero store.  I ordered a new trunk release switch from the Fiero store for $15 + shipping, only to find the switch is still available from GM for $9.  Plus, I work at a GM dealership, so it's my own fault for not checking and spending the extra coin.<br>  Dan-O

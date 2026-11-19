@@ -1,0 +1,2 @@
+A||||0||TTiger||Question for anyone with a 3800SC||||5||
+Z||000000||TTiger||12-18-2001||01:59 PM||||Anyone out there running a 3800SC without the muffler?  I am thinking of running my exhaust to two small catalytic converters, then straight out to two Monza tips.  Anyone know how loud this would be???  I need to keep the car emmissions legal, hence the catalytic converters, but I also don't need a noise ordinance ticket.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Thanks,<BR>Tony<BR> <IMG SRC="http://www.fiero.nl/uploads/ttigersig_10.gif"> ||||reg||5

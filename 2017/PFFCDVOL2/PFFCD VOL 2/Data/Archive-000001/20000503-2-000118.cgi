@@ -1,0 +1,7 @@
+A||||5||Pretender||200lbs!
+Z||000000||Pretender||04-29-99||03:00 AM||||i was reading about the weights for our the cars and noticed that the '88 formula weighs about 200lbs less then my '88gt!....i can't see the front bumper and rear clip adding 200lbs., Is there something else that i have that the formula's don't?<br>
+Z||000001||ezsurf||04-29-99||06:10 AM||||Pretender,<br>Where did you read about the weight for the Fiero?  My door jamb stickers are unreadable.  I was going to research this later, when I finish the engine.  It sure would save some time.
+Z||000002||ChadMan||04-29-99||06:38 AM||||In 1988, Road & Track comparison-tested a Fiero Formula and a Toyota MR2.  In the article, they claimed that the weight difference between a Fiero Formula and a Fiero GT is only about 50 lbs.<p>Of course, GT's usually have more power goodies than Formulas do...I suppose a GT with power windows, seats, locks and A/C could weigh 200 lbs more than a stripped Formula.
+Z||000003||EMF||04-29-99||03:59 PM||||does my 84 2m4 really wiegh 2400  and some odd pounds, or did someone lie about it on the title. 
+Z||000004||Rob||04-29-99||04:40 PM||||The 1984 Coupe weights 2464, the 1985 GT weights 2572, the 1987 GT weights 2696 and the 1988 Formula weights 2679. These are taken from the Paul Vargyas Price Guide.
+Z||000005||Pretender||04-29-99||07:48 PM|||| <A HREF="http://members.aol.com/topfiero/index.htm" TARGET=_blank>http://members.aol.com/topfiero/index.htm</A>  is the site where i found the weight difference's along w/ 1/4 mile times and other general info.<br>

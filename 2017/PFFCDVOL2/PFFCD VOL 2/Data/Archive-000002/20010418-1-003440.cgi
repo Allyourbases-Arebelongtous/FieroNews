@@ -1,0 +1,4 @@
+A||||2||JohnnyK||If you have a Yellow Fiero, READ THIS||||1||
+Z||000000||JohnnyK||08-27-2000||07:16 PM||||This is really bugging me. Was anyone in this forum driving down the I-90 in Buffalo on Friday (mid afternoon). It looked like a GT (I think) but it had a decklid scoop, and circle tail lights? Anyone? (BTW, I was on the way to the Kick Hill meet)||||reg||1
+Z||000001||86SE||08-28-2000||12:20 AM||||I live just off of I-90, just in South Dakota, so it wasent me!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Im inocent!<P>------------------<BR>'86 Special Edition,<BR>High-Output V-6 Yellow Fiero<BR>Special Rally Heavy Duty Suspention||||reg||1
+Z||000002||JohnnyK||08-28-2000||02:50 AM||||It was a sweet car, and I thought they might have been coming from Canada to the meet, but they didn't show.||||reg||1

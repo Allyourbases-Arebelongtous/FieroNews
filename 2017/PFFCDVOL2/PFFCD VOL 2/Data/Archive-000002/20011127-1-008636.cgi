@@ -1,0 +1,3 @@
+A||||1||spike||Anyone got a Fiero GIF/JPG||||5||
+Z||000000||spike||07-06-2001||12:10 PM||||Hi, I am in the middle of building my website and I am looking for some Fiero Icons.  White background would be great but not that important.  Please dont be shy, all models welcome.  Please note that I might have to modify them a bit to fit the site (size).<P>Thanks everyone,<P>Mike  ||||reg||5
+Z||000001||FieroJoe||07-06-2001||02:21 PM||||so, like ones like my sig file?  Or do you want something already pretty small?<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/joesig_1.jpg"> <BR>'87 Coupe 5spd.<BR>AIM:FieroJoe87||||reg||1

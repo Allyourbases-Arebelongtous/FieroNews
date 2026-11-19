@@ -1,0 +1,5 @@
+A||||3||Bruce||oil filter thread||||1||
+Z||000000||Bruce||05-19-2000||12:21 AM||||Can anyone refer me to the section in the forum in which we talked about manufacturer part #'s for oil filters? I can't seem to find it.<BR>Thanks!<BR>bb||||reg||1
+Z||000001||DXR_DAD||05-19-2000||12:52 AM||||OIL, OIL and more OIL:<P> <A HREF="http://www.fiero.nl/forum/Forum1/HTML/001813.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/001813.html</A> <P>Whatz up Bruce??||||reg||12
+Z||000002||Bruce||05-19-2000||02:25 PM||||Doing well, thanks.<BR>You didn't miss anything if you didn't attend the Coast Classics Car Show- it was windy, cold; and no Fieros!!<BR>bb||||reg||1
+Z||000003||DXR_DAD||05-19-2000||09:02 PM||||Yep I missed it, The club backed out the day before, but lets just hope there we be some local FIERO SHOWS soon!!!!. We need to get our club and our cars out so more people will know who we are.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P><BR>Glad every thing is going well<P>DXR_DAD||||reg||14

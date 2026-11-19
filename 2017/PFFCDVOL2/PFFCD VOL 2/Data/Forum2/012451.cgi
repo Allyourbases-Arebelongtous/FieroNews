@@ -1,0 +1,6 @@
+A||||4||Loki||Where do I find the.....||||1||
+Z||000000||Loki||08-01-2001||11:09 AM||||Low pressure and high pressure fittings for the a/c system?  Im converting  mine and dont have a clue. (I got the rest figured out though  <IMG SRC="http://www.fiero.nl/forum/smile.gif">)<BR><P>------------------<BR>Loki<BR>ICQ# 16477998||||reg||1
+Z||000001||88CoupeV6||08-01-2001||11:13 AM||||Blue is low Red is high<P> <IMG SRC="http://www.fiero.nl/uploads/ac.jpg"> <P>------------------<BR>Josh<BR>  <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg">   <BR><B>Also 88 Yellow GT</B> :D  <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||1
+Z||000002||Loki||08-01-2001||11:29 AM||||SWEET!!   <IMG SRC="http://www.fiero.nl/forum/smile.gif">  Thanx ya   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P><P>------------------<BR>Loki<BR>ICQ# 16477998||||reg||1
+Z||000003||MD_Fiero||08-01-2001||11:55 AM||||i know this is a vague ?, but my AC in my 86' doesnt work, its not just the freon...my dad says its the hole unit, how much am i looking at to get it replaced?||||reg||1
+Z||000004||Loki||08-01-2001||12:27 PM||||Depends on where it is.  Could be something cheap or could get expensive.. ALl depends.<BR><P>------------------<BR>Loki<BR>ICQ# 16477998||||reg||1

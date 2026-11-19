@@ -1,0 +1,2 @@
+A||||0||Fierobruiser||Quad 4 books||||1||
+Z||000000||Fierobruiser||12-06-2001||10:13 PM||||Anyone interested in hi-output Quad 4 books by GM service Technology? I just saw these at alibris.com. "Electronic control system", Engine Mechanicals", and "Certified Plus Training for Quad 4 Book 1 & 2". They're all priced at $14.95. Just type Quad 4 in the search and they'll pop right up.<P>------------------<BR>Notchbacks Rule<BR>85GT(show car)<BR>88Coupe (daily driver)<BR>84 Coupe(project car)||||reg||1

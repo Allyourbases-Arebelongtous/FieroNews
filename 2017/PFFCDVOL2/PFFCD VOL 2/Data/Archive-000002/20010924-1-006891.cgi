@@ -1,0 +1,6 @@
+A||||4||danny boy||STUPID CARPET!!!||||1||
+Z||000000||danny boy||04-15-2001||09:57 PM|||| What do they glue this stuff on the doors with!!?! Hard to get off!! ARRGGGHHH!!!||||reg||1
+Z||000001||Bluebottlejunky||04-15-2001||10:00 PM||||LOL I know man, I used WD-40 worked great!<P>------------------<BR>Mike<BR>85'GT 4sp, <BR>AOL IM: Fierofanatic2001||||reg||1
+Z||000002||FieroLisa||04-15-2001||11:38 PM||||WD-40 is fine as long as you aren't really planning on re-glueing something right away, it won't stick well at all! It does get it off well though. When we did my lower door panels in black vinyl, we left most of the carpet still on there, just took the edges off.||||reg||1
+Z||000003||rogergarrison||04-16-2001||06:11 AM||||i keep saying that contact cement is the way to go, see how good it holds !!!!!! hehe||||reg||1
+Z||000004||danny boy||04-16-2001||04:53 PM||||One door done, the other is still on the car and I'm waiting a while for it. Ok, I'm dreading it. I am using contact cement. I did the lower doors on my old coupe and it held just fine. It also worked on other stuff, but held the headliner matereal on for about 3 days.Imagine my surprise when suddenly, at 70MPH on the interstate, the whole headliner matereal piece fell over me like a tent.Woo! that was scary.||||reg||1

@@ -1,0 +1,3 @@
+A||||1||gixxer||88 Springs||||1||
+Z||000000||gixxer||09-19-2000||12:02 AM||||About a week ago I E-mailed The Fiero Store with a simple one-line question  about the spring rate for the front 1" lowering springs for the '88. So far, they haven't  bothered to reply. Maybe they don't know...<BR>I was wondering if anyone here knew what the spring rate is for these? <BR>Thanx.  ||||reg||1
+Z||000001||leetee@webaccess.net||09-19-2000||01:22 AM||||I have an 88 and it was lowered by cutting the springs to lower the front end.  Now I need new springs as it is too low for the street dips in this town.  Just a  warning!||||reg||1

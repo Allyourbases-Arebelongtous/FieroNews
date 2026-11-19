@@ -1,0 +1,7 @@
+A||||5||86SE||is it a 3 speed or 4??||||5||
+Z||000000||86SE||02-25-2000||09:30 PM||||I have an auto trans, it will shift from 1 to 2 then 2 to 3 then at about 60MPH it will shift again, about a 500-600 RPM drop.  Is that 4th shift the over-drive? what is that final drive ratio, is it 3.33??||||reg||5
+Z||000001||Cooter||02-25-2000||09:38 PM||||3 speed with lock up torque converter.||||reg||1
+Z||000002||86SE||02-25-2000||09:52 PM||||do all 3 speeds have the lock up torque converter??||||reg||1
+Z||000003||fiero56||02-25-2000||09:55 PM||||From everything that I have heard, all trannys in the Fiero are the same design. 3 speed auto with no overdrive. They do all have the lock up torque convertor. Ratios can be seen on my site at: <A HREF="http://www.geocities.com/MotorCity/Pit/3490/html/specs.html" TARGET=_blank>http://www.geocities.com/MotorCity/Pit/3490/html/specs.html</A> ||||reg||1
+Z||000004||Formula||02-26-2000||09:20 AM||||how do I know if I have 3.33 or 2.84 gears.<P>did the formula and GT have different gearing?||||reg||1
+Z||000005||fiero56||02-26-2000||09:56 AM||||Looks like I never proofed that page before posting it on my site.<BR>Without being able to check my notebook with everything in it, I believe the first year mentioned is the 4-cyl, then below is the v-6.<BR>example: <BR>1988...3.33 is the 4-cyl<BR>1988...2.84 is the v-6<P>I'll have to double check to be sure though.||||reg||1

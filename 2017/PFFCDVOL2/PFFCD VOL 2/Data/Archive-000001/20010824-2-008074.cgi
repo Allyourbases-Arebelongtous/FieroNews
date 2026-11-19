@@ -1,0 +1,4 @@
+A||N||2||SCFIERO||ENGINE HELP||||5||
+Z||000000||SCFIERO||01-26-2001||02:45 PM||||I have 2 Fiero GT's one is an 87 Auto and the other is an 88 5spd.  I am looking to do some engine transfers.  I have a plethora of motors to choose from 350's, 3.8 turbos', sb 400's as well as caddy 500's.  What is the easiest way to swap these engines into the Fieros.  Which ones are simpler to fit in a fiero.  Any info would be great.  Just looking for some direction.  <BR>||||reg||5
+Z||000001||Coop88||01-26-2001||03:06 PM||||From what I've read, it looks like the easiest swap would be a regular 3.4L(pushrod).You may want to do a search. There's lots of info on it. ||||reg||10
+Z||000002||mrfixit58||01-26-2001||04:31 PM||||Look at this: <A HREF="http://sites.netscape.net/bubbajoexx/homepage" TARGET=_blank>http://sites.netscape.net/bubbajoexx/homepage</A> <P>Roy  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>||||reg||14

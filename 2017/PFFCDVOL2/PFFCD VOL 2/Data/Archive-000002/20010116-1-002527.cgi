@@ -1,0 +1,11 @@
+A||||9||Dan86gt3.8||I got my new home page up and running!||||12||
+Z||000000||Dan86gt3.8||06-14-2000||12:41 AM||||Here it is <A HREF="http://www.z28.com/homepage/" TARGET=_blank>http://www.z28.com/homepage/</A>  ....||||reg||12
+Z||000001||Pretender||06-14-2000||12:45 AM||||great page!....where is the car though?..||||reg||1
+Z||000002||RossT||06-14-2000||12:48 AM||||Dan, you got some ssttrraannggee relationships going on..||||reg||1
+Z||000003||wkayl||06-14-2000||01:06 AM||||My wife says that you are sick.  Anyone that would want to look at that kind of page is sick also.<BR> Oh by the way did I mention, LMAO!!!!!!!!!!!HEHEHEHEHEHE!!!!!!!!!!!!!WHEW!!!!!Stop, let me catch my breath!!!!!!!||||reg||1
+Z||000004||My7Fieros||06-14-2000||01:51 AM||||Im afraid even a Fiero isnt gonna help that guy! man o' man! :-)||||reg||4
+Z||000005||Haze_Performance||06-14-2000||04:36 AM||||Come on now Dan!.....Tell the rest of story. What about Crazy Uncle Billy??? Remember what he did to Little Jake in that broke down 76 Camaro behind the shed??? If you can't find them I still have my copies of the pictures.<P>Oh god he's got me doing it now HELP!!!||||reg||14
+Z||000006||Old Lar||06-14-2000||07:58 AM|||| <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif">  You are one sick puppy.  But I laughed until tears came to my eyes.  What does that make me?||||reg||1
+Z||000007||Fret Naught||06-14-2000||03:06 PM||||Well OK Dan, uh uh I sure hope I don't get fired for going to that site at work. Uh yeah very uh interesting.||||reg||1
+Z||000008||Dan86gt3.8||06-14-2000||03:58 PM||||for all of you that didn't catch the wink thats not my site.  I just thought it was damn funny!  this is my 5th time to look at it and I am still LMAO!  I just sould not take any more credit for this site, But I do love rednecks and had thought about making a site like this before.  Wheeeh I got to stop looking at this, yall spread the word about the site!||||reg||1
+Z||000009||Dan86gt3.8||06-15-2000||12:09 PM||||ohhh man I had even more fun last night on the site where that guy got most of his pictures its <A HREF="http://www.uglypeople.com" TARGET=_blank>www.uglypeople.com</A>   Ohh man is it a blast, me and my friends were almost crying it was soo funny!||||reg||1

@@ -1,0 +1,4 @@
+A||N||2||Russ||eng stumbles & stalls after  5 to 8 minutes||||5||
+Z||000000||Russ||04-03-2001||04:34 PM||||1986 Fiero 2.5L   Once the eng has run for 5 to 8 minutes it starts to stumble & stalls. Will not restart until eng has cooled for about 1/2 hour.  also at above 2500 RPMs the eng misses..All ignition parts are new, fuel pump,EGR,fuel filter Fuel injector- All the sensors are new --no trouble codes now.  these at do not work..air conditioning,the coaling fan does not kick on,,the alternator does not work||||reg||5
+Z||000001||theogre||04-03-2001||08:14 PM||||which ignition parts did you replace?||||reg||1
+Z||000002||Russ||04-04-2001||08:32 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by theogre:<BR><B>which ignition parts did you replace?</B><HR></BLOCKQUOTE><P>Replacment parts: spark plugs,plug wires,distributor cap,rotor,coil,module,pick-up coil.||||reg||1

@@ -1,0 +1,3 @@
+A||N||1||Slapnutz2000||Question about Vavle job||||5||
+Z||000000||Slapnutz2000||06-24-2000||05:37 PM||||I got a vavle job done on my 86 am4 about 1300 miles ago. I replaced the fuel filter, got a major tune up, and put a new head gasket put on...also replaced every major engine component.  My question is: How long should I expect this engine to last? I haven't had any problems so far (I know it's only been 1300 miles) and have seen a dramatic pickup in performance.  The car has 73,300 miles.<P>TIA,<BR>James<BR>||||reg||5
+Z||000001||Slapnutz2000||06-24-2000||05:42 PM||||Maybe I should learn to spell before I post?||||reg||11

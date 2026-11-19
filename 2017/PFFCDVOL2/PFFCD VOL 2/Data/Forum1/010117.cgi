@@ -1,0 +1,3 @@
+A||||1||DrewBoOty||1/4 mile times???||||1||
+Z||000000||DrewBoOty||09-07-2001||03:26 AM||||i have a 87 gt and all it has is a high flow cat. does anybody know what the stock fiero runs or has a close idea of what it might<P>------------------<BR>----"There Are No Stupid Questions, But There Are A LOT Of Inquisitive Idiots."||||reg||1
+Z||000001||GTMike||09-07-2001||04:47 AM||||most stock run mid to high 15s with manual and mid to high 16s with auto.    i have an 87 gt with no cat and cold air intake.  i'll be running it at the test and tune night in denver.  in 2weeks.  i have a pretty warn clutch  so i'm expecting hi 16s.   i'm also at 5800 feet above sea level.  i'll past my time slips  in 2 weeks. ||||reg||1

@@ -1,0 +1,5 @@
+A||||3||LemonSky||Where can I find gold Fiero paint?||||5||
+Z||000000||LemonSky||04-08-2001||09:55 AM||||Hi, everyone, I'm looking to paint the faded spoiler on my Gold 1986 SE6, but I recall hearing or reading somewhere that GM discontinued producing this color (code 56) eons ago. Does anyone know if there is an aftermarket place or online store where I might find this color (or at least something similar)? Thanks.||||reg||5
+Z||000001||FieroLisa||04-08-2001||10:09 AM||||I repainted my coupe that color a year ago. You can still get it ( at least up till a year ago), its called something like light metallic gold. ||||reg||1
+Z||000002||fierolarry||04-08-2001||12:15 PM||||Get the paint code # and call a Sherman Williams paint store if they have one in your area. Sherman Williams does auto paint. Good luck||||reg||1
+Z||000003||rogergarrison||04-08-2001||02:10 PM||||maybe u misunderstood, Pontiac may have discontinued using that color. But any automotive Paint store can mix it. You can still get colors for 1920's cars. All they need is the year and code off your car.||||reg||1

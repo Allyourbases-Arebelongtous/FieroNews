@@ -1,0 +1,4 @@
+A||||2||KingCobra||1985 Fiero SE 2M4||||1||
+Z||000000||KingCobra||06-29-2001||11:43 PM||||I have a chance to get one for free does any one think it would be worth getting or what it needs all of the interior and exterior panels.||||reg||1
+Z||000001||Adrift||06-29-2001||11:46 PM||||A free car is a free car - if it doesn't have interior or exterior panels it is a perfect <A HREF="http://www.kitcars.com" TARGET=_blank>Kit Car</A> candidate!<P>------------------<BR>My Dream Fiero, you ask?<BR>That would be a automatic '86 or newer V6 GT Fastback with T-Tops and A/C, fully running and for sale for under $1000 CAN. Know someone who's selling a car like this for this price in the Toronto area? PLEASE E-MAIL ME!!!||||reg||1
+Z||000002||Cheever2||06-30-2001||02:08 AM||||If nothing else, there's plenty of stuff you can sell to people here, to be worth your trouble.  Look at eBay to get an idea of all the little parts you can take off & sell.  <BR>||||reg||1

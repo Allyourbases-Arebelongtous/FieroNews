@@ -1,0 +1,3 @@
+A||N||1||polomeno||4sp car.. swaping in stock engine from auto... anything extra i need to do ??||||1||
+Z||000000||polomeno||01-19-2001||05:23 PM||||hey guys.. my 4sp engine blew a rod a few weeks ago and i have a replacement engine ( thanks to bubbajoexx ) that is from a auto.. is there anything extra i'm gonna need to do? will it just bolt up to my tranny ?<P>thanks<P>John||||reg||1
+Z||000001||Shaun41178||01-19-2001||08:40 PM||||only thing you will need to do is to take off the flexplate and install your flywheel in its place.  that is it.<P>i bought a engine from a manual tranny car and I have an auto.  i swapped the flexplate and flywheel and dropped it in and I have had no probs.  i even run nitrous on it!<BR>||||reg||1

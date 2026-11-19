@@ -1,0 +1,8 @@
+A||||6||Fret Naught||It This A Big Deal||||5||
+Z||000000||Fret Naught||04-20-2000||03:20 PM||||Long Story Short, My mom bought a Fiero in 84, She has since passed away, I loved it, and bought mine sort of in memory of her,(it is a reminder) I was talking to My Sis. she said Hey I have mom's Fiero Luggage it came with her car do you want it? I said sure. Is the Luggage thing a novelty or what?<BR>Love this Forum||||reg||5
+Z||000001||ChadMan||04-20-2000||03:39 PM||||I think it's a big deal!  I have seen pix of the luggage in Pontiac press materials, but have never seen a set in person.  Not only is it super rare, but it probably has sentimental value for you too.||||reg||14
+Z||000002||Fret Naught||04-20-2000||05:26 PM||||It definately has sentimental value, I wondered if they were rare I haven't seen any but, I have only been doing this for a couple of months thanks for the reply||||reg||1
+Z||000003||GT Bastard||04-20-2000||06:39 PM||||Good find.  Now you need to change your name to Luggage man.||||reg||1
+Z||000004||TOM||04-20-2000||09:06 PM||||When you get a chance a picture would be great.||||reg||1
+Z||000005||Oreif||04-21-2000||01:21 AM||||As far as I know you were only able to get the luggage thru a dealer back then. It was one of those dealer options that were popular back then.  ||||reg||1
+Z||000006||Fret Naught||04-21-2000||11:21 AM||||I talked to my sister this morning, she said that if I wanted them I had to come and get them, NO PROBLEM, I am going to Michigan on vacation this summer to see her, so I will get them then.  She said too bad, she didn't keep the jackets (I guess mom and dad got matching jackets when they bought the car)||||reg||1

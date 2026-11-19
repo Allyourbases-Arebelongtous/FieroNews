@@ -1,0 +1,2 @@
+A||||0||btoth||Difference between dash panels||||5||
+Z||000000||btoth||07-22-2001||11:43 AM||||I was looking for the replacement panels (the silver parts that go around the shifter and the guages).  Well, what is the difference between the Dark Grey ones vs. the Silver ones.  I believe my 86 GT has the Silver... I thought I remembered the Dark Grey being in the 88's.  Anyone got pics?  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||5

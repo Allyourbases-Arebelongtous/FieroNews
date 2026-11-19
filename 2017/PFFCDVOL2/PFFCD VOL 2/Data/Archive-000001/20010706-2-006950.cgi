@@ -1,0 +1,5 @@
+A||N||3||Brad Meerfeld||3.4 TDOC Engine Swap||||5||
+Z||000000||Brad Meerfeld||11-24-2000||07:31 PM||||I want to do a 3.4 TDOC engine swap on an 88 Fiero Formula. I would appreciate any wisdom and guidance anyone can give me. Thank you!||||reg||5
+Z||000001||Philphine||11-24-2000||07:54 PM||||go to search funtion and search under 3.4 tdc or dohc. i kind of want to do this swap too or a similar one and recently looked up the old posts on it. also if some can help me, i don't know how, there is a link to someone nomed glubrect (probaly spelled it wrong) who has an internet web page where he discribes his 3.4 dohc swap.||||reg||1
+Z||000002||Philphine||11-24-2000||07:59 PM||||glubrecht. had to find it. i've emailed him before and he seems helpful and willing to share what he knows.||||reg||1
+Z||000003||terryk||11-24-2000||10:16 PM||||Get on the Yahoo club "Performance 34 DOHC" and look for Mike Smith as "mwsz34fiero". He has an 88 with a 96 DOHC. A friend is just finishing a 94 DOHC -&gt; 85 GT. I started it, but I switched to an SC engine.  <P>What year DOHC?<BR>||||reg||1

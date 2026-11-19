@@ -1,0 +1,2 @@
+A||||0||JohnnyK||Woohoo..||||1||
+Z||000000||JohnnyK||11-07-2000||10:44 AM||||Got my cradle back up and with my new aluminum bushings and the bolts through in less than an hour (I don't know what the average time was, but nothing went wrong.. I feel good..  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> I still have to weld the nuts for the back two cradle bolts back into the frame though..||||reg||1

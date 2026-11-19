@@ -1,0 +1,8 @@
+A||||6||ChadMan||Grassroots Motorsports on Fiero||||5||
+Z||000000||ChadMan||08-20-2001||09:44 AM||||Does anybody have the Mar/Apr 94 issue of Grassroots Motorsports, containing the Pontiac Fiero Profile/History/Buyer's Guide?<P>If so, would you be willing to make copies for me at my expense or post these on the Web?  (I'd order the back issue, but they are sold out.  <IMG SRC="http://www.fiero.nl/forum/frown.gif"> )<P>Thanks...||||reg||5
+Z||000001||Hartz||08-20-2001||03:48 PM||||I am pretty certain I have that issue.  I will take a look this evening and see if I can't scan it in for you or something.<P>Hartz<BR>'84 SC 5.7L V8<BR>'85 SE 3.1L V6 Turbo||||reg||1
+Z||000002||Hartz||08-20-2001||06:56 PM||||You've got mail.  Enjoy.<P>Hartz<BR>'84 SC 5.7L V8<BR>'85 SE 3.1L V6 Turbo||||reg||1
+Z||000003||firstfiero||08-20-2001||10:03 PM||||    dude that sounds like good info. ..... any chance you can put that up here for the rest of us?<P>------------------<BR><BR>   <IMG SRC="http://www.fiero.nl/uploads/firstfiero.gif"> ||||reg||14
+Z||000004||Hartz||08-20-2001||11:02 PM||||Well...  the only problem is that by the time I scanned it in, the entire article is 6 pages that takes about 5 MB or so.  If someone wanted to put it up on a web site or something, I'd be happy to mail it to them, but I don't really know what to do with it myself!  <P>Hartz<BR>'84 SC 5.7L V8<BR>'85 SE 3.1L V6 Turbo||||reg||1
+Z||000005||FieroMontreal||08-20-2001||11:09 PM||||sure would be something nice to read! <p>[This message has been edited by FieroMontreal (edited 08-20-2001).]||||reg||1
+Z||000006||Wannabe||08-21-2001||08:39 AM||||I'd be happy to put it on my website. Please e-mail it to me to post for all to see!||||reg||1

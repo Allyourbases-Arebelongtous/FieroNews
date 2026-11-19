@@ -1,0 +1,5 @@
+A||||3||Formula||question about butts||||1||
+Z||000000||Formula||03-22-2000||12:56 PM||||How hard was it to swap the back of your GT onto the back of a notchback.<P>and how hard is it to swap the ground FX?||||reg||1
+Z||000001||FieroMeister||03-22-2000||01:18 PM||||From talking with a couple of guys that have done the conversion it seems that the most difficult part is changing out the wiring harnesses for all the rear lights.  Everything else seems to be a straight parts swap.  Hope this helps.||||reg||6
+Z||000002||mrfiero||03-22-2000||06:34 PM||||The wiring is just that simple too....just "plug and play".  With the roof section removed the wiring is a piece of cake to remove and re-install.  I think a lot of people try wiring their stock coupe harness to work with the GT lights....that's probably why many think the wiring is a pain....who knows.  ||||reg||1
+Z||000003||Earne||03-22-2000||06:43 PM||||Are the pin holes and the tab notches the same for the bottom trim?  I'm thinkin' there may be some work there.<P>E||||reg||1

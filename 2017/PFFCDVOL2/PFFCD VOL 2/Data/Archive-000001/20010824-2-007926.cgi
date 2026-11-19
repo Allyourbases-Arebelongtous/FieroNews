@@ -1,0 +1,3 @@
+A||||1||bryce||-||||5||
+Z||000000||bryce||01-19-2001||02:59 PM||||can i built a V8 in a fiero from 1897<BR>and is it divecould or not ?<BR>||||reg||5
+Z||000001||Hank is Here||01-19-2001||03:19 PM||||dodn't think they made a 1897 Fiero, heck Ponitac was around.<BR>But yes, you could put a V8 in any Fiero.<BR>Check out  <A HREF="http://www.v8archie.com/" TARGET=_blank>http://www.v8archie.com/</A> <P>------------------<BR>Hank is Here<BR>87 GT<BR>88 Coupe<BR>84 SE<BR>  <IMG SRC="http://a1060.g.akamai.net/f/1060/597/30minutes/www.zing.com/picture/p60e80970138058d8e3fae31692e151e0/fef43e85.jpg"> ||||reg||1

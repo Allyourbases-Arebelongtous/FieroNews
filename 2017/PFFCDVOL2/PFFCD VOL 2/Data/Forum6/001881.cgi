@@ -1,0 +1,2 @@
+A||||0||Galen||RPGers, writers, cartoonist and the such ...||||1||
+Z||000000||Galen||04-18-2001||02:55 AM||||Anyone interested in writing for a website that reviews/previews RPG's? Wanna do a weekly cartoon? a weekly 'funny'? Email me at galen@spinrpg.com for more info <IMG SRC="http://www.fiero.nl/forum/smile.gif"> hehe<P>------------------<BR>Galen - 1988 Hawaiian Orchid Coupe - <A HREF="http://myfiero.spinrpg.com/" TARGET=_blank>My Fiero Website</A><BR><A HREF="http://www.spinrpg.com/" TARGET=_blank>Spinrpg.com - Free URL & e-mail Forwarding</A>||||reg||1

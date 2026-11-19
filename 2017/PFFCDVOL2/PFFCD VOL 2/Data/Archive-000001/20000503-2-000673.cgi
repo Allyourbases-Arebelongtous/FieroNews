@@ -1,0 +1,2 @@
+A||||0||Kage86GT4SP||Parts difference between 4 and 5 speed
+Z||000000||Kage86GT4SP||08-22-99||07:41 PM||||picked up a fukky warranteed Isuzu 5sp form the amazing price of $99... and THEY removed it!!!<p>So... to complete the process, what else am I going to need to replace in going from the four to the five?  I can get the other parts at roughly the same type of price, comparitively speaking...<p>Thanks!<p>K

@@ -1,0 +1,2 @@
+A||||0||-=shame=-||GM update on door seals.||||1||
+Z||000000||-=shame=-||09-12-2000||06:26 PM||||I read in Popular Mechanics that, all GM cars before 98, the door seals, condition them with silicone grease. I tried it and it's stops the window from leaking while in the carwash. Keep a rag handy to whipe off the extra and uh, clean em first. This however doesn't work on the window strip to the door.||||reg||1

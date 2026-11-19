@@ -1,0 +1,8 @@
+A||||6||ezsurf||Heater Hoses
+Z||000000||ezsurf||06-09-99||10:02 PM||||<br>I have an 86 Fiero SE with a 2.8L engine.  There are three heater hoses in the engine bay.  I have been unable to locate any of them at any auto parts store.  The local Pontiac dealer said GM quit making then and they were unable to get them.  I'm still waiting to hear if the Fiero Store carrys them.  Anyone else had this problem and know where to find these artifacts?
+Z||000001||Lynx||06-10-99||12:49 AM||||Cant you just bend some hose and make your own heater hoses.
+Z||000002||ezsurf||06-10-99||06:29 AM||||Most of these hoses taper from 3/4 to a 5/8.  I try to use the correct parts whenever possible to prevent additional problems.  These hoses are heavily moulded. Custom cutting hoses are my next, and last option. Also, I have never seen a piece of straight hose that tapers from 3/4 to a 5/8.
+Z||000003||lowCG||06-10-99||11:01 AM||||Goodyear had a catalogue with a picture/description guide for strange automotive/marine hoses,this was a few years ago,but that's where I'd start.
+Z||000004||RossT||06-10-99||10:29 PM||||Fiero Store catalog page 11 has everything<br>that you need!!!!
+Z||000005||ezsurf||06-11-99||08:06 PM||||I received word from the Fiero Store about the heater hoses.  They said that GM quit making the hoses 3 or 4 years after they stopped producing the Fiero.  The Fiero Store does not have reproductions either.  It's hard to believe that after all the trouble I've had locating parts the only ones I haven't been able to find I was sure were still available.
+Z||000006||HF6582||06-14-99||01:22 AM||||unless your car is differant than my '86,<br>I used NAPA 3/4" heater hose in the engine compartament. It works fine.<p>Scott

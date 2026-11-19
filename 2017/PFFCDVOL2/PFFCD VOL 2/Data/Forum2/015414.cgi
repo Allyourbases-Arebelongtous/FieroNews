@@ -1,0 +1,3 @@
+A||N||1||johnt671||radiator drain plug removal||||1||
+Z||000000||johnt671||11-14-2001||12:08 PM||||Anybody know how to get the drain plug out of an 84?  The directions on the new one say to use an open end wrench but there isn't enough room.  Thanks.||||reg||1
+Z||000001||Voytek||11-14-2001||03:06 PM||||Shouldn't the drain plug be in the lower r/h corner of the radiator?  I've removed them on '85's and '87's but never on an '84.<P>In any case, they can be tough to undo.  I used a pair of small pliers to hold on to the plug.  Tightened by hand.<P>Good luck.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/voyteks_sig2.gif"> ||||reg||1

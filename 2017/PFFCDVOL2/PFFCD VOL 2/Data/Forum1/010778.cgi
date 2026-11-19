@@ -1,0 +1,7 @@
+A||||5||87FieroGTx||Is there a New York Fiero club?||||5||
+Z||000000||87FieroGTx||10-06-2001||08:58 PM||||Is there a New York Fiero club???????||||reg||5
+Z||000001||grgoyl86||10-06-2001||10:15 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by 87FieroGTx:<BR><B>Is there a New York Fiero club???????</B><HR></BLOCKQUOTE><P><BR>Check out <A HREF="http://www.fieropride.com." TARGET=_blank>www.fieropride.com.</A>  This is a website for Mid Atlantic Fiero Owners Association and New England Fiero Association. We have members throughout the area, including around NY.<P><BR>||||reg||14
+Z||000002||voyagerspe||10-06-2001||11:23 PM||||yup<P>there one based in owego (an hour from you)<P>httP//nypennfiero.homestead.com/fiero.html<BR> <A HREF="http://nypennfiero.homestead.com/fieros.html" TARGET=_blank>http://nypennfiero.homestead.com/fieros.html</A> <P>||||reg||1
+Z||000003||Bens88GT||10-06-2001||11:41 PM||||I haven't made it to any of the gatherings yet. Voyagerspe, do you know when the next one will be?<p>[This message has been edited by Bens88GT (edited 10-06-2001).]||||reg||1
+Z||000004||Dave Gunsul||10-07-2001||03:55 AM||||Long Island Fiero Enthusiasts<BR>Contact: Dave Fanning<BR>9 Lucille Lane<BR>Commack, NY 11725<BR>email: defannin@suffolk.lib.ny.us<P>------------------<BR>Dave Gunsul<BR>N.I.F.E. member<BR>86 GT modified<BR>85 SE daily driver||||reg||1
+Z||000005||Fiero5||10-10-2001||12:26 PM|||| <IMG SRC="http://www.fiero.nl/uploads/Rutland14_1.jpg"> ||||reg||1

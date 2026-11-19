@@ -1,0 +1,2 @@
+A||N||0||beachbomb||North FL/South GA fiero club members(read)||||4||
+Z||000000||beachbomb||01-12-2001||11:14 AM||||Hey all, just located a 1988 Fiero coupe for sale. 4 cyclinder, 134,000 miles(i think), 5 speed, white. Your basic Fiero, it is located on Blanding blvd, go north just past Kelly Pontiac, on the left there is a little used car lot, the '88 is located in the middle of the lot, small place, its almost directly across the street from that new post office. Just thought some-one might be interested,,later..jim(2 '84 INdys)<BR>p.s. window price was $1,211.||||reg||4

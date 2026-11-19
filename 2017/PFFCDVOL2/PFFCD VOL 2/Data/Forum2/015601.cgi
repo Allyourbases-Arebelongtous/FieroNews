@@ -1,0 +1,2 @@
+A||N||0||3fifty||85 GT idiot light and gauge switch?||||1||
+Z||000000||3fifty||11-19-2001||08:01 PM||||Ok, here goes. My gauge was not working. I bought a swith at AZ. Yep, they gave me the one for the idiot light only. When I went to replace it I found that my connector was melted and not even on the switch.I cut the melted connector away from the lugs on the harness. I have the correct switch now. One side of the plastic on the switch is open. Which lug does the green striped wire go to?<BR>My switch is on the t-stat side pass front.||||reg||1

@@ -1,0 +1,2 @@
+A||||0||Rodney||Cheap 88 coupe for sale in Milwaukee, WI.||||1||
+Z||000000||Rodney||09-04-2001||08:10 AM||||Yellow. 120,000 miles. Looked OK but I did not look at<BR>it. I just put a business card on it. Says he will take<BR>$400. I bet it would go for less since he has been<BR>getting a hassle from the cops for too many cars in his<BR>yard.<P>Call: John at 414-305-9530<P>I do not know this guy.<P><BR>Thanks,<BR>Rodney Dickman<BR>New web page! <A HREF="http://www.rodneydickman.com" TARGET=_blank>http://www.rodneydickman.com</A> <P><BR>||||reg||1

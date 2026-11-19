@@ -1,0 +1,7 @@
+A||||5||LITTLEFUR||car will dot start need help fast||||5||
+Z||000000||LITTLEFUR||04-14-2001||12:06 AM||||i am haveing some kind of electirical proplem with my fiero.  I can not get it to start.  I am getting no spark from the coil. there are four wires that go into the coil all four wires are getting power but still no spark.  I have changed the coil and that didnt work. what could be wrong any ideas or ways to test would be great thanks guys/girls||||reg||5
+Z||000001||My7Fieros||04-14-2001||12:12 AM||||What coil did you replace? If you replaced the ignition coil, fine...but, sounds like your problem is prob the pick up coil in the dist. Easy fix and cost around 8 bucks at autozone. You have to pull the dist though, so note the locations so you wont have a timing prob when you put it back in. <BR>Its the round thing in the dist with the wires that wrap around it and connect to the ingition control module...may wanna go on and replace that to while you're at it. M7F||||reg||1
+Z||000002||LITTLEFUR||04-14-2001||12:34 AM||||I replaced the ignition coil.  really thank you for the help i will give it a shoot thanks agian.||||reg||1
+Z||000003||Jules||04-14-2001||04:15 PM||||Mine was dead for a week. New fuel pump was testing good but still didn't start till I put a new relay switch on. ||||reg||1
+Z||000004||LITTLEFUR||04-15-2001||01:32 AM||||thank you my7fieros it was the ignition module.  people like you are what makes this the best fourum on the net||||reg||1
+Z||000005||My7Fieros||04-15-2001||01:54 PM||||Cool, glad to help. M7F||||reg||14

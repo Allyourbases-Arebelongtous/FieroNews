@@ -1,0 +1,3 @@
+A||||1||Coop88||Question for theogre||||5||
+Z||000000||Coop88||03-22-2001||05:25 PM||||I was in your cave reading about door hinge pins/bushings. You talked about using a nylon washer on the bottom hinge. Should this washer fit around the pin itself, or should it fit around the bushing? <BR>Thanks,<BR>Coop||||reg||5
+Z||000001||theogre||03-22-2001||06:23 PM||||Use the same nylon or copper washers that fit the oil drain plug. 10-12mm Inside diam I think. center it around the top of the bushing. You only want/need the washer in the bottom hinge. The idea is to completely  unload the shoulders of the brass. ||||reg||1

@@ -1,0 +1,6 @@
+A||||4||JohnnyK||Distributor o-ring||||1||
+Z||000000||JohnnyK||10-25-2000||10:57 PM||||Well, i was trying to adjust timing on my duke before, but the distributor was rusted in place. But now, since I have the engine out, I was able to get the distributor to rotate left and right. My question is, where it meets the block, there was some blue silicone or something. Is that necessary? Is that the o-ring that you people speak of? Thanks!||||reg||1
+Z||000001||theogre||10-25-2000||11:23 PM||||No, it's from some nitwit that was too stupid to replace the o ring. It's an O ring. basically like any other O ring you've ever seen but on the large side. As soon as you pull out the distributor you'll see it.||||reg||1
+Z||000002||JohnnyK||10-26-2000||08:53 AM||||So, I guess your saying I should replace the O-ring?  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||TheFiero64||10-26-2000||05:10 PM||||I would. They are really cheap.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif"> ||||reg||1
+Z||000004||JohnnyK||10-26-2000||06:56 PM||||Yeah, picked one up. Cost me a whole 37 cents..  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

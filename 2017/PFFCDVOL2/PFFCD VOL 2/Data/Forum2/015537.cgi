@@ -1,0 +1,2 @@
+A||||0||Kasdan||ATTN:TRAVIS/1fst2m6||||1||
+Z||000000||Kasdan||11-17-2001||11:39 PM||||Im having trouble getting my manifold off and i cant get in reach with Ronnie, i was wondering if youd like to take a trip over here tomorrow or next weekend, this leak is killing me!  Call me sometime, (706) 769-8425<P>------------------<BR>Tyler Morgan, 1986 GT<BR>  <IMG SRC="http://www.fiero.nl/uploads/kassig2.gif">                  <BR>Aftermarket Power Steering, Rebuilt 2.8<BR>http://www.geocities.com/mtyler14/index.html||||reg||1

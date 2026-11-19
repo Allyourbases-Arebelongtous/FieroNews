@@ -1,0 +1,4 @@
+A||||2||fotofrank||Distributer||||5||
+Z||000000||fotofrank||09-24-2001||02:04 PM||||I have a MSD GM Blaster coil amd MSD6A. Is there any advantage in replaceing the stock Distributer(124,900 + miles) with an MSD or rebuilt? The car is an '84 with a Duke. The additional things I've done: High flow CAT, Holley input, Holley TB, Hooker Tri-Y header and a K&N air filter. <P>------------------<BR>Peace and Happiness<BR>Frank and his fotoflash, an '84 SE 2M4<BR>http://www.homestead.com/fotofrank/foto1.html||||reg||5
+Z||000001||fotofrank||09-25-2001||11:12 AM||||BUMP||||reg||5
+Z||000002||Fiero_Freak||09-27-2001||01:00 AM||||  Was hoping someone would answer your question....have the same idea for my 87 GT with MSD6AL.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Fiero_Left_01.jpg"> <BR>Two '87 GT's...<BR>   ...Double Trouble||||reg||1

@@ -1,0 +1,3 @@
+A||N||1||DaveL||Transmission Filter Hanging||||5||
+Z||000000||DaveL||11-30-2000||03:54 PM||||Just changed the fluid and tranny filter, and when I took the pan off, the filter was lying in the bottom. When I put the new one in, I had to put the o-ring in first, then the filter. There was only a little metal sort of bracket that the filter sort of rested on. This doesn't seem like it would hold the filter too securely. Is there something I'm missing about the THM 125 in 87?||||reg||5
+Z||000001||deceler8||11-30-2000||04:56 PM||||Yes...that's how it works. The little bracket holds it in place and the pan, once installed, keeps it from slipping off.<P>You might have slipped the filter off the bracket when you removed the pan.||||reg||1

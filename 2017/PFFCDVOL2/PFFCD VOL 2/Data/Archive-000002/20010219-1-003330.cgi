@@ -1,0 +1,5 @@
+A||||3||Loki||Hey Cliff....||||1||
+Z||000000||Loki||08-19-2000||09:48 AM||||I went to go look through your web site and nearly every link I clicked on takes me right back the main page picture. I want to see this dash people are talking about   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Loki||||reg||1
+Z||000001||Monkeyman||08-19-2000||11:15 AM||||I hope Cliff doesn't mind me answering for him.  <P>Cliff has a full (and a half) time job in addition to working this forum so he just hasn't had time to finish all of the links.  You can find the info on his FDD-X1 digidash here:  <A HREF="http://pennock.nl/fdd-x1.htm" TARGET=_blank>http://pennock.nl/fdd-x1.htm</A> ||||reg||1
+Z||000002||Cliff Pennock||08-19-2000||04:59 PM||||No I don't mind MM.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>Actually, those photo's on my website are very poor and don't do the dash justice.||||reg||1
+Z||000003||Loki||08-20-2000||10:25 AM||||Groovey..Thanx to ya both   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Loki||||reg||1

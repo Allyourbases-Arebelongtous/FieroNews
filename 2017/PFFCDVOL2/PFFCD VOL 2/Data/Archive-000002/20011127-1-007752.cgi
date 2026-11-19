@@ -1,0 +1,5 @@
+A||||3||FieroLisa||More Carlisle Pics!||||1||
+Z||000000||FieroLisa||05-29-2001||12:27 PM||||Hi everyone, I finally got my Carlisle Pics on my webiste...so go visit! I have about 40 pics now...   <A HREF="http://www.geocities.com/fierolisa/carlisle2.html" TARGET=_blank>www.geocities.com/fierolisa/carlisle2.html</A>  <BR>If I have a pic of your car and no caption, email me and tell me your name and which car is yours, so I can write something about it under the pic!<BR>||||reg||1
+Z||000001||MooCow||05-29-2001||04:01 PM||||Wow lots of pics.  I love em.  Man do I wish I could have been there.  Congrats Lisa on your first place.<P>                                Thanks Ken<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sig.jpg"> <BR>87 GT, 3.4 engine with a 4:10 tranny, and Viper Yellow!||||reg||10
+Z||000002||FieroLisa||05-29-2001||04:50 PM||||Ken, it was second place but I was still pretty darn proud...I think 12 or so cars in my class? The first place car was the red gargoyle car...reallllly nice GT.||||reg||1
+Z||000003||Pontiaddict||05-29-2001||05:28 PM||||Nice pics. The Miata with the tail fins was worth a chuckle too.||||reg||1

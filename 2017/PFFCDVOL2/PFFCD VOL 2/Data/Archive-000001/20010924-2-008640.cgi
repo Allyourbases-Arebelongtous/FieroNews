@@ -1,0 +1,4 @@
+A||||2||faraonik||transmision problem PLEASE HELP..||||5||
+Z||000000||faraonik||02-26-2001||04:37 PM||||Need Help.My automatic transmission sometimes doesnt know decision betwen switch 2 and 3 gear and skip from single to sort.<BR>when reduce accelerator so insert.PLEEESE HELP MY.<P>Sory about my englisch.<P>Thanks behind every advice<P>Thanks <P>Peter from Slovakia  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||5
+Z||000001||bHooper||02-26-2001||04:52 PM||||i do not know much about automatics, yet, but have you checked the fluid level in the transmission?<P>you may also want to check the cables.<P>good luck, and welcome to the forum!<P>hoop||||reg||2
+Z||000002||Oreif||02-26-2001||05:04 PM||||Sounds like the Torque Converter lock-up solinoid is sticking. There is a Solinoid in the trans that goes bad that can cause problems.||||reg||1

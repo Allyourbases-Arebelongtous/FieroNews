@@ -1,0 +1,4 @@
+A||||2||TRiAD||So, when's this El Paso, IL show again?||||5||
+Z||000000||TRiAD||06-23-2001||06:28 AM||||Thanks!<P>------------------<BR><B><I>Michael ~ triadtuning@hotmail.com</I></B><BR>-----------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/88FieroGTwhitefscustomcroppedmini.jpg"> <BR><I>Photoshop rendering of planned exterior modifications.</I>||||reg||5
+Z||000001||Max The Chainsaw||06-23-2001||09:25 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by TRiAD:<BR><B>Thanks!<BR></B><HR></BLOCKQUOTE><P>Here's the web page.   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR> <A HREF="http://www.geocities.com/MotorCity/1930/elpasoshow.html" TARGET=_blank>http://www.geocities.com/MotorCity/1930/elpasoshow.html</A> <P>||||reg||1
+Z||000002||TRiAD||06-23-2001||03:26 PM||||Thanks!||||reg||1

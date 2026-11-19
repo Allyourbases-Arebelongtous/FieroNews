@@ -1,0 +1,3 @@
+A||N||1||200mph fierogt||flywheel?||||5||
+Z||000000||200mph fierogt||08-09-2001||08:51 PM||||I have heared from some people that a fiero flywheel can't be machined because of the hydraulic clutch. Is this true.||||reg||5
+Z||000001||artherd||08-10-2001||04:28 AM||||No, and take it somewhere else :)<P>The hydraulic clutch in a fiero is self-ajusting, so as long as the flywheel is within tollerable specs, you can (and definately SHOULD) resurface it when you put in a new clutch.<P>Best!<BR>Ben.<P>------------------<BR>  <IMG SRC="http://www.cartsys.com/fiero/88ttop.jpg">  <BR>Ben Cannon<BR>88 Formula, T-top Metalic Red<BR>88 Formula, Silver<BR>87 Coupe, Metalic Red<BR>"Every Man Dies, not every man really Lives"<BR>                -Mel Gibson, "Braveheart"||||reg||3

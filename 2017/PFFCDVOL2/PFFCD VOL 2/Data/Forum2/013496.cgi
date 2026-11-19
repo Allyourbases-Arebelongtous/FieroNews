@@ -1,0 +1,3 @@
+A||||1||gmata||Installing New Sunroof Seal||||1||
+Z||000000||gmata||09-07-2001||05:32 PM||||Got tired of hearing air noise and having water puddles on my sit, so I ordered a new seal.  Just recevied it yesterday, but need some advice.  <P>Which glue/sealant is the best to use and how much should I use and where?  How long should I wait until I put the sunroof back?  <BR>Also, were do I drill the holes?  I swapped roof with another fiero, so my doesn't have the drain holes..<P>Thanks,<BR>Gus<BR>||||reg||1
+Z||000001||cadaver||09-08-2001||12:06 AM||||The draid holes go just inboard of the corners where the seal sits.  Factory is 1/4 and I think only in the front. I drilled mine in all 4 corners and I drilled 1/2.||||reg||1

@@ -1,0 +1,12 @@
+A||||10||MCFIEROGUY||anyone from MD or VA ??||||5||
+Z||000000||MCFIEROGUY||09-07-2000||04:42 PM||||I was just wondering how many people on this forum are from my area. I grew up in Fredericksburg VA and now live in Ft. Meade MD<P>------------------<BR>-Chris||||reg||5
+Z||000001||Ralph||09-07-2000||07:31 PM||||From Middle River area of Baltimore....<P><P>------------------<BR>  <IMG SRC="http://www.geocities.com/yellowformula/LittleFiero.jpg"> <BR>  <B>  Ralph </B>||||reg||1
+Z||000002||turbo86se||09-08-2000||12:45 AM||||I live in SC now, but I'm from Frederick, MD. Where is Fort Meade? Is it near Frederick? I'll be in Frederick in a week for a few days- my sister is getting married!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>I don't know if I'll be driving the turbo 86SE, damn thing sucks gas too quickly, and with all my stuff where will I fit the golf clubs?  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>You'll really enjoy this forum!!||||reg||1
+Z||000003||HYPTNOTiSE||09-08-2000||02:17 PM||||I'm from frederick<P>------------------<BR>       Mike LeCompte<BR>86 Fiero GT 3.2L w/ Nitrous<BR>  <IMG SRC="http://www.tcac.net/~daddyg/hypsig.gif"> ||||reg||1
+Z||000004||ThatRickGuy||09-08-2000||02:19 PM||||Madison WI originally, currently stationed in Quantico, VA.||||reg||1
+Z||000005||MCFIEROGUY||09-08-2000||09:00 PM||||Stationed at Quantico? Are you in the Marine Corps .  I was just wondering because I am.<P>------------------<BR>-Chris||||reg||10
+Z||000006||MCFIEROGUY||09-08-2000||09:03 PM||||I don't know exactly where Frederick is But its not too far fro Ft. Meade, Ft Meade is located off the balto-wash parkway at rt. 32 and is home to the NSA.||||reg||10
+Z||000007||HYPTNOTiSE||09-09-2000||02:11 AM||||is that near college park or calverton/beltsville?<P>My girlfriend goes that way to work. she takes 70 and gets off on 32, and then takes 32 to rt 95.||||reg||1
+Z||000008||MCFIEROGUY||09-09-2000||12:46 PM||||The 32 /95 intersection is only a couple miles down the road from Ft Meade ask your girlfriend if she passes a huge black glass building on her way to work on 32 thats the NSA and it is on base.<BR>||||reg||14
+Z||000009||MCFIEROGUY||09-09-2000||12:47 PM||||The 32 /95 intersection is only a couple miles down the road from Ft Meade ask your girlfriend if she passes a huge black glass building on her way to work on 32 thats the NSA and it is on base.<BR><P>------------------<BR>-Chris||||reg||14
+Z||000010||MCFIEROGUY||09-14-2000||09:38 PM||||get back up there||||reg||8

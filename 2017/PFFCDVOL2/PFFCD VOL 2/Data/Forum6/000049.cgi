@@ -1,0 +1,2 @@
+A||||0||Cooter||Old Time Ford Fans?||||1||
+Z||000000||Cooter||01-30-2000||09:11 PM||||Excuse me for saying the "F" word, but I have a 47 Flathead with trans and rear end that needs a new home. Motor runs great! No smoke or noises. The car the engine is out of was driving, but we are making a street rod and no longer need the flathead. $2000 o.b.o. for entire driveline. I had an offer of $1200 for just the engine, but would rather sell everything together.||||reg||1

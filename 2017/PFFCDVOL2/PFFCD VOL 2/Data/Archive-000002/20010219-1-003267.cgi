@@ -1,0 +1,5 @@
+A||||3||ur2biteme||fiero pricing||||5||
+Z||000000||ur2biteme||08-13-2000||03:58 AM||||well, time to see how long it takes for a post this late  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> .  i seem to remember seeing a site that had pricing figures for various conditions, years, models, and options on the fiero.  just trying to figure out where it was||||reg||5
+Z||000001||mrfiero||08-13-2000||04:06 AM||||Go to <A HREF="http://www.fiero.net" TARGET=_blank>www.fiero.net</A> <P>They have a price guide there that should give you some idea as to the value of your Fiero.  <P>||||reg||10
+Z||000002||fierodave||08-13-2000||04:11 AM|||| <A HREF="http://www.fiero.net/ads.html" TARGET=_blank>http://www.fiero.net/ads.html</A> <P>------------------<BR> <IMG SRC="http://members.theglobe.com/fierodave/gifs/fierosig.gif"> ||||reg||1
+Z||000003||ur2biteme||08-13-2000||04:41 AM||||thanks guys.  the one i remembered was the fiero.net one.  btw, sorry about the crazy happenings to you mrfiero.  i don't think i could handle that too well.||||reg||1

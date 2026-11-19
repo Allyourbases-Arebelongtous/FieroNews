@@ -1,0 +1,3 @@
+A||||1||JJ-85-2M6||parts microfiche||||5||
+Z||000000||JJ-85-2M6||12-16-2000||07:14 PM||||Does anyone know the web site where I can order the "P" body 84-88 parts catalog on microfilm??  I thought it was bell and howell, but I am having trouble finding it<P>Thanks!||||reg||5
+Z||000001||RNGCRSH||12-16-2000||07:18 PM||||You can get them on E-Bay right now. look in E-bay motors and search fiero.<P><BR> <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=526918261" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=526918261</A> <P><BR><p>[This message has been edited by RNGCRSH (edited 12-16-2000).]||||reg||1

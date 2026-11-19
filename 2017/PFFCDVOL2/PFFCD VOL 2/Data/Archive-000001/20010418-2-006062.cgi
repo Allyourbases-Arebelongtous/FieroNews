@@ -1,0 +1,3 @@
+A||||1||Ralfy9862||subwoofer||||8||
+Z||000000||Ralfy9862||10-05-2000||10:09 AM||||I was reading in the forum that it is possible to put a 8 inch sub in place of the factory one? how do you do that would you have to change the amp? woould the original amp work any good? Help me out!  <BR>thanxs||||reg||8
+Z||000001||TheFiero64||10-05-2000||10:50 AM||||Check out this link to see how I did mine.<BR> <A HREF="http://www.fiero.nl/forum/Forum1/HTML/002963.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/002963.html</A> <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif"> ||||reg||3

@@ -1,0 +1,5 @@
+A||||3||Ralfy9862||jons rims||||1||
+Z||000000||Ralfy9862||02-28-2001||09:14 AM||||fiero lisas boyfriend i think his names jon has some nice rims on the car where did he get them cause i also would like to get them.||||reg||1
+Z||000001||1FST2M6||02-28-2001||10:02 AM||||Slammed Fiero? (Red GT) TR Motorsports Typhoons  <A HREF="http://www.tirerack.com" TARGET=_blank>www.tirerack.com</A>    17x7.5 or 18x8 5x100mm with 42 or 45mm offest depending on 17"s or 18"s... hope that helps.. ||||reg||1
+Z||000002||87GTZ34||03-01-2001||10:30 AM||||Ralfy,  I'm sure Jonathan likes being referred to as Mr. FieroLisa.    <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Opps! I was laughing so hard I didn't notice I botched Ralf's name.<P>[This message has been edited by 87GTZ34 (edited 03-01-2001).]<p>[This message has been edited by 87GTZ34 (edited 03-01-2001).]||||reg||1
+Z||000003||FieroLisa||03-01-2001||11:45 AM||||hahahahahaha ya just don't know, i'm sick today and that gave me a good laugh. he would hate for me to reveal, but since someone already did, yes they are from tr motorsports and 17 in.||||reg||1

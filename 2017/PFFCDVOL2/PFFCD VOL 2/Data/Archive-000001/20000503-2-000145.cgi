@@ -1,0 +1,3 @@
+A||||1||ezsurf||Clutch Disk & Pressure Plate
+Z||000000||ezsurf||05-06-99||08:26 PM||||<br>I need a new clutch disk and pressure plate.  I don't ever want to pull this engine again.  I'm looking for a high quality LONG LASTING clutch and pressure plate. I'm not really looking for a racing clutch with a high tension pressure plate, unless someone knows of some reason I need a high tension plate.  I have a V-6 with a four speed, can anyone make any recommendations?
+Z||000001||theogre||05-06-99||08:29 PM||||check out centerforce clutches.  <A HREF="http://www.centerforce.com/" TARGET=_blank>http://www.centerforce.com/</A>  They have something that should be what you want, and their prices aren't that much diferant from the OEM type packages.

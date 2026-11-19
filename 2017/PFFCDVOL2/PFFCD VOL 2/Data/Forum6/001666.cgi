@@ -1,0 +1,7 @@
+A||||5||Cheever2||Klutch Noses||||5||
+Z||000000||Cheever2||03-17-2001||06:11 PM|||| <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> Made ya look.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>||||reg||5
+Z||000001||KRMFiero||03-17-2001||06:43 PM||||There has been alot of posts about clutchs, mine died last night.  well it dont disangage or something  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>Kyle||||reg||1
+Z||000002||Cliff Pennock||03-17-2001||07:17 PM||||It's my job to look.  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000003||2xsess||03-17-2001||08:22 PM||||Good Answer Cliff!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>I'm just an idiot and a nosey one at that. So that's why I looked. Plus I was wondering why you'd post a tech problem in the O/T section.<BR><P>------------------<BR>Jeff<BR>AOL IM : Only2xsess<BR>  <B>*For Sale*<BR>        $2000obo</B>      <IMG SRC="http://www.fiero.nl/uploads/2xsess.gif">        <BR> <A HREF="http://kresgeus.homestead.com/FieroPage.html" TARGET=_blank>Visit My Website</A>||||reg||5
+Z||000004||MrPBody||03-17-2001||09:03 PM||||Why would I klutch my nose?  I don't know, but my daughter seems to enjoy doing it.  She likes to pull my beard, too.  But hey, she's only seven months old; it doesn't take much to entertain her.<BR>||||reg||1
+Z||000005||hugh||03-18-2001||09:32 AM||||I've god mi node cluds,now what?||||reg||1

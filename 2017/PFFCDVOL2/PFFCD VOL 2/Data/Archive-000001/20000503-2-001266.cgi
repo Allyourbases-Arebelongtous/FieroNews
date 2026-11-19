@@ -1,0 +1,3 @@
+A||||1||jspark|| 3.1 Stroker Kits ||||5
+Z||000000||jspark||10-31-1999||12:57 PM||||Im going to rebuild my 2.8 and have been looking at the stroker kits that are avalible for about $1200.  Is it possible to buy a 3.1 crank and pistons separate where I can save some money or should I buy the kit?||||reg||5
+Z||000001||pherder||10-31-1999||08:22 PM||||I found a 93 Chevy Lumina APV (plastic van) that had the iron head 3.1 in it and got the complete engine for $400.  Since the engine had only 30,000 miles on it, I figured I change out the waterpump, timing chain, and put new gaskets while swapping over the Fiero stuff and have a 3.1 pretty cheaply.<P>Paul||||reg||3

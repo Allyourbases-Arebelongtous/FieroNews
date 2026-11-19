@@ -1,0 +1,4 @@
+A||||2||fldevel||A.C. blower fan not working ||||1||
+Z||000000||fldevel||08-20-2000||01:03 PM||||my a.c. blower fan wont come on .. it was working yesterday??? mabe theres a fuse somewhare for it ? i looked in the fuse panel all fuses seem to be alright maybe looking in the wrong spot ??  <P> help!! cant go without AC in humid florida ||||reg||1
+Z||000001||theogre||08-20-2000||01:21 PM||||does it work on the highest speed or not at all. If it works only on high it could be the resistor pack.<P>unplug the motor and see if it's getting power. You can use a meter or a test light. If it is getting power then the motor died other wise it's a control problem.||||reg||1
+Z||000002||fldevel||08-20-2000||04:56 PM||||not working at all ..but was working fine yesterday now not at all .. i swear these cars have a personality ..lol ||||reg||1

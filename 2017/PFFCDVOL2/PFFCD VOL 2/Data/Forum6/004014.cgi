@@ -1,0 +1,2 @@
+A||||0||3.8T Fiero GT||Bin Laden Liquor Fun...sorry if it's a repost!||||14||
+Z||000000||3.8T Fiero GT||10-31-2001||01:30 AM|||| <A HREF="http://www.fieler.com/terror/" TARGET=_blank>http://www.fieler.com/terror/</A> <P>Just had to post this  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  Its so addictive!<BR>Hope u Yankees like it!<P>------------------<BR><B>"A 3.8T makes and excellent "RICE" cooker"</B>||||reg||14

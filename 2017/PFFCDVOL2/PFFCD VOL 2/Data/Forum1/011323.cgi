@@ -1,0 +1,2 @@
+A||||0||Ed||Ford's ignition module recall||||1||
+Z||000000||Ed||10-26-2001||10:24 PM||||"Ford to pay for ignition repairs" was the headline in the "Sacramento Bee" Business section today.  I've brought up this before, but it seems to me that we have the same problem, at least with the V-6.  Many of us have had the same sudden failure of the module on the road.  Many of us on the Forum carry around a spare because of this known problem.<P>Do we have a case for a lawsuit, whatever that's worth? (Probably not much, the lawyers will get the bulk of the settlement!)||||reg||1

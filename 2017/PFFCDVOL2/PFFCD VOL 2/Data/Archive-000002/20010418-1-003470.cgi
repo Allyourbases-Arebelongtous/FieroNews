@@ -1,0 +1,6 @@
+A||||4||mrfixit58||Who makes these???||||5||
+Z||000000||mrfixit58||08-30-2000||01:20 PM||||Didn't someone on the forum made the 5" wing stands? I know FOCOA and Fiero Store sells them but was I have a fried who is looking to save a few $$$. Seems like I remeber someone saying that a forum member makes them. Anyone?<P>Roy  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||5
+Z||000001||Monkeyman||08-30-2000||05:48 PM||||I think SuperX sells them and the 7 1/2", too.||||reg||1
+Z||000002||mrfixit58||08-30-2000||06:36 PM||||That's what I thought but I didn't see them listed at his web site. Maybe I'll just send him an Email to find out.<P>Thanks,<BR>Roy  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||9
+Z||000003||wahoo4u||09-01-2000||12:11 AM||||let me know what you find out.  I am interested in five but would prefer taller if possible.  My email is wahoo4u@excite.com or just post a message i am here at least once a day.||||reg||3
+Z||000004||gtsonly||09-01-2000||02:13 AM||||where in the catolog are those 5 inchers???<BR>i have yet to see them and i would love a set for my ride. please email me some info if anyone finds them.<BR>  chris hatch<BR>  1986.5 gt with t-tops||||reg||11

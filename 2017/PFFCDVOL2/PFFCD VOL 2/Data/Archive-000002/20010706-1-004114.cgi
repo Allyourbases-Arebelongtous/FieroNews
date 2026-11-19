@@ -1,0 +1,2 @@
+A||||0||Seanh||Diamond back Fog lights||||5||
+Z||000000||Seanh||10-24-2000||05:05 PM||||Has anyone ever put new diamond back fog lamps, recessed in the front end like stock? If so, what lamps did you use and what cars are they from? I am hoping for a direct bolt on, but I could work with some little modification. Thanks<P>Please post some picts if you can.<P>------------------<BR>Sean Heberly<BR>Silver 86 GT 2.8<BR>Killer Stereo System||||reg||5

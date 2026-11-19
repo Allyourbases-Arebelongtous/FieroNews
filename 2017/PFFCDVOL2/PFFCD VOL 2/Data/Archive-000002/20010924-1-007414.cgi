@@ -1,0 +1,3 @@
+A||||1||maffthekat||Wow! Get a load of this baby!||||1||
+Z||000000||maffthekat||05-14-2001||09:25 AM||||Check this out! A bit pricey, but It'll beat those nasty Porche drivers who sneer at you at the traffic lights...<BR> <A HREF="http://www.jorgediaz.com/sale.htm" TARGET=_blank>http://www.jorgediaz.com/sale.htm</A> ||||reg||1
+Z||000001||Mr.Frosty||05-14-2001||12:32 PM||||I believe that is a Super Duty 4 "Iron Duke"<BR>that someone spent buttloads of money to trick out.That would kick the crap out of almost anything.That motor and car is light and powerful...perfect combo.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>88 Formula T-top-ForSale <BR>85 GT Turbo-project car||||reg||10

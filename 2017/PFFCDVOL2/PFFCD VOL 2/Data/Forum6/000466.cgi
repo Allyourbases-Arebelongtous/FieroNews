@@ -1,0 +1,2 @@
+A||||0||hugh||strange sights||||1||
+Z||000000||hugh||07-04-2000||09:30 AM||||Going on a service call the other day just north of Phila.,PA.I saw a woman in what appeared to be an evening gown or a fancy dress in a relatively fancy neighborhood.She was standing on the lawn in front of (I assume)her house casting a fishing rod.I wonder if she caught anything like the mailman,a neighbor,a passing car maybe. ||||reg||1

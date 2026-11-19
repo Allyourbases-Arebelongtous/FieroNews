@@ -1,0 +1,6 @@
+A||||4||Drako||Messed Up 4spd||||8
+Z||000000||Drako||11-01-1999||12:29 PM||||Yesterday I was accelerating from a stop light in my 88gt, all of a sudden when I shifted into third gear I heard a snap/crack noise. And now I the shifter has no tension whatsoever in reverse, 1st, or 3rd gears. I had to drive 20 miles home with just 2nd and 4th gear:P That wasn't much fun. Im just wondering, what does this sound like Im thinking one of the selector cables broke. <P>Drako||||reg||8
+Z||000001||88 Fiero||11-01-1999||01:30 PM||||Drako...4-Speed on a '88GT???? Are you sure your car is an '88GT??? '88GT's have a 5-Speed...never a 4-Speed unless your GT is an early '86GT Fastback in which it came with a 4-Speed tranny...||||reg||1
+Z||000002||ChadMan||11-01-1999||02:11 PM||||This same thing to me in my 84 and it turned out to be a $2 retainer clip that secures the shift cable to the bracket on the the transaxle.  Hope you're as lucky as I was.||||reg||3
+Z||000003||Drako||11-01-1999||06:51 PM||||The last owner rebuilt the engine and put the 4:10 4spd in it for a quicker off the line times, don't ask me Im just the one who bought it:P hehe...I wanna put the 5spd back on though.<P>Drako||||reg||10
+Z||000004||four50four||11-01-1999||08:22 PM||||well, Drako, this might just be the time. this shifter breaking business might just be a sign||||reg||10

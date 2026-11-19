@@ -1,0 +1,8 @@
+A||||6||Flyguy||What is focoa's website||||1||
+Z||000000||Flyguy||06-24-2001||07:18 PM||||i need to know what focoas website is<BR>want a new spoiler!!<P>thnx chris||||reg||1
+Z||000001||tgowens||06-24-2001||08:30 PM||||chris, Their web site is non-operational at the moment. I may be working on a new one soon.........you can reach them via phone at:  714-635-0898<P>------------------<BR><A HREF="http://www.tgowens.com/fiero/index.html" TARGET=_blank><BR>                   <IMG SRC="http://www.tgowens.com/fiero/3GTS_SIG.gif">                    </A>||||reg||1
+Z||000002||bHooper||06-24-2001||08:52 PM|||| <A HREF="http://www.hotteengirlsrightnowonthenet.com" TARGET=_blank>www.hotteengirlsrightnowonthenet.com</A> <P><BR>just in case you haven't looked yet.<P> <IMG SRC="http://www.fiero.nl/forum/eek.gif"><BR><P>------------------<BR>hoop<BR>Red '86 GT 5 speed<BR>*Black '86 SE Automatic||||reg||1
+Z||000003||tgowens||06-24-2001||10:28 PM||||hoop, that <I>is</I> a spoiler.......maybe he can get a bra there too.........nawwwww.....||||reg||1
+Z||000004||Flyguy||06-24-2001||11:56 PM||||i just want to know what their website is for future reference<P>thnx chris||||reg||1
+Z||000005||tgowens||06-25-2001||01:43 AM||||Flyguy, the domain name and address will probably change anyway. I'll know this week if I am going to do the web site and hosting and then I will post that information on here.||||reg||1
+Z||000006||bHooper||06-25-2001||09:16 AM|||| <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>not to offend the new guy.<P><P>------------------<BR>hoop<BR>Red '86 GT 5 speed<BR>*Black '86 SE Automatic||||reg||1

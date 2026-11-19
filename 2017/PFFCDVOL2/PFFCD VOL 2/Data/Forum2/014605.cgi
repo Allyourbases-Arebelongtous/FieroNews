@@ -1,0 +1,10 @@
+A||||8||NorthernFiero||I need more power||||1||
+Z||000000||NorthernFiero||10-20-2001||12:41 PM|||| I've got a 87 4cyl auto and my 79 monte carlo kicks its a$$. What can i do to get it to stay with or go faster then my monte? <P>Thanks,<BR> Mike||||reg||1
+Z||000001||Gerald||10-20-2001||01:07 PM||||Theres not alot you can do to a duke. For the amount of money you would spend making RELIABLE power in the duke you might as well just sawp in a v6. Or an 8 if your so inclined. Then your fiero would kill your monte like it was a civic.<P>------------------<BR>87 coupe 5 spd||||reg||1
+Z||000002||jelly2m8||10-20-2001||01:59 PM||||You could always drop the engine from the monte into the fiero...hehe||||reg||1
+Z||000003||Old Lar||10-20-2001||05:27 PM||||This is what you need to build to beat the Chevy.<BR> <IMG SRC="http://www.fiero.nl/uploads/SuperM_2.jpg"> <BR> <IMG SRC="http://www.fiero.nl/forum/smiley_watchout.gif">||||reg||1
+Z||000004||FieroLisa||10-20-2001||05:37 PM||||NorthernFiero- by chance are you the same guy that sells Fiero floor mats on ebay?||||reg||1
+Z||000005||rogergarrison||10-20-2001||09:20 PM||||im with jelly  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000006||NorthernFiero||10-20-2001||11:31 PM|||| What would it run to but a v6 or v8? and no FieroLisa, sorry i'm not the same guy from ebay.<P>mike||||reg||1
+Z||000007||NorthernFiero||10-21-2001||04:11 PM||||What would it run to put a v6 or v8? Sorry type o.<P>Mike||||reg||1
+Z||000008||fropuff||10-21-2001||04:34 PM||||It all depends on your expertise.  If you were to do it yourself, you could do a 3.4L pushrod for around $1500.  Basically.  And an 8 for around $4000.  Basically.  If you want to go to a 6 cylinder, I'd recommend a 3.4L pushrod.  It's still a 60-degree six cylinder, just like a 2.8L.  If you're pretty good mechanically, a 3.4 DOHC/3.4 TDC would work as well.  3.4L pushrod is around 160 HP; DOHC is around 210.  Or you could do nitrous on a 3.4 pushrod, turbo, SC, etc.  Or a 3800 Series II S/C, or a Cadillac Northstar, 4.1L, 4.5L, 4.9L, etc.  There's a lot of options...||||reg||1

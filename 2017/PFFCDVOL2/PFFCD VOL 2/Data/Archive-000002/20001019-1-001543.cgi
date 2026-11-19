@@ -1,0 +1,3 @@
+A||||1||Phil||Gator Nationals||||1||
+Z||000000||Phil||03-15-2000||05:21 PM||||Anyone else going to the Gator Nationals this weekend? I'm leaving for Florida tomorrow to catch them, then on to visit my mother(free food and lodging)and on to the Daytona Show. Life is sure rough.||||reg||1
+Z||000001||mrfixit58||03-16-2000||08:15 AM||||Hey Phil,<P>I've been to that race several times. It's a GREAT race and a lot of fun. Weather looks like it's going to cooperate. I had an offer of free tickets but had to turn them down. Too much soccer and T-Ball (kids) happening the day of the tickets (Saturday). Anyway, have fun an I hope to see you at Daytona.<P>Roy L.||||reg||11

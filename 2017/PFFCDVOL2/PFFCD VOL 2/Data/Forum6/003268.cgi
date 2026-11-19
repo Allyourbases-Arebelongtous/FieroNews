@@ -1,0 +1,5 @@
+A||||3||Alex4mula||Escapepodgames aka Pegasus Graphics paid||||1||
+Z||000000||Alex4mula||09-06-2001||04:17 PM||||Well.. decided to put this here to not distract the mall area and because I told him I was going to do it after my payment receipt. <BR>This guy finally paid me back after 6 month. He said that he paid everybody so I guess I was the last one. Just to let you know. I just learned my lesson.||||reg||1
+Z||000001||Rick 88||09-07-2001||02:38 AM||||I'm still waiting for my $150! So he isn't exactly telling the truth. How long ago did you get your refund?<P>Rick<BR>yellow 88 GT 5-speed||||reg||8
+Z||000002||My7Fieros||09-07-2001||03:12 AM||||I think Haze Performance is still waiting on his $ to...........<P>------------------<BR><FONT SIZE="3"><FONT COLOR="red"><B><I>My 7 Fieros</FONT></FONT></B></I>||||reg||1
+Z||000003||Boomtastic||09-07-2001||02:40 PM||||Hmmm .. I used to have his published home telephone number around here somewhere ..<P>*hint*   *hint*<P> <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>Boomtastic<BR>  <IMG SRC="http://www.fiero.nl/uploads/mirror_md_clr.gif"> ||||reg||1

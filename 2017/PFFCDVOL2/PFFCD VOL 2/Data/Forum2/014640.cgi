@@ -1,0 +1,3 @@
+A||||1||Mark||Window Filler Panel Removal - Help Needed||||1||
+Z||000000||Mark||10-21-2001||06:30 PM||||I trying to remove the window filler panel on my '86 GT (that black plastic trim around the inside of the sail panel and along the back edge of the trunk lid).  According to the figure on page 308 of the Chiltons manual, it looks like there are three bolts and one Phillips screw along the bottom of the panel.  I've taken those out, but the panel won't come loose.  What holds it up top?  Clips? Am I just not pulling hard enough?  A little help, please!||||reg||1
+Z||000001||Mark||10-21-2001||10:31 PM||||Problem solved.||||reg||1

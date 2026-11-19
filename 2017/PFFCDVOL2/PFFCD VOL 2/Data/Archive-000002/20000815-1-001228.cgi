@@ -1,0 +1,8 @@
+A||||6||DXR_DAD||E-bay....., Whats with the $$$$$$ ?||||13||
+Z||000000||DXR_DAD||02-12-2000||07:25 PM||||Did anyone see the muds flaps? I'm looking in my new FS cat. $24.95.  8 bids on E-bay, so far $27.00.  You think they want them that bad?? Or is FS sold out already?||||reg||13
+Z||000001||fiero56||02-12-2000||07:40 PM||||I called the Fiero Store about these last week. They still have some. Said they will for quite a while yet. Don't remember the price, $24?||||reg||1
+Z||000002||mshill||02-12-2000||09:37 PM||||Let's face it.  Some people don't know how to do research on the internet yet.  They think that they will always get a good deal on e-bay since no one would ever pay more than something is worth, now, would they?<P>||||reg||1
+Z||000003||WisconsinGT||02-12-2000||11:01 PM||||Dad,<P>Are you looking for mud flaps? I have a pair that say FIERO on them.<P>||||reg||1
+Z||000004||fierodave||02-13-2000||05:23 AM||||I have a new in the box power mirror switch on ebay to prove you don't have to buy a $40.00 one that the guy don't know if it works or not lol<BR>it is at $19.95  And they sell for $32.00 new!  and no!  I don't have anymore! :~) lol<BR>FD||||reg||10
+Z||000005||DXR_DAD||02-15-2000||08:46 PM||||I'm not sure how they look?? but I think that William was looking for a set? Were they offered stock on the Fiero? Maybe if they were molded like the firebird Trans I would think about it.||||reg||5
+Z||000006||Carolina 88GT||02-15-2000||09:44 PM||||I like some of the "a" holes that run their auction for like 9 days.  I mean come on people...If you cant find a sucker in 3 ||||reg||12

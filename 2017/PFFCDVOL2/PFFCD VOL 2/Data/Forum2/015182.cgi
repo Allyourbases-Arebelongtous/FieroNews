@@ -1,0 +1,3 @@
+A||||1||walsh2001||Posessed Fiero!||||1||
+Z||000000||walsh2001||11-07-2001||09:14 AM||||Hehe - for some reason my windshield wipers run on their own. Every so often, I will be driving down the road, and they will go up and down... once. 10-15 mins later, they will do it again! Any ideas? I think it is a short... but I am not sure where to look.<P> <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>'87 Fiero GT ... Cherry Red||||reg||1
+Z||000001||falconhulk||11-07-2001||09:21 AM||||Start with the wires to the switch going down the steering col.  Its likey the switch itself or the connector under the dash.||||reg||1

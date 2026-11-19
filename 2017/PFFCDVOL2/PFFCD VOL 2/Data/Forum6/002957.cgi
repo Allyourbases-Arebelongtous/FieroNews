@@ -1,0 +1,10 @@
+A||N||8||Jaygee79||Anyone know of a good, inexpensive screen printer?||||5||
+Z||000000||Jaygee79||08-14-2001||12:29 AM||||Well, the deal with the printer for the NEFA shirts fell through (I'm a bit miffed right now....long story) and I have to find someone else to do them.  Everyone I've found costs too much and/or doesn't offer the range of sizes we need.  I need it to cost less than $12 per shirt (including <u>all</u> extra costs) and sizes small thru 4x.  And a rush option would be nice too (if it doesn't cost too much).  Anyone know of someone?  Anyone?<P>------------------<BR><FONT COLOR="purple">Jaime<BR>AOL IM: Jaygee79<BR>ICQ: 85931334</FONT><BR><A HREF="http://www.geocities.com/jaygee79/index.html" TARGET=_blank>Jaygee79's Web Page</A><BR>       <IMG SRC="http://www.fiero.nl/uploads/peggypic.jpg"> ||||reg||5
+Z||000001||Jaygee79||08-14-2001||11:18 AM||||*bumpety bump*||||reg||1
+Z||000002||Jaygee79||08-14-2001||07:13 PM||||I'm getting the feeling no one knows of someone.||||reg||1
+Z||000003||mbramble||08-14-2001||08:23 PM||||Have you tried the local sporting goods shops??  Most have the capability to have shirts printed at reasonable prices if done in quantity.  They do it all the time for kids sporting leagues, bowling leagues, etc...<BR>||||reg||1
+Z||000004||Jaygee79||08-14-2001||08:25 PM||||That's another thing.  We only have enough orders and money for about 32 shirts.  Most places minimum is higher than that.||||reg||1
+Z||000005||Jaygee79||08-15-2001||10:42 AM||||one more *bump* just in case||||reg||1
+Z||000006||DXR_DAD||08-15-2001||02:23 PM||||Guess it wouldn't help to say, I have a guy here in So. SF that would do it?<P><BR>DXR_DAD||||reg||1
+Z||000007||Jaygee79||08-15-2001||03:40 PM||||That all depends.  If the cost is low enough I could pay to have them shipped.  This whole thing was done backwards (don't even get me started on that one).  Instead of finding a vendor and getting prices first, we started presales and collecting money first.  Now we find out that we didn't charge enough and don't have enough money.||||reg||1
+Z||000008||DXR_DAD||08-15-2001||07:51 PM||||You have Mail!!!!<P><BR>DXR_DAD||||reg||4

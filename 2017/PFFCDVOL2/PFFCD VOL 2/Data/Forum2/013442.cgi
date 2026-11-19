@@ -1,0 +1,3 @@
+A||||1||Spektrum-87GT||wierd headlight motor happenings....||||1||
+Z||000000||Spektrum-87GT||09-05-2001||06:07 PM||||my front passenger headlight motor spins, but erratically, it moves the headlight up, but not enough force to lift the covers. also, it spins for quite a while when put down. Another odd thing it does: when i turn the parking lights on, and then turn them off, the motor spins. The guy that sold it to me told me it was the actuators... is it?||||reg||1
+Z||000001||theogre||09-05-2001||07:49 PM||||The motors need some small parts. <A HREF="http://www.rodneydickman.com" TARGET=_blank>www.rodneydickman.com</A>  has them. Order enough for both sides. If one's gone the other will likely go soon. Cost you a whole $10.||||reg||1

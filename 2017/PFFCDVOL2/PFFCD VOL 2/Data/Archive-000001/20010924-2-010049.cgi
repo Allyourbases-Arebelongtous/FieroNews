@@ -1,0 +1,4 @@
+A||||2||camaro2fiero||oil at startup ,maxlife? ||||5||
+Z||000000||camaro2fiero||04-30-2001||01:11 AM||||My 4cyl 84 fiero has 33000 miles.When it starts up sometimes there is a puff of smoke.What do you all think about the Valvoline,Maxlife.It supposedly conditions the guides,which inturn should stop puff of smoke  when started.What do you all think?||||reg||5
+Z||000001||RedOktober||04-30-2001||03:12 AM||||its a farce.... you need new valve guide seals.<BR>on a Duke.. you can do it without taking the heads off and within a couple or hrs.. You Lucky Duke.. <BR>||||reg||1
+Z||000002||84Bill||04-30-2001||08:04 AM||||I tend to agree with red, It will also puff smoke when you punch the gas after sitting at idle for a while. Oil will not fix the problem best to replace the guides<p>[This message has been edited by 84Bill (edited 04-30-2001).]||||reg||1

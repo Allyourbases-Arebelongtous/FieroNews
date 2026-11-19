@@ -1,0 +1,5 @@
+A||||3||JohnnyK||Marvel mystery oil revisited...||||1||
+Z||000000||JohnnyK||11-27-2000||01:44 PM||||I know I just posted another topic, but I really want somenoe to answer this (no one could, did on the last one)... I saw a red plastic bottle of MMO that said Fuel additive, but you guys said you put it into your oil and tranny. is this the stuff, or do they make a fuel one and an oil one?||||reg||1
+Z||000001||Phil||11-27-2000||03:07 PM||||You can use this stuff for everything. It's the same wonder elixor. Smells like Ben-Gay(oil of wintergreen).||||reg||1
+Z||000002||TheFiero64||11-27-2000||07:04 PM||||I saw some that just said fuel. Next to it was the quart that said for fuel & oil. I get it at Wal-Mart. I don't know if it is a different formula if it just says fuel. Something tells me it is. I love the smell.<P>------------------<BR>88 Coupe V6<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif"> ||||reg||1
+Z||000003||DJRice||11-28-2000||03:17 PM||||It cures heartburn and softens hands while you do dishes!<P>------------------<BR>Dillon<BR>Black '87 SE V6<BR>"You mean like the back seat of a Volkswagen?"||||reg||1

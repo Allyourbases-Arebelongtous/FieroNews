@@ -1,0 +1,5 @@
+A||||3||camaro2fiero||will this motor work in Fiero||||1||
+Z||000000||camaro2fiero||11-08-2001||02:02 AM||||I would like to know if a 3.3 motor from a 1998 Chrysler 300 M would be able to fit in the Fiero or it the wrong kind.Thanks for all help.||||reg||1
+Z||000001||SKIDMARK||11-08-2001||02:07 AM||||You can get do anything if you have enough money. For the average person who owns a Fiero, I would say NO, it won't work. At least not easily. Things like custom adapter and flywheel for the trans, custom wiring harness, custom mounts, etc. would be prohibitive. Engineering a swap like this I think would be a nightmare to say the least.<P>------------------<BR>White '85 4cyl coupe<BR>Black '86 v-6 SE<BR>'81 CB900F Super Sport||||reg||1
+Z||000002||camaro2fiero||11-08-2001||02:12 AM||||Welll I defintly am the Cost effective approach to the situation. I was just able to get the motor really cheap ,the whole car really.Thanks for your reply ||||reg||1
+Z||000003||camaro2fiero||11-08-2001||02:14 AM||||Is the motor a good motor,anybody know .1998 3.3 high output motor.||||reg||1

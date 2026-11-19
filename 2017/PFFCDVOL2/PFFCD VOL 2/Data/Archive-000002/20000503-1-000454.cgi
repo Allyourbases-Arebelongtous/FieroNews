@@ -1,0 +1,4 @@
+A||||2||DXR_DAD||"Pumpkin Run"||||8
+Z||000000||DXR_DAD||10-23-1999||02:22 PM||||Ha, Fieroshop I couldn`t make it on the run, had to do a roadside dist. R&R late last night. I got it home but I was one tooth off, to late to mess with. got up today at 6:00 to  fix it and time it. When I was removing the dist. the base plate came off the shaft, yep it was just flopping around so I had to wait for the parts place to open and get another one. It's done and running now. Hope you guys have a blast.<P>PS. Chris this must be your way of getting a reply to your post!!!!!||||reg||8
+Z||000001||fieroshop||10-24-1999||10:13 AM||||Well as it so happened the run as far as I was concernrd was a flop and poorly setup but I'll tell you later when I see you.||||reg||13
+Z||000002||DXR_DAD||10-24-1999||08:33 PM||||Ha Fieroshop,<P>Sorry to hear that, I thought it would have been a blast. I'll try to make the next one!||||reg||1

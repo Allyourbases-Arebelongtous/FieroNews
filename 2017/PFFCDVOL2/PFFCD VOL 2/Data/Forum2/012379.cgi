@@ -1,0 +1,3 @@
+A||N||1||Jay||Web Page update||||1||
+Z||000000||Jay||07-29-2001||06:48 PM||||Well, I've been lazy for the last year and I haven't updated my page.  Today I spent an hour or so and spuced it up a bit with some new photos and info.  Check it out and leave a message in the guest book.  Let me know what you think.  Thanks guys and gals.<BR> <A HREF="http://www.members.home.net/jaygrande" TARGET=_blank>www.members.home.net/jaygrande</A> <P>------------------<BR>Jay<BR>1986 Northstar GT<BR>www.members.home.net/jaygrande<BR> <IMG SRC="http://www.fiero.nl/uploads/cayuga3_3.jpg"> ||||reg||1
+Z||000001||Jay||07-29-2001||06:50 PM||||Sorry I thought I was posting in General chat.  Cliff can you move it over?||||reg||1

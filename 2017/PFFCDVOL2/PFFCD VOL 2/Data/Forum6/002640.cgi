@@ -1,0 +1,12 @@
+A||||10||Her86GT||Just my pics||||1||
+Z||000000||Her86GT||07-11-2001||11:06 PM|||| <IMG SRC="http://www.fiero.nl/uploads/Beauty.jpg"> <P><BR> <IMG SRC="http://www.fiero.nl/uploads/Beauty2.jpg"> <BR>||||reg||1
+Z||000001||Her86GT||07-11-2001||11:11 PM|||| <IMG SRC="http://www.fiero.nl/uploads/Beauty_1.jpg"> ||||reg||1
+Z||000002||Her86GT||07-11-2001||11:17 PM|||| <IMG SRC="http://www.fiero.nl/uploads/Beauty2_2.jpg"> ||||reg||1
+Z||000003||FieroJoe||07-11-2001||11:17 PM||||Coolness!  Can I have it?  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000004||Tigger||07-12-2001||01:03 AM||||Hey cool fastback!  Is that a colour from a newer Cavalier or Sunfire or a custom one?  <P>It's a cool colour, and was one I had picked out for my Fiero.  Anyway, looks nice!||||reg||14
+Z||000005||Tonker||07-12-2001||09:48 AM||||Nice! I really like the rims, too!||||reg||7
+Z||000006||JohnnyK||07-12-2001||01:38 PM||||Tigger: You mean red?  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000007||skitime||07-12-2001||03:06 PM||||That looks like one clean car. Very nice.<P>------------------<BR><UL TYPE=SQUARE><BR><LI>Red 88 GT T-TOP<BR><LI>Red 86 GT<BR></UL><BR>       <IMG SRC="http://www.fiero.nl/uploads/signature-1.JPG"> <BR> <p>[This message has been edited by skitime (edited 07-12-2001).]||||reg||1
+Z||000008||onfire||07-12-2001||03:22 PM||||Wow I like the color. You need bigger wheels, or lower it. Just my opinion.<P>Skitime that's the first time I seen your rear decklid. Very nice.||||reg||1
+Z||000009||Her86GT||07-14-2001||07:17 PM||||Well thanks for all the compliments about my car.  The colour is custom copper.  I sent out a chip of the colour to get analyzed because of a bumper scuff that needed to be removed.  The colour came back as "custom" and I wouldn't change it for anything!    <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  About lowering it. . .not a chance.  I like my car to be as stock as possible.  I know the rims and colour aren't but it came that way.<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/mycar2sm.jpg">  <p>[This message has been edited by Her86GT (edited 07-14-2001).]||||reg||1
+Z||000010||grinthock||07-14-2001||07:20 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by skitime:<BR><B>That looks like one clean car. Very nice.<P></B><HR></BLOCKQUOTE><P>Could we see more pics of your decklid with the window??||||reg||1

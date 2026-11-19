@@ -1,0 +1,2 @@
+A||N||0||fierose||Removing AC Belt||||4||
+Z||000000||fierose||01-28-2001||08:14 PM||||I have an 85 4cyl and I recently about 2 months ago changed my belts due to wear and my ac belt has been squeeling at idle.  I know once you put a new belt on you have to let it break in, and then tighten it again.  I don't have the time or the resources to tighten them at school and I just wanted to make sure nothing could be damaged by removing the a/c belt.  I know I don't have a belt tensioner as some of the models do.  TIA<P>Josh||||reg||4

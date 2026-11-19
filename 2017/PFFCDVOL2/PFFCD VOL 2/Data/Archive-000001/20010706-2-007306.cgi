@@ -1,0 +1,4 @@
+A||N||2||Zorba||Carburated v8 Fieros And Altitude||||1||
+Z||000000||Zorba||12-12-2000||10:07 PM||||For those of you with V8 fieros and edelbrock carburators, I am curious to know your elevation x jets and metering rods you are using. I am at 4,000-6,000 elevation and have leaned out my carburator to 4% or one-step lean for each 4,000ft of altitude.<BR>I have my initial timing roughly at 10Degrees. I am interested to know how you have your carburators set up.||||reg||1
+Z||000001||Archie||12-13-2000||07:58 AM|||| Elevation would affect all carbs., it wouldn't matter if  you are using the carb on a Fiero V-8 or a V-8 in a pick-up truck.<P>I'd suggest calling local preformance shops and getting their recommendations.<P>Archie||||reg||1
+Z||000002||theogre||12-13-2000||07:21 PM||||edlebrock may have documantation on that they can send you.||||reg||1

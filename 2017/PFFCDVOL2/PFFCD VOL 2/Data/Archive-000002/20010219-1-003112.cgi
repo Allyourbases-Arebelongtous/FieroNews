@@ -1,0 +1,19 @@
+A||||17||2M4 Dale||For the record...Who all went to the Festival ?||||1||
+Z||000000||2M4 Dale||07-31-2000||10:32 AM||||It would be kinda neet to know how many FORUM members where there. I was there...lol<p>[This message has been edited by 2M4 Dale (edited 07-31-2000).]||||reg||1
+Z||000001||tgowens||07-31-2000||10:41 AM||||I think I was there.........<P>------------------<BR>   <IMG SRC="http://www.tgowens.com/MY_SIGNATURE.gif">               <BR><A HREF="http://www.tgowens.com/fiero" TARGET=_blank>www.tgowens.com/fiero</A>||||reg||1
+Z||000002||Philphine||07-31-2000||10:50 AM||||i was lurking around.||||reg||1
+Z||000003||ChadMan||07-31-2000||11:12 AM||||I was there, but I hope I never make the mistake of registering too late to stay in the official FOCOA hotel again.  I missed half the fun!||||reg||9
+Z||000004||87ECO5||07-31-2000||11:51 AM||||I wasn't there but my evil twin brother was!    <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||12
+Z||000005||tgowens||07-31-2000||11:58 AM||||yeah 87ECwhatever -- I met him - looked JUST like you too!!<P>------------------<BR>   <IMG SRC="http://www.tgowens.com/MY_SIGNATURE.gif">               <BR><A HREF="http://www.tgowens.com/fiero" TARGET=_blank>www.tgowens.com/fiero</A>||||reg||1
+Z||000006||fiero56||07-31-2000||02:01 PM||||I was there too. Had a good time.||||reg||1
+Z||000007||WKDFIRO||07-31-2000||02:38 PM||||I'll make my way to the Nationals eventually....<p>[This message has been edited by WKDFIRO (edited 07-31-2000).]||||reg||14
+Z||000008||Phil||07-31-2000||10:10 PM||||Me 2||||reg||1
+Z||000009||NDFieroTN||07-31-2000||10:19 PM||||I was there...Left the indys at home...anyone know yet where next years event will be?||||reg||6
+Z||000010||2M4 Dale||07-31-2000||11:25 PM||||In Williamsburg, Va. ||||reg||1
+Z||000011||BOILERMAKER||08-01-2000||08:02 AM||||I was there!!!!  I got to see the NORTHSTAR!!!!  It was the highlight of my weekend.<P>------------------<BR>Mike<BR>86 Black 3.1 GT<BR>87 Gold GT||||reg||1
+Z||000012||ChadMan||08-01-2000||09:11 AM||||Next year's show is going to be great.  Williamsburg is pretty close to Virginia Beach so Angie and I are already talking about making a week of it.<P>There ought to be a great turnout from the east coast clubs next year!  (It's kind of a long haul for me from Columbus, but that's OK.)||||reg||1
+Z||000013||wwh0001||08-01-2000||10:49 AM||||I was there too with the black striped 86 1/2 GT. Lot's of cars and fun . Will be at the one next year too.||||reg||1
+Z||000014||rogergarrison||08-01-2000||12:41 PM||||I was there watching the rain. had my Pennock banner in window but didnt see any others. Think my next kit will be a GT40/Fiero like the yellow one there. I saw a reddish pearl car with neat headlite idea. just a small plate under the removed cover, clear plastic cover molded in hood and just 4 slim driving lites mounted where motor used to be, looked trick. when my motors crap out im gonna copy it.||||reg||1
+Z||000015||Old Lar||08-01-2000||07:52 PM|||| <IMG SRC="http://www.fiero.nl/uploads/87GTclass.jpg"> <P>I'm on the right||||reg||1
+Z||000016||PAUL88GT||08-02-2000||03:01 PM||||I was there. I saw some great cars. I am still amazed by the number of people who do not know about the best Fiero site on the web. I wore my badge, but saw very few others. <P>I met 2M4 Dale, Phil, Old Lar, and TGOwens.<p>[This message has been edited by PAUL88GT (edited 08-02-2000).]||||reg||14
+Z||000017||Spyder||08-02-2000||11:57 PM||||I didn’t go but I got to see a caravan of Fieros returning to Florida on Monday on I-75 near Gainesville.  <BR>My brother thought I was so stupid when I got excited seeing the Fieros go by. <BR>Here is a link to what I was doing in Florida (on my brothers site) <A HREF="http://www.jamjr.com/orlando,_july_2000_trip.htm" TARGET=_blank>http://www.jamjr.com/orlando,_july_2000_trip.htm</A> <BR>||||reg||1

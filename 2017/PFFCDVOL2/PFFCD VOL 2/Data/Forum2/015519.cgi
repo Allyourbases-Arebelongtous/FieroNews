@@ -1,0 +1,3 @@
+A||||1||Jake_2m4||notchback tail lights||||1||
+Z||000000||Jake_2m4||11-17-2001||04:58 PM||||I went to the junk yard and got a passenger side tail light out of an 87 coupe.  But, when I got home I realized that it and the good one on my 85 are different shades.  Same colors but the 87 is clearer.  Did they change or are my just dirty on the inside or something.  My main question is how do I make them look the same?<P>Thanks<P>------------------<BR>'85 Fiero SC<BR>'95 Grand Am SE||||reg||1
+Z||000001||fropuff||11-17-2001||05:13 PM||||Might be dirty.  Try taking the cover off the bad one and clean it up with some plastic cleaner and polish.  Might take a while though.||||reg||1

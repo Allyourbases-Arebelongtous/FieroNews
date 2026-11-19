@@ -1,0 +1,4 @@
+A||||2||Jake_Dragon||His and her door Paint options?||||1||
+Z||000000||Jake_Dragon||06-17-2001||01:03 PM||||His and her door Paint options? <A HREF="http://www.beaterz.com/one_liners/0300/images/chicky.jpg" TARGET=_blank>http://www.beaterz.com/one_liners/0300/images/chicky.jpg</A> <BR>Adults only.<BR>||||reg||1
+Z||000001||KRMFiero||06-17-2001||04:05 PM||||HAHAH that was funny, i wounder if people actually have that on there car....   police would not be to happy  <IMG SRC="http://www.fiero.nl/forum/tongue.gif">||||reg||1
+Z||000002||AusFiero||06-18-2001||10:13 AM||||LOL Love it.<BR>Wonder if ramming into her drivers door would be classified as a rear ender.<P>------------------<BR>   <IMG SRC="http://www.jadeweb.com.au/fiero/fiero5.gif">   <BR><A HREF="http://www.jadeweb.com.au/fiero" TARGET=_blank>My Fiero</A><BR>Need a Subwoofer Console or Speaker Door Pods?||||reg||1

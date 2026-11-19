@@ -1,0 +1,6 @@
+A||||4||ponya||Oil pan gasket||||1||
+Z||000000||ponya||06-19-2000||03:42 PM||||I have a big project coming up this weekend. <BR>We are going to change the muffler and pipes and while they are down we are going to replace a leaking oil pan gasket. Does anyone  know if there is a company that sells rubber gaskets for the six cyl.? I have a cork one, but I like the rubber ones. Any info apprecitated.  Thanks   Bob||||reg||1
+Z||000001||Linx||06-19-2000||06:41 PM||||I've never seen a rubber gasket for the pan...<P>I have, however, replaced mine with cork three times,  and never ever had a problem.  Last time, I didnt even use RTV in conjuction with the cork, and I still had no problems.  Dont sweat the cork.||||reg||1
+Z||000002||sluppy123||06-19-2000||07:50 PM||||FelPro makes a all rubber gasket for the v-6.<BR>I tried a cork gasket the first time I put my pan on, It leaked where the corners met, (but my pan was slightly bent) I used a rubber gasket the second time and no leaks.<P>-Brian||||reg||10
+Z||000003||N_Man||06-19-2000||08:27 PM||||I just installed the felpro rubber one its an exelent gasket.||||reg||1
+Z||000004||Gokart||06-19-2000||08:53 PM||||Autozone sells the fel-pro rubber gasket. Do a search in the archives if you've never done this job before. Like mine, a motor mount may need to be removed to get the oil pan to drop out.||||reg||1

@@ -1,0 +1,3 @@
+A||||1||fastfiero||door sensors||||9||
+Z||000000||fastfiero||08-29-2000||10:43 PM||||My ajar light flikers with every road vibration and I cant find any of the sensors.  The two doors or the trunk. Does anyone know where these sensors are?||||reg||9
+Z||000001||theogre||08-29-2000||11:02 PM||||on the trunk and door latches. you have to get inside the doors. There is a small connector under the carpet for each door. (It sometimes is inside the tube from the door to the post.) unplug them one at a time to see which door it is thats a problem.<p>[This message has been edited by theogre (edited 08-29-2000).]||||reg||1

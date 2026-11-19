@@ -1,0 +1,8 @@
+A||||6||2birds||W T Thorn III...||||1||
+Z||000000||2birds||05-09-2000||06:50 PM||||How can I contact Criswell Chevrolet?  I need a new drivers door dew wipe, and I have a friend who got quoted around $300 (local bowtie dealer)for his 89 Z24 convertible (complete set).  ||||reg||1
+Z||000001||Old Lar||05-09-2000||07:45 PM|||| <IMG SRC="http://www.fiero.nl/forum/eek.gif"> $300 for dew wipes???  Twin Lake Fiero had new one last year at the Dells for $35. The Fiero store has them for $38.50 for outer and $24.95 for inner..<P>Twin Lakes (Bob Steiger) 217-379-9140. No web page (yet).||||reg||1
+Z||000002||fieroshop||05-09-2000||10:54 PM||||I have them, they cost less thru me then the fiero store.<p>[This message has been edited by fieroshop (edited 05-09-2000).]||||reg||1
+Z||000003||2birds||05-09-2000||11:04 PM||||I bought my passenger outer dew wipe from the same Bowtie dealer for $20 two years ago, so I was surprised, too. <BR>So, how much, fieroshop?||||reg||1
+Z||000004||Oreif||05-10-2000||11:25 AM||||I bet the $300 was including labor to install them. The Dew wipes are still available at the dealerships. We have a dealer that gives our club discounts and they sell the outers for $22.00.||||reg||1
+Z||000005||william_thorniii||05-10-2000||05:58 PM||||2 birds,<P>Check this out... <A HREF="http://www.fiero.nl/forum/Forum1/HTML/001469.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/001469.html</A> <P>It should contain all the information you need.  Just ask for Kevin Burdette, mention that it is for a Fiero and he will sell it to you at Dealer trade value.  <P>William||||reg||14
+Z||000006||2birds||05-10-2000||09:07 PM||||Thanks, I'll check it out.||||reg||1

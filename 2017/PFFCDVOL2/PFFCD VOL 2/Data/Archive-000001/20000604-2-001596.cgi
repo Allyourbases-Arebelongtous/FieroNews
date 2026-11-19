@@ -1,0 +1,7 @@
+A||||5||batboy||Possible exhaust tip mod||||1||
+Z||000000||batboy||12-03-1999||07:54 PM||||Yesterday, I was driving behind a Grand Am with those fancy aluminized factory oval exhaust tips. I suddenly realized that those tips would probably work on most Fieros, at least on the GT's and later SE's models. Just an idea.||||reg||1
+Z||000001||fiero56||12-03-1999||08:07 PM||||I've always thought it would looke cool if instead of the split exhaust on both sides, to put a straight pipe coming out both sides instead.  I don't think I've ever seen a picture to be able to show you guys what I mean, but another thought.||||reg||14
+Z||000002||DaRkLoRD||12-03-1999||08:11 PM||||would those be cheaper than aftermarket chrome tips? (such as those offered by the fiero store for $90)||||reg||1
+Z||000003||SloPonti||12-04-1999||09:40 AM||||I just bought a pair of z28 tips of a 94 z for 15.00! i am going to try these on the fiero to see how they look and if i like them then great but if i don't i will put them on my girlfriends 87 iroc! I will let you know how they look!!<BR>Rob||||reg||6
+Z||000004||Bruce||12-05-1999||08:29 PM||||I'm going to recycle the stock tips- I like the look. But, I would like to get them cleaned up, inside and out. Any suggestions?||||reg||1
+Z||000005||Carrolles||12-06-1999||06:44 AM||||The stock tips on my 85SE 2m6 were originally painted flat black.  I used a wire brush and steel wool to smooth them out prior to repainting them with header paint.||||reg||1

@@ -1,0 +1,7 @@
+A||||5||mrgone||ugly shift boot hole||||13||
+Z||000000||mrgone||04-05-2001||12:07 AM||||the previous owner looks like rooted up the shift boot console to adjust the linkage. it still needs a bit of adjusting. (i need instructions on this but isnt what im asking about yet) is there anything i can do to cover up that ugly hole? a shift grate would be cool. <P>86 4cyl 5 speed||||reg||13
+Z||000001||StuGood||04-05-2001||03:09 PM||||Well, yeah, you could just put a new boot on it.  Think they are a standard item you could get from your GM dealer - bring your existing retainer plate with you, to match up the hole pattern underneath.<P> ||||reg||3
+Z||000002||Old Lar||04-05-2001||04:28 PM||||Rodney Dickman also sells replacement boots.||||reg||3
+Z||000003||johnt671||04-05-2001||05:06 PM||||fiero store also||||reg||1
+Z||000004||Bruce||04-05-2001||07:00 PM||||Get the one boot that  Rodney Dickman makes: it's reasonably priced and very well made!!||||reg||1
+Z||000005||mrgone||04-06-2001||12:25 AM||||sorry about not being so clear the first post. the boot isnt the problem, its the plastic the boot rests on.<BR> <A HREF="http://members.tripod.com/BandiC00T/fieroint.jpg" TARGET=_blank>http://members.tripod.com/BandiC00T/fieroint.jpg</A> <BR> <A HREF="http://members.tripod.com/BandiC00T/fieroback.jpg" TARGET=_blank>http://members.tripod.com/BandiC00T/fieroback.jpg</A> <BR> <A HREF="http://members.tripod.com/BandiC00T/fieroside.jpg" TARGET=_blank>http://members.tripod.com/BandiC00T/fieroside.jpg</A> ||||reg||11

@@ -1,0 +1,3 @@
+A||||1||BAM-BAM||Interior help!!!||||5||
+Z||000000||BAM-BAM||04-06-2000||11:03 PM||||  Does anyone know where I could get some console pads that aren't peeling? I have effected a quasi repair but not really satisfied with it. I would like to replace  the radio/ac console pad and the shifter pad.<BR>Any help will be  greatly appriciated.<P>  Thanx, BAM-BAM  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||5
+Z||000001||Oreif||04-07-2000||02:21 AM||||If you don't have the gages on top of the radio console, The Fiero store sells a radio console for $61.00. Your best bet would be to get a decent used set. You could try Bob Steiger at Twin Lakes Fiero 217-379-9140 Or Ed Parks at Fiero Factory 256-420-5391.<BR>Or watch Ebay.||||reg||1

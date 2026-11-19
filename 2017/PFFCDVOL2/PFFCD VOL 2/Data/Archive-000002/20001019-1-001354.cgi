@@ -1,0 +1,2 @@
+A||||0||doughboySE||SEAT COVERS||||1||
+Z||000000||doughboySE||02-24-2000||10:03 PM||||ok i am not going to be able to get new seats this year so i need some info on seat covers from anyone in ontario or us is ok if they are not to expensive.<BR>anyone who has seat covers can they tell me what they are? price? and if you have pics thats even better  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>thanx again doughboy||||reg||1

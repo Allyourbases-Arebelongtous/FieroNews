@@ -1,0 +1,9 @@
+A||||7||Dan||Cherry Red Hot  Exhaust ||||5
+Z||000000||Dan||09-21-1999||08:21 PM|||| Have an 84 2m4 iron duke. The exhaust is cherry red hot from the area around #3 cylinder to around the oxygen sensor. The engine is sluggish . Any ideas guys? ||||reg||5
+Z||000001||Richard Parnell||09-21-1999||10:13 PM||||Try changing your oxygen sensor,or check that the wire to the sensor is good, especially if you have a DIS engine.||||reg||1
+Z||000002||Shipbuilder||09-21-1999||10:17 PM||||I have seen this twice on other engines. One had a burnt exhaust valve. The other had timing problems. The timing would not advance with engine rpm, but this made the entire exhaust manifold red.||||reg||1
+Z||000003||JetroGT||09-22-1999||02:11 AM||||Running sluggish? 1. Lean exhasut 2. clogged cat 3. Or as previously posted, O2 sensor.||||reg||1
+Z||000004||Dale||09-22-1999||02:15 AM||||If it's running rough try a compresion check on all cyl's.||||reg||1
+Z||000005||Eddie||09-23-1999||07:49 PM||||Hay did you ever change the ex.manifold to bring it up to 87,88 specs.I think one of the recalls for 84,85,86 was because of that.red manifold .||||reg||1
+Z||000006||WGraffiKs||09-23-1999||08:24 PM||||Actually, the exh. manifold recall was to make the earlier V6 run as "clean" (exh. emissions) as the later versions.  I don't know if the 4 cylinder engines were affected.  Does anyone know?<BR>Judging from the symptoms, my bet would be on the exhaust valve.  I'd have a compression check done.  If that's ok, I'd check the timing.<p>[This message has been edited by WGraffiKs (edited 09-23-1999).]||||reg||1
+Z||000007||Dan||09-24-1999||10:35 AM|||| THANKS GUYS. iGNITION TIMING and vacuum leak going to the breather. I think the previous owner set the timing without grounding the ecm connector.Much better now.||||reg||10

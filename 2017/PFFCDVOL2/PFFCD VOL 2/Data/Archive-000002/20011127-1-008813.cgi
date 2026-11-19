@@ -1,0 +1,2 @@
+A||||0||Fformula88||Cheektowaga Town Park... who's red Fiero GT??||||1||
+Z||000000||Fformula88||07-15-2001||08:14 PM||||I was at my cousin's swim meet today at the Cheektowaga town park and saw a red 85 GT.  Just wondering if it belonged to any of the local forum members.  It looked to be in very good shape (although I just drove by... didn't get out to look).  It also had a front end cover with "Fiero" on it.<P>------------------<BR>John  <BR>AOLIM: Fformula88<BR> <IMG SRC="http://www.fiero.nl/uploads/fierosig2.JPG"> <BR>1988 Fiero Formula<BR>1985 Fiero SE 2M6||||reg||1

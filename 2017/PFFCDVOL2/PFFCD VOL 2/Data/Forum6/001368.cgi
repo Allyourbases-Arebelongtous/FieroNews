@@ -1,0 +1,4 @@
+A||||2||Philphine||wheel bolt patterns||||1||
+Z||000000||Philphine||02-03-2001||07:05 PM||||<BR>i used to be able to pull up a pretty good web page that listed wheel bolt patterns for a variety of cars. not just fieros and other 5x100mm wheels, but pretty much all the every day makes, models and bolt patterns. i can't pull it up anymore and was hoping someone knew of another one.||||reg||1
+Z||000001||Raydar||02-03-2001||09:39 PM||||Try <A HREF="http://www.aaarims.com" TARGET=_blank>www.aaarims.com</A>  <BR>If you go to their product catalog, when you select a make, it gives bolt pattern size for everything they have. Better than nothing.<P>------------------<BR>Raydar - aka Steve<P>88 T-top Formula<BR>88 soon-to-be-V6 coupe||||reg||1
+Z||000002||Philphine||02-03-2001||09:58 PM||||thanks. only goes back to '85, but got what i need for now. any others?||||reg||1

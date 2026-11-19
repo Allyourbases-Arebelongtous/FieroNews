@@ -1,0 +1,5 @@
+A||||3||saleenfiero||Don't read, just a test!||||12||
+Z||000000||saleenfiero||04-01-2001||02:06 PM||||Test<BR> <IMG SRC="http://www.fiero.nl/uploads/fiero1_11.jpg"> <P>------------------<BR>'86 SE - My car is actually a MacLaren F1 with a Fiero body kit; or not.||||reg||12
+Z||000001||Galen||04-01-2001||10:03 PM||||LALALALA||||reg||1
+Z||000002||TheFiero64||04-02-2001||10:30 AM||||Galen, he said don't read! OOPS caught me too  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><B>ALL YOUR BASE ARE BELONG TO US</B> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Josh<BR>  <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg"> <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||12
+Z||000003||Galen||04-02-2001||03:16 PM||||Hehe.. If once I tell you, you will know. If I do not, then you will not.<P>------------------<BR>Galen - 1988 Hawaiian Orchid Coupe - Sunroof, shaved emblems, more to come..<BR><A HREF="http://www.spinrpg.com/" TARGET=_blank>Spinrpg.com - Free URL & e-mail Forwarding</A>||||reg||1

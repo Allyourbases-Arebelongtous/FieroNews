@@ -1,0 +1,7 @@
+A||N||5||Slapnutz2000||White gauge installation||||5||
+Z||000000||Slapnutz2000||11-03-2001||05:29 PM||||I'm looking for a pair of white gauges.  Since I'm terrible at installing them...if I send a gauge cluster to someone, can you put them on for me?<P>Sorry if this isn't the correct forum.||||reg||5
+Z||000001||avengador1||11-03-2001||06:02 PM||||The Fiero Store has them. You supply the clear silicone to glue them on. I don't have them but they loof pretty good. <A HREF="http://www.fierostore.com" TARGET=_blank>www.fierostore.com</A> <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1
+Z||000002||sprnt96||11-03-2001||06:48 PM||||How difficult is it to get the guages apart?? I have a set of white face guage decals but I really don't want to screw up my guages taking them apart!!||||reg||1
+Z||000003||avengador1||11-03-2001||07:20 PM||||Whatever you do take your time and don't force anything. I have taken a set apart yet, but I understand it's not too hard.||||reg||1
+Z||000004||FieroFanaticus2||11-03-2001||07:25 PM||||It's not too difficult.  Just take your time and try to remember where all the screws and bolts go.  Take pictures of the process if it helps.  ||||reg||1
+Z||000005||revin||11-04-2001||06:35 PM||||it is sooo easy!!  I found that you CAN correct the gas gauge then too. when it is totlly full just put it in the right spot! ||||reg||1

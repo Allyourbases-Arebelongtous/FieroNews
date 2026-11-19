@@ -1,0 +1,3 @@
+A||N||1||SmittyABP||Camaro Style Fiero Rims?||||1||
+Z||000000||SmittyABP||03-31-2001||01:14 PM||||I got a question....I used to have a 1989 Camaro RS (  <IMG SRC="http://www.fiero.nl/forum/frown.gif"> ) and i LOVED the third gen wheels that came with camaros. Does any one know of any place that makes/sells 3rd gen camaro style wheels that will fit the fiero?!? I would love to see these on my fiero once it arrives...<P>------------------<BR>Smitty(ABP)<BR>smitty@illbredabp.com<BR>www.geocities.com/smittyabp||||reg||1
+Z||000001||rogergarrison||03-31-2001||08:48 PM||||try <A HREF="http://www.tirerack.com" TARGET=_blank>www.tirerack.com</A> ||||reg||1

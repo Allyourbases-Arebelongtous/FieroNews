@@ -1,0 +1,8 @@
+A||||6||Motorhead||Body Panel Swapping
+Z||000000||Motorhead||04-04-99||06:58 AM||||I'm not very familiar with the compatibility of the body panels of the different year Fieros, but I would like to know if it's possible to bolt the '88 Formula front and rear fascias onto my '86 coupe. Seems like it would be, but I want to be sure before forking over the bucks for the parts! <br>
+Z||000001||raceknb||04-07-99||10:32 PM||||Funny you should ask that.  I have wondered the same thing.  But never really payed it much mind.  Anyone???
+Z||000002||FieroMike||04-08-99||12:23 PM||||From what I have heard/seen any body panel fits on any year, any model. The subframe is the same on all models.
+Z||000003||Punkndrublic||04-08-99||06:00 PM||||Isn't the frame on the 88's different then the rest??? And therefore only 88 panels fit on 88 cars.
+Z||000004||PaUL||04-08-99||06:24 PM||||I believe the 88s have the same frame, the only parts that are different are the front suspension and rear engine subassembly. The body panel do not attach to any of these parts
+Z||000005||Motorhead||04-08-99||06:48 PM||||Thanks ya'll!<p>Thought the panels were interchangeable, but wasn't sure.  <p>The old bumper pads look a little indescent to me! The Formula however, seems to blend the body lines into something more aerodynamic than the dam effect achieved by the GT spoilers and skirts!<p>But then, beauty is in the eye of the beholder! [Depending on the state of enebriation]!<p>Thanks!
+Z||000006||PaUL||04-08-99||06:52 PM||||just to let you know, the front and rear facias cover a plastic shock absorbing piece. You'll have to either replace this or trim your existing one to fit. I got a new one when I changed the front facia on my 86 SC with one from an SE.

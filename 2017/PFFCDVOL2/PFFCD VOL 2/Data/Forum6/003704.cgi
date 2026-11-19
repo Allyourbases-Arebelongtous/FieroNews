@@ -1,0 +1,7 @@
+A||||5||Heretic||WOOHOO!||||6||
+Z||000000||Heretic||10-07-2001||12:06 PM||||I just got tickets for Finger Eleven in Kitchener for this upcoming Saturday! I cant Wait , as it is only my second concert!<P>------------------<BR>  <IMG SRC="http://www.shinseido.co.jp/yogaku/rock/slipknot/RRCY-11146.gif">  <BR>SLIPKNOT OWNS j00!||||reg||6
+Z||000001||btoth||10-07-2001||02:47 PM||||Finger Eleven is pretty cool.  Rainbow Butt Monkeys too.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||Jaygee79||10-07-2001||10:19 PM||||Rainbow Butt Monkeys?  Where the heck do they get these names from??||||reg||1
+Z||000003||Heretic||10-08-2001||12:19 AM||||"rainbow butt monkeys" LMAO....||||reg||1
+Z||000004||AusFiero||10-08-2001||04:43 AM||||I wonder if MonkeyMan has a rainbow butt too?<BR>Rainbows come with storms. Know I wouldn't want to be near a stormy butt.<P>------------------<BR>    <IMG SRC="http://www.jadeweb.com.au/fiero/ausfiero1.gif">   <BR><A HREF="http://www.jadeweb.com.au/fiero" TARGET=_blank>My Fiero</A> | <A HREF="http://www.fieroshop.com.au" TARGET=_blank>Fiero Accessories</A>||202.139.20.3||reg||7
+Z||000005||Fierowrecker||10-08-2001||10:37 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by AusFiero:<BR><B>I wonder if MonkeyMan has a rainbow butt too?<BR>Rainbows come with storms. Know I wouldn't want to be near a stormy butt.<P></B><HR></BLOCKQUOTE><P>Watch out for the mud slides!!!||||reg||1

@@ -1,0 +1,17 @@
+A||N||15||Elenor84||Center Console sub mount?||||4||
+Z||000000||Elenor84||11-14-2000||10:29 PM||||Hey guys, I really need your help...I went to the section with all the pictures and I saw a fiero with a sub mounted in the center console...today I went out and bought a 10"sub and an amp...hoping to put it in the center console...I pulled it off and there is a computer right behind the console...so there's not much room for a sub...whoever put that picture up could u please tell me how u managed to mount it?  Thx...and any other suggestions on this mounting would be great!<P>------------------<BR>Lance||||reg||4
+Z||000001||jonny_blaze||11-14-2000||10:45 PM||||there is a piece you can buy for like 300 bucks||||reg||1
+Z||000002||Elenor84||11-15-2000||12:42 AM||||Well I know that...I only spent 300 bucks on the sub and amp so I'm not going to waste that much money...anybody else?<P>------------------<BR>Lance||||reg||1
+Z||000003||JetroGT||11-15-2000||12:52 AM||||Move the computer behind the drivers seat. The magnet may corrupt the PROM.||||reg||1
+Z||000004||Philphine||11-15-2000||02:00 AM||||i think the people who have done that used an 8" sub.||||reg||1
+Z||000005||Elenor84||11-15-2000||02:10 AM||||Thx guys!  ||||reg||1
+Z||000006||stimpy||11-16-2000||01:18 AM||||Before you return that 10, you may want to think about making an enclosure that fits down in the footwell of the passnger side. I made my enclosure out of fiberglass and plywood for less then $30. The passenger still has as much footroom as the driver with this set up.  You do need to use a high quality woofer with this as the enclosure is &lt;.5 cu ft.||||reg||1
+Z||000007||BAM-BAM||11-16-2000||01:26 AM||||  Take a look at this <BR> <IMG SRC="http://www.fiero.nl/uploads/GTSubwoofer.jpg"> <P> If you like it, get ahold of Batboy, he has the scoop!<P> Peace, BAM OUT!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||12
+Z||000008||batboy||11-16-2000||08:52 PM||||Lots of interest in my ex-Fiero's console sub lately. That was an 8" sub in a custom made box (no I didn't make it). You have to pick a sub that can be used in a real small box. In one of the other threads, there is a pic of a custom made box behind the passenger seat with a 10" sub mounted in it. There's another possibility. Elenor, what sub and amp did you get?||||reg||1
+Z||000009||Elenor84||11-17-2000||03:01 AM||||I got a pioneer sub and a kenwood amp...<BR>||||reg||1
+Z||000010||Elenor84||11-17-2000||05:41 PM||||Just to let everyone know, my name is lance but my fiero's name is elenor...||||reg||1
+Z||000011||batboy||11-17-2000||07:42 PM||||Nope, you're Elenor to me from now on...LOL!||||reg||1
+Z||000012||Elenor84||11-17-2000||07:45 PM||||ok man...thas koo....just lettin u guys know that I'm not some chick...elenor is a sweet ass name...I dont' mind<P>Elenor||||reg||1
+Z||000013||Madrox86GT||11-18-2000||07:01 PM||||hey bat boy how did you do that any way???  send me some plans.<P>------------------<BR>You know my saying is:<P>"life is  a  B I T C H... then you marry one."<P>-BLACK 86 GT-  <IMG SRC="http://www.fiero.nl/uploads/Gt.jpg"> ||||reg||1
+Z||000014||batboy||11-18-2000||07:38 PM||||Sorry, I didn't make the box, I don't have any plans for it, and I don't even own it anymore either.||||reg||1
+Z||000015||Madrox86GT||11-18-2000||08:19 PM||||who made it?? who has it??? tell them i will buy it!<P>------------------<BR>You know my saying is:<P>"life is  a  B I T C H... then you marry one."<P>-BLACK 86 GT-  <IMG SRC="http://www.fiero.nl/uploads/Gt.jpg"> ||||reg||1

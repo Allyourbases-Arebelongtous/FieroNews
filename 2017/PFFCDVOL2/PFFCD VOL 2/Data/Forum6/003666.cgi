@@ -1,0 +1,4 @@
+A||||2||ferg||I changed my website- need opinions||||1||
+Z||000000||ferg||10-03-2001||10:50 PM||||Hi all, I made a huge change to my website and I'd like your opinions on it.<P>Let me know if you think I should add anything, take anything away, whatever.<P>Thanks, Ryan<BR> <A HREF="Http://pages.prodigy.net/fergusor" TARGET=_blank>Http://pages.prodigy.net/fergusor</A> ||||reg||1
+Z||000001||FieroMaster88||10-03-2001||11:06 PM||||Looks good.  Nice Fiero.  You have way too many toys!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/jamessig.jpg">              <BR>James Essar<BR>AOL IM Name: FieroMaster88<BR>Not your ordinary 88 coupe!||||reg||1
+Z||000002||ferg||10-04-2001||12:34 PM||||Thanks for the compliments. Any other comments?||||reg||1

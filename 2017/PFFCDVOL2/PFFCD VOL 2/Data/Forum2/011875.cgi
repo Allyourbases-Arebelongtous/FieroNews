@@ -1,0 +1,3 @@
+A||||1||FieroBert||V-6 Hose Routing Question||||1||
+Z||000000||FieroBert||07-07-2001||02:02 PM||||There is approx. 1" diameter hose coming from the forward/left side of the air cleaner housing going to the firewall.  It connects to a solid pipe going along the firewall to the middle of the car where it takes a 45 degree angle up toward the engine.  This is where mine stops.  The pipe looks flared for another hose attachment but mine is not connected.  Am I missing a hose?  <P>I am not passing emissions and trying to clean up previous owners tinkerings.<P>Thanks for the help.  Jim||||reg||1
+Z||000001||FieroBert||07-07-2001||02:08 PM||||Please ignore this question - got an answer.<P>Thanks Raydar.<P>Cleaning up someone else's tinkering is sure fun!||||reg||1

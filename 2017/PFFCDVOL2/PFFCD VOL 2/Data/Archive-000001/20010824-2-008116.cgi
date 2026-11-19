@@ -1,0 +1,3 @@
+A||N||1||terryk||To: Mr. D Lord.||||1||
+Z||000000||terryk||01-28-2001||12:37 PM|||| <A HREF="http://www.casperselectronics.com/cgi-local/store/commerce.cgi?product=PERF" TARGET=_blank>http://www.casperselectronics.com/cgi-local/store/commerce.cgi?product=PERF</A> ||||reg||1
+Z||000001||hugh||01-28-2001||01:01 PM||||They're the people that have the 3800SC engines that I have mentioned a few times on this forum.Talk to John Spina,he's the man you want.On those multiposition chips,I've had one in my GN for many years and have never had any problems with it.I also ran 115MPH in the 1/4 with it set in the top setting. ||||reg||1

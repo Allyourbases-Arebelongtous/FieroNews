@@ -1,0 +1,2 @@
+A||||0||jlruiz67||GM/Chevy 2.8L V6 Short Block Ass'y from Fiero for $20.00 on ebay||||1||
+Z||000000||jlruiz67||11-01-2000||07:10 PM|||| <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=476854951&r=0&t=0" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=476854951&r=0&t=0</A> <P>Sorry guy's auction is over and no one bid on $20 small block<p>[This message has been edited by jlruiz67 (edited 11-01-2000).]||||reg||1

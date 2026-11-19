@@ -1,0 +1,5 @@
+A||||3||pontiacs4me||gt front and rear fascias||||1||
+Z||000000||pontiacs4me||02-21-2001||12:35 AM||||I have a 87 standard model that originally had a 2.5 liter, come tomorrow it will have the 2.8 liter installed.  Well heres my problem, the rear fascia only has one cut out for the exhaust tips.  the 2.8 liter has an exhaust tip on each side.  So I decided to buy a gt rear bumper cover, and front fascia and rear wing.  I can find a wing on ebay, but the front and rear fascias are hard to find.  Does anybody have an extra they would sell me?  thanks.||||reg||1
+Z||000001||Tigger||02-21-2001||08:53 AM||||Don't have any facias to sell.  You might want to post this question in the Mall section.||||reg||1
+Z||000002||Carrolles||02-21-2001||12:50 PM||||Contact Ed Parks at the Fiero Factory.<P>(205) 420-5391<BR>fierofactory@juno.com||||reg||1
+Z||000003||DougV||02-21-2001||03:19 PM||||I've gotton all my hard to find stuff from FieroDave. He's been a GREAT help to me. He's always posting stuff for sale in the Mall Section.||||reg||1

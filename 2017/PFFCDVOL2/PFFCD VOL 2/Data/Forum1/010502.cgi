@@ -1,0 +1,2 @@
+A||||0||Dumba$$||im looking for a gm part no.   help please?||||1||
+Z||000000||Dumba$$||09-24-2001||09:24 PM||||its for the 1/4 emblums for the notchback<BR>i know there only $9 or $10  from the fiero store or dickman but i can get them for alot cheeper from the dealer here in town  i just need the GM part number<P>------------------<BR>Rich<BR>Sioux Falls SD<BR>Red 84 SE<BR>Gold 86 SE <BR>98 acura cl 3.0<P>4.9 caddy engine for sale 30,000 miles complete with bubba joes mounts!!  $850<P>if it dont go, put a fart can, and clear taillights on it!!||||reg||1

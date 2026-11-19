@@ -1,0 +1,8 @@
+A||||6||Mach10||ATTN: V8 Fiero!||||5||
+Z||000000||Mach10||08-22-2001||01:40 AM||||Where are you, man? 'S like you dropped off the face of the planet! Let me know if you've recieved my last 2 emails about that deck I tried to ship you!<BR>||||reg||5
+Z||000001||Mach10||08-22-2001||12:57 PM||||*bump*<BR>||||reg||1
+Z||000002||Mach10||08-23-2001||12:02 AM||||*bump*||||reg||4
+Z||000003||JSocha||08-23-2001||12:05 PM||||I'm going to have to run over to Minot and see what V8 is upto.  Haven't heard from him in a spell and wondering how he is coming on his Fiero.  SH, are you out there?  Still with us?  In the pokey from your last traffic incident or what?!?!?!  Inquiring minds want to know!<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> ||||reg||1
+Z||000004||Mach10||08-23-2001||04:07 PM||||If you see/hear from him, get him to answer his emails. We still have to sort out this seriously MESSED part-trade deal.<BR>Tell him I want to reimburse him for the shipping on the first attempt. While I was fighting Canada Customs about some EXORBERANT charges they wanted me to pay, they shipped the package back "Return To Sender"<BR>I need to speak to him before sending the deck out.||||reg||4
+Z||000005||JSocha||08-23-2001||04:16 PM||||I don't have my cell phone on me right now Mach10.  It's in the truck.  I'll call him tonight after work for you and find out what's gives and email you later.||||reg||1
+Z||000006||Mach10||08-23-2001||04:54 PM||||Thanks. I want to get this whole scharade done with. TWICE I've been screwed by Canada Customs  <IMG SRC="http://www.fiero.nl/forum/smiley_damon.gif">||||reg||1

@@ -1,0 +1,4 @@
+A||||2||loafer87gt||Cost of living in Burbank, California||||1||
+Z||000000||loafer87gt||01-27-2000||12:18 PM||||Hi guys, i got a job offer from a computer animation company in Burbank. I have no idea what to expect to pay for housing down there though. Does anyone know what a guy can expect to pay for a batchelor pad in a fairly good part of town? Any info would be great. ||||reg||1
+Z||000001||Ed||01-27-2000||08:18 PM||||If no one responds, try finding out by internet. My daughter was house shopping and found some.  My mother's house was for sale in Minnesota (I'm in California) and I found the listing in just a couple of minutes.  At least it will give you an idea, although you'll still have to figure out if its a good part of town.  <P>Hopefully, apartments are on the net too. Maybe the better ones will be.  ||||reg||1
+Z||000002||TOM||01-27-2000||10:23 PM||||I live in N hollywood which is about five minutes from burbank||||reg||1

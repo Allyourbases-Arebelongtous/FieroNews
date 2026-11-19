@@ -1,0 +1,5 @@
+A||N||3||WMEBERT||Holley Throttle Body Question||||5||
+Z||000000||WMEBERT||05-28-2001||02:32 AM||||I just bought an '86 GT with a coolant leak coming out of the timing chain cover of the recently rebuilt 2.8.  When I was checking out the engine I noticed the word "Holley" on the throttle body housing.  Is this stock?  I wouldn't think so but it's been 16 years since I had a Fiero and that one was a 4 cyl.<P>Thanks <P>||||reg||5
+Z||000001||tgowens||05-28-2001||02:33 AM||||yessir, it is stock........||||reg||1
+Z||000002||WMEBERT||05-28-2001||02:41 AM||||Thanks....I used the "Search" feature and found out it came stock from the factory with it.  I guess I'll know to look first next time.  A lot of good info to be had/found that way.||||reg||1
+Z||000003||terryk||05-28-2001||10:01 AM||||Yep. The two common engines are the 2.8L W/S engine using the Rochester TB and mass air flow and the Fiero 2.8L 9 engine using the Holley TB and map sensor. Same engines otherwise. They were emissions backup to each other in 85 should one have failed certification.||||reg||1

@@ -1,0 +1,3 @@
+A||||1||Fret Naught||Silver Lining||||12||
+Z||000000||Fret Naught||04-28-2000||06:31 PM||||Just got back from putting tires on my FIERO It helps when your buddy has a station with all the goodies, during the spin balance found one of my wheels was Bent. Bummer, guess now is as good a time as any to get those polished Alum. rims I've been eyeing.<BR>Say all things being equal, anybody have an Idea as to what normal oil pressure is? My guage is almost pegged (around 70-75 lbs.) during normal driving pull into the drive and it drops a bit.||||reg||12
+Z||000001||Standard||04-29-2000||02:24 AM||||Yep, just found out the same thing when I got my 225's installed on the rear.  my pass. side rim is bent.  probably explains why my car vibrates a bit at 70mph||||reg||1

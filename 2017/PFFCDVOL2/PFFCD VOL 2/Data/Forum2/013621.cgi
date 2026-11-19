@@ -1,0 +1,3 @@
+A||N||1||VISCERAL||Tie rod thread size question/idea||||1||
+Z||000000||VISCERAL||09-12-2001||09:58 PM||||I was wondering how these bumpsteer tie rods from Baer would work on all four corners of our cars? Take a look. They are most likely for mustangs and camaro's and vettes, but hey, if they fit why not.<BR> <A HREF="http://www.baer.com/options/STEERING.SHTM" TARGET=_blank>http://www.baer.com/options/STEERING.SHTM</A> <P>could fix the goofy bumpsteer in the rear suspension. Any ideas?||||reg||1
+Z||000001||cadaver||09-13-2001||10:53 PM||||How about asking them as they will need to send the proper length as well so they should know the size needed.||||reg||1

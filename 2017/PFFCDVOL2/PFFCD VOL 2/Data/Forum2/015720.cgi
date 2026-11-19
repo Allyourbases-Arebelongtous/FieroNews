@@ -1,0 +1,2 @@
+A||||0||Master_Sushi||Hey Ogre! Your vast Fiero wisdom is needed...||||4||
+Z||000000||Master_Sushi||11-23-2001||07:21 PM|||| <A HREF="http://www.fiero.nl/forum/Forum2/HTML/015687.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/015687.html</A> <P><BR>I guess i'm not the only ones with this problum  <IMG SRC="http://www.fiero.nl/forum/frown.gif">. Since your the expert on the dukes, I thought you might know whats going on.<P><BR>Thanks||||reg||4

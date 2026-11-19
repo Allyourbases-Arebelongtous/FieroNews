@@ -1,0 +1,6 @@
+A||||4||85seNUT||Flowmasters rule!!!!||||10||
+Z||000000||85seNUT||03-12-2001||07:47 PM||||I just had a 2 chamber dual crome pipe flowmaster installed on my car.  it sounds beafy and i think it added a little more hp.  I suggest it to anyone.  Its sick!!!!  ||||reg||10
+Z||000001||KRMFiero||03-12-2001||10:02 PM||||sounds nice,   you should record the sound of it and post it  <IMG SRC="http://www.fiero.nl/forum/tongue.gif">||||reg||1
+Z||000002||85seNUT||03-13-2001||12:45 AM||||how do i post that?||||reg||1
+Z||000003||KRMFiero||03-13-2001||07:15 AM||||put your computers microphone a few feet from your exaust and go into sound recorder, start your engine, hit record, rev it a few times hit stop then just upload it to some webserver (ex. Geocities)then just give us the URL to the file<P>Kyle||||reg||1
+Z||000004||stimpy||03-13-2001||10:42 AM||||Another option if you are technilogically impaired like me is to use <A HREF="http://www.pagetalk.com" TARGET=_blank>www.pagetalk.com</A>  and record it with a phone. Then you will be emailed with code to put a clickable button on your webpage or email. Completely free.<BR>P.S. I love my Flowie!<P>------------------<BR>Loud Pipes Save Lives!      <IMG SRC="http://www.fiero.nl/uploads/stimpy_sig.gif"> ||||reg||1

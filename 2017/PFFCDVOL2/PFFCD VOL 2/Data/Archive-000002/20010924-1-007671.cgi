@@ -1,0 +1,2 @@
+A||N||0||Rob Durham||IRM's Intergrated Rockers||||1||
+Z||000000||Rob Durham||05-25-2001||03:03 PM||||3 weeks ago IRM said it would be 6 weeks before they would ship, talked to them today they said it would be a good 6 weeks more.<BR>If anyone has a pair I would pay for shipping from you to me and back and include a second set of intergrated rockers for the chance to make molds off of the intergrated rockers.<P>Rob Durham<P>||||reg||1

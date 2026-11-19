@@ -1,0 +1,4 @@
+A||||2||starfighter007@msn.com||Ditched out..||||9||
+Z||000000||starfighter007@msn.com||09-09-2001||05:10 PM||||Hey where was everybody today ?I wake up this morning turn on the computer and I could not get here did you guys/gals go some where and not tell me? <IMG SRC="http://www.fiero.nl/forum/smiley_watchout.gif"> gosh I was so lonley dont do that again to me Please <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||9
+Z||000001||Urchin||09-09-2001||06:08 PM||||That's classified...   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/side_cut_sig_4.jpg">  <BR>If you can read this, I'm parked.||||reg||1
+Z||000002||maryjane||09-09-2001||07:06 PM||||on a need to know basis. Got needs? <BR>(where'd we go? crazy, for a little while)||||reg||1

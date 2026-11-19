@@ -1,0 +1,8 @@
+A||||6||Brian84SE||leaking roof-not sun||||1||
+Z||000000||Brian84SE||03-12-2000||07:17 AM||||Having a leaking sunroof (so I thought) I put in a new weatherstrip and checked the rubberized nuts. <BR>Guess what-headliner is still getting wet on passenger side just like before.  Before I go ripping the headliner down and taking a garden hose to the Fiero, any other places in that area the Fiero is known to leak from? It seems mostly wet in the front right corner (although water can travel). ||||reg||1
+Z||000001||Brian84SE||03-12-2000||10:41 AM||||What is the joint that runs across the car behind the sunroof? Could it be leaking through there?||||reg||1
+Z||000002||BAM-BAM||03-12-2000||10:42 AM||||  Could it be that the windshield seal is letting water through? Sorry, that's about the only thing I can think of <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||5
+Z||000003||ROB MAC||03-12-2000||08:10 PM||||A new weather strip does not guarantee no weather drip. Use a strip of writing paper to check the seal between the rubber and glass. If it pulls out easily you aint getting closure. Do what I did ...glue it shut with silicone...presto! no more wet pants in the morning.||||reg||6
+Z||000004||TOM||03-12-2000||10:22 PM||||If your car is an earlier model it doesnt have the drain holes drilled or the may be plugged up. After I drilled mine I havent had any problems||||reg||1
+Z||000005||Brian84SE||03-13-2000||09:38 PM||||Tom-where would I find these drain holes?(If I have them)||||reg||1
+Z||000006||TOM||03-14-2000||12:29 AM||||Take off the sun roof glass and look under the rubber seal at the corners. If they are not there , drill a hole down through the fiberglass. I drilled 1/2 holes but I think stock they are more like 3/8||||reg||1

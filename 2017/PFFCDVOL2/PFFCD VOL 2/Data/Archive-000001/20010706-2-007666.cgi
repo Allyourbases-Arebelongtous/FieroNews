@@ -1,0 +1,7 @@
+A||||5||Bruce||Just curious||||1||
+Z||000000||Bruce||01-05-2001||10:50 AM||||I posted this question last week, without much response: Should I be having trouble with a clutch that was replaced 20,000 miles ago? I don't drive the car hard; but, for the past couple of months, I have been doing some "stop-and-go" driving.<BR>Thanks!<BR>bb||||reg||1
+Z||000001||Oreif||01-05-2001||11:12 AM||||What engine and trans is it? Who replaced the clucth? We would need a little more info about the car.||||reg||1
+Z||000002||batboy||01-05-2001||11:41 AM||||If the clutch job was done right and there has been no abusive driving, then of course you should not be having any problem at 20k miles. It might be a hydraulic problem, but I don't know what your symptoms are.||||reg||1
+Z||000003||fiero56||01-05-2001||12:23 PM||||You shouldn't be having any problems at 20,000 miles. But, sounds like you are??||||reg||1
+Z||000004||Bruce||01-05-2001||04:19 PM||||Fiero is 86GT w/ 4 speed.<BR>It "lugs" a little in low rpms, but doesn't do it all the time. 1st has always chattered, but I have a steel clutch pedal. It almost runs like it's missing a little, but it purrs right along at higher speeds.<BR>Thanks for all the responses!<BR>bb||||reg||1
+Z||000005||Pontiaddict||01-05-2001||10:13 PM||||Let me guess... It's kind of doggy below 3 grand. If you take off slowly in 1st, it rattles the whole back of the car. <P>Does it idle kind of high?<BR>||||reg||1

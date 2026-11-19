@@ -1,0 +1,15 @@
+A||||13||DreXteR||Pics of my ToY...||||6||
+Z||000000||DreXteR||01-16-2001||01:29 AM||||Q last...  This is my toy.<BR> <IMG SRC="http://users.centennialpr.net/drexter/Fiero/Fiero1.jpg"> <BR> <IMG SRC="http://users.centennialpr.net/drexter/Fiero/Fiero2.jpg"> <BR> <IMG SRC="http://users.centennialpr.net/drexter/Fiero/Fiero3.jpg"> <BR>||||reg||6
+Z||000001||2xsess||01-16-2001||07:35 AM||||Nice  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Jeff<BR>AOL IM : Only2xsess<BR>    <IMG SRC="http://www.fiero.nl/uploads/My_car_(large)sig_1.JPG">   <BR> <A HREF="http://kresgeus.homestead.com/FieroPage.html" TARGET=_blank>http://kresgeus.homestead.com/FieroPage.html</A> ||||reg||14
+Z||000002||mrfixit58||01-16-2001||07:42 AM||||Why didn't you get a RED one?  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>Looks sweet,<BR>Roy  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||12
+Z||000003||TheFiero64||01-16-2001||10:54 AM||||All I can say is <B>SWEET!!!</B><P>------------------<BR>Josh<BR>88 Coupe V6<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif">   <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||6
+Z||000004||2M4 Dale||01-16-2001||12:22 PM||||Looks Great !!!!!!!!||||reg||14
+Z||000005||flyntus||01-16-2001||12:33 PM||||Sweeeeeeet!!!!! <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000006||My7Fieros||01-16-2001||01:19 PM||||Ok Ok!! You can give it to me if you just <I>insist</I>!  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> <B>SWEET RIDE!!!</B><P>------------------<BR> <IMG SRC="http://tgowens.com/My7Fieros_sig.gif"> ||||reg||14
+Z||000007||p4n1c||01-16-2001||01:35 PM||||Sweet looking car.  That's the colour I want on mine.  All nice and shiny like.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>-=-=-=[ p4n1c ]=-=-=-<BR>"Each passing day, every passing face seems like such a blur" <BR>- The Offspring(Million Miles Away)||||reg||10
+Z||000008||fiero56||01-16-2001||02:02 PM||||What year? '86 or '87?||||reg||1
+Z||000009||DreXteR||01-16-2001||04:44 PM||||<BR>Thanx !!!!!||||reg||12
+Z||000010||DreXteR||01-16-2001||11:35 PM||||Its a 86, 4 Speed. 80k, A/C, p/w, defoger.<P>Im planning to place a 3.4 TDC, performance suspencion, and some brakes mods.||||reg||10
+Z||000011||Cheever2||01-16-2001||11:48 PM||||----You're getting verrrrry sleeepyyy----<BR>-<BR>----When you have finished reading this post, you will drive your Fiero to Missouri City Texas and park it in the lot next to the Texas Pride Car Wash----<BR>-<BR>----You will then sign the title and leave it with the keys under the floor mat----<BR>-<BR>----Then you will hitchhike back home, whereupon you will awaken without remembering any of this----<BR>-<BR>-----That is all-----<BR>||||reg||6
+Z||000012||AL||01-17-2001||01:42 AM||||like it,especially the front,where did you get the  bottom part for your facia?<B>AL</B> <IMG SRC="http://www.fiero.nl/uploads/AL_sig.gif">  <BR>86 fiero gt<BR>84 indy fiero<P>------------------<BR> ||||reg||1
+Z||000013||DreXteR||01-17-2001||10:34 AM||||Al, I get it like that.<P>DreX||||reg||10

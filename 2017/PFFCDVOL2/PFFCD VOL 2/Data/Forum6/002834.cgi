@@ -1,0 +1,4 @@
+A||||2||Loki||Testing sig||||1||
+Z||000000||Loki||08-01-2001||07:34 PM||||Hmmm<P><P>------------------<BR> <IMG SRC="http://members.home.net/loki-mg/loki_sig.jpg"> <BR>ICQ# 16477998||||reg||1
+Z||000001||sqoach||08-01-2001||11:47 PM||||Background is a little dark for your car. The silver nose is nice   <IMG SRC="http://www.fiero.nl/forum/tongue.gif"> (I don't really have any business making fun of your car. Mine has silvers fenders, and a red/primer-grey nose)   <IMG SRC="http://www.fiero.nl/forum/redface.gif"><P>------------------<BR><FONT COLOR="BLUE">sqoach@yahoo.com</FONT><BR>    <IMG SRC="http://www.fiero.nl/uploads/sqoach.gif">    <P>84 SE (FOR SALE)*sale pending*<BR>85 Coupe (parts car)($50)*sale pending*<BR>86 SC (FOR SALE)<BR>86 SE V6 (new project)<p>[This message has been edited by sqoach (edited 08-01-2001).]||||reg||1
+Z||000002||AusFiero||08-02-2001||04:56 AM||||ssssshhh  No it hasn't sqoach  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

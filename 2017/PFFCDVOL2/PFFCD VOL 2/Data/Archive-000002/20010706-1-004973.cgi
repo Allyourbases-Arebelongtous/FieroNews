@@ -1,0 +1,3 @@
+A||||1||JetroGT||Fiero Electronics.||||6||
+Z||000000||JetroGT||12-27-2000||07:48 AM||||I was using the wwfl links page and came across an electronics fiero page. This guy came up with some very nice add ons. For anyone who likes to modify the interior, this page is a must see. I especially liked the dash scan tool he made. <BR> <A HREF="http://business.fortunecity.com/takeover/175/" TARGET=_blank>http://business.fortunecity.com/takeover/175/</A> ||||reg||6
+Z||000001||FieroMaster88||12-28-2000||05:51 PM||||I am gonna have to try and make some of those things myself.....kinda neat!<P>James||||reg||1

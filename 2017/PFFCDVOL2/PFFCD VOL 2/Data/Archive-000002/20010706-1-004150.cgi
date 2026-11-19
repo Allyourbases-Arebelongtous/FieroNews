@@ -1,0 +1,5 @@
+A||N||3||count_iblis||ANY OLD FIERO RACING VIDEO'S||||10||
+Z||000000||count_iblis||10-27-2000||12:35 PM||||DOES ANYONE KNOW WHERE I CAN GET SOME OLD VIDEOS OF BACK WHEN THE FIERO USE TO RACE IN THE ISMA OR OTHER RACING EVENTS?  ||||reg||10
+Z||000001||Fiero5||10-27-2000||02:58 PM||||I would be interested in a few also, if anyone has any.<P>------------------<BR>                                                                                                  <IMG SRC="http://www.totallyferret.com/ferretfun/fwritean.gif"> ||||reg||1
+Z||000002||count_iblis||10-28-2000||01:03 AM||||back to top||||reg||1
+Z||000003||Seanh||10-28-2000||01:14 AM||||I saw a thread a while back about this, someone should know where it is. They had a documentry of the Fiero and they had some racing clips in it, not alot, but they showed it racing in a few events. <P>Is that supposed to be a Ferett? I have one just like that, and an albino one. I love those little guys. But wow, those guys can poop like theres no tomarrow.<P>------------------<BR>Sean Heberly<BR>Silver 86 GT 2.8<BR>Killer Stereo System||||reg||1

@@ -1,0 +1,3 @@
+A||||1||Oreif||Seeking someone who can cast metal or plastic.||||5||
+Z||000000||Oreif||11-27-2000||11:28 AM||||Hey guys, I have a need to cast some small metal or plastic parts. So if someone is into building models or casting their own jewelry, let me know. The items are about 1/4" X 1/2". Even someone who is a dentist and can cast resin would be helpful.<BR>Thanks in Advance,<BR><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/LOGO3.jpg"> ||||reg||5
+Z||000001||BBJProducts||11-27-2000||01:15 PM||||Sent you an email.<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/bbjlogo.gif">  <BR><A HREF="http://members.fortunecity.com/bbjproducts/" TARGET=_blank>BBJ Resin Specialties</A>||||reg||1

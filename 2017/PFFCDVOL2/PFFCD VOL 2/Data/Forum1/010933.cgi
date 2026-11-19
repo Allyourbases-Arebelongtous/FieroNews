@@ -1,0 +1,8 @@
+A||||6||GTMike||clicking valves||||1||
+Z||000000||GTMike||10-12-2001||11:36 AM||||i hvae a light tick tick tick tick sound comming from my engine. i'm sure its something in the valve train. you know that sound.  its not a spark nock or anything just a light constant ticking.   i alwasy keep my oil full and since i got it i use synthetic.    its this common with 2.8s?  can i get my valves ajusted to cure it.  <P>it runs like a top with lots of power and good gas milage.  its only got 51K on it.||||reg||1
+Z||000001||Formula||10-12-2001||12:45 PM||||it might be an exhust leak, or you might need to tighten your rocker arms.<P>a little tick usually isnt anything to worry about, you should hear all the funny noises my neon makes  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||Joe Torma||10-12-2001||01:44 PM||||Injectors make some clicking noised too.  <P>Gget a piece of hose or tube like garden hose size, stick your ear at the one end and move it around the engine compartment to pinpoint the origin.<P>||||reg||1
+Z||000003||GTMike||10-14-2001||11:48 PM||||bump<P>i was reading my manual on ajusting the rocker arms.    i guess all i would do is tightne the ajusting nut while turning the push rods in my fingers and wait till i feel some drag then its tight enough. ||||reg||1
+Z||000004||Formula||10-15-2001||12:04 AM||||yep, when the piston is all the way up.||||reg||1
+Z||000005||GTMike||10-15-2001||03:32 AM||||oh so you do 2 at a time then turn the crank till the next piston comes up. and then do the ones for that cylinder. does it have to be on the compression stroke? ||||reg||1
+Z||000006||Formula||10-17-2001||07:03 PM||||yeah, it has to be on the compression stroke, check your haynes manual for more details.||||reg||1

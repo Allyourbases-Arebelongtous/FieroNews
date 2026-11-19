@@ -1,0 +1,2 @@
+A||N||0||Haze_Performance||All of your car pictures LOOK||||1||
+Z||000000||Haze_Performance||05-13-2000||10:05 PM||||I would like to post some of your Fiero photos on my site. If you guys can please post a pic on your car here or email me some at fiero_ws6@speedrules.com  ..you can check out the site here (just click on "Other Project Cars") <A HREF="http://www.drive.to/HMP" TARGET=_blank>www.drive.to/HMP</A>  Also add year/model/ and where your from..Thanks||||reg||1

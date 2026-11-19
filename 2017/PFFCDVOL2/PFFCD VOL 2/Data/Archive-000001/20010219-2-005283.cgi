@@ -1,0 +1,4 @@
+A||||2||baldlobo||Crank question||||5||
+Z||000000||baldlobo||08-16-2000||05:48 PM||||Does anyone know weather or not the crank from a sunfire 2.2 litre will fit in the Iron duke?||||reg||5
+Z||000001||HYPTNOTiSE||08-16-2000||06:20 PM||||no it wont fit. Are you looking for a stonger crank?  Use one from an s-10. I've got one, i'll sell to you for 10 bucks plus shipping. Just so it's worth my time to package it and send it out.<P>||||reg||1
+Z||000002||baldlobo||08-16-2000||06:38 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by HYPTNOTiSE:<BR><B>no it wont fit. Are you looking for a stonger crank?  Use one from an s-10. I've got one, i'll sell to you for 10 bucks plus shipping. Just so it's worth my time to package it and send it out.<P></B><HR></BLOCKQUOTE><P>I was just wondering, Because it's a bigger stroke crank||||reg||1

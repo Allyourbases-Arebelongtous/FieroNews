@@ -1,0 +1,6 @@
+A||N||4||Monkeyman||Converting SuperNES steering wheel to USB||||5||
+Z||000000||Monkeyman||11-12-2001||10:05 AM||||Can it be done?  I have NFS III for my computer but the steering wheel/pedals I have is for a SuperNES.  I don't have the money for a USB wheel right now.  (Using the arrow buttons just isn't cutting it.)||||reg||5
+Z||000001||Pheagey||11-12-2001||12:08 PM||||If you could get the wiring layout and some adapters (USB male/SNES female). you could probley make one. Gatta have electrical knowledge thou...||||reg||2
+Z||000002||ray b||11-12-2001||12:36 PM||||what brand/model is the wheel and how old is it???<BR>some of the newer wheels have a adapters for pc usb/ps2 conversion<BR>try the wheel makers web site to see if they have a converter for your wheel.<P>------------------<BR>Question wonder and be wierd||||reg||1
+Z||000003||84fierotrevor||11-12-2001||02:02 PM||||Umm...do you guys have a electronic's boutique in you'r mall ?<BR>we got a madcat's stearing wheel for 14.99 USB.<BR>U can't use a supernes wheel because ur computer needs the drivers for it.<BR>in order to use it otherwise its just gonna detect usb. (if it even does that) then<BR>it will ask u for the drivers.then what ?<BR>||||reg||1
+Z||000004||Formula||11-12-2001||11:50 PM||||just push really hard!  you might have to cut some pins but its worth it||||reg||1

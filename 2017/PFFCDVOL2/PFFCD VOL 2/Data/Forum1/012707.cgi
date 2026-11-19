@@ -1,0 +1,4 @@
+A||N||2||reddog||ATTN: Lou Dias!!!!!!!||||1||
+Z||000000||reddog||12-14-2001||07:09 PM||||Hey Lou I was wondering if you still had the ported and polished performance heads for sale?<P>------------------<BR>       <IMG SRC="http://www.fiero.nl/uploads/Picturenew_sig.jpg"> ||||reg||1
+Z||000001||reddog||12-15-2001||07:44 PM||||Bump..............<P>------------------<BR>       <IMG SRC="http://www.fiero.nl/uploads/Picturenew_sig.jpg"> ||||reg||1
+Z||000002||lou_dias||12-16-2001||11:37 AM||||funny you should ask, they were going into my car inbetween christmas and new year's when my buddy who's builing my car is on vacation.<P>I can have another set made because I have a whole extra set of heads.  I described in detail why I have an extra set on my original posts trying to sell them.<BR>if you still want a set, I need gaurantees that you want them so I can confidently foot the bill.  The machine shop took a week to turn them around to me the first time around.||||reg||1

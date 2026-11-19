@@ -1,0 +1,3 @@
+A||||1||Pretender||aftermarket Cam install?
+Z||000000||Pretender||06-20-99||02:34 PM||||whats all involved in a cam upgrade?...does the engine have to be dropped?. i do not plan on doing this myself but i would like to get an idea what the mech. might charge and how many hours it would take. <br>
+Z||000001||Punkndrublic||06-20-99||03:25 PM||||To put in a new cam you have to remove the engine from the engine bay. The guy who rebuilt mine decided to take it out from the top, this took more time to do then an talon tsi (the 4wd setup is a real pain) bout 30+ hours, but most of that is taking parts off. I still think he should of dropped the whole engine cradle, but thats just me.

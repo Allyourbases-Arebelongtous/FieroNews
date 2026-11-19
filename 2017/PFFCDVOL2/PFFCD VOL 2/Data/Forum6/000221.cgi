@@ -1,0 +1,3 @@
+A||N||1||DaRkLoRD||screensavers||||10||
+Z||000000||DaRkLoRD||04-10-2000||02:25 AM||||I'm sure everyone's seen that underwater screensaver that Macs have, right?<P>I'm looking for something similar, for windows. a nice high quality underwater screensaver, that's freeware. does anyone know of one? I've seen a few, but none are quite what I'm looking for..<P>thanks!||||reg||10
+Z||000001||Patrick's Dad||04-10-2000||07:55 PM||||What we really need is a Fiero screensaver.... Diferent years/ models/ trim packages zooming by in different ways. Maybe kicking butt on a rice burner or something....    <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

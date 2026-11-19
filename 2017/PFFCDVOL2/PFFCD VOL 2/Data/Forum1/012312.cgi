@@ -1,0 +1,3 @@
+A||N||1||Ayrow||Attn Elvira||||5||
+Z||000000||Ayrow||11-30-2001||12:40 AM||||I love the rims on your Blue GT!!!<P>Where did you get them?<BR>What did they cost?<BR>What size are they?<P>Thanks so much!!!<P>Ayrow<BR>||||reg||5
+Z||000001||Elvira||11-30-2001||07:01 AM||||Thanks!  They are Primax rims, 15x6.5.  I got them off of another 86GT that we purchased.  Chester had them on his car until he finally chose his rims.  I am getting them repowder-coated this winter and my ground effects on my GT are going to be painted the same silver as the rims.  I think they go really good with the blue.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Elvira<BR>Blue 87GT<BR>Black 86GT 5sp x 2<BR>86SC t-top 58k miles<BR>84 Indy<BR>87 4-seater||||reg||1

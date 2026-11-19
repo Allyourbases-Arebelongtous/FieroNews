@@ -1,0 +1,6 @@
+A||||4||COUNTIBLIS||87 and newer front end...........................||||1||
+Z||000000||COUNTIBLIS||08-07-2001||09:31 AM||||can someone show me a pic of the 87 or newer front of the coupes on a fastback?  ||||reg||1
+Z||000001||FieroMontreal||08-07-2001||09:55 AM||||Hey, I don't have a picture on me but I've seen one before and those look amazing!||||reg||1
+Z||000002||Songman||08-07-2001||12:15 PM||||There is one on the forum that has a red 88 Formula that has been fitted with a fast back... I can't remember the name but maybe they will see this thread and post it... It looks fantastic!<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||14
+Z||000003||MrPBody||08-07-2001||09:24 PM||||Here's one from the Georgia Fiero Club:<P> <IMG SRC="http://www.fiero.nl/uploads/greygt01.jpg"> <P>Not my favorite Fiero color, but you get the idea anyhow.<BR>||||reg||1
+Z||000004||Wolfhound||08-07-2001||09:46 PM||||This one belongs to Freddy Clark in Montgomery Ala. Guess it's hard to get these in color.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR> <IMG SRC="http://www.fiero.nl/uploads/Freddys.jpg"> ||||reg||1

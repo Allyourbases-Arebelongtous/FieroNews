@@ -1,0 +1,5 @@
+A||N||3||2xsess||Drive shaft question, please help||||5||
+Z||000000||2xsess||10-02-2000||10:38 PM||||Are the shafts on an auto the same as a 4spd.<BR>Have an 85GT 4spd and 86GT auto part car. my left CV is going and was hoping to just swap.<P><BR>Another question, is there a difference in the ECMs on theses cars, can I also swap them<P><BR>Thanks so much <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>Jeff<BR>85GT||||reg||5
+Z||000001||Indiana_resto_guy||10-02-2000||11:57 PM||||I believe the shafts are different. (99% sure) The computers should be the same, however you will need to change the prom from one to the other. What you going to do with '86 GT part car? I need a piece. Send an e-mail please.||||reg||1
+Z||000002||2xsess||10-03-2000||08:02 AM||||Resto_Guy, check your mail. <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>Jeff<BR>85GT||||reg||1
+Z||000003||theogre||10-03-2000||08:44 AM||||even if the ECM's are the same the PROM in them isn't.||||reg||1

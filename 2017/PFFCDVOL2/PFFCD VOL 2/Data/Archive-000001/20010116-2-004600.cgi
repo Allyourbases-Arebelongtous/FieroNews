@@ -1,0 +1,3 @@
+A||||1||jhar1987||guinea pig||||1||
+Z||000000||jhar1987||07-04-2000||09:52 PM||||couldn't get the web sites to work for the 3800, try giving them to me again. thanks jeff||||reg||1
+Z||000001||Guinea Pig||07-05-2000||02:17 AM||||I've tried to get them to work also by clicking on them on the posting, West Coast Fiero wouldn't come up, Twin Lakes Fiero came up two tries out of four.  Go figure.<P>I typed in their addresses and both worked every time. I did it both with and without the www's and they worked both ways.  They are both new.  West Coast Fiero just changed their address and Twin Lakes just recently got on the web.  Hope this helps.||||reg||1

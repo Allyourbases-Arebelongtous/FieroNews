@@ -1,0 +1,3 @@
+A||||1||Tabs||rocker panels||||1||
+Z||000000||Tabs||08-10-2001||07:29 AM||||what would be the best way 2 install the gt rocker panels (sideskirts) on a fiero without putting holes in the door????<P><BR>Tabs||||reg||1
+Z||000001||rogergarrison||08-10-2001||05:56 PM||||mmmmm no one answered ya. If you dont want holes, you could use 3M side molding tape. May have to build up a few attaching spots inside the pieces with glass or filler so it would be flush on the face of the door to give the tape something to stick to. If you clean the areas well with alcohol the tape will hold almost as well as screws and bolts.||||reg||1

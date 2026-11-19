@@ -1,0 +1,5 @@
+A||||3||Songman||Another neat source for wheel specs||||14||
+Z||000000||Songman||08-31-2001||08:57 PM|||| <A HREF="http://www.autotrixx.com/specs.html" TARGET=_blank>http://www.autotrixx.com/specs.html</A> <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||14
+Z||000001||TI_3VOM||08-31-2001||09:49 PM||||...but they don't list the Fiero!!!  <IMG SRC="http://www.fiero.nl/forum/smiley_wtf.gif">||||reg||13
+Z||000002||Songman||09-01-2001||10:05 AM||||No but they list a few others that we know are the same... hehe<P>It's a good place to start..<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||12
+Z||000003||Pontiaddict||09-01-2001||09:56 PM||||a Fiero rim should be<BR>Rim Size 15x7<BR>Bolt Spacing 5x100<BR>Offset ET35 (might be 40)<BR>Hub Bore 57.1<p>[This message has been edited by Pontiaddict (edited 09-01-2001).]||||reg||1

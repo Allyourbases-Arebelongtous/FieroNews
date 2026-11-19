@@ -1,0 +1,4 @@
+A||||2||rc5star||Dash||||5||
+Z||000000||rc5star||07-16-2001||12:38 PM||||Due all Fieros have the same stock interior dash for all years. 1. The "woody" look and 2. the grey look.||||reg||5
+Z||000001||KissMySSFiero||07-16-2001||12:55 PM||||yep all the same.  except the colors and map pockets.  but all will interchange with each other.<P>------------------<BR>JOEJOE Aol:SSFiero <P>88FORMULA<BR>      <A HREF="mailto:SSFiero@Aol.com">SSFiero@Aol.com</A>       <P>      <IMG SRC="http://www.fiero.nl/uploads/FORUMSIG1.jpg">           <BR>"Kids in the backseat cause accidents,  accidents in the backseat caused me!!"||||reg||1
+Z||000002||FieroLisa||07-16-2001||02:37 PM||||The earlier years had a lighter gray dash, and then there was a darker gray.  I believe there are 2 beige dashes too.... pre-88 and 88. Then of course there is the red and light gray Indy.||||reg||1

@@ -1,0 +1,5 @@
+A||||3||fieroX||west coast fiero got a ? for ya!||||1||
+Z||000000||fieroX||11-14-2001||05:22 AM||||I have been reading on your website about the Haltech E6GM ecu, and I was wondering a few things about it.  first off, how does the unit work out for you?  I mean in terms of user friendlyness and overall tunability/reliability.  Is there perameters included to operate the 4t65e transmission?  Some debate on the grand prix forum says this ecu doesnt include any, and aftermarket stand alone transmission computers cost 1 grand or more.  How much do you guys charge for this unit?  thanks.<P>------------------<BR>  <IMG SRC="http://www.fierox.com/logo2small.gif"> ||||reg||1
+Z||000001||fieroX||11-14-2001||04:44 PM||||bump||||reg||1
+Z||000002||Wannabe||11-14-2001||08:42 PM||||Were on WesCoast's website do they have this info? I can't find it.||||reg||1
+Z||000003||fieroX||11-14-2001||08:51 PM||||now that I think about it, I think I read in in one of west coast fieros posts on this forum.  I couldnt find it on the website either.||||reg||1

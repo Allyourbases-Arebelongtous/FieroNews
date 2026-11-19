@@ -1,0 +1,3 @@
+A||||1||Jake_2m4||tech wheels?||||1||
+Z||000000||Jake_2m4||11-17-2001||04:55 PM||||Do the Tech wheels, not the GT ones, come in different sizes?  Maybe from another pontiac?  I know other cars had them, but are they all the same size?  Mainly I want to know if they can be found larger than 14 inches and wider?<P>Thanks guys<P>------------------<BR>'85 Fiero SC<BR>'95 Grand Am SE||||reg||1
+Z||000001||MrPBody||11-17-2001||06:48 PM||||I have seen a similar wheel on Firebirds, but I think the bolt pattern is different.  '80's Grand Am had the same size wheel with a different offset.  Using these wheels on the front of your Fiero will make the steering lighter.<BR>||||reg||1

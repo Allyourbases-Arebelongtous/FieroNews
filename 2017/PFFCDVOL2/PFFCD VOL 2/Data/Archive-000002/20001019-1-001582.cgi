@@ -1,0 +1,4 @@
+A||||2||BAM-BAM||How do I post pics?||||5||
+Z||000000||BAM-BAM||03-19-2000||07:02 PM||||  I was wondering if anyone could tell me how to post pics. I have the scanner. But I notice that there is always a host on all the pics that I see. Could some one please elaberate.<P>  Thanx,BAM-BAM <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||5
+Z||000001||Robert||03-19-2000||08:37 PM||||If you click on the image poster banner at the bottom of this window, the world of image posting will be open to you.<P>||||reg||10
+Z||000002||SCCA FIERO||03-19-2000||09:34 PM||||PIP is one way of posting pics. The other way is to link a picture from the web. Not sure if you know how this is done so I'll explain it anyway. Find a pic on the web and right-click it, them click properties and you will see the URL address. Copy that and when you come here you just put {img}picture URL address here{/img}<P>BUT you need to replace these"{" with these"[" ||||reg||1

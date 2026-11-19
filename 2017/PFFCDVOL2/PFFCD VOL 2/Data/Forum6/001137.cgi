@@ -1,0 +1,5 @@
+A||||3||vietnow||my RUSTED CRAPPY ECONOBOX||||10||
+Z||000000||vietnow||12-23-2000||03:37 PM||||thought i would actually show my crappy econobox to everyone out in fiero land.<P> <IMG SRC="http://www.geocities.com/celimanus/myride.jpg"> <P><P>------------------<BR>Vietnow --<BR>1986 Celica GTS||||reg||10
+Z||000001||KRMFiero||12-23-2000||09:44 PM||||I dont see any rust on it,   hell its nicer then most of the cars my friends have heheh<BR>Kyle||||reg||1
+Z||000002||FieroJoe||12-23-2000||10:49 PM||||I've got a 86 volvo wagon that I drive around in the winter, so dont feel bad!  It's a great car though, dont know what I would do without it!<P> <IMG SRC="http://www.fiero.nl/uploads/volvo.JPG"> ||||reg||1
+Z||000003||Fformula88||12-24-2000||01:05 AM||||Rust?  I don't see any rust.  Looks like its in good shape to me.  A car that old around here would be full of huge rust holes.  The rear wheel wells would have long since rusted away and the door skins wouldn't go all the way to the bottom of the doors anymore.  Nope, looks good to me!||||reg||1

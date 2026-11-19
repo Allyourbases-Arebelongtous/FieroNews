@@ -1,0 +1,3 @@
+A||||1||ChadMan||FIERO 9||||14||
+Z||000000||ChadMan||01-21-2000||01:19 PM||||Just got back from lunch, and on my way back down 315 South, I passed a beautiful med ret metallic 87 GT, wingless, with Ohio tag "FIERO 9."  As I pulled alongside, the driver looked over to check out my Fiero (which, being my only transportation, is embarassingly filthy), and we exchanged friendly waves.<P>Anybody know this mystery Fieroholic?||||reg||14
+Z||000001||Eric||01-21-2000||10:35 PM||||I saw one fitting that description up North by 71 on the 36/37 exit.  I was kind of embarrased too (dirty salty black GT with no bumper paint).  ||||reg||1

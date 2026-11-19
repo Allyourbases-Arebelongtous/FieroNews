@@ -1,0 +1,3 @@
+A||||1||Formula||SWWEEEEETTTTT GT (like cliffs)||||1
+Z||000000||Formula||11-04-1999||07:29 PM||||I saw a GT exactly like cliffs for sale in Morgantown WV. It was snowing to hard to go look at but it is AWESOME. I wish I could afford it, but I have to keep the formula kept up to drive to college. ($100 a month in small repairs X6 months). anyone else in the southwestern PA,southeastern OH, Northwest WV area, The tri-state area? ||||reg||1
+Z||000001||chris6878||11-05-1999||01:07 AM||||hey man...<P>I live in Mingo County... WV...  close to Williamson if ya have ever heard of it...  <BR> <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Chris||||reg||12

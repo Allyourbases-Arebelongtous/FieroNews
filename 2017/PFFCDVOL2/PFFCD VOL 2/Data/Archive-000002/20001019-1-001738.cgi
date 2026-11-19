@@ -1,0 +1,4 @@
+A||N||2||fieroshop||New Page||||6||
+Z||000000||fieroshop||04-04-2000||07:47 PM||||Well I guess it's time to add a page to my web site. As I am writing this note my son is working on adding an online parts catalog so that everybody can see what parts I have and the prices. Hopefully it will be up and running in a day or two.HOPE! HOPE! HOPE!<BR>Once up if you do not see the part you are looking for e-mail me. I have access to a lot of new parts and also used.||||reg||6
+Z||000001||DXR_DAD||04-04-2000||08:45 PM||||Good move, I think that will definitly boost business. You may need to get a shipping Dept.in there  <IMG SRC="http://www.fiero.nl/forum/smile.gif">. Let us know when its up and running.||||reg||14
+Z||000002||Luperman||04-05-2000||12:51 AM||||sounds great fiero shop I will be getting those seat hinges in a little while from you so I will be in touch okay...||||reg||1

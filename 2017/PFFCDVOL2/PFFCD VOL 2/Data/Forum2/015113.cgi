@@ -1,0 +1,5 @@
+A||N||3||cid_colada||porting||||5||
+Z||000000||cid_colada||11-05-2001||02:19 AM||||What does it take to have the intake and exhaust manifolds for an "Iron Duke" ported, and is it worth the effort (mild performance, fuel economy)? Any info would be great.<P><BR>Matt<P><BR>Black 84 SE||||reg||5
+Z||000001||MrPBody||11-05-2001||07:16 AM||||Careful porting gave mild performance imrovement on my '85 SE.  I told my whole sordid story (with photos) in past posts -- maybe in the archives by now.<BR>||||reg||1
+Z||000002||Fierowrecker||11-05-2001||07:18 AM||||Hey Matt!<BR>In my opinion, don't waste your money...<BR>Put it towards a larger, stronger engine...<BR><P>------------------<BR>crash... The Fierowrecker<BR>         <IMG SRC="http://fiero.nl/uploads/crash_sig.jpg">        <IMG SRC="http://fiero.nl/forum/fullstaff.gif"> ||||reg||1
+Z||000003||MrPBody||11-05-2001||07:32 AM||||Yep, it's in the archives.  I found it once but I'm having trouble finding it again.  Maybe I haven't learned the new search engine.<P>Anyhow, I think porting is worthwhile if you have the head off for some other reason.<BR>||||reg||1

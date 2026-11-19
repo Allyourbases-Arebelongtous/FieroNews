@@ -1,0 +1,8 @@
+A||N||6||Sweeet86GT||door wiring ||||1||
+Z||000000||Sweeet86GT||08-29-2001||10:57 AM||||going to be taking of the drivers side door on my 86GT.I have a hard copy of the procedure to take off the skin BUT were at do you unplug the wiring running into the door for the power accesories.<P>------------------<BR>DAVE DIXON<BR>Bay City,MI||||reg||1
+Z||000001||starfighter007@msn.com||08-29-2001||11:13 AM||||I dont Know that ther are any plugs other than to the accesseries like power window motor powerlock etc. I dont know where there is a plug for the harness in the chassi.||||reg||1
+Z||000002||Sweeet86GT||08-29-2001||11:53 AM||||Sound like a case of cut/splice.||||reg||1
+Z||000003||Tigger||08-29-2001||12:04 PM||||NO, don't cut and splice.  There's a plug behind the carpet, you'll have to remove or loosen the plastic door trim to pull the carpet back and you'll see the plug that connects to the door harness.  The plug for pwr mirrors is there too but seperate.||||reg||4
+Z||000004||Sweeet86GT||08-29-2001||12:06 PM||||THANKS<BR>Am i glad i stopped for lunch.||||reg||1
+Z||000005||fierohoho||08-29-2001||12:28 PM||||Sweet, if you pull the rubber boot (between the door and frame)loose on the frame side the plug will be right there, no need to take apart the interior stuff.<P>------------------<BR>'84 SE 2.5l<BR>'85 Coupe 2.5l now getting a 3800<BR>'86 SE 2.5l<BR>     <IMG SRC="http://www.fiero.nl/uploads/Pennockpic.gif"> ||||reg||1
+Z||000006||Sweeet86GT||08-29-2001||12:47 PM||||That's the first place I looked.Maybe didn't pull on the wiring enough to see plug.<BR>Thanks to all for the info.||||reg||1

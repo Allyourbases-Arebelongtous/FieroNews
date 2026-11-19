@@ -1,0 +1,6 @@
+A||||4||FieroSoul||Pontiac arrows||||6||
+Z||000000||FieroSoul||08-22-2001||06:46 AM||||  Anyone have an easy way to remove these?  If you try to pry them out it appears that it will damage the raised area surrounding them. TIA||||reg||6
+Z||000001||Oreif||08-22-2001||11:26 AM||||If your talking about the ones on the notchback sail panels, I used a small exacto knife and carefully pried them off. You have to slowly work around the entire edge.<BR>The 84's with the glass sails have a rubber coating so they are easier to remove without damaging the outside edge.||||reg||1
+Z||000002||FieroSoul||08-22-2001||01:09 PM||||  That sounds pretty close to what I was thinking. Something thin and flat to limit the damage and work slowly around the crest. Even being careful and working on an 84 I think it might hurt the mounting surface.  Anyone else have any neat ideas before I give it a try?  ||||reg||6
+Z||000003||FieroSoul||08-22-2001||08:45 PM||||** Bump **||||reg||6
+Z||000004||Lisa 86 2m4||08-22-2001||10:02 PM||||Hi!<BR>I jsut took a set off of a car in a junk yard and I used a razor blade, be more careful about causing depressions on the arrow. the stuff of the sail panel is strong enough that a razor won't damamge it.||||reg||1

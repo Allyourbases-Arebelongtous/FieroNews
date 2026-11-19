@@ -1,0 +1,5 @@
+A||||3||NASAReeves||What type of trans do I have?||||5||
+Z||000000||NASAReeves||05-25-2001||08:14 PM||||I'll break down & ask...how can I tell what type of transmission I have?  '88GT, V6.  I've heard Isuzu, I've heard GETRAG.  Can anyone tell me how to tell?  Which is best (what's your preference)?<P>Thanks!<P>------------------<BR>Scott & Traci<BR>'88 GT||||reg||5
+Z||000001||fiero56||05-25-2001||08:25 PM||||If its stock, its Getrag. What's best? Isuzu if you ask me.||||reg||1
+Z||000002||sjp777||05-25-2001||08:42 PM||||It's a getrag, but I don't at all agree that the isuzu is better. I would say quite the opposite<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/890sm_2.jpg">   <BR><A HREF="http://www.geocities.com/fiero88gt1/" TARGET=_blank>http://www.geocities.com/fiero88gt1/</A>||||reg||1
+Z||000003||Vader||05-25-2001||09:04 PM||||Pray to the Fiero Gods that you have a Getrag transmission.  It's the better box IMHO.<P>------------------<BR>"<I>Make Me Bad</I>"||||reg||1

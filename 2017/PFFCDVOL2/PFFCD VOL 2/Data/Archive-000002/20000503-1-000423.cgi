@@ -1,0 +1,7 @@
+A||||5||Eddie||NO FORUM||||12
+Z||000000||Eddie||10-15-1999||07:06 PM||||I think I may start to jones on the week ends  as I dont have a mac at home to get on line to read the forum any one else feel sucked in!!!!<BR>	DAMN FIEROS @ THE PENNOCKS FORUM ||||reg||12
+Z||000001||Cliff Pennock||10-15-1999||07:15 PM||||Yes, the forum can be quite addictive!  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>But at least it keeps us off the street... No wait, it keeps us <B>on</B> the street... Well, you know what I mean.||||reg||10
+Z||000002||ggarsk||10-15-1999||08:36 PM||||My day isn't complete till I've checked in to the forum! The info here is the best on the web. Thanks Cliff ||||reg||6
+Z||000003||Dave85||10-15-1999||08:36 PM||||I drop by at least 3-4 times daily.  Can't get enough! It's a good thing I don't have access at work or I wouldn't get anything done. <BR>THANKS EVERYONE!!!!!!!!!!!!!!!!!!!!!!!!!! ||||reg||1
+Z||000004||bHooper||10-15-1999||11:18 PM||||Well, furtunate or not, I have complete access to the net 24/7 (unless I'm out of town).  I probably visit, every time I log on to check email....7 times a day!?  Can't miss any thing.  Now as for the times I am away from the computer...that new palm pilot/cellular phone is due out soon...mmmm||||reg||7
+Z||000005||Gokart||10-16-1999||08:15 PM||||Not me! I only log on every night and only 3 times on weekend days. Does this mean I have a life? YEAH-FIEROS!||||reg||6

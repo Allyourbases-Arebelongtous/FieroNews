@@ -1,0 +1,5 @@
+A||N||3||BENGAL4||My first attempt at PIP||||1||
+Z||000000||BENGAL4||02-24-2001||12:23 AM||||Lamo 87ECO5 doesn't have a life so he came down to my place tonight to get PIP setup for me!<P>Hope this works:<P> <IMG SRC="http://www.fiero.nl/uploads/sl871.jpg"> ||||reg||1
+Z||000001||BENGAL4||02-24-2001||12:37 AM||||Here's the bad muther ...<P>Wanna race Scott? Swap almost finished. Should pick it up by Mar 15. LOL<P>  <IMG SRC="http://www.fiero.nl/uploads/86gtb4.jpg">  <p>[This message has been edited by BENGAL4 (edited 02-24-2001).]||||reg||1
+Z||000002||DaRkLoRD||02-24-2001||01:33 AM||||BENGAL4, let me know when you're gonna pick it up.. I live very close to Race-Tech.. and while it's not one of my major goals in life, I've wanted to see a 3800 SC Fiero GT for a while.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||14
+Z||000003||BENGAL4||02-24-2001||01:36 AM||||Steve, e-mail me your PH# and I will call you<BR>when I pick it up.<P>Bill||||reg||1

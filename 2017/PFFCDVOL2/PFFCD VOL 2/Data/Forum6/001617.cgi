@@ -1,0 +1,4 @@
+A||||2||Songman||How to do screenshots?||||1||
+Z||000000||Songman||03-09-2001||10:53 PM||||Is there some easy program to do this? Good quality and preferably free and downloadable...<P>Thanks.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1
+Z||000001||btoth||03-09-2001||11:32 PM||||I'm assuming that you're using windows... hit the Print Screen button and then go into your favorite graphics program and select Paste or hit CTRL+V.  That takes a picture of your whole screen.  Or use ALT+Print Screen to take a snap shot of just your current window.||||reg||7
+Z||000002||Songman||03-09-2001||11:38 PM||||Thanks! I like the price! hehehe<P>That'll help!<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1

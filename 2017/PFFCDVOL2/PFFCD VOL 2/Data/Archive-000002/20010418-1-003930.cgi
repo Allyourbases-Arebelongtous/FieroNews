@@ -1,0 +1,5 @@
+A||||3||sdm1964||Paint codes ||||14||
+Z||000000||sdm1964||10-09-2000||06:44 AM||||Anyone have the burgandy metalic and grey effects paint codes. Also looking for the gold effects paint codes. I think that is what I have decided to paint the fastback conversion.||||reg||14
+Z||000001||Old Lar||10-09-2000||07:55 AM||||The burgudy for the 87 Fiero is 77  I don't have my "Spotter'S Guide" in front of me to tell the other codes.  <P>Yup U77 for medium red metallic 1987-88 and as Cliff says below L18 medium grey metallic (accent 1984-7)<p>[This message has been edited by Old Lar (edited 10-09-2000).]||||reg||1
+Z||000002||Cliff Pennock||10-09-2000||09:46 AM||||I think the color code for the gray metallic is 18 for the '87 and 14 for the '84-'85.<BR>||||reg||1
+Z||000003||rogergarrison||10-10-2000||09:54 AM||||the GM color code is on a white paper label in the front compartment on left side wheelwell. Colors are on the bottom line, preceeded by WA-____<P>if u can find it, there is also a metal plate with numbers stamped in it, not all will have it. the number is usually 2 digits preceeded by U (upper color) or L (lower color) like in U18 or L18.||||reg||1

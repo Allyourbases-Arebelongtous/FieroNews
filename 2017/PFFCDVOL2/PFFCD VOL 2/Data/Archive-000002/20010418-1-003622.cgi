@@ -1,0 +1,4 @@
+A||||2||Cheever2||Show me the numbers||||5||
+Z||000000||Cheever2||09-11-2000||02:17 AM||||Auto makers measure success by how many vehicles are still on the road years later... does Pontiac or anybody else have a clue how many Fieros are still running?  <BR>||||reg||5
+Z||000001||Fformula88||09-11-2000||04:12 PM||||I had seen a number of about 270,000 as of about 1996 or so.  However, I haven't seen anything lately.  I am sure its not that high anymore, but I still see a fair number of them around.<P>------------------<BR>   <IMG SRC="http://www.geocities.com/Motorcity/Boulevard/9278/fierosig1.jpg">  <BR>1988 Fiero Formula||||reg||1
+Z||000002||stsmithgt||09-11-2000||07:03 PM||||I think from a lot of them becoming donor cars vicariously finishing out their usefullness under the shadow of a different body would shrink the amount of Fieros really still on the road.||||reg||4

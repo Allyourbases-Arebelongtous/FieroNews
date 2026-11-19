@@ -1,0 +1,4 @@
+A||||2||GTFiero1||Atari 130 XE||||1||
+Z||000000||GTFiero1||11-17-2001||12:10 AM||||any one have an Atari 130 XE? its that one that just looks like an old keybord. if so, does anyone have that 7 prong power cord?<P>------------------<BR>Adam J. B.||||reg||1
+Z||000001||GTFiero1||11-17-2001||07:44 PM||||nuts||||reg||1
+Z||000002||Cliff Pennock||11-17-2001||07:49 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by GTFiero1:<BR><B>any one have an Atari 130 XE? its that one that just looks like an old keybord. if so, does anyone have that 7 prong power cord?<BR></B><HR></BLOCKQUOTE><P>I think I do. I used to have an Atari 400, 800, 130XE and 512ST. I only have the 512ST left (119th ever made) and a bunch of stuff for the 130XE like a drawing tablet, a numeric keyboard and perhaps a few power supplies with cord.<BR>||||reg||1

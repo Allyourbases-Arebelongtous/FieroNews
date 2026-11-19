@@ -1,0 +1,8 @@
+A||||6||JBGehling||Finding Indy Decals?||||1||
+Z||000000||JBGehling||01-21-2001||02:14 PM||||could someone please point me to a website that sells the side red stripe decal, the "official pace car" decal on the side, and the Pontiac decal on the windshield?!<BR>Thanks, <BR>Josh||||reg||1
+Z||000001||fiero56||01-21-2001||02:49 PM|||| <A HREF="http://www.phoenixgraphix.com/gm/1984if.htm" TARGET=_blank>http://www.phoenixgraphix.com/gm/1984if.htm</A> ||||reg||1
+Z||000002||GT-maniac||01-21-2001||04:35 PM||||I believe theirs a guy on ebay selling Indy decals right now. You might want to check it out||||reg||10
+Z||000003||JBGehling||01-21-2001||06:45 PM||||Were those official decals, Fiero56?||||reg||1
+Z||000004||Songman||01-21-2001||10:02 PM||||The Phoenix Graphix ones are reproductions. The guy on eBay is selling original GM decals. From what I hear there is a very minor difference in the words on the repros but only a true expert would notice it. <P>Since I don't have originals, I'll be putting repros on mine. The ones on eBay are gonna go high I bet. I'm watching them but haven't bid.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1
+Z||000005||mope||01-21-2001||10:13 PM||||if anyone is interested i can make the indy stickers for about 30 bucks for each door.<P>all i need is a real good picture so i can work with that...lemme know<P>mope161616@aol.com<BR>m0pe||||reg||10
+Z||000006||fierofreek2001||01-21-2001||10:35 PM||||got em on my door from phoenix graphix... its my Un official pace car  hehe<P> <IMG SRC="http://www.fiero.nl/uploads/steve_and_cars_1.jpg"> ||||reg||1

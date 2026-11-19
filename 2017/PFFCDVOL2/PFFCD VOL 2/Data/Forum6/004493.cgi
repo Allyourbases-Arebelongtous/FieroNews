@@ -1,0 +1,3 @@
+A||N||1||WhiteFieroBlur||Info on new radio that commercial free||||1||
+Z||000000||WhiteFieroBlur||11-27-2001||02:46 PM||||i been hearing about this new CD player that plays music 24/7 with any type of music you like. Anyone know if these are good to get and how much and the website or name of it?||||reg||1
+Z||000001||WampusCat||11-27-2001||02:54 PM|||| <A HREF="http://www.xmradio.com" TARGET=_blank>www.xmradio.com</A>  <A HREF="http://www.siriusradio.com" TARGET=_blank>www.siriusradio.com</A> <BR>you mean these??  satellite radio...not cheap, but sounds cool if you spend much time in your vehicle.||||reg||1

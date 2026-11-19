@@ -1,0 +1,6 @@
+A||||4||Urchin||Ciao Manhatten?||||1||
+Z||000000||Urchin||08-11-2001||07:35 PM||||I've been looking for this movie for awhile now.  It was released in 1972 I believe.  Starred Edie Sedgwick and was directed by John Palmer and David Weisman.  I have looked on various auction sites (including ebay), local video stores, and am unable to order it (according to the "help" at these stores).  I just thought maybe someone here might have a copy and be willing to sell it.  I doubt it but you never know until you ask.  Thanks...<P><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/new_3.jpg"> <BR>If you can read this, I'm parked.||||reg||1
+Z||000001||Urchin||08-12-2001||09:56 AM||||I'll take that as a "no"||||reg||1
+Z||000002||annieL||08-12-2001||10:25 AM||||Did you try Suncoast Pictures? I am pretty sure they have a website. They sell almost every video known.||||reg||1
+Z||000003||annieL||08-12-2001||12:34 PM||||I checked the Suncoast Pictures website and they do not have that movie. I was a little surprised since they usually carry everything.<BR>Sorry.<p>[This message has been edited by annieL (edited 08-12-2001).]||||reg||9
+Z||000004||Urchin||08-12-2001||02:54 PM||||Well thanks anyway,  I appreciate the effort||||reg||1

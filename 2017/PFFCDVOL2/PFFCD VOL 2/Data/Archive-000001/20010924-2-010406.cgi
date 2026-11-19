@@ -1,0 +1,4 @@
+A||||2||spiz||Front crossmember bolt torque specs?||||1||
+Z||000000||spiz||05-13-2001||10:47 PM||||For an 88.     Does anyone know what they are? <BR>Thanks<BR>Spiz<p>[This message has been edited by spiz (edited 05-13-2001).]||||reg||1
+Z||000001||DRH||05-14-2001||11:20 AM||||I couldn't find them even in the GM shop manual. I guessed at mine. Seems like I torqued the larger ones to 100 and the smaller front ones to 50 if I remember right.<P>||||reg||1
+Z||000002||spiz||05-14-2001||05:41 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by DRH:<BR><B>I couldn't find them even in the GM shop manual. I guessed at mine. Seems like I torqued the larger ones to 100 and the smaller front ones to 50 if I remember right.<P></B><HR></BLOCKQUOTE><P>Thanks DRH I couldn't find them either. I think 84-87 was 52lbs maybe I'll use that figure.<BR>||||reg||1

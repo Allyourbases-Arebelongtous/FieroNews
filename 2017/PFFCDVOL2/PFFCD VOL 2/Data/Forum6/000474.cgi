@@ -1,0 +1,5 @@
+A||||3||GT Bastard||PICS OF MUDDIN' ADVENTURES!||||14||
+Z||000000||GT Bastard||07-05-2000||01:19 PM|||| <IMG SRC="http://www.fiero.nl/uploads/Muddin1.jpg"> <BR>Here's Brad a.k.a Fierogod's '86 Subaru 4wd<P> <IMG SRC="http://www.fiero.nl/uploads/Muddin2.jpg"> <BR>Here's me in my '80 Subaru 4wd<P> <IMG SRC="http://www.fiero.nl/uploads/Muddin3.jpg"> <BR>Me going through a mudhole<P> <IMG SRC="http://www.fiero.nl/uploads/Muddin4.jpg"> <BR>Subaru tug-o-war<BR>||||reg||14
+Z||000001||GT Bastard||07-05-2000||01:22 PM||||try that again...<BR> <IMG SRC="http://www.fiero.nl/uploads/Muddin1.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/Muddin2.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/Muddin3.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/Muddin4.jpg"> <BR>||||reg||1
+Z||000002||GT Bastard||07-05-2000||01:23 PM||||sorry bout the double post!||||reg||1
+Z||000003||stimpy||07-05-2000||08:26 PM||||Looks like a blast! Wish I coulda had rallymobile(my mazda) out there! <BR>BTW, hows the demolition derby project coming along. I want pics!<P>------------------<BR>   <IMG SRC="http://gifs123.tripod.com/page15/renstimpy2.gif"> ||||reg||1

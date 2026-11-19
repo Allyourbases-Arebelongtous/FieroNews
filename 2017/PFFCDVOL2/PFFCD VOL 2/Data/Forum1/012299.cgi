@@ -1,0 +1,12 @@
+A||||10||Kasdan||Brittany on my car?  Roger?||||1||
+Z||000000||Kasdan||11-29-2001||05:13 PM|||| <IMG SRC="http://www.fiero.nl/uploads/FieroMe.jpg"> <P>------------------<BR>Tyler Morgan, 1986 GT<BR>  <IMG SRC="http://www.fiero.nl/uploads/kassig2.gif">                  <BR>Aftermarket Power Steering, Rebuilt 2.8<BR>http://www.geocities.com/mtyler14/index.html||||reg||1
+Z||000001||Tonker||11-29-2001||06:10 PM||||That yours Kas? She's purty!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||14
+Z||000002||Jake_Dragon||11-29-2001||06:36 PM|||| <IMG SRC="http://www.fiero.nl/uploads/FieroMe_1.jpg"> <P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/left.gif">       <IMG SRC="http://www.fiero.nl/uploads/CHSpiff_1.gif">       <IMG SRC="http://www.fiero.nl/uploads/right.gif">              <BR>                  <IMG SRC="http://www.fiero.nl/uploads/gt2_3.GIF"> ||||reg||1
+Z||000003||Pyric||11-29-2001||06:48 PM||||You actually let her touch your car?!  <IMG SRC="http://www.fiero.nl/forum/smiley_wtf.gif"><P>||||reg||1
+Z||000004||Kasdan||11-29-2001||06:48 PM||||yeah tonker, shes mine...Jake, i was looking to maybe have her sprawled on the hood, but thats sweet too, lol, anybody?||||reg||1
+Z||000005||rogergarrison||11-29-2001||07:54 PM||||go to rolling stone.com for some good shots of her to photoshop one on for you.||||reg||1
+Z||000006||DKOV||11-30-2001||02:18 AM||||Standing next to your car, I just realized...<P>Dude, Brittney is HUGE!!!  Scary big!<P>RUN FOR YOUR LIFE!!! I think she's going to EAT your Fiero!!! RUN!!! RUN!!!<P> <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>DKOV -||||reg||1
+Z||000007||AusFiero||11-30-2001||04:37 AM||||arrrgggghhhh A Britney Monster. Run  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>        <IMG SRC="http://www.jadeweb.com.au/fiero/ausfiero3.gif">       <BR><A HREF="http://www.jadeweb.com.au/fiero" TARGET=_blank>My Fiero</A> | <A HREF="http://www.fieroshop.com.au" TARGET=_blank>Fiero Accessories</A>||202.139.20.3||reg||1
+Z||000008||Pyric||11-30-2001||06:54 AM||||It looks like she's entraced by something.  RUN WHILE YOU STILL CAN!!! ||||reg||1
+Z||000009||Adrift||11-30-2001||10:33 AM||||PIP keeps crashing so I can't post the one I made properly.. oh well||||reg||1
+Z||000010||Adrift||11-30-2001||10:36 AM||||Here we go:<BR> <IMG SRC="http://www.fiero.nl/uploads/kasdan_britey.jpg"> <P>Now you wana maybe email some pics and info about your power steering setup ?  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

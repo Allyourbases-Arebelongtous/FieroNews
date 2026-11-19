@@ -1,0 +1,3 @@
+A||||1||NexGen||looking for Moe||||4||
+Z||000000||NexGen||07-15-2001||06:37 PM||||Hey moe i was wondering if i could pick up those fiero caps for the rims sonetime?? by the way this is LUke i have the white Fiero 2m4 that you saw i'm Pete's (PBJ) friend.<P>------------------<BR>||||reg||4
+Z||000001||Urchin||07-15-2001||09:49 PM||||I'm pretty sure that Moe is not a forum member.  I know you don't know me, but I know who Moe is  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/lowered_blackgtthis_one.jpg"> <BR>If you can read this, I'm parked.||||reg||1

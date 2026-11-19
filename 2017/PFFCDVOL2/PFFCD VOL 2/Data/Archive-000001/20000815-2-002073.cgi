@@ -1,0 +1,4 @@
+A||||2||fiero56||coolant crossover tubes||||1||
+Z||000000||fiero56||01-21-2000||12:07 AM||||I posted the same title before but couldn't dig it up, so heres a new post, with new info. Rodney says the tubes for the '88 v-6 auto and 5 speed should be ready next week. Cost will be $100 and $6 shipping. I don't have his site URL on this computer, but I'll add it later.<BR>Thoght it may help someone out.||||reg||1
+Z||000001||Raydar||01-21-2000||12:36 PM||||56... Great info! Not a bad price, either. When GM had 'em in stock (the cheap-@ss steel ones), they were selling them for over $80!!||||reg||1
+Z||000002||william_thorniii||01-21-2000||01:13 PM||||Rodney always has great prices/products.  His address is <A HREF="http://www.execpc.com/~rodney1" TARGET=_blank>http://www.execpc.com/~rodney1</A> <P>Soon he will also have the 84-86 tubes and the 84-86 nylon headlight gears if all goes well.<P>William T. Thorn, III||||reg||10

@@ -1,0 +1,5 @@
+A||||3||BAM-BAM||What's the difference?||||5||
+Z||000000||BAM-BAM||06-08-2000||08:21 PM||||   What is the difference between the KYB gas struts and say, Monroe Sensa Trac gas struts. If there is a big difference, then I have a set of Monroe Sensa Trac struts for sale. I also have a set of gas charged shocks from Tennoco for sale. Great as a stock replacement, not as good as KYB's.<BR> TIA for any advice.<P> Late, BAM OUT!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||5
+Z||000001||Oreif||06-09-2000||12:48 AM||||The KYB's are slightly firmer than the Monroe's but not not by much.||||reg||1
+Z||000002||Monkeyman||06-09-2000||10:42 AM||||If you decide to sell the Monroes or the Tennocos, how old are they and what would you want for them?  I still have the originals on the front of the Grape Ape.  Let's just say that they're slightly worn.||||reg||1
+Z||000003||1FST2M6||06-09-2000||02:05 PM||||if you in to replacing stuff.. just go a head and get Konis... Life time warranty, infinatly adjustable from either a Caddy ride or make it ride like a brick... Or Bilstiens even...   <A HREF="http://www.shox.com" TARGET=_blank>www.shox.com</A> ||||reg||1

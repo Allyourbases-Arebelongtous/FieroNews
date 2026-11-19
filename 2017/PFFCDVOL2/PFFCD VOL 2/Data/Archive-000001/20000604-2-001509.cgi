@@ -1,0 +1,2 @@
+A||||0||Wolfhound||Unused Connector||||5||
+Z||000000||Wolfhound||11-24-1999||06:29 PM||||87 GT<BR>Below the dash, just to the right and behind the fuse box I have found a connector that is unused with no apparent place to plug it in. There are 11 wires to the connector and nothing seems to be effected by it,s being unplugged. It,s a translucent orange with a black backing plate.<BR> Is this a connection that was used in assemby possibly? Anyone have a clue to it's purpose?<BR>||||reg||5

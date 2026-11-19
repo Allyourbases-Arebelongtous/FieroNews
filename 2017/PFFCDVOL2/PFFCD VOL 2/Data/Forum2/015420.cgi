@@ -1,0 +1,7 @@
+A||||5||sqoach||How do you take the fuel door off?||||5||
+Z||000000||sqoach||11-14-2001||02:55 PM||||?????<P>------------------<BR>-Adam<BR><FONT COLOR="BLUE">sqoach@yahoo.com</FONT><BR>               <IMG SRC="http://www.fiero.nl/uploads/sigsqoach2.gif">              <IMG SRC="http://www.fiero.nl/forum/fullstaff.gif">               <BR>^^^^^<B>new project</B>^^^^^<BR><FONT SIZE="1"><LI>86 SC 2.5L 5spd</FONT>||||reg||5
+Z||000001||Oreif||11-14-2001||02:57 PM||||Remove gas cap and take out the screws in the back. The gas cover and the "bucket" that surrounds the filler tube comes out together. <BR>Don't lose the spring.||||reg||1
+Z||000002||MinnGreenGT||11-14-2001||03:01 PM||||Also, you'll have to carefully remove the wire/cable that is connected to the remote handle inside the passenger compartment.||||reg||1
+Z||000003||Tigger||11-14-2001||03:08 PM||||After taking out the screws that hold the bucket in.  Remove the screw for the door release.  Pull it in a bit then pop the plastic cover door on the backside to disconnect the cable.||||reg||1
+Z||000004||sqoach||11-14-2001||07:50 PM||||Cool. Thanks guys. I'm wanting to paint my cover gold to match the rest of the car. Well...most of the rest of the car  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>Do you think it's too much trouble just to re-paint it?||||reg||1
+Z||000005||JB||11-14-2001||10:17 PM||||Why not paint it while it is on the car?  Just be sure to mask it off properly.||||reg||1

@@ -1,0 +1,2 @@
+A||||0||doughboySE||installing fog lights||||1||
+Z||000000||doughboySE||01-27-2000||04:11 PM||||hi again everyone<BR>on sun i will be installing my fog lights they are about 1 inch high and aprox 4 inch long and 3 inches deep<BR>i am going to install them in the spoiler on either side of the licence plate (thats if i put it back on)<BR>i was going to hook them right into the fuse pannel <BR>anyone have a better way or anything to watch out for?||||reg||1

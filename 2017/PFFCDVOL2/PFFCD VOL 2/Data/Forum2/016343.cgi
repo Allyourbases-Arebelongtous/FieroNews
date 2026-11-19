@@ -1,0 +1,6 @@
+A||||4||Shinerdc||how do i post pics||||5||
+Z||000000||Shinerdc||12-13-2001||10:47 PM||||parting out in ontario would like to post some pics but i don't have a clue how to do it...dah||||reg||5
+Z||000001||Spiff||12-13-2001||11:44 PM||||look at the bottom of any page on this forum. There is a blue box that says Pennock's Image Poster PIP for short. Download it and install. Have fun.<P>  <IMG SRC="http://www.fiero.nl/uploads/spiffsig2_13.gif">  <P>can't spell....sorry<p>[This message has been edited by Spiff (edited 12-14-2001).]||||reg||1
+Z||000002||Adrift||12-14-2001||12:08 AM||||Shiner, if you can figure out Pennokcs image poster email me the pics and ill post em for you<BR>Ar<BR>||||reg||1
+Z||000003||ToddAsh||12-16-2001||02:46 PM|||| Been trying to post pics for the last couple of hours.Got PIP,says image is uploade,don't know to where though.I'm lost.||||reg||1
+Z||000004||FieroBUZZ||12-16-2001||06:11 PM||||My computer and PIP just don't get along. Once you have chosen your pic and uploaded it(it will say upload complete) the easiest way is to click on 'history' and chose the image you want to post. click the box under it and it will show up in the 'clipboard contents' box. From there just cut and paste it into your message.<BR>Gary||||reg||1

@@ -1,0 +1,3 @@
+A||||1||RAGE||Help||||1||
+Z||000000||RAGE||10-04-2001||09:47 PM||||OK What would be the easiest engine swap, with lots of horse power and little trouble swapping without spending $1800 on a damn kit, who else besides A.C.E. makes a conversion kit? ||||reg||1
+Z||000001||Kasdan||10-04-2001||09:53 PM|||| <A HREF="http://www.v8archie.com," TARGET=_blank>www.v8archie.com,</A>  a 3.4 swap would be the cheapest/easiest and it would look like stock...<P>------------------<BR>Tyler Morgan, 1986 GT<BR> <IMG SRC="http://www.fiero.nl/uploads/Fiero21.jpg">         <BR>Power Steering, Holley Scoop<BR>Aim=FieroDriver1986||||reg||1

@@ -1,0 +1,3 @@
+A||||1||Philphine||water pump drive for chevy v8  ||||1||
+Z||000000||Philphine||02-13-2001||10:01 AM||||<BR>i guess someone would have mentioned it by now if it were available, but i was wondering, since there's no need for a power steering pump and (at least in my case) ac compressor, could a belt driven water pump be used in one of those positions? i guess the real question is dose anybody even make some thing like that.||||reg||1
+Z||000001||ray b||02-13-2001||02:52 PM||||boats use a pump like that for raw water in to the motor.chevy v8 very common boat motor pump should be $100-200 at marine store.<BR>||||reg||1

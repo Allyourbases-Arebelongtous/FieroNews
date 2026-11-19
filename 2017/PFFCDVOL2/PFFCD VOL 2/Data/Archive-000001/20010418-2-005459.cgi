@@ -1,0 +1,6 @@
+A||||4||lowfunds||IRM  Going Out Of Buisness?????||||1||
+Z||000000||lowfunds||08-28-2000||03:30 PM||||I saw post the other day and did not know if somone corrected it or not? IRM is not going out of buisness!!!! Im not sure how this got started, yes jim is having health problems , But I was told they will not be closing down because of it. So not to worry they plan on being open for years to come..  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000001||FIEROCIOUS||08-28-2000||04:07 PM||||Do you have their phone number! I'm glad to hear everything is OK. For myself and for them. ||||reg||1
+Z||000002||HugGRRRFiero||08-28-2000||04:10 PM||||<A HREF="http://www.fiero.nl/forum/Forum1/HTML/003431.html" TARGET=_blank>Is IRM still in business?</A><P>I think this is the thread you are talking about, it's in the General Fiero Chat. ||||reg||1
+Z||000003||lowfunds||08-28-2000||08:15 PM||||yes for all who need it the numbber is (301) 948-3301<BR>||||reg||1
+Z||000004||Xtreme Fiero's||08-29-2000||08:40 AM||||That's awsome <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> I had called there about 4 or 5 months ago and was told ther where selling everything and going under. i think they truly have the best stuf for our cars.||||reg||1

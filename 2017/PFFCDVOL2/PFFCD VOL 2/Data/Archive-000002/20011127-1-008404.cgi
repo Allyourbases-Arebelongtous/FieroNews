@@ -1,0 +1,3 @@
+A||||1||Tweek||Slammed Fiero and others||||1||
+Z||000000||Tweek||06-26-2001||10:38 AM||||Hey, Im interested in that graphic you have of Pontiac Racing on your gauges, is there any way I could get a copy of that??<P><BR>Also, is the someone who can measure the distance between the centers of where the pins mount to the gauge, like middle of the grey dot in this pic tto the other grey dot, but only on the actually assembly. Kinda of like how you meansure the wheelbase of a car...   Thanks!!!<P><BR> <IMG SRC="http://www.fiero.nl/uploads/Center_Gauges.jpg"> ||||reg||1
+Z||000001||Tweek||06-26-2001||02:24 PM||||I managed to find the Pontiac racing logo, so al I need now is the "wheelbase" of the aux gauges...  thx.||||reg||1

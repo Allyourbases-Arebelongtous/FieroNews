@@ -1,0 +1,3 @@
+A||||1||jelly2m8||just another sig test||||1||
+Z||000000||jelly2m8||11-19-2001||09:27 PM||||this work?<P><BR>nope.............<p>[This message has been edited by jelly2m8 (edited 11-19-2001).]||||reg||1
+Z||000001||jelly2m8||11-19-2001||09:33 PM||||  <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by jelly2m8:<BR><B>this work?<P><BR>nope.............<P>[This message has been edited by jelly2m8 (edited 11-19-2001).]</B><HR></BLOCKQUOTE><P>DUH, guess it helps if ya check add signature to the post...;p<P>------------------<BR>  <IMG SRC="http://users.eastlink.ca/~acook1/pegged%2001.jpg">  <p>[This message has been edited by jelly2m8 (edited 11-19-2001).]||||reg||1

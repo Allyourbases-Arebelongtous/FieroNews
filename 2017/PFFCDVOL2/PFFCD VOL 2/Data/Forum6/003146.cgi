@@ -1,0 +1,6 @@
+A||||4||87GTZ34||Don't buy from CarParts Opps I mean Whitney...||||13||
+Z||000000||87GTZ34||08-27-2001||05:31 PM||||I placed an order on Fri morning and it doesn't show up... just gives an empty order number.  So I call the CarParts number and of course Whitney answers and says the orders now have to take a week to process and then whatever to ship.  Talk about going backwards!!!  She said I can't even cancel but I bet sure as sh!t it's already hit the plastic.  Anyway, avoid them for a month or two or three while they get their stuff together.||||reg||13
+Z||000001||starfighter007@msn.com||08-27-2001||05:45 PM||||ok I wont use them .But please tell what kinna stuff you gittin? ||||reg||1
+Z||000002||87GTZ34||08-27-2001||06:31 PM||||transmission line, low coolant sensor, and I can't remember what else.  I'd look it up but I have to wait until thurs when it 'processes'...||||reg||1
+Z||000003||starfighter007@msn.com||08-27-2001||08:32 PM||||thankyou not that we're nosy or anything like that  but you know  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000004||theogre||08-28-2001||08:10 PM||||Duh, you paid with a credit card. call the card issuer and complain to them. You'll get your stuff or whitless will get a charge back.||||reg||1

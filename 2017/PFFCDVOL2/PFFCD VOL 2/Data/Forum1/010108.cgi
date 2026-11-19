@@ -1,0 +1,2 @@
+A||||0||fiero_hunter85||production numbers||||1||
+Z||000000||fiero_hunter85||09-06-2001||06:09 PM||||anyone know how many 85 GT's were made that were white with a 4 speed manual tranni,power windows,mirrors,locks,trunk (engine cover) release and that came with a expensive looking casset player radio with alot of buttons(not sure what they do yet) and graphic eaqualizer(sp?).?<P>i want to find out how rare my new baby is.||||reg||1

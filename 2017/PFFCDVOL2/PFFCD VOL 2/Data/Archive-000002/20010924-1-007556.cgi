@@ -1,0 +1,2 @@
+A||N||0||msweldon||Burgandy Fiero GT found for sale in Marietta, GA||||1||
+Z||000000||msweldon||05-21-2001||12:36 PM||||Just a FYI for anyone looking to purchase a GT.  Just past Roswell Rd. going south on Johnson's Ferry Rd. Across the street from Old Navy sits a rather pristine 87 or 86 burgandy GT w/ gray interior for sale.  I didn't have a chance for a close inspection due to it raining like cats and dogs at the time, but from my first impressions during my slow drive by, the paint looked top notch.||||reg||1

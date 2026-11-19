@@ -1,0 +1,5 @@
+A||||3||Homicidal||What in the world is the "MERA V6"??||||5||
+Z||000000||Homicidal||08-07-2000||03:14 AM||||Class of Fiero, right?  Any pics?  What does it look like?  How is it different?  And why are the Blue Book prices SO HIGH for them?<P>$16K for a low mileage 88'!||||reg||5
+Z||000001||sloGT||08-07-2000||06:17 AM||||The mera was pretty much a factory built replica of the ferrari 308(or was it 328).||||reg||1
+Z||000002||stimpy||08-07-2000||07:09 AM||||True, the Mera was a replica of the Ferrari 308 GTB that was made by Cars and Concepts (I think) and sold with factory warranty through Pontiac dealerships. They are pretty rare and have a historical value for being the car that all mdern 308 replicas are derived from.<P>Just wait til Rodney gets here. he knows <B>everything</B> about Meras.<P>------------------<BR>   <IMG SRC="http://gifs123.tripod.com/page15/renstimpy2.gif"> ||||reg||1
+Z||000003||Monkeyman||08-07-2000||09:17 AM|||| <A HREF="http://pigstompers.com/mera4sale.htm" TARGET=_blank>http://pigstompers.com/mera4sale.htm</A> <P>I forget what that goes to (Rodneys old URL maybe?) but that should get you to a pic of a Mera.||||reg||1

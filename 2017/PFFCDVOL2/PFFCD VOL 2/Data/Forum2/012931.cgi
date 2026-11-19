@@ -1,0 +1,3 @@
+A||||1||fiero56||Hastings or Sealed Power?||||5||
+Z||000000||fiero56||08-19-2001||01:20 PM||||I have found two brands of piston rings that will fit my selected pistons. <P>Hastings(5632) makes a set as well as Sealed Power(E411x). The price differential is $15. But I have learned more expensive does not mean better. I know little about these two brands. Are there any recommendations about which to purchase. I am looking for info on these two, but haven't found much yet.||||reg||5
+Z||000001||RossT||08-20-2001||03:12 PM||||I know that the "Hastings" company makes top notch stuff.  Their oil/gas/air filters are all that I use in my cars. ||||reg||1

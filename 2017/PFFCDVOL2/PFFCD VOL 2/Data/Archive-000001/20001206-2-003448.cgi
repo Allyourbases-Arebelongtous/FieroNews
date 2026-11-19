@@ -1,0 +1,2 @@
+A||||0||Lonespud||Engine Swap||||1||
+Z||000000||Lonespud||04-29-2000||01:48 PM||||I have an 84 Coupe (4 cyl of course).  The engine is blown (2nd 4 cyl to go in this car).  I was thinking about purchasing a wrecked Fiero with a 6 cyl, I know The ECM and wiring will not interchange, my question is can I drop the entire engine mounting cradle from one and just bolt it back into the other, or did Pontiac change the dimensions of the mounting unit?||||reg||1

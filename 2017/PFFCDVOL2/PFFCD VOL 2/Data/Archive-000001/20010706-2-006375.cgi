@@ -1,0 +1,5 @@
+A||||3||rbtr6||lights out||||1||
+Z||000000||rbtr6||10-23-2000||01:36 AM|||| i have a 1984 4cyl. Lights started flickering then went completely out. However they do come on for asplit second once in a while when i hit a bump or i brake. I directly wired 12v into rear lights which gave me power for all lights to turn on however they are dim and brakelights are dim,front lights flicker when brakes applied .Need serious suggestions asap.<P>thanks<P>Rob||||reg||1
+Z||000001||sdm1964||10-23-2000||08:00 AM||||check the relay on the fender well, mine went out and the lights stayed on.||||reg||7
+Z||000002||My7Fieros||10-23-2000||01:55 PM||||Bad ground? Fuse?<BR>Hey, wasnt there a song by UFO back in the 70's or early 80's called "lights out"?  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000003||Seanh||10-23-2000||11:32 PM||||Sounds like a bad grounding problem. I had almost the same problem, but on only one headlight. I just wired it to a new ground on the screw next to the pass side headlight.<P>------------------<BR>Sean Heberly<BR>Silver 86 GT 2.8<BR>Killer Stereo System||||reg||1

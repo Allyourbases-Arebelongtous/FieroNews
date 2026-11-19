@@ -1,0 +1,4 @@
+A||||2||hugh||Ain't technology great?||||1||
+Z||000000||hugh||04-21-2001||11:13 PM||||I can't believe how technology has let people all over the world watch an argument on this forum.Imagine,I am in my recreation room on my computer in New Jersey,as are people in Australia,Canada,England,The Netherlands(especially The Netherlands),Europe,ETC.watching to see how this is going to end.Years ago when 2 people had a disagreement the only ones to know were the combatants.Ain't technology great?   ||||reg||1
+Z||000001||2xsess||04-21-2001||11:47 PM||||"great, just great" <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif"><P> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000002||tgowens||04-22-2001||01:00 AM||||there's an argument going on??? where??? I want to see?? (hugh, you are a hoot!!! - technology IS a wonder, isn't it?)||||reg||1

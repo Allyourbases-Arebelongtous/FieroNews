@@ -1,0 +1,4 @@
+A||||2||fiero56||max-life...any good???||||5||
+Z||000000||fiero56||04-22-2001||09:53 PM||||Wondering if anyone has tryed it. I've got a 2.8 with bad valve-seals. Just wondering if anyone has used the stuff and noticed any improvement/difference.||||reg||5
+Z||000001||mrfiero||04-22-2001||09:56 PM||||I'm using it in my '89 Dodge Raider (178K miles) with no problems.  I don't know if it is worth the extra $$ over regular oil, but it might.  It still burns through a quart of oil every 3000 miles, so it's not a cure all.<P>Maybe someone else has some better input?||||reg||1
+Z||000002||MoneypitGT||04-22-2001||11:01 PM||||I used it in my pimp ride Lincoln, that stuff is absolutely awesome, it really quieted down the lifters and everything. <BR>  Chris<P>------------------<BR><B>Check out my site at:</B>   <A HREF="http://www.customdynamix.com" TARGET=_blank>www.customdynamix.com</A> <BR>2 '87 GT Projects||||reg||14

@@ -1,0 +1,3 @@
+A||N||1||Fiero_Freak||Coil in Cap HEI?  Possible?||||1||
+Z||000000||Fiero_Freak||07-21-2001||01:07 PM||||   is there any way to convert to this type system?  Benefits?  I'm wanting to also get an ignition system.  I know about the MSD..  Any experiences with the Crane Fireball system?<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Fiero_Left_01.jpg"> <BR>Two '87 GT's...<BR>   ...Double Trouble||||reg||1
+Z||000001||theogre||07-21-2001||10:59 PM||||There is no real advantage to coil in cap HEI conversion even if it can be done.<P>If anything you want the coil off the block in a cooler location. ||||reg||1

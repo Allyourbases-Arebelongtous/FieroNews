@@ -1,0 +1,2 @@
+A||||0||wkayl||Kinda morbid but.......||||1||
+Z||000000||wkayl||02-10-2000||11:58 PM||||Last October I took a 2,200 mile trip from Co. through Neb, SDak, Minn, NDak and even touched Canada.  It so happened to be the same time Payne Stewart's plane crashed in SDak.  This Picture was taken on Wed while they were searching the site (site is in upper left).<BR> <IMG SRC="http://www.fiero.nl/uploads/paynestewart.jpg"> ||||reg||1

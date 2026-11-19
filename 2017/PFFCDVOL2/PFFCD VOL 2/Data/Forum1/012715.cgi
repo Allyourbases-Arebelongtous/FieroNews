@@ -1,0 +1,2 @@
+A||||0||Shinerdc||Parting out in Ontario "SHAFTED||||8||
+Z||000000||Shinerdc||12-15-2001||09:06 AM||||for those whp were lining up for parts.....sit tight....when i went to get the car...gave him his $200.00...he was pleasant...asked ok lets get the seats and stuff and he said no that was'nt included.....EXCUSE ME...he told me he had the seats all the console ect...now he wants more cash for the interior...because it sure as hell aint in the car....i'm a little p_ssed off but told him keep it...if there is any change i"ll let yous know....||||reg||8

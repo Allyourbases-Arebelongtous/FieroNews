@@ -1,0 +1,5 @@
+A||||3||donalson||4.9 engines from what?||||1||
+Z||000000||donalson||11-14-2001||06:20 PM||||what cars come w/ the 4.9L engine thats mentioned in this post so many times?   <A HREF="http://www.fiero.nl/forum/Forum2/HTML/015039.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/015039.html</A> <BR>thanks<BR>mark||||reg||1
+Z||000001||dennis_6||11-14-2001||08:02 PM||||Caddys. I think 1990 Devilles have the 4.9L EFI engine.  Just go to ebay and do a search for 4.9 caddy cars it should give you an ideal.||||reg||1
+Z||000002||KRMFiero||11-14-2001||08:25 PM||||88-89 - 4.5 TBI<BR>90 - 4.5 SPI<BR>91-(through well before N*) - 4.9 SPI<P>From Caddys, I reccomnd Sedan Devilles with out thieft (pass-key)<P>Kyle||||reg||1
+Z||000003||rockcrawl||11-14-2001||08:28 PM||||1991 through 1994 Eldorado, Seville, DeVille and Fleetwood lines used the PFI 4.9, '90s had the PFI 4.5, 88-89 had TBI 4.5, pre-'88 had HT4100 TBI 4.1. Also available in Allante, but slightly different and hard to find.<P>hehe, Kyle, you beat me to it!<p>[This message has been edited by rockcrawl (edited 11-14-2001).]||||reg||7

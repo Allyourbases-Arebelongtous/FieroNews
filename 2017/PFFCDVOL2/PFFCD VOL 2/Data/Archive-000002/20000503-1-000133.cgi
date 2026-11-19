@@ -1,0 +1,3 @@
+A||||1||Racer 1||A hot day~A hot 4clyd FIERO~but no action. ? .
+Z||000000||Racer 1||06-28-99||11:13 AM||||I live here in New Mexico.In the summer time years ago my fiero wouldnt start when the motor was HOT.Starter was fine.The fix is to go to a remote starter switch similiar like what the older fords run fixed my problem.You can get it thru J.C.Whitney catolog to.Hope this help someone the pain and suffering I went thru in the teething years of my fiero..  PEACE
+Z||000001||Cooter||06-28-99||06:02 PM||||Sounds like good advice. I usually just park on a hill, but thats no help to you automatic folks.

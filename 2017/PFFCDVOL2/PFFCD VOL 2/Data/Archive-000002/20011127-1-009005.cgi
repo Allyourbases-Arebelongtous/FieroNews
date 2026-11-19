@@ -1,0 +1,3 @@
+A||||1||jake1852||aaaauuuuughhhhh||||8||
+Z||000000||jake1852||07-23-2001||09:44 PM||||auuuuuuuuuuughhhhhhh!!!!!!!<P><BR>ok just had to vent a little. in one of those "i hate fieros" moods. im sure i will love them again very soon though...happens all the time.<P>------------------<BR>- Unfinished ferrari kit, custom made myself<BR>-87 duke (just got it, its fast, and i dont know why yet!)<BR>- 87 GT<BR>- Tc Maserati (daily drive)||||reg||8
+Z||000001||Urchin||07-23-2001||09:50 PM||||I think it is safe to say that all of us have been there.    <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

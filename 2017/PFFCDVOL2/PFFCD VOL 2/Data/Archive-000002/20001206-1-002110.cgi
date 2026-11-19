@@ -1,0 +1,13 @@
+A||||11||kong||tryin again||||1||
+Z||000000||kong||05-07-2000||12:15 AM||||This is what I want in mine!  <IMG SRC="http://www.fiero.nl/uploads/Mvc-451f.jpg">  <p>[This message has been edited by kong (edited 05-07-2000).]||||reg||1
+Z||000001||Monkeyman||05-07-2000||10:05 AM||||Glad to see you're back.  Where did you go?  And just where are my sunglasses?  (Not that you have them, but I need them to look at that motor!) <IMG SRC="http://www.fiero.nl/uploads/LT-1V-8.jpg"> <BR>This would work, too.  Supposed to be an LT1, but it just doesn't look like it.  Anybody know what it is?  (I know.  It's a motor.  I need details! <IMG SRC="http://www.fiero.nl/forum/smile.gif">)  ||||reg||1
+Z||000002||80's BOY||05-07-2000||10:53 AM||||i saw something land in my backyard like that once. it had flashing lights and used those shiny tubes to walk toward me. i had been drinking, though. hee-hee!!||||reg||7
+Z||000003||kong||05-07-2000||03:08 PM|||| Hey monkeyman,  I've been lurking in the jungle lately, but I decided to come out and be a little social for the twin lakes Fiero fest. The pic is of one of v8 archies toys that he brought down. He made me get away from it though cause I was drooling all over it.||||reg||1
+Z||000004||GT Bastard||05-07-2000||03:33 PM||||That's a TPI motor, not an LT1.... 305 or 350 more than likely, but you can't tell by the picture.||||reg||1
+Z||000005||GT Bastard||05-07-2000||03:36 PM||||That intake started in 1985.  It debuted in the '85 IROC Camaro in the 305 flavor and the '85 Vette in the 350 flavor.  The f-bods didn't get the 350 TPI motor until '87, and it was still just an OPTION in '87-up, but many were still 305's.  The LT1 motor has shorter runners, and looks much like the Accel Super-ram intake.||||reg||1
+Z||000006||Dan86gt3.8||05-08-2000||12:51 AM||||ya thats defenitely not an lt1 or it might be an lt1 short block.  An lt1 intake is long and rectangular and does not have thoose curved runners and its flat on top.  Like gt bastard said its more ;like the 305/350 tpi's that came in the late 80's early 90's camaros and firebirds||||reg||1
+Z||000007||Fret Naught||05-08-2000||12:58 AM||||I don't know, but it looks mean and dangerous||||reg||14
+Z||000008||Phil||05-08-2000||07:11 AM||||Too many cylinders||||reg||1
+Z||000009||Monkeyman||05-08-2000||10:07 AM||||Not enough cylinders.  I wonder if you could squeeze a Ferrari V12 in there...||||reg||1
+Z||000010||Dan86gt3.8||05-08-2000||11:37 AM||||v12 thats a bit much.  I am having hell getting my viper v10 in there, for my venom project.||||reg||1
+Z||000011||Standard||05-08-2000||03:20 PM||||I know there's a guy who stuffed a Jaguar V12 into his Fiero.  There was an article in Kit Car about it.. that would be sweeeeet!||||reg||1

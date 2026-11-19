@@ -1,0 +1,4 @@
+A||||2||spideyfoot||is it my TPS||||1||
+Z||000000||spideyfoot||06-03-2001||03:57 PM||||My car has kind of a on off feel in the accelerator pedal not a smooth change in speed. I usually compensate by running it in the next highest gear and letting it bog a little. Does this sound like a faulty TPS? I also feel a little stumble at around 3200 rpms and I get an erratic idle at lights falls down to almost stall.its an 88 duke<p>[This message has been edited by spideyfoot (edited 06-03-2001).]||||reg||1
+Z||000001||PBJ||06-03-2001||08:57 PM||||To me it sounds like a secondary ignition breakdown. ie. bad spark from a failed ignition plug wire.  TPS will usually set a code.||||reg||1
+Z||000002||87GTZ34||06-03-2001||09:33 PM||||Hard to say w/o performing some further diagnostics.  Just what you wanted to hear right.  If you have a multimeter you can eliminate the TPS fairly painlessly.||||reg||1

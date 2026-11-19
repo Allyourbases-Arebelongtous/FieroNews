@@ -1,0 +1,6 @@
+A||||4||Jaygee79||anyone know where i can get....||||1||
+Z||000000||Jaygee79||10-22-2001||01:43 PM||||stuffed Looney Tunes characters?  I've tried Wal-Mart, Toys R Us, KayBee, warner bros. website, and just about everywhere else I can think of.  all the WB stores are closed so thats out.  I found some on eBay but i won't be able to get them in time.  i need 8 different characters for Nov. 4th.  anyone have any ideas?||||reg||1
+Z||000001||fierospeeder||10-22-2001||01:57 PM||||if you have a great america near you, you can pick some up there.<P>||||reg||1
+Z||000002||Jaygee79||10-22-2001||11:24 PM||||don't think there's one around here.  never heard of it.  but thanks.||||reg||1
+Z||000003||fogglethorpe||10-23-2001||08:20 PM||||I thought the title of this thread was going to end with "a life". I'm still trying to get one of those myself...<P>..................<BR>If you can remain calm, you don't have all the facts.||||reg||1
+Z||000004||Jaygee79||10-23-2001||10:57 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by fogglethorpe:<BR>[B]I thought the title of this thread was going to end with "a life". I'm still trying to get one of those myself...[B]<HR></BLOCKQUOTE><P>i was looking for one of them for a while too, but all the good ones seemed to be taken.||||reg||1

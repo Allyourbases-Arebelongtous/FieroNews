@@ -1,0 +1,10 @@
+A||||8||Tonker||The leaves, they are a changin'||||1||
+Z||000000||Tonker||09-12-2001||03:19 PM||||I just looked outside and some of the trees have started to change colour. Bye summer.   <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>------------------<BR>Black '86 Fiero GT.<BR>ICQ: 7813479<BR> <IMG SRC="http://www.fiero.nl/uploads/halfpole_1.gif"> <p>[This message has been edited by Tonker (edited 09-12-2001).]||||reg||1
+Z||000001||Urchin||09-12-2001||03:35 PM||||No they're not!||||reg||1
+Z||000002||rockcrawl||09-12-2001||04:41 PM||||I look outside and see nothing but green on the trees here, but I did drive down a street today that was littered with fallen leaves. I thought it was kinda wierd for leaves to be falling already. ||||reg||1
+Z||000003||Raydar||09-12-2001||05:03 PM||||We ought to start dropping our leaves in another 5-6 weeks or so. <BR>I hope winter doesn't fall on a weekend, this year.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Raydar - aka Steve<BR><FONT SIZE="1"><BR>Black 88 Formula.<BR>Red 88 Duke coupe. "The Project" <BR>88 Formula parts car. "The Donor"<BR></FONT>||||reg||1
+Z||000004||OcalaFiero||09-12-2001||05:18 PM||||The palm trees are all pretty green here.....||||reg||1
+Z||000005||Steve Normington||09-12-2001||05:44 PM||||I hope I don't blink and miss winter again this year.||||reg||1
+Z||000006||Phil||09-12-2001||05:58 PM||||Leaves are all gone already around my area- Oak caterpillars ate 'em all||||reg||1
+Z||000007||artherd||09-13-2001||04:18 AM||||"Winter"  Intresting...<P>What is this "Winter" you speak of? ;D)<P>Is it like San Francisco in the morning?<P>Best!<BR>Ben.<P>------------------<BR>  <IMG SRC="http://www.cartsys.com/fiero/88ttop.jpg">  <BR>Ben Cannon<BR>88 Formula, T-top Metalic Red<BR>88 Formula, Silver<BR>87 Coupe, Metalic Red<BR>"Every Man Dies, not every man really Lives"<BR>                -Mel Gibson, "Braveheart"||||reg||3
+Z||000008||Hippocrat||09-13-2001||06:23 AM||||Ahh yes summer is gone .. thank god that its only 6 or 7 months till its back .. <P>Summer that wonderful 1 month of the year<P>seems like it anyway .. ||||reg||1

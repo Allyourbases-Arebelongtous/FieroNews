@@ -1,0 +1,4 @@
+A||||2||KevinR||Alternator overcharging?||||5||
+Z||000000||KevinR||06-05-2001||07:18 AM||||My gauge on the dashboard reads about 14-15 and I put a voltmeter on the battery terminals and got a reading of 14.26 with the electric fan running. I havn't been using the car because I'm not sure if I can do further damage. I have an 86' se v6. Thanks||||reg||5
+Z||000001||hugh||06-05-2001||07:26 AM||||I don't see that voltage as a problem for your car,but it can cause it to lose electrolyte from the battery.Sounds like it may need a voltage regulator.<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/hugh_sig.gif"> ||||reg||1
+Z||000002||SteveJ||06-05-2001||08:03 AM||||Any place between 14 and 14.5 is normal when charging a battery that is low. Voltage will drop into the 13's when the battery is fully charged and in good condition. ||||reg||1

@@ -1,0 +1,5 @@
+A||||3||mrfiero||pictures of my silver '88 GT ||||1||
+Z||000000||mrfiero||10-25-2000||10:00 PM||||I can't load PIP, so go here to see my GT (it's not very good....sorry).<BR> <A HREF="http://images.honesty.com/imagedata/0/3/2/17244032.jpg" TARGET=_blank>http://images.honesty.com/imagedata/0/3/2/17244032.jpg</A> <P><BR>This GT will be for sale as soon as I get the title for it.  I have decided to keep and restore the black T-Top '88 GT I have instead. I'll post this in the Mall too. ||||reg||1
+Z||000001||AkursedX||10-25-2000||11:29 PM||||Hmmm, I think that car is worth about $3199, but i suppose i could raise my offer to $3201.  hehehehehe  j/k   <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||6
+Z||000002||pherder||10-26-2000||07:46 AM||||mrfiero,<P>Just link to it!  Like this ...<P> <IMG SRC="http://images.honesty.com/imagedata/0/3/2/17244032.jpg"> <P>||||reg||1
+Z||000003||bHooper||10-26-2000||09:10 AM||||Man... I wish I wasn't broke, what with rebuilding my '86 Gt!<P>Maybe, I will paint mine silver... hmmm.<P><P>------------------<BR>hoop<BR>Red '86 GT||||reg||1

@@ -1,0 +1,15 @@
+A||||13||bHooper||if you only see one movie this weekend...||||5||
+Z||000000||bHooper||02-26-2000||07:56 PM||||you have to see.........||||reg||5
+Z||000001||Carolina 88GT||02-26-2000||08:05 PM||||Is that a.....If you were gonna be dead tomorrow kind of movie.. and whats the last one you would want to watch? or||||reg||1
+Z||000002||Monkeyman||02-26-2000||08:34 PM||||You know...so then I said...but the coffee was...slasher!...I couldn't believe all of the...naked?!...right in the middle?...then, right at the end...for sale in...let me guess.<P>That's all I have to say about thaaaat.  (in my best Forrest Gump voice)||||reg||1
+Z||000003||bHooper||02-26-2000||08:37 PM||||sorry the ribs were burning on the grill<P>if you only see one movie this weekend, you gotta see <B>"Pitch Black"</B><P>Excellent movie!!!!!||||reg||1
+Z||000004||Monkeyman||02-26-2000||09:49 PM||||I was gonna watch it but I heard that you couldn't see anything.||||reg||1
+Z||000005||Carolina 88GT||02-26-2000||10:00 PM||||bHopper.....so I guess you ended up with Pitch Black Ribs.....rather ironic||||reg||1
+Z||000006||stimpy||02-27-2000||01:06 AM||||I've gotta put my vote in for "American Beauty". Don't take the kids though, and don't expect a comedy. Has some real deep statements to make about finding the importance of living in the moment.  Then rent Ronin and watch a whole bunch of cars get wrecked!||||reg||1
+Z||000007||fierosound||02-27-2000||04:04 AM||||Remember an old Brit movie starring Michael Caine - THE ITALIAN JOB.  They pull off a big gold heist in Rome and escape using hot-rodded Austin Mini Cooper S cars.  I wanted one of those, not 'cause they're beautiful ('cause they aren't) but they'd be fun.<P>Even today, I'd think it'd be great fun to find a Mini, paint it to match Mr. Bean's car, drop a honkin' engine in it, and go racing.  I heard of a guy blowing away 'Vettes at the dragstrip in one, using a full race 1.8L 4 cyl engine!!!||||reg||10
+Z||000008||bHooper||02-27-2000||09:38 AM||||the movies great, and yes you can see everything!  do you think they would make a movie, hype it up, charge everyone to watch it and then make it so no one could see anything?<P>hey thats a great idea for a movie! isnt it!?<P>carolina, the ribs were a nice barbeque black...mmmm mmm mm||||reg||1
+Z||000009||Monkeyman||02-27-2000||02:37 PM||||"Hey, Honey!  I unplugged the lights"...The true story behind "Pitch Black".  Coming soon to abandoned theaters everywhere.||||reg||1
+Z||000010||Monkeyman||02-27-2000||02:40 PM||||Or what about the sequel to "Pitch Black"?  "Damn!  I Stubbed My Toe!  You Didn't Pay the Electric Bill Again, Did You?"||||reg||1
+Z||000011||Carolina 88GT||02-27-2000||03:18 PM||||MM....a good sequel to Pitch Black....how about Daylight  <IMG SRC="http://www.fiero.nl/forum/smile.gif">   ||||reg||1
+Z||000012||Monkeyman||02-27-2000||05:32 PM||||Carolina 88GT--Hadn't thought about that and I just watched it the other day.  Good movie.||||reg||1
+Z||000013||Oreif||02-27-2000||11:08 PM||||Actually the real sequel to "Pitch Black" is having a title problem but they've narrowed it to 2....<P>"Not that button!!" or "What's this switch do?"||||reg||1

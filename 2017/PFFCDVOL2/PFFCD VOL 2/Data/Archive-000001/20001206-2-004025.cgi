@@ -1,0 +1,2 @@
+A||||0||DiggityDan||Colorado Springs T-Top||||1||
+Z||000000||DiggityDan||05-31-2000||03:19 AM||||I was on vacation in Colorado Springs this past week and I saw one of the best looking Fiero's I have ever seen. I didn't get a real good look at it, but it was a cherry red fast back GT with T-tops. It was parked at a KFC where I stopped and ate. If the person that ownes that car is on this message board.....I just wanted to tell you that you have a beautiful car.||||reg||1

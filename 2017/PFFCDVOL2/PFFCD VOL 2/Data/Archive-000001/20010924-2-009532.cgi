@@ -1,0 +1,8 @@
+A||N||6||lercs||fiero engine replacment ||||5||
+Z||000000||lercs||04-09-2001||06:22 PM||||how can i put a quad 4 engine in my 84 fiero<BR>i have the engine from a 90 grand am gt and would like to use it.<BR>any information is helpful<BR>grant||||reg||5
+Z||000001||lercs||04-09-2001||06:40 PM||||also i wouild like to use the transmission that is with the car and i would like to use that.<BR>is this possible and if so what changes need to be made?<BR>thanx again<BR>grant||||reg||1
+Z||000002||Taijiguy||04-09-2001||06:47 PM||||Someone was actually selling a cradle and tranny already set up for the Quad Four. Shipping would probably be a back breaker though.||||reg||1
+Z||000003||lercs||04-09-2001||06:52 PM||||yeah i saw it there<BR>450 american from texas to ontario<BR>no way i can afford that||||reg||1
+Z||000004||lercs||04-10-2001||10:46 PM||||can anyone else help??????||||reg||1
+Z||000005||cmc||04-10-2001||11:36 PM||||That sounds like a pretty good deal for that Quad-4 cradle/transaxle.  (I'm considering between that and a 3.4 TDC.)  As for the Quad-4 itself, you might want to watch out for what engine you're buying.  Sounds like a regular Quad-4, with about 140 HP (I believe) stock.  Rebuilding it to Quad-4 HO specs (180-200 HP) would cost you a couple thousand dollars going by the last place I priced it at (and I can't find the printout I made of their parts list anymore).<P>In any case, good luck in whatever you end up putting in there.||||reg||1
+Z||000006||lercs||04-11-2001||03:29 PM||||well i already have the engine and the transmission from a grand am gt that he totalled<BR>does anyone know if it is the good engine<BR>or not<BR>and anything on putting it in??<BR>||||reg||1

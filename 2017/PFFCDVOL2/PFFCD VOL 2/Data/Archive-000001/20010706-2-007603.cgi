@@ -1,0 +1,3 @@
+A||||1||varnster||rear firewall||||1||
+Z||000000||varnster||01-01-2001||08:07 PM||||just about to run some 8 guage wiring to<BR>the battery and Im takin it through the rear<BR>fire wall. just wondering how thick it is. It seems I heard it was double walled. its<BR>for the 87 gt, allso good places to drill<BR>would help<BR>||||reg||1
+Z||000001||KRMFiero||01-01-2001||08:24 PM||||there are some rubber plugs in it inback of the EMC (in back of center coincle)   and just dril through the rubber not being used or take them out and put the wire through there, thats what i did for my amp<P><BR>kyle<P>------------------<BR>1984 Pontiac Fiero 2M4 SE<P>  <IMG SRC="http://members.aol.com/~Physcokyle/fiero.jpg"> ||||reg||1

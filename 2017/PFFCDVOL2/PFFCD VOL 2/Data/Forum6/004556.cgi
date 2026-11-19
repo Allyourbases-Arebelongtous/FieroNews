@@ -1,0 +1,5 @@
+A||||3||sloth85GT||posting a new topic on corvetteforum.com???||||5||
+Z||000000||sloth85GT||11-30-2001||02:39 AM||||Anyone know how to do this? I registered and everything, but I can't find a way to post a new topic in the C4 Technical area. There's no link to be seen. Can someone help me out, I hope it's not just me being stupid.<P>------------------<BR>     <IMG SRC="http://www.mts.net/~kuzma/fieronl.gif">     <BR>Dan<BR>1985 Silver GT||||reg||5
+Z||000001||California Kid||11-30-2001||05:08 AM||||It's not like here at all.  Use their search feature and type in "how to I post pictures" and hit the next button at the bottom. It's all explained in there.<P>Be careful what you say over there, they are pretty sharp! I haven't joined the site yet but do read postings there.||||reg||1
+Z||000002||rogergarrison||11-30-2001||05:42 AM||||make sure your logged on. if your not the post icons dont show up. its almost in the same place as here, upper right of page in blue, says 'post new topic'||||reg||1
+Z||000003||sloth85GT||12-01-2001||03:26 PM||||got it, thanks guys.||||reg||1

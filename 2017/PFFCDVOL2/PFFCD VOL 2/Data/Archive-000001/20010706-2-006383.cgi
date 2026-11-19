@@ -1,0 +1,5 @@
+A||N||3||AdoRe||Vanderhoef's Front end||||7||
+Z||000000||AdoRe||10-23-2000||03:31 PM||||Where are those front end from? and where can i get one?<BR>if it is not available i would probobly do a similar one with a coupe front end and fiberglass work!<BR>thanks any good pics would be apreciated!<P>_AdoRe_ ||||reg||7
+Z||000001||Cliff Pennock||10-23-2000||08:52 PM||||They're dutch. Check out their website <A HREF="http://www.fieroinnovation.nl" TARGET=_blank>here</A>. Their site is in dutch also though...||||reg||1
+Z||000002||stsmithgt||10-24-2000||11:42 AM||||That web page has some neat stuff Cliff.  Makes me feel a little ignorant only being able to speak english.  (duh) <IMG SRC="http://www.fiero.nl/forum/redface.gif">||||reg||14
+Z||000003||fierov8||10-24-2000||05:59 PM||||Cliff,<P>Are they local to you?  Do you know anyone<BR>who can speak/translate Dutch?  Do you know anyone near them???<P>They have some unique/awesome/stuff I'd<BR>love to put on my car.  Would really like<BR>to use a local "agent" to ask questions and<BR>possibly assist with purchasing.  <P>Very Nice Parts!<P>-jeff d<BR>Fort Worth, TX<BR>||||reg||4

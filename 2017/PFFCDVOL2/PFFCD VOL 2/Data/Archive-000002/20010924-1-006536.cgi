@@ -1,0 +1,2 @@
+A||||0||firstfiero||original indy pace car on ebay!!||||14||
+Z||000000||firstfiero||03-31-2001||01:29 PM||||     Thought I remembered someone looking for this or a formula not long ago<P>      <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=574352622&r=0&t=0" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=574352622&r=0&t=0</A> <BR><P>------------------<BR>'86 fiero Se<BR>    Todd<BR>NO MR. RICER STICKERS DON'T MAKE YOU FASTER!!!||||reg||14

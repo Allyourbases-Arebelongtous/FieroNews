@@ -1,0 +1,3 @@
+A||N||1||rigdonhome||Moderator for this List||||5||
+Z||000000||rigdonhome||08-19-2001||12:49 AM||||Hey, go ahead and flame me, but I'm an idiot and can't find where the moderators are listed.  Where do I go on the site to find the moderator for a particular post/topic?<P>------------------<BR>Scott Rigdon<BR>1988 Fiero GT, Black<BR>5 speed<BR>38,000 Original Miles!<BR>Cherry!||||reg||5
+Z||000001||KRMFiero||08-19-2001||12:57 AM||||Cliff Pennock<P>The Best Moderator Avalable... go to the main topic listing nd look to the right, Cliff is the only one, best one, only one we need<P><BR>Kyle||||reg||1

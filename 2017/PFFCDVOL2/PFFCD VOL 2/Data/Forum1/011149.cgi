@@ -1,0 +1,11 @@
+A||||9||Kasdan||Saw a Fiero in Chemestry class...||||1||
+Z||000000||Kasdan||10-19-2001||06:18 PM||||We were watching a video on hydrocarbons or plastics or something like that (wasnt paying attention until the fiero).  They showed a clip of video from the 84 INdy 500 and it had the pace car in it, i yelled out "hey its a fiero!"  in the middle of class, everyone gave me wierd looks, rofl.<P>------------------<BR>Tyler Morgan, 1986 GT<BR>   <IMG SRC="http://www.fiero.nl/uploads/Fiero21.jpg">           <BR>Aftermarket Power Steering<BR>Aim=FieroDriver1986||||reg||1
+Z||000001||Phil||10-19-2001||07:33 PM||||Chemistry||||reg||1
+Z||000002||FieroJoe||10-19-2001||11:03 PM||||Physics.||||reg||1
+Z||000003||85ZainoGT||10-19-2001||11:35 PM||||math.<P>   [editd] I guess were just naming subjects.....right?[/edit]<P>------------------<BR>Paul Ventimiglia<BR>1985 White/Silver GT <BR>2.8L 4 Speed LOADED :)<BR>    <IMG SRC="http://www.fiero.nl/uploads/Sigpic2529_1.jpg"> ||||reg||6
+Z||000004||Cheever3000||10-19-2001||11:39 PM||||I think Phil was correcting his spelling.<BR>||||reg||1
+Z||000005||FieroJoe||10-19-2001||11:50 PM||||But I like Physics!||||reg||10
+Z||000006||Heretic||10-19-2001||11:56 PM||||The closest thing i saw to a Fiero in a video they showed at school was an MR2.  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>------------------<BR> <IMG SRC="http://shopping.yimg.com/images/muze/album/390/399801_th.jpg">    <BR>TOOL OWNS j00!||||reg||1
+Z||000007||Cheever3000||10-20-2001||12:00 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by FieroJoe:<BR><B>But I like Physics!</B><HR></BLOCKQUOTE>Me too.  It's so cool how they can read your mind and tell the future.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P><BR>||||reg||1
+Z||000008||GarethWright||10-20-2001||04:03 AM||||Lol Cheever!<BR>I am thinking of going to UTI, and on the page for the course I want, theres a pic of a Fiero getting an alignment done, must be fate! ||||reg||1
+Z||000009||Jaei Sun||10-20-2001||04:18 AM||||How about "Unappreciated cars that GM abandoned because it could kick the c-4 corvettes a$$ because Chevrolet is sh!t 101"?  This class is worth 4 credits.<P>------------------<BR>     <IMG SRC="http://home.mn.rr.com/fierojaei/trans_fiero_sig2.gif"> ||||reg||1

@@ -1,0 +1,2 @@
+A||||0||Philphine||weigh in||||1||
+Z||000000||Philphine||06-20-2001||05:35 PM||||the company i work for bought a truck co. shipping terminal that was in the same lot a few years back. just found out the little shed in the corner of the lot is a weigh station. don't know how accurate it is. i parked my s10 blazer on it with a little over half tank of gas and full of junk and it was 3600lbs. that sound close to someone who might know? gonna try my '87 next time i drive it to work. wish the chopper was running. i've got a feeling it's pretty light.||||reg||1

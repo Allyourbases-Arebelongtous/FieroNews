@@ -1,0 +1,8 @@
+A||||6||RaeQwan||GM Wheels!||||1||
+Z||000000||RaeQwan||10-24-2000||10:32 PM||||would the center caps for the Fiero stock wheels fit in place of the center caps on other GM wheels?||||reg||1
+Z||000001||theogre||10-24-2000||10:39 PM||||Some of them anyway.||||reg||1
+Z||000002||My7Fieros||10-24-2000||10:48 PM||||I believe that the turbo wheels or whatever they're called (like the one in the forum emblem) were used on several different GM cars of the late 80s.......||||reg||1
+Z||000003||fierosound||10-25-2000||09:19 PM||||Centre Caps from GT 15" Diamond Spoke wheels will fit '98 Cavalier Z24 16" wheels||||reg||10
+Z||000004||Raydar||10-25-2000||11:59 PM||||Center caps from 14" turbo wheels will swap with 15" diamond spoke wheels. ||||reg||1
+Z||000005||DaRkLoRD||10-26-2000||01:12 AM||||I'm still trying to find an easy way to make 2000 Grand Prix wheels fit a Fiero.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>custom axles is the best solution I've come up with so far but I'm sure there's an easier way.<P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||10
+Z||000006||batboy||10-26-2000||11:14 PM||||It's the hubs that determine the lug bolt pattern on the rear, not the axles. On the front of non88 Fieros, the hub and rotor is one unit, but on 88 Fieros and with those with GA or similar brake mods, the hub is separate on the front too. A fairly simple, but expensive "big brake" upgrade will probably get you to were you need to be. ||||reg||1

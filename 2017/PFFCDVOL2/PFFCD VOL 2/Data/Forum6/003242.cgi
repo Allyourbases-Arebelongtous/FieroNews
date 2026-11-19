@@ -1,0 +1,6 @@
+A||N||4||1FST2M6||probe convertalbe? Hyptnotise.. has been bored||||1||
+Z||000000||1FST2M6||09-04-2001||05:03 PM|||| <A HREF="http://64.60.145.228/forums/viewtopic.php?topic=41056&forum=7&0" TARGET=_blank>http://64.60.145.228/forums/viewtopic.php?topic=41056&forum=7&0</A> ||||reg||1
+Z||000001||Steve Normington||09-04-2001||05:42 PM||||Probe forum? You consorting with the enemy?  <IMG SRC="http://www.fiero.nl/forum/smiley_wtf.gif">   <IMG SRC="http://www.fiero.nl/forum/eek.gif"><BR><p>[This message has been edited by Steve Normington (edited 09-04-2001).]||||reg||1
+Z||000002||FieroKyle||09-04-2001||10:43 PM||||Yeah but look at the car, beat to hell. Normal for a probe. Probably thought he was a Fiero going into to a corner, then oh SH#T over the banking it goes rolling.||||reg||10
+Z||000003||1FST2M6||09-05-2001||08:40 AM||||NO NO!! thats fell fiero owner -Hyptnotise- in the car!! he choped the top off with a  saws-all, an drove it into a pond and around his land playing "little dune buggy"   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> ||||reg||1
+Z||000004||Formula||09-05-2001||01:33 PM||||I could have some fun with that!!!!<P><BR> <IMG SRC="http://www.fiero.nl/forum/smile.gif">  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

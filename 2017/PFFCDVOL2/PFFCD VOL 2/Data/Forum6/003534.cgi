@@ -1,0 +1,3 @@
+A||||1||Rex||computer expert...................needed||||1||
+Z||000000||Rex||09-22-2001||09:10 PM||||having trouble here on PFF<BR>I go into someones posting,when i back out to posting list page i get this message<BR>Internet Explorer cannot open the Internet site <A HREF="http://www.fiero.nl/cgi-bin----bla" TARGET=_blank>http://www.fiero.nl/cgi-bin----bla</A>  bla<BR>ect <IMG SRC="http://www.fiero.nl/forum/frown.gif">real long address) when i click ok the page loads but only the top 5 or 6 subjects<BR>in the space where a subject should be it has Font Size="2in" Face=Veranda,Ariel,Helv<BR>any help I would be greatful.||||reg||1
+Z||000001||Formula88||09-23-2001||12:56 AM||||I've gotten that a few times myself.  Clear your internet cache and that should help.  ||||reg||1

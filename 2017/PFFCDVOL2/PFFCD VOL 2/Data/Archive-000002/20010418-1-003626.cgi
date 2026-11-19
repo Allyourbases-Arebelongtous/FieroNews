@@ -1,0 +1,5 @@
+A||||3||Archie||Fierorama 2000 pics are up||||1||
+Z||000000||Archie||09-11-2000||01:12 PM||||We have about half of our fierorama 2000 pictures up, the rest will be up later tonite.<BR> <A HREF="http://www.v8archie.com/frama2k.html" TARGET=_blank>http://www.v8archie.com/frama2k.html</A> <P>Archie<P> <IMG SRC="http://www.fiero.nl/uploads/Mvc-764s_1.jpg"> <P>||||reg||1
+Z||000001||Archie||09-12-2000||12:14 AM||||<A HREF="http://www.v8archie.com/frama2k.html" TARGET=_blank>http://www.v8archie.com/frama2k.html</A> <P>Archie<P>We have a total of nine pages of pics from Fierorama up now.<P>Archie<P>||||reg||1
+Z||000002||SloPonti||09-12-2000||12:36 AM||||hey thanks v-8 archie! you must like my car alot! you took three pictures of it! you got one of my purple motor and two of me leaving the show! i did not even see you taking a picture of me! hey your car was looking and sounding sharp man! keep up the good work!!!!!!||||reg||1
+Z||000003||Oreif||09-12-2000||02:22 AM||||Archie, The pics came out great! ||||reg||14

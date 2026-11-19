@@ -1,0 +1,4 @@
+A||||2||LS1swap||combination needle bearings/axle shaft seals ||||5||
+Z||000000||LS1swap||08-12-2001||08:49 AM||||Has anyone ever used the combination needle bearings/axle shaft seals that the fiero store sells. Looks like a good idea  but was wondering how far they might protrude. Thanks||||reg||5
+Z||000001||Steve Normington||08-12-2001||10:59 AM||||They protrude about 3/16 of an inch out of the tranny. On my 4-spd MT, they weren't even close to the half-shafts if that is your worry. If you put them in, be sure to use plenty of RTV to seal them to the tranny or they will leak badly.||||reg||1
+Z||000002||Rodney||08-12-2001||11:30 AM||||I have the sealer that seems to work well with these bearings. Locktite 515. Be sure to sand the axles well with fine sand paper as the new seals sit farther out than the OEM seals. <BR> <A HREF="http://www.rodneydickman.com/n14.html" TARGET=_blank>http://www.rodneydickman.com/n14.html</A> <P>Rodney Dickman||||reg||1

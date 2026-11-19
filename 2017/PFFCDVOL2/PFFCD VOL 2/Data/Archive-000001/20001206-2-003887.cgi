@@ -1,0 +1,5 @@
+A||||3||ezsurf||Thermo Time Switch?||||5||
+Z||000000||ezsurf||05-23-2000||12:59 AM||||Anyone know what a thermo time switch does?  The 2.8 V-6 has one on it, I don't know about the 4 cyl.||||reg||5
+Z||000001||DRH||05-23-2000||01:09 AM||||Maybe you mean the cold start switch? The V6 uses it to fire the cold start injector. It is mounted in the intake manifold. It is powered from the starter so it is only on when the starter is engaged. The length of time it stays on varies based on the engine temperature (colder stays on longer). ||||reg||5
+Z||000002||ezsurf||05-23-2000||01:18 AM||||That sounds possible.  The Helm book calls it a thermo time switch.  Unfortunately, I have to remove some teflon tape from some thermal switches.  I didn't know what the plug was, or if it used the shell casing for a ground as well.||||reg||1
+Z||000003||DRH||05-23-2000||01:51 AM||||If it is the cold start switch it should have a purple/white and a tan wire running to it. It is mounted in the intake near the coolant filler neck. And it does use the case for grounding.<P>David.<BR>||||reg||1

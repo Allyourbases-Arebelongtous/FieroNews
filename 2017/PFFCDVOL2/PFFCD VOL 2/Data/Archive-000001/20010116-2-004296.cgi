@@ -1,0 +1,3 @@
+A||||1||87PegasusGT||HELP!!!!Shorted out my fan, and all power accessories||||1||
+Z||000000||87PegasusGT||06-15-2000||03:50 PM||||I screwed up. I have my fan hooked to the same power supply that controls power door locks,trunk release, overhead light, and guage lights so I can turn it on at will. While washing inside of my hood, water got into the wiring and shorted out my constant power supply  <IMG SRC="http://www.fiero.nl/forum/frown.gif"> Where do I need to replace the (fuse?) Is it one of the silver relays in the fuse box?||||reg||1
+Z||000001||84 Indy||06-15-2000||06:58 PM||||No, it's probably one of the fusible links check the 2 by the battery and the one or two by the srarter.||||reg||1

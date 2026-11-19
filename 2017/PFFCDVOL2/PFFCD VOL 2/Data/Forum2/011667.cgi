@@ -1,0 +1,5 @@
+A||||3||BAM-BAM||Cruise control stalk routing???||||9||
+Z||000000||BAM-BAM||06-28-2001||08:21 PM||||   Ok, here I sit, ready to install my stering column and just got Rodneys cruise stalk. What is the routing for the wire that runs down? the column or through the column? Just a simple reminder, it's been two weeks. TIA<P>Peace, B2 OUT!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||9
+Z||000001||theogre||06-28-2001||08:25 PM||||runs inside with the rest of the column harness.||||reg||1
+Z||000002||BAM-BAM||06-28-2001||08:29 PM||||   Tanks Ogre! Now I'm happy  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> Gotta go!!!<P>Peace, OUT!||||reg||1
+Z||000003||GT-maniac||06-28-2001||08:30 PM||||I'm in the same situation, near as I can tell it goes through the hole in the column for the turn signal stalk down the column and plugs in just below the pod. What I'd like to know is how to get the column apart. And also is there some pin or something that's supposed to hold the stalk in place ? Mine just falls out.||||reg||1

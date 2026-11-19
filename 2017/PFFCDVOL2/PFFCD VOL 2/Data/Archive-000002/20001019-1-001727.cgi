@@ -1,0 +1,3 @@
+A||||1||BAM-BAM||Thanks Rodney :)||||7||
+Z||000000||BAM-BAM||04-03-2000||10:52 PM||||    Rodney, thank you for the timely shipment of my headlight rebuild kits <IMG SRC="http://www.fiero.nl/forum/smile.gif">. I haven't had time to install them yet but I will soon. I'll let you know how it all turns out. BTW, I had the right side motor apart and did not see where the rubber bumpers went <IMG SRC="http://www.fiero.nl/forum/confused.gif">. Is there a better diagram or picture that shows this?<P> Thanks, BAM-BAM  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||7
+Z||000001||Monkeyman||04-04-2000||09:32 AM||||Rubber bumpers go inside the nylon gear.||||reg||1

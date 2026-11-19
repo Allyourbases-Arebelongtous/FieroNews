@@ -1,0 +1,3 @@
+A||||1||Songman||PIP Question for Cliff||||5||
+Z||000000||Songman||01-02-2001||11:39 PM||||Cliff,<BR>I would like to set up something on my UBB like you have here so I can host pictures for the people that want to post. Where do I begin?<P>Thanks<BR> <A HREF="http://www.tradinpost.net/cgi-bin/ubbcgi/Ultimate.cgi" TARGET=_blank>http://www.tradinpost.net/cgi-bin/ubbcgi/Ultimate.cgi</A> <P>If anyone is a Merle Haggard fan come on over and check it out...||||reg||5
+Z||000001||Songman||01-03-2001||02:19 AM||||Oh well, I thought I had it Cliff...<P>I got the xx.pip file on my server and all of that and it accepted the automatic profile setup. But when I try to upload a picture, I get an Error 405. Any ideas where I screwed up?||||reg||1

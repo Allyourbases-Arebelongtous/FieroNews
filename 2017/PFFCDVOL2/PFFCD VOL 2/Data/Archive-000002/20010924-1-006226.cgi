@@ -1,0 +1,5 @@
+A||||3||JohnnyK||T-Top Questions||||1||
+Z||000000||JohnnyK||03-15-2001||10:08 AM||||I am going to look at a supposedly 1984 Fiero with T-Tops. I know it's 2m4, i'm just wondering if they ever put t-tops in 4cyl cars? I know not in 84, but perhaps 86 or something? or is this probably just an aftermarket t-top kit? Hopefully he got the year wrong and it's an 86 or something.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000001||skitime||03-15-2001||10:27 AM||||T-tops were only install through the factory in 1988.  The company that manufactured the T-top had franchises thoughout the US and anyone could take any Fiero to the franchises and get the t-top installed. So any year Fiero could have a t-top. ||||reg||1
+Z||000002||JohnnyK||03-15-2001||10:37 AM||||DAMN!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||qwikgta||03-15-2001||12:30 PM||||See 1 at:<BR> <A HREF="http://robsfieroproject.homestead.com/index.html" TARGET=_blank>http://robsfieroproject.homestead.com/index.html</A> <P>------------------<BR>QWIKGTA<BR>88 T-Top coupe<BR>http://robsfieroproject.homestead.com/index.html||||reg||1

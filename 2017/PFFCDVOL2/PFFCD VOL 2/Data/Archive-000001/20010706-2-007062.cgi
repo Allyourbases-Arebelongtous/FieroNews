@@ -1,0 +1,3 @@
+A||N||1||polomeno||Can i wire the tach without the filter??||||1||
+Z||000000||polomeno||11-30-2000||04:35 PM||||Hey guys.. i suspect that my tach filter is dead . will the tach work if i wire it straight without the filter? will it cause any damage and do i need to still ground it??<P>thanks<P>John||||reg||1
+Z||000001||deceler8||11-30-2000||04:59 PM||||If you wire it up without the filter the tach needle will bounce all over the place.<P>The filter "smoothes" the impulses to the tach, allowing it to operate smoothly.<P>It is possible to build your own tach filter...I believe Cliff posted the instructions some time ago. Try the search.||||reg||1

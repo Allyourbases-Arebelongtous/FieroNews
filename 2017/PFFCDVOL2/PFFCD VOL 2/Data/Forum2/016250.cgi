@@ -1,0 +1,4 @@
+A||N||2||Elenor84||Inner fender well screws...where can I get more?||||1||
+Z||000000||Elenor84||12-11-2001||02:31 AM||||Hey guys...I'm swapping the fender wells to my coupe so the gt nose will fit properly.  Just curious if I can get somemore of those pop screws?  Thx!<P>------------------<BR>Lance<BR>Click Image to go to site.<BR><A HREF="http://members.nbci.com/_XMCM/lancegspage/Index.html" TARGET=_blank> <IMG SRC="http://www.fiero.nl/uploads/Side1.jpg"> </A>||||reg||1
+Z||000001||88-DOHC||12-11-2001||03:44 AM||||You can get them from Rodney Dickman of course.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P><A HREF="http://www.rodneydickman.com/n76.html" TARGET=_blank>http://www.rodneydickman.com/n76.html</A>||||reg||1
+Z||000002||Phil||12-11-2001||06:52 AM||||PeP Boys also has them and I got mine from my local auto paint supply store.||||reg||1

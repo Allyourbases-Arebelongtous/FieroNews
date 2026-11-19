@@ -1,0 +1,9 @@
+A||||7||swoods||WHATS up with the diffrent staters||||1||
+Z||000000||swoods||07-06-2001||08:27 PM||||i have a 1984 2m4 and for some wierd reason i had to get a gear inducted starter they told me they make three diffrent starters for that car what is the diffrence are the blocks diffrent or what. ||||reg||1
+Z||000001||PBJ||07-06-2001||09:32 PM||||Sounds a lot odd to me.   ||||reg||1
+Z||000002||DecadenceR||07-06-2001||11:51 PM||||I think someone was messing with you.||||reg||1
+Z||000003||theogre||07-07-2001||12:09 AM||||GM starters are pretty much GM starters. Gear reduced? It's not a Chrysler.... Only time you get into those is in V8 applications in Fiero.||||reg||1
+Z||000004||johnt671||07-07-2001||10:10 AM||||I've put two starters on my 84 and was never asked what type it took.  Sounds funny.||||reg||1
+Z||000005||Tweek||07-07-2001||03:35 PM||||I got a starter for my '84 last month and all I told the guy was 84 Fiero, he didnt ask me what motor or anything because he use to own one, it was your basic GM starter..||||reg||1
+Z||000006||fierospeeder||07-07-2001||04:50 PM||||The 2.5l blocks are pretty much the same, i wouldn't doubt it if they used the same starters in all the 2.5l GM cars, its a lot cheaper then engineering different parts and manufacturing them.<P>I replaced my 2.5l starter and i had no trouble with getting it from my local parts store.||||reg||1
+Z||000007||maryjane||07-07-2001||05:10 PM||||SWOODS,<BR>Out of curiosity, I called <BR>autozone<BR>advanced auto parts<BR>napa<BR>checkers<BR>a local non affiliated parts store<BR>None carried a gear reduction starter for that yr and (I didn't ask about other years/mdls) Maybe you should go back and try again. Maybe they looked at the wrong computer page. I imagine the gear red starters are about twice what a reg starter is.<BR>Don<BR><p>[This message has been edited by maryjane (edited 07-07-2001).]||||reg||1

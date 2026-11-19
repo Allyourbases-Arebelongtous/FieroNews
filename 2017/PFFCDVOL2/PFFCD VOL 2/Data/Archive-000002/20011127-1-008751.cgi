@@ -1,0 +1,5 @@
+A||||3||rogergarrison||86 SE 4 sale with 3.5 miles||||1||
+Z||000000||rogergarrison||07-12-2001||11:30 AM||||Has anyone seen the car in Ebay? still has all the stickers and only 3.5 miles since new ,V6. Guy took body off for a conversion, then quit. was $4500. Its gold w/ tan inter.||||reg||1
+Z||000001||Ken Wittlief||07-12-2001||11:51 AM||||it was psoted here before - sounds fishy<P><BR> also a car that is that old and has not been run from time to time is gonna be a lot of grief.||||reg||1
+Z||000002||mrgone||07-12-2001||01:37 PM||||everyone should chip in 2$ and buy it communitivley. then drive it around at the next show and see what happens to it<p>[This message has been edited by mrgone (edited 07-12-2001).]||||reg||1
+Z||000003||rogergarrison||07-12-2001||02:02 PM||||Im with you on that Ken. Should need all seals, brakes, fuel system just for starters. Mine only sat for a year without running before I got it. and I had to do tons of stuff just to get it driveable. would make a nice parts car though.||||reg||1

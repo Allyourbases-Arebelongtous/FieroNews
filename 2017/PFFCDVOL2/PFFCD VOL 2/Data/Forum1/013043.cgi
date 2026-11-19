@@ -1,0 +1,3 @@
+A||||1||demonjt85||sbc fieros in my area||||1||
+Z||000000||demonjt85||12-28-2001||10:43 PM||||im in the middle of my own sbc swap and i would like to know of anyone with one done that i could look at or sombody to talk to about it i live in MA and i will travel a ways to see it, or i should say my dad will drive me a ways. me and my dad are doing this as a project together so we would like to see one in person.||||reg||1
+Z||000001||FieroBUZZ||12-29-2001||08:46 AM||||Try coming on the 'Chat' (link at the top of the page).  Most nights there are lots of knowledgeable people on after 9 or so.  SBC? last night you had Archie and Jelly2M8 on. Jelly is in Nova Scotia.<BR>Gary||||reg||1

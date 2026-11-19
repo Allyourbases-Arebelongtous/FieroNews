@@ -1,0 +1,2 @@
+A||||0||Formula||New Style!!||||1||
+Z||000000||Formula||09-13-2001||03:00 PM||||I took the Mustang out of my Sig and put text and american flag in!!<P><BR>feel free to use what you want<P>------------------<BR><FONT SIZE="3"><FONT COLOR="red"><B><I>STROKE THIS!</FONT></FONT></B></I>         <IMG SRC="http://www.fiero.nl/uploads/Flag.jpg">    <BR>    <IMG SRC="http://www.fiero.nl/uploads/Formulasiggy.jpg">    <BR><FONT SIZE="3"><FONT COLOR="red"><B><I>FORMULA</FONT></FONT></B></I>||||reg||1

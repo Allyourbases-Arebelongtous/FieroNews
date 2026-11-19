@@ -1,0 +1,3 @@
+A||||1||sdm1964||engine compartment color ?||||5||
+Z||000000||sdm1964||04-10-2000||06:04 AM||||Since i have the cradle out of the car and the engine compartment is dirty it could use some cleaning and paint. What color black was used in the engine compartment? gloss, semi or flat? the cradle looks gloos black, the engine is hard to tell. i want to make it all look good before i put it back together.<BR>tia,<BR>stephen||||reg||5
+Z||000001||TheFiero64||04-10-2000||11:29 AM||||The stock black is like a semi gloss black. The eastwood company <A HREF="http://www.eastwoodcompany.com" TARGET=_blank>www.eastwoodcompany.com</A>  sells a paint called underhood black. It is supposedly the OEM color for most manufacturers.||||reg||1

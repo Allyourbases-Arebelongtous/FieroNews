@@ -1,0 +1,6 @@
+A||N||4||SloPonti||i need a third brake light measurement!!-someone help me out!!||||5||
+Z||000000||SloPonti||03-20-2000||12:15 AM||||i am putting a gt third brake light in my 84 fiero coupe! i need someone to take down there third brake light and measure from the back glass to the edge of were the headliner is cut! also need a measurement from the drivers side plastic trim over to the side edges of the middle of the headlines! this will tell me were i need to cut the headliner so i can mount my new brakelight! also i need these by tomorrow night because i will be putting this on tuesday morning in class!<BR>thanks for helping me out!<BR>Rob||||reg||5
+Z||000001||Monkeyman||03-20-2000||10:17 AM||||If I get a chance, I'll do this today as I already have the headliner out of the car.||||reg||1
+Z||000002||SloPonti||03-20-2000||05:44 PM||||thanks monkeyman||||reg||10
+Z||000003||theogre||03-20-2000||09:13 PM||||I may be blind but it looks dead center in my 87.||||reg||1
+Z||000004||Monkeyman||03-20-2000||10:04 PM||||I can't find my measurements!  It's too late and too dark to go out and measure it again.  I'll re-measure it tomorrow and post it sometime tomorrow afternoon for you.||||reg||1

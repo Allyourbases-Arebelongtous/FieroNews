@@ -1,0 +1,3 @@
+A||||1||Cooter||How can I tell which 4 speed is which?||||5||
+Z||000000||Cooter||07-18-2000||08:53 PM||||I was out junk yardin' today and found an 84 with the 4 speed. How can I tell if it has the standard or performance gears? I dont need the tranny, but a couple of people here have asked about one and I would like to tell them for sure what the tranny is.||||reg||5
+Z||000001||Taijiguy||07-18-2000||09:00 PM||||This is about the most comprehensive listing of transmission information for the Fiero I've found. Check the option sticker for the code:<P> <A HREF="http://www.tg-2000.com/Fiero/tranny.html" TARGET=_blank>http://www.tg-2000.com/Fiero/tranny.html</A> ||||reg||1

@@ -1,0 +1,4 @@
+A||||2||fierobear||Tkerri - still taking pics?||||1||
+Z||000000||fierobear||07-18-2001||10:45 PM||||Are you still taking pics for your secret web site? I finally have one to contribute.||||reg||1
+Z||000001||DXR_DAD||07-18-2001||11:50 PM||||Can ya post em" here....so we all may see?? <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>DXR_DAD||||reg||6
+Z||000002||fierobear||07-19-2001||07:07 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by DXR_DAD:<BR><B>Can ya post em" here....so we all may see??  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>DXR_DAD</B><HR></BLOCKQUOTE><P>"TKerri" requested pix for a web site, but you could only access the web site if you sent in a picture. That person could not be convinced otherwise, so I'm playing along.||||reg||1

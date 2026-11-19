@@ -1,0 +1,9 @@
+A||||7||Johnson's85SE||Gas Milage||||5||
+Z||000000||Johnson's85SE||11-25-2000||03:31 AM||||I was just wondering if this was normal gas milage. It's a 4Spd Std without a CAT or an O2 Sensor. 250KMs  per full tank.<P>Cheers!<BR>Chris   <P>------------------<BR>If it isn't broke, it's not my car.||||reg||5
+Z||000001||Seanh||11-25-2000||10:25 AM||||That is pretty good milage. I would think you should have an O2 sensor though...But what do I know?<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/transsig.gif">  <BR><A HREF="http://www.kdsi.net/~sean" TARGET=_blank>Sean's Fiero Page</A><BR>Sean Heberly<BR>Silver 86 GT 2.8 Auto<BR>Going on to 3.4 in Jan.<BR><I>"If you smoke after sex, you're doing it way to fast".</I>||||reg||1
+Z||000002||maninblack||11-25-2000||02:19 PM||||I am almost the same for my v6, but if i dont alot of hwy, it will go up to 320km/tank||||reg||1
+Z||000003||doughboySE||11-25-2000||08:42 PM||||hey guys 250kms at 130km/hour hehehe<BR>or just over 320kms at normal driving speed <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>i have a cat and an 02 sensor||||reg||1
+Z||000004||bcibob670||11-25-2000||11:12 PM||||Damn I got to study the metric system more.!!<P>I get 29 hwy and 24 city  4cyl auto<P>------------------<BR>||||reg||1
+Z||000005||FIERO1985||11-26-2000||04:02 PM||||My fieros 2.8 is modified but I recieve about 12-13 mpg half-n-half city/hwy.<P>||||reg||1
+Z||000006||Old Lar||11-26-2000||04:34 PM||||With my 87 GT 5 speed, on the highway I get 300+ mile per tank (480 km).  30+ mpg.  It's been that way for the 13 years I've owned the car.||||reg||1
+Z||000007||Tom88gt||11-26-2000||08:31 PM||||Just got back from a 1500 mile trip to TX.  Low was 24 mpg high was 28 mpg.  All this at various speeds between 70s and 90s.  Brand new O2 sensor and oil change.||||reg||10

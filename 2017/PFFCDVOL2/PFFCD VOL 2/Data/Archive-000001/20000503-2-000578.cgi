@@ -1,0 +1,4 @@
+A||||2||Eric||injectors
+Z||000000||Eric||08-08-99||09:35 AM||||Should I replace my injectors oon my V6 when I do my rebuild or will the originals work?  I was looking through a Summit catalog and noticed ADS makes injectors for this engine.  They were about$360 for the set.  If I do need to replace them, I would just use the GM parts unless there is a big difference in performance.
+Z||000001||theogre||08-08-99||12:47 PM||||If your going to rebuild, I'd replace the injectors, and the rest of the plastic/rubber EFI parts. (Fuel regulator, etc.)<p>Are the ADS parts worth the price? I don't know what the stock ones cost. If it's close I'd say use the ADS. If ADS is allot more, then unless you are racing, I doubt they will make any diferance in either reliability, or performance.
+Z||000002||Eric||09-02-99||04:43 PM||||Can anybody who has replaced the original injectors in their V6 tell me what it costs?

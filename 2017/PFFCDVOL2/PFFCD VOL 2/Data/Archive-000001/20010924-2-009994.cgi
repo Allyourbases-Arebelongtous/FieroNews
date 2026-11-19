@@ -1,0 +1,3 @@
+A||||1||FieroBUZZ||Dash swap...Electronics????||||5||
+Z||000000||FieroBUZZ||04-27-2001||08:04 PM||||If the donor is a GM v6 car, will the instrument pod be usable with the Fiero sensors and such?  Or should I modify the new dash to include the Fiero pod?<BR>TIA<P>Gary||||reg||5
+Z||000001||Songman||04-27-2001||09:48 PM||||Good question... I am hoping everything will work. I am thinking of a 93 Firebird dash.. I was told it would work, now I just gotta find one I can afford and test it.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1

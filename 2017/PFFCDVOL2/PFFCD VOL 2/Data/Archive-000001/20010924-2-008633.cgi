@@ -1,0 +1,3 @@
+A||||1||lou_dias||Water soaked engine won't start||||1||
+Z||000000||lou_dias||02-26-2001||10:59 AM||||I drove my GT through a big puddle of water in the rain and the the engine stalled.<P>It cranks fine.  I hear the fuel pump. The symtpons are the same as a blown ignition module which I just replaced a month ago.<BR>I'll try replacing that this afternoon again.<P>Could it be anything else?  Just in case...||||reg||1
+Z||000001||deceler8||02-26-2001||11:30 AM||||Before you do that, check the inside of your dist. cap. If it got splashed, there may be water inside. Also check the boot ends that go into the cap to be sure they're dry.||||reg||1

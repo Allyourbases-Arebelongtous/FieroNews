@@ -1,0 +1,4 @@
+A||||2||GT Bastard||Anybody have production #'s for different colored '87 gt's?||||5||
+Z||000000||GT Bastard||02-04-2001||12:21 PM||||I'm curious how many Gold GT's were produced in '87...||||reg||5
+Z||000001||RossT||02-04-2001||09:50 PM||||4,119 total cars produced in gold in 1987.  I have an old FOCOA magazine that I think breaks it down further by type.  I will try and dig it out.||||reg||1
+Z||000002||RossT||02-04-2001||11:14 PM||||The article in FOCOA  was the 2-3 rd quater 1998.  5 pages of everything you wanted to know about the 1987 fiero, but no break down<BR>of colors for body type.  This was done for the 88's but not for the 87's???  So it would be a guess, but since 9% of all 1987's were gold you could estimate that 9% X 15,986gts=  about 1,400 gold gt's.  Anyone else have a better guess??<p>[This message has been edited by RossT (edited 02-04-2001).]||||reg||1

@@ -1,0 +1,4 @@
+A||N||2||burdell1||Burning oil||||1||
+Z||000000||burdell1||04-12-2000||03:34 PM||||My car has been running rough lately and had been burning a lot of oil...However, I think it is leaking out of the engine somewhere and on to the exhaust or something because it is smoking through my rear air vents. So much so that it leaves white marks on the glass....any ideas on what this could be? it is an '85 2.8L V6.||||reg||1
+Z||000001||deceler8||04-12-2000||04:59 PM||||Probably the ever popular distributor O-Ring and/or valve cover gaskets.<P>||||reg||1
+Z||000002||Standard||04-13-2000||01:30 AM||||I would have to guess that it's the valve cover gaskets.  I have a pretty bad leak from the o-ring, but it doesn't get anywhere near the manifolds.  <P>If it's leaking from the valve cover it's in the right place to drip right down onto the manifolds..||||reg||1

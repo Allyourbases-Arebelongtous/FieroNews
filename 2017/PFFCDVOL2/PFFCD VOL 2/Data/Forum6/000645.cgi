@@ -1,0 +1,2 @@
+A||N||0||Bandit2_0||Audio||||12||
+Z||000000||Bandit2_0||09-02-2000||10:04 PM||||I was just wondering if anybody is a member of Apex Audio.  It's an audio club where your supposed to pay around $20.00 to get this wholesale price catolog, which you can order equipment at wholesale prices, and the equipment will be shipped right to your door.  Thanks<P>Bandit<P>------------------<BR>He's the kind of guy that would drink a gallon of gas just so he could piss on your campfire.||||reg||12

@@ -1,0 +1,2 @@
+A||||0||phillip||tryin'||||1||
+Z||000000||phillip||06-24-2000||09:52 AM||||<BR>saw a fiero while on an errand from work. yellow with the frog eye head lights and an artero front end (which looks better than pictures, i may need to start scaping up some pennies). scibbled out a quick note about the forum and the louisville gathering. when i stuck it under his wiper i saw a for sale sign but the owner wasn't around. maybe he'll pop up here or at the gathering.||||reg||1

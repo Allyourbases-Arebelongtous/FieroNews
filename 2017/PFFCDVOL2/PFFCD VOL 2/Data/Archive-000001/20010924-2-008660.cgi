@@ -1,0 +1,4 @@
+A||N||2||fierocd||red hot mainfolds||||1||
+Z||000000||fierocd||02-27-2001||04:34 PM||||the other day I went out to start my 86se fiero (V-6)and let it run a little because it has been sitting, after about 3 minutes I got out and noticed that both manifolds were glowing red hot.  I think my EGR tube is messed up but I'm not sure if that would cause the problem.  Any help would be appreciated, Thanks.||||reg||1
+Z||000001||rogergarrison||02-27-2001||04:55 PM||||in the dark they might show a little glow especially around ports. If there very red, you do have a big vacume leak. It will make them eventually crack maybe catch fire. Ill bet its idleing too fast too.....right?||||reg||1
+Z||000002||fierocd||02-27-2001||07:51 PM||||yeah, it was ideling fast even before that.  I never noticed the manifolds before but when I saw them it was in the middle of the afternoon on a sunny day and they were glowing redder than my car.||||reg||1

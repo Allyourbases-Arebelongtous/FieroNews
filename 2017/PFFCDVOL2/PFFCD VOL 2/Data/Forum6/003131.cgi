@@ -1,0 +1,6 @@
+A||||4||rogergarrison||ON A LIGHTER NOTE:||||10||
+Z||000000||rogergarrison||08-26-2001||06:19 PM||||Watch the Premier of Leslie Nielsen movie at 8PM EDT on TBS. saw previews and it looks like a laugh fest. "Wrongfully Acused"<P>------------------<BR>         <IMG SRC="http://albums.photopoint.com/j/View?u=1234884&a=11878523&p=52990885"> ||||reg||10
+Z||000001||Urchin||08-26-2001||07:57 PM||||Hah!  Funny you mentioned that.  I was just about to watch that.  It does look like it should be funny.<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/side_cut_sig_4.jpg">  <BR>If you can read this, I'm parked.||||reg||1
+Z||000002||hugh||08-26-2001||08:12 PM||||Anything with him in it has got to be good.<BR>Does anyone remember when he played a bad guy all the time? ||||reg||1
+Z||000003||Formula88||08-26-2001||11:39 PM||||He also played the ship's Captain in The Poseidon Adventure back in the 70's.  He really looks funny (out of place) in a dramatic role after seeing him as Lt. Frank Dreben of Police Squad!||||reg||10
+Z||000004||rogergarrison||08-27-2001||12:16 AM||||watched both times, my stomach is sore from laughing so much. and its on again next saturday at 8pm.....I gotta see it again <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><p>[This message has been edited by rogergarrison (edited 08-27-2001).]||||reg||1

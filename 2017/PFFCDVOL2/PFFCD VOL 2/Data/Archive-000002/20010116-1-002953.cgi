@@ -1,0 +1,5 @@
+A||||3||BENGAL4||STORM DAMAGE||||1||
+Z||000000||BENGAL4||07-16-2000||12:23 PM||||We had a bad storm roar through Fairfield on Friday. Lots of trees fell down and we were without power for awhile. Luckily my house and cars were spared. Not so on my street. One neighbor lost his cherry Monte Carlo SS. Another tree chrashes into a 1st Gen MR2. I did have alot of cleanup in my yard however. Had to get the chainsaw out and cut some wood. I still need to finish up in the backyard. Anyone need some firewood?||||reg||1
+Z||000001||Monkeyman||07-16-2000||12:35 PM||||As long as you, Stormy and the girls are OK.  That's all that counts.  Cars can be replaced.  Friends can't.<P>------------------<BR>Dave-<BR>Grape Ape ('85GT)||||reg||1
+Z||000002||87ECO5||07-16-2000||03:19 PM||||What Dave said, Bill!  Glad you and the family are OK.  I don't need firewood but call me if you need help cleaning up.||||reg||1
+Z||000003||ChadMan||07-16-2000||06:41 PM||||Thank Heaven you and your family are safe, Bill.  (And thank Heaven your Fiero is safely in a shop hundreds of miles away being turned into a land-bound ballistic missile.)||||reg||1

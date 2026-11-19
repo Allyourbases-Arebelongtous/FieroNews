@@ -1,0 +1,7 @@
+A||||5||Bens88GT||How on earth do you get to the coolant temp sensor?||||1||
+Z||000000||Bens88GT||04-25-2000||06:37 PM||||I want to replace mine (on an 88GT), but the engine support frame and EGR solenoid are in the way (the sensor is underneath them). Does anyone know any tricks to get to it? Thanks!<P>-Ben||||reg||1
+Z||000001||terryk||04-25-2000||06:58 PM||||Huh? It's in the head by the coil.<P>Do you mean the fan switch?||||reg||1
+Z||000002||Bens88GT||04-25-2000||07:03 PM||||No, the one in the head by the coil is the  sensor for the temp guage on the dashboard. The one I want to replace is the ECM's coolant temp sensor, and it's located directly underneath the thermostat housing, on the side of the engine.||||reg||1
+Z||000003||sdm1964||04-25-2000||08:41 PM||||I have an 86 se, what is the one in the head? The one for the guage?||||reg||14
+Z||000004||terryk||04-25-2000||11:08 PM||||Oops, you're right. I changed a fan switch this weekend and have that on the brain. <P>You can get to it straight on from in front of the battery although you might need to move some of the harness out of the way. A socket is needed.||||reg||1
+Z||000005||Standard||04-26-2000||01:11 AM||||When I replaced mine, I just took the egr soleniod off. It's just 3 vacumm lines, one connector, and 1 10mm(i think) bolt to remove.  makes it a little easier to get to.  A deep socket with an extension will make it real easy. 13/16", i think.. been a few weeks.||||reg||1

@@ -1,0 +1,4 @@
+A||||2||Richard Parnell||86 for sale||||1||
+Z||000000||Richard Parnell||05-16-2000||02:06 PM||||Saw the first ad for a Fiero for sale this year heare in Hawaii.  It's an 86 w/5spd.  The guy says it sticks in 1st and reverse.  He wants $450 OBO.  I bet it just needs some hydraulic clutch work.  I'm tempted to buy it fix it and turn around and sell it for $1500.||||reg||1
+Z||000001||Cooter||05-16-2000||09:07 PM||||Richard- my 88 would not go into reverse and when it finally did, it got stuck. It was very low on oil and after it cooled and I filled it back up, it shifts great. May be worth a try.||||reg||1
+Z||000002||Richard Parnell||05-16-2000||09:53 PM||||Too late, I just called and it's sold already.  Someone else probably knew what was wrong also and could see a quick turnaround. Bummer!||||reg||9

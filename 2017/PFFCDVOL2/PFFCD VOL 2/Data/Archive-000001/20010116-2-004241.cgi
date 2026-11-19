@@ -1,0 +1,3 @@
+A||||1||FastbackGt||Ignition control module?||||1||
+Z||000000||FastbackGt||06-12-2000||12:54 AM||||I just installed a new pick up coil in my car (86 se v6)...ran great for a few minutes until it warmed up, then stalled. Did this over and over. I shouldve replaced the ignition control module but didnt. Could this be the reason? Fuel delivery is fine, all ignition components are new....car ran fine before...could the new pick up coil component cause the old module to die?||||reg||1
+Z||000001||TOM||06-12-2000||01:01 AM||||Or could be a bad pick up coil. Just because it was new does not mean it is good.||||reg||1

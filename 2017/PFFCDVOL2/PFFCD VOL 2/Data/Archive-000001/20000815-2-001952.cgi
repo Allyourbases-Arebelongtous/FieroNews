@@ -1,0 +1,3 @@
+A||||1||2FAST4U||Stranded - Need a part fast||||1||
+Z||000000||2FAST4U||01-11-2000||07:54 PM||||My poor GT is stranded far from home and I need a part to fix it and bring it home.<P>I need a rear transmission mount bracket to fit a 1985 GT V6 5-Speed. Not the Transmission mount but the bracket the bracket that the mount bolts to. Mine broke into 3 pieces. GM says it's an out of production part and I,ve searched all of the local junk yards today with no luck.<P>I'll pay for priority handling and overnight shipping if someone has this part for sale.<P>I'll also post this over on the mall..<P>Thanks Much<P>Joe<BR>2FAST4U||||reg||1
+Z||000001||Phil||01-11-2000||08:50 PM||||I don't have the part but I believe that the 85GT is a 4sp ||||reg||1

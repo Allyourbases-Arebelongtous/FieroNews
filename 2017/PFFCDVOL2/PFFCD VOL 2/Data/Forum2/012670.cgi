@@ -1,0 +1,3 @@
+A||||1||RedOktober||Largest available TB for 2.8?||||1||
+Z||000000||RedOktober||08-10-2001||12:22 PM||||Does anone know who has machined the largest TB for the 2.8. I understand there is someone boring them out from the stock 52mm to a 54mm, but what is the largest that some one has tried. <P>I need more air. and want the biggest available for the 3.4.<P><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/red6[1]a.jpg"> <BR>86 SE V6 Auto Turbo Going 3.4 OHV "Red Oktober"<BR>86 2M4 5sp (Beater) "Blackie"<BR>87 GT "Blue Flame"||||reg||1
+Z||000001||MinnGreenGT||08-10-2001||12:32 PM||||check this current thread:<P><A HREF="http://www.fiero.nl/forum/Forum2/HTML/012667.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/012667.html</A>||||reg||1

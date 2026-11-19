@@ -1,0 +1,7 @@
+A||||5||fiero_hunter85||85 GT pics ||||7||
+Z||000000||fiero_hunter85||09-17-2001||05:08 PM|||| <IMG SRC="http://www.fiero.nl/forum/frown.gif"> <p>[This message has been edited by fiero_hunter85 (edited 09-17-2001).]||||reg||7
+Z||000001||fiero_hunter85||09-17-2001||05:10 PM||||YIKES!!!! i have to figure out how to make them smaller.||||reg||1
+Z||000002||MinnGreenGT||09-17-2001||05:27 PM||||email them to me at: rob@xtralite.com and I'll shrink 'em!  <P>(suggestion: Try to make them 6" wide at 72 pixels per inch -or right around 432 pixels wide)<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/grngtsig3.jpg">   <IMG SRC="http://www.fiero.nl/uploads/halfpole.gif">  <BR>Medium Metallic Green 87 GT<BR>3.1L High Output<BR>4 Spd OD Tranny<BR>Open (read: Loud) Exhaust<BR>and More!<BR>-Rob Bartlett||||reg||1
+Z||000003||fiero_hunter85||09-17-2001||06:07 PM||||thanx mngreenGT.  if you cant do it then thanx for offering to shrink them.||||reg||1
+Z||000004||MinnGreenGT||09-18-2001||10:41 AM||||Fiero_Hunter... BTW: didn't notice before that your were from Minn! Welcome!  Your pics are "hunter85_1.jpg, hunter85_2.jpg, and hunter85_3.jpg" in the "http://www.fiero.nl/uploads/" directory.<P> <IMG SRC="http://www.fiero.nl/uploads/hunter85_1.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/hunter85_2.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/hunter85_3.jpg"> ||||reg||1
+Z||000005||85ZainoGT||09-18-2001||04:40 PM||||nice car, I got same model and color!!||||reg||1

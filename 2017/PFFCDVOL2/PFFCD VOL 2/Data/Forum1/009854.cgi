@@ -1,0 +1,3 @@
+A||||1||Wild_86_Custom||Michigan Pontiac Show?||||1||
+Z||000000||Wild_86_Custom||08-27-2001||08:43 PM||||Is anyone going to the Bob Sellers car show in michigan? If so I need to find out when the date is. I think it is the third sat. in sept.<BR>                          Thanks Kurtis||||reg||1
+Z||000001||TWEETIE BIRD||08-27-2001||10:23 PM||||Bob Sellers 13th Annual Indian Summer ALL <BR>Pontiac Show. Sunday Sept 16th, 2001 Registration 8 am. Participant voting until 1 pm, Awards at 3pm. Pre Registration deadline Sept 12th. $10.00 pre registration $15.00 after Sept 12th. <P>Contact Keith Wilson<BR>Or  <BR>        Karen Wood &lt;info@bobsellers.com&gt;<P>38000 Grand River Ave. <BR>Farmington Hills, Mich. 48335<P>Phone 248-478-8000<BR>||||reg||10

@@ -1,0 +1,6 @@
+A||N||4||BlackDragon||missile racks on a fiero?||||1||
+Z||000000||BlackDragon||09-11-2001||07:25 PM||||think it would work???  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> <P><BR>trying to lighten the spirits a little<P>------------------<BR>WTB:cheap fastback standard. can be ugly, doesn't have to have engine.<P>looking for computer parts, wholesale? cpu built to order? email me||||reg||1
+Z||000001||Denny||09-11-2001||08:51 PM||||Wish I knew what caused occasional double posts. This is the 2nd time this has happened to me.<p>[This message has been edited by Denny (edited 09-11-2001).]||||reg||12
+Z||000002||Denny||09-11-2001||08:51 PM||||Nah, missile launch would probably set the car on fire, or at least melt it down.<p>[This message has been edited by Denny (edited 10-03-2001).]||||reg||12
+Z||000003||Fformula88||09-11-2001||09:53 PM||||I'll try it!  Only if it worked against all tasteless stickered up Honda's running around!!   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Spirits sure need some humor right now!||||reg||1
+Z||000004||Hank is Here||09-11-2001||10:04 PM||||I seriously almost bought one for one of my jeeps a few years ago, an M38A1D--Davey Crocket Missile Launcher.  I have seen a few M151 jeeps with a 106mm recoilless cannon on them.   ||||reg||1

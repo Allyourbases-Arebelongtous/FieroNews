@@ -1,0 +1,7 @@
+A||||5||voyagerspe||computers can I swap an 87 or 88 to a 85?||||5||
+Z||000000||voyagerspe||06-10-2001||12:24 AM||||Ive got an 85 gt and I suspect the computer is begining to fail. Can I swap the computer out of my 87 gt or 88 formula?<P>||||reg||5
+Z||000001||Predator||06-10-2001||09:01 AM||||Please someone correct me if I am wrong here, but I think all are swapable if you have the same trans and engine. manual for manual, v6 for v6. The only difference I know of is the 85 had a provision for a knock sensor which I use.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Fiero4_1.jpg"> ||||reg||1
+Z||000002||Indiana_resto_guy||06-10-2001||09:29 AM||||Check the numbers on the ECM's (starts with 122-..) if they are the same number. It will not matter if one is for an automatic and the other is a manual, just change the prom (located behind the removable plate)||||reg||1
+Z||000003||Monkeyman||06-10-2001||09:29 AM||||Won't the '85 computer make the engine run stronger?<P>MM||||reg||1
+Z||000004||hyhy4u||06-11-2001||11:50 PM||||I dont think you can, theres always something GM changes from year to year on any car, but hey throw it in there and find out..||||reg||10
+Z||000005||Indiana_resto_guy||06-11-2001||11:56 PM||||MM,<P>It has been said that the chip for the '85's helped the engine produce more H.P. but I'm not sure. That's only what I have heard. Perhaps shortly I can compare and see when I get an '85 GT on the road. Still it will be sort of hard 4-speed vrs. 5-speed, if you know what I mean!||||reg||1

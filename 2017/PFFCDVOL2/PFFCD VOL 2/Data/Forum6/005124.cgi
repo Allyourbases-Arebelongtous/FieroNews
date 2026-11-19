@@ -1,0 +1,3 @@
+A||||1||JohnnyK||Sigh.. work.. :)||||1||
+Z||000000||JohnnyK||12-31-2001||03:40 PM||||Man, I missed work on saturday because I was "busy" friday night, and I forgot to call in (well, I did at 12), so I get to work today and there is a note saying "If John shows up, send him home for a year"&gt;. I don't like the sound of that..  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000001||4BanGinFun||12-31-2001||04:23 PM||||maybe its for the rest of this year... id be hopeing thats what it ment <P>------------------<BR>85 se 2m4 5spd white<P>  <A HREF="http://www.angelfire.com/super/camaro0/<BR>" TARGET=_blank>www.angelfire.com/super/camaro0/<BR></A>   <IMG SRC="http://www.fiero.nl/uploads/minifiero1.gif">   <BR>far future plans.||||reg||1

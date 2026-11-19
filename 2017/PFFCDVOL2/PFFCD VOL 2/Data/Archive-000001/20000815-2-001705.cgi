@@ -1,0 +1,2 @@
+A||||0||Eric Marsh||18 Inch Rear Wheels?||||1||
+Z||000000||Eric Marsh||12-15-1999||01:19 PM||||I've got my suspension all together on my '88 GT and I only seem to have a little less than 2 inches of ground clearance on my exhaust. Whoops! Looks like I need to get the car up a little bit in the back. <P>I'm thinking of trying something like a 45 profile tire on an 18 inch wheel in the back. Does anyone know of a wheel that will work?<P>Eric||||reg||1

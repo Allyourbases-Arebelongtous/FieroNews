@@ -1,0 +1,5 @@
+A||||3||lennyb4||Mounting Question||||5||
+Z||000000||lennyb4||05-10-2000||03:40 PM||||I havent had a chance to pull off my quarter yet (of course pass. side), but i was wondering if there is enough room in there to mount a power ant? I know theres alot of different aftermarket types out there. I just put one on my wifes MG and i think it would be nice to have one on my fiero. What do you guys think?||||reg||5
+Z||000001||theogre||05-10-2000||10:23 PM||||I've heard of it being done. As you already can guess, it's tight in there. It will depend alot on your choice of antena. ||||reg||1
+Z||000002||Monkeyman||05-11-2000||09:27 AM||||I know that they make some that are meant for tight spaces.  I believe the motor is separate from the mast.  Check JCWhitney.  I'm pretty sure that's where I saw it.  If you find anything, let us know as I'd like to do the same thing myself.  I'm not sure how to plug the hole in the front, though.||||reg||1
+Z||000003||lennyb4||05-11-2000||09:42 AM||||Plug the hole in the front? I was actually planning on mounting it in the stock location, BUT since you mentioned it i wonder what it would look like on the rear...hummmm.||||reg||11

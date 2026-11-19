@@ -1,0 +1,2 @@
+A||||0||FieroMike||'88 Formula for SALE||||4||
+Z||000000||FieroMike||03-26-2001||04:11 PM||||For those that are interested the bid stops in 19 hours.  It's already met it's reserve and it's only $1,900...<BR> <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=571869051" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=571869051</A> <P>Good Luck!<P>Mike||||reg||4

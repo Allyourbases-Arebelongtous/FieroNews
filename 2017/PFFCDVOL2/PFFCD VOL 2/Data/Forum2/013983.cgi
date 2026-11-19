@@ -1,0 +1,12 @@
+A||N||10||Jake_Dragon||1G2PG3792FP272392||||1||
+Z||000000||Jake_Dragon||09-27-2001||06:04 PM|||| <IMG SRC="http://www.fiero.nl/forum/smiley_dizzy.gif"> <BR>Can someone run this vin for me?<BR>1G2PG3792FP272392<P>------------------<BR><A HREF="http://web.tampabay.rr.com/jakedragon" TARGET=_blank>          <IMG SRC="http://www.fiero.nl/uploads/logo.gif">          </A>   <IMG SRC="http://www.fiero.nl/uploads/fullstaff.gif"> ||||reg||1
+Z||000001||JetroGT||09-27-2001||06:07 PM|||| <A HREF="http://www.nytmare.org/fiero/vin/decoder.htm" TARGET=_blank>http://www.nytmare.org/fiero/vin/decoder.htm</A> <P>This is good.<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/NewSigt.jpg">  <BR>I work where all the missing paperclips go.<BR>Wanted: 86/87 Red GT, auto, pw, pl, pm, rear defrost,pt, Gray int, Spoiler. May be willing to trade the blue car.||||reg||10
+Z||000002||JetroGT||09-27-2001||06:09 PM|||| Oops..<p>[This message has been edited by JetroGT (edited 09-27-2001).]||||reg||10
+Z||000003||Jake_Dragon||09-27-2001||07:29 PM||||<B><BR>Can someone run this vin for me?<BR>1G2PG3792FP272392<BR></B> <BR> <IMG SRC="http://www.fiero.nl/forum/smiley_drunk.gif"> <BR>I was hoping for a Car Fax<P>I am thinking of buying it and want to get all the info I can.<BR>||||reg||1
+Z||000004||terryk||09-27-2001||10:11 PM|||| <A HREF="http://www.carfax.com" TARGET=_blank>www.carfax.com</A> ||||reg||1
+Z||000005||JSocha||09-28-2001||12:17 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>www.carfax.com<HR></BLOCKQUOTE><BR>DOH!<P>I wonder why he didn't think of that?<P>Sorry!  I couldn't resist!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> ||||reg||10
+Z||000006||terryk||09-28-2001||12:25 AM||||How do you think we run Carfax's?||||reg||1
+Z||000007||Jake_Dragon||09-28-2001||06:38 AM||||Thanks, if I have to pay I will.<BR> <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif"> <BR>Never mind.<P>||||reg||1
+Z||000008||truxpin||09-28-2001||08:37 AM||||jake, <P>check your private messages.<BR>Todd||||reg||1
+Z||000009||Jake_Dragon||09-28-2001||02:05 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by truxpin:<BR><B>jake, <P>check your private messages.<BR>Todd</B><HR></BLOCKQUOTE><P>sent, thanks.||||reg||1
+Z||000010||Jake_Dragon||09-29-2001||10:29 PM||||<B>Here it is! I will be picking it up next Saturday!</B> <IMG SRC="http://www.fiero.nl/uploads/side_18.jpg"> <P>||||reg||1

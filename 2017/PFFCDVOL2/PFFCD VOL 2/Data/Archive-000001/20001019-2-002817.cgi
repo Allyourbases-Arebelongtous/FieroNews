@@ -1,0 +1,6 @@
+A||||4||Rodney||Strut tower insulation||||1||
+Z||000000||Rodney||03-21-2000||11:49 AM||||I have a lead on getting the strut tower insulation reproduced from the original manufacturer from the original molds. Most likely the same material. Probably likely I will be able to get the front firewall piece also. If it happens it will be a while. Not sure yet but it looks promising. Stay tuned!<P>Rodney Dickman||||reg||1
+Z||000001||Monkeyman||03-21-2000||11:56 AM||||How long and how much???||||reg||1
+Z||000002||Rodney||03-21-2000||12:48 PM||||Not sure how long. Maybe by the fall?<P>Have no idea on price untill it is all said and done.<P>Rodney Dickman<BR>||||reg||1
+Z||000003||Monkeyman||03-21-2000||07:23 PM||||what about something other than black?  Would different colors drive the cost up much?  There have been some members who have wondered about painting the inside of the engine bay other colors.  I was thinking purple would be a nice color.  (What other color could I put in the Grape Ape??? <IMG SRC="http://www.fiero.nl/forum/smile.gif">)||||reg||1
+Z||000004||theogre||03-21-2000||07:45 PM||||I don't care so much about the strut towers, but the fire wall is a must have. Can't do w/o it even it if looks like hell.<P>Was that e-mail I sent useable for the tensioning arm? ||||reg||1

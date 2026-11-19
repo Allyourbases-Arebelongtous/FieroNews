@@ -1,0 +1,5 @@
+A||N||3||bilbo||Need advice on selling car.....86 SE 44,000miles!||||12||
+Z||000000||bilbo||03-27-2001||06:23 PM||||Figured I'd ask the forum members cause you guy's deal with mostly fiero's and nobody's steered me wrong yet.I have an 86 SE red,with 44,000 original miles,loaded except for sub system and power seats.Interior is an 8.5/10.It has a wing,sunroof and new hood vents.Needs an exhaust manifold gasket but I have ported exhaust manifolds that will be going on it.I'm looking to sell it.You guy's know what I can get for it.Any input will be appreciated.Thanks Guy's!!!!!!!!!!!||||reg||12
+Z||000001||bilbo||03-27-2001||06:28 PM||||It's a 6 cylinder and run's perfect.||||reg||1
+Z||000002||Oreif||03-27-2001||09:45 PM||||It's probably worth about $3000 as an estimate, maybe more. I have seen low mileage SE's go as high as $4000. As per the Fiero Price Guide for 2001 it lists out at $3225.00. But if you really want to sell it fast, I'll buy it for $500.00  <IMG SRC="http://www.fiero.nl/forum/wink.gif">  (j/k)||||reg||1
+Z||000003||ChadMan||03-27-2001||10:11 PM||||4-sp or auto?  How's the paint?||||reg||5

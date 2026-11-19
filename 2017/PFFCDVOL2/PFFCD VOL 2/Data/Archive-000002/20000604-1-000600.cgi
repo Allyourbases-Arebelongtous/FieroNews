@@ -1,0 +1,9 @@
+A||N||7||chris6878||Is the 85 GT a rare fiero????||||5
+Z||000000||chris6878||11-24-1999||10:23 PM||||?||||reg||5
+Z||000001||87GT||11-24-1999||10:48 PM||||There were more GTs in 85 produced than in any other Model GT year.  I find it rare to find a 85GT that isnt all beat up and ugly.  I have seen a couple nice ones.||||reg||1
+Z||000002||87GT||11-24-1999||11:01 PM||||You know, I got to thinking about your question.  Eventhough there were more 85GTs produced than any others, it may eventually evolve into becoming rare.  The reason I say this is that because a lot of people try there best to get ahold of one of the fastback GTs and keep them beautiful,wonderful, and awesome(you get the idea).  Because the 85GT is a notchback, it normally will not get much demand for it.  I hope this makes sence. 8-D||||reg||1
+Z||000003||88 Fiero||11-25-1999||10:40 AM||||The '85GT will be a rare model and unique too... Even if Pontiac produce so much of these GT's than the later models...This are the first GT that came out with a V6 engine.. And I think they look great... I've seen '85GT's in excellent shape both inside and out....||||reg||1
+Z||000004||mshill||11-25-1999||04:30 PM||||I have an 86 SE V6 and cannot tell the difference between it and the 85GTs that I have seen.  If they are identicle why would it be any more rare, especially if it is just the name and not the equipment.<BR>||||reg||1
+Z||000005||chris6878||11-25-1999||06:37 PM||||the 86 SE (and the 87 SE I think) was made like the 85 gt...  and the gt's where all fastbacks after 85...      correct me if i am wrong...<P>chris||||reg||1
+Z||000006||TOM||11-25-1999||09:45 PM||||The fastback as people like to call it came out half way thru the 86 model year. So there are 86GT's with the notch.||||reg||1
+Z||000007||88 Fiero||11-26-1999||01:45 AM||||and TOM is right...half of the GT's built in '86 were GT's notchbacks....||||reg||1

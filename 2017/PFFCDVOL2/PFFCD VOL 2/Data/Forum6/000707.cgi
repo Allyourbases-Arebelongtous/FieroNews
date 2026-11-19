@@ -1,0 +1,13 @@
+A||||11||Gold-86SE||Signature Test, which do you guys like?||||1||
+Z||000000||Gold-86SE||09-21-2000||11:02 AM||||<BR>I am going to post two images, which do you prefer.<P> <IMG SRC="http://www.fiero.nl/uploads/signature-a.JPG"> <P> <IMG SRC="http://www.fiero.nl/uploads/signature-b.JPG"> <P>This is for my signature, and yes I like the orange from HugGRRR's Fiero so I stole a theme.<P>Yet, I like the way it makes the Gold stand out.  (imitating Wayne from WW)<BR><P>------------------<BR>Gold-86SE - Fiero Collector||||reg||1
+Z||000001||HugGRRRFiero||09-21-2000||11:21 AM||||&lt;takes a bite of red rope licorice&gt;<P>Umm... ah..  they both look good, but I like the first one  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||14
+Z||000002||whamel||09-21-2000||01:33 PM||||I like the top one..but it's close.  I think I might like the bottom one a little more if the 'Fiero Collector' was on one line instead of at the top and bottom - like move the car up a bit and put it all at the bottom instead of splitting it.  Just my opinion, but they both look pretty good.||||reg||1
+Z||000003||Monkeyman||09-21-2000||07:48 PM||||Top one for sure.  IMHO, anyone who purposely buys a 12-15 year old car (other than a winter beater) is a collector. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000004||loafer87gt||08-06-2001||09:46 PM||||hmmm<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sig_11.jpg"> ||||reg||1
+Z||000005||loafer87gt||08-06-2001||09:46 PM||||yep, that worked<BR>||||reg||1
+Z||000006||loafer87gt||08-06-2001||09:48 PM||||test<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/sig_11.jpg">  <P>87 Pontiac Fiero GT<BR>72 Volkswagon Van||||reg||1
+Z||000007||loafer87gt||08-06-2001||09:53 PM||||yadda yadda<BR>||||reg||1
+Z||000008||loafer87gt||08-06-2001||09:53 PM||||yadda yadda<BR><P>------------------<BR>----------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/sig_11.jpg">    <BR>87 Pontiac Fiero GT<BR>72 Volkswagon Van<P>"Hard work has a future<BR>payoff.  Laziness pays off now"||||reg||1
+Z||000009||loafer87gt||08-06-2001||09:56 PM||||test<p>[This message has been edited by loafer87gt (edited 08-06-2001).]||||reg||1
+Z||000010||loafer87gt||08-06-2001||09:58 PM||||grrr<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sig_11.jpg">     <BR>[size=1]87 Pontiac Fiero GT<BR>72 Volkswagon Van<P>"Hard work has a future<BR>payoff.  Laziness pays off now"[/size=1]||||reg||1
+Z||000011||loafer87gt||08-06-2001||09:59 PM||||does UBB work in the sig?<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/sig_11.jpg">      <BR><FONT SIZE="1">87 Pontiac Fiero GT<BR>72 Volkswagon Van<P>"Hard work has a future<BR>payoff.  Laziness pays off now"</FONT>||||reg||1

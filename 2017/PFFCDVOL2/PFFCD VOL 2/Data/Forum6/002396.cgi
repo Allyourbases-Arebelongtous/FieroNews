@@ -1,0 +1,9 @@
+A||||7||Loki||front page 98||||1||
+Z||000000||Loki||06-21-2001||11:25 PM||||Anyone got a copy? FP2K isnt worth crap now, Starting to wonder if Win2k is worth crap...<BR><P>------------------<BR>Loki<BR>ICQ# 16477998||||reg||1
+Z||000001||Songman||06-22-2001||12:16 AM||||Did you try GoLive? It is all I will use now.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1
+Z||000002||Galen||06-22-2001||01:28 AM||||I personally enjoy FP2k... FP98 tries to control you too much. FP2k is doing that now.. a lil. wonder if 2k2 is any better<P>------------------<BR>  <IMG SRC="http://www.webjolt.f2s.com/pictures/kid.gif">         <BR>1988 Hawaiin Orchid Coupe  <BR>AIM: GalenRPG||||reg||1
+Z||000003||84Bill||06-22-2001||11:30 AM||||How about visual studio?||||reg||1
+Z||000004||Loki||06-22-2001||06:19 PM||||As long as its drag and drop..I dont know HTML for crap....Thats why I like FP2K  but its going wacko on me<P><P>------------------<BR>Loki<BR>ICQ# 16477998||||reg||1
+Z||000005||Songman||06-22-2001||09:47 PM||||Get GoLive 5.... You can edit html in it, but it is drag-n-drop.. to a point anyway.. you have two main windows that control everything...<P>I think you know where to get it. And I'll be glad to offer assistance if you need it.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||6
+Z||000006||Loki||06-22-2001||11:51 PM||||On Hotline?  Under what? I dont see it<BR><P>------------------<BR>Loki<BR>ICQ# 16477998||||reg||1
+Z||000007||Loki||06-22-2001||11:51 PM||||Never mind..Feel stupid  LOL  Thanx Songman<P><P>------------------<BR>Loki<BR>ICQ# 16477998||||reg||1

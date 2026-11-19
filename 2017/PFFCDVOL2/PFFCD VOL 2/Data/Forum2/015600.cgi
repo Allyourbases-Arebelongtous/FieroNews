@@ -1,0 +1,4 @@
+A||||2||sprnt96||inner trunk lid decals||||1||
+Z||000000||sprnt96||11-19-2001||07:35 PM||||Does anyone know if a person can still get the 6cyl/4cyl GM decals that are inside the engine lids?? I have a 4 cyl that I put a V-6 deck lid on and would like to make it look a little more original||||reg||1
+Z||000001||T-top Fiero||11-19-2001||07:55 PM||||I bought one a few months ago from my local Pontiac dealer. I have an '84 that I put a decklid from an '87 on. The decal for the 84's wasn't available any more so I got one for an '85 4 cylinder.<P>Pat<BR>||||reg||1
+Z||000002||stimpy||11-19-2001||09:09 PM||||For real authenticity, make sure you have a couple of beers first to get it on at the right angle.(see pic) Every Fiero I have ever seen has that whacked out screwed up angle on the placement.<BR> <IMG SRC="http://pip.pennock.nl/uploads/pffengine2.jpg"> ||||reg||1

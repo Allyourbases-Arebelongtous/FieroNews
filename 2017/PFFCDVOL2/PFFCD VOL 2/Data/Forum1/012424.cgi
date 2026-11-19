@@ -1,0 +1,3 @@
+A||N||1||Toogy||Another stupid tire question||||5||
+Z||000000||Toogy||12-03-2001||11:03 PM||||What ill effects would their be if I run two different brands of tires?  I would most likely be running Toyo Proxy FZ4's on the front (225/50R15) and Dunlop SP 8000's on the rear (245/50R15).  Will this effect my handling at all?<P>------------------<BR><B>Soon to be: 1987 GT 5-speed</B>||||reg||5
+Z||000001||WampusCat||12-03-2001||11:15 PM||||Yes.  Wether the effect is a good one or a bad one can only be determined by driving it(hard.)  You're better off than me.  I have Michelin Pilots on the rear and Walmart specials on the front.  Is it optimal for great handling? no.  Is it safe and still better than most cars on the road? Yes.||||reg||1

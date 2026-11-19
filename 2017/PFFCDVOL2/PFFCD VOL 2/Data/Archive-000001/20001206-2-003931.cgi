@@ -1,0 +1,3 @@
+A||||1||FIEROCIOUS||SO DID I MISS ANYTHING WHILE I WAS OUT?||||12||
+Z||000000||FIEROCIOUS||05-25-2000||02:15 AM||||Wow, I think you all covered it. <P>MWBACKUS looks like I was right and you were wrong? <P>That's not what it's about. it's about fun.<BR>I hope you have no hard feelings and if we do meet one day I will have a hand out- streched for a handshake.<P>I'll be the twenty year old with spikey hair earings and striking resemblance to Ricky Martin. (twins)<P>-Forgiveness <BR>||||reg||12
+Z||000002||Oreif||05-25-2000||02:41 PM||||I responded to your thread on the Sprint Manifolds a few days ago. It appears you found the threads dealing with the EPA issues. Other than that it's been normal.||||reg||1

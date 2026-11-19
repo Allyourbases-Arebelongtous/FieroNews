@@ -1,0 +1,4 @@
+A||||2||Dave85||Will this work?
+Z||000000||Dave85||08-28-99||05:23 PM||||All this talk lately about doing the 3.1 thing has got me thinking. Could you use the 3.1 crank in combination with the 3.4 heads? What kind of cam?<br> Dave
+Z||000001||batboy||08-28-99||07:48 PM||||Yes, you can use the 3.4 cast iron heads, in fact some of the high performance Camaro 3.4 heads have bigger exhaust valves that breathe a little better. <p>For a computer controlled engine, the GM Hipo cam or the Crane CompuCam is about the biggest performance cam you can use.<p>If you use the 3.1 crank, you must use 3.1 pistons too and a neutrally balanced flywheel like out of a 88 Fiero.
+Z||000002||Dave85||08-28-99||08:34 PM||||What kind of HP do you think this will make? What's a good price for 3.4 heads? I found some used for $175 a pair. Rebuilt they want $375 each. Should I keep looking? <br>Thanks, Dave<p>

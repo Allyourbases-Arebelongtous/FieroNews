@@ -1,0 +1,3 @@
+A||||1||JohnnyK||Hmm.. bumbling, stumbling problem?||||1||
+Z||000000||JohnnyK||06-23-2001||12:56 PM||||It seems when my 4 cyl (5 spd) is cold, and I fire it up for the first time in the day, it is really stumbling. It doesn't really want to rev, and there is no power (and you can really feel it shaking) but if I let it idle for a few minutes and then go, she's fine. It had a recent tune up, etc... any ideas?||||reg||1
+Z||000001||Seanh||06-23-2001||01:22 PM||||Beats me, but my 82 Camaro w/305 Crossfire engine does the exact same thing. So I'd like to know what you find out with your car to maybe aid in finding my problem. I think my biggest problem is keeping the Crossfire system on there, but I think its great, when it works right.||||reg||1

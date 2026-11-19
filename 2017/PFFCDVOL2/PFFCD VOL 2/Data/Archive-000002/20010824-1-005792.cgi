@@ -1,0 +1,4 @@
+A||N||2||DaRkLoRD||ATTN: Scott Haas||||4||
+Z||000000||DaRkLoRD||02-15-2001||06:29 PM||||I need you to email me your address so I can send your money order..<P>thanks!<P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||4
+Z||000001||87ECO5||02-17-2001||03:43 PM||||Sorry for the delay, Steve.  I just got back from dropping my car off at The Fiero Factory in Toney, Alabama.<P>Email on its way to the email address in your profile.||||reg||14
+Z||000002||DaRkLoRD||02-17-2001||04:04 PM||||Got the email, you'll have mail sometime next week.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||14

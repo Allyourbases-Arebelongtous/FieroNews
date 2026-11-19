@@ -1,0 +1,6 @@
+A||||4||Loki||Hey Cliff||||1||
+Z||000000||Loki||12-17-2000||07:09 PM||||  Im working on getting PiP to work and when I get the image I want and goto post it I get this error "Unknown Error (87)"  Wont let me post anyhitng..<P>Loki||||reg||1
+Z||000001||Cliff Pennock||12-17-2000||07:55 PM||||So you click on "Post It" and then it gives the error immediately? Or do you get any other windows first (like the upload window)?||||reg||1
+Z||000002||Loki||12-17-2000||08:06 PM||||Immediate....Ive already re-installed..Just wondering..||||reg||1
+Z||000003||88formula||12-17-2000||08:35 PM||||When you first start up PIP there will be a part under image information that says, "Image will be posted on". In that window will be the HTML "http://www.fiero.nl/uploads". Right click on that HTML and copy it but do not paste it anywhere. After you do that go on to posting a picture like you usually would by selecting an image, pressing "post it", pressing "OK", and then "control V" in the post. This is what I have to do to make the program work for me. I know it sounds strange but my computer is strange and it might work for you.<P>Try it.<BR>||||reg||1
+Z||000004||Loki||12-17-2000||08:36 PM||||I got it to post..But not using PiP.....Thanx anyway<P>Loki||||reg||1

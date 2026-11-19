@@ -1,0 +1,3 @@
+A||||1||85ZainoGT||2.8 to 3.8||||5||
+Z||000000||85ZainoGT||08-14-2001||10:44 AM||||If I were to change my engine from the 2.8 to 3.8, what all would I have to change out?||||reg||5
+Z||000001||KRMFiero||08-14-2001||10:56 AM||||If i were you i would go 3800 not the older regular 3.8, try to get a 3800 Supercharged (205 hp n/a), we need more information, is your car auto or stick? if its auto get the OD trans from the car you get your engine from so you dont need to modify the flywheel and stuff. you will need engine mounts, trans mounts, exaust, everything pretty much and the worst thing is to convert the wiring harness<P>Kyle<P>West Coast Fiero sells a 3800 kit, alot of Fiero engine swap comanys sell a kit...||||reg||1

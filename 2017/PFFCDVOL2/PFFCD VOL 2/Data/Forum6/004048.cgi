@@ -1,0 +1,6 @@
+A||N||4||danny boy||Jesus and Mary Chain||||4||
+Z||000000||danny boy||11-01-2001||10:15 PM|||| HELP!!!!<P>I lost my favorite Mary Chain CD and I can't find it in stores or online anywhere!!!<P>If someone has a copy of Honey's Dead I will buy it or I will pay you to burn it for me!!!<P>I can only listen to Barbed wire Kisses so many times <IMG SRC="http://www.fiero.nl/forum/frown.gif"> <P>||||reg||4
+Z||000001||fierospeeder||11-01-2001||10:55 PM||||try ebay?||||reg||1
+Z||000002||Devotshka||11-01-2001||11:59 PM||||Gee, and I lost my copy of Barbed-Wire Kisses  <IMG SRC="http://www.fiero.nl/forum/frown.gif">||||reg||10
+Z||000003||danny boy||11-02-2001||06:21 PM||||I'll send you BWK if you have Honey's.||||reg||7
+Z||000004||Devotshka||11-02-2001||09:10 PM||||Sorry, I have no idea where any of my CDs went... lost in a move at some point I guess... I found a cassette of 'Automatic' though  <IMG SRC="http://www.fiero.nl/forum/tongue.gif"> I wonder when i bought that thing?!<BR>Seriously though, check this link, it ends tomorrow <A HREF="http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=1479408347" TARGET=_blank>http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=1479408347</A> <BR>Good luck in your search.<P>Edited for fat fingers.<p>[This message has been edited by Devotshka (edited 11-02-2001).]||||reg||1

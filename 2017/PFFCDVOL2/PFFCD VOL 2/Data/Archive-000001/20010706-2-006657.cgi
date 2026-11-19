@@ -1,0 +1,7 @@
+A||N||5||robertjay||Side Window Removal||||5||
+Z||000000||robertjay||11-07-2000||10:37 PM||||I have an 85 GT.<P>Has anyone ever removed the side windows?  Those rivets look brutal!  If anyone has some good ideas to remove the rivets, I am all ears.  I am afraid if I use a drill, I'll probably slip and go right through the glass.<P>Also, any tips on removing the screws that hold the outer door skins on?  The first few I tried were real hard to turn, and they don't come out, they just sit and spin.<P>TIA<BR>Robert||||reg||5
+Z||000001||fiero56||11-07-2000||11:14 PM||||I used a pair of pliars to remove the door skin bolts. To remove the rivets, drill from the back, you will see three strips and the center will be very easy to drill out.||||reg||1
+Z||000002||robertjay||11-07-2000||11:44 PM||||Cool, thanks for the info!||||reg||10
+Z||000003||Indiana_resto_guy||11-07-2000||11:56 PM||||What rivits?||||reg||1
+Z||000004||robertjay||11-08-2000||12:02 AM||||On my 85, the window regulator and some of the components inside of the door are secured with big a$$ aluminum rivets with steel mandrels.  Pontiac actually used them to secure the regulator track to the window and the window stops to the window also.  Don't know what they were thinking there.||||reg||1
+Z||000005||fiero56||11-08-2000||12:17 AM||||You don't need to remove the tracks rivited to the glass to remove the swing arms. There are "holes" in the tracks to allow removal of the arms without taking the track off the glass and door.||||reg||1

@@ -1,0 +1,7 @@
+A||||5||Ken Wittlief||Knowledge is power||||1||
+Z||000000||Ken Wittlief||04-26-2001||01:35 PM||||lets see, Knowledge = Power<BR>and<BR>Time = Money<P>Power = Work / Time  (more power =&gt; more work done in less time)<P>subsitiuting knowledge: Knowledge = Work / Time<P>subsitiutin Money: Knowledge = Work / Money<P>multiply by Money: K * M = W<P>divide by Knowledge: Money = Work / Knowledge!<P>proving that the less you know, the more money you make!||||reg||1
+Z||000001||LPR||04-26-2001||01:41 PM||||Wow, everything makes perfect sense now!<P>....I think......<P>good one! <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||12
+Z||000002||hugh||04-26-2001||07:52 PM||||HUH!||||reg||1
+Z||000003||Ken Wittlief||04-30-2001||09:56 AM||||Money = work / knowledge<P>put some numbers in the equation. if you know 10 things and you work for 10 hours you get:<P> 10 / 10 = 1 dollar<P>but if you only know 1 thing you get:<P>10 / 1 = 10 dollars!<P>  or the less you know the more you get paid!||||reg||1
+Z||000004||JSocha||04-30-2001||10:27 AM||||Either you have way too much time on your hands or you are an out of job mathmatician who shouldn't be driving a Fiero if you've done the math  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/jnjsochasig.jpg"> ||||reg||1
+Z||000005||Ken Wittlief||04-30-2001||10:33 AM||||I wish that were true, cause like I said, Time = money!||||reg||1

@@ -1,0 +1,5 @@
+A||N||3||turbo86se||Wandering Fiero||||5||
+Z||000000||turbo86se||04-03-2000||11:58 AM||||<BR>Hey guys, I have a small complaint about my 86SE. I recently lowered it with ST springs and aligned (4-wheel). Now, the steering wheel is not centered, and the car tends to wander when driving, and after lane-changing. Should I take it back to the place I got the alignment from and have them re-check it? I think I will tomorrow. I did not replace the ball joints, if that matters!<BR>TIA!             -joel||||reg||5
+Z||000001||Oreif||04-03-2000||12:43 PM||||First make sure tire air pressure is the same then have them re-align the car. If one tire is low it will throw off the alignment.||||reg||1
+Z||000002||Racer 1||04-03-2000||03:53 PM||||If you have a OEM front upper ball joints there not adjustable. The new ones are adjustable ask the guys to straighten out your wheel.||||reg||1
+Z||000003||fieroshop||04-03-2000||10:10 PM||||Sounds luke you had a bad alignment done on your car. Take it back.||||reg||1

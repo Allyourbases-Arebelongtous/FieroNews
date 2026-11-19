@@ -1,0 +1,3 @@
+A||||1||fierohoho||Clutch pedal question of the day||||5||
+Z||000000||fierohoho||05-30-2001||09:36 AM||||If you swapped out the aluminum pedal for the steel one what change did you notice?<BR>My d*** clutch engages about 1/4" off the floor when it works. ('86 2.5l SE 5 Speed)<P>Bonus Question: Where are you as you see this?<P>------------------<BR>'84 SE 2.5l<BR>'85 Coupe 2.5l now getting a 3800<BR>'86 SE 2.5l||||reg||5
+Z||000001||ROB MAC||05-30-2001||03:13 PM||||First I noticed that the clutch works.<BR>Second , instead of releasing a couple of inches from the top it began to catch about an inch from the floor. When I eyeball compared the two pedals I could not believe a little twist could make that big a difference. Where am I when I see this? SURFIN!||||reg||1

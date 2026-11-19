@@ -1,0 +1,3 @@
+A||||1||mrfixit58||99-00 Camaro radio CD lighting color||||5||
+Z||000000||mrfixit58||11-13-2001||08:14 PM||||Does anyone know what color a 99-00 Camaro night light is? Ya know... what color does the Camaro Radio player light up when you turn the lights on? White, blue, amber, etc?<P>------------------<BR>Roy   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> <BR>Just another stock Blue 87 GT   <BR>Suncoast Fieros<BR>     <IMG SRC="http://www.fiero.nl/uploads/pennocksize.JPG">          <IMG SRC="http://www.fiero.nl/forum/fullstaff.gif">  <p>[This message has been edited by mrfixit58 (edited 11-14-2001).]||||reg||5
+Z||000001||mrfixit58||11-14-2001||07:20 AM||||bump||||reg||1

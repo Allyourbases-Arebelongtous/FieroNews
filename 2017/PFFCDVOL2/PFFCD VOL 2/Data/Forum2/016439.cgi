@@ -1,0 +1,4 @@
+A||||2||Fie Ro||Testing a fuelpressure regulator||||1||
+Z||000000||Fie Ro||12-17-2001||10:23 AM||||Is there any way of testing it without a pressure gauge when it is off the fuel rail? Like a visual inspection  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Rubber looks ok, everything is clean and it will take quite some force to push in the spring....what else can I look for?<BR>Thx||||reg||1
+Z||000001||conductor||12-17-2001||06:07 PM||||Well I would look if there were some pritty ladys around, but hey thats me :-D<BR>Sorry Ro , couldnt resist, but it sounds funnier than :Bump, doesnt it?<BR>Grtx Richard.||||reg||1
+Z||000002||Fie Ro||12-18-2001||05:32 AM||||I did look around for some nice ladies.........<P>THEY passed inspection  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||12

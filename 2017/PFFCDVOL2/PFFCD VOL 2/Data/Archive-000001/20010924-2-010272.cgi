@@ -1,0 +1,3 @@
+A||||1||mrgone||plastic shift ferrule broken.... where do i get it?||||1||
+Z||000000||mrgone||05-08-2001||05:02 PM||||ok one of my plastic shift ferrules broke off, and is temporarily epoxyed back on..<P>i need a new one where can i get and how much?<P>i hate it when my car breaks all the time||||reg||1
+Z||000001||GT-maniac||05-08-2001||08:49 PM||||Try rodneydickman.com, I think he sells a shift kit which may have the ferrule you need. As for your car breaking down, welcome to the joys of fiero ownership. If my car didn't break down at least every other week, I might think I owned a toyota.||||reg||1

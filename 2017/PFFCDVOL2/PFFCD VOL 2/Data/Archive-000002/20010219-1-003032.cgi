@@ -1,0 +1,7 @@
+A||||5||Homicidal||YAH!  I got my new headlights!!! (questions though...)||||6||
+Z||000000||Homicidal||07-24-2000||04:19 AM||||My girlfriend bought me brand new blue halogen headlights.  Awesome! But where can I go to get cheap bulbs?  I want some nice BRIGHT purple ones or brilliant white.  <P>BTW, I'll throw some pics up tomorrow!||||reg||6
+Z||000001||stimpy||07-24-2000||06:24 AM||||Go see Manny, Moe, and Jack.||||reg||1
+Z||000002||Boodoggin||07-24-2000||12:45 PM||||Homicidal-you might want to check out pepboys like stimpy said.  But anyways im interested what your setup turns out like.  I like the white bulbs in my opinion.<P>  So those headlamps you got didnt come with bulbs?<P> Im looking to do something similar.Once you get it setup if you could take pictures and post them that be cool(dont know if theyd turn out though)||||reg||1
+Z||000003||Homicidal||07-24-2000||01:00 PM||||Oh yes, I got some bulbs.  They are a slight tint of blue, but also have a multi-color incandescent(sp?) coating on the bulb, similiar effect on a fog light.  <P>I want some bright white bulbs though.||||reg||1
+Z||000004||My7Fieros||07-24-2000||04:09 PM||||Those things kinda give me a headache, but they look pretty cool.<p>[This message has been edited by My7Fieros (edited 07-24-2000).]||||reg||1
+Z||000005||My7Fieros||07-24-2000||04:15 PM||||ehh..messed up, disregard<p>[This message has been edited by My7Fieros (edited 07-24-2000).]||||reg||1

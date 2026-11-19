@@ -1,0 +1,3 @@
+A||||1||Eric||What causes those scratches?
+Z||000000||Eric||05-23-99||03:03 PM||||What causes those scratches on my driver's and pansenger's side windows.  The scratches are on the back side of the window and they extend up to the middle.  The weathersrip is old and deteriorated but I'm not sure this is the cause.  Is there anything I can do about the existing scratches to make them less visible?  By the way, I have power windows. 
+Z||000001||FieroMike||05-23-99||04:01 PM||||Eric,<br>There are little metal squares with a fabric on them that guide the window up, this is what scratches your tint/window.  They cost about $5 to replace through the Fiero store or your local GM dealer.

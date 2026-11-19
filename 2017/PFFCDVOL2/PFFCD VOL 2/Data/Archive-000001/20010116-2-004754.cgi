@@ -1,0 +1,2 @@
+A||||0||Hawkman||Select arm replacement installation||||5||
+Z||000000||Hawkman||07-14-2000||02:41 PM||||Greetings all,<P>I've recently purchased an Isuzu select arm rebuild kit for my 85, 2M4 5spd, notchback from Rodney Dickman (thanks!) and I'm wondering how to install it? <P>Rodney included some basic instructions, but being absolutely new to the car I have no idea where the select arm is located.<P>FYI - the rebuild kit components are great quality and inexpensive too!<P>Suggestions?<P>Thanks!||||reg||5

@@ -1,0 +1,3 @@
+A||N||1||Rob Durham||Anyone know how  ............||||5||
+Z||000000||Rob Durham||06-17-2001||10:59 PM||||and where to get these?? <P>Fiero Focus Mag. and Fiero Owner's Mag.<P>Also any other Fiero mag's you guy's know of?<P>Any websites, e-mail addy's or phone #'s you guy's have would be great!<BR><P>------------------<BR> <A HREF="http://rs-designs.com/87GT.html" TARGET=_blank>  <IMG SRC="http://rs-designs.com/Banner.jpg">  </A>||||reg||5
+Z||000001||tgowens||06-17-2001||11:18 PM||||Fiero Owner's Magazine is the publication of the Fiero Owners Club Of America (FOCOA) - their web site is non-operational at the present time but they can be reached by phone at 714-635-0898<P>I'm not sure about the other magazine......||||reg||1

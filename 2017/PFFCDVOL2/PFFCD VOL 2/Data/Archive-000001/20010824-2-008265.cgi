@@ -1,0 +1,3 @@
+A||||1||loren||oil leak||||1||
+Z||000000||loren||02-03-2001||06:00 PM||||85 gt 6 cyl has an oil leak in the area between the engine and firewall (up high center) and i suspect it is either a rockerarm cover or oil sending unit...i would appreciate any info. related to repairing this(can i get to these items  easily)     thanks in advance<P>Loren <P><BR>||||reg||1
+Z||000001||rogergarrison||02-03-2001||06:34 PM||||as fellow Fiero owners will say, nothing is really ez on these. Does seem to get easier after you fix the same thing 2 or 3 times though.<P>Clean everything as best you can and watch closely with a flashlite to see if you can spot where its actually leaking, maybe even just checking it every day or two.||||reg||1

@@ -1,0 +1,9 @@
+A||N||7||85gt||Georgia Fiero owners?||||10||
+Z||000000||85gt||03-31-2000||09:34 PM||||How many of you live in GA? I'm in AL right now, but I expect to be moving back to GA in a few months. Would like to get in touch with some fellow Fiero freaks.||||reg||10
+Z||000001||Cooter||03-31-2000||10:33 PM||||I live pretty close to the AL/GA border on I-20. I would like to get together with some other Fiero folks sometime too. Anyone else want to maybe have a cook out or something?||||reg||1
+Z||000002||Spyder||03-31-2000||10:56 PM||||This is funny.<BR>I live in Albany, GA and work in Dothan, AL 14 days a month.<BR>I'm way down South.||||reg||7
+Z||000003||Raydar||03-31-2000||11:35 PM||||Douglasville Ga. Probably about 35-40 miles from AL line. Just North of I-20. <BR>Cooter, I didn't realize you were so close.<BR>Anybody else going to Ed Parks' Fiero Factory Swap Meet? There is another guy near me that is going, too. (Don, from GA Fieros. Not on the internet, but we're working on him.) <IMG SRC="http://www.fiero.nl/forum/smile.gif">  ||||reg||1
+Z||000004||sdm1964||04-01-2000||12:00 AM||||I live in Glennville,and work on Ft. Stewart. An hour from savannah. Where are you moving too?||||reg||14
+Z||000005||Rodrv6||04-01-2000||05:28 PM||||I live in Woodstock, about 25 miles north of <BR>Atlanta.<BR>Rod  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000006||85gt||04-02-2000||03:17 AM||||I use to live in McDonough, GA. Right now I live in th NW corner of AL. Hope to be moving back soon. I plan on going to the swap meet, but I'm not sure on the dates.||||reg||1
+Z||000007||1FST2M6||04-03-2000||08:37 AM||||I'm in Kennesaw.. bout 5 miles northwest of Marietta...    and these guys are in Smyrna...  <A HREF="http://www.engineered.net" TARGET=_blank>www.engineered.net</A>    they made my fiero reliable AND Fast! ||||reg||1

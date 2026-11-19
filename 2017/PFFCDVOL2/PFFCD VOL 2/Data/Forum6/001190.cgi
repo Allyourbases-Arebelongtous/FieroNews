@@ -1,0 +1,7 @@
+A||||5||Songman||Signature||||5||
+Z||000000||Songman||01-03-2001||01:44 AM||||How do I set up a signature for this board? Please help!||||reg||5
+Z||000001||Songman||01-03-2001||01:52 AM||||I think I got it! We'll know soon enough. Of course, I don't have my Indy yet but it will be here soon and I want to be prepared!<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> ||||reg||6
+Z||000002||Songman||01-03-2001||01:56 AM||||Cliff,<BR>The first file I made was a little large so I downsized it. There is a songman.gif on your server that you can delete if you want to save the space. I am using songman_1.gif.<BR>Thanks!||||reg||7
+Z||000003||Standard||01-05-2001||04:08 AM||||well.. I'll just hork this thread to test my sig..<P>------------------<BR>Mike -<BR>Black 86.5 GT 5 Spd, 153,000 miles and some busted up ground f/x    <IMG SRC="http://www.fiero.nl/uploads/motor.gif">     <IMG SRC="http://www.fiero.nl/uploads/redface.gif">               <BR>Red 84 Sport Coupe - winter donut maker<BR>       <BR>AOL: LastMinuteBastrd<BR>AIM: Standard88||||reg||
+Z||000004||Standard||01-05-2001||04:15 AM||||that don't look too good.. hmm..<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/motor.gif">            <BR>AOL: LastMinuteBastrd<BR>AIM: Standard88||||reg||
+Z||000005||Songman||01-05-2001||09:01 AM||||Looks pretty good to me... I like seeing the animted gifs... Now you just need a few more cylinders! heheh<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> ||||reg||14

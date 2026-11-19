@@ -1,0 +1,3 @@
+A||||1||LAMBO||Attention trigger!||||10||
+Z||000000||LAMBO||08-24-2000||01:01 PM||||Thanks for the lead on the 86 GT on excite. I just bought the car and I'm going to pick her up this weekend.<BR>Todd||||reg||10
+Z||000001||trigger||08-26-2000||05:03 PM||||Hi,<BR>Glad I could help.  Is that the car with the broken timing chain or what?  I don't always remember these.  Where is Lucas in relation to Dyersville, Iowa?  I drive the red 88 coupe.  1 of the 3 fieros in town.  Drop by if your ever in town.<P>------------------<BR>Honestly officer, I was just keeping up with the flow of traffic.  I know there aren't any cars in the area, that's how far behind I am.||||reg||6

@@ -1,0 +1,9 @@
+A||||7||btoth||firebird forums?||||5||
+Z||000000||btoth||12-03-2000||11:52 PM||||anybody know of any firebird specific forums? ||||reg||5
+Z||000001||sqoach||12-03-2000||11:53 PM||||what?? firebirds??? kill!!!!<P>oh, sorry.<BR>i don't know of any.<P>------------------<BR>sQoaCh<BR>fiero7@hotmail.com<BR> <IMG SRC="http://www.fiero.nl/uploads/mysig_1.JPG"> ||||reg||11
+Z||000002||PearlBlueSoul||12-04-2000||01:40 AM|||| <A HREF="http://www.thirdgen.org" TARGET=_blank>www.thirdgen.org</A> <P>------------------<BR>1987 Toyota MR2 N/A 5 speed<BR>  <A HREF="http://www.atlantamr2s.com" TARGET=_blank>http://www.atlantamr2s.com</A>  <BR><A HREF="http://www.geocities.com/darionscard" TARGET=_blank>http://www.geocities.com/darionscard</A>  <BR>    <IMG SRC="http://www.geocities.com/darionscard/Thumb.jpg">       <BR><B>Notable mods:</B>  Sus tech springs and sway bars, Toyota strut tower brace, KYB strut inserts, HKS exhaust, NGK plugs/wires, Momo Racer wheels (14x6), Custom intake, Kenwood 12" speaker in front trunk, Jensen amp.||||reg||1
+Z||000003||Standard||12-04-2000||01:48 AM|||| <A HREF="http://www.ls1.com" TARGET=_blank>www.ls1.com</A> ||||reg||1
+Z||000004||GeeDee86GT||12-04-2000||02:58 PM||||there's a Firebird section at <A HREF="http://www.gmforums.com/" TARGET=_blank>http://www.gmforums.com/</A> <P>------------------<BR> <IMG SRC="http://www.geocities.com/garby_d/siggy.jpg"> ||||reg||3
+Z||000005||mrfixit58||12-05-2000||05:15 PM||||Which generation of 'Bird?<P>Roy  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000006||btoth||12-05-2000||07:33 PM||||I always like the 3rd generation Trans-Ams.  I was just curious to see how much support was out there for them.  (Not giving up on the Fiero though!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">)||||reg||7
+Z||000007||1FST2M6||12-06-2000||10:45 AM|||| <A HREF="http://www.ls6.com" TARGET=_blank>www.ls6.com</A> ||||reg||1

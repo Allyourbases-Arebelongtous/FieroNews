@@ -1,0 +1,3 @@
+A||||1||maryjane||nonstop||||1||
+Z||000000||maryjane||10-06-2001||11:54 PM||||hope this works better than my last link. Let it load for the sound. <A HREF="http://www.transload.net/~terrisfunnypages/war/nonstop.html" TARGET=_blank>http://www.transload.net/~terrisfunnypages/war/nonstop.html</A> ||||reg||1
+Z||000001||Raydar||10-07-2001||11:23 AM||||LOL!!!<P>Good one!<P>I've seen the pic, and heard the tune on the radio, but never together in the same place.<P>------------------<BR>Raydar - aka Steve<BR><FONT SIZE="1"><BR>Black 88 Formula.<BR>Red 88 Duke coupe. "The Project" <BR>88 Formula parts car. "The Donor"<BR></FONT>||||reg||14

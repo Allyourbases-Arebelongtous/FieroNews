@@ -1,0 +1,5 @@
+A||||3||loafer87gt||Check out these headlights!||||1||
+Z||000000||loafer87gt||08-31-2000||04:16 PM|||| <IMG SRC="http://www.fiero.nl/uploads/BudGirls.jpg"> <P>I was at a wrestling event down at one of the bars in town and they had a bunch of budgirls prancing around. I also got to get a upside down margarita shooter from the bud girl whos on the poster with the frog in her hand. Yowza!! BTW, I'm the guy grinning like an idiot on the left of the picture. ||||reg||1
+Z||000001||hugh||08-31-2000||07:01 PM||||Gulp!!!!If I was 40 years younger I'd get one of those.If I did it now it would probably kill me(but I would die with a smile on my face)||||reg||1
+Z||000002||Bandit2_0||08-31-2000||10:17 PM||||Add me for the party list.  Looked like a good time, bet you had fun.<P>Bandit<BR><P>------------------<BR>He's the kind of guy that would drink a gallon of gas just so he could piss on your campfire.||||reg||12
+Z||000003||My7Fieros||09-01-2000||12:25 AM||||zzzzzzzzip...BOING!!!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||12

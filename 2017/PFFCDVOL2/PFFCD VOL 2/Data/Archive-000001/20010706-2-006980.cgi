@@ -1,0 +1,6 @@
+A||||4||saleenfiero||Extra holes into front compartment?!?||||2||
+Z||000000||saleenfiero||11-26-2000||12:55 PM||||Are there any holes, plugged or otherwise to run extraneous wires and stuff into the front trunk?  Where are they?<P>------------------<BR>'86 SE - My car is actually a MacLaren F1 with a Fiero body kit; or not.||||reg||2
+Z||000001||FieroJoe||11-26-2000||06:11 PM||||None that I know of, but when I ran wires into the front compartment from the passenger compartment I just drilled a hole.  Real easy to drill through, but make sure you know what you are drilling into on both sides!||||reg||1
+Z||000002||DXR_DAD||11-26-2000||09:09 PM||||Remember to put a rubber garment in the hole!!!<P>DXR_DAD||||reg||4
+Z||000003||kinboyatuwo||11-27-2000||11:44 AM||||Mine had one on the left (drivers side on american cars).  Sitting just under and slightly more centered then the brake fluid res. Not sure if it is stock though<P>------------------<BR>"Friends don't let friends drive four doors."||||reg||4
+Z||000004||theogre||11-27-2000||09:42 PM||||I can't think of any off hand. I try to watch for things like that when I do things like yank the dash. The clutch master cyl hole could be used on a car with automatic.||||reg||1

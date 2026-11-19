@@ -1,0 +1,2 @@
+A||||0||86_Fastback||Searching for 3.4L||||1||
+Z||000000||86_Fastback||07-26-2000||11:11 AM||||Hello all.  I was conversing with a salvage yard about a 3.4l engine via email.  Well, computer went down and I lost everything.  Since I can't remember the name and only in a great lake state, I need help in locating a 3.4l engine out of a 93-95 Camaro.  I want the accessories and prefer less than 40k miles.  Any help would be appreciated.<P>Gregg<BR><P>------------------<BR> ||||reg||1

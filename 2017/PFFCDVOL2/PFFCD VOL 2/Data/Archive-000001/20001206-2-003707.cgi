@@ -1,0 +1,2 @@
+A||||0||gtsonly||bbq||||10||
+Z||000000||gtsonly||05-12-2000||04:02 PM||||I saw the picture and laughed for a few. where it is on the web, i dont know. a friend (who is a 5.0 mustang guy who was quite mad and told me i was crossing over to the dark side by getting a fiero) has a picture of a 84 fiero converted into a backyard BBQ! some hick in an apron, cooking some sliders drinking a beer with the same look as cousin eddie from the vacation movies. if anyone has seen it, pass it on!!<BR>   chris||||reg||10

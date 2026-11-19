@@ -1,0 +1,6 @@
+A||||4||retrostudd||sticky accelorator, hard to push ||||5||
+Z||000000||retrostudd||12-11-2000||12:40 PM||||Does anyone know what is causing my accelorator cable to be so stiff, it is very hard to push in and the car there for is slower to respond||||reg||5
+Z||000001||JohnnyK||12-11-2000||01:44 PM||||I got the same problem. i disconnected the throttle cable at the back and everything was smooth, and the tbi was smooth. So I guess it's supposed to be like that (on mine).||||reg||1
+Z||000002||86SE||12-11-2000||03:01 PM||||Is it a 4 cylinder or a V6?  I noticed on a friends 4 banger it was stiff, but then on my V6 it is super smooth and soft.<P>------------------<BR> <IMG SRC="http://fierodude.hypermart.net/mysig.jpg"> <BR>'86 Special Edition,<BR>High-Output V-6 Yellow Fiero -- 3.4L Conversion *SUSPENDED* --<BR>Special Rally Heavy Duty Suspention||||reg||5
+Z||000003||fiero56||12-11-2000||03:57 PM||||replace the cable...||||reg||1
+Z||000004||rockcrawl||12-11-2000||05:05 PM||||Yes, replace the cable, it will be like new again. Just went through this with a 86 2M4.<P>------------------<BR>Jon Lagler<BR>'87 GT<BR>4.9 liter V8 Testarossa Spyder (under construction)<BR> <IMG SRC="http://www.fiero.nl/uploads/rockcrawlsig.jpg"> ||||reg||1

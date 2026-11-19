@@ -1,0 +1,12 @@
+A||||10||GT Bastard||check out this fiero...||||1||
+Z||000000||GT Bastard||03-25-2000||03:25 PM||||10.2 second 1/4's...<BR> <A HREF="http://members.tm.net/donisme/fast_fiero.htm" TARGET=_blank>http://members.tm.net/donisme/fast_fiero.htm</A> ||||reg||1
+Z||000001||Oreif||03-25-2000||04:00 PM||||Interesting! I don't like the 3 driving lights in the front, But the rest is nice. I was hoping the "fiero burn-out movie" was the actual car doing a burn-out.||||reg||1
+Z||000002||WKDFIRO||03-25-2000||08:42 PM||||I recognize the NOS bottle on the left of the trunk but what is that black thing on the right?||||reg||1
+Z||000003||BBBAD GT||03-25-2000||09:15 PM||||The black box is an illegal battery box, per NHRA rules.  There are a ton of safety items that must be met to break the 11.99 mark, let alone 10.20.  For 9's, you must have a NHRA competition license (sorta easy to get).  Wish I can see the dudes timeslip, it looks like he's getting great stick at the track, if the officals didn't kick him out after that pass  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>||||reg||1
+Z||000004||phillip||03-26-2000||07:42 AM|||| wonder what tranny he's using.||||reg||1
+Z||000005||Racer 1||03-26-2000||11:37 PM||||Ugly driving lights. The thing in the trunk on the right is a dry sump pump. That fiero dosent have a oil pan that holds oil. Take of the yellow ricey stripe and that letterting on the back and it would be a nice fiero.||||reg||1
+Z||000006||bHooper||03-27-2000||08:32 AM||||i dont like the lights, either... the stipe is OK, but ya gotta lose the "words"  that is so tacky!  whats up with that, that someone feels they have to "tell us" something about their car that wi usually dont want to know anyway????||||reg||1
+Z||000007||wxxo||03-27-2000||07:02 PM||||exterminator huh??? if i wanted an exterminator ill call orkin!! for now ill just drive my fiero. itll be a while yet tell im good enough to kill bugs with it. hahaa!||||reg||1
+Z||000008||BBBAD GT||03-27-2000||07:23 PM||||Dry sump pump?  Look again, it looks exactly like the marine battery box I was running in the Mustang until I got busted by the tech guys at the drag strip.  I could be wrong....||||reg||1
+Z||000009||Racer 1||03-28-2000||02:05 AM||||If you look closely at the thing in the trunk look at the objects right upper corner thats looks like the oil cap. I might be wrong it kinda hard to tell.||||reg||5
+Z||000010||DRH||03-28-2000||03:07 PM||||Battery box or oil sump??? My speculation is oil sump... the two green things look more like hoses than wires.||||reg||6

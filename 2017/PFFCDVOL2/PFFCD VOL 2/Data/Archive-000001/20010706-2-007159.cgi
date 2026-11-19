@@ -1,0 +1,2 @@
+A||||0||Philphine||rebuild cost||||1||
+Z||000000||Philphine||12-05-2000||02:12 PM||||<BR>of the various engines talked about here, anyone know or know of a site that can estimate rebuild costs? have to factor it into my engine searching. i've read the 4cam engines would be the most. would you consider a high mile engine just to get the one you want and go for an immediate rebuild or hold out for a low mile engine of choice?||||reg||1

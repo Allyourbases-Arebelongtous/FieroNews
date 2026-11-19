@@ -1,0 +1,3 @@
+A||||1||me||speedo sensor gear!??||||9||
+Z||000000||me||12-21-2000||10:49 PM||||I recently replaced the clutch in my 86 V6 and when I was going to pull out the speedo sensor to fill the trans with fluid the blue gear on the end of it fell inside the trans.  I looked in the trans but could not see the gear.  Any advise that would not require dropping the frame and going through all that trouble again???||||reg||9
+Z||000001||terryk||12-22-2000||01:28 AM||||Lift the car over your head and shake it. Kinda like getting pennies out of your piggy bank. A butter knife can help.<P>Get a telescopic mirror so you can look around the corners and see if it's wedged just out of sight. Otherwise, the news is bad.<BR>||||reg||1

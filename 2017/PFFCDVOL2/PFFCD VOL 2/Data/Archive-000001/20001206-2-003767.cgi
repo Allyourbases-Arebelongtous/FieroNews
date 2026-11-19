@@ -1,0 +1,5 @@
+A||||3||Fformula88||Alternator housing cracked...||||1||
+Z||000000||Fformula88||05-15-2000||04:07 PM||||My alternator housing is cracked, but the alternator is still charging without any problems.  This condition has been there for about 9,000 miles (3.5 years) and it is still going strong.  However, I am thinking of taking the car on a trip and am worried about it failing.  Should I replace it?  Or let it ride?||||reg||1
+Z||000001||Homicidal||05-15-2000||04:22 PM||||Well, the crack won't do any good, so it's your decision if you want to make that decision.||||reg||1
+Z||000002||GT Bastard||05-15-2000||07:10 PM||||hahahaha.... that's a nice answer.<P>But seriously, I would replace.  I'm pretty anal about those things.  Better safe than soooorrryyyyy.<BR>||||reg||14
+Z||000003||theogre||05-15-2000||09:45 PM||||Depends where the crack is I guess. If it's lasted this far it's entirely up to you. I'd have replaced or repaired it long ago.<P>When you do replace it put the old one crack down in the box when you return the core. If they see it's cracked they may not take it back.||||reg||1

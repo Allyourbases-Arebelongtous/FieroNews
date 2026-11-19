@@ -1,0 +1,7 @@
+A||||5||84 2in1||V-8 caddy question||||1||
+Z||000000||84 2in1||07-31-2001||02:44 AM||||Starting to get that POWER bug. My question is would the intake off of the earlier Ht4100 out of the big caddy fit on the FWD 4.5 Caddy? how about useing the Computer? Does anyone know if the throttle body off of the 350 Vortec 350 fit and work? -B-||||reg||1
+Z||000001||84 2in1||07-31-2001||12:09 PM||||Some one has to know...... please!?!?||||reg||5
+Z||000002||KRMFiero||07-31-2001||12:58 PM||||I know that the 4.1 Caddys like the '85s and so throttle bodys will work on the later 88,89.. 4.5s<BR>I belive they are the same injectors and everything.   why do u want to use 4.1's on a 4.5?<P>kyle||||reg||1
+Z||000003||84 2in1||07-31-2001||02:38 PM||||I know where to get all kinds of parts for the HT4100 in the RWD Caddys. If I can use the parts off of one of these RWD modles it would make life a little easyer during the swap.-B-||||reg||1
+Z||000004||HarryG||07-31-2001||03:10 PM||||You might try asking Joe Grenier on this page <A HREF="http://communities.msn.ca/FieroCaddySwapGroup/_whatsnew.msnw?" TARGET=_blank>http://communities.msn.ca/FieroCaddySwapGroup/_whatsnew.msnw?</A> ||||reg||1
+Z||000005||Jay||07-31-2001||05:06 PM||||Also try BubbaJoeX.  He's got a site but I don't remember it off hand.  Haven't heard from him either in a while.  Do a search on this forum, His name and site are bound to pop up<P>------------------<BR>Jay<BR>1986 Northstar GT<BR>www.members.home.net/jaygrande<BR> <IMG SRC="http://www.fiero.nl/uploads/cayuga3_3.jpg"> ||||reg||1

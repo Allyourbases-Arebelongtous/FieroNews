@@ -1,0 +1,4 @@
+A||||2||wayne||pictures
+Z||000000||wayne||06-30-99||01:23 PM||||how do you post a picture with your message?<br>does it need to be .jpg?<p>
+Z||000001||yellowFormula||06-30-99||01:27 PM||||Where's Cliff when ya need him? 
+Z||000002||Cliff Pennock||06-30-99||01:46 PM||||You rang?  :)<p>Posting pictures is pretty easy. First make sure you have posted your pictures on your own personal homepage (most Internet Providers give you 2Mb space on their server, or you can get your own homepage on numerous other free servers like Geocities). Then enter the link in your message with the special UBB IMG code. For a complete description of UBB codes, click here:  <A HREF="http://212.206.1.44/ubb/ubbcode.html" TARGET=_blank>http://212.206.1.44/ubb/ubbcode.html</A> .<p>You might also want to take a look here:  <A HREF="http://212.206.1.44/ubb/faq.html" TARGET=_blank>http://212.206.1.44/ubb/faq.html</A> .<p>Hope this helps!<br>

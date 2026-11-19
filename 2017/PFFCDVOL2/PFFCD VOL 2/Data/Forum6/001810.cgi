@@ -1,0 +1,4 @@
+A||||2||rogergarrison||bored||||7||
+Z||000000||rogergarrison||04-09-2001||01:32 PM||||im bored, no more new posts today, everyone asleep? Im putting a fiberglass front bumper on a C3 Corvette to replace a urathane one. Should be a 2 hour job, but aftermarket is making it an all dayer. Id rather be working on my car than this piece of crap.(and you think Fieros are a pain to work on)||||reg||7
+Z||000001||Eric||04-09-2001||03:27 PM||||You can come over and work on my car if you want.  I've got myself into a mess with this suspension rebuild.  Plus I have body panels to work on; which, I believe is right up your ally.   <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||FieroLisa||04-09-2001||05:07 PM||||Hey Roger... how can you be bored when you can gaze at my car all day  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> haha just kidding, but sad thing is, that WOULD amuse me for a long long time. <BR>||||reg||1

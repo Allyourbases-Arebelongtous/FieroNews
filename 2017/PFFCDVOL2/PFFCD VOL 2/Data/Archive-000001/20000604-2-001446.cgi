@@ -1,0 +1,7 @@
+A||N||5||jhogans||6 speed in a Fiero??||||5
+Z||000000||jhogans||11-18-1999||05:27 PM||||Is it possible to put a 6 speed in a fiero?  I see that the new Celicas and Honda S2000 come with 6 speeds.||||reg||5
+Z||000001||superXmotorsports||11-18-1999||06:53 PM||||I would love it!  But probably just a dream.||||reg||4
+Z||000002||batboy||11-18-1999||08:19 PM||||You want a 6 speed tranny, no problem. You just need deep pockets (read: outrageously expensive). Go to the listed link and scroll most of the way down. Hope you have at least $22,000 budgeted for the project.<P> <A HREF="http://www.isuzuperformance.com/bills/drivdiff.html#quaife" TARGET=_blank>http://www.isuzuperformance.com/bills/drivdiff.html#quaife</A> ||||reg||1
+Z||000003||superXmotorsports||11-18-1999||08:43 PM||||I did see the Quaife posi rear with optional final drive ratios.  I sent an email to them for more info about that one.||||reg||1
+Z||000004||Shiner||11-19-1999||02:59 AM||||Overall, considering total cost, you could buy a NEW trans-am for that much!  Not that I would want one or anything....  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000005||Monkeyman||11-25-1999||02:13 AM||||You're gonna need a lot more that 22 grand to change over to that tranny.  If the tranny is that much, just think how much the new clutch pedal would be!  And don't forget to budget some money for the hospital bill when your wife/significant other finds out and beats the sh** out of you.  <P><BR>||||reg||1

@@ -1,0 +1,3 @@
+A||||1||EMF||transaxle/speed sensor
+Z||000000||EMF||06-02-99||06:35 PM||||<br>my speedometer stopped  working today, because i didnt tighten the speed<br>sensor down when i changed the transmission oil, so i took it out, and<br>there was half  of a blue plastic gear sittin in there,  i guess it was<br>the gear that turns the speed sensor because it fit on it, anyway, there<br>is still  a  piece of it floating around in there, probally a  quarter<br>of the plastic gear, should i worry about this?<br>also, where  should  the oil level on the speed sensor be, it is also<br>the "dipstick" to check the transaxle lubricant right?
+Z||000001||Yellow85||06-03-99||11:47 AM||||you will find answer for your question on "Manual Transaxel Fluid" in this forum.

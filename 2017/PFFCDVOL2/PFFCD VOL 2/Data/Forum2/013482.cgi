@@ -1,0 +1,4 @@
+A||||2||Banzai||Flywheel||||1||
+Z||000000||Banzai||09-07-2001||08:37 AM||||Anyone know a good source for a flywheel for an 84 duke.  Started this resto because the clutch went-------man did the cluch go. I can see on the flywheel where the disc was fused to it while sitting(6yrs)--the flywheel has heat cracks all the way around(don't think this is machinable)||||reg||1
+Z||000001||Butter||09-07-2001||12:55 PM||||Banzai,<BR>I probally got a couple laying around from those 84's I have.  Sounds like the ones I have would be in much better shape than you have described.  If you don't elect to buy a new one and yours is too bad a shape to resurface, I'd be interested in trading somehow.||||reg||1
+Z||000002||Banzai||09-08-2001||09:06 AM||||Found one at a local junk yard for $15, they said it was good,  I'm gonna check it out today.  Thanks<P>Banzai !!!!!!!||||reg||1

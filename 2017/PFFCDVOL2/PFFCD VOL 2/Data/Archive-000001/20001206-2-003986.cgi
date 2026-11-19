@@ -1,0 +1,5 @@
+A||||3||CD||Valve cover||||1||
+Z||000000||CD||05-28-2000||07:41 PM||||I'm in the process of replacing the valve cover gaskets for my 1987 Fiero GT.  At Pep Boys I was shown two Felpro gaskets, one rubber and one cork.   However, the rubber gasket did not have any holes for the valve cover bolts, but the cork one did.  Does anyone know what the deal is with this?  How are the rubber gaskets installed without the valve cover bolt holes?  Was I prehaps shown the wrong gaskets?||||reg||1
+Z||000001||GT Bastard||05-28-2000||08:39 PM||||Nope, that's correct.  The bolts don't go through the gasket.  Look at the bottom of the valve cover and you'll see why.  Get the rubber.||||reg||1
+Z||000002||GT Bastard||05-29-2000||12:56 PM||||Oh sh*t, I lied. I just looked at my valve covers...  I don't know what I was smoking when I said the bolts don't go through the gasket. sorry...||||reg||1
+Z||000003||FIEROCIOUS||05-30-2000||02:21 AM||||P/N VS 50077 R is what you need! They are blue perma dry gaskets!<BR>||||reg||1

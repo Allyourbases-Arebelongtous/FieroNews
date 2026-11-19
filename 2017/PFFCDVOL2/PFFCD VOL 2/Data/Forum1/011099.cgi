@@ -1,0 +1,5 @@
+A||||3||Mattyman||Fiero Groups in Pennsylvania||||5||
+Z||000000||Mattyman||10-17-2001||10:11 PM||||I know there are alot of Fiero clubs in Eastern PA.  But does anything ever go on in Western PA, like near Pittsburgh or close by.  I know of the Western PA Fiero club but I heard that they don't really do much.  I just wanted to know because I think it would be nice to get together with some other people that own Fieros.||||reg||5
+Z||000001||Jaygee79||10-17-2001||10:26 PM||||What about MAFOA?  They are very active.||||reg||1
+Z||000002||Mattyman||10-17-2001||10:33 PM||||What is MAFOA and does anyone have any info about them?||||reg||1
+Z||000003||Jaygee79||10-17-2001||11:03 PM||||Mid-Atlantic Fiero Owners Association.  The President is Bob Schlag.  His username on here is grgoyl86.  Here is their web page  <A HREF="http://www.fieropride.com" TARGET=_blank>www.fieropride.com</A>   They are a great group.  They have at least 2 shows per year.  One in Carlisle, PA (HUGE, usually over 100 Fieros there) and The Dutch Classic in Denver, PA (still a new show but growing).  They also have tech sessions.  A lot of the members are from PA.||||reg||1

@@ -1,0 +1,3 @@
+A||||1||fieromodifier||performance parts question||||1||
+Z||000000||fieromodifier||11-25-2001||11:56 AM||||what are some good websites that specifically deal with fiero performance parts, i had the car for 4 years now and saved up a lot of money to make my v6 run with high horsepower, i want the works, port and polish which all probably do myself, but i need parts like perfomance intake/exhaust headers, mufflers, supercharger, ect.<BR>thanks||||reg||1
+Z||000001||WKDFIRO||11-25-2001||12:18 PM||||You just might want to try the little icon above the Pennock's Fiero Forum title that says Fiero Parts Vendors.<P>Have fun.||||reg||14

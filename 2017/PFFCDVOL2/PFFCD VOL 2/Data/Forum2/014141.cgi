@@ -1,0 +1,3 @@
+A||N||1||Monkeyman||Filling in dash groove||||5||
+Z||000000||Monkeyman||10-03-2001||07:38 PM||||I want to fill in the groove in my dash.  What's the best product to use?  I need to be able to paint it (to match the dash) when I'm through.  Will Bondo crack?  I can't paint silicone, can I?<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/PontiacAPE.jpg">    <BR>Monkeyman||||reg||5
+Z||000001||lowfunds||10-03-2001||07:45 PM||||I tried this awile back. Bondo won't crack if you put in a filler first. I used expandable foam, then glazed with bondo. I would recommend using a paintable calk or silicone, some you can paint read the tube. This way you can try to match the texture on the rest of the dash.||||reg||1

@@ -1,0 +1,4 @@
+A||||2||LAMBO||VIN codes and options||||1||
+Z||000000||LAMBO||11-09-2000||04:59 PM||||I just bought an 84 SE. I know this by the VIN, but what is wierd is that this car has absolutely no options that you would consider an SE to have. No power anything, no tilt, no cruise, does have am/fm cassette and AC. It's a 4 speed car, what else on this car would make it an SE over a coup or sc. Anything suspension wise like heavier springs or anything else?<BR>TL||||reg||1
+Z||000001||2xsess||11-09-2000||05:20 PM||||I had one like that. An 84SE that all it had was Air and Tilt. And the SE specific seats<BR>I don't know about any suspension stuff<P>------------------<BR>Jeff<BR> <IMG SRC="http://www.fiero.nl/uploads/My_car_(large)sig_1.JPG"> ||||reg||1
+Z||000002||Indiana_resto_guy||11-10-2000||02:48 AM||||Look for WS6 on the RPO sticker. This is the performance suspension for '84 INDY & '84-85 SE and GT's.||||reg||1

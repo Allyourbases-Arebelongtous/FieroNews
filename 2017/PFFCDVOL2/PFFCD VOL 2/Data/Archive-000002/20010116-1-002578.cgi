@@ -1,0 +1,6 @@
+A||N||4||Haze_Performance||I should get a free car ||||7||
+Z||000000||Haze_Performance||06-17-2000||08:16 PM||||Take a look at the date on the last reply by me. <BR> <A HREF="http://www.fiero.nl/forum/Forum2/HTML/004212.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/004212.html</A> <P>It says Ive been a member since at least  12/31/1995 ..4 1/4 years and I still dont have an anniversary gift  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>lol  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||7
+Z||000001||tgowens||06-17-2000||08:33 PM||||damn Haze, you <B>oughtta</B> get a gift - you are posting the replies five years before the questions are asked!!||||reg||1
+Z||000002||Coconut||06-18-2000||08:45 PM||||Could it be you've been caught in some kind of space/time -continueum-fragmented- wormhole-buttcrack-rift in an alternate reality thing?  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000003||Haze_Performance||06-19-2000||02:08 AM||||You know what’s weird Coconut?? I knew you were going to say that.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||7
+Z||000004||Coconut||06-19-2000||07:30 PM||||LOL <IMG SRC="http://www.fiero.nl/uploads/laugh2.gif">   ||||reg||1

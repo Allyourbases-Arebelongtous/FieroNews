@@ -1,0 +1,2 @@
+A||||0||lowCG||brake pistons||||1||
+Z||000000||lowCG||10-17-1999||02:51 AM||||Has anyone ever noticed,or even know what the size of the brake caliper pistons is?<BR>Just got some four piston calipers from a popular European car,and the combined area of the pistons equals that of a single 3.2" piston.Need to find the difference so I can figure out if the '94 Blazer M/C is going to be enough. ||||reg||1

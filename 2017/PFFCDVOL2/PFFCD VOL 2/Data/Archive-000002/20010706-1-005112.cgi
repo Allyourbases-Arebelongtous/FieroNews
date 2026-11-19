@@ -1,0 +1,5 @@
+A||||3||wkayl||Can anyone post an AVI?||||1||
+Z||000000||wkayl||01-06-2001||10:10 PM||||I have an AVI explaining the Fiero crash in Denver last week.  Does anyone have a place they can link to it if I send it to them?||||reg||1
+Z||000001||wkayl||01-06-2001||10:14 PM||||Dang, it's too large of a file to load.  I'll try something else.||||reg||1
+Z||000002||FieroSTETZ||01-06-2001||11:34 PM||||do a search for warftp daemon- you can be your own ftp site, then someone could download it from you.||||reg||1
+Z||000003||TheFiero64||01-07-2001||11:48 AM||||I have a site with some vids from Fiero5, They are in Quicktime format at <A HREF="http://www.driveway.com/share?sid=fd87d014.ed5d6&name=Lycos+Network&view=1" TARGET=_blank>http://www.driveway.com/share?sid=fd87d014.ed5d6&name=Lycos+Network&view=1</A> <BR><P>------------------<BR>88 Coupe V6<BR>  <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif">  <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||2

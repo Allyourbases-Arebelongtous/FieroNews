@@ -1,0 +1,6 @@
+A||||4||DecadenceR||Dash board||||6||
+Z||000000||DecadenceR||05-29-2001||09:28 AM||||Where can I get a new exact fit dash?<BR>I had a few websites, but that was on my old computer before it crashed and I haven't found anything yet.<BR>And no, I don't mean a stock Fiero dash. I know there are a few places out there that made replacements specifically for the Fiero.<BR>(just cause i knew at least 1 person was gonna ask. hee hee...)||||reg||6
+Z||000001||Phil||05-29-2001||09:56 AM||||Archie and Pisa for for starters||||reg||1
+Z||000002||DecadenceR||05-29-2001||10:18 AM||||Does Pisa have a web site?<BR>I saw the one from Archie. Not too bad, but not quite what I'm looking for.||||reg||1
+Z||000003||88CoupeV6||05-29-2001||10:39 AM||||Here is Pisa <A HREF="http://www.cybercars.com/fierohq.html" TARGET=_blank>http://www.cybercars.com/fierohq.html</A> <P> <IMG SRC="http://www.cybercars.com/mnfr/fierohq/war2.jpg"> <P><P>------------------<BR>Josh <B>(known by TheFiero64 for first 1239 posts)</B><BR>     <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg">    <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||1
+Z||000004||DecadenceR||05-29-2001||10:55 AM||||Thank you, exactly the link i was looking for!!!!||||reg||1

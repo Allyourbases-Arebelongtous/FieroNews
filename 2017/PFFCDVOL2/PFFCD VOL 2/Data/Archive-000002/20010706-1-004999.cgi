@@ -1,0 +1,2 @@
+A||||0||fieroshop||Fiero on website||||4||
+Z||000000||fieroshop||12-29-2000||11:14 AM||||I noticed that somebody is selling a Fiero with 29k original miles on my website. <BR>Price is not too unreasonable but you tell me. Check it out on my website under classified ads.<BR>No I am not selling this 87 coupe.<P>------------------<BR> <BR>      <IMG SRC="http://www.fiero.nl/uploads/fieroshop_sig_1.gif"> ||||reg||4

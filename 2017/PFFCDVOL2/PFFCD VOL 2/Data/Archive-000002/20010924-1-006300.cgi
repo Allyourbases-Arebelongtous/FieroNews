@@ -1,0 +1,7 @@
+A||||5||fierosound||Motoring 2000 video online (24.3 MB MPEG)||||10||
+Z||000000||fierosound||03-19-2001||07:45 PM|||| <A HREF="http://www.bcp.psych.ualberta.ca/~piercey/2000/" TARGET=_blank>http://www.bcp.psych.ualberta.ca/~piercey/2000/</A> <P>You can download it from the above link.<BR>Just select, then right-click - choose "Save target as" and point to your download directory.  Trying to view it "on-line" is damn near impossible because of it's size.<BR>||||reg||10
+Z||000001||ArchMagi||03-20-2001||12:02 AM||||I allways wished someone could of recoreded that better or a better encoding job.  Maybe if someone has it on tape they could do this, i woulden't mind downloading a extra 25-50 megs for some nice sound quailty.||||reg||1
+Z||000002||HAGS||03-20-2001||02:22 AM||||Does it have sound? I dont have speakers...everytime I try to view videos its always real choppy, even if I download the whole thing before playing...I have a cable modem here so it shouldnt be too bad either way.||||reg||1
+Z||000003||HAGS||03-20-2001||02:40 AM||||Just watched it, smooth playing, I'd hope there is sound...lots of people talking in it, thanks for the video||||reg||1
+Z||000004||overlord||03-20-2001||01:51 PM||||i got  it.  pretty good except you have to listen carefully as the sound isnt the highheest quality.   good picture though.||||reg||1
+Z||000005||onfire||03-21-2001||03:16 AM||||I just watched it too. The sound quality isn't that great. But the video was still pretty cool.||||reg||1

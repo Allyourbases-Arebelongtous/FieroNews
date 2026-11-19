@@ -1,0 +1,8 @@
+A||||6||yaya842m4||codes||||11||
+Z||000000||yaya842m4||12-20-2001||06:11 PM||||is there a code to tell if the starter soleinoid has failed? if so what is it?||||reg||11
+Z||000001||Mark Matthews||12-20-2001||06:34 PM||||Doesn't look like it, here's a link to the list:<BR> <A HREF="http://www.geocities.com/motorcity/garage/5007/fiero_osg/codes.html" TARGET=_blank>http://www.geocities.com/motorcity/garage/5007/fiero_osg/codes.html</A> <P>------------------<BR>Mark Matthews<BR>'87 GT Fastback T-top||||reg||1
+Z||000002||yaya842m4||12-20-2001||06:42 PM||||thanks very much!!!||||reg||14
+Z||000003||JohnF||12-20-2001||07:07 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by yaya842m4:<BR><B>is there a code to tell if the starter soleinoid has failed? if so what is it?</B><HR></BLOCKQUOTE><P>I bet if you give this board the symptoms, you'll get a good answer!!!!!!!<P>||||reg||12
+Z||000004||GTDude||12-20-2001||08:02 PM||||There are no codes for a bad starter...or most other thing non computer related.  Sorry.<P>------------------<BR>GTDude's 86GT||||reg||1
+Z||000005||yaya842m4||12-20-2001||08:33 PM||||bascially turned car off 10 min later it would'nt even turn over,seems like lots of juice(lights work ect).checked bat cables seem o.k.is it just a solenoid or the stater too?||||reg||1
+Z||000006||johnt671||12-21-2001||06:45 AM||||You should go to and auto parts store and get a lifetime starter.  Comes with the solenoid. If the car doesn't turn over either the battery is bad, but if you have power to the lights that's not it, the wires going to the starter are bad or the starter is bad.||||reg||1

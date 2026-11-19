@@ -1,0 +1,5 @@
+A||||3||Archie||Is your Fiero on this Polish Web Site?||||5||
+Z||000000||Archie||08-08-2001||07:37 PM||||Check this out!!!!<BR> <A HREF="http://www.cadgraph.com.pl/fieropol/" TARGET=_blank>http://www.cadgraph.com.pl/fieropol/</A> <P>Archie||||reg||5
+Z||000001||LT1 Chop Top||08-08-2001||11:05 PM||||It's gone international!||||reg||14
+Z||000002||bHooper||08-08-2001||11:25 PM||||Arch.. i've heard of expanding your business over seas... but that's a little rediculous.  i would have picked one of the richer countries to go to, first.  you know.. trickle down economics!<P><P>------------------<BR>hoop<BR><FONT SIZE="3"><FONT COLOR="red"><B>Red</B></FONT></FONT> 86 GT 5 speed<BR><FONT SIZE="3"><B>Black</B></FONT> <u>86 SE Automatic</u>||||reg||1
+Z||000003||Leadfoot||08-09-2001||10:10 AM||||Oh Great! Now the Polish Mafia is going to start a theft ring that will steal fieros and send them back to Poland.  Just like they did with the Cherokees a while back.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

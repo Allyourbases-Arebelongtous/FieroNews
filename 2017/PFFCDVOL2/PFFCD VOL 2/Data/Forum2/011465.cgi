@@ -1,0 +1,4 @@
+A||||2||mrgone||radio RF shield||||1||
+Z||000000||mrgone||06-21-2001||11:34 PM||||ok mine fell off. well i pulled it off. but it wasnt working before.<P>how do i fix this? im really desperate craving clear radio stations!!||||reg||1
+Z||000001||FieroJoe||06-21-2001||11:48 PM||||Well, I assume that you are talking about the metal sheild on the underside of the decklid.  Re attach it anyway you can, try some quick-set JB Weld, and that should probably hold it.<P>Then all you have to do is reattach the wire to a ground, it is usually grounded on the left decklid hinge.<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/joesig_1.jpg"> <BR>'87 Coupe 5spd.<BR>AIM:FieroJoe87||||reg||1
+Z||000002||mrgone||06-22-2001||12:21 AM||||yeah the radio shield... hmm joes jbweld conduct electricity? (jbweld the ground wire maybe)<P>i just pulled the little wire off. so any wire atttached to the shield and grounded will work?||||reg||1

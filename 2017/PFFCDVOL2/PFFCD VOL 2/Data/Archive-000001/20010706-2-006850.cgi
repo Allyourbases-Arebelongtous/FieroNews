@@ -1,0 +1,9 @@
+A||||7||Bill H||Need help on 3.8 SC 5spd||||1||
+Z||000000||Bill H||11-18-2000||10:19 PM|||| I am concidering this swap and would like to hear from others who have also done it.What type of performance should I expect? will there be a problem going from auto trans to std? about how much does it cost? I found a late model 3.8sc for 2500.00 and I know ACE sells the kit for 2100.00 what else is needed? thanks Foe all your help and may the Fiero live on||||reg||1
+Z||000001||Phil||11-19-2000||07:42 AM||||Ace did my SC3800 5sp. Needed -Tranny and cables(of course), Flywheel, "Heavy" clutch, a few brackets,donor car computer and a whole bunch of computer rewiring. As for performance 0-60 low 5's  1/4 mile low 13's. One thing to watch for though- If you're idleing along in 1st and punch it your rear wheels make all kinds of noise<P>------------------<BR> <BR>  <IMG SRC="http://www.fiero.nl/uploads/New-sig.jpg"> <BR>SC 3800||||reg||1
+Z||000002||Bill H||11-19-2000||10:01 AM|||| Phil did you use the stock trans? Or did you get one from something diferent?||||reg||1
+Z||000003||Phil||11-19-2000||11:08 AM||||Stock getrag 5sp. Only downside to the swap is the blasted 120 speed limiter on the seriesII computer.<P>Listing Terry K?||||reg||1
+Z||000004||Bill H||11-19-2000||11:46 AM||||Phil what flywheel did you use? I see your point on the rev limiter? ||||reg||1
+Z||000005||Phil||11-19-2000||12:10 PM||||ACE did the whole shebang. They use their own flywheel. Rev limiter 5400  speed limiter 120<BR>You hit the rev limiter quite quickly in first and second 30mph and 50mph||||reg||1
+Z||000006||Bill H||11-19-2000||12:18 PM||||Phil I see you live in RI. Did you ship the car to ACE?||||reg||1
+Z||000007||Phil||11-19-2000||02:25 PM||||Bought it from ACE as a turnkey. Flew to CO gave Rich a handfull of $$ and drove it home. I've made a couple of cosmetic changes since then.||||reg||1

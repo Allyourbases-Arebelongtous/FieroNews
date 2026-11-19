@@ -1,0 +1,5 @@
+A||||3||DXR_DAD||Heat wrap???||||1||
+Z||000000||DXR_DAD||05-05-2001||03:46 PM||||Need to replace. Is this still a GM dealer part? Down to the fiberglass on the EGR tube and shift cables. Trying to do a little engine dress up this weekend <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P><BR>THANKS<BR>DXR_DAD||||reg||1
+Z||000001||mrgone||05-05-2001||10:33 PM||||i know you can buy aftermarket wrap, ive seen them on civics and the such<P>ive also seen ceramic spray||||reg||1
+Z||000002||DXR_DAD||05-06-2001||11:27 AM||||Thanks, I pick it up at the local speed shop<BR>They had 4 or 5 different types and sizes.<P><BR>DXR_DAD||||reg||10
+Z||000003||FieroJoe||05-06-2001||09:52 PM||||All the heat reflective wrapping on my firewall wiring harness was falling off, and I bought some new stuff from Summit to replace it.  They may also have blankets, like for batteries or alternators or something.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/joesig_1.jpg"> \<BR>'87 Coupe 5spd.<P>AIM:FieroJoe87||||reg||1

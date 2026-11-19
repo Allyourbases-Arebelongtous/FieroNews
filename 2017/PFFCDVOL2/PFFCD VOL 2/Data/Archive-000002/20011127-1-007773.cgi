@@ -1,0 +1,4 @@
+A||||2||Fiero2||What happened to....||||5||
+Z||000000||Fiero2||05-30-2001||09:53 AM||||I remember a forum member who had a smily face that turns into a vampire bat. Whatever happened to that?<P>Just wondering<P>Marian<P>------------------<BR> <IMG SRC="http://www.zing.com/picture/p9600001141effbe2f721d3cdf1c8091c/ff5ad888.jpg]http://www.zing.com/picture/p9600001141effbe2f721d3cdf1c8091c/ff5ad888.jpg"> ||||reg||5
+Z||000001||tgowens||05-30-2001||11:05 AM||||it wasn't me but here is the bat.......<BR> <IMG SRC="http://www.fiero.nl/uploads/asthanos_2.gif"> <P>------------------<BR><A HREF="http://www.tgowens.com/fiero/index.html" TARGET=_blank><BR>                <IMG SRC="http://www.tgowens.com/fiero/3GTS_SIG.gif">                 </A>||||reg||1
+Z||000002||Monkeyman||05-30-2001||06:23 PM||||Might have been batboy, but I can't really remember.  I wonder where he got off to.  I hope he decides to return soon.  Anyone have his email addy?<P>MM||||reg||1

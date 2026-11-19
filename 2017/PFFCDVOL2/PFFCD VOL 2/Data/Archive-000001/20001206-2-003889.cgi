@@ -1,0 +1,4 @@
+A||||2||ezsurf||Where is the cooling fan relay?||||5||
+Z||000000||ezsurf||05-23-2000||01:11 AM||||The Helm manual says the cooling fan relay is on the forward left hand side of the engine compartment.  The only problem is, it's not there.  The diagram shows 3 relays in a row.  The cooling fan relay on the left, a/c compressor relay in the center, and the fuel pump relay on the right.  The latter two relay plugs originate out of the same harness as the MAT sensor.  I find no evidence that there was a coolant fan relay plug in this harness.  Anyone know where it's at?  This is on an 86 se.  (Could this be a recall mod?)||||reg||5
+Z||000001||ka4nkf||05-23-2000||10:16 PM||||It Is located on radiator plate by left headlight||||reg||1
+Z||000002||ezsurf||05-23-2000||11:18 PM||||Thanks, I'll check it out in the morning!||||reg||14

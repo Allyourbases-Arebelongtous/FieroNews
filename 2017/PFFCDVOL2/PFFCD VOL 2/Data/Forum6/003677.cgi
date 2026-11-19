@@ -1,0 +1,2 @@
+A||||0||tomanyfieros||Calling fierolisa||||1||
+Z||000000||tomanyfieros||10-04-2001||08:54 PM||||when r u coming back to athens? LMK<BR>Thanx JAson<BR>i think doug is coming sunday, and maybe LUV ALL FIEROS if doug comes.... FIERO GET 2 GETHER! MY HOUSE SUNDAY!<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/dreamer.gif">    <BR><B>We all have dreams, but not everyone gets them...</B>||||reg||1

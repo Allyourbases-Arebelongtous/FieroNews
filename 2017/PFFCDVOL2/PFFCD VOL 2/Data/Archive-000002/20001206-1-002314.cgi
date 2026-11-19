@@ -1,0 +1,10 @@
+A||||8||Uaana||What the heck is it?||||5||
+Z||000000||Uaana||05-24-2000||08:34 PM||||Ok.. Today I was digging around under my dash on the pass side trying to figure out how to maybe get a bazooka tube under there. What I want to know is What in gods green earth is that black box looking thing directly behind the dash pocket, it's about kinda looks like a blower housing but I thought that was behind the center console.<BR>thanks in advance.||||reg||5
+Z||000001||fierosound||05-24-2000||08:55 PM||||I've had my dash out several times.  I think what you are referring to is the plastic duct that attached across the back of the dash.  This ductwork is for your vent & air conditioning and carries the air to your center and outboard (near the door) vents.||||reg||10
+Z||000002||Fformula88||05-24-2000||09:00 PM||||It sounds to me like what you may be looking at is the heater core housing.  It is behind the dash pocket... towards the center console side of the footwell.  ||||reg||1
+Z||000003||mbramble||05-24-2000||09:19 PM||||It's the duct that carries air over to the outer vents on the dash.  It is mounted to the back of the dash and runs the entire length....||||reg||1
+Z||000004||Uaana||05-24-2000||09:20 PM||||O.K.... <BR>Maybe you are both right, Cause' it fills the area from the center console almost all the way to the door, as well as going from just behind the pocket up to almost the front firewall.<P>BTW where is the factory sub usually installed?||||reg||1
+Z||000005||batboy||05-24-2000||09:34 PM||||Lay on the passenger side floor with your head down in the footwell. Now look up.||||reg||1
+Z||000006||Uaana||05-24-2000||09:48 PM||||Done.<BR>Black box looking thingy and small 6-8" gap with the buzzer mount in it along with the curtsey lamp and a little insulation. <BR>You trying to tell me they fit a sub in that tiny location?||||reg||1
+Z||000007||Standard||05-24-2000||10:12 PM||||it was a small sub...||||reg||1
+Z||000008||Uaana||05-25-2000||02:39 AM||||Hmmmmm.<BR>How much air volume do you think there might be in all that duct work? <BR>Enough for a free air 6"????||||reg||5

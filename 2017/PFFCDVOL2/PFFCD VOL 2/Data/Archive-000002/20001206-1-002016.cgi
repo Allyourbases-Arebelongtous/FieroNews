@@ -1,0 +1,4 @@
+A||||2||86SE||2M4Dale - Is this club logo big enough??||||5||
+Z||000000||86SE||04-30-2000||04:26 PM||||I made this a month or two ago, but I wasent sure if it was big enough.  I think I sent it to you but im not sure.<P> <IMG SRC="http://fierodude.hypermart.net/800.jpg"> ||||reg||5
+Z||000001||Oreif||04-30-2000||10:33 PM||||Nice job reversing the Indy pace car. You just forgot to reverse the door decal.||||reg||14
+Z||000002||2M4 Dale||04-30-2000||11:58 PM||||Hey 86SE...how ya been ? Yeah the logo was plenty big. And we have adopted it as our club logo. But like Orief said is there anything you can do about the side door writing ? Also the right hand drivers position ? Maybe even just superpose a different pic of another car. If not OH WELL... I still think it looks good and THANKS !!!!!!!!!||||reg||7

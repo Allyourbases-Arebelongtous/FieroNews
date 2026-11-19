@@ -1,0 +1,4 @@
+A||||2||Ronnie||My newest toy - '87GT||||10||
+Z||000000||Ronnie||01-16-2001||08:23 PM||||Here is a picture of my '87 GT 5-speed - - What do you think - - worth the $900 I paid for it?!?<P>------------------<BR> 1987 GT - 5-speed<BR> <IMG SRC="http://www.fiero.nl/uploads/silvergt_1.jpg"> ||||reg||10
+Z||000001||87GT||01-16-2001||08:29 PM||||If it runs, its worth $900.  I always liked white fieros.  Mine is a newly repainted Med Red Metallic with the grey bottom.  I decided to keep the paint original.  Ill try to post pics whenever I can get a descent camera.  But back to your 87, I like it.  I like the black 86 you have too.  see ya||||reg||1
+Z||000002||Ronnie||01-16-2001||08:35 PM||||Thanks - - here's a pic of both of them.<P>------------------<BR>Black '86GT 4spd / Silver '87GT 5spd<BR> <IMG SRC="http://www.fiero.nl/uploads/BOTHGTS_1.jpg"> ||||reg||10

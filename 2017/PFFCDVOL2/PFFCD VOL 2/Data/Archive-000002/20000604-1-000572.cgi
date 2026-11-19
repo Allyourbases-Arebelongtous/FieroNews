@@ -1,0 +1,8 @@
+A||||6||2M4 Dale||Canadian V8 Fiero||||1
+Z||000000||2M4 Dale||11-19-1999||01:07 AM||||Someone has a great looking 87 sport coupe with a chevy 350 at auction on Ebay. Type in Fiero in the search box.   WISH I HAD THE MONEY TO BID....OH WELL||||reg||1
+Z||000001||Patrick||11-19-1999||01:52 AM||||<BR>Hmmm.... I'm pretty sure that the owner of this car belongs to the Fiero club in this area that <B>Punkndrublic</B> mentioned here a few months ago. I looked up that thread if anyone wants to check out the club and it's member's cars:<P> <A HREF="http://www.fiero.nl/forum/Forum1/HTML/000303.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/000303.html</A> <P>Here's a link to the eBay site:<P> <A HREF="http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=202030984" TARGET=_blank>http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=202030984</A> ||||reg||14
+Z||000002||DJRice||11-19-1999||08:43 AM||||Was it just me, or did there appear to be a puddle of some kind under the passengers side of the car in the first picture.<P>I mean, Im sure it was there before he parked the car there, but you never can tell.... ||||reg||1
+Z||000003||2M4 Dale||11-19-1999||08:50 AM||||Good Eye...Maybe there's a stray dog around and no fire hydrants. ||||reg||1
+Z||000004||Formula||11-21-1999||08:50 AM||||are all the batteries in 350 fieros farther back like that? That seems weird. I would mount mine in the front.||||reg||1
+Z||000005||tabasco||11-21-1999||03:48 PM||||EAT YOUR HEART OUT DALE!!!!!!!!!!!!||||reg||6
+Z||000006||Punkndrublic||11-22-1999||11:39 PM||||Yup that guy is in the club, haven't seen him or the car, and if its the one im thinking bout its hooked up to the stock 3sp auto. I could be wrong, there are several v8's and could be any of those.||||reg||1

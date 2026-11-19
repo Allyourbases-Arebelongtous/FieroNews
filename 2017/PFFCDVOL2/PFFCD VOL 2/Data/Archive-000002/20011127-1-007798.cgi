@@ -1,0 +1,5 @@
+A||||3||sqoach||Any Fiero shows in Florida the first part of August?||||1||
+Z||000000||sqoach||05-31-2001||02:01 AM||||Planning on a vacation down to Florida near the end of summer and figured I might try to make it to a show if there is one. So, any details on any?<P>------------------<BR>sqoach@yahoo.com<P>            <IMG SRC="http://www.fiero.nl/uploads/sqoach2.JPG">   <BR>84 SE (project car?)<BR>85 Coupe (parts car)<BR>86 SC (daily driver)||||reg||1
+Z||000001||sqoach||05-31-2001||01:33 PM||||Or any kind of car shows? Come on, someone has to know  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||FieroLisa||05-31-2001||01:36 PM||||early august would be the FOCOA show in Williamsburg VA <A HREF="http://www.fieropride.com/festival.htm" TARGET=_blank>http://www.fieropride.com/festival.htm</A>  ||||reg||1
+Z||000003||beachbomb||05-31-2001||04:06 PM||||We may be having one here in Jacksonville, you never know, Robertvol is are leader. Are website is  <A HREF="http://www.fortunecity.com/marina/strand/1086/index.htm" TARGET=_blank>www.fortunecity.com/marina/strand/1086/index.htm</A>   its north florida/so ga fieros....Jim(2 '84 Indys)||||reg||1

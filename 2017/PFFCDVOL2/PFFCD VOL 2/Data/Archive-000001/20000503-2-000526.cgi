@@ -1,0 +1,8 @@
+A||||6||Brian_Morgan||Removal of front roof skin?
+Z||000000||Brian_Morgan||07-31-99||11:11 PM||||Can anyone direct me to a complete description, pictures would be nice, of how to remove the front roof skin.  I have an 84 SE with a nice sun roof and wish to transfer it to my 88 Formula. <p>I'm rebuilding the 84 SE for autocross and don't need the sun roof.<p>Thanks
+Z||000001||SCCA FIERO||07-31-99||11:38 PM||||There are 4 bolts holding it down under the cowl. Remove the wiper arms to get at the cowl. Then remove the cowl to get at the 4 blots for the roof skin.<p>Then the headliner needs to come out to get at the 8 bolts holding it down. 6 blots around the sunroof part and 2 at each forward corner. Be careful removing the skin because it is glued across the front. 
+Z||000002||Brian_Morgan||08-01-99||02:12 PM||||Thanks SCCA FIERO.  You have hit on the point exactly -- the glue, I believe its Buytal, was a very good choice as both a glue and weather proofing seal.  Any hints on getting at that stuff, e.g., releasing agent, etc.?<p>Thanks again
+Z||000003||SCCA FIERO||08-01-99||04:44 PM||||I just let it sit in the sun and let it get as hot as possible then carefully and slowly lift it off. <p>LOL...I just realized in my first post I spelled "bolt" wrong twice.
+Z||000004||batboy||08-01-99||05:54 PM||||I have my red pen out and am marking your post up. No "A" grade for you mister. lol
+Z||000005||Pretender||08-01-99||11:06 PM||||and the t-tops fit right in, in the reverse of removal???...
+Z||000006||SCCA FIERO||08-01-99||11:33 PM||||LOL...No. We are talking about the plastic roof covering. The actual roof is part of the frame. All Fiero's have the hole for the sunroof in them, just not all have the hole in the plastic skin.

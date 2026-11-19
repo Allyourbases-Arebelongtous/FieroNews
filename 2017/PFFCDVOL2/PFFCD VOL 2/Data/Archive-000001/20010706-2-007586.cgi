@@ -1,0 +1,10 @@
+A||N||8||beachbomb||Engine removal question||||5||
+Z||000000||beachbomb||12-31-2000||07:10 PM||||Is it possible to remove the engine by just putting the car up on jacks? i've never done this but will be removing an engine this summer. any help is greatly appreciated. thanks..jim(2 '84 indys)||||reg||5
+Z||000001||CraZyRabBit||12-31-2000||09:04 PM||||Yes it can. I just did this a few months ago. I have pics I can email you if you wish.<P>Mike.||||reg||1
+Z||000002||beachbomb||12-31-2000||09:06 PM||||Please do!!.thanks||||reg||1
+Z||000003||1FieroGTRacingInc||12-31-2000||11:55 PM||||i just got through pulling and replacing my 2.8 outta my 86 se with the 2.8 outta my totalled 87GT...   from the top seemed really easy to me...||||reg||1
+Z||000004||1FieroGTRacingInc||12-31-2000||11:55 PM||||i just got through pulling and replacing my 2.8 outta my 86 se with the 2.8 outta my totalled 87GT...   from the top seemed really easy to me...<P>------------------<BR>1FieroGTRacingInc.||||reg||1
+Z||000005||CraZyRabBit||01-02-2001||11:40 PM||||This is how I did it with floor jacks.<BR> <IMG SRC="http://www.fiero.nl/uploads/fierolift.jpg"> ||||reg||1
+Z||000006||fiero56||01-02-2001||11:58 PM||||I hope WTIII sees that picture. I remember someone laughing at me when I proposed that same procedure.||||reg||1
+Z||000007||CraZyRabBit||01-03-2001||12:18 AM||||If you think that's funny, this is how I separated the engine from the cradle. I used a $15 whinch attached to the staircase!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P> <IMG SRC="http://www.fiero.nl/uploads/fierolift3.jpg"> <P>Mike.<BR>||||reg||1
+Z||000008||2birds||01-03-2001||12:28 AM||||I just did my clutch back in August that way.  I used a set of ramps under the front wheels and a cherry picker to lift the body by the trunk lid catch, with the engine/cradle assy unbolted, then blocked it just in front of the front subframe mounts with jack stands before I got under it.  arely enough height to clear the top of the struts, but it worked well enough.  It was easier than using the engine holder like I did the time before, since I pulled the pan and did the rear main and oil pump.<P>  ||||reg||1

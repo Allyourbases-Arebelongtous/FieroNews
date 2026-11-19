@@ -1,0 +1,5 @@
+A||||3||8Ball||Anyone here work on Monitors?||||1||
+Z||000000||8Ball||12-09-2001||11:49 PM||||I have a HP M70 with the horizontal demper diode burnt out on it. Or so I was told.<BR>Anyone have schematics on this monitor so they could let me know where this diode is??<BR>Please and thank you,<BR>I have tried and tried to find it but no luck thus far.<P>E.B.||||reg||1
+Z||000001||maryjane||12-10-2001||01:31 AM||||Fieronv does, or used to. Change the 'show topic for 'x' days' to 5 days and look for his reply in a thread about a monitor turning yellow. I've got an Idek visionmaster 17" that won't come on- just hear the high voltage transformer power up, but nothing on the screen. Sure would like to get it fixed too, but too much just to have it diagnosed.||||reg||1
+Z||000002||8Ball||12-10-2001||08:48 AM||||Cool Thanks,<P>E.B.||||reg||1
+Z||000003||fieronv||12-10-2001||10:58 AM||||Unfortunately I don't have any HP schematics where I work now but I'll see if I can find your models and get back to you.<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/Fiero2_WEB_1.jpg">   <BR>85GT (twoloud)||||reg||1

@@ -1,0 +1,3 @@
+A||||1||SwampBat||A Fiero Limo?
+Z||000000||SwampBat||05-22-99||10:50 PM|||| <IMG SRC="http://www.geocities.com/Pentagon/2993/fiero_limo.jpg">   I know you have seen fake ones on the net, <i>but</i> .......
+Z||000001||87GT||05-23-99||09:02 AM||||That car would be exactly like mine except the limo part of course. Same rims and all. Interesting. 8-)

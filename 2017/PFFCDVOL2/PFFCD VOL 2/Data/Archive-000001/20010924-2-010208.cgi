@@ -1,0 +1,7 @@
+A||||5||V8Fiero||Rock guard around rotors?||||1||
+Z||000000||V8Fiero||05-05-2001||11:03 PM||||You know the rock guard around the rear rotors? Are they really necessary? One of mine is bent to crap and I cant really get it shaped to that it doesnt scrape the rotor. Would it hurt much if I just left it off?<P>Thanks.<BR>Scott||||reg||1
+Z||000001||PBJ||05-05-2001||11:33 PM||||I always thought it was a heat shield.  Any ways if its a problem, get rid of it.||||reg||1
+Z||000002||theogre||05-06-2001||12:11 AM||||It does help keep crap off the rotor. <P>How much it matters partly depends where you drive.<P>Best thing would be to find another one. ||||reg||1
+Z||000003||LottaBallsCamaro||05-06-2001||01:23 AM||||Getting rid of them allows more air get to the rotors resulting in better cooling of the rotor.||||reg||1
+Z||000004||Nashco||05-06-2001||01:58 AM||||I always thought its main purpose was for water deflection and debris/heat shield.  I don't think it would be a good idea to remove it.  Also, would every manufacturer in the last 40 years put one on there if it didn't need it?  I know this rule doesn't apply to everything, but 98% of the time it does.<P>Bryce<BR>88 GT||||reg||1
+Z||000005||Fierowrecker||05-06-2001||08:07 AM||||You Are right!<BR>GM saves a few cents by not having a starter heat shield, which every Fiero should have, so the rotor shield has to be important enough to have them spend the pennies for it!<BR>crash...||||reg||1

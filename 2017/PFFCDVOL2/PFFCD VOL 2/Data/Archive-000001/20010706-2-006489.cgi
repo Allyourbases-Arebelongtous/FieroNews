@@ -1,0 +1,5 @@
+A||||3||Brian84SE||instrument panel lights||||1||
+Z||000000||Brian84SE||10-30-2000||12:06 PM||||Does anyone else has problems with some of the i.p. lights (oil, seat belt, deck lid ajar,etc intermittently not working?  I've tried taking them out and re-inserting them and I still get them working on occasion.||||reg||1
+Z||000001||2xsess||10-30-2000||12:16 PM||||Those Lights seem to be very finicky about when they want to work, I took my instrument panel out and cleaned the back of it too ensure good contact.<P>Good Luck!<P>------------------<BR>Jeff<BR>85GT||||reg||1
+Z||000002||theogre||10-30-2000||07:45 PM||||Single lamp or all lamps at same time?<P>A single lamp may need the lamp holder replaced. the contact springs that hit the dash circuitry often weaken or even crack.<P>All lamps would likely mean the headlight swtich, dimmer knob, or transistor have a problem.||||reg||1
+Z||000003||Vlad||10-31-2000||02:14 AM||||I had a very weak lights all over the panel.<P>The problem disappeared after fixing battery<BR>negative ground cable.<P>||||reg||1

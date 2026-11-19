@@ -1,0 +1,3 @@
+A||N||1||count_iblis||formula for sale||||1||
+Z||000000||count_iblis||10-24-2000||09:38 PM||||is 1700 good for a formula?  it is red and auto, but instead of the spoke rims it has like the coupe rims.  If someone could tell me how to post a pic i could show the picture<BR>||||reg||1
+Z||000001||2xsess||10-24-2000||10:36 PM||||Count to post pics you have to go to the bottom of the page and download PIP, click on the big blue square.<P>Then you simply follow the instructions<P>How many miles are on the Formula? Where are the original rims?<P>Good Luck<BR><P>------------------<BR>Jeff<BR>85GT||||reg||1

@@ -1,0 +1,3 @@
+A||||1||saleenfiero||Final say on air instake mods||||12||
+Z||000000||saleenfiero||04-01-2001||05:29 PM||||I've searched and search and cannot get a definitive answer on whether punching out that stock water restrictor thing in the side of the car yields any advantages.  I realize you're not gonna get a 10HP increase, but anything at all?<BR> <IMG SRC="http://www.fiero.nl/uploads/fiero1_12.jpg"> <P>------------------<BR>'86 SE - My car is actually a MacLaren F1 with a Fiero body kit; or not.||||reg||12
+Z||000001||FieroLisa||04-01-2001||05:32 PM||||I can't give you any numbers or dyno readings, but I have a k&n cold air intake on my car and its my personal opinion that there is a definite increase in performance in upper RPMs. ||||reg||1

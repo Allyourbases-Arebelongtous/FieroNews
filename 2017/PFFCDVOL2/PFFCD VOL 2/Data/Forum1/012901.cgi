@@ -1,0 +1,3 @@
+A||||1||fieroX||Turbo88 where did you go?||||1||
+Z||000000||fieroX||12-22-2001||02:26 PM||||Just wondering if you have any updates on the power fest?<P>------------------<BR>    <BR><A HREF="http://www.fieroX.com" TARGET=_blank>   <IMG SRC="http://www.fierox.com/logo2small.gif">  </A><BR><A HREF="http://www.fieroX.com" TARGET=_blank>http://www.fieroX.com</A><BR>coming soon L67 powered 87 coupe||||reg||1
+Z||000001||Fierokid87||12-22-2001||04:31 PM||||What is the Fiero Powerfest?  Where will it be?<P>Scott<P>------------------<BR><FONT COLOR="red"> Fierokid's  Web site:</FONT><BR><FONT COLOR="white">http://www.angelfire.com/sports/sfiero</FONT><P><FONT COLOR="blue">AIM: Fierokid87<BR>ICQ: Fierokid</FONT><P>  <IMG SRC="http://www.fiero.nl/uploads/fierokid.gif"> ||||reg||1

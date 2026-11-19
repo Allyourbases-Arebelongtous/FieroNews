@@ -1,0 +1,2 @@
+A||||0||Philphine||loves in need of love today.||||1||
+Z||000000||Philphine||09-22-2001||09:29 AM||||stevie wonder<P>don't ask why i'm posting this. i don't know myself. it just occured to me that it's one song that i haven't heard since all this has been going on so i had to dig through the cd's to listen to it. it's appropriate. <P>------------------<BR>Phil T.<P>start where you are,<BR>use what you have,<BR>do what you can.||||reg||1

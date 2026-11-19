@@ -1,0 +1,3 @@
+A||||1||Jaygee79||The big 5-0-0||||1||
+Z||000000||Jaygee79||08-15-2001||03:35 PM||||This is my 500th post.<P>OK where's the party?  I want presents  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR><FONT COLOR="purple">Jaime<BR>AOL IM: Jaygee79<BR>ICQ: 85931334</FONT><BR><A HREF="http://www.geocities.com/jaygee79/index.html" TARGET=_blank>Jaygee79's Web Page</A><BR>       <IMG SRC="http://www.fiero.nl/uploads/peggypic.jpg"> ||||reg||1
+Z||000001||starfighter007@msn.com||08-15-2001||06:20 PM||||Congratulations,oh um presents?yeah I sent mine in the mail as we speak lemme know when ya get it.  <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif"><p>[This message has been edited by starfighter007@msn.com (edited 08-15-2001).]||||reg||6

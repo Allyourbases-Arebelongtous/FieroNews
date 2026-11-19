@@ -1,0 +1,5 @@
+A||||3||fierosound||ATTN: CLIFF- re: search button||||1||
+Z||000000||fierosound||09-08-2001||12:33 AM||||Cliff,<P>The SEARCH forum button is so small it's easy to miss, and many users new to PFF can't find it.  How about a BIG "Search Forums" button right next to the Red Fiero in the top left??  It may be a BIG help...<P>Thanks...<BR>||||reg||1
+Z||000001||Raydar||09-08-2001||01:45 PM||||I second the request.<P>I *know* the search button is there, and I still have to look around for it when I need it. <BR>I don't think that new folks notice it at all.<P>Thanks!<P>------------------<BR>Raydar - aka Steve<BR><FONT SIZE="1"><BR>Black 88 Formula.<BR>Red 88 Duke coupe. "The Project" <BR>88 Formula parts car. "The Donor"<BR></FONT>||||reg||1
+Z||000002||maryjane||09-08-2001||02:42 PM||||sometimes I think a BIG search button should pop up every time you go to post in the tech section, and mandantory punction/spell chk.  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000003||theogre||09-08-2001||03:58 PM||||spill chuck? what did he do to you? Besides... It's that what the EPA is for? taking care of spulls?||||reg||1

@@ -1,0 +1,3 @@
+A||||1||NDFieroTN||TN fiero at FOCOA with Madison Co. TN Tags||||6||
+Z||000000||NDFieroTN||07-31-2000||10:31 PM||||Anyone know who owned the fiero at FOCOA with Madison County TN tags?||||reg||6
+Z||000001||My7Fieros||08-01-2000||02:45 AM||||Hey James, its Brian (FieroGtSe2m4@aol.com)...I dont know who the car belongs to, but I was looking at some pics of the show posted here and I think its the teal green/blue fastback(?).....btw, Madison County is Jackson, just N/E of Memphis. <BR>Email or Im me and lemme know when a good time to stop by is....I need to show Nick your Indys!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

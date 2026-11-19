@@ -1,0 +1,3 @@
+A||N||1||Ferrari355||WHERE IS THE PAINT VIN LOCATED???||||4||
+Z||000000||Ferrari355||01-21-2000||04:54 PM||||Does anyone know where the paint vin number is located at? We are going to paint my Fiero to it's original color but can't find the paint vin #, we looked in a repair manual but it was confusing and when we looked we couldn't find it, please let me know. ||||reg||4
+Z||000001||ka4nkf||01-21-2000||05:02 PM||||It is located under the hood on the left fender well. will be a piece of paper about 6 inches long with a bunch of numbers. the paint code is usually the last code number by itself. usually starts with WA.||||reg||1

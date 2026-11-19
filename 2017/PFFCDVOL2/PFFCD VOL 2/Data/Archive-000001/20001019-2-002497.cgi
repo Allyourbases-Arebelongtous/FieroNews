@@ -1,0 +1,8 @@
+A||N||6||RobertVol||Body Panels||||5||
+Z||000000||RobertVol||02-27-2000||08:40 PM||||I was wondering ....Is there a tool that you can use to tighten the body panels to the frame? Over time they seem to lose the tightness but I would think you could tighten back down. Can you? Is this possible? ||||reg||5
+Z||000001||Monkeyman||02-27-2000||08:45 PM||||BFH??||||reg||1
+Z||000002||87 Steve GT||02-27-2000||08:49 PM||||    <IMG SRC="http://www.fiero.nl/forum/tongue.gif">       <IMG SRC="http://www.fiero.nl/forum/confused.gif"> ||||reg||1
+Z||000003||bHooper||02-27-2000||08:53 PM||||Robert, Ihave never noticed exterior pannels losen.  I have removed my cars fenders, bumpers and hood's and can tell you that they are all fastened with metal and plastic rivits, except at the top where they are bolted to the frame.  If they are lose, you may need to replace or add some rivits.<P>Monkey, what is BFH? ||||reg||1
+Z||000004||RobertVol||02-27-2000||09:02 PM||||They do get lose as to were there is more of a "slapping" Sound of the body "flexing" My 87 GT was notorious for this. My 88GT is now doing this. The bodies on these cars have always had Flexing but over time it gets worse. They can be tightened down with a certain tool but I cant remember what it was. Maybe back to the dealers. ||||reg||1
+Z||000005||DRH||02-28-2000||12:13 AM||||BFH... B is Big, H is Hammer, I think you can figure out F now  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000006||Monkeyman||02-28-2000||06:08 AM||||DRH got it right.  I think the proper definition was Large, Sexually Active Hammer.  Sorry.  I keep forgetting that some members are newer than others.  My other suggestion would have been Super Glue.||||reg||1

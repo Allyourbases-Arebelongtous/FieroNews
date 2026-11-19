@@ -1,0 +1,4 @@
+A||||2||FieroKyle||Fierowrecker......||||1||
+Z||000000||FieroKyle||07-19-2001||09:36 PM||||Saw ya pulled over Thursday night, what for? =)<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/sign_1.jpg">  <P>My Fast 'n Black Car<BR>AOL Name: Yakty Yak<BR>E-Mail: YaktyYak@aol.com<P>Kyle - 85' GT||||reg||1
+Z||000001||Fierowrecker||07-20-2001||12:01 AM||||How about 55 in a 25?<BR>Nice cop though...<BR>Wrote it up as 35 in 25...<BR>Have a nice day!||||reg||1
+Z||000002||FieroKyle||07-20-2001||12:07 AM||||55 in a 25 wow!, thats like a wreckless driving ticket. Good deal though. Yeah nobody goes 25 through there, you can get away with 35 most of the time. Last two times I have been pulled over were waved. A rolling stop with a State cop coming out of Admiral and a 41 in a 25 in Ada by a county cop. No tickets yet! ||||reg||1

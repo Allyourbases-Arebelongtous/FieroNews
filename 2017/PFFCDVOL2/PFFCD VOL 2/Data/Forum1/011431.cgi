@@ -1,0 +1,3 @@
+A||||1||PaulJK||which Fuel tank sender||||1||
+Z||000000||PaulJK||10-31-2001||06:31 AM||||I'm changing my fuel gauge to an ISSPRO gauge. I need to get the ISSPRO sender but need to know how the fuel tank depth- anybody know how deep the tank is on a 1985 SE V-6, 4 speed ? Any suggestions on what else to do while I have the tank down - new fuel pump (car has 80,000 miles), etc. ? Thanks Much.||||reg||1
+Z||000001||AL||10-31-2001||10:51 PM||||since you have it down wh not measure it?<BR>also you could change the fuel pump, if you really need to,where in LA are you?<BR><B>AL</B> <IMG SRC="http://www.fiero.nl/uploads/AL_sig.gif"> <BR>84 INDY (STOLE IT)250$<BR>86 GT <BR>89 WS6 GTA<P>------------------<BR> ||||reg||1

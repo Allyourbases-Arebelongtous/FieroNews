@@ -1,0 +1,7 @@
+A||||5||ROB MAC||tach jumps||||5||
+Z||000000||ROB MAC||06-15-2000||12:10 PM||||After the car sits for a day or two in a heavy rain the tach will jump just enough to light the "shift" indicator. Once the car warms up and dries out it's fine. What is getting wet to cause this ?||||reg||5
+Z||000001||StuGood||06-15-2000||12:31 PM||||Tach filter would be my first guess.<BR>Does ECM set any trouble codes?<p>[This message has been edited by StuGood (edited 06-15-2000).]||||reg||1
+Z||000002||2M4 Dale||06-15-2000||12:37 PM||||Mine just dies once in a while. Only for a moment and then it wakes back up. Don't really bother me but it is an anoyance. Any good place to get a new "filter" ? And where is it anyway ? I have a 87 4cly 5spd coupe.||||reg||1
+Z||000003||StuGood||06-15-2000||01:02 PM||||Strangely enough, ALL annoyances bother me.<P>Tach filter is a little silver "can" thing near the distributor.  Looks like an old fashioned (?) ignition condenser, has white wires sticking out of BOTH ends of it.<P>Don't know if replacements are available, but there is a website that gives the circuit for what's inside, so you can build your own.  It's a fairly simple RC circuit.   ||||reg||7
+Z||000004||Old Lar||06-15-2000||02:11 PM||||Tach Filter = Rodney Dickman<P>rodney@execpc.com||||reg||3
+Z||000005||ROB MAC||06-15-2000||05:25 PM||||Thanks . I've never replaced or serviced it so I'll give it a try. No codes,it just jumps a little when wet.||||reg||1

@@ -1,0 +1,3 @@
+A||||1||Alex2004||firebird 2.8 question.||||4||
+Z||000000||Alex2004||06-19-2001||10:13 PM||||Ok, this isn't really Fiero related but maybe yuo can tell me what this is. My dad is putting this engine in his friends firebird and there is somthing in the oil pan that looks like a check valve, and he wants to know what it's for, i haven't got a clue.... Let me Know...<P>Alex...||||reg||4
+Z||000001||PBJ||06-20-2001||12:13 AM||||If it looks like a check valve is probable is a check valve.  Is it in the oil pick up screen tube. Possibly to keep oil from flowing out of pump/filter/oil galleries.??<P>Is it just a oil damper within the pan to slow oil from sloshing around??||||reg||1

@@ -1,0 +1,2 @@
+A||||0||contra||I've reduced the price of my fiero to sell...the mall..||||1||
+Z||000000||contra||12-20-2000||03:14 PM||||if you all remember my fiero...<BR>winter hit here in toronto<BR>and i needed a car BAD<BR>so i took out a loan to buy one<BR>and now i REALLY need to sell this fiero<BR>cause being 18, i dont have a lot of money.<P>Check out the mall here on pennocks for more info.<P>thanks you guys have always been a great support!<BR>||||reg||1

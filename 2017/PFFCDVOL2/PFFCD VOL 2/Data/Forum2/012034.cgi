@@ -1,0 +1,4 @@
+A||N||2||beachbomb||Cylinder compression test||||5||
+Z||000000||beachbomb||07-14-2001||12:44 PM||||Hi all, is it possible to test the cylinder compression with the engine out of the car on a motor mount? If so does anybody know who can do this(i.e. Pep boys, Napa..etc)..thanks.jim||||reg||5
+Z||000001||88formula||07-14-2001||05:52 PM||||Do it yourself! Get a pressure gauge (they are cheap) and use the starter on the engine with jumper cables to turn it over. Make sure you block the throttle wide open.<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/88formula_logo_1.JPG"> ||||reg||1
+Z||000002||Fierowrecker||07-14-2001||07:53 PM||||Hey Beachbomb!<BR>A better test is a cylinder leak down test...<BR>You have to have a source of compressed air, but will tell you a lot more than a compression test...<BR>crash...||||reg||1

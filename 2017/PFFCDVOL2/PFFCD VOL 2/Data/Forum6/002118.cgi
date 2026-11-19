@@ -1,0 +1,3 @@
+A||||1||Jake_Dragon||test||||1||
+Z||000000||Jake_Dragon||05-24-2001||07:29 PM||||<A HREF="http://home1.gte.net/rebel33/ew.wav" TARGET=_blank>HuH?</A> <P>------------------<BR>        <IMG SRC="http://home1.gte.net/rebel33/logo.gif">   <P>[This message has been edited by Jake_Dragon (edited 05-24-2001).]<p>[This message has been edited by Jake_Dragon (edited 05-24-2001).]||||reg||1
+Z||000001||Jake_Dragon||05-24-2001||07:45 PM|||| <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR><A HREF="http://home1.gte.net/rebel33/index.htm" TARGET=_blank> <IMG SRC="http://home1.gte.net/rebel33/logo.gif"> </A>||||reg||1

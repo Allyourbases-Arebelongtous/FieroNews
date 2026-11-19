@@ -1,0 +1,6 @@
+A||N||4||jhogans||Dash Repair Help??||||1||
+Z||000000||jhogans||07-24-2000||10:21 PM||||I sat in my car and took a good look to see what is the next thing I am going to do.<P>I was looking at my radio pod and the outer covering (vinyl) is bowed on both sides.  Other places around the dash is bowed.   How do I go about fixing this.<P>||||reg||1
+Z||000001||ROB MAC||07-24-2000||10:29 PM||||If you take the console apart , that "hood" is removable and contact cement ( I used a high heat cement) will restick the vinyl.||||reg||1
+Z||000002||DXR_DAD||07-24-2000||11:52 PM||||jhogans, There has been lots of talk on this<BR>I'm in the process of re-doing my interior/upholstery. I have done the re-glue<BR>and part of the color change (dye). Will have pics soon. It looks good!!!!<P>Do a search  (glue) and get all the info&gt; here's one:<BR> <A HREF="http://www.fiero.nl/forum/Forum1/HTML/002837.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/002837.html</A> <P><BR>DXR_DAD||||reg||1
+Z||000003||jhogans||07-24-2000||11:54 PM||||Thanks guys.  I can't seem to get the search to work.  I always get a timeout.||||reg||1
+Z||000004||Gold-86SE||07-25-2000||10:16 AM||||<BR>Try narrowing the date on the search. This will limit the number of items the search will go thru, and it may help.<BR><P>------------------<BR>Gold-86SE (Fiero Collector)||||reg||1

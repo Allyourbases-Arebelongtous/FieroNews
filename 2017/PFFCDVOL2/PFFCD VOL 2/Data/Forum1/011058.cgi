@@ -1,0 +1,5 @@
+A||||3||Wannabe||Would I be nuts to pass this up??||||1||
+Z||000000||Wannabe||10-16-2001||02:16 PM||||After hours of pouring over all the info I can find on engine swaps, it looks like the best choice for me will be the 3800 SII. After shopping around a bit, I found a '96 3800 SC from a Buick Park Ave Ultra, about 50K miles, comp tested at 160 psi cold all around. Price with harness, pcm, engine and SC assembly complete and pulled from the car is C$1600. That's like $1050US. It also comes with a basic 90 day salvage warranty.||||reg||1
+Z||000001||Old Lar||10-16-2001||02:40 PM||||I'd grab the transmission too.  Less hassle that putting in a manual.||||reg||1
+Z||000002||FieroBUZZ||10-16-2001||03:02 PM||||Take the compression test with a grain of salt, I've seen guys writing tags with 150 or 160 without even looking at the engine. It seems to be a good price and do get the tranny as well.<BR>Gary||||reg||4
+Z||000003||Wannabe||10-16-2001||03:49 PM||||Tranny has to be 5 speed, whatever the hassle. I know it has been done, but still need to do some more digging on how to get the pcm to work without the auto trans.||||reg||1

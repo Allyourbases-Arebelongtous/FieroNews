@@ -1,0 +1,4 @@
+A||||2||MD_Fiero||trying to find convertable grand am...||||1||
+Z||000000||MD_Fiero||08-28-2001||12:06 PM||||i saw pics yesterday it was like a goldish bronze??....their was one pic of the entire car, and one pic of the engine...does anyone know what topic/section this is under?./..i did a search but couldnt find it....please help! =)<P><BR>thanks!!||||reg||1
+Z||000001||Formula88||08-28-2001||12:46 PM||||Ya lookin' for this one?<BR> <IMG SRC="http://www.fiero.nl/uploads/SCT_Roadster_Stockcar-small_1.jpg"> <P>If that's the one you're lookin' for, go here: <A HREF="http://www.n-body.net/gallery/" TARGET=_blank>http://www.n-body.net/gallery/</A> <P>Cheers!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||6
+Z||000002||MD_Fiero||08-28-2001||12:54 PM||||yea! =) thanks formula!!<P>||||reg||1

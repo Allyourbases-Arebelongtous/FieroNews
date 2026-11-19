@@ -1,0 +1,5 @@
+A||N||3||Monkeyman||Removed the 3rd brake light--Any problems??||||5||
+Z||000000||Monkeyman||11-15-2001||06:54 PM||||I removed the 3<sup>rd</sup> brake light on my '86 GT when I installed my new headliner.  Will I have any odd electrical problems now?  (I should have asked this before I did it.  Sue me.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> )  The brake lights that are left (rear) will still work fine, won't they?<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/PontiacAPE.jpg">    <BR>Monkeyman||||reg||5
+Z||000001||Phil||11-15-2001||07:10 PM||||Shouldn't be any electrical problems, provided there are no wires hanging around to short out. Might have problems come inspection time.||||reg||1
+Z||000002||theogre||11-15-2001||07:15 PM||||Electrically a non issue...<P>If you have inspections, you maybe won't pass now. <P>------------------<BR>  <IMG SRC="http://www.fiero.nl/forum/fullstaff.gif">  <FONT COLOR="blue"><I><B>11-Sept-01, The day the world as we knew it ended.</B></I></FONT>||||reg||1
+Z||000003||Monkeyman||11-15-2001||07:19 PM||||Thanx, guys.  No inspections in Indiana.  (Thank God.)||||reg||1

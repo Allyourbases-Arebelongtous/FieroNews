@@ -1,0 +1,3 @@
+A||||1||lennyb4||Interior Mod Update||||4||
+Z||000000||lennyb4||02-15-2000||09:50 AM||||I have just finished the radio housing facia ( i decided to stick w/6061AL) and it looks sweeeetttt.I also made a template for the shifter w/gate. Unfortunatly i have found that you can not shift gears quickly with the gate in place. I am also planning on water jet cutting the dash console (better appearance). My little project should be completed in about 2-3 more weeks. I will continue to keep you guys informed.||||reg||4
+Z||000001||Spyder||02-15-2000||10:45 AM||||A design like this might help make the shifting quicker:<BR>  <IMG SRC="http://www.titaniumcavallino.com/ferrari/cav_sureshiftgate_view1.jpg">  <p>[This message has been edited by Spyder (edited 02-15-2000).]||||reg||1

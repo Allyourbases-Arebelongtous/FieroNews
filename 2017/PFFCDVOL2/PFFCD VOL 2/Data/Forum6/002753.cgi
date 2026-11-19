@@ -1,0 +1,9 @@
+A||||7||maryjane||fireball||||5||
+Z||000000||maryjane||07-25-2001||12:19 AM||||read about the "shooting star" in the N.E.. Anybody up that way see it first hand?||||reg||5
+Z||000001||frontal lobe||07-25-2001||12:47 AM||||Phew!  I thought this thread was going to be about an '84 Fiero.<P>No, fill me in.  This is the first I heard about it.||||reg||1
+Z||000002||Fierokid87||07-25-2001||01:19 AM||||Yeah i thought its was about an 84 Fiero.  Im glad its not.  Pretty soon there wont be anymore 84 Fieros.<P>Scott||||reg||3
+Z||000003||Ferrari_cdn||07-25-2001||01:35 AM||||But wouldn't most 84 Fieros still alive today have that problem fixed by then!||||reg||1
+Z||000004||maryjane||07-25-2001||01:38 AM||||hmm, can't seem to make this a link: <A HREF="http://www.abcnews.go.com/sections/scitech/" TARGET=_blank>http://www.abcnews.go.com/sections/scitech/</A> <BR>DailyNews/bolmide_pm010724.html<BR>BTW, my Fiero is an 84 duke, ya gotta keep the oil leaks fixed and hoses & wiring in good shape.<p>[This message has been edited by maryjane (edited 07-25-2001).]||||reg||1
+Z||000005||DecadenceR||07-25-2001||01:56 AM||||Same here. My Duke is good. Lets hope it stays that way?<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/SigPic.jpg">  <BR>AIM - DecadenceR<BR>"For though I cannot fly, I'm not content to crawl..."||||reg||1
+Z||000006||fierobaby||07-25-2001||10:29 AM||||my 84 is still kicking...lines in good condition and everything....welll HUSH the brakes are just evil!!!!!!!!||||reg||1
+Z||000007||fierohoho||07-26-2001||06:29 PM||||Here's another good site for Fireball info: <A HREF="http://WWW.skypub.com/news.shtml#fireball" TARGET=_blank>WWW.skypub.com/news.shtml#fireball</A> <P>------------------<BR>'84 SE 2.5l<BR>'85 Coupe 2.5l now getting a 3800<BR>'86 SE 2.5l||||reg||1

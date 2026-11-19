@@ -1,0 +1,4 @@
+A||N||2||Dan87GT||V6 High Torque Starter||||1||
+Z||000000||Dan87GT||09-17-2001||07:36 AM||||Hello, I just installed a rebuilt 2.8 in my 86SE and I can't get the motor to turn over fast enough to start. Does anybody make a high torque starter for the V6???<P>Thanks||||reg||1
+Z||000001||Alex4mula||09-17-2001||08:31 AM||||I guess either your starter or your battery are bad. Never heard the need for that on a V6.||||reg||1
+Z||000002||Joe Torma||09-17-2001||09:26 AM||||Check out a '97 Olds Silouette 3400 starter.  Smaller, lighter, spins the engine nicely.  Just wait a week or more before you return your old core  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/simplesig1.gif">  <BR>Did you get your car in my book yet????<BR> <A HREF="http://www.animatedconcepts.com/fierobook.htm" TARGET=_blank>http://www.animatedconcepts.com/fierobook.htm</A>||||reg||1

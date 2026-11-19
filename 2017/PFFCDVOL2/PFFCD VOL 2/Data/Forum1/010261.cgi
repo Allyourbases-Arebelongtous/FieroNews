@@ -1,0 +1,9 @@
+A||||7||Dgzfiero||Hi All||||1||
+Z||000000||Dgzfiero||09-13-2001||09:24 PM||||Hi everyone I'm kinda new to the forum Iv've been looking at it for a few months but had a bad cable modem connection that would disconnect after a few minutes all the time. But it is better now. I have an 88coupe that is in the middle of an engine swap. Going from 2.5 to 3.8SC. Should be fun when it's done.||||reg||1
+Z||000001||Urchin||09-13-2001||09:29 PM||||Hello.  Let me first to say... Welcome!   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>You'll have to post some pics of your car when you can...<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/final.jpg">  <BR>If you can read this, I'm parked.<p>[This message has been edited by Urchin (edited 09-13-2001).]||||reg||1
+Z||000002||skitime||09-13-2001||09:43 PM||||Welcome Glad to have you here.<P>------------------<BR><UL TYPE=SQUARE><BR><LI>Red 88 GT T-TOP<BR><LI>Red 86 GT<BR></UL> <IMG SRC="http://www.fiero.nl/uploads/signature-1.JPG"> ||||reg||1
+Z||000003||MsBeth||09-14-2001||12:11 AM||||Welcome offically to the best forum on the web  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/blue_2.gif">  <P>MsBeth||||reg||7
+Z||000004||Rick 88||09-14-2001||12:50 AM||||Welcome aboard the Forum! If you need any SC 3800 stuff for your swap, check the post in the "Mall" section.<P>Rick<BR>yellow 88 GT 5-speed||||reg||7
+Z||000005||California Kid||09-14-2001||04:27 PM||||...<BR><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Signature_5.jpg"> ||||reg||1
+Z||000006||fiero_gt||09-14-2001||05:13 PM||||Welcome to the forum||||reg||10
+Z||000007||stimpy||09-14-2001||05:39 PM||||Whaddup, Doug! So I guess you got your cable working. Now, if you could just get your car done. ||||reg||1

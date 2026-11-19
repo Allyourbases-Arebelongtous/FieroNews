@@ -1,0 +1,2 @@
+A||||0||firstfiero||anybody have madden 2001 for the pc?||||14||
+Z||000000||firstfiero||04-26-2001||10:38 PM||||      Can you please tell me how I choose what reciever to throw to. It's throws to the same reciever everytime!<P>------------------<BR>Hey Mr. Ricer come over here and tell me how your stickers make you faster.....<BR> <IMG SRC="http://www.fiero.nl/uploads/headshot.gif"> <BR>Todd <BR>  86se||||reg||14

@@ -1,0 +1,4 @@
+A||||2||84 2in1||headlight motors||||1||
+Z||000000||84 2in1||06-04-2001||11:03 PM||||where can I find on the net where to take apart and rebuild my headlight motors?-B-<P>------------------<BR>If it works DON"T FIX IT!||||reg||1
+Z||000001||kslish||06-05-2001||12:23 AM||||You can get the parts from Rodney Dickman:<BR> <A HREF="http://www.rodneydickman.com" TARGET=_blank>www.rodneydickman.com</A> <P>Instructions on how to rebuild them are included with his kits.<P>Ken S.<BR>'87GT and '86SC<BR> <A HREF="http://www.westpennfiero.org" TARGET=_blank>www.westpennfiero.org</A> ||||reg||1
+Z||000002||Carrolles||06-05-2001||07:37 AM||||Take a look through these.  Maybe you'll find something useful.<BR> <A HREF="http://www.angelfire.com/biz/fierosails/info.html" TARGET=_blank>http://www.angelfire.com/biz/fierosails/info.html</A> <P>Good luck,<P>Carroll||||reg||1

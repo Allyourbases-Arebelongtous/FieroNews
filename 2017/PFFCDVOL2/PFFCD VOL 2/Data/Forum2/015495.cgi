@@ -1,0 +1,7 @@
+A||||5||REDHOTT88||Oil pressure gauge pegged||||5||
+Z||000000||REDHOTT88||11-16-2001||04:51 PM||||My Beautiful 88 formula runs real nice.<BR>  <BR>However, when driving the oil pressure gauge goes all the way to the right.<P>Oil seems good, and needle drops when car is shut off. Is this normal, or typical?<P>V6, 5speed   (has loose dipstick though, see previous post.)||||reg||5
+Z||000001||watts||11-16-2001||04:57 PM||||Pull the plug off the sender with the ignition on and see if it drops down to zero.  If it does, replace the sender.  If not, you've probably got a short to ground on the sensor side of the wiring between the gauge head and the sender.<BR><P>------------------<BR>87/88 V6 5spd Notchback Hybrid<BR> <IMG SRC="http://www.fiero.nl/uploads/watts_sig.jpg"> ||||reg||1
+Z||000002||avengador1||11-16-2001||04:58 PM||||Since you are already being helped, how about some pictures? I know a lot of us can't get enough pictures of Fieros.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1
+Z||000003||REDHOTT88||11-16-2001||05:00 PM||||WOW! YOU GUYS ARE GOOD!<P>Thanks I'll give it a try...<BR>||||reg||1
+Z||000004||REDHOTT88||11-16-2001||05:01 PM||||Yup!<P>I'll be scanning in some pix as soon as they are developed.<P>Not sure how to put them in here though...||||reg||1
+Z||000005||avengador1||11-16-2001||06:47 PM||||Save them as jpegs and use the pennock's image publisher at the bottom of the post page. Follows his instructions.||||reg||1

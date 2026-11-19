@@ -1,0 +1,3 @@
+A||||1||JayLT1||Name Change, please look really quick||||1||
+Z||000000||JayLT1||12-23-2001||02:53 PM||||hi everyone, since all this at home BS came along my internet went down and now my email is different and what not so i lost my password so i had to get a new name.  My new name is JayLT1 and all of you know me as JayUSA77 so just so you know who i am.  and all of you who had my old email my new one is JayUSA77@attbi.com<BR>Thanks<BR>j<P>------------------<BR>86 Black GT (95LT1 on the way)||||reg||1
+Z||000001||Smoooooth GT||12-23-2001||10:21 PM||||Well...  welcome to the Forum...  j/k  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1

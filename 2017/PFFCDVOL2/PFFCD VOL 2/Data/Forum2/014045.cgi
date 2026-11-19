@@ -1,0 +1,2 @@
+A||N||0||rhauser||Weird Clutch Behavior||||5||
+Z||000000||rhauser||09-30-2001||02:13 PM||||I have a problem with my clutch that I can't nail down...<P>At times, like after sitting a light for a long time with the clutch pedal in, the master cylinder seems to stick, allow the engine to just rev.  If I wait a few seconds it become operable again and I get pressure back on the clutch pedal.<P>Any ideas? Thanks in advance,<P>Rob||||reg||5

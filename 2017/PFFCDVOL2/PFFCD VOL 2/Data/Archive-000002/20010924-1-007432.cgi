@@ -1,0 +1,6 @@
+A||N||4||Bluebottlejunky||help with recall!!!!!!!!!!||||1||
+Z||000000||Bluebottlejunky||05-15-2001||12:13 AM||||OK I have an 85 GT 4sp..and I think that all recall work was done..but was putting a steel clucth pedal in part of the recalls for earlier fieros? Because mine is aluminum?<P>THANKS<P>------------------<BR>Mike<BR>85'GT 4sp, <BR>AOL IM: Fierofanatic2001||||reg||1
+Z||000001||Bluebottlejunky||05-15-2001||01:23 PM||||bump<P>------------------<BR>Mike<BR>85'GT 4sp, <BR>AOL IM: Fierofanatic2001||||reg||1
+Z||000002||Steven||05-15-2001||01:45 PM||||I don't think it was a recall. I think it was more of a service bulletin to the dealers letting them know that if the ran in to a clutch pedal related problem, to look at this as a possible fix. Recalls generally have to do with safety, and emission related things. Not drivablity.<P>------------------<BR> 85 Fiero GT<BR> 3.2 Liter Under Construction||||reg||1
+Z||000003||PBJ||05-15-2001||10:40 PM||||No it's not.  Recalls are for safety related items or tax right off reasons.  Fieros had enough safety related reasons for its recalls.||||reg||1
+Z||000004||Bluebottlejunky||05-15-2001||10:43 PM||||bump hmmm, I wonder how much they would charge me to put a new clutch pedal in?<BR><P>------------------<BR>Mike<BR>85'GT 4sp, <BR>AOL IM: Fierofanatic2001||||reg||1

@@ -1,0 +1,4 @@
+A||||2||DR650SE||How do I do pics in post||||5||
+Z||000000||DR650SE||11-13-2001||09:12 AM||||And How do I put pics in my sig?  What about animation, how is that done?  Thanks<P>------------------<BR>AIM:  DR650SE<BR>2 Black 86 SE's V-6 4-SPD||||reg||5
+Z||000001||JohnF||11-13-2001||09:24 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by DR650SE:<BR><B>And How do I put pics in my sig?  <P></B><HR></BLOCKQUOTE><P>The photo you want to post must be on a server somewhere (photpoint, pix, etc.) - not just on your computer.  Then:<P>[img]pic URL goes here[/img]<P>turn on the image - then turn off the image, nothin' to it!<P>||||reg||10
+Z||000002||Phil||11-13-2001||12:49 PM||||Download PIP(Pennocks Image Poster) from the little blue box at the bottom of this page and follow the instructions.<P>------------------<BR> <BR>         <IMG SRC="http://www.fiero.nl/uploads/88formula_1.gif">     <BR>SC 3800||||reg||1

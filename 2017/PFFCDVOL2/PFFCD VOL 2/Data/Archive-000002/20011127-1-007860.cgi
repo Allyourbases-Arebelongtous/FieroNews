@@ -1,0 +1,7 @@
+A||||5||elfiero||TROUBLE POSTING PICS!!!!!!!!!!!!!!!!!!||||5||
+Z||000000||elfiero||06-02-2001||08:14 PM||||I down loaded cliff"s "PIP" and I can't open<BR>it!The instructions on the pip website keep<BR>telling me to zip this and unzip that.WHAT<BR>THE H*LL ARE THEY TALKING ABOUT??????HELP!||||reg||5
+Z||000001||rogergarrison||06-02-2001||08:18 PM||||I never got it to work either. i just post the link.||||reg||1
+Z||000002||Cliff Pennock||06-02-2001||08:40 PM|||| <A HREF="http://www.winzip.com" TARGET=_blank>http://www.winzip.com</A> ||||reg||1
+Z||000003||Ed||06-02-2001||09:09 PM||||Keep after it.  If I can figure it out, so can you!||||reg||1
+Z||000004||SPDFREK||06-02-2001||09:36 PM|||| <A HREF="http://download.cnet.com/downloads/0,10152,0-10097-110-5924748,00.html?gid=37836&tag=st.dl.10097-100-5924748.dir.10097-110-5924748" TARGET=_blank>http://download.cnet.com/downloads/0,10152,0 -10097-110-5924748,00.html?gid=37836&tag=st.dl.10097-100-5924748.dir.10097-110-5924748</A> <P>That link will give you Stuff it 6, then just double click on PIP after you install Stuffit.   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/test_2.gif">  <P>'88 Fiero 4cycl Turbo,<BR>'88 Fiero GT,<BR>'72 Nova 383 stroker<p>[This message has been edited by SPDFREK (edited 06-02-2001).]||||reg||1
+Z||000005||Ed||06-02-2001||10:01 PM||||OOPS!<P>Looks like I didn't figure it out this time. <BR>Thanks to Tweek for helping me out on the Sears Point pictures. ||||reg||1

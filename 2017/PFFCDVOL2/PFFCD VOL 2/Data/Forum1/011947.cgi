@@ -1,0 +1,3 @@
+A||||1||85ZainoGT||wiring harness???||||1||
+Z||000000||85ZainoGT||11-17-2001||10:15 PM||||Well I am going to install a cd player soon, hopefully... I put this topic in tech section also, because I didnt know where it should be... but anyways, what wiring harness do I need to buy? and is there anything else I should or need to buy to install it?  thanks!<P>  *~Paul Ventimiglia<P>------------------<BR>Paul Ventimiglia<BR>1987 Gold GT 2.8L<BR>All the options :)<BR> <IMG SRC="http://www.fiero.nl/uploads/SigPic2222.jpg"> <BR>NEW pics are coming SOON hopefully... geez!||||reg||1
+Z||000001||85ZainoGT||11-18-2001||11:25 AM||||**BUMP**||||reg||1

@@ -1,0 +1,4 @@
+A||||2||Adam Draper||WHAT WHAT WHAT||||6||
+Z||000000||Adam Draper||03-18-2001||12:59 AM||||If I was to put a air intake scoop on my car. will it change my heating process?<P>Also I heard that the Indy scoop is just for looks not to work?||||reg||6
+Z||000001||FieroJoe||03-18-2001||01:02 AM||||Some indy scoops "work", some are for looks is how I understand it.<P>I dont know what you mean about changing your heating process, do you mean changing how the engine warms up or your heater inside the car or what?<P>------------------<BR>AIM: Snowboarder0311<BR>87 Coupe 5sp. - big resto in progress<BR>  <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1
+Z||000002||danny boy||03-18-2001||02:24 AM||||think hes meaning air flow. How the air flows under te car then up through the vents. I dont really think it matters with that scoop, just the grille mounted ones.||||reg||1

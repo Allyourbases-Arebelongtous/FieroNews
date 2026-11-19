@@ -1,0 +1,4 @@
+A||||2||Keith Jenkins||Help with hood cable
+Z||000000||Keith Jenkins||06-02-99||08:48 AM||||I have an 86 that the hood cable has shredded with no way to open the hood now.  Need any suggestions please as how to open the hood short of cutting a friggin hole in the hood!!<p>Thanks!<br>Keith Jenkins
+Z||000001||Phil||06-02-99||09:41 AM||||There should be a second cable coiled up by your release latch, it has an alumninum knob on the end. This is there for just this situation.
+Z||000002||Keith Jenkins||06-02-99||11:16 AM||||I just bought this car over the weekend....seems that there are two cables running to the hood release but the previous owner was having problems and used pliers or whatever to try and move the cable after the <br>cable broke on the plastic release handle...any ideas as to how and pop the trunk with both cables trashed?

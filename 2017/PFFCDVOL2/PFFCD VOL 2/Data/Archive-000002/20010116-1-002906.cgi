@@ -1,0 +1,2 @@
+A||N||0||Haze_Performance||ATTN: Fiero56||||7||
+Z||000000||Haze_Performance||07-12-2000||04:06 PM|||| <A HREF="http://www.fiero.nl/forum/Forum1/HTML/002794.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/002794.html</A> <P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/hazeperformance.jpg">     My Website's  <A HREF="http://www.drive.to/WS6_Fiero.com" TARGET=_blank>WS6 Fiero</A> &                  <A HREF="http://www.drive.to/HMP" TARGET=_blank>H.M.P. </A>||||reg||7

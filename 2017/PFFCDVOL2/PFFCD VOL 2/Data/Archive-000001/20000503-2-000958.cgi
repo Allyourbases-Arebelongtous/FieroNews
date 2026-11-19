@@ -1,0 +1,2 @@
+A||||0||jhar||2.5 idle solved!!||||10||
+Z||000000||jhar||09-27-1999||10:43 PM||||if you remember i was having trouble with idle variations on my 2.5. i changed everything,but still had the problem.the fuel pressure was at about 8.5 to 9lbs,changed all sensors and still had no codes.well after weeks of trouble shooting,i had the car running and poured fuel directly into the tbi. problem went away.so i changed the fuel pump and she runs like a raped ape. thanks to everyone who helped try to solve my problem..||||reg||10

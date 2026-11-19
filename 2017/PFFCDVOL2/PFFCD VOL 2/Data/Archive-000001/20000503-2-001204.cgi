@@ -1,0 +1,5 @@
+A||||3||DXR_DAD||TACH FILTER||||5
+Z||000000||DXR_DAD||10-24-1999||08:18 PM||||What is the recommended replacement time of this filter? What is it's main function? and it's location in the V6.<P>Thanks||||reg||5
+Z||000001||terryk||10-24-1999||09:52 PM||||When it breaks and on the left side of the rear head next to the dist. Usually, two white whites and a gray body. A clamp holds it down.||||reg||1
+Z||000002||theogre||10-25-1999||12:29 AM||||It's not a filter in the sense you are thinking. It's a noise reducer and signal "shaper" for the tach. It "cleans up" the signal feeding the tach.<P>You only need to replace it if it's causing ignition problems. One of it's "modes of falure" results in a short of the coil to ground. this keeps the coil from firing.||||reg||1
+Z||000003||DXR_DAD||10-25-1999||09:18 PM||||Ogre thanks, You said that some of the sensors should just be replaced because of age, so Iam just getting my list together of locations, part #, and prices. I thought this tach filter may be something I should know about. Thanks for the info.||||reg||1

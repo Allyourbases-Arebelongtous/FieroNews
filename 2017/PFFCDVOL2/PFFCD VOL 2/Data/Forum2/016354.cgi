@@ -1,0 +1,6 @@
+A||||4||jeffndebrus||non fiero ford ranger question||||1||
+Z||000000||jeffndebrus||12-14-2001||09:28 AM||||can anyone tell me how to change the serpintine belt on my 84 ranger?  I cannot for the life of me find the hole for the 3/8 ratchet to go in which takes the tension off the tensioner.  I've looked from the top and the bottom and contorted my body into a pretzel shape looking for it and cannot find it.  Any suggestions would be helpful.||||reg||1
+Z||000001||MooCow||12-14-2001||11:20 AM||||Hey I dont know the answer to that question but if you go here: <A HREF="http://www.Rangerforum.com" TARGET=_blank>www.Rangerforum.com</A>  and ask they will know.  Good luck<P>Thanks Ken<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/forum_pic.jpg"> ||||reg||10
+Z||000002||GTDude||12-14-2001||06:10 PM||||I believe you use and open end wrench on the top end of the tensioner......prob a 7/8 or 15/16 if I remember correctly<P>------------------<BR>GTDude's 86GT||||reg||1
+Z||000003||jeffndebrus||12-15-2001||10:23 AM||||Thank you,<BR>I will try your sugestions. ||||reg||1
+Z||000004||TTiger||12-15-2001||11:23 PM||||Thanks MooCow, I found that Ranger site very interesting.  I drive one of those in the winter here.<P>Tony<P> <IMG SRC="http://www.fiero.nl/uploads/ttigersig_4.gif"> ||||reg||14

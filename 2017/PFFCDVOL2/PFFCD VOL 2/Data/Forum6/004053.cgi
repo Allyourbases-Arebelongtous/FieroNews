@@ -1,0 +1,3 @@
+A||||1||fierospeeder||Calculus help||||1||
+Z||000000||fierospeeder||11-02-2001||01:41 AM||||i was wondering if anyone can help me with some integration problems.  the reverse of derivitive.<P><BR>(ln sqrt(x))/x<P><BR>sinh x/(1+sinh^2 X)<P><BR>(csc 3x+2)^2<P><BR>(tan^2 2x)/(sec 2x)<P><BR>coshx csch^2 x<P><BR>1/(1+e^-x)<P><BR>x/(x^2-6x+25)<P><BR>(sqrt(2x+5))/sqrt(2x+5)+1<P><BR>i keep looking through my book and cant find much, im going to look at my other calc book.  I wish i had my professor from calc I teaching this course.||||reg||1
+Z||000001||fierospeeder||11-02-2001||02:04 AM||||i think the 2nd one is this <P>-2coshXLN(cosh^2 x)?||||reg||1

@@ -1,0 +1,4 @@
+A||||2||GT Bastard||what gears are you running?||||1
+Z||000000||GT Bastard||10-31-1999||10:13 PM||||just curious what everyone is running for gears.... already posted on the other board on accident.  I've got the 3.33's in my auto according to the RPO codes.  Anybody know what the performance axle ratio is?||||reg||1
+Z||000001||Boxdin||10-31-1999||10:35 PM||||All I know is, my 88 Formula 5 sp is approx 88 mph at 3000rpm, and my 88 Formula A/T is 68 mph at 3000 rpm. Needless to say, the 5 sp is the highway car. The auto is a great point & shoot car in the city.||||reg||6
+Z||000002||Eric Marsh||11-01-1999||10:42 AM||||I've got an automatic and the last time the transmission was gone through I had them change the ration to about a 3.08 from what I understand is the stock 3.23. Its a much better freeway cruiser now.<P>Eric||||reg||1

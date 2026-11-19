@@ -1,0 +1,5 @@
+A||||3||Phil||Need for Speed High Stakes||||1||
+Z||000000||Phil||12-22-2000||09:08 AM||||My son just got a new sound card and it came with NFP High Stakes, does anyone know of a Fiero download? ||||reg||1
+Z||000001||onfire||12-22-2000||01:50 PM||||I think I have one I could email you or put it on my website, so you could download it. I'll have to find it(on a disk somewhere). I haven't played that game in while.<P>------------------<BR>"I seen it on the internet, and I believe everthing on the net."<BR><A HREF="http://homestead.deja.com/user.on_fire/on_fire.html" TARGET=_blank>Check out my waist of banbwidth.</A>||||reg||1
+Z||000002||onfire||12-22-2000||02:09 PM||||Try this it should work. I forgot what kind of fiero it was. <A HREF="http://homestead.deja.com/user.on_fire/nfs4.html" TARGET=_blank>http://homestead.deja.com/user.on_fire/nfs4.html</A> ||||reg||1
+Z||000003||Seanh||12-24-2000||08:09 PM||||Anyone happen to know any more NFS 4: High Stakes fiero downloads? I cant seem to get that one to work with mine(full version).||||reg||1

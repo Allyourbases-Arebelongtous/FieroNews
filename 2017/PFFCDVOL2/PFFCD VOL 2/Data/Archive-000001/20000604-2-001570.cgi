@@ -1,0 +1,4 @@
+A||||2||billfredmike24||Washing car?||||1||
+Z||000000||billfredmike24||11-30-1999||08:01 PM||||Just bought a fiero, is there any considerations that should be taken when washing the car around the vents on engine, like too much water, since the battery's right there.||||reg||1
+Z||000001||Shiner||11-30-1999||08:04 PM||||Yeah, don't spray water on the battery. Duh.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  Just try not to get TOO much water down the vents.  A little bit doesn't hurt anything.  ||||reg||1
+Z||000002||fiero56||11-30-1999||09:38 PM||||I wash the engine vents on my Fiero.  I have a brush that I use and quite a bit of water gets down there.  One thing to be carefull of though(especially on the v-6) is getting water between the decklid and rear glass.  If the engine is still hot,especially the rear exhaust manifold, you can/will crack it with enough cold water hitting it.  Wash you car when it is cool and in the shade if possible.||||reg||1

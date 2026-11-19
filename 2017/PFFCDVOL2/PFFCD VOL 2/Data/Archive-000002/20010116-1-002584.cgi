@@ -1,0 +1,29 @@
+A||||27||kevin||license plates||||1||
+Z||000000||kevin||06-18-2000||01:37 AM||||I thought I would ask the group of Fiero "nut cases" like myself, who constantly think 'FIERO'; does anybody have a unique personalized license plate on thier beauty? Perhaps we can observe what creative plates are out there.||||reg||1
+Z||000001||2M4 Dale||06-18-2000||01:44 AM||||Yep <IMG SRC="http://www.fiero.nl/uploads/nice_tail.jpg"> ||||reg||14
+Z||000002||TOM||06-18-2000||01:56 AM||||mine is N6923Q||||reg||1
+Z||000003||My7Fieros||06-18-2000||02:12 AM||||"FIERO 5" and "GAS HOG" to name a couple of mine||||reg||12
+Z||000004||Haze_Performance||06-18-2000||02:42 AM||||Below are the three plates I applied for I hope I get one:<P><BR>I NTMAD8 "I Intimidate"<P>XCITMNT "Excitement"<P>WS SIX V8 "WS6 V8"<P> ||||reg||1
+Z||000005||kevin||06-18-2000||02:47 AM||||I'm going to request: 1.) FIERQ 2.) PHIERO or 3.)KATCHME ||||reg||1
+Z||000006||Oreif||06-18-2000||07:24 AM||||On my first Fiero I had the plates:<BR>ROOM IV 2  (Room for 2)<P>But the state informs me that someone else now has them  <IMG SRC="http://www.fiero.nl/forum/frown.gif">  <BR>Now I have to think up another unique one.||||reg||1
+Z||000007||Robert||06-18-2000||10:14 AM||||The lady at the DMV could not believe this plate was available when I applied for it last year. <P> <IMG SRC="http://www.fiero.nl/uploads/plate.jpg"> <BR>||||reg||10
+Z||000008||stimpy||06-18-2000||10:52 AM||||My application is being processed for my "Route 66" specialty plate and I requested PMD 865 for my 86 1/2 GT.||||reg||14
+Z||000009||stimpy||06-18-2000||10:55 AM||||however, when I was thinking about painting yellow like Roberts, I wanted "CLEAN P"  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000010||Monkeyman||06-18-2000||01:47 PM||||Mine has absolutely nothing to do with Fieros.  This is a pic when it was on the Monkeymobile.  It has been transferred to the Grape Ape, of course.<BR> <IMG SRC="http://www.fiero.nl/uploads/MNKY_MAN_plate.JPG"> ||||reg||1
+Z||000011||doughboySE||06-18-2000||10:01 PM||||boring old              SCOTT K <BR>hehe i was 16 when i got them||||reg||1
+Z||000012||tgowens||06-18-2000||10:05 PM||||Robert, can I have one of yours since you have two of them (front and rear)? I don't even care which one it is but either will do!!!||||reg||1
+Z||000013||Bruce||06-18-2000||11:55 PM||||Tom,<BR>I don't get yours!?||||reg||1
+Z||000014||FieroGTGirl||06-19-2000||12:14 AM||||TOM~~~I agree with Bruce, I don't get yours!?  <P><BR>Well, what I want to put on our <B><I>OTHER</I></B> car is "1WA2ROK".  <P>Coconut won't let me put it on the Fiero. <IMG SRC="http://www.fiero.nl/forum/frown.gif">||||reg||4
+Z||000015||007DOUG||06-19-2000||08:30 AM||||I don't have all my cars licensed ($$$ OUCH), but those I do have:<P>Indy #1: PACE ME<BR>Indy #2 PACE THIS<BR>84 T-top: FIERO 7<BR>86 SE: Fiero 5<BR>86 Pearl White 3.4 T-top: WHAT COP<BR>86 GT w/suede: RARE86GT<BR>88 GT w/leather: RARE88GT<P>I also have: COP BAIT that was registered to my 86 GT. I'm keeping it so I can transfer it to the yellow 88 GT I'll own some year :')<BR>||||reg||6
+Z||000016||lennyb4||06-19-2000||09:18 AM||||My plate on my bike says "Ride On". My plates for my fiero expire this august and im trying to think up a plate for it. I was thinking something along the lines of "My Toy", "87Coupe", oh hell i dont have a clue. Any ideas??||||reg||1
+Z||000017||Monkeyman||06-19-2000||10:17 AM||||I think Tom posted in the (very) old license plate thread that his plate # was his airplanes # (or something to that effect).  <P>Was I close, Tom?||||reg||1
+Z||000018||80's BOY||06-19-2000||01:18 PM||||i applied for...<P>VROOM4U<P>LETS GO<P>LVNITUP<P>SHWOFF<P>i told them i would be most happy with the first one.||||reg||10
+Z||000019||BlackGT||06-19-2000||01:19 PM||||Mine reads: CMEFLY    "see me fly"||||reg||1
+Z||000020||BENGAL4||06-19-2000||01:23 PM||||My license is the same as my handle. MM post a pic of it if you still have it.||||reg||14
+Z||000021||tgowens||06-19-2000||02:24 PM||||lennyb4, "oh hell i don't have a clue" is too long for a license plate. May I suggest you have a placque made and attach it below the rear fascia?? (it may kinda drag the ground kinda like the kustom kruisers on cruise night)||||reg||1
+Z||000022||BroCar 87||06-19-2000||05:26 PM||||WELL I don't have it yet... but the one i want is something along the lines of "COUPE'N". But I will probably just get that on the windshield.   <IMG SRC="http://www.fiero.nl/forum/cool.gif">||||reg||6
+Z||000023||BBBAD GT||06-19-2000||11:26 PM||||Here is mine, if you put a number on the end of IL vanity plates, its a $10 one time fee.  If you don't, then its $100+ a year.  <P> <IMG SRC="http://scribers.midwest.net/bbbad50/BBBAD28b.jpg"> <P>Of course, this follows the same theme of my Mustang  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P> <IMG SRC="http://scribers.midwest.net/bbbad50/tracer/Bbbad-50a.jpg"> <P>||||reg||1
+Z||000024||triker||06-20-2000||10:32 AM||||I don't know how to post addresses so that you can click on them but in California you can check out what's available, on line, at <A HREF="http://plates.ca.gov/search/" TARGET=_blank>http://plates.ca.gov/search/</A>              Well, I guess that's how you do it. <P>[This message has been edited by triker (edited 06-20-2000).]<p>[This message has been edited by triker (edited 06-20-2000).]||||reg||1
+Z||000025||Monkeyman||06-20-2000||10:42 AM||||This is BENGAL4s plate (and car, of course!).<BR> <IMG SRC="http://www.fiero.nl/uploads/BENGAL4s_car.JPG"> <P>Bill--I've got one of just your plate, but I can't seem to find it right now.  Sorry.||||reg||1
+Z||000026||80's BOY||06-20-2000||11:24 AM||||WOW! i've never seen a fiero in snow before.||||reg||1
+Z||000027||Gold-86SE||06-20-2000||11:58 AM||||<BR>how 'bout<P>PIG MAGNT<BR>FST 2M6<BR>||||reg||1

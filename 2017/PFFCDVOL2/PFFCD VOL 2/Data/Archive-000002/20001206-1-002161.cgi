@@ -1,0 +1,12 @@
+A||||10||dragnlo||Just got a Fiero take a look||||1||
+Z||000000||dragnlo||05-10-2000||02:53 PM||||I have been looking for a fiero over the last month that was in decent shape and finally found one. Its an 88 formula and it has 48k miles. Take look  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><BR> <IMG SRC="http://babbage.sosu.edu/~cgentry/dg/fiero1.JPG"> <BR> <IMG SRC="http://babbage.sosu.edu/~cgentry/dg/eng2.JPG"> <BR> <IMG SRC="http://babbage.sosu.edu/~cgentry/dg/int1.JPG"> ||||reg||1
+Z||000001||lennyb4||05-10-2000||03:26 PM||||Congrats on your purchase. Nice ride, and welcome to the forum..||||reg||1
+Z||000002||TheFiero64||05-10-2000||03:59 PM||||Great car. what a good find. I am jealous of the mileage.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> all mine are over 100K||||reg||10
+Z||000003||dragnlo||05-10-2000||04:25 PM||||I forgot the best part $3700, I thought really good considering I have looked at worse for $4000-6500||||reg||1
+Z||000004||Gold-86SE||05-10-2000||04:34 PM||||<BR>Congrats on the Formula, very nice looking, great mileage, and even better price.<P>||||reg||6
+Z||000005||bHooper||05-10-2000||04:48 PM||||beautifull car!!  very nice!  a perfect car to do nothing to.. just keep it original!||||reg||1
+Z||000006||Coconut||05-10-2000||07:24 PM||||Cliff,make this guy a member! Forget the junior status. For what he got, and what he paid,especially the mileage,I'd say he done good,Real good. Ditto on bHooper's call,leave her stock dude! Very nice ride!<BR>BTW, Welcome aboard!       Keep it Cruisin'<BR>Coconut||||reg||1
+Z||000007||BN Boomer||05-10-2000||07:40 PM||||No power mirrors??? I'd say you got ripped off! Go get you money back!<P><BR>Just kidding! Great car and great price!||||reg||12
+Z||000008||TwisT||05-10-2000||08:21 PM||||Sweet ride,  drag!  And with low miles too...  reminds me of when I searched for my '88 GT (47,000 when purchased a year and a half ago).  Take care of her,  she's a beaut'.||||reg||1
+Z||000009||Gokart||05-10-2000||09:17 PM||||Beautiful! I love it and congrats on your find! I would love to have a yellow Formula someday, but it would have to be auto. I got the 5spd in my 87GT and it would be nice to have a auto for stop and go Cape Cod traffic! Good for you and welcome to the Forum <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||14
+Z||000010||FieroGTGirl||05-11-2000||09:05 AM||||Nice CAR and great price...I got my '86 GT with 50K for $4000.<P>I want to try to keep it with LOW miles!!!  ||||reg||14

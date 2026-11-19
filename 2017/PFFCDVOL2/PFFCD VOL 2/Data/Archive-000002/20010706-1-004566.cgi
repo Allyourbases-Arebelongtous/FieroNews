@@ -1,0 +1,7 @@
+A||N||5||Haze_Performance||Where can I get........||||1||
+Z||000000||Haze_Performance||11-28-2000||05:41 PM||||An aftermarket dash mounted glovebox for my '85?  I know The Fiero Store sells one but it's $130.00. Is there a place that sells it cheaper? I remember seeing it for $99 but I cant remember where?<P>TIA  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>Carl<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/goodlogo1_1.gif">   <BR><B>"AHHHHH!!! All Fiero's don't start on fire you BONEHEAD!!"</B>||||reg||1
+Z||000001||Haze_Performance||11-28-2000||08:13 PM||||anyone?<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/goodlogo1_1.gif">   <BR><B>"AHHHHH!!! All Fiero's don't start on fire you BONEHEAD!!"</B>||||reg||11
+Z||000002||Haze_Performance||11-29-2000||12:21 AM||||?  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/goodlogo1_1.gif">   <BR><B>"AHHHHH!!! All Fiero's don't start on fire you BONEHEAD!!"</B>||||reg||9
+Z||000003||loafer87gt||11-29-2000||12:34 AM||||Haze: IRM sells the kits for $110. Call 1-800-367-8423<P>Hope this helps you out||||reg||1
+Z||000004||Phil||11-29-2000||08:23 AM||||I got a brand new one at a swap meet for $40. Check with kickhill.||||reg||1
+Z||000005||Haze_Performance||11-29-2000||03:54 PM||||Thanks Guy's  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/goodlogo1_1.gif">   <BR><B>"AHHHHH!!! All Fiero's don't start on fire you BONEHEAD!!"</B>||||reg||10

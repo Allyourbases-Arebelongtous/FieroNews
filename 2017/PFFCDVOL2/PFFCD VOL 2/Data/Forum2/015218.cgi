@@ -1,0 +1,4 @@
+A||||2||FieroMeister||Dew Wipes in 1984 Fiero||||5||
+Z||000000||FieroMeister||11-08-2001||02:12 PM||||I know that the dew wipes in the '84 Fiero were different from all of the later years, I don't know exactly what the differences are.  I also know that you can still get the later style wipes but not the earlier style from Pontiac.  What I want to find out is if you can install the later style wipes into an '84 car.  Has anyone done this?  Any info would be greatly appreciated.  Thanks!!||||reg||5
+Z||000001||JD86GT350||11-08-2001||06:23 PM||||yeah, you sure can, I replaced all 4 dew wipes on my '84 with the '85-8 style.<P>the only difference I saw was that the lip on the outer wipes was much shorter on my replacements, but they worked just fine.||||reg||1
+Z||000002||FieroMeister||11-08-2001||07:34 PM||||Thanks JD, that's great news.  Just what I was hoping to hear.||||reg||7

@@ -1,0 +1,9 @@
+A||||7||cmyokley||Wacky Tachy
+Z||000000||cmyokley||08-24-99||12:37 PM||||It is always something. My tach has been working well till last night. While driving to the inspection shop I noticed that the tach would go whacky when I turned on the turn signal or flashers. It would jump from current reading to zero and back to current reading to zero everytime the turn signal would flash.....any ideas?
+Z||000001||Cliff Pennock||08-24-99||03:26 PM||||Do a simple check first like checking the fuses. If the fuse for the turnsignals blows, it will get its power from the tach. Next, check for loose ground wires.
+Z||000002||Cooter||08-24-99||06:29 PM||||When the alternator was going out on my Fiero, the Tach would do crazy stuff when every you turned on any power accessory- just hitting the brakes caused it to jump a lot. After replacing the battery and alternator, everything has been fine. The "idiot" light never did indicate a problem, but the alt. was only putting out about 10 amps.
+Z||000003||Formula||08-25-99||09:23 AM||||When I hit the gas pedal my tach jumps
+Z||000004||cmyokley||08-26-99||11:37 AM||||Cliff...I will check for a bad ground or burnt fuse.<p>Cooter...I have recently replaced both the at=lternator and battery and all seems to be well with the charging system.<p>Thanks for the help...if anyone has other possibilities please respond.
+Z||000005||DJRice||08-26-99||02:46 PM||||What kind of engine is in question here? If it is the V6, did you replace the tach filter?  
+Z||000006||DJRice||08-26-99||02:48 PM||||Formula, Thats strange, mine does the same thing.......
+Z||000007||cmyokley||08-27-99||07:51 AM||||DJRice....yes it is a v6 and no I have not replaced the tach filter. If I do I was thinking about the aftermarket one from Rodney Dickman.<p>Does anyone know about his products?<p>

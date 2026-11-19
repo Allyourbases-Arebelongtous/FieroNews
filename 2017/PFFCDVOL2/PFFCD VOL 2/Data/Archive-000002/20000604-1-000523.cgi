@@ -1,0 +1,7 @@
+A||||5||RZURCTN||Anyone from Wisconsin??||||7
+Z||000000||RZURCTN||11-10-1999||12:34 PM||||Just wondering if there were any other Fiero enthusiasts in the area.  WisconsinGT, you're pretty obvious!  Where do you live?  I live in Green Bay and I see a lot of Fiero's around here.  Maybe we could get together some time and compare notes or something!  Will Cliff ever get that Forum card finished.  I could have really used that lately!||||reg||7
+Z||000001||WisconsinGT||11-10-1999||09:04 PM||||Yeah, I am in Southern Wis. Green Bay is a three hour drive for me. If you want to meet somewhere in the middle, let me know. What kind of Fiero are you packing?||||reg||1
+Z||000002||RZURCTN||11-10-1999||09:54 PM||||I have an 84 SE.  You can see it in the "wish it was the Fiero..." thread.  Currently has no engine in it.  I'm waiting to sell my Porsche so I can get it fixed.  Where would be a Middle place for you?  Oskosh?  Sheboygan?||||reg||6
+Z||000003||WisconsinGT||11-10-1999||10:24 PM||||Maybe! I have an oil leak to repair first. ||||reg||1
+Z||000004||Greg Piet||11-10-1999||10:49 PM||||My folks live in Menasha (next to appleton).  Im planning on going over there in the summertime.  Hopefully I will have a turbo in by then!  If there is a get together going on during the summertime let me know!||||reg||1
+Z||000005||RFMike||11-10-1999||11:13 PM||||I'm from River Falls.  If you're ever out to the west side of the state, e-mail me.  Or let me know if there is a get together someplace nearby.<BR>Mike||||reg||1

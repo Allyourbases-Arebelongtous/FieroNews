@@ -1,0 +1,4 @@
+A||||2||ChadMan||How rare is a blue SE?||||5||
+Z||000000||ChadMan||03-20-2000||08:50 AM||||I was out for a Sunday morning drive (weekly Fiero bonding time) when I saw a blue SE approaching.  He slowed down and made a right, so I got a good look at his car.  I'm pretty sure it was the factory blue.  I waved and the driver just stared at me.<P>I've seen lots of blue Coupes and GT's, but this is the first SE I've ever seen.  How rare are they?||||reg||5
+Z||000001||fiero56||03-20-2000||09:54 AM||||Well, in 1987 there was a total of 3,875 SEs made. 1401 4-cyl, 2,474 v-6.  I don't have paint numbers on this computer, but there were 5 available paint colors in 1987.||||reg||1
+Z||000002||DXR_DAD||03-20-2000||10:44 AM||||ChadMan, I have tried to get the # also, my blue coupe is the only one I've seen in this area, I think the total blue (21) was around 4,000. I don't have the numbers in front of me. I,ve tried to get a break down but not yet.||||reg||14

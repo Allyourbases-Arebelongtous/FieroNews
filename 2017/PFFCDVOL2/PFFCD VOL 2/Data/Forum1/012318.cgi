@@ -1,0 +1,6 @@
+A||||4||Adrift||Non-Oem headlight motor replacement||||1||
+Z||000000||Adrift||11-30-2001||02:22 AM||||are there any non-oem sources for headlight motor rebuild parts/replacement? I have no need to keep my car stock/orignal, and just want the cheapest/best fix.||||reg||1
+Z||000001||FieroBUZZ||11-30-2001||08:53 AM||||Ari:<BR>The Firebird motors (late 80's?) will fit but are swapped (dr to pass, etc)  They have metal gears and are supposed to be stronger. They should be all over Toronto.<BR>Gary||||reg||1
+Z||000002||Fformula88||11-30-2001||10:12 AM||||Get Rodney's repair kit if your looking for a cheap fix.  Just a few bucks.  T/A motors will work, or just invest in some new ones.  They are a bit pricey, but soem auto parts places have them under $100 (its still an AC Delco part) and it should last as long as you have the car!||||reg||1
+Z||000003||Adrift||11-30-2001||08:08 PM||||Can I use a firebird rebuild kit (with metal gears) to rebuild my Fiero motors?||||reg||1
+Z||000004||Rodney||11-30-2001||10:18 PM||||The headlight motors used in the Firebirds are the same as the Fiero motors. Same GM part number. I have never seen a metal gear in a 82-86 Firebird or 84-86 Fiero headlight motor. ||||reg||1

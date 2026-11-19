@@ -1,0 +1,10 @@
+A||N||8||Monkeyman||Even grannies drive Fieros!!!||||10||
+Z||000000||Monkeyman||01-02-2000||03:19 PM||||My wife and I went shopping today (yuk-not my idea) and we noticed a maroon '87 or 88 coupe in the parking lot.  My wife was kind enough to park next to it.  I looked inside and there were 2 little old ladies in there!  Gray hair, plastic rain bonnets and all!!!!  The little old lady driving eased out of the parking space, got out in the open and stomped on it.  Wahhooo!! <IMG SRC="http://www.fiero.nl/forum/smile.gif"> <IMG SRC="http://www.fiero.nl/forum/smile.gif">  My wife then noticed the personalized license plate.  It said "GRANI GO".  Wish I'd had my camera with me.||||reg||10
+Z||000001||TwisT||01-02-2000||03:58 PM||||...Hah hah hah...  a "classic" driving a "classic."  How ironic!<P>||||reg||10
+Z||000002||TwisT||01-02-2000||03:58 PM||||...Hah hah hah...  a "classic" driving a "classic."  How ironic!<P>||||reg||10
+Z||000003||TwisT||01-02-2000||03:58 PM||||...Hah hah hah...  a "classic" driving a "classic."  How ironic!<P>||||reg||10
+Z||000004||TwisT||01-02-2000||04:02 PM||||...Looks like my computer likes this list!  lol||||reg||7
+Z||000005||Raydar||01-02-2000||05:09 PM||||I can see it now... "For sale. Maroon 87 Fiero. Driven by little old lady. On Sunday afternoons. 1/4 mile at a time."  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> ||||reg||1
+Z||000006||william_thorniii||01-04-2000||08:31 PM||||No joke, I bought my 1987 CP in 1998 from the original owner with only 48K on the clock.  The reason that the lady was selling it was that she couldn't get in/out of it any longer.  Her replacement... 1997/8 Cadallac Fleetwood (what was the last year of production?).  Oddly enough they are both gold.<P>William T. Thorn, III||||reg||10
+Z||000007||batboy||01-04-2000||09:17 PM||||I bought my 87 SE from an elderly lady. She told me she hated to sell it, but after her hip surgery, she had a hard time getting in and out.||||reg||1
+Z||000008||Monkeyman||01-04-2000||09:25 PM||||William/batboy-bad for her, but good for you.  I hate to see anyone get to old or infirm to enjoy their Fieros anymore, but I'm all for a good deal.||||reg||1

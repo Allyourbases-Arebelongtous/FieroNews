@@ -1,0 +1,3 @@
+A||||1||TRiAD||Needed; Source for Wrecked Vehicles...||||6||
+Z||000000||TRiAD||06-09-2001||01:38 PM||||How is this Fiero-related?<P><I>"...Swappin', Baby...Yeah!"</I><P>Looking for non-Fiero V8 powered vehicles. Preferably anything with at least 300hp. Lexus, Mercedes, Audi, whatever...  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR><B><I>Michael ~ triadtuning@hotmail.com</I></B><BR>-----------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/88FieroGTwhitefscustomcroppedmini.jpg">  <BR><I>Photoshop rendering of planned exterior modifications.</I><p>[This message has been edited by TRiAD (edited 06-09-2001).]||||reg||6
+Z||000001||Fierowrecker||06-09-2001||03:56 PM||||I can't seem to give away vehicles right now...<BR>crash...||||reg||1

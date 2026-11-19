@@ -1,0 +1,4 @@
+A||N||2||ccollins||Help - There was a website listed here once that let see the wheels on the car...||||1||
+Z||000000||ccollins||04-17-2001||06:25 PM||||You could pick your car and then the wheels and see it all online. <P>Does anyone remember the site or the topic#.  I have been searching but can't find it.<P>-Thanks<BR>||||reg||1
+Z||000001||Oreif||04-17-2001||06:37 PM|||| <A HREF="http://www.tirerack.com" TARGET=_blank>www.tirerack.com</A> <P>select <I>"Wheel and Tire Packages"</I> then select car and year. <P><p>[This message has been edited by Oreif (edited 04-17-2001).]||||reg||1
+Z||000002||sjp777||04-17-2001||08:09 PM||||This site's better. More wheels and you can see them on a fastback as well as the notchback.<BR> <A HREF="http://www.discounttiredirect.com/" TARGET=_blank>http://www.discounttiredirect.com/</A> <BR><P>------------------<BR> <A HREF="http://www.geocities.com/fiero88gt1/" TARGET=_blank>http://www.geocities.com/fiero88gt1/</A>||||reg||14

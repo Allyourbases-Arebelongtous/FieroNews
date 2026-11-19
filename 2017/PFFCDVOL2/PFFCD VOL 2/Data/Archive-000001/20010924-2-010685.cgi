@@ -1,0 +1,5 @@
+A||||3||Uaana||Headlight rewire stuck!||||1||
+Z||000000||Uaana||05-23-2001||02:32 PM||||Is there some special trick to unplugging the wires from the dist block on the front firewall? I've got everything else pulled and ready to swap into the rainbow marvel but cant disconnect the wires from the firewall. ||||reg||1
+Z||000001||Rodrv6||05-23-2001||03:14 PM||||Use a 1/4 inch socket and unscrew the bolt in the center of the connector (on the trunk side) and the plug will back right out.<P>------------------<BR>Rod Schneider, Woodstock, Ga.  84 SE, 330,000 miles and counting, 88 GT, not nearly as many miles :)||||reg||1
+Z||000002||cadaver||05-23-2001||11:10 PM||||Doesnt that screw back out one side then the other side is clipped? Or are they clipped together. Well it one or the other.||||reg||1
+Z||000003||Uaana||05-24-2001||01:07 AM||||Thanks! Helped alot I now have working headligts. And it's just the one bolt and the block seperates into 2 parts for easier removal.<BR>Now if I can just get the hood lined up properly.... gonna be tough with the front end damage that was hiding under the panels.||||reg||1

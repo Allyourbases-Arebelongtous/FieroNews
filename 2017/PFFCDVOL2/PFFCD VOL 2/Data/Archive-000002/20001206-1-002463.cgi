@@ -1,0 +1,4 @@
+A||N||2||Haze_Performance||Hey Fierodave??||||5||
+Z||000000||Haze_Performance||06-08-2000||04:11 AM||||I was looking at you auctions and noticed you NO WAY Paypal logo.. I was thinking of joining and accepting credit cards for my auctions... Is there something I should know about it?? Why dont you use them?? ||||reg||5
+Z||000001||fierodave||06-08-2000||05:08 AM||||I cannot comment in a public forum on my dealings with paypal!  the only way I can express my views concerning that Co. is if I was asked in private!<BR>That's what my attorney said to say!<BR>to those who ask, Sorry!<BR>I can say this...<BR>       Read the fine print! <BR>                If your a seller<BR>FD||||reg||1
+Z||000002||Haze_Performance||06-08-2000||10:48 AM||||No Problem...I Understand...<P>Thanks  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||14

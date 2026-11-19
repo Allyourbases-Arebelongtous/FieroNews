@@ -1,0 +1,4 @@
+A||N||2||fropuff||Found great informational site on Fiero servicing/repair||||4||
+Z||000000||fropuff||12-02-2000||07:34 PM||||Hey, I was browsing and found a GREAT site on Fiero servicing and repairs.  Has 21 different sections.  You can find it at:  <A HREF="http://www.cvalley.net/~tevans/fiero/Skwyrul.htm" TARGET=_blank>http://www.cvalley.net/~tevans/fiero/Skwyrul.htm</A>   I printed it all off and put it in a binder for a service manual.  It is 83 pages though.  <P>------------------<BR>Fuzz busters are for those who are worried about being caught.<p>[This message has been edited by fropuff (edited 12-02-2000).]||||reg||4
+Z||000001||jmw||12-03-2000||05:00 PM||||Thanks! Very cool...||||reg||7
+Z||000002||fropuff||04-21-2001||10:26 PM||||Just bringing this back for the new members.  It's a good one!   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

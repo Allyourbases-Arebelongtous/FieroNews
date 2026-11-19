@@ -1,0 +1,4 @@
+A||||2||jerpro||upper left ball bearing||||1||
+Z||000000||jerpro||05-20-2001||06:20 PM||||anybody ever replaced this?<BR>how easy?<BR>any good sites to guide me?<BR>any tips?<BR>thanks||||reg||1
+Z||000001||Fierowrecker||05-20-2001||06:33 PM||||Hey jer!<BR>I hope you mean the front upper ball joint...<BR>It is easy to replace, but time consuming...<BR>If you are going to do one, you may as well do both sides...<BR>crash...<P> <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by jerpro:<BR><B>anybody ever replaced this?<BR>how easy?<BR>any good sites to guide me?<BR>any tips?<BR>thanks</B><HR></BLOCKQUOTE><P><BR>||||reg||1
+Z||000002||fiero56||05-20-2001||06:45 PM||||<B>any good sites to guide me?<BR>any tips?</B><P>Get a shop manual, they tell everything.||||reg||1

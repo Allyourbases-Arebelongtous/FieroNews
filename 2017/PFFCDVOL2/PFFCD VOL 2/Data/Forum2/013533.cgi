@@ -1,0 +1,8 @@
+A||||6||Fiero Hoosier||Cheap N easy new dash||||10||
+Z||000000||Fiero Hoosier||09-09-2001||01:41 AM||||Here is what my new dash looks like.<P> <IMG SRC="http://www.fiero.nl/uploads/newgag.JPG"> <P>It is really just my old dash but I sprayed it with some Plasti-Coat truck bed liner. It has a really nice texture and I think It's pretty cool. A can of this costs 'bout six bucks at wally mart and will easily cover all of the dash, radio surrond, and shifter console.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P><P>------------------<BR>84 2M4||||reg||10
+Z||000001||Sootah||09-09-2001||01:44 AM||||Ah, and now lets see it installed in the car.<P>------------------<BR><I>Never pull your pants down in Cosco, the dang monkeys will getcha</I><BR>AIM: KSSouter||||reg||1
+Z||000002||Fiero Hoosier||09-09-2001||02:05 AM||||I can't show it in the car quite yet as the entire dash is on the garage floor. But, as soon as I get it back together I will post a pic.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>84 2M4||||reg||1
+Z||000003||Raydar||09-09-2001||02:27 AM||||Very different. Pretty cool!<P>------------------<BR>Raydar - aka Steve<BR><FONT SIZE="1"><BR>Black 88 Formula.<BR>Red 88 Duke coupe. "The Project" <BR>88 Formula parts car. "The Donor"<BR></FONT>||||reg||14
+Z||000004||rodmcneill||09-09-2001||02:28 AM||||Looks good!||||reg||1
+Z||000005||Rodney||09-09-2001||07:46 AM||||I used wrinkle black on my dash parts like this. I was not that happy with the finished look so I ended up spraying them with satin clear. That gave it a real nice finished look. ||||reg||1
+Z||000006||hugh||09-09-2001||07:46 AM||||I'll say one thing,That's the fastest garage floor I've ever seen!!!||||reg||1

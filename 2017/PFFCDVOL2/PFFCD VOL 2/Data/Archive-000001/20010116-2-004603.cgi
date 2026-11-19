@@ -1,0 +1,3 @@
+A||||1||Bill 88||Alternator belt||||1||
+Z||000000||Bill 88||07-05-2000||10:42 AM|||| Does anyone know the correct lenght for a alternator belt on the 88 coupe?  The one htat Autozone says it uses is 61 inches long.  I need a whole lot more options to use that much belt.  Mine belt goes around the crankshaft, the waterpump, the alternator, and the idler pulley.  Thanks||||reg||1
+Z||000001||theogre||07-05-2000||05:00 PM||||There's one for cars with ac and one w/o. sounds like you got the one for AC.<P>If it's a Dayco belt return it and mail order a Gates belt via CarParts.com, unless you need it right this minute.||||reg||1

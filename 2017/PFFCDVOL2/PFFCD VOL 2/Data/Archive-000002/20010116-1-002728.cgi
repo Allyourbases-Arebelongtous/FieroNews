@@ -1,0 +1,6 @@
+A||||4||Cooter||Easy Come, Easy Gone||||9||
+Z||000000||Cooter||06-28-2000||09:34 PM||||Well, the very nice two owner 88GT with T-tops that has been filling my garage for the past few months is now gone. I got the car for a great price, but the impending doom of BILLS and a good friend with an envelope full of money made the decision an easy one. At least I get to keep my 3.4/four speed "commutor car" now. Still need to sell a hot rod Suburban to get out of debt. Oh well- easy come. . . .||||reg||9
+Z||000001||007DOUG||06-28-2000||11:54 PM||||Oh man, I wanted that fiero.<P>I would have paid twice the amount too..........Probably not what you wanted to hear now.<P>Doug||||reg||1
+Z||000002||Monkeyman||06-29-2000||09:41 AM||||I wouldn't have given you a penny over $30,000.||||reg||1
+Z||000003||bHooper||06-29-2000||10:27 AM||||at least you have had the chance to own one!<P>enjoy the 3.4 all you can!<P>hoop||||reg||1
+Z||000004||Cooter||06-29-2000||07:35 PM||||The guy who bought the car is a good friend that I have already painted an 86 GT for a few months ago. He has agreed to let me paint the 88 so I get to hold on to it a little while longer (and get a little more of his money!)||||reg||1

@@ -1,0 +1,4 @@
+A||N||2||jasonl||egr system||||5||
+Z||000000||jasonl||12-13-2000||05:43 PM||||I need help trying to determine what is wrong with my egr system.  The service engine light will come on once the car has warmed up.  On a code reader, it reads a code #32.  I have replaced the actual egr valve and it did nothing.  I have purchased the egr valve solenoid ($108)but have not put it on yet.  Could that be the problem or maybe something else?-Thanks||||reg||5
+Z||000001||FIERO1985||12-13-2000||05:50 PM||||it could possably be that but also did you replace the gasket along with the egr valve and what is going on is the car idleing rough, if so I would clean out the EGR neck tube  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Good Luck<P><P>------------------<BR>1985 GT V6 <BR>"LETS RACE"||||reg||3
+Z||000002||jasonl||12-13-2000||05:55 PM||||it idles fine and i also replaced the gasket.  I guess i'll try installing the solenoid.-Thanks||||reg||1

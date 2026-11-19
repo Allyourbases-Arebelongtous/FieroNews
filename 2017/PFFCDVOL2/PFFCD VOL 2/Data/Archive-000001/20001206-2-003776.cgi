@@ -1,0 +1,4 @@
+A||||2||Cooter||CHECK YOUR TRANNY'S OIL!!!!!!!||||1||
+Z||000000||Cooter||05-15-2000||10:53 PM||||I drove the 88GT with 5 speed today and after getting back home, it would not go in reverse. I thought the shifter cables might be out of adjustment, but when I checked the tranny oil, it would not even touch the stick! After letting it cool for a few hours, it would finally go back into reverse, but took a lot of effort. It took over a quart of oil to get it up to full and now shifts OK. I hope that I did not damage the tranny too bad. So- check your tranny oil today!||||reg||1
+Z||000001||bHooper||05-16-2000||08:55 AM||||trust <B>me</B> if there is one thing <B>i will keep a eye on</B> its the tranny fluid.<P>hoop||||reg||1
+Z||000002||FieroGTGirl||05-16-2000||10:48 AM||||I hear ya there Hoop!  Hubby and I have experience there!||||reg||1

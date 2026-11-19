@@ -1,0 +1,4 @@
+A||||2||BN Boomer||Hey, what's that in my rear view mirror?||||6||
+Z||000000||BN Boomer||04-24-2000||01:27 PM||||Here's what I see every time I drive my Suburban. This thing has been following me around for a couple of weeks now. Anyone know what it might be?  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P> <IMG SRC="http://www.geocities.com/boomers_fiero_files/fiero14.jpg"> <P>Actually, I just borrowed an engine hoist yesterday and finally removed this engine from my Sub. I did think it was pretty cool to look at for a couple of weeks, though. Who knows, maybe there is a rear engine Suburban somewhere in the future!<P>||||reg||6
+Z||000001||Alex4mula||04-24-2000||01:40 PM||||Cool! My Xterra will look somewhat similar to that next Saturday when I pick up my 3.4 at Ed Parks. Won't have the intake portion thou..||||reg||1
+Z||000002||lennyb4||04-24-2000||02:10 PM||||Hey Boomer.... If you want you can just drop it off at my house..hehehe||||reg||12

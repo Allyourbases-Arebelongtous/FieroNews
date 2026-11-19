@@ -1,0 +1,8 @@
+A||||6||Joe4x4||Blow-Out||||1||
+Z||000000||Joe4x4||06-28-2001||08:00 PM||||I was driving back from the vets.<BR>Heading east on New Jersey Atlantic City <BR>expresway doing about 70, and I feel the back end start to shake. (Hmmm thinking to myself time to pull over).<P>BAM------ the rear passenger tire let go.<BR>I was like OH SH_T  I was able to pull it over to the shoulder ok. PHEW<P>Changed the tire 96 degree out.<BR>It`s a good thing I just finised the AC-reto fit yesterday and charged it this morning just before we went to the vets in Philly.<P>I just bought this tire 7-28-200, I found my reciept (Copper 205-60-14 GT).<BR>I just finished e-mailing them about there tire!<P>I think I`ll stay away from Cooper tires.<BR>||||reg||1
+Z||000001||84Bill||06-28-2001||08:03 PM||||WOW man!||||reg||11
+Z||000002||FieroKyle||06-28-2001||11:31 PM||||go with goodyears||||reg||1
+Z||000003||DecadenceR||06-29-2001||12:02 AM||||Personally, I say goodyear, and BFG. I used to work in a tire shop and they ahve some of the better tires I have seen.||||reg||1
+Z||000004||Formula||06-29-2001||10:36 AM||||I told you not to buy those used firestones for $1 each........<P>LMAO||||reg||1
+Z||000005||deceler8||06-29-2001||12:33 PM||||Anyone know what's happening with all those Firestone tires ?<P>I have an old pickup with bias ply tires on it and I wouldn't mind having a set of Wilderness tires if they were close to free.<P>After all, this pickup rarely goes above 50 mph and I am one to maintain tires.||||reg||1
+Z||000006||rogergarrison||06-29-2001||01:21 PM||||yea decel. There supposed to drill out the sidewall with a 2 inch holesaw and ship them out. So there totally unusable except for kids swings.||||reg||1

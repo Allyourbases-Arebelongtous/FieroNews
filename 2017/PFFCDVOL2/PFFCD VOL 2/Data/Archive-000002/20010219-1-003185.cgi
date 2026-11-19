@@ -1,0 +1,4 @@
+A||||2||DjKid||Car Show next month!||||1||
+Z||000000||DjKid||08-06-2000||01:12 AM||||How many of ya'll are going to the carshow at Lowes Motor Speedway(in charlotte, nc) next month? I'm hoping to have my baby ready by then.. Anyone?<P>------------------<BR>DjKid - 88 Coupe<BR>'Blue Knight"||||reg||1
+Z||000001||My7Fieros||08-06-2000||01:38 AM||||I havnt heard about that one. I read where theres one in Oakbrook, Il (just outside of Chicago)next month on Paul Vargas's N I F E page. Might just have to attend that one.   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><p>[This message has been edited by My7Fieros (edited 08-06-2000).]||||reg||1
+Z||000002||DjKid||08-06-2000||01:58 AM||||Big ole car show.. just bout any car you can imagine.. never seen many fieros there.. how bout we change that?<P>------------------<BR>DjKid - 88 Coupe<BR>'Blue Knight"||||reg||1

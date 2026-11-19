@@ -1,0 +1,6 @@
+A||||4||Denny||KSC@Freysinger photos||||1||
+Z||000000||Denny||06-13-2001||09:40 AM||||I have some of my photos from the KSC spring meet @ Freysinger posted @ <A HREF="http://albums.photopoint.com/j/AlbumIndex?u=34301&a=13228740&f=0" TARGET=_blank>http://albums.photopoint.com/j/AlbumIndex?u=34301&a=13228740&f=0</A> <P>Actually had a few posted on Monday but didn't want to say anything till they were all up, but with all the problems I've been having (you don't wanna hear them!), I decided to announce and post more as I go.<P>Check back each day . . .||||reg||1
+Z||000001||Cheever2||06-13-2001||10:06 AM||||Eeew!  I saw Azteks in the background.  I hope your camera is okay.<BR>||||reg||1
+Z||000002||Denny||06-13-2001||10:08 AM||||You know, it hasn't been working as well as in the past.  And here I thought it was something I did . . .<P>:^D||||reg||7
+Z||000003||Denny||06-14-2001||09:51 AM||||The rest of the photos are there . . .<BR> <A HREF="http://albums.photopoint.com/j/AlbumIndex?u=34301&a=13228740&f=0" TARGET=_blank>http://albums.photopoint.com/j/AlbumIndex?u=34301&a=13228740&f=0</A> ||||reg||1
+Z||000004||84Bill||06-14-2001||10:04 AM||||Most excelent Denny thanks for sharing them with us.||||reg||14

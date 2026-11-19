@@ -1,0 +1,5 @@
+A||N||3||Jay||Northstar TCC||||1||
+Z||000000||Jay||10-06-2000||05:00 PM||||I need a schematic of a Cadillac TCC.  Cadillac uses several plugs all with different color wires and amount of pins.  If anyone has a wiring diagram for a ABS-5/MSVA/TCS?ICS1 modual model #16245219 please e-mail me||||reg||1
+Z||000001||lowCG||10-07-2000||11:06 AM||||The "Motor" brand of automotive manuals has good electrical info,I got my info from the Museum of Automotive History in downtown Detroit.The books were dedicated to the electrical systems only.||||reg||1
+Z||000002||FIEROCIOUS||10-09-2000||12:44 AM||||Hey jay, have you concidered a stand alone wireing harness mad by howell enginering they've done several of these for Northstar Fieros.||||reg||1
+Z||000003||Jay||10-09-2000||12:50 PM||||Yes I have the Howel Harness, but it is not complete.  They leave out many things such as traction control management.  Over the week-end I got the info to ground this out.  The car has much more low end torque and feels alot faster but we'll have to wait a week or so before I can get it to the track.  It may be all psychosimatic.  Who knows?  Thanks for your help.||||reg||1

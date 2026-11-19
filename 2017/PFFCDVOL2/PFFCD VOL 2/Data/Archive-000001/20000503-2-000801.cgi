@@ -1,0 +1,4 @@
+A||||2||kensfiero||87 auto and man trans||||
+Z||000000||kensfiero||09-06-99||02:45 PM||||what is the differnce in the motors between<br>a auto and man 
+Z||000001||ChadMan||09-07-1999||08:18 PM||||To the best of my knowledge, there's no difference between the engines in an 87 auto and an 87 manual Fiero, though I think the PROM programming is slightly different.<P>There is, however, a big difference between the early 87 4-bangers and late 87 4-bangers.  Sometime during the 87 model year, Pontiac went to distributorless ignition, a higher-flow TBI and manifold good for 6 more hp, and balance shafts in the oil pan for smoother running.||||reg||
+Z||000002||theogre||09-07-1999||09:24 PM||||you need to change the ECM prom when you install an automatic. The prom has the data that controlls TCC lockup. Don't drive the car long term w/o the torq converter lock in operation. You can over heat the tranny.||||reg||

@@ -1,0 +1,7 @@
+A||||5||saleenfiero||Is it hard to do an ignition coil upgrade?||||1||
+Z||000000||saleenfiero||06-05-2001||01:40 PM||||The topic pretty much asks the questions....can anybody do this kind of thing?  What are the costs involoved?||||reg||1
+Z||000001||Cozmo||06-05-2001||02:03 PM||||I did a bunch of searches and found some pretty good info.  I ended up ordering a MSD blaster coil ($45 inc. shipping from Summit) and am planning to eventually get a MSD 6 controller to go with it (approx. $130-$170).  There have been a few questions about this lately, but no one seems to be forthcoming with any specific answers.<BR>||||reg||1
+Z||000002||DecadenceR||06-05-2001||02:38 PM||||What kind of motor do you have? And what year?<BR>For the 4cyl, they're all pretty easy. 3 bolts that are in a little if a tight spot, and the coil comes right out.<BR>As for the 6's, I haven't worked on one so I'm not sure, but I imagine it being similar.||||reg||1
+Z||000003||saleenfiero||06-05-2001||06:30 PM||||I got the mighty 2.8||||reg||1
+Z||000004||rogergarrison||06-05-2001||07:23 PM||||ive used an Accel for last few years. it simply bolts in place and connects like OEM. Its very ez, like a 15 min job. (ez as changing air filter) about $50||||reg||1
+Z||000005||cadaver||06-05-2001||10:38 PM||||I used the MSD as well. Just plugged into the factory harness. How much more will you get if you install a 6AL with it?||||reg||1

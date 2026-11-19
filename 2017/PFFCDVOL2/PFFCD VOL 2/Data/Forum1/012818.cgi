@@ -1,0 +1,3 @@
+A||||1||Rare87GT||Mounting Kenn's Cup Holders||||1||
+Z||000000||Rare87GT||12-19-2001||06:50 PM||||Just wondering if anyone knew how to mount up the cup holders that Kenn Anderson makes.  I know a few of you guys on the forum have the cup holders.  Just seeing if anyone could help me out.  Thanks guys.<P>------------------<BR>1987 GT (Maroon)*5 Speed*<BR>(Canadian Car)<BR>2.8L Mods--No Cat, K&N||||reg||1
+Z||000001||MinnGreenGT||12-19-2001||08:52 PM||||Most people just attach them with velcro under each corner.  It stays attached well enough to use, and is still easily removable for cleaning.<P>------------------<BR>              <IMG SRC="http://www.fiero.nl/uploads/GreenGT6.gif"> ||||reg||1

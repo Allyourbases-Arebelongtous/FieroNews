@@ -1,0 +1,2 @@
+A||N||0||fropuff||Looking for those w/ F-body seats||||1||
+Z||000000||fropuff||08-14-2001||01:00 AM||||Hey there.  I'm looking to get some new seats or covers soon, and I'm torn between three ideas.  One of those is swapping in a set of F-body seats.  I've seen a site where a guy swapped in some 96 TA seats in his GT.  Looked awesome!  I was wondering if there's anyone else that have swapped in some 4th Gen F-body seats.  I think the 3rd Gen might work as well; I'm just looking for ideas.  Pics are very helpful as well.  Thanks a lot!  Have a good one!<BR>||||reg||1

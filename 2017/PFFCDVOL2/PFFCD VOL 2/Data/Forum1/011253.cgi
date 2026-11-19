@@ -1,0 +1,4 @@
+A||N||2||Cozmo||I should not listen to Art Bell...||||10||
+Z||000000||Cozmo||10-24-2001||02:21 AM||||Do we have a<BR><B>Fiero Mind Tribe</B><BR>cyberspace society?<BR>Woah....<BR>Mommy, it hurts to think...<P>------------------<BR><B>BobC</B><BR><B>'85 2M6 Targa</B><BR>   <IMG SRC="http://www.fiero.nl/uploads/targsig.jpg"> <BR><B>Suncoast Fieros</B>||||reg||10
+Z||000001||Cheever3000||10-24-2001||09:51 AM||||We should pick a date & time for us all to concentrate real hard.  With enough mental focus, maybe we can fix all our Fiero problems!  <BR>||||reg||1
+Z||000002||Haagster||10-24-2001||02:12 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Cheever3000:<BR><B>We should pick a date & time for us all to concentrate real hard.  With enough mental focus, maybe we can fix all our Fiero problems!  </B><HR></BLOCKQUOTE><P>How about October 32nd  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>||||reg||1

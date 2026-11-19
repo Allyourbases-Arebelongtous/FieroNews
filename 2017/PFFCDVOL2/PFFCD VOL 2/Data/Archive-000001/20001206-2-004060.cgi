@@ -1,0 +1,8 @@
+A||N||6||bHooper||how do you change the front tranny mount?||||1||
+Z||000000||bHooper||06-01-2000||08:10 PM||||i need to swap out the front tranny mount on my getrag.  is there a good way to go about this (with the engine in the car)?<P>thanks, <P>hoop||||reg||1
+Z||000001||bHooper||06-01-2000||10:00 PM||||anyone?? anyone??  Buealer? Buealer?  anyone?? anyone??<P> <IMG SRC="http://www.fiero.nl/forum/tongue.gif"><BR>||||reg||1
+Z||000002||Cooter||06-01-2000||10:14 PM||||I changed the mounts on my getrag by jacking the engine/tranny up and breaking my coolant pipe, so I really dont know how to do it either.   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000003||bHooper||06-01-2000||10:45 PM||||Thanks for the tip... hope you want mind if I dont try that method?  <IMG SRC="http://www.fiero.nl/forum/eek.gif"><P>hoop||||reg||1
+Z||000004||DiggityDan||06-02-2000||12:22 AM||||I changed both transmission mounts in this method and din't have any problems, I just jacked it up enough to get the mounts clear. Also, I have a four speed so I don't know how much difference this constitutes.||||reg||1
+Z||000005||Richard Parnell||06-02-2000||02:36 AM||||Thanks for the tip......  I love it, this is like Jack Benny but a little slower.  Sorry, I just thought it was a funny answer. Cracked me up, got a chuckle outta me.||||reg||7
+Z||000006||bHooper||06-02-2000||06:58 AM||||knowledge and humor... thats what were here for, Richard!<P>as for the tranny mount, that one bolt holding the mount to the bracket looks like a bear!  Its all rusted on mine!  I have soaked it in WD-40... will soak it some more.<P>hoop||||reg||1

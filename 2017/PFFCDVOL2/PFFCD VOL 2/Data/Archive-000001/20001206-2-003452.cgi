@@ -1,0 +1,6 @@
+A||||4||lowCG||How much HP can the stock clutch take?||||1||
+Z||000000||lowCG||04-29-2000||06:27 PM||||Just took my old clutch(Daiken,OEM replacement)apart and noticed that it seems to be pretty high quality,dual springs on the disc,performance lining.<BR>Am wondering now if a high performance disc is going to be really needed with the increase of 50 foot/pounds of torque I'm adding?||||reg||1
+Z||000001||Phil||04-29-2000||07:42 PM||||It's not a question of how much can the stock clutch take but rather how long. ||||reg||1
+Z||000002||DXR_DAD||04-29-2000||08:55 PM||||The question always comes to mind, With the high price of all the after market "HP" parts out there, do I need it? If the stock part lasted 12-15 years it must have been good??<BR>am I going to have this car another 15 years?? It's just a daly driver with a V6 not a V8, Not a turbo, Not a supercharged motor, just a stock motor with a few mods. So I gues you have to ask yourself, what do I want to do with this car? Then you will know what you need.||||reg||1
+Z||000003||lowCG||04-29-2000||11:21 PM||||Hey Phil,what are you using in your S/C car?<BR>That uses a Fiero flywheel doesn't it?<BR>||||reg||1
+Z||000004||Phil||04-30-2000||07:26 AM||||I'm running a McLeod with a dual friction disk and a custom made flywheel. It's starting to slip 19K miles||||reg||1

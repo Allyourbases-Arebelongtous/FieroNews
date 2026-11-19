@@ -1,0 +1,4 @@
+A||||2||hugh||Body Exhaust shield||||3||
+Z||000000||hugh||05-08-2001||09:03 PM||||I noticed the exhaust stain on my rear facia the other day and started thinking I should make form fitting stainless covers for the paint in that area.I mean the cutouts in the facia over the exhaust outlets.I can get light gauge(28 or 25)stainless and give it a try when and if I get the time.I have an extremely good adhesive that I might use,or,any suggestions?||||reg||3
+Z||000001||Philphine||05-08-2001||09:16 PM||||whats the adhesive? might be something i can use.||||reg||1
+Z||000002||hugh||05-08-2001||09:44 PM||||It's called silaprene.I've used it when I've installed refrigeration units in trailers as a caulk on the top of the unit where it is against the trailer.When it came time to remove the unit,I couldn't pull it out of the trailer with my crane until I ran a razorblade through it.It comes in a tube like caulk and costs about $8 dollars. ||||reg||1

@@ -1,0 +1,9 @@
+A||N||7||ron240zxt||Technical problem||||1||
+Z||000000||ron240zxt||04-18-2001||01:48 AM||||What would cause my fiero to rev slowly if i step on the throttle in neutral. Also why under a load the car has no power what so ever and about 2000 rpm+ the vehicle makes a sound almost like a vacumm through the intake sound, kinda raspy though totally different sounding then usual.. any suggestions would be appreciated. <BR>Thanks<BR>Ron||||reg||1
+Z||000001||Phaeton||04-18-2001||03:12 AM||||Clogged exhaust?<BR>Does it rev better under partial throttle rather than wot?||||reg||12
+Z||000002||RacinRob||04-18-2001||08:18 AM||||is it a 4 or a 6? I have an 85gt and it makes kind of a vacuum noise too, but runs fine it was even louder when the cover to the air box was loose. so it could need a tune up (coil?) or maybe the air filter?||||reg||1
+Z||000003||84Bill||04-18-2001||10:43 AM||||Check your timing.  When its really retarded the engine sounds boggy and seems to have slow throttle responce when you step on it. ||||reg||1
+Z||000004||rogergarrison||04-18-2001||11:25 AM||||stopped up air cleaner filter?||||reg||1
+Z||000005||hugh||04-18-2001||07:31 PM||||Check your convertor!||||reg||1
+Z||000006||ron240zxt||04-18-2001||11:47 PM||||Hello All sorry about that the year of the vehicle is a 86gt 2.8 liter v6. the vehicle idles smoothly, just lack of rev ability and power. I will check my Aircleaner and exhaust. I also noticed to that might help out is the service light comes on every so offen and the temp gauge goes up to 225 then drops back down after the fan kicks in. Thanks for any more suggestions<BR>Later<BR>ROn||||reg||1
+Z||000007||sjp777||04-19-2001||12:20 AM||||I'd say the element in your cat has melted down and is obstructing the exhaust. I had an 86 se v6 and the exact same thing happened. Removed the cat, prob went away.||||reg||1

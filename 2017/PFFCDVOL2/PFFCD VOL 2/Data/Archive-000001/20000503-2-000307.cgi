@@ -1,0 +1,7 @@
+A||||5||86_Fastback||Holy coils!
+Z||000000||86_Fastback||06-18-99||12:19 PM||||I just replaced my stock coil even though it was only 6 months old (replace right before I bought it).  I dropped in a Cranes Cam Fireball.  Man, what a difference.  It starts faster and runs clean and fast through the RPM band.  I strongly suggest everyone who hasn't replaced their stock coil with a high performance after-market one to do so.<br> 
+Z||000001||theogre||06-18-99||12:46 PM||||I'd love to. To bad I can't find anyone making a beter coil for the DIS motors.
+Z||000002||ezsurf||06-18-99||09:14 PM||||86_Fastback,<br>I take it that your using the stock ignition on the 2.8.  I am using the stock ignition as well. I plan to replace the stock coil with one from Crane or MSD. I was wondering what model number is the Crane coil and what is a ball park cost for it?
+Z||000003||GREENDANO||06-19-99||06:24 AM||||Summit or Jegs both have them.  I got an MSD coil locally for $45.  I think everybody else  is in the same ballpark for pricing.  I also have no complaints about it.<br>  Dan-O
+Z||000004||86_Fastback||06-19-99||01:12 PM||||ezsurf,<br>I am across state at the moment visiting my parents.  I will post the part number when I get back tomarrow.
+Z||000005||86_Fastback||06-20-99||04:51 PM||||ezsurf,<br>The Crane Cams coil I used was the PS91.  The specific version of it is part number 730-0491.  It ran me about $48.

@@ -1,0 +1,3 @@
+A||N||1||CoolBlue87GT||Check out the Pennock's Fiero Forum server, here's where we all live||||4||
+Z||000000||CoolBlue87GT||11-15-2001||07:54 PM||||I asked Cliff some questions about the server and here's the details<BR> <A HREF="http://www.fiero.nl/forum/Forum1/HTML/011874.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/011874.html</A> <P>Check it out, it's neat||||reg||4
+Z||000001||CoolBlue87GT||11-16-2001||10:06 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by CoolBlue87GT:<BR><B>Check it out, it's neat</B><HR></BLOCKQUOTE><P>It is, really. Check it out !!||||reg||4

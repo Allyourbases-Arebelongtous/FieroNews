@@ -1,0 +1,4 @@
+A||||2||JetroGT||Who recovers visors?||||1||
+Z||000000||JetroGT||09-29-2001||08:21 AM||||I got my headliner in and it looks great but the visors are all saggy/w Dr.Pepper spots from when it exploded last summer.<BR>I don't want to buy them from the Fiero Store.<BR>Any leads?<P>------------------<BR>     <IMG SRC="http://www.fiero.nl/uploads/NewSigt.jpg">   <BR>I work where all the missing paperclips go.<BR>Wanted: 86/87 Red GT, auto, pw, pl, pm, rear defrost,pt, Gray int, Spoiler. May be willing to trade the blue car.<p>[This message has been edited by JetroGT (edited 09-30-2001).]||||reg||1
+Z||000001||skitime||09-29-2001||10:53 AM||||Any ulpolstery shop can do them for about $40. <P>------------------<BR><UL TYPE=SQUARE><BR><LI>Red 88 GT T-TOP<BR><LI>Red 86 GT<BR></UL>  <IMG SRC="http://www.fiero.nl/uploads/signature-2.JPG"> ||||reg||1
+Z||000002||Leadfoot||09-29-2001||12:49 PM||||I think Mr. Mike sells leather one. Not sure thought...give him a call.  ||||reg||1

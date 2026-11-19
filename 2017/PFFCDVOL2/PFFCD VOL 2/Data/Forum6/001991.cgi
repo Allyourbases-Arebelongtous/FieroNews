@@ -1,0 +1,6 @@
+A||N||4||Bluebottlejunky||Sad.....Why do I always lose everything!||||1||
+Z||000000||Bluebottlejunky||05-08-2001||09:59 PM||||I lost my wallet when I was bikeing...grrr I need a big huge bikers chain wallet!  <IMG SRC="http://www.fiero.nl/forum/frown.gif"> I guess that is a 15 yr olds luck.  <BR>sad and depressed...<P>------------------<BR>Mike<BR>85'GT 4sp, <BR>AOL IM: Fierofanatic2001||||reg||1
+Z||000001||Philphine||05-08-2001||11:30 PM||||i've got one. i think mine is actually called a truckers purse. huge, but i love it. makes me choose new pants by rear pocket size though.||||reg||1
+Z||000002||Bluebottlejunky||05-08-2001||11:37 PM||||LOL maybe I just a hole purse? hehe<P>------------------<BR>Mike<BR>85'GT 4sp, <BR>AOL IM: Fierofanatic2001||||reg||1
+Z||000003||Standard||05-09-2001||12:44 AM||||That's why I have a chain attached to my wallet.  It's actually a choke chain with a carabeener to hook it to my belt loop.  Works great.  And I look cool with it, too  <IMG SRC="http://www.fiero.nl/forum/cool.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000004||Bluebottlejunky||05-09-2001||04:13 PM||||I FOUND MY WALLET hehe ya ya for me! I left in a class at school! stupid me!<BR><P>------------------<BR>Mike<BR>85'GT 4sp, <BR>AOL IM: Fierofanatic2001||||reg||1

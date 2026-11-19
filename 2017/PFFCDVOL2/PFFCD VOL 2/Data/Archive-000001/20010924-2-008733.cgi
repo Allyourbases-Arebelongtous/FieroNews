@@ -1,0 +1,6 @@
+A||||4||Hott86||I don't know if anyone has asked this? before so.......||||5||
+Z||000000||Hott86||03-03-2001||12:43 PM||||<P>  I may have asked y'all this at 1 tim ebut does anyone know tha largest rim/tire u can put on a Fiero? I appreciate it.<BR>  <BR>  Thanx<BR>     Brad<BR>86 GT FASTBACK<BR>2 85 SE<BR>87 SE<BR>85 GT NOTCHBACK<BR> <P><P>------------------<BR>85 2m6<BR>85 se<BR>86 GT<BR>87 GT||||reg||5
+Z||000001||Old Lar||03-03-2001||01:50 PM||||If you jack the car up high enough you can put any size you want.  Monster trucking Fiero.<BR> <IMG SRC="http://www.fiero.nl/uploads/Kick_Hill_GT.jpg"> ||||reg||1
+Z||000002||Formula88||03-03-2001||04:37 PM||||You know, I'm all for indivuduatity and doing your own thing.... but, damn.   <IMG SRC="http://www.fiero.nl/forum/eek.gif">||||reg||1
+Z||000003||Black88GT||03-03-2001||04:41 PM||||That looks sweet.  But I would lose the fastback panel for less weight.  I wonder how he built that....||||reg||1
+Z||000004||TheFiero64||03-03-2001||06:21 PM||||I think Bob said it is on a CJ-7 Jeep frame<P>------------------<BR>Josh<BR>  <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg"> <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||1

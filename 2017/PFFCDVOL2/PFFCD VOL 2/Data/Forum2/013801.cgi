@@ -1,0 +1,4 @@
+A||||2||falconhulk||Simulated leather coverings||||1||
+Z||000000||falconhulk||09-20-2001||12:18 PM||||Does anyone know a good source for leather like material to cover something like the console arm rest and maybe the door armrests?<BR>Just like a few feet of the stuff.  I also want to cover a laptop I have attached to the dash.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/i-4_b_l.jpg"> ||||reg||1
+Z||000001||Tina||09-20-2001||06:40 PM||||Go to your local upholstery shop, even if they do not have what your looking for, <BR>they can point you the tight way<P>Tina  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>||||reg||1
+Z||000002||FieroSoul||09-21-2001||06:41 AM|||| Saw some nice looking gray vinyl/naugahyde/fake leather?? while being drug through a fabric shop by my wife.  About $4 a yard. Should work great if glued over the original and shaped to fit.||||reg||6

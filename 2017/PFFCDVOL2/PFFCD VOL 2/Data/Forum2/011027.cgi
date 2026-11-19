@@ -1,0 +1,3 @@
+A||||1||hyhy4u||Brake Light||||8||
+Z||000000||hyhy4u||06-05-2001||03:40 PM||||After I bought the car I realized the previous owner covered up the brake warning light with electrical tape, taking off the tape has shown a permenetly stuck on brake warning light, any ideas why??||||reg||8
+Z||000001||84Bill||06-05-2001||03:47 PM||||Usually the swtich on the hand brake gets bent out of shape. Just pull the boot out of the way a bit and you can see the switch. You may also want to see if the chimer has been removed since the bing bing bing got on the nerves as well. <P>If the switch is ok then there is a short in that wire somewhere under the carpet along the door rail.||||reg||3

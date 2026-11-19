@@ -1,0 +1,2 @@
+A||||0||redfiero||3.4 - Starter Holes Drill and Tap||||1||
+Z||000000||redfiero||10-11-2001||06:32 AM||||Anyone ever drill and tap the starter holes for the the 3.4?  Do you have any tip or tricks on how to line it up without using a template?  Does the outer bolt get tapped into the chamfer on the block?<P>Any information or links to information would be greatly appreciated!  I'd like to do this right the first time!<P>Thanks||||reg||1

@@ -1,0 +1,7 @@
+A||||5||Tabs||more pics of my 2m4||||1||
+Z||000000||Tabs||08-08-2001||07:40 PM||||stats:<P>1985 Fiero 2m4 SE<BR>5 star ASA rims<BR>custom yellow interior<BR>8 inch subs behide each seat<BR>custom tail lights<BR> <BR>I pulled out the colour of the talk lights and replaced the bulbs with led ones and the middle were thers on lights I put crome like tape <IMG SRC="http://www.fiero.nl/uploads/my_fiero_2001-2_4.gif[/img][img]http://www.fiero.nl/uploads/my_fiero_2001_2.gif"> ||||reg||1
+Z||000001||Tabs||08-08-2001||07:43 PM||||[/img]http://www.fiero.nl/uploads/my_fiero_2001_2.gif[/img][/img]http://www.fiero.nl/uploads/my_fiero_2001_3.gif[/img]||||reg||1
+Z||000002||Cheever2||08-08-2001||07:45 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Tabs:<BR><B> <IMG SRC="http://www.fiero.nl/uploads/my_fiero_2001_2.gif"> <BR> <IMG SRC="http://www.fiero.nl/uploads/my_fiero_2001_3.gif"> </B><HR></BLOCKQUOTE><P>||||reg||1
+Z||000003||Tabs||08-08-2001||07:45 PM|||| <IMG SRC="http://www.fiero.nl/uploads/my_fiero_2001_3.gif[/img][img]http://www.fiero.nl/uploads/my_fiero_2001-2_5.gif"> ||||reg||1
+Z||000004||Tabs||08-08-2001||07:47 PM|||| <IMG SRC="http://www.fiero.nl/uploads/my_fiero_2001-2_6.gif[/img][img]http://www.fiero.nl/uploads/my_fiero_2001-2_6.gif"> ||||reg||1
+Z||000005||Tabs||08-08-2001||07:48 PM|||| <IMG SRC="http://www.fiero.nl/uploads/my_fiero_2001-2_6.gif"> ||||reg||1

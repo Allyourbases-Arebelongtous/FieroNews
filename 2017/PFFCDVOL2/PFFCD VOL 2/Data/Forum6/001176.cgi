@@ -1,0 +1,3 @@
+A||||1||HYPTNOTiSE||FieroKid87 Look.||||1||
+Z||000000||HYPTNOTiSE||01-01-2001||08:01 PM||||Here's my guage pod dude.<BR> <IMG SRC="http://www.fiero.nl/uploads/gauges_1.jpg"> <P>------------------<BR>       Mike LeCompte<BR>86 Fiero GT 3.2L w/ Nitrous<BR>   <IMG SRC="http://www.tcac.net/~daddyg/hypsig.gif"> ||||reg||1
+Z||000001||Loki||01-01-2001||11:07 PM||||Which of course when I get a running Fiero I will be ordering one........   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P><P>------------------<BR>Loki<BR>ICQ# 16477998<BR>  <IMG SRC="http://members.home.net/loki137/loki5.jpg"> ||||reg||1

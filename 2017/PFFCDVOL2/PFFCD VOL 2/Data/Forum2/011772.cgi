@@ -1,0 +1,4 @@
+A||||2||Posthumane||'Tail' Fuse ||||1||
+Z||000000||Posthumane||07-03-2001||04:41 PM||||Can someone tell me all of the things that are connected to the Tail light fuse (20 A)? I put my stereo in yesterday and I accidentally connected the backlight wire to the dimmer switch wire on my stereo and blew the fuse when i turned on the lights. I disconnecetd it and taped up the wire ends, but the fuse still blows whenever i turn on the park lights. I need to find the short circuit.||||reg||1
+Z||000001||Leadfoot||07-03-2001||04:51 PM||||This site contains some of the wiring diagrams.  <BR> <A HREF="http://www.euronet.nl/users/fo_elmo/wiring.htm" TARGET=_blank>http://www.euronet.nl/users/fo_elmo/wiring.htm</A> <P>One of them is for the brake lights and A/C.  Good luck!||||reg||1
+Z||000002||Posthumane||07-03-2001||04:57 PM||||That's a very helpful site. Thanks. One of these days i'll come to my senses and pick up the factory service manual. Save me some trouble.||||reg||1

@@ -1,0 +1,3 @@
+A||||1||Fiero5||Removing wing stantions||||5||
+Z||000000||Fiero5||09-24-2000||10:35 AM||||I have removed the wing, and now I have started to take out the screws from the bottom of the wing that hold the stantion on the wing itself. Well, the screws are now half way out, and now they just spin. Now they won't tighten back up, or come out the rest of the way.<BR>Any thoughts?<BR>Thanks, Steve<P>------------------<BR>    <IMG SRC="http://kelleyfamilyfieros.homestead.com/files/sk2.jpg"> ||||reg||5
+Z||000001||StuGood||09-24-2000||01:49 PM||||Hey! I already replied to this one!<P>Oh, I see.  I replied to the same question in "General Fiero Chat..."||||reg||8

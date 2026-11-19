@@ -1,0 +1,3 @@
+A||||1||85ZainoGT||3.8sc!!!!!!||||4||
+Z||000000||85ZainoGT||08-24-2001||10:43 PM||||ok, for those of you that have done the 3.8L Supercharged swap... what are you guys running in the quarter? any other specs?  and same for you 3.4 and 3.6 engine guys... what do you run and what are your specs?  thanks..||||reg||4
+Z||000001||MinnGreenGT||08-25-2001||01:05 AM||||I recommend that you search the general discussion area for 1/4 times... they've been discussed at length recently (within the last 2-3 weeks).  Good luck.<P>------------------<BR>      <IMG SRC="http://www.fiero.nl/uploads/grngtsig3.jpg"> <BR>Medium Metallic Green 87 GT<BR>3.1L High Output<BR>4 Spd OD Tranny<BR>Open (read: Loud) Exhaust<BR>and More!<BR>-Rob Bartlett||||reg||1

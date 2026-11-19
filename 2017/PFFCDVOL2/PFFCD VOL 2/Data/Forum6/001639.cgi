@@ -1,0 +1,8 @@
+A||||6||Uaana||New Pic of the VX220||||1||
+Z||000000||Uaana||03-14-2001||01:24 AM||||God I love this car. Only 22,000l Who knows what that translates into US dollars?<P> <IMG SRC="http://www.fiero.nl/uploads/vx220_brand_1.jpg"> ||||reg||1
+Z||000001||Formula||03-14-2001||07:49 AM||||that is cool, is it made by opel?<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/yellowtored3.jpg"> ||||reg||1
+Z||000002||KRMFiero||03-14-2001||08:49 AM||||It kind of reminds me of a Viper, I like it  <IMG SRC="http://www.fiero.nl/forum/smile.gif">   I wonder how much insurance would be though if they saw what it looked like hehe||||reg||1
+Z||000003||TheFiero64||03-14-2001||09:47 AM||||I want one. Reshape the front a little, make it mid engine, and sell it as the Pontiac Fiero<P>------------------<BR>Josh<BR>  <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg"> <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||1
+Z||000004||Will||03-14-2001||10:50 AM||||It already <I>is</I> mid-engine. It's the Vauxhall version of the Opel Speester, which is the GM version of the Lotus Elise.||||reg||1
+Z||000005||KRMFiero||03-14-2001||10:56 AM||||if it is mid engine why are there hood scoops on it (well thats what they look like to me)   for the air for heat/vent and stuff?||||reg||1
+Z||000006||stimpy||03-14-2001||11:45 AM||||Why do people put vents on the hoods of Fieros? 1) There is a radiator up front, vent aids cooling. 2) Aerodynamics. By relieving underhood pressure vents will cut down on front end lift.<P>Rest assured, it's mid-engined, and no, it will never come to the U.S. ||||reg||1

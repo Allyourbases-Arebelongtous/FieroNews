@@ -1,0 +1,2 @@
+A||||0||Smoooooth GT||my NEW E-mail is....||||1||
+Z||000000||Smoooooth GT||07-26-2001||11:55 PM||||Smooth_GT@k.st<P>     Sorry to everybody for all the mess up of the email's...   Yahoo svck's...  Steve<P>------------------<BR>NEW EMAIL..  Smooth_gt@k.st<BR>Future add's.. 2" drop, 17" wheel's, finish the turbo T-3watercooled project, ViperYellow        <IMG SRC="http://www.fiero.nl/uploads/smooth_sig2_3.JPG">     <BR>  with a 100-125HP shot of NOS...||||reg||1

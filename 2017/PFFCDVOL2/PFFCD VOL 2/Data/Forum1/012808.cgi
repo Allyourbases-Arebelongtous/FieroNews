@@ -1,0 +1,2 @@
+A||||0||West Coast Fiero||El Segundo Fiero sighting||||1||
+Z||000000||West Coast Fiero||12-19-2001||12:23 AM||||saw an 86-87 red GT with grey grounf FX today at 2:10 pm when you turned down Maple st., I was wondering if you were on the forum<P>------------------<BR> <IMG SRC="http://clubs.hemmings.com/fieroswest/WestCoast300.gif"> <BR>Eric Nelson<BR>Technician,<BR>West Coast Fiero<BR>www.cwestco.com<BR>310-305-4111||||reg||1

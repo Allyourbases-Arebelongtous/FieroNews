@@ -1,0 +1,9 @@
+A||||7||84Bill||Who was I supposed to cut the rear pieces for?||||5||
+Z||000000||84Bill||07-12-2001||12:26 PM||||I have the left side almost out. 2 drill bits 3 weeks and some missing skin but its a spotweld away.||||reg||5
+Z||000001||mrgone||07-12-2001||12:46 PM||||oh oh oh thats the trunk off your indy right?<P>excellent<P>------------------<BR>      <IMG SRC="http://www.fiero.nl/uploads/signature_9.jpg">   <BR><B>86.5 2m4 5speed turd 241,000kms</B>||||reg||1
+Z||000002||84Bill||07-12-2001||01:14 PM||||Yep  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>I thought it was you who needed them but I was not sure  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><BR>The left side is almost out, I need a need a new bit to finish drilling the spot but MAN what a job to remove that thing. The right side is a bit bent but I think I can still get it out and prolly much faster too since I know what to expect ||||reg||14
+Z||000003||mrgone||07-12-2001||01:19 PM||||thats great. i cant wait to put my carpet back in. my trunk is yucky right now.||||reg||1
+Z||000004||84Bill||07-12-2001||01:33 PM||||Heheh cool. you know you will have to repair 2 small rust holes before you put it on.||||reg||5
+Z||000005||mrgone||07-12-2001||01:35 PM||||small is good||||reg||1
+Z||000006||Fleabitdog||07-12-2001||04:42 PM||||Bill, you should have let me know. I would have gladly given you a hand.||||reg||1
+Z||000007||84Bill||07-12-2001||06:14 PM||||<FONT SIZE="3">Mrgone! I got it out!<BR>Check out the pics of it</FONT>     <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR> <A HREF="http://cn308598-a.wall1.pa.home.com/fiero/mrgone/" TARGET=_blank>http://cn308598-a.wall1.pa.home.com/fiero/mrgone/</A> <P><FONT COLOR="red"> Well you know Fleabit I still have the right side to do</FONT>     <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P><p>[This message has been edited by 84Bill (edited 07-12-2001).]||||reg||12

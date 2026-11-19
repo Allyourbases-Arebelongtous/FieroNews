@@ -1,0 +1,6 @@
+A||||4||Brian84SE||Vibration problem ||||1||
+Z||000000||Brian84SE||11-05-2000||06:20 PM||||I having a vibration problem from my newly installed 2.5 liter.  It is most noticible above 2000 rpm.  Doesn't matter whether it is  in park or not.  Got a used vibration dampener for it when I installed the engine.  Installed a new front motor mount. My thoughts are maybe the dampener is no good.  Anyone have any ideas/thoughts?<P><BR>||||reg||1
+Z||000001||terryk||11-06-2000||01:03 AM||||If it's an automatic, rotate the relationship of the flexplate and torque converter 120 degrees and check it. Try all three positions. <P>If it's a manual did you use the right flywheel?<P>||||reg||1
+Z||000002||Brian84SE||11-06-2000||12:04 PM||||Yes, it's an automatic.  I can't rotate the flexplate without separating the engine from the transmission.  The protrusions on the flexplate hit the weights on the torque converter. Is something wrong here?<BR>I guess I would need to separate the engine about a half an inch....||||reg||1
+Z||000003||theogre||11-06-2000||09:07 PM||||A damper could do that. otherwise flex plate or TC may have lost a balance weight when it was apart.||||reg||1
+Z||000004||Brian84SE||11-07-2000||07:12 AM||||So how do I determine which part is the problem?<BR>||||reg||1

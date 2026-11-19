@@ -1,0 +1,2 @@
+A||N||0||TTiger||terryk or anyone else who can help...||||14||
+Z||000000||TTiger||06-14-2001||05:17 PM||||I picked up my own 3800SC off of Jeff Harbaugh (jhar1987) and now I am looking for a little help.  I am in need of a complete wiring diagram for my 1987 GT and a 1992 Bonneville SSE so that I can put together my wiring harness.<P>Thanks, and I am sure I will have more questions later for all who have completed the conversion.<P>Tony||||reg||14

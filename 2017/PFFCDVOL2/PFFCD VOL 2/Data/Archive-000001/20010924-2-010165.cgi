@@ -1,0 +1,5 @@
+A||N||3||Jhonny||Engine bay cooling fan relay location ?||||5||
+Z||000000||Jhonny||05-04-2001||10:12 AM||||Where is the engine bay cooling fan relay located?<BR>My engine bay fans doesn't run when turning the A/C on.<P>/// Jhonny<P>------------------<BR>Jhonny Sokura<BR>Vadstena, Östergötland Sweden<BR><A HREF="http://www.vadstena.se/turism/engelsk/index.html" TARGET=_blank> Welcome to Vadstena</A><P><A HREF="http://home.swipnet.se/jks/fiero3.jpg" TARGET=_blank> Pontiac Fiero GT -87 , V6 5spd<BR> </A>||||reg||5
+Z||000001||87GTZ34||05-04-2001||10:45 AM||||Right rear of the car.  If you lift the trunk carpet on the right side, you'll see it.||||reg||1
+Z||000002||rogergarrison||05-04-2001||12:29 PM||||and its relay is rite on it too||||reg||1
+Z||000003||Jhonny||05-05-2001||04:58 AM||||Thanks , I'll have a look ...<P>/// Jhonny<P>------------------<BR>Jhonny Sokura<BR>Vadstena, Östergötland Sweden<BR><A HREF="http://www.vadstena.se/turism/engelsk/index.html" TARGET=_blank> Welcome to Vadstena</A><P><A HREF="http://home.swipnet.se/jks/fiero3.jpg" TARGET=_blank> Pontiac Fiero GT -87 , V6 5spd<BR> </A>||||reg||1

@@ -1,0 +1,5 @@
+A||||3||Spektrum-87GT||chirping noise at 3k rpms||||1||
+Z||000000||Spektrum-87GT||09-09-2001||06:19 PM||||its very noticible in 1st and 2nd gear... its a very short, not very loud chirp/clang mix(i know... bad description) have no clue where its coming from... anyone have any ideas? thanks||||reg||1
+Z||000001||Mach10||09-09-2001||06:39 PM||||Belt slipping? Bad harmonic balancer? Bad driveshaft bearing? I'm not really sure...||||reg||5
+Z||000002||starfighter007@msn.com||09-09-2001||07:03 PM||||belt squeeking yes bad bearing on a water pump alternater a/c compressor possibly .But drive shaft bearing <IMG SRC="http://www.fiero.nl/forum/eek.gif"> watch u b token bout mach  <IMG SRC="http://www.fiero.nl/forum/smiley_watchout.gif"> ||||reg||5
+Z||000003||Mach10||09-09-2001||07:21 PM||||On the half-axles where they go into the trans, there's a seal/bearing. I broke mine on my mazda, and it did something similar. Squeek at certain revs, light grinding noise everywhere. Make sense? I'm getting this off a mazda/ford trans with the assumption that both transaxles have similar construction.||||reg||11

@@ -1,0 +1,3 @@
+A||||1||Hock||Clifford Intake
+Z||000000||Hock||07-08-99||02:03 PM||||I need to know if anybody out there has install a Clifford 4Bbl intake on there 4cyl Fiero before. If so what modifications have to made to make everything fit? The reason I'm asking is cause I am build an 82 Iron Duke and am putting this intake and a Holley 390 on. I call up Clifford and the guy that anwsered the phone said that they have put one on a Fiero before but it was very tight. But he could not remeber if anything had to be cut for the alt/dog bone braket. So any help would be apreciated. As of right now I don't have the Intake but I will be ordering it really soon.
+Z||000001||PaUL||07-08-99||02:09 PM||||Im using a Holley 390 4bbl but on 2.8v6.

@@ -1,0 +1,4 @@
+A||||2||K9||Interior marker lights???||||3
+Z||000000||K9||09-12-1999||11:41 PM||||In my 85 GT with no AC the heater control dose not light up at night. Does any one Know if there is a bulb in there. Dose your people's light up? ||||reg||3
+Z||000001||DJRice||09-13-1999||09:59 AM||||There is a very small light bulb in that gadget, and its not hard to change.  You just have to remove the trim panel and then undo the screws holding the controls.  Its a twist lock connector one side.  When you go to buy a new bulb, there will be two that look the same with different stock numbers.  One is brighter than the other.  I am sorry to say that I dont remember which one was which.<P>Good Luck||||reg||10
+Z||000002||theogre||09-13-1999||11:42 AM||||even when the bulb works the buttons don't light up much.||||reg||1

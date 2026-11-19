@@ -1,0 +1,3 @@
+A||||1||Ed||Brake Job Mishap||||1||
+Z||000000||Ed||12-18-1999||10:26 PM||||A few days ago I asked for help on a brake job on an '87 GT. Is the job done? I broke off the spring clip that would hold one of the inner pads to the piston in the front brake. In the interest in getting the car back on the road I reused the old inner pad. It has plenty of material, almost as much as new. The outer was worn enough to justify a brake job, and also the rotors were worn enough to replace. <P>Are the brakes going to fail because I have different brands of inner and outer pads? The old ones were some no-names from Kragen or Chief and the new ones were GM. On a local test drive I could detect no problems.    ||||reg||1
+Z||000001||TOM||12-18-1999||11:03 PM||||It will be fine||||reg||1

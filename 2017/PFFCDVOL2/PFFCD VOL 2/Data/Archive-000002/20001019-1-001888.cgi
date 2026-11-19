@@ -1,0 +1,3 @@
+A||||1||Homicidal||Can I cut the Spare Tire Tub for my Subwoofer?||||5||
+Z||000000||Homicidal||04-20-2000||04:04 AM||||I tried my 10" in the front of the car, sounded GOOD, much more "deep" feel to the bass, but it doesn't let the hood close by a few CENTIMETERS!  I need to shave some plastic off that little shelf underneath the a/c thingy (big metal container).  What tool can I use to do it?||||reg||5
+Z||000001||Formula||04-20-2000||03:25 PM||||Stop, Halt, Desist!!!!!! lol<P>I have a 10" explod in my spare tire trunk and I used a hatchback 10" box from wal-mart. The secret is turning it so the big end of the box is down near the air conditoning thing.  mine fits perfect too. I'll find my pic that I posted and post it here.  ||||reg||1

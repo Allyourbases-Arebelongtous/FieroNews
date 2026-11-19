@@ -1,0 +1,2 @@
+A||||0||btoth||Spoiler screw question||||5||
+Z||000000||btoth||11-20-2000||09:25 AM||||I had to remove my spoiler the other day and in the process I had to cut the front left screw because the nut on the underside was completely rusted through.  Are those screws a special GM thing (self-tapping w/ the washer on them)? or if not, does anyone know the measurments of the screw itself?  Maybe then I can pick up a simmilar one from the hardware store.  Thanks in advance!  (btw,  it's an '86 GT if that should matter.)||||reg||5

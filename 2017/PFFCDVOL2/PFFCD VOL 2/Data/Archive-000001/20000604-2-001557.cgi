@@ -1,0 +1,4 @@
+A||||2||RZURCTN||Putting my exhaust back together ?||||5
+Z||000000||RZURCTN||11-29-1999||07:54 PM||||I am putting the engine back in my Fiero, and I can't remember which goes first.  The heat shield or the flimsy metal shim thing.  I know that the gasket goes on the manifold side of the heat shield.  What if I left that flimsy metal shim thing out?  Would that cause exhaust leaks?  Any help would be greatly appreciated!  By the way it is an 84 2.5L.<p>[This message has been edited by RZURCTN (edited 11-29-1999).]||||reg||5
+Z||000001||chris6878||11-29-1999||08:14 PM||||my 84 doesnt even have a heat shield...     so.. i dont know???||||reg||3
+Z||000002||theogre||11-29-1999||09:41 PM||||head shield gasket manifold.<P>if the heatshield is dinged up on the head side use 2 gaskets, one on each side of the shield.<P>Don't forget antisieze on the bolts.||||reg||1

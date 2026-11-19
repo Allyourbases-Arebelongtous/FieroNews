@@ -1,0 +1,4 @@
+A||||2||Sevaan||Black Trim||||1||
+Z||000000||Sevaan||07-04-2001||12:19 AM||||I re-painted all my exterior trim with a nice matte black today. It looks marvellous. If you haven't done it yet, I highly recommend you do. A nice cheap way to help improve the look of your car.<P>It's also a nice way to spend a little bit of time with your Fiero.<p>[This message has been edited by Sevaan (edited 07-04-2001).]||||reg||1
+Z||000001||Doni Hagan||07-04-2001||01:07 AM||||I recently did mine in body color. Also the ground effects, the bottom of the front and rear fascias and the mirrors. I've got a silver 87GT and the monochrome look seems to update the car somewhat... Now I've got all the import pocket rockets looking at me. <P>Gotta love it.  ||||reg||6
+Z||000002||Sevaan||07-04-2001||01:09 AM||||I'd like to see what that looks like. Do you have a picture you could post?||||reg||10

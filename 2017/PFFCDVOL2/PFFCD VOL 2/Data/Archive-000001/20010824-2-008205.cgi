@@ -1,0 +1,4 @@
+A||||2||87GT||Timing Chain question||||1||
+Z||000000||87GT||01-31-2001||07:59 PM||||Hi, I searched through past archives and could not find the answer to a question I have.  Its a simple one.  How often should you replace your timing chain?  Is there any way you can tell by listening to it that is could be bad?  Thanks for looking.<P>Kyle 87GT||||reg||1
+Z||000001||David Gamache||01-31-2001||10:42 PM||||The books recommend changing the timing gears anywhere between 30-60 thousand miles. So far I have had chains last to about 110-130 thousand before they get pretty sloppy. I don't know if you can hear a difference like the 4cyc that sounds like it has an exhaust leak when the gears are getting worn. I haven't noticed a sound difference on my cars before changing gears. The timing adjustment may increase to make up for the slack. ||||reg||1
+Z||000002||87GT||02-01-2001||07:28 AM||||Thanks!  I guess my car is about due for a replacement then.  Thanks again||||reg||1

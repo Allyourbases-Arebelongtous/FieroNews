@@ -1,0 +1,6 @@
+A||||4||ejayerik||Good idea?? ||||5||
+Z||000000||ejayerik||12-17-2001||04:19 AM||||I have a great idea that I have already started. Let me know what you ppl think. Get this, I collect some cheap, 84-85 Fieros, fix them up to stock or slightly above, collect about 3 or 4, and trade them all for a slightly above stock 88 GT with relitively low miles. I had a buddy with an 88 GT and that was the FUNEST car to drive. And I have even driven an NSX. Good idea? Think anyone will bite? Let me know cause I have already started the collection and restoration projects.||||reg||5
+Z||000001||ejayerik||12-17-2001||01:13 PM||||Guess it's not a good idea...lol||||reg||1
+Z||000002||FieroMontreal||12-17-2001||01:17 PM||||I dunno... I don't know one dealer that would take 3-4 Fieros in a trade for another one.. They have enough of one on their hands..||||reg||1
+Z||000003||FieroJoe||12-17-2001||01:18 PM||||It would be a great idea if you can get that person to part with their 88 GT.  I, for one, definatly would not, not even for some nice coupes.||||reg||1
+Z||000004||Old Lar||12-17-2001||02:04 PM||||After the restoration, you may be able sell them for enough to purchase an 88.  But I wouldn't part with my 88 for 3 so-so Fieros.<P>||||reg||1

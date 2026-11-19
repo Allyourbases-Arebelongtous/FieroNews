@@ -1,0 +1,2 @@
+A||||0||tgowens||Golden Gate Fieros Chat||||1||
+Z||000000||tgowens||06-02-2000||07:37 PM||||The chat page is now set up on the Golden Gate Fieros web site -- it may be accessed by  <A HREF="http://www.goldengatefieros.org" TARGET=_blank>http://www.goldengatefieros.org</A>  and is open to the public -- stop by and chat with us...........as we set specific times for chats they will be posted on the home page.....||||reg||1

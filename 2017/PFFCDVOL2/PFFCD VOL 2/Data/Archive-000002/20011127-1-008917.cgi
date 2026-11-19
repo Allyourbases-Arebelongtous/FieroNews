@@ -1,0 +1,4 @@
+A||||2||JamesWM83||ATTN: Archie||||1||
+Z||000000||JamesWM83||07-20-2001||12:59 AM||||Ok... I know you do V8 conversions. How much do they usually run? I would like my Fiero to get u pand runnin again.. and figured I might as well make it run REALLY good. Is there any type of payment thing you can work out with people that can't get a loan and don't have the money to pay it in full when it's done? Please get back to me. Thanks<P><P>------------------<BR>~JAmes||||reg||1
+Z||000001||GTMike||07-20-2001||01:55 AM||||did you go to his website yet?  it has prices||||reg||1
+Z||000002||Archie||07-20-2001||09:31 AM||||Details on having us do a V-8 swap for you are at <A HREF="http://www.v8archie.com/arch10.htm" TARGET=_blank>http://www.v8archie.com/arch10.htm</A> <P>Details on kit prices are at <A HREF="http://www.v8archie.com/v8fiero.htm" TARGET=_blank>http://www.v8archie.com/v8fiero.htm</A> <P>And we do take Credit Cards.<P>Hope this helps<P>Archie||||reg||1

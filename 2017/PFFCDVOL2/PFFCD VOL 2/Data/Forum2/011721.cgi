@@ -1,0 +1,7 @@
+A||N||5||JohnAC||Power Drain||||11||
+Z||000000||JohnAC||07-01-2001||04:47 AM||||I recently bought a '88 SE.  When I got it home, the battery went dead by the next day.  So, I put my tester on the battery and started pulling fuses.  My 'Tail' fuse controlled the power drain, but I can't find the exact source of the drain.  Any recommendations?  Is this common in the '88's?||||reg||11
+Z||000001||Indiana_resto_guy||07-01-2001||08:19 AM||||Well, first off there were no SE's made in '88. It's either an '87 SE, or an '88 with SE sail panels on it or something. (false add by seller?)<BR>Anyhow, could be a bad light switch.<BR>Check your vin # for the year of the car, 10th digit is for the ID G is '86, H is '87 and J is '88.<BR>Is it a 4 or 6 cylinder engine?||||reg||1
+Z||000002||JohnAC||07-01-2001||10:16 PM||||I'm sorry, its actually an '88 Coupe.  I'm just used to refering to pontiacs by SE/GT.  I've checked all the lights on the rear end, none stay on when they aren't supposed to.  Could it be the brake switch?<p>[This message has been edited by JohnAC (edited 07-01-2001).]||||reg||1
+Z||000003||Indiana_resto_guy||07-02-2001||11:28 AM||||The brake lights are on a different fuse.<BR>The 'tail' fuse feeds the light switch.||||reg||1
+Z||000004||Black88GT||07-02-2001||12:03 PM||||Check to see if the trunk light it staying on.  My old Formula had the same problem and I took out that light and it never went dead again.||||reg||1
+Z||000005||JohnAC||07-02-2001||08:09 PM||||It doesn't have a trunk light. =)  So...next option?||||reg||1

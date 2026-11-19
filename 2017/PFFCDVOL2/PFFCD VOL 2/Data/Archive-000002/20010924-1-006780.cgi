@@ -1,0 +1,9 @@
+A||||7||wkayl||Formula pictures needed||||1||
+Z||000000||wkayl||04-10-2001||07:15 PM||||I need a side picture of an 88 Formula with the Formula sticker on the door.  Also, does anyone know where I can get the Formula stickers?||||reg||1
+Z||000001||mrfiero||04-10-2001||08:11 PM||||Wayne,<P>Come on over and take some pics of my silver Formula.  I can also give you those other parts.<P>I have jury duty (third day!), so I won't be around tomorrow.    ||||reg||10
+Z||000002||Galen||04-10-2001||08:55 PM||||Fiero store has em, sticker shock may be high though.. pun <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>Galen - 1988 Hawaiian Orchid Coupe - Sunroof, shaved emblems, more to come..<BR><A HREF="http://www.spinrpg.com/" TARGET=_blank>Spinrpg.com - Free URL & e-mail Forwarding</A>||||reg||1
+Z||000003||Phil||04-10-2001||09:04 PM|||| <IMG SRC="http://www.fiero.nl/uploads/fierosidert_7.jpg"> ||||reg||1
+Z||000004||tgowens||04-10-2001||09:06 PM||||look up Paul McKibben - he has all the decals........here is his web address:<BR> <A HREF="http://www.angelfire.com/biz/fierosails/" TARGET=_blank>http://www.angelfire.com/biz/fierosails/</A> ||||reg||1
+Z||000005||Ronnie||04-10-2001||10:32 PM||||Here's the Formula I just bought.<BR> <IMG SRC="http://www.fiero.nl/uploads/formula_1_1.jpg"> ||||reg||6
+Z||000006||Ronnie||04-10-2001||10:34 PM||||Whooooaaaaa!!! Didn't mean to put such a large picture, haha.Oh well.||||reg||10
+Z||000007||Raydar||04-11-2001||04:45 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by tgowens:<BR><B>look up Paul McKibben - he has all the decals........here is his web address:<BR> <A HREF="http://www.angelfire.com/biz/fierosails/" TARGET=_blank>http://www.angelfire.com/biz/fierosails/</A> </B><HR></BLOCKQUOTE><P>Terry, you beat me to it.<BR>Paul does nice work.<P><P>------------------<BR>Raydar - aka Steve<P>88 T-top Formula<BR>88 soon-to-be-V6 coupe||||reg||1

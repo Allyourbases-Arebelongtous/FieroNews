@@ -1,0 +1,6 @@
+A||||4||Hawk||screwed up big time,wreaked a 3.4 head||||1||
+Z||000000||Hawk||06-30-2001||10:12 PM||||Are the 2.8 heads the same as the 3.4 heads? I ruined one of my transplant 3.4 heads trying to get a temp. sensor plug out. Can I put a 2.8 head in its place? Are the heads the same spec.? I am pc. of rancid dog meat, a pitifull excuss of a human being, can anyone help? With the head that is. Thanks, Hawk||||reg||1
+Z||000001||mrfiero||06-30-2001||10:25 PM||||They are the same.||||reg||1
+Z||000002||Black88GT||06-30-2001||10:41 PM||||With the exception of valve springs||||reg||1
+Z||000003||FormulaJoe||07-01-2001||11:40 PM||||How bad did you mess it up?  Remember you can do a  HEILACOIL or a threaded insert to fix the problem.  Depending on what you did to it and how bad it may be possiable to fix the problem.  Check with a few local machine shops, they should be able to help you out.||||reg||1
+Z||000004||Terrybogin||07-02-2001||12:24 AM||||I had the same problem with a pipe plug in the 3.4 head. I ended up having to hammer and chisal the thing out. The bright side was that a friend had a pipe thread tap and I just re-tapped the hole and the Fiero sensor fit fine. If nothing else, just drill the hole to a larger size and tap the hole, then use a brass adapter to fit the sensor back in the new location.<BR>Good Luck!||||reg||1

@@ -1,0 +1,8 @@
+A||||6||86GT-FstBk||Quarter Windows w/scoops.||||5||
+Z||000000||86GT-FstBk||10-14-2000||09:24 PM||||I was just wondering if anybody knew where I could get my hands on the GT quarter windows that have the scoop.  Thanks guys,  Brian||||reg||5
+Z||000001||Cooter||10-14-2000||09:48 PM||||Fiero Store- <A HREF="http://www.fierostore.com" TARGET=_blank>www.fierostore.com</A> <P>I had them in my fastback and HATED them! They make a monster blind spot for changing lanes and backing out of parking places.<BR>||||reg||1
+Z||000002||86GT-FstBk||10-14-2000||09:58 PM||||thanks, I know I saw them in a another place other than the Fiero Store.  What is the Best way of securing those darn quarter windows.||||reg||1
+Z||000003||DaRkLoRD||10-15-2000||12:41 AM||||I wouldn't use those even if someone paid me $100 to... they're terrible.. no rear visibility at all...<P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||13
+Z||000004||Pontiaddict||10-15-2000||12:59 AM||||They need to make the scoops in Lexan.<BR>Difficult and expensive, but it would be great.||||reg||1
+Z||000005||Old Lar||10-15-2000||07:31 AM||||I though the The Fiero Store had a second version sailpanel with a clear insert for the scoop.  Without it you're driving blind.||||reg||1
+Z||000006||Pontiaddict||10-15-2000||01:02 PM||||They do. I'm talking about making it like the original panels but with the scoop.<P>Also someone put mine in with some sort of epoxy. I don't think they are ever coming out.||||reg||1

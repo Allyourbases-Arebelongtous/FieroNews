@@ -1,0 +1,4 @@
+A||||2||FieroGTGirl||Hey Robert564.....||||5||
+Z||000000||FieroGTGirl||05-07-2000||05:28 PM||||I love spades!!! Do you play spades at yahoo???  That is where I play spades.  My name is the same there...  <P>It would be nice to find a good partner to play spades with. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||5
+Z||000001||Robert||05-08-2000||12:26 AM||||I have played at yahoo, but like the rules at excite better, <A HREF="http://www.excite.com/games/." TARGET=_blank>http://www.excite.com/games/.</A> <BR>Been playing for about a year now with over 500 games.  I’ll look you up at yahoo some night, maybe we can beat up on some other car nuts out there.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>||||reg||1
+Z||000002||FieroGTGirl||05-08-2000||10:06 AM||||Thanks...I will look for you at Excite sometime...||||reg||1

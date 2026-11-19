@@ -1,0 +1,6 @@
+A||||4||Loki||Anyone using ICQ 98 or 99||||1||
+Z||000000||Loki||06-13-2001||12:02 PM||||Im having some real issues with icq2000 and was wondering if anyone has the .exe for icq 98 or icq99?<BR><P>------------------<BR>Loki<BR>ICQ# 16477998||||reg||1
+Z||000001||84Bill||06-13-2001||12:05 PM||||I use 99a Ithaught it was b<BR>I'll see if I still have the archive file when I get home<BR> I had issues with 2000 too<P><p>[This message has been edited by 84Bill (edited 06-13-2001).]||||reg||14
+Z||000002||isthiswhereiputausername?||06-13-2001||04:42 PM||||I use 98a, plus since I have most of the internet on cdrs, I have the other versions also  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>I hate 2000, too many useless features (If I want a search engine..I'll go to yahoo)<P>||||reg||1
+Z||000003||DaRkLoRD||06-13-2001||05:46 PM||||I use 99a.. much preferred to 2000. I suppose I could upgrade to 99b, but oh well<P>------------------<BR>    <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>    <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||1
+Z||000004||84Bill||06-13-2001||05:57 PM||||Dewd your email inbox is to small. I cant email it to you||||reg||13

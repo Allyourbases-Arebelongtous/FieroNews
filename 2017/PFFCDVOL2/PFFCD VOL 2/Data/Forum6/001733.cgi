@@ -1,0 +1,3 @@
+A||N||1||kinboyatuwo||Mini Disks||||6||
+Z||000000||kinboyatuwo||03-29-2001||01:56 AM||||Any one else have one?<P>Are these not the cooles things?<P>Just got another one (threw the old one down the stairs in a bag by accident, expensive one!<P>------------------<BR>"Friends don't let friends drive four doors."||||reg||6
+Z||000001||87ECO5||03-29-2001||10:02 AM||||My lovely wife bought me one of the recordable units a few years ago.  It just stopped working one day (doesn't recognize any disk inserted into it).  Turned out to cost way more to fix it than it was worth.<P>I thought recordable CD would have phased it out completely.  Are they still selling well?||||reg||1

@@ -1,0 +1,9 @@
+A||||7||yellowFormula||Weird (but small) problems||||5
+Z||000000||yellowFormula||09-23-1999||11:23 PM||||This just started recently, but when I turn my windshield wipers on they will work but they like control themselves. I switch them off yet they don't stop, or they will stop periodically then continue. Also my cruise control stopped working, any ideas? <P>thanks,<BR>jeff <A HREF="http://www.geocities.com/motorcity/track/3487" TARGET=_blank>http://www.geocities.com/motorcity/track/3487</A>  <P> ||||reg||5
+Z||000001||Racer 1||09-24-1999||12:28 AM||||Sounds to me like somethings broke !||||reg||3
+Z||000002||DJRice||09-24-1999||09:09 AM||||I beleive the cause of this problem was discussed in another post.  The final verdict was Electrical Gremlins.... <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||Formula||09-24-1999||01:13 PM||||Try the vaccum can for the cruise control. My cruise didn't work because the can was crushed. now it works fine.  I have no clue about the winshield wipers||||reg||1
+Z||000004||Ozzy||09-25-1999||02:43 AM||||Hey Racer 1... Nuthin' gets by you huh? :-)<P>I have an intermittent problem with the cruise but not with the wipers. I suspect it is electrical and possibly worn contacts in the wiper switch but can't say for sure. You may have 2 seperate problems...wiper controller and cruise unit?<P>Ozzy||||reg||1
+Z||000005||Racer 1||09-25-1999||03:22 AM||||OZZY,YellowFormula said have any ideas and thats the only one I had.LOL||||reg||10
+Z||000006||terryk||09-25-1999||11:59 AM||||It's very likely the motor assembly. Do you get the "phantom wipes" that occur when the key is first turned on? They will cycle once or twice and then park.<P>GM had a service note out on this.||||reg||1
+Z||000007||BlackGT||09-29-1999||12:18 PM||||TerryK<P>I too get the "phantom wipe" either on start up or when I use the signals...what`s the fix for this and where do I find this GM service bulletin on this?||||reg||12

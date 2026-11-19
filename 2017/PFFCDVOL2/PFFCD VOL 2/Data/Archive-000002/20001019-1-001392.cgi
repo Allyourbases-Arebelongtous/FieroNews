@@ -1,0 +1,8 @@
+A||N||6||Monkeyman||Eddy Snaauws Dash||||5||
+Z||000000||Monkeyman||02-29-2000||07:19 AM||||Anyone heard anything new about Eddy Snaauws dash kit?  Supplier?  Price?  I think he said that it was supposed to be out in the spring, but I didn't know exactly when.||||reg||5
+Z||000001||william_thorniii||02-29-2000||08:19 AM||||Monkey,<P>I have written Eddy many times.  I have been helping him with his english on his website.  Speaking of which, have you been there lately... he changed the looks a bit.  Check it out <A HREF="http://members.tripod.lycos.nl/FIERO_2/Frameset.html" TARGET=_blank>http://members.tripod.lycos.nl/FIERO_2/Frameset.html</A> <P>The last I heard, he was trying to ready a door panel kit before he released the dash.  I can e-mail him about this if you wish.<P>Let me know,<P>William T. Thorn, III  ||||reg||5
+Z||000002||Shiner||02-29-2000||06:44 PM||||Monkey,<P> Just give him an email.  He is a heck of a nice guy, and always seems willing to talk.  ||||reg||1
+Z||000003||Phil||02-29-2000||06:46 PM||||Tried the new site all I got was Welkome to my Fiero web pages and a Pontiac symbol||||reg||1
+Z||000004||jhogans||02-29-2000||10:17 PM||||Try this link.<BR> <A HREF="http://members.tripod.lycos.nl/FIERO_2" TARGET=_blank>http://members.tripod.lycos.nl/FIERO_2</A> ||||reg||1
+Z||000005||Uaana||03-01-2000||02:54 AM||||Wow!!!<BR>Add some super X white face gauges<BR>And I'll start stealing from the girl scouts<BR>to get it!<P><BR>Excuse me while I look for my pacemaker....||||reg||14
+Z||000006||Monkeyman||03-01-2000||06:34 AM||||Best looking aftermarket dash I have ever seen in my entire life!  I've always thought so.  I'll have to email Eddy.  I keep forgetting to.||||reg||1

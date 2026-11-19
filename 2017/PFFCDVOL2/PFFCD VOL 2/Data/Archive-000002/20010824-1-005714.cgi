@@ -1,0 +1,7 @@
+A||N||5||Vlad||Did hinge pins and bushings.........||||1||
+Z||000000||Vlad||02-09-2001||02:15 AM||||<BR>Well....... One big hell of the job.. <IMG SRC="http://www.fiero.nl/forum/eek.gif"><P>The bloody spring is a killer. I had to call for help to put it back. <P>But what? The dor closes like new now. I love it. ||||reg||1
+Z||000001||beer_stud_21||02-09-2001||02:38 AM||||I have to do both my doors at some point.. I think I will do it when i do the dew wipes.. Where did you get the parts?  the fiero store?||||reg||4
+Z||000002||Vlad||02-09-2001||02:47 AM||||Pins and bushings?<P>At nearest autopart store. HELP! brand. $10 Took its number from Orges cave. Perfect fit.<P>But man....   I even didn't expect such a good result. <BR>Try not to work along when you replace them. Or get the spring tool. 20 bucks I guess.<BR>||||reg||1
+Z||000003||sqoach||02-09-2001||01:32 PM||||i was doing that about a week ago and gave up. put the old pin back in and cried. i need to get one of those spring removal tools.<P>------------------<BR>sqoach@yahoo.com<P>  <IMG SRC="http://www.fiero.nl/uploads/mysig2.JPG"> ||||reg||1
+Z||000004||Vlad||02-09-2001||03:43 PM||||I put it back myself without special tool.<P>Tool me an hour though.....||||reg||1
+Z||000005||theogre||02-09-2001||08:48 PM||||You may be able to borow the tool from some parts stores. The bigger chains have loaner tools. If I ever have to do this agains I'm just buying the dam tool.||||reg||1

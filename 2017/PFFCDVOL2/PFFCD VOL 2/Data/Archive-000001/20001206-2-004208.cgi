@@ -1,0 +1,6 @@
+A||||4||Oreif||Need to locate a part.||||5||
+Z||000000||Oreif||06-09-2000||03:04 PM||||I am looking for the round clip that attaches to the rear brake caliper piston to hold on the inside brake pads. I need 2 of them. Mine are broken and barely holding the pads.<BR>Thanks!<BR>||||reg||5
+Z||000001||Sage||06-09-2000||03:58 PM||||I got some from the local Pontiac dealer.  I believe they also can be gotten from parts houses as part of a brake hardware kit.<P>The dealer sold them separate, but they cost more, don't remember exactly, but it was around $3.00||||reg||1
+Z||000002||tgowens||06-09-2000||04:01 PM||||check with George at the Fiero Shop --  <A HREF="mailto:fieroshp@pacbell.net">fieroshp@pacbell.net</A> ||||reg||1
+Z||000003||deceler8||06-09-2000||06:31 PM||||I believe I have a set of the round clips that were in a caliper kit that I bought for my front brakes. If you need them, I'll be happy to send them to you, gratis.||||reg||1
+Z||000004||Oreif||06-09-2000||06:56 PM||||I called my brother-in-law who works at a Pontiac dealership. He's dropping the parts off in an hour. Usually I ask for parts on here instead of calling him because most parts are not available thru the dealers. Thanks guys! I didn't want to drive it to the car show on Sunday with the rear pads clanking at every bump.||||reg||1

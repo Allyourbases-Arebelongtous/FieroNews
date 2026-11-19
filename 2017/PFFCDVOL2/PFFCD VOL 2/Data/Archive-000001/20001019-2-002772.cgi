@@ -1,0 +1,4 @@
+A||||2||zebrex||What am I missing ?  Help!||||5||
+Z||000000||zebrex||03-19-2000||09:32 AM||||I replaced all four calipers, roters and pad sets but for some reason I cant seem to get the system bled out. I dont see any air at any of the calipers but I still have no pedal. If you pump the brakes up they will stop fine but the first pedal shot goes to the floor. Ive bled brakes on many, many different cars before so I think Ive got a clue to what im doing. but am I missing something? Does my 88 formula have something special I have to do ? <BR>  I know Im asking the right group of people.||||reg||5
+Z||000001||sully5||03-19-2000||02:57 PM||||zebrex - I am definitely no expert, but what condition is your master cylinder in? What about the rubber brake lines? Hope this helps.||||reg||1
+Z||000002||TheFiero64||03-19-2000||03:40 PM||||I had that same problem on my 84. The master cylinder was gone. I think that is your problem too. Good luck||||reg||1

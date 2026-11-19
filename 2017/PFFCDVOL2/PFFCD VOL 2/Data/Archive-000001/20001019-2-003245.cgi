@@ -1,0 +1,5 @@
+A||||3||gbv||is something missing?||||5||
+Z||000000||gbv||04-18-2000||12:33 AM||||hi,<P>close to the O2 sensor location, theres what looks to be another sensor plug. it has a Green base. what is this exactly? seems like something should plug in there...||||reg||5
+Z||000001||Luperman||04-18-2000||03:42 AM||||Is it on the transmission , if it is  is your tranny a automatic? maybe a TCC soleniod connector||||reg||6
+Z||000002||gbv||04-18-2000||04:23 AM||||what i meant was..its in the area to the right, and down of the air filter. it looks like a connector and the base is green in color.<p>[This message has been edited by gbv (edited 04-18-2000).]||||reg||1
+Z||000003||1FST2M6||04-18-2000||08:54 AM||||could be the MAT sensor plug.. there is a sensor on the air filter housing that tells the computer what the Manfold Air Temp is.. if your car has ever been taken apart a lot of times this little sensor is overlooked and the clip is broken... You will not notice a performance difference but you might want to check it... small 5/8ths nut looking on the rear of the metal air filter canister... ||||reg||1

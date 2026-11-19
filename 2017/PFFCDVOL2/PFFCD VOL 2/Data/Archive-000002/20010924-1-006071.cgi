@@ -1,0 +1,5 @@
+A||N||3||87sportcoupe||DO YOU GUYS RECOMMEND 17x7" rims or 17X7.5" rims???????||||12||
+Z||000000||87sportcoupe||03-06-2001||02:17 PM||||Can you tell me what size you recommend and why?||||reg||12
+Z||000001||1FST2M6||03-06-2001||02:23 PM||||they are the same thing... don't fret over  1/2" <P><BR>LOL... thats what she said...<P>stick to the style you like and try and stay away from chrome cause weight will be a factor... ||||reg||1
+Z||000002||Alex4mula||03-06-2001||07:53 PM||||Are chrome wheels heavier? I know is an extra coat but how much weight it adds? Over 1 pound?<BR>Like 1ST said, 7 or 7.5 are almost the same. Over 8 then you need to check clearance.||||reg||1
+Z||000003||billyboy||03-07-2001||01:01 AM||||Personally, if you have the clearance, I'd go with 17 x 7's up front and 17 x 8's in the rear for a little better back end control.  The 7" width will fit a 205 or 215 width tire nicely, the 7.5" wheels will fit 225 to a 235 nicely.  The 8" wheels will fit 245 to 255 pretty well.<P>Yes, chrome adds a lot of weight to the wheels.  Depending on how much chrome is used and how much surface area the wheel has, it can add over 8lbs to the wheel.  <P>||||reg||1

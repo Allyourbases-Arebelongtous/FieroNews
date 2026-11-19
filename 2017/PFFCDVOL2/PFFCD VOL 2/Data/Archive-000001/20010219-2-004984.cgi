@@ -1,0 +1,5 @@
+A||N||3||rprevo||Flywheels||||6||
+Z||000000||rprevo||07-29-2000||10:03 PM|||| Hello, I am new to the forum and I have<BR>a question,<BR>Is a flywheel out of a 2.8 V6 the same<BR>thickness of a 2.5 in the Fieros?<P>Reason for the question is I made my<BR>own v8 conversion   and my<BR>Father was so happy with it that we're<BR>doing one for him. The thickness of<BR>my adaptor is criticle to the 2.5 flywheel <BR>because I modified and mounted the flywheel<BR>to a 93 LT1<BR> <BR> Ray.||||reg||6
+Z||000001||rockcrawl||07-30-2000||08:38 AM||||Yes, the 2.8 and 2.5 flywheels are the same thickness.<P><P>------------------<BR>'86 GT 3800<BR>'87 GT<BR>Rossa Spyder (under construction)||||reg||1
+Z||000002||jlruiz67||07-30-2000||01:08 PM||||Hey did you use a kit to do your V8 convertion or did you do it from scratch your self.||||reg||5
+Z||000003||rprevo||07-30-2000||04:24 PM|||| I did mine from scratch,<BR>I'm a Toolmaker in the Detroit area<BR>and I have access for Measureing and making<BR>pieces.<BR>Really didn't have the money to buy the<BR>Archie kit. <BR>Ray<BR>||||reg||1

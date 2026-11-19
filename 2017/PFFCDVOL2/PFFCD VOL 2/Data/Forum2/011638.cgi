@@ -1,0 +1,2 @@
+A||||0||fropuff||Bad sender?  (fluctuating oil pressure)||||7||
+Z||000000||fropuff||06-27-2001||11:54 PM||||Hey guys.  I'm having some problems with my 2.8L.  The oil pressure fluctuates quite a bit.  When I start it and when I'm driving @ 70 MPH, it's at 60 PSI.  When I'm at a stop and in gear, it's at 20 or a little less.  The oil light comes on sometimes too.  It never drops lower that around 18 though.  Today, it went from 75 to 20 in a matter of seconds.  Is this normal, or something wrong, like a sender?  Thanks for any help.<BR>||||reg||7

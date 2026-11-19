@@ -1,0 +1,3 @@
+A||||1||WampusCat||Lumbar controls||||1||
+Z||000000||WampusCat||12-19-2000||05:27 PM||||Can someone tell me what the three pushbuttons on the lumbar seat do?  The rocker switches are pretty easy to figure out.  I looked in an 88 owner's manual and the lumbar seats aren't mentioned.  Thanks for any info.<P>Steve||||reg||1
+Z||000001||KRMFiero||12-19-2000||05:52 PM||||*trys to remember*<BR>Umm the to pads on your side move in/out, around your  neck area/upper back,    and uhh lower back?    <P><BR>Not sure, A T-Bird I had for about 2 days had them (I used the car just to take it off road, its in about 5 foot high pond if you want me to go cheak I'll take my 4 wheeler but i doubt it still works since the car is under water heheh)<P><BR>Kyle||||reg||1

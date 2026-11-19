@@ -1,0 +1,6 @@
+A||||4||sully5||Dashboard stuff||||5||
+Z||000000||sully5||05-16-2000||11:49 PM||||OK, I've got a couple of guage/dash questions. First, on the back cover of the guage pod there is a vent, and on the inside of that was some kind of foam stuff. Is there a replacement, or is it really needed? Secondly, while installing my 120 speedo, I noticed a seal around the original speedo face that is not on the new one. Where can I find one of those? Thanks for any input. Sully.||||reg||5
+Z||000001||Linx||05-17-2000||02:00 AM||||yeah- the material on the back of the gauge cluster- I suspect it's meant to be a dust shield.  It lets air in, keeps dust out.  Mine was faling apart so i just removed it and never replaced.<P>Now- i see that i <I>should</I> have replaced it, because it also keeps the dash light <I>in</I>.  At night, light from the cluster lamps seep out. It's a little annoying.||||reg||1
+Z||000002||Monkeyman||05-17-2000||09:27 AM||||Try some speaker cover material.  Just like what's on the stock covers on the dash.  It should do the trick.||||reg||1
+Z||000003||sully5||05-17-2000||05:44 PM||||Thanks for the help. Soon as it quits raining here I hope to get the car back together. ||||reg||1
+Z||000004||theogre||05-17-2000||10:10 PM||||I took what little was left of mine off and left it. was mostly gone anyways. It's never been a light problem for me.||||reg||1

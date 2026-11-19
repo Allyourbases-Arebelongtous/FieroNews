@@ -1,0 +1,5 @@
+A||||3||WisconsinGT||Side marker lights||||1
+Z||000000||WisconsinGT||11-24-1999||06:54 PM||||Would anyone know of a part number for brighter bulbs to use as side marker lights? Mine look very dim. All I can see is a little red or yellow dot when my lights are on. Maybe this is normal. Please educate me. Thanks||||reg||1
+Z||000001||mutfish||11-24-1999||09:44 PM||||I use GE T5 923 BULBS IN THE P-O-N-T-I-A-C TAIL LENS,THEY ARE A LOT BRIGHTER THAN THE STANDARD 194 BULBS,BUT DON'T DRAW TO MUCH AMPERAGE AND DON'T GET TO HOT.YOU MIGHT ALSO TRY 912 OR 917.||||reg||1
+Z||000002||sdm1964||11-24-1999||09:52 PM||||Mine seem to be the same way. Just putting in my 2 cents.||||reg||12
+Z||000003||Monkeyman||11-24-1999||11:36 PM||||Have you tried taking the lenses off and cleaning the inside?  Haven't tried to do this myself as I'm getting new panels and different mouldings, but it's a thought.  Also, some lites have bumps on the inside of the lenses.  If so, try sanding those off.  I've seen it done once (not on a Fiero) and it helped.  Lots of work, though.  Be very careful.||||reg||1

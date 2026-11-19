@@ -1,0 +1,3 @@
+A||||1||DJRice||Flea Market Find!||||1||
+Z||000000||DJRice||10-04-2000||09:19 PM||||Check it....<P> <IMG SRC="http://www.fiero.nl/uploads/Pic00105.JPG"> <P> <IMG SRC="http://www.fiero.nl/uploads/Pic00104.JPG"> <P>Only $1. <P> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Dillon<BR>Black '87 SE V6<BR>"You mean like the back seat of a Volkswagen?"||||reg||1
+Z||000001||TheFiero64||10-05-2000||11:11 PM||||Nice find & the price seemed right. I always look for fiero stuff when I go anywhere.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif"> ||||reg||10

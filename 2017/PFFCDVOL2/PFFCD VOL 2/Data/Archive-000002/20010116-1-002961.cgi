@@ -1,0 +1,6 @@
+A||||4||tgowens||Spyder!!!||||1||
+Z||000000||tgowens||07-16-2000||10:02 PM||||here, I made it into a signature for ya!!...<P>------------------<BR>  <IMG SRC="http://www.whgraphics.com/anim/spyder_anim_sig.gif">              <BR><A HREF="http://www.tgowens.com/fiero" TARGET=_blank>www.tgowens.com/fiero</A>||||reg||1
+Z||000001||tgowens||07-16-2000||10:06 PM||||I'll email it to you......<P>------------------<BR>   <IMG SRC="http://www.tgowens.com/MY_SIGNATURE.gif">               <BR><A HREF="http://www.tgowens.com/fiero" TARGET=_blank>www.tgowens.com/fiero</A>||||reg||1
+Z||000002||tgowens||07-17-2000||02:58 AM||||all my email to you came back to me as undeliverable - havin a prob' with your email server?? -- just right click on this one and save it to your machine........<P>------------------<BR>   <IMG SRC="http://www.tgowens.com/MY_SIGNATURE.gif">               <BR><A HREF="http://www.tgowens.com/fiero" TARGET=_blank>www.tgowens.com/fiero</A>||||reg||1
+Z||000003||fieroshop||07-17-2000||10:36 AM||||Thanks Terry,<BR> <IMG SRC="http://www.fiero.nl/uploads/fieroshop_sig.gif"> ||||reg||10
+Z||000004||Spyder||07-17-2000||07:59 PM||||Thanks,<BR>I’m going to check on me email right now.<BR>Seems like some stuff goes through while some doesn’t.<BR>Thanks||||reg||1

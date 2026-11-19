@@ -1,0 +1,3 @@
+A||N||1||KRMFiero||Someone with Carfax or something like it...||||1||
+Z||000000||KRMFiero||06-22-2001||04:38 PM||||Can you just run this, 1G6KS5152KU802896     i mainly need to know about the engine like if it has had odomiter fraud, i would like to know how many miles should be on it but can someone please run that and post ANY info<P>Thanks,<BR>Kyle<P>------------------<BR>1984 Pontiac Fiero 2M4 SE (Red) Caddy 4.5 Project<BR>1985 Pontiac Fiero 2M4 SE (White)<P>      <IMG SRC="http://members.aol.com/~Physcokyle/sig2.jpg"> ||||reg||1
+Z||000001||KRMFiero||06-23-2001||01:33 PM||||*bump*||||reg||1

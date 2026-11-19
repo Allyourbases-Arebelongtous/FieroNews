@@ -1,0 +1,4 @@
+A||||2||Eric||Shades of Gold||||
+Z||000000||Eric||09-06-99||08:03 AM||||When I was at the Nationals a few weeks ago, i saw some cars with gold wheels that were painted in a shade that was different than the original.  It was brighter and overall just looked better.  I decided to paint my wheels that same way, but not before the show was over and all the fiero owners took their "bright wheeled" cars home, so I wasn't able to get a paint code at that time.  If some of you paint experts could help me out with codes or any general info on where to look for this special shade, I would appreciate it.
+Z||000001||Formula||09-06-99||06:06 PM||||If you want to have the shiniest wheels get them gold dipperd <IMG SRC="/ubb/smile.gif" WIDTH=15 HEIGHT=15>
+Z||000002||mwbackus||09-07-1999||08:21 PM||||Wheels dipped in gold??  We have definatly got some "serious" Fiero enthusiasts here!!<P>Mike <BR>(who thinks his gold plated key chain is extravagant..) ||||reg||

@@ -1,0 +1,3 @@
+A||||1||Philphine||hmmm...hey count||||1||
+Z||000000||Philphine||12-10-2000||01:59 PM||||<BR>remember when i told you about the gt you asked about a coupe the lot had? i said i thought maybe they sold it cause i hadn't seen it in a while. go to the flea market right across the street and there it is back and on the front row. i don't know what to make of that. makes me wonder if the gt was the same one they had a while back, too. i assummed it wasn't 'cause it had been maybe 6 mo. or a year maybe since they had a gt on the lot. i'd be wary of sending anyone else there or tell them to make sure they get the car checked REAL carefully.||||reg||1
+Z||000001||count_iblis||12-10-2000||02:30 PM||||Yeah I wouldnt ever send anyone other there to get a car.||||reg||1

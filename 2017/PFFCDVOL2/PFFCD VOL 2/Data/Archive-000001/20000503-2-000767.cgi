@@ -1,0 +1,2 @@
+A||||0||SloPonti||increasing air flow for the 4 banger
+Z||000000||SloPonti||09-02-99||03:41 PM||||does anyone know how or a parts place that makes anything better for the 4 banger to breath better!  i hate that cheap flex tubing in there!!  also i have noticed lately that the air filter in the car is damp sometimes and i have found water in the flex tubing!!  does anyone have the same problem or know what it is caused by!<br>thanks

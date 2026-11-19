@@ -1,0 +1,3 @@
+A||||1||Big O||Interior Trim Part||||1||
+Z||000000||Big O||03-02-2000||08:48 PM||||Anyone out there have a good lead on Fiero tan and brown interior trim parts?  I'm specifically interested in a complete instrument panel pod.  I'd take a center console cover for the automatic in tan if they can be found.  I want to start detailing the interior of my 86 GTP and I find this stuff is scarce.||||reg||1
+Z||000001||stimpy||03-02-2000||09:44 PM||||I have found out about some good ideas for restoring those pieces. When I get back to CA, maybe we can fix the parts you have. The front of your guage pod is still good though, isn't it?  I will keep my eye out for the rear portion when I go scavenging this weekend. One more eek til vacation!||||reg||1

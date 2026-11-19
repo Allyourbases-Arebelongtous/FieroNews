@@ -1,0 +1,5 @@
+A||N||3||FieroJoe||Dead links on PFF?||||1||
+Z||000000||FieroJoe||01-29-2001||09:59 PM||||Ever since I joined this forum, not all of the links on the main menu page ever pointed anywhere, they just pointed to the page with the pic of cliffs car.  Like, "Fiero Color Codes", "Things you can make yourself", etc.  Do these pages just exist, or has cliff not had the time or content to be able to make those sections,  I can imagine he is busy enough already with the forums.<P>------------------<BR>FieroJoe<BR>c311t@yahoo.com<BR>AIM: Fiero87311, Snowboarder0311<BR>  <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1
+Z||000001||DJRice||01-29-2001||10:01 PM||||Cliff has not add all of the sections yet...<P>------------------<BR>Dillon<BR>Black '87 SE V6<BR>"You mean like the back seat of a Volkswagen?"||||reg||1
+Z||000002||theogre||01-29-2001||11:02 PM||||some sections are in the works. that stuff is low priority. He's been too busy with work and keeping the forums going to worry about it.||||reg||1
+Z||000003||FieroJoe||01-30-2001||10:55 AM||||yeah, that is exactly what I thought.  I was just wondering if was my computer being crappy.||||reg||1

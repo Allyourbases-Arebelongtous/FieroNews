@@ -1,0 +1,4 @@
+A||N||2||3fifty||Wire out of deck lid?||||5||
+Z||000000||3fifty||05-13-2001||06:48 PM||||I have a 85 GT. There is a four connector plug coming out of the front passenger side<BR>(bottom of deck lid)corner not far from the oil dip stick. What is this? Car has a body kit with a reskin over the deck lid making<BR>a 4 inch stretch. Maybe this was the power for the factory electric deck lid release!!!!!!<P><BR>Thanks,<BR>     3fifty one day!!!!! ||||reg||5
+Z||000001||FieroJoe||05-13-2001||07:07 PM||||You are correct.  The wires go to the power release soleniod, AJAR light switch, and trunk courtesy light switch that was in the latch.<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/joesig_1.jpg"> <BR>'87 Coupe 5spd.<BR>AIM:FieroJoe87||||reg||1
+Z||000002||TOM||05-13-2001||07:51 PM||||Send pics of body kit||||reg||1

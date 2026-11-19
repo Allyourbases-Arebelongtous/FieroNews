@@ -1,0 +1,4 @@
+A||||2||Oreif||A 1990 Fiero?||||1||
+Z||000000||Oreif||02-25-2000||02:33 AM||||This ad was in the Chicago Sun-times Newspaper. We all thought GM stopped making Fieros In 1988! Maybe it's a one-of-a-kind!<BR> <IMG SRC="http://www.fiero.nl/uploads/F_ad.jpg"> <BR>(odds are it's a typo) I guess it's the thought that counts.||||reg||1
+Z||000001||Standard||02-25-2000||02:41 AM||||well, if it wasn't a typo and the guy knew what he had, I doubt he'd be selling it for $2200..  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Whenever I get a speeding ticket the cops put the model year down as 99..  <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif"> <IMG SRC="http://www.fiero.nl/forum/eek.gif">||||reg||1
+Z||000002||Monkeyman||02-25-2000||04:53 AM||||Yeah.  My guess would either be a typo or he's trying to rip somebody off.<P>Standard--You could have beat that ticket.||||reg||1

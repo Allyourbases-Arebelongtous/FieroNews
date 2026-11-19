@@ -1,0 +1,3 @@
+A||N||1||Dan87GT||V6 engine miss from 2300 to 3300 rpm||||1||
+Z||000000||Dan87GT||08-01-2000||07:48 AM||||My 86SE has a bad miss from 2300 to 3300 rpm, idles fine and ok at higher rpm. Distributor has been rebuild, new wires, cap , rotor, plugs, and fuel pressure ok. Also no codes. Any thoughts???||||reg||1
+Z||000001||Carrolles||08-01-2000||08:03 AM||||Check out the tach filter.  I'm not sure if it could be causing a problem at a certain rpm range but it could ba the cause.<P>Do a search to find more info.  I've never had to fool around with mine so I don't have any first hand experience.<P>Good luck,<P>Carroll||||reg||1

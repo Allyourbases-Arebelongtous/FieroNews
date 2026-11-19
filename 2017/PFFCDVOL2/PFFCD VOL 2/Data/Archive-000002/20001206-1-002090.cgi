@@ -1,0 +1,16 @@
+A||||14||86SE||Heres a pic of my interior!!||||6||
+Z||000000||86SE||05-05-2000||11:24 PM||||After alot of long hours restoreing my interior, its FINALLY done, complete with a 10" shub not included in the picture.<P><BR>OLD:<BR>  <IMG SRC="http://fierodude.hypermart.net/interior.jpg">  <P>NEW:<BR>  <IMG SRC="http://fierodude.hypermart.net/interior.JPG">  <p>[This message has been edited by 86SE (edited 05-05-2000).]||||reg||6
+Z||000001||TOM||05-05-2000||11:41 PM||||If it works for you then that is all that is important||||reg||1
+Z||000002||stimpy||05-05-2000||11:43 PM||||Well said Tom||||reg||1
+Z||000003||Shiner||05-05-2000||11:46 PM||||You used mustard and ketchup to paint your interior??!||||reg||1
+Z||000004||frontal lobe||05-06-2000||12:16 AM||||As Spock used to say, "Fascinating."||||reg||1
+Z||000008||Racer 1||05-06-2000||12:43 AM||||<B>Im SPEECHLESS</B>||||reg||3
+Z||000013||DaRkLoRD||05-06-2000||02:29 AM||||A little colorful for my tastes, but nice restoration.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>shiner, lol..<P><BR>||||reg||1
+Z||000014||Hock||05-06-2000||10:46 PM||||IT LOOKS GOOD.<P>THE ONLY THING I'M NOT TO SURE ABOUT IS THE SPEAKERS.||||reg||1
+Z||000015||doughboySE||05-06-2000||10:51 PM||||hehehehehehehehe oh man um love the sunroom <IMG SRC="http://www.fiero.nl/forum/smile.gif"> hehehe<BR>SORRY||||reg||1
+Z||000016||doughboySE||05-06-2000||10:54 PM||||hehehehe oops i guess im the goof i ment sunroof||||reg||1
+Z||000017||Cooter||05-06-2000||11:08 PM||||OH MY GOSH!!!! WALT DISNEY THREW UP!!!!!! AAAAAHHHHHH<P><BR>Just kidding- different strokes for different folks.||||reg||1
+Z||000018||Monkeyman||05-07-2000||10:09 AM||||Personally, I don't care for a "colored" interior, but it looks like you did a bang up job.  What's up with the speakers?  May I suggest cutting the speaker holes a little larger so you can flush mount them?||||reg||1
+Z||000019||88formula||05-07-2000||08:55 PM||||EEEEEEEEEEEEEEEE||||reg||1
+Z||000020||86SE||05-07-2000||10:28 PM||||Alright, the yellow is there to match the soon-to-be exterior color of my car.  The red is there now to match the color the car is now, its been like that for 349 days.<P>The speakers are 6"x9", (NOTE:  Fiero speaker holes are made for 4"x10") so the 6"x9"s dont fit!  All well, they are 3-way 6x9 and they sound MUCH MUCH better than my schreded 14 year old 4x10's.  So now its just a matter of time before i can find some 3-way 4x10's to stuff in the hole.  I wouldent dream of cutting the dash 2 more inches wider!!<P>Its all complete with footwell illumination lights, the switch is between the power windows switch.<P>But hey, it sure beats the messed up look of the old interior.<P>Personally I like it and EVERYONE that has actually been inside of the car to be wrapped in red to get the first hand "feel" of the interior likes it as well.<p>[This message has been edited by 86SE (edited 05-07-2000).]||||reg||1
+Z||000021||Monkeyman||05-08-2000||10:13 AM||||I'm planning on installing a set of 5 1/4" separates in the Grape Ape.  I'll do something custom so that they'll fit in the dash.  Probably make them angled towards me at the same time.  Maybe cut larger holes (looks to be enough room), then fill in the remaining space.  Short on time and cash right now.  It'll probably be a late summer/early fall project.||||reg||1

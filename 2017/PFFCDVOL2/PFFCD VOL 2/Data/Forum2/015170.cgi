@@ -1,0 +1,5 @@
+A||||3||ig88vsbobafett||What Size Tires will look good 13s and 14s ||||1||
+Z||000000||ig88vsbobafett||11-06-2001||09:52 PM||||So far i have come up with <P>195 70 13<BR>185 80 13 <BR>215 60 14 <P>My fiero has stock 13s on it with 195 70s <BR>||||reg||1
+Z||000001||Mach10||11-06-2001||09:58 PM||||I likes the 215 60s. That's what I have on my 14" ers<BR>||||reg||10
+Z||000002||ray b||11-06-2001||11:18 PM||||15" wheels are cheap at pick& pull yards junk the 13's<BR>but tyres are not about looks<BR>get the best you can afford as they are the link to the road and #1 thing to improve a cars haddleing and stoping power.<BR>BRAKES STOP THE WHEELS TYRES STOP THE CAR!!!!<BR>you can't see the tyre when you are driveing.<P>------------------<BR>Question wonder and be wierd||||reg||1
+Z||000003||Master_Sushi||11-07-2001||01:02 PM||||13's whould look pretty bad on a fiero! Even 14s are geting a bit small for a sports car. Go with at least 15 inch of your looking for good handeling. Quality tires are important also. The wider the better!||||reg||1

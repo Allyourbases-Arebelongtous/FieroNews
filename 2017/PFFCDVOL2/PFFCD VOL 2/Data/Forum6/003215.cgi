@@ -1,0 +1,5 @@
+A||N||3||FieroSTETZ||DIVX for apples||||1||
+Z||000000||FieroSTETZ||09-02-2001||04:19 AM||||i got a codec- but cant play -movies w/ it on any of my cmoputers! anyone have a working codec for mac divx?||||reg||1
+Z||000001||beer_stud_21||09-02-2001||05:31 AM||||I've run DIVX's on my iMac before.  I know it works but lemme research it for ya and get back to you.  Do you have the latest version of Windows Media Player for mac and the latest codec?  Once you have those two things you should be able to open the DIVX file just like any other movie in Win Media Player.... <P>-Marlin||||reg||1
+Z||000002||FieroSTETZ||09-04-2001||12:03 AM||||got the codec, but need media player 6.3- on the MS site all i can find is 7- anyone have a copy of 6.3 for mac sitting around?<P>------------------<BR>     <IMG SRC="http://www.shawnrocks.com/Animation1.gif"> ||||reg||1
+Z||000003||isthiswhereiputausername?||09-04-2001||05:40 AM|||| <A HREF="http://www.divx.st/" TARGET=_blank>http://www.divx.st/</A> ||||reg||1

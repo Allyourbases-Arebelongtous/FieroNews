@@ -1,0 +1,3 @@
+A||||1||Fierobruiser||GTA vents||||1||
+Z||000000||Fierobruiser||12-06-2001||12:34 AM||||Checked threads and didn't find anything. I picked up a set of GTA hood vents on e-bay and there doesn't seem to be an easy way to attach them. Has anyone installed these and could possibly gve me some hints? I already know I have to cut holes in my hood, just take it from there.<P>------------------<BR>Notchbacks Rule<BR>85GT(show car)<BR>88Coupe (daily driver)<BR>84 Coupe(project car)||||reg||1
+Z||000001||Fierobruiser||12-07-2001||08:00 AM||||I've seen these before on Fieros at shows. Hasn't anyone on this forum done this? I guess I'll have to find one in a yard to get an idea.||||reg||1

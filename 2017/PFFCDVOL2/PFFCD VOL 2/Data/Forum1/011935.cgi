@@ -1,0 +1,3 @@
+A||N||1||fropuff||QUICK nitrous question..||||1||
+Z||000000||fropuff||11-17-2001||03:05 PM||||Hey guys.  I'm wondering if the nitrous oxide "material" is the same in a wet kit and a dry kit.  There's a place in Duluth that fills for NOS, and I'm wondering if it'd work for a NX wet kit.  I'm sorry if I sound stupid; it's because I am.   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  Thanks a lot.||||reg||1
+Z||000001||fropuff||11-17-2001||04:04 PM||||Thanks, but 1FST2M6 told me.  In case anyone else wanted to know, (which I'm sure everyone knew 'cause I'm stupid...) nitrous is fillable anywhere.  Thanks for looking though.||||reg||1

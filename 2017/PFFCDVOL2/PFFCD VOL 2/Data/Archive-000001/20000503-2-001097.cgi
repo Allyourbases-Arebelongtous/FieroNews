@@ -1,0 +1,4 @@
+A||||2||mrfixit58||Headlight Trouble||||5
+Z||000000||mrfixit58||10-12-1999||04:40 PM||||I've got a friend with an 88 and is having trouble with one headlight that won't go up with out popping the hood and twisting the knob. Once the light is up it's OK but the problem returns once the lights are turned off. Any tips on the problem and repairs?||||reg||5
+Z||000001||88 Fiero||10-12-1999||05:21 PM||||headlight motors is probably burned out...remedy will either replace it with another '88 motor or rebuilt it...you probably want to ask Tom if he got a rebuilt kit for it or have another '88 motor for the headlight||||reg||1
+Z||000002||theogre||10-12-1999||06:53 PM||||take the motor apart and check the shear pins. If they are gone, <A HREF="http://www.execpc.com/~rodney1/" TARGET=_blank>Rodney Dickman</A> has replacements for about 5$.<P>87+ motors rarely actually burn out or fataly break. thats why the shears are in there.||||reg||1

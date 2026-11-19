@@ -1,0 +1,5 @@
+A||||3||Homicidal||Removing taillight assembly????||||1||
+Z||000000||Homicidal||05-20-2000||03:07 PM||||I wanna remove it and either clean the lights and assembly or replace it.  But how do you remove it?  I took out those retainer screws under the trunk, but the friggin thing held in there!  Is there a seal or more screws I must remove?  I don't want to force it off since I might break it.  Thanks!||||reg||1
+Z||000001||Phaeton||05-20-2000||03:49 PM||||After taking the screws out of an 88GT taillight asembly it still wouldn't move.  The black tar used to seal the lens had flowed to the outside.  It took almost 45 seconds of steady firm prying before the light SLOWLY started moving.<BR>Twelve years and the tar still sticks to everything it touches, wish all the other stuff lasted as well.||||reg||12
+Z||000002||Homicidal||05-20-2000||04:24 PM||||Yah, I took a closer look and saw the same thing on mine.  So I should wiggle and pry it out?<P>But what about when I want to put it back?  Do I need to use another form of a glue, like Silicone or something?||||reg||1
+Z||000003||Homicidal||05-21-2000||04:06 AM||||top||||reg||1

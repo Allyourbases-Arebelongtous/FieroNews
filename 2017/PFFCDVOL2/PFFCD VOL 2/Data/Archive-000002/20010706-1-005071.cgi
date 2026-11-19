@@ -1,0 +1,9 @@
+A||||7||fiero56||cleaning trunk carpet||||5||
+Z||000000||fiero56||01-03-2001||10:57 PM||||Going through some old pictures taken just after the previous owner dropped off my Formula, I noticed the trunk carpet was <B>perfect</B>, still in showroom condition. Well, two clutch replacements later, it is not a pretty sight, covered in filth. Before I remove the carpet and try something that might lock the dirt in, what do you suggest I use to clean the carpet so it looks as close to what it used to as possible?<p>[This message has been edited by fiero56 (edited 01-03-2001).]||||reg||5
+Z||000001||DXR_DAD||01-03-2001||11:04 PM||||Just take it to your local "you spray it" car wash and hoes it down good! you can use a pre-wash like spray n wash or carpet spoter, pre-soak any of thoes will work fine||||reg||10
+Z||000002||fiero56||01-03-2001||11:08 PM||||Should I hit it with anything that breaks down oil/grease? Not sure whats in the carpet, I haven't seen the bottom of it in months.||||reg||1
+Z||000003||DXR_DAD||01-03-2001||11:22 PM||||Spray n wash, or any carpet pre soak will do just soak it good and let it sit a while. The presure washer at the car wash will remove all and any oil or grease.||||reg||1
+Z||000004||Raydar||01-03-2001||11:41 PM||||I removed mine and pre-treated the greasy spots with full-strength Simple Green, Then scrubbed it with Tide laundry detergent and water. Used a big sponge to scrub it, then hosed it off and let it drip dry. Looks like new.||||reg||1
+Z||000005||webbee||01-03-2001||11:46 PM||||A great grease cutter is Orange cleaner that is available at Home Depot. Won't harm the fabric and cuts grease. Pre treat then head to the car wash.||||reg||1
+Z||000006||wkayl||01-04-2001||12:58 AM||||When i had my interior shampooed I removed the trunk liner and had them do it also.||||reg||1
+Z||000007||2M4 Dale||01-04-2001||07:02 AM||||I had a couple of guys at the Fiero Festival tell me to use concrete cleaner ???||||reg||1

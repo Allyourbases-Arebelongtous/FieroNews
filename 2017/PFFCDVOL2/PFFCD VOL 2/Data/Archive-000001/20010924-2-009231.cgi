@@ -1,0 +1,5 @@
+A||||3||fotofrank||Incress torque||||5||
+Z||000000||fotofrank||03-27-2001||12:18 PM||||What is the easiest way to incress torque, for an Iron Duke?<P>------------------<BR>Peace and Happiness<BR>Frank and his fotoflash, an '84 SE 2M4<BR>http://www.homestead.com/fotofrank/foto1.html||||reg||5
+Z||000001||lou_dias||03-27-2001||01:20 PM||||put in a 3.0 crank, piston and rod assembly<BR>in other words, there is no easy way without a rebuild.||||reg||1
+Z||000002||Will||03-27-2001||03:13 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by fotofrank:<BR><B>What is the easiest way to incress torque, for an Iron Duke?<P></B><HR></BLOCKQUOTE><P>Swap in a V6.<P>Or one of these: <A HREF="http://www.gmpowertrain.com/engines_cartruck/diesel/66lb7_main.htm" TARGET=_blank>http://www.gmpowertrain.com/engines_cartruck/diesel/66lb7_main.htm</A> ||||reg||1
+Z||000003||StuGood||03-27-2001||03:40 PM||||Reach in there and help turn....  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><BR>Just kidding, of course.  ||||reg||12

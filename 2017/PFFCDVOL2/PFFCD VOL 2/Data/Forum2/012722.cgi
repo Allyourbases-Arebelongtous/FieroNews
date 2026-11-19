@@ -1,0 +1,2 @@
+A||||0||DaveL||HELP||||1||
+Z||000000||DaveL||08-12-2001||12:31 PM||||I have the drivers side headlight actuatoir out of my car and the bushings I got from R. Dickman don't fit. The directions say to put the 3 new bushings in the outer openings in the white gear, but the metal piece that slides over the gear with the shaft doesn't seem to have room for these???What have I done wrong??? Is this a question asked themselves by many Fiero owners?||||reg||1

@@ -1,0 +1,6 @@
+A||N||4||Lewis||relay for selinoid||||9||
+Z||000000||Lewis||02-26-2000||09:43 AM||||Where is the switch that controls the relay that controls the selinoid...also where is the relay that controls the autotrunk release..I need to know where the relay is that controls the selinoid and trunk release...85gt auto...thanks||||reg||9
+Z||000001||ka4nkf||02-26-2000||10:42 PM||||The solenoid for the trunk release is under the dash on passenger side by the blue dingy thing. horn relay is also there and it will also work for the trunk release, if you want to test it.||||reg||1
+Z||000002||TOM||02-26-2000||10:47 PM||||No the relay for the trunk release is on the passenger side of the sterring column. Right next to it under the dash. It has three contacts and a square case. The solonoid is mounted to the trunk latch.||||reg||1
+Z||000003||DRH||02-27-2000||03:55 AM||||Tom is right. See my post in your "It won't start..." thread for how to bypass it.||||reg||1
+Z||000004||ka4nkf||02-27-2000||01:41 PM||||Sorry about that, I was mixed up with the horn relay.Go to <A HREF="http://www.fiero.nl" TARGET=_blank>www.fiero.nl</A>  and then go to orge cave. he explains everything about the trunk release. ||||reg||1

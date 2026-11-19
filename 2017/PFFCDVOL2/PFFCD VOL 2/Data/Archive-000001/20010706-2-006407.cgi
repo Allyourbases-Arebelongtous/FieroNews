@@ -1,0 +1,6 @@
+A||N||4||2xsess||Clutch Pedal question||||1||
+Z||000000||2xsess||10-25-2000||12:17 PM||||I was wondering if the clutch pedal is supposed to have a slight curve in it or if it's supposed to be totally straight.<P>Please help. <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>TIA<P>------------------<BR>Jeff<BR>85GT||||reg||1
+Z||000001||TheFiero64||10-25-2000||12:41 PM||||I think it is supposed to have a curve. I know there is a problem with some bending at the top.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif"> ||||reg||1
+Z||000002||Carrolles||10-25-2000||01:39 PM||||Take a look at Oliver's page.<BR> <A HREF="http://www.franken.de/users/dagobah/luke/fieroidx.html" TARGET=_blank>http://www.franken.de/users/dagobah/luke/fieroidx.html</A> ||||reg||1
+Z||000003||2xsess||10-25-2000||03:44 PM||||That article cleared that up, thanks alot.<P><P>------------------<BR>Jeff<BR>85GT||||reg||1
+Z||000004||2xsess||10-25-2000||08:34 PM||||I changed out my pedal tonight, and the pic on that site was not correct in relation to my car. <IMG SRC="http://www.fiero.nl/uploads/pedal.jpg"> <P><BR>Mine was not bent in the area indicated, it was bent in the arm that comes down to the actual pedal. I installed a steel pedal and it greatly improved my shifting.<P>------------------<BR>Jeff<BR>85GT||||reg||1

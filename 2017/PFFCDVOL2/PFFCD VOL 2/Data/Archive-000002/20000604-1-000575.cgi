@@ -1,0 +1,5 @@
+A||||3||bHooper||Going to look at a Gt...||||10
+Z||000000||bHooper||11-19-1999||02:13 PM||||I'm going to look at a '86 Gt/Automatic tommorow.  The owner is asking $500 for it, with no fuel injection system.  I don't know much about the car, the owner did not know the mileage, it does have a sunroof, rip in drivers seat and been sitting for about 3 mo w/o injectors.  The guy bought it last year, and according to his wife, has about $3200 in the car.  And it has been painted, it is "creamy white"....  Ill let you guys know, if I'm not interested, someone might be!||||reg||10
+Z||000001||AL||11-19-1999||07:40 PM||||hey hoop, buy it, you can go to the junkyard and get the injection cheap.||||reg||1
+Z||000002||bHooper||11-19-1999||08:49 PM||||the only thing that turns me off, is that I cant drive it.  and it also depends on the miles...if low mileage (less than 100,000) its definately worth it!||||reg||1
+Z||000003||AL||11-19-1999||10:31 PM||||hey hoop, if the car works when you fix it,and it has alot of miles, well i'm sure you can turn around and sell it for 1000 running. where is this car? if it's close to where i live and you pass it up i might buy it. ||||reg||1

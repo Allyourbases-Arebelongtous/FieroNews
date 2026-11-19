@@ -1,0 +1,5 @@
+A||||3||Richard Parnell||Clutch master cyl removal||||5||
+Z||000000||Richard Parnell||05-06-2000||04:29 PM||||I'm replacing the master and slave on the clutch line (finally).  I have a problem.  While undoing the nut that attaches the line/tubing to the master cyl I noticed the tubing is twisting.  Is this nut not supposed to rotate on the tubing to allow removal or attachment to the master cyl.? I have stopped for now because I can see the tubing now has a slight twist in it where it comes down to the nut and master cyl.  Suggestions?<BR>I don't want to ruin the tubing and have to replace the whole thing.||||reg||5
+Z||000001||GWMORGAN||05-06-2000||06:16 PM||||I did this; first, "break" the nut loose (but don't remove) where it attaches to the slave cylinder.Unmount the slave cylinder (with the line still attached), then remove from the line by turning the cylinder itself.<BR>Hope this helps.||||reg||1
+Z||000002||Richard Parnell||05-06-2000||07:25 PM||||Got it. Thanks!||||reg||7
+Z||000003||GWMORGAN||05-06-2000||07:29 PM||||You are welcome.||||reg||1

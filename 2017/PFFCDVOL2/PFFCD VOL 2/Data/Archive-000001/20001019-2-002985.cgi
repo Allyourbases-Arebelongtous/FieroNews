@@ -1,0 +1,5 @@
+A||||3||VAROOM||Tape Player Fix||||5||
+Z||000000||VAROOM||04-01-2000||05:27 PM||||Some place not long ago I thought there was information on a fix for the good old GM tape player. This thing can't make up its mind, and just clicks back and forth. sounds like a  typewriter. Thanx.||||reg||5
+Z||000001||DXR_DAD||04-01-2000||05:43 PM||||It's the rubber band,    The Fiero Store has the replacments. # 95555 (Silver inside)<BR># 95556 (Black inside) Page 14 in cat.||||reg||1
+Z||000002||Rodney||04-02-2000||11:39 AM||||Usually it is the drive belt that is worn. I have the replacement belts in stock. $3.00 each and $1.00 shipping. The Fiero Store kit is $14.95. I'm not sure what they include anything other than the belt and maybe instructions. Has anyone bought their kit?<P>Rodney Dickman||||reg||1
+Z||000003||JohnnyK||04-02-2000||12:49 PM||||GO the the Michigan Fiero club page (Can't remember the address).. ALso, I just did this, and the way the belt goes on is very strange, and I couldn't figure out why mine didn't work until I looked at another tape deck that was assembled correctly..  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>||||reg||1

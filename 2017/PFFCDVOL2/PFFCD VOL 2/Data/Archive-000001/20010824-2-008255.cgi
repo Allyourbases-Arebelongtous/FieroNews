@@ -1,0 +1,4 @@
+A||||2||BN Boomer||Need quick confirmation regarding V6 starters||||5||
+Z||000000||BN Boomer||02-03-2001||12:37 PM||||After searching through some of the older posts, I believe I've come to the conclusion that all V6 starters are the same, regardless of whether the transmission be an automatic or a manual. Is this correct? The reason I ask is that I'm swapping a 2.8 out of an 88 w/5 speed into my 85 GT w/automatic (I've already got the proper flex plate for the internally balanced 88 2.8) and want to use the starter that came with the 88 motor because it's in better condition. Thanks, guys.||||reg||5
+Z||000001||fieroparts.com||02-03-2001||12:41 PM||||hi<P>yes, they are the same!||||reg||1
+Z||000002||strick8||02-05-2001||10:06 AM||||I can tell you a 87 V-6 auto and a 88 V-6 5-Speed has the same starter for sure.||||reg||1

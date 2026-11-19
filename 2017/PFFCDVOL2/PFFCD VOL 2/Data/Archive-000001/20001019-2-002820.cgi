@@ -1,0 +1,2 @@
+A||||0||Rodney||1984-1987 rear splash guards||||1||
+Z||000000||Rodney||03-21-2000||02:38 PM||||I have recieved notice that the 84-87 rear inner wheel well splash guards are done and should ship to me in a few days. These are die cut and are as close to OEM as possible. Has the flaps turned back and stapled with stainless steel staples like the OEM ones. Material is a close match with a similar pebble finish. Die cut. Each side is unique and required a seperate die. I'll won't know pricing untill I get the final bill with shipping. <P>Rodney Dickman||||reg||1

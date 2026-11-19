@@ -1,0 +1,4 @@
+A||N||2||phreakboy4||2.5 rebuild||||1||
+Z||000000||phreakboy4||04-16-2001||09:13 PM||||I was just wondering on average about how much time it would take to do a complete rebuild for a 2.5<P><BR>84 2m4 coupe(phreakboy45@cs.com) Sean V||||reg||1
+Z||000001||Bob Englert||04-16-2001||10:25 PM||||Since I am probably the world's slowest Fiero mechanic, I would estimate 2-3 months for me to do it!!!<P>------------------<BR>Bob<BR>2 - 87 GT's<BR>85 SE 4 cyl||||reg||1
+Z||000002||Fierowrecker||04-16-2001||10:33 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by phreakboy4:<BR><B>I was just wondering on average about how much time it would take to do a complete rebuild for a 2.5<P><BR>84 2m4 coupe(phreakboy45@cs.com) Sean V</B><HR></BLOCKQUOTE><P>Did mine in 3 days...<BR>For pics, <A HREF="http://www.walnutgrovefarm.net" TARGET=_blank>www.walnutgrovefarm.net</A> <BR>crash...<BR>||||reg||1

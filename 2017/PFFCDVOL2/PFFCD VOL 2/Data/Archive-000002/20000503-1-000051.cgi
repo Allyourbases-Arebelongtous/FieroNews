@@ -1,0 +1,4 @@
+A||||2||OilStumped||I got a BAD oil leak and have no clue where.
+Z||000000||OilStumped||05-01-99||09:36 PM||||OK...my 85 Fiero GT is leakin oil like a sieve. (about 3 quarts a week) I have absoulutely no clue where from.  I changed the oil pan gasket, which was a barrel of fun, but that didn't help any.  I was wondering if anyone out there could lead me in a certain direction...Thanks!
+Z||000001||JT||05-02-99||02:04 PM||||Mine was leaking around little rubber O-ring that the seals the distributor to the intake.    My mechanic said it is a simple repair.   Might be worth looking into.  Good Luck
+Z||000002||Patrick||05-02-99||02:29 PM||||OilStumped,<p>There's no point having this thread in TWO separate forums (as it now is). This topic belongs in <b>Technical Discussion & Questions</b> anyway.<p>Please read my response (and others) there.<p><br>

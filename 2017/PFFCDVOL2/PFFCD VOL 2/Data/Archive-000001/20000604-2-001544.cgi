@@ -1,0 +1,4 @@
+A||||2||four50four||really stupid question...||||2
+Z||000000||four50four||11-28-1999||06:47 PM||||what is the difference between a long block and a short block?||||reg||2
+Z||000001||Cooter||11-28-1999||06:57 PM||||When buying a replacement engine, a long block has the heads, cam, lifters, pushrods, timing cover and usually valve covers and oil pan. A short block is usually just the block with crank, pistons and no external parts. Some folks still call a big block Chevrolet a "long block" and a small block a "short block" so I guess it depends on what you were wanting to know.||||reg||1
+Z||000002||lews84||11-28-1999||06:59 PM||||A long block is a V12 and a short block is a V6. ;-)<P>Seriously, a long block includes the heads (and maybe some other stuff)along with everything in a short block. A short block doesn't include the heads, i.e. only the block, crank, rods, pistons, and cam(?).||||reg||1

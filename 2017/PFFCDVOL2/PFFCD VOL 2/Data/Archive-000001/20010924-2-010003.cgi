@@ -1,0 +1,3 @@
+A||N||1||mrgone||rear right and left INNER tirods impossible to find?!?!||||9||
+Z||000000||mrgone||04-27-2001||09:39 PM||||i cant find any around anywhere except from the dealer   which are 160$ a peice<P>i accidently got front tirods the other day <BR> <IMG SRC="http://www.fiero.nl/forum/frown.gif"><BR>and im having a real hard time finding these parts||||reg||9
+Z||000001||Tryxalon||04-27-2001||10:01 PM||||84-87 REAR INNER TIE ROD END  <BR>  Part #: 57513  <BR>Price $85.25 <BR> <BR> 84-87 REAR OUTER TIE ROD END  <BR>  Part #: 57512  <BR>Price $35.81 <BR> <BR>  <A HREF="http://www.fierostore.com/pegasus/index.html" TARGET=_blank>http://www.fierostore.com/pegasus/index.html</A> <P>Try that. <P>Or ... maybe Kickhill for used ones. ||||reg||4

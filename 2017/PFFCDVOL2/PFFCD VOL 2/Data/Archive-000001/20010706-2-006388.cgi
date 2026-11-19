@@ -1,0 +1,7 @@
+A||||5||AL||WATER||||1||
+Z||000000||AL||10-23-2000||10:49 PM||||<BR>it seems i can't get water to shoot out on my windshield what could be the problem the switch or motor?||||reg||1
+Z||000001||Seanh||10-23-2000||11:13 PM||||Could be either. Id try hotwiring your pump first. <P>------------------<BR>Sean Heberly<BR>Silver 86 GT 2.8<BR>Killer Stereo System||||reg||1
+Z||000002||Linx||10-23-2000||11:13 PM||||do you hear the motor whirr when you use it?<P>i'm betting the motor.  cheap junk.  cheaper still at autozone.||||reg||1
+Z||000003||286SE'S||10-24-2000||03:26 PM||||If you have delay wipers; the washer pump motor is driven by the circuit board on the motor. This 'feature' runs the wipers for about 4 sweeps after the pump is run. So the problem could be that board as well.<BR>If the pump motor does run then you may have a clog in the jet tips or in the lines to them. ||||reg||1
+Z||000004||Carrolles||10-24-2000||04:04 PM||||I bought a replacement pump at AutoZone when I got my 85SE back in 97.  I believe it only cost around $10 US.||||reg||1
+Z||000005||AL||10-24-2000||08:13 PM||||well i don't hear any thing just the wipers moving but no noise for the motor that shoots the water,hey 286se i go very often down to monrovia maybe we will bump into each other,<B>AL</B>  <IMG SRC="http://www.fiero.nl/uploads/AL_sig.gif">  <P>------------------<BR> <p>[This message has been edited by AL (edited 10-24-2000).]||||reg||1

@@ -1,0 +1,6 @@
+A||N||4||danielw||Fiero in Right Hand Drive ?||||5||
+Z||000000||danielw||03-08-2001||05:58 AM||||Did the Fiero ever get produced in a right hand drive model ?<BR>Left hand drive cars are illegal in my state in Australia, but I would love to get my hands on a factory standard right hand drive version, without haveing to pay to get a conversion done.<BR>Daniel||||reg||5
+Z||000001||RossT||03-08-2001||06:03 AM||||your in luck!! check out: <A HREF="http://www.fiero.nl/forum/Forum2/HTML/008653.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/008653.html</A> <P>read the whole thread then,<BR>also click on his profile, then his web site, and you will see he has one for sale!!<p>[This message has been edited by RossT (edited 03-08-2001).]||||reg||1
+Z||000002||danielw||03-08-2001||06:11 AM||||Thanks very much for that !!<BR>I can now hassle AusFiero and Ozzy for info and advice   <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||10
+Z||000003||onfire||03-08-2001||03:54 PM||||Also check this out. <A HREF="http://www.fiero.nl/forum/Forum1/HTML/005937.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/005937.html</A> ||||reg||1
+Z||000004||hugh||03-08-2001||07:45 PM||||Welcome Mate!||||reg||1

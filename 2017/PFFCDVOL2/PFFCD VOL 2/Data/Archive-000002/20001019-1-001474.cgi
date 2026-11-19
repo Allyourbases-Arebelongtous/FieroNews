@@ -1,0 +1,3 @@
+A||||1||007DOUG||Who's going to Florida Fiero weekend? convoy?||||10||
+Z||000000||007DOUG||03-09-2000||01:24 AM||||Just got the good news. I officially have 3/24-3/27 off. That means I'm Florida bound to Daytona Beach in my 84 T-top (or 86 SE) for the fiero show. <P>Its a 16 hour drive for me. Whos joining me ? Lets get a convoy going.<BR>||||reg||10
+Z||000001||Old Lar||03-09-2000||02:41 PM||||I'll be in Fayetteville NC after a days drive on 3/22, to be leaving for Daytona 3/23 in the morning.  It's hard to get a convoy together. The timing is all important.  Ten minutes either way and you are separated by 10 miles.||||reg||1

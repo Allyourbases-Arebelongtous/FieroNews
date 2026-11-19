@@ -1,0 +1,13 @@
+A||||11||iplayazi||THE FIERO RANT {MUST SEE FOR EVERYONE}||||10||
+Z||000000||iplayazi||05-18-2000||08:52 PM||||My version of the Molson Canadian "I am Canadian Commercial" (those of you who are from Canada know what I'm talking about).<P>I AM A FIERO OWNER<P>It's not a Japanese car<BR>or a Ferrari<BR>And it doesn't catch fire every day<BR>or become a death trap<BR>and I don't know Jimmy, Bobby or Billy who drive Fieros, although I'm certain they're very very cool<P>It has two seats,<BR>not four<BR>It needs premium gas, <BR>not regular<BR>and it's pronounced FIERO<BR>not FI-ERO<P>I can proudly display the Fiero symbol on everything I own<BR>I believe in fiberglass not metal,<BR>manual steering, not power steering,<BR>and the Fiero truly is a safe and reliable car<P>A GT IS a 6 cylinder,<BR>and the engine IS better in back, <BR>NOT the front, the back!<P>A Fiero is the ONLY car I'll ever drive,<BR>the FIRST two seater from Pontiac<BR>and the BEST car GM ever produced!<P>My name is playaz, and I AM A FIERO OWNER!! ||||reg||10
+Z||000001||olympic||05-18-2000||08:59 PM||||LOL, good one!!  <IMG SRC="http://24.8.34.90/faces/laugh2.gif"> ||||reg||14
+Z||000002||1FST2M6||05-18-2000||11:05 PM||||sniff sniff.. i need a Kleenex.. thats beautiful...!    <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||DaRkLoRD||05-18-2000||11:44 PM||||ROTFL!!!||||reg||10
+Z||000004||Uaana||05-19-2000||12:17 AM||||Sniff. <BR>Back in a few, gonna go shine something on my little money pit.||||reg||12
+Z||000005||Racer 1||05-19-2000||01:24 AM||||Um I dont want to bust your little EGO bubble but you forgot to mention the Fiero has a trunk in the back! Most people dont know that.||||reg||10
+Z||000006||tgowens||05-19-2000||03:05 AM||||True, but MOST people don't even know that the ENGINE is in the back!!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000007||Fformula88||05-19-2000||11:40 AM||||Very nice.  That commercial has been very popular on morning radio here in Buffaol.  They are picking it a part!  I like the Fiero version much better!||||reg||6
+Z||000008||RiceCooker||05-19-2000||02:53 PM||||Hats of to Todd! ....I mean Playaz.||||reg||1
+Z||000009||GT Bastard||05-19-2000||04:44 PM||||I hope to hell that the "playa" in playaz doesn't mean you're the player I'm thinking of. ||||reg||1
+Z||000010||Coconut||05-19-2000||06:56 PM||||Kinda' puts a lump in your throat and gets you all choked up, don't it? Damn dude, that was truly inspirational! <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> ||||reg||1
+Z||000011||iplayazi||05-21-2000||01:35 PM||||Glad you guys liked it.. thanks for the space.||||reg||10

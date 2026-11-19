@@ -1,0 +1,2 @@
+A||||0||TRiAD||Honda Owners; Group Buy; Tokico Coil-Overs $850 shipped!||||1||
+Z||000000||TRiAD||09-02-2001||10:21 AM||||<B><A HREF="http://centralillinoisimports.org/vbulletin/showthread.php?s=&threadid=151" TARGET=_blank>Details Here</A></B><P><P>------------------<BR><B><I>Michael ~ triadtuning@hotmail.com</I></B><BR>-----------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/88FieroGTwhitefscustomcroppedmini.jpg"> <BR><I>Photoshop rendering of planned exterior modifications.</I>||||reg||1

@@ -1,0 +1,4 @@
+A||||2||Terrybogin||DeskTop Drag Strip||||5||
+Z||000000||Terrybogin||06-21-2000||11:35 PM||||Has anyone put their car's info in this program and then went to the track to compare the data? I was messing aroung with it and tried a stock v6 with an Isuzu 5 speed and the Muncie 4 speed with 4.10 gears and the program says the Isuzu tranny would make the car faster in the quarter mile. Anyone have any input on which tranny would be best?||||reg||5
+Z||000001||GT Bastard||06-22-2000||03:28 AM||||I've driven cars with both trannies behind V6's, and I would heartily recommend the 4.10 Muncie.  It definitely has the edge in acceleration.  The lost top-end shouldn't make a real different in the 1/4.||||reg||1
+Z||000002||StuGood||06-22-2000||08:54 AM||||Just curious - does the program take into account the built-in rev limiter in the cars ECM ? ||||reg||5

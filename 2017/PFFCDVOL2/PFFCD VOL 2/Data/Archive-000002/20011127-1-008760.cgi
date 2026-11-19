@@ -1,0 +1,13 @@
+A||||11||CoolBlue87GT||Who was finding a door handle insert for me?||||5||
+Z||000000||CoolBlue87GT||07-12-2001||07:51 PM||||I talked to someone about replacing the  insert for the door handle.<P>I spoke to them at one of the car shows.<P>I don't remember who it was, anyone remember this subject ?<BR>||||reg||5
+Z||000001||CoolBlue87GT||07-13-2001||08:40 PM||||'bump'||||reg||1
+Z||000002||Fleabitdog||07-13-2001||09:32 PM||||Dave are you talking about a mod or just a replacement? Dave||||reg||1
+Z||000003||CoolBlue87GT||07-13-2001||10:07 PM||||The rubber insert on the handle.  Someone told me it could be replaced||||reg||1
+Z||000004||DecadenceR||07-13-2001||11:12 PM||||Are you talking about the one that goes behind the handle on the inside of the door? I think I have 1 or 2 of those if no one else gets back to you.||||reg||1
+Z||000005||tgowens||07-14-2001||04:24 AM||||I have a feeling that he is talking about the little square insert that fits in the top hole on the arm rest............just a guess||||reg||1
+Z||000006||CoolBlue87GT||07-14-2001||09:07 AM||||The outside door handle is black metal, it has a rubber overlay on it.<P>Mine has a scuff on it, and I was told that it could be removed, as it's applied with two sided tape.<P>||||reg||6
+Z||000007||DecadenceR||07-14-2001||11:12 AM||||Ohhhh,I know what you're talking about now.<BR>I'm not sure if they can come off without damaging them at all. I do know that you can usually buy new ones at auto parts stores that sat Pontiac or Chevrolet and stuff like that... I haven't seen plain ones too often though. I'll check out my parts car and see if I can get any off without messing them up.||||reg||1
+Z||000008||DecadenceR||07-14-2001||03:58 PM||||CoolBlue, is this the piece you're looking for?<P> <IMG SRC="http://www.fiero.nl/uploads/Image4_2.jpg"> <P>You can't see it too well in the pic, but it has some real light scratches in it. It's sitting on my desk. Let me know if you want it. I only have one, the other one was cracked in a few places.||||reg||1
+Z||000009||CoolBlue87GT||07-14-2001||08:22 PM||||Yes, that's the part.  <P>I'd like to find one in really good shape.||||reg||6
+Z||000010||DecadenceR||07-15-2001||10:36 AM||||Well if you don't find a better one, you can have thsi one. Just LMK||||reg||1
+Z||000011||Fierokid87||07-15-2001||10:46 AM||||Just a thought on that.  If you have to ruin yours and the ones that you get from other Fieros will end up getting ruined, why not go to an auto parts store and get ones that say PONTIAC on them.<P>Scott<P>------------------<BR><FONT COLOR="BLOODY"> Fierokid's  Web site<BR>http://www.angelfire.com/sports/sfiero<P>AIM: Fierokid87<BR>ICQ: Fierokid</FONT><P>   <IMG SRC="http://www.fiero.nl/uploads/sfiero.JPG"> ||||reg||7

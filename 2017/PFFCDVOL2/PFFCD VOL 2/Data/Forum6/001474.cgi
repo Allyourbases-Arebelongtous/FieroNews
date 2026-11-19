@@ -1,0 +1,3 @@
+A||||1||Alex2004||What site did you download the NFS3 Fiero?||||1||
+Z||000000||Alex2004||02-18-2001||04:43 PM||||I have been looking for the Fiero for a while, i found a few but when i tried to download them it was messed up.  So could someone give my a link to the site you found your's on.  Thanks...<P>Alex...||||reg||1
+Z||000001||DaRkLoRD||02-18-2001||05:34 PM||||I have it on my site, in the Multimedia section..<P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||14

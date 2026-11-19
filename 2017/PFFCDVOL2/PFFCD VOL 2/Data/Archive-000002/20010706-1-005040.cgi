@@ -1,0 +1,3 @@
+A||||1||84 Indy||84-86 Headlight Motors $107.50 NEW||||7||
+Z||000000||84 Indy||01-01-2001||09:46 PM||||I found a website to buy GM parts Below Wholesale the only problem is you must know the factory part #'s  The site is <A HREF="http://www.gmpartsdirect.com" TARGET=_blank>www.gmpartsdirect.com</A> ||||reg||7
+Z||000001||Mark||01-01-2001||10:52 PM||||I checked it out....the quoted prices are really great...but there's a catch.  Their quoted price for dew wipes is only $18 per side (WOW!!!) Add shipping and handling and the price for both wipes becomes $50.74. Still decent, but hardly "below wholesale". It looks like the prices may get better for larger orders.  The shipping/handling for the second dew wipe was $3 less than the first. ||||reg||1

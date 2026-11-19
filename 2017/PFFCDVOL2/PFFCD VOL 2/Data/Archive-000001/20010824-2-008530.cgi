@@ -1,0 +1,4 @@
+A||||2||Bill H||Where can I find a 3.4 low milage||||4||
+Z||000000||Bill H||02-18-2001||09:08 PM|||| I need help finding a low milage 3.4.||||reg||4
+Z||000001||FieroJoe||02-18-2001||09:58 PM||||Junkyards are usually a good bet.  If they get a newer car that's been wrecked with a good engine in it, they will usually pull the engine and then sell it as it is.  I don't know what cars are good canidates for donors though, I have never done a swap of any kind.<P>------------------<BR>FieroJoe<BR>c311t@yahoo.com<BR>AIM: Fiero87311, Snowboarder0311<BR>  <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1
+Z||000002||Cooter||02-18-2001||10:30 PM||||A low mileage F-body is getting harder to come by because the last year they were used in that car was 1995. The front drive 3.4 and associated ECM would be more plentiful, but more expensive.||||reg||1

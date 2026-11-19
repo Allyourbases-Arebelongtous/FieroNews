@@ -1,0 +1,2 @@
+A||||0||Jaei Sun||Anyone have pictures of the Artero Dash/Cover ??||||1||
+Z||000000||Jaei Sun||02-26-2001||01:36 AM||||I saw on the PISA site the Artero Dash listing but there aren't any photos of it.  From what I've heard it's like ~$700 and doesn't look too bad.  I really want to get a interior kit but since the Eddy Shaw kit isn't being made nor the Pirahana interior I guess I'm gonna go with a lower price dash.  (And I've seen the wrap around dash and it doesn't really hit the spot)||||reg||1

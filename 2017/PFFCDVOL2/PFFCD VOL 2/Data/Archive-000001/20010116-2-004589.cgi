@@ -1,0 +1,4 @@
+A||||2||ponya||Rear main seal||||5||
+Z||000000||ponya||07-03-2000||11:42 PM||||I have read most of the posts concerning oil leaks and it seems that most are from the "o" ring under the distributor or the Oil pressure sensor. I have a leak that I think is coming from the rear main seal ugh! Have many of the members had a problem in this area. I only wish it was coming from the "o" ring!! Any info appreciated.   Bob||||reg||5
+Z||000001||ROB MAC||07-04-2000||01:28 AM||||Transmission axle seal leak is pretty common.<BR>||||reg||1
+Z||000002||bHooper||07-05-2000||09:19 AM||||i just put my car back together, in may.  while it was apart i replaced the rear main oil seal... now it weaps  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>so now, i have no choice but to pull the engine again!<P>------------------<BR>hoop||||reg||1

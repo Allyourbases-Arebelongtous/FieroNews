@@ -1,0 +1,3 @@
+A||||1||Brian87egotrip||I feel cool...||||1||
+Z||000000||Brian87egotrip||09-03-2001||08:35 PM||||I just bought a digital camera.  Now if i can just figure out how to get the pictures on to the forum I'll be cool for real. Then the world can see my car. Actually it's in the photo gallery but I want to do it myself. <P>------------------<BR>Brian                    87GT||||reg||1
+Z||000001||btoth||09-03-2001||09:56 PM||||Either click the button for Pennock's Image Poster (PIP) and use that to upload pics to Cliff's server.... or... upload them to an FTP site and use the IMG tags to link to the picture.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Digital cameras are cool!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

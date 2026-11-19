@@ -1,0 +1,7 @@
+A||||5||Loki||What ever happned to....||||1||
+Z||000000||Loki||12-13-2001||05:17 PM||||FieroHeavan?  They had one bad ass exhaust system made by B&B Tri-Flo. But web page no longer works.. Anyone know?<P><P>------------------<BR>  <IMG SRC="http://www.fieroloki.com/lokisig1%20copy.jpg">   <BR>"All Fieros broke right now" :(||||reg||1
+Z||000001||Pyric||12-13-2001||05:38 PM||||Not me... I've tried all kinds of links from other pages and none of them work.  <IMG SRC="http://www.fiero.nl/forum/frown.gif">||||reg||1
+Z||000002||tgowens||12-13-2001||05:41 PM||||I heard a few months ago that they went out of business.........||||reg||1
+Z||000003||FieroMontreal||12-13-2001||06:00 PM||||Didn't they go out of buisiness a long time ago? I remember checking their site out when they had those 86-88 GT windows for sale..<P>------------------<BR> -Alex <BR> <IMG SRC="http://www.fiero.nl/uploads/sigfieromontrealholidays.gif"> <BR>1986 Fiero GT, STOCK Wingless, <BR>President of FieroMontreal... <A HREF="http://www.fieromontreal.com" TARGET=_blank>www.fieromontreal.com</A> <BR>and Regional Director of CFOG-I for Eastern Canada.||||reg||1
+Z||000004||MinnGreenGT||12-13-2001||06:02 PM||||Yeah, they've been gone for at least 6-9 months if not longer...||||reg||1
+Z||000005||Loki||12-13-2001||06:26 PM||||Damn..And that exhaust was soooooooo schweet....Oh well...<BR><P>------------------<BR>  <IMG SRC="http://www.fieroloki.com/lokisig1%20copy.jpg">   <BR>"All Fieros broke right now" :(||||reg||1

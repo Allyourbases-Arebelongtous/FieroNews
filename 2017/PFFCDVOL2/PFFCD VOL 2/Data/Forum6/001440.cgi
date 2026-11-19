@@ -1,0 +1,3 @@
+A||N||1||COUNTIBLIS||two new songs added||||1||
+Z||000000||COUNTIBLIS||02-13-2001||12:30 AM||||I just added to new songs,  check them out at <A HREF="http://www.mp3.com/crossdrill" TARGET=_blank>www.mp3.com/crossdrill</A> <P>they are <P>WordRave and Dance Machine<P>Oh and for the guys that wanted the cd's im waiting on my next shipment to come in<BR><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/count3.gif"> ||||reg||1
+Z||000001||DaRkLoRD||02-13-2001||01:14 AM||||I'm listening to World Rave right now, I like it!!  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||14

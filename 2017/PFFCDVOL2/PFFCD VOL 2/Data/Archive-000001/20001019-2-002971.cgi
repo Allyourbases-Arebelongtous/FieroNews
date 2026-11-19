@@ -1,0 +1,4 @@
+A||N||2||Dan87GT||Online GM Parts website ?||||1||
+Z||000000||Dan87GT||03-31-2000||07:57 AM||||Does anybody know of a place to order GM parts online by part#. I have already tried Lustine with terrible results.||||reg||1
+Z||000001||bHooper||03-31-2000||10:35 AM||||Dan, check this thread.  There is the GM site as well as a number for Vintage Auto Parts.  Also if you go to pontiacs web site there is a link to GM Goodwrench.<BR> <A HREF="http://www.fiero.nl/forum/Forum1/HTML/001648.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/001648.html</A> <P>||||reg||1
+Z||000002||theogre||03-31-2000||10:41 PM||||many GM and other "dealer only" parts can be had at <A HREF="http://www.lustine.com/" TARGET=_blank>Lustine</A><P>ACDelco parts are also available at Wrenchead.com<P>I use allot of Borg Warner parts. Have for a long time. Never had one that wasn't as good as ACDelco, a couple bucks cheaper and easier to find. For O2 sensors you can't beat Bosch.||||reg||1

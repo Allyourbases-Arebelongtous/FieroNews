@@ -1,0 +1,3 @@
+A||||1||walsh2001||Window scrapers||||1||
+Z||000000||walsh2001||04-18-2001||09:02 AM||||My window scrapers (driver and passenger side) seem to have dry-rotted away. Does anyone know where I can get new ones? Are they difficult to replace? I have no idea how to go about replacing the exterior ones.||||reg||1
+Z||000001||Phil||04-18-2001||09:22 AM||||They're called dew wipes- not too hard to replace but you do need to make/buy(Rodney Dickman) a special tool. The wipes are about $50 delivered.<P>------------------<BR> <BR>      <IMG SRC="http://www.fiero.nl/uploads/88formula_1.gif">  <BR>SC 3800||||reg||1

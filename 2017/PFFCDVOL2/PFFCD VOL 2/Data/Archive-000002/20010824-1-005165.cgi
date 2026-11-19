@@ -1,0 +1,2 @@
+A||N||0||FieroSTETZ||new pics of my car at photopoint||||1||
+Z||000000||FieroSTETZ||01-10-2001||03:02 AM||||i ripped some more stills off the videotape i have.. waiting to start installing the clutch, i will be video taping that install, for the future reference of others. remember everyone, send me sounds and fiero movies!<BR>i still need a 3400 tdc sound clip! linke<BR>&lt;link&gt;http://albums.photopoint.com/j/AlbumIndex?u=1012904&a=7460757&lt;/link&gt;<p>[This message has been edited by FieroSTETZ (edited 01-10-2001).]||||reg||1

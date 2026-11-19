@@ -1,0 +1,4 @@
+A||||2||sdm1964||How to use a new web camera ???||||14||
+Z||000000||sdm1964||09-29-2000||08:25 PM||||I just got a new web camera, how the heck do you find some one to chat with, that is not naked??? I have net meeting, the only sights i have found want to charge youmoney or people looking for some. I want to get it set up and figured out so i can confrence with my wife when i go to bosnia. Is there a simple way? I want to be able to find her online when i get over there. <BR>Thanks,<BR>Stephen||||reg||14
+Z||000001||Patrick||09-29-2000||10:24 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, lucidatypewriter">quote:</font><HR>how the heck do you find some one to chat with, that is not naked???<HR></BLOCKQUOTE>I thought that was the whole point of those things. <IMG SRC="http://www.fiero.nl/forum/wink.gif"> ||||reg||14
+Z||000002||Greg Piet||09-29-2000||11:35 PM||||try <A HREF="http://www.camarades.com" TARGET=_blank>www.camarades.com</A> <BR>||||reg||1

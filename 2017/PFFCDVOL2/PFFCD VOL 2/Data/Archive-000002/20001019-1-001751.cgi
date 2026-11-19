@@ -1,0 +1,3 @@
+A||||1||wkayl||Spring tweaking||||1||
+Z||000000||wkayl||04-07-2000||02:28 AM||||I had Thurs off so with the temp in the 70's I got the tinkering bug.  I pulled the starter (84,000 miles) and rebuilt it.  The kit was $13 at Checker Auto.  I then pulled the EGR tube.  Looked like new.  I also adjusted the throttle pos. sensor.  It was way off (search the forum for the procedure to adjust).  Changed oil (even though it only had about 1,000 miles on it, but with the car on ramps what the heck).  Now I'm ready for the 600 mile roundtrip drive to Spearfish SD to pick up my wife on Monday.    ||||reg||1
+Z||000001||GT Bastard||04-08-2000||01:40 PM||||Cool... That's really close to my home town of Rapid City.... Nice scenery.  I'm in Sioux Falls now though.||||reg||1

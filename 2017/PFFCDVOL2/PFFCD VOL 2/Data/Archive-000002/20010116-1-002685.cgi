@@ -1,0 +1,4 @@
+A||||2||Terrybogin||IMSA spoiler||||1||
+Z||000000||Terrybogin||06-24-2000||10:20 PM||||Where can I find a Fiero Notchback IMSA Style Spoiler? I have seen them on a few cars and they look pretty neat.||||reg||1
+Z||000001||batboy||06-24-2000||10:29 PM|||| <A HREF="http://www.showcars-bodyparts.com/fiero.html" TARGET=_blank>http://www.showcars-bodyparts.com/fiero.html</A> <P> <A HREF="http://www.geocities.com/MotorCity/Lane/1588/quickcat.html" TARGET=_blank>http://www.geocities.com/MotorCity/Lane/1588/quickcat.html</A> ||||reg||1
+Z||000002||Oreif||06-24-2000||10:30 PM||||IRM sells one for $185.00 and the below link sells one (I don't know what their cost is).<BR> <A HREF="http://www.showcars-bodyparts.com/fiero.html" TARGET=_blank>http://www.showcars-bodyparts.com/fiero.html</A> <BR>||||reg||1

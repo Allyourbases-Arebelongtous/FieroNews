@@ -1,0 +1,8 @@
+A||N||6||Monkeyman||?Fiero for the (very) young at heart?||||1||
+Z||000000||Monkeyman||02-11-2000||06:20 AM||||Could this be a Fiero for the pre-school set?  Let's see...small, plastic, lightweight.  Yup, that's what it is.  Disclaimer---This is Eddies kid.  He asked my to post the pic.<BR> <IMG SRC="http://www.fiero.nl/uploads/Ed3.jpg"> ||||reg||1
+Z||000001||Oreif||02-11-2000||08:58 AM||||Nice picture! Does anyone know if any of the Indy Fiero go carts are still around? I know that pontiac made 500 of them in 1984 and now that I have kids I thought it would be neat to locate one.||||reg||1
+Z||000002||olympic||02-11-2000||01:55 PM||||   Hey,  it's even has that mid-engine design!!!!!   <IMG SRC="http://www.fiero.nl/forum/smile.gif">  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||WKDFIRO||02-11-2000||01:59 PM||||You have to teach 'em young to appreciate plastic cars....||||reg||6
+Z||000004||Eddie.H||02-11-2000||05:03 PM||||YA that,s my little gear head that car will do 6.5mph and hay Olympic your right the motors (two) are over the back wheels ||||reg||1
+Z||000005||Eric||02-13-2000||04:23 PM||||Hey, has anybody ever seen a Jeff Gordon Fiero GT?  Last summer I spotted one in Florida.  No joke, it was painted up exactly like the above car.  I've expected to pop up on several occasions while looking through the Florida Club websites, but it never has.  I think it was in Ft. Lauderdale or Miami when I saw it.||||reg||10
+Z||000006||ChadMan||02-13-2000||04:38 PM||||Never saw the Gordon Fiero, but when I was in Ft.Lauderdale in 1994 I saw an 84 Coupe that someone had cut the top off of and painted pink.  It was cruising down A1A and looked like it had no roof of any kind, not even a tonneau cover!||||reg||10

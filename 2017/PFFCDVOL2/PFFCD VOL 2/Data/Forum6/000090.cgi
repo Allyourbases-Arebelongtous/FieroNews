@@ -1,0 +1,2 @@
+A||||0||2M4 Dale||I need CASH and I would like to...||||6||
+Z||000000||2M4 Dale||02-16-2000||11:56 AM||||sell my AR-15/Bushmaster,20"HBAR,preban with 30rnd.mag.. I'm a dealer in Ohio, so that means I would have to sell it to an Ohio resident. I also have to run a backgroud check. I thought I would you guys here at the forum first dibs. These weapons are getting very hard to come by. Anyone interested should email me...dalelee22@cs.com<BR>  My Fiero Fund needs to get a little bigger and I figured this would be a good , fast way to do it.||||reg||6

@@ -1,0 +1,5 @@
+A||||3||AL||headlight relays||||1
+Z||000000||AL||11-10-1999||01:49 AM||||<BR>ok how many headlight relays is ther supposed to be?.because on the drivers side i see 2 of them and on the passenger side i see only 1, so is this correct, or am i missing one.||||reg||1
+Z||000001||ggarsk||11-10-1999||02:38 AM||||No ,it is correct. Each headlight has a relay,then on the left cowling there is an isolation relay for both motors.||||reg||1
+Z||000002||dogtired||11-10-1999||02:12 PM||||Thats right three (3) and believe it or not there are 2 P/N involved. On my 86GT there are 2 P/N 10027587 one of each mounted on the headlight housing right beside the motors and one P/N 10022620 mounted left of the left headlight on the inner fender wall. Now I haven't found any on my 87? Where are they located?||||reg||14
+Z||000003||ggarsk||11-10-1999||07:48 PM||||The reason for the 2 p/n# is that the isolation relay will not work as a headlight relay and vicsa versa. I know on the '87-'88 models they are 2nd generation motors and the wiring is different. <p>[This message has been edited by ggarsk (edited 11-10-1999).]||||reg||1

@@ -1,0 +1,6 @@
+A||||4||Shiner||Fiero Store Front Fascia?||||5||
+Z||000000||Shiner||09-20-2000||12:15 AM||||Is the Fiero Store's front fascia any good?  I just found out after taking the nose off the '86 SE that the ribbed side molding is molded in, and that will contrast with the rest of my GT.  For that matter, if anyone would like to trade a FASTBACK nose for a notchback nose PLUS some other '86 parts, let me know.||||reg||5
+Z||000001||Shiner||09-20-2000||11:48 PM||||Anybody?||||reg||1
+Z||000002||Phil||09-21-2000||08:55 AM||||Check with Kick Hill in fact this weekend after the FOCONE show on Sat. there will be a bunch of Fieros going to Kick Hill for giggles and grins. Drive up and join us and replace your nose there. (it's been done before)||||reg||1
+Z||000003||286SE'S||09-21-2000||04:06 PM||||Funny your 86 SE should be different than my 3 (one was for parts) all have the molding held in by two nuts. I have taken them off to repaint as they turned white in the hot sun. We are talking about the 3" strip the comes to a point in front of the side marker light? Right? <BR>Terry<BR>||||reg||1
+Z||000004||Shiner||09-22-2000||01:21 PM||||286,<BR>  I am talking about the part BEHIND the light.  The pointy pieces on my nose are removable.||||reg||1

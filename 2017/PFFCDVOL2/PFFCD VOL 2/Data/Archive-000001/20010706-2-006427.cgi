@@ -1,0 +1,6 @@
+A||||4||btoth||trunk has been leaking - must fix||||9||
+Z||000000||btoth||10-26-2000||06:28 PM||||The trunk weather strip seams fine ('86 GT btw) but the trunk is always soaked after it rains... do i just need to glue the weather strip down with some type of sealer goop?? TIA.||||reg||9
+Z||000001||2xsess||10-26-2000||07:32 PM||||Since you are in the north (snow and salt) you might want to take the carpeting out of your trunk and check for rust. <P>The trunk seal kind of clips over a seam so if it isn't torn then I shouldn't leak.<P>Good Luck!<P>------------------<BR>Jeff<BR>85GT||||reg||1
+Z||000002||Phil||10-26-2000||08:02 PM||||My son's GT used to leak right at the corners  near the tail lights. I caulked up the body seams under the rubber seal and all was right with the world.||||reg||1
+Z||000003||Uaana||10-26-2000||08:57 PM||||Just a thougt but check around the mounting bolts for the wing for deposits, Mine had a similar problem because of old gaskets around the base of the stanchions<BR>||||reg||1
+Z||000004||bHooper||10-26-2000||09:03 PM||||Mine has leaked for years.  The only tear is along the length, in the fold over) on the engine side.<P>I have always been perplexed about a leak from this location!<P>------------------<BR>hoop<BR>Red '86 GT||||reg||1

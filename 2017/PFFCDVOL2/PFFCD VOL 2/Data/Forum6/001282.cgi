@@ -1,0 +1,6 @@
+A||||4||Philphine||jones soda||||1||
+Z||000000||Philphine||01-21-2001||06:23 PM||||<BR>just wondering if anybody else has tried them. the guys that developed the flavors are from here but i think it's a nationaly distributed product out of washington or maybe canada. really good.||||reg||1
+Z||000001||rogergarrison||01-21-2001||06:38 PM||||is that the company that has 'banana' and 'lemon marangue' soda too? (excuse the spelling, I flunked english once)||||reg||1
+Z||000002||wahoo4u||01-21-2001||07:14 PM||||I think that the bubble gum rocks.  I also enjoy the funny sayings that they have under the cap.  If you go to their website you can submit a saying.  <A HREF="http://www.jonessoda.com" TARGET=_blank>www.jonessoda.com</A>  i think or something like that.||||reg||6
+Z||000003||Philphine||01-21-2001||07:31 PM||||favs are green apple and grape. the grape reminds me of the old barqs sodas. like carbonated grape juice. strong.||||reg||1
+Z||000004||Notchit||01-21-2001||09:20 PM||||Yep, its in Canada, I just had a can of whoop ass (made by jones soda) yesterday. I like them, but not as much as coke. (cola that is, jeeze :rolleyes <IMG SRC="http://www.fiero.nl/forum/smile.gif"> <P>------------------<BR>Seein Red<BR>'85 Fiero GT<BR>ICQ#: 56708070<BR> <IMG SRC="http://www.fiero.nl/uploads/Outside_side2(sml2).jpg"> <BR>_________________________||||reg||4

@@ -1,0 +1,3 @@
+A||||1||FAXKID||IDLE AND TEMP GAUGE
+Z||000000||FAXKID||07-21-99||08:34 PM||||DOES ANYONE KNOW IF THE TEMP GAUAGE COULD AFFECT THE<br> IDLE?MY TEMP GAUGE FLEW APART AFTER ABOUT A YEAR OF DOING THE JUMPING AND STICKING THING.THE DEALER TOLD ME A SENSOR TO THE GAUAGE WAS THE REASON THE ENGINE IDLE WAS UP AND DOWN WHEN IN NEUTRAL.
+Z||000001||batboy||07-21-99||09:10 PM||||I can't think of any reason why the temp gauge sending unit would affect anything except the temp gauge and the temp dash light. Maybe they meant the temp sensor for the ECM. Now that very well could affect stuff like you descibed.

@@ -1,0 +1,3 @@
+A||||1||Racer 1||Question on hop-up suspension parts?||||5||
+Z||000000||Racer 1||04-28-2000||12:53 AM||||Hey does anyone have any tube-e-lar suspension arms Aftermarket type? Do they help any or just a waste of money?||||reg||5
+Z||000001||Frank R||04-28-2000||01:56 AM||||Custom suspension parts are for competition.  These items are purpose built.  With high performance equiptment, in many cases, all of a method or system must be applied to make all components have equal strength.  The most final question should be....what is the goal of this car?????  There are obvious suspension changes that work well, but all changes are a compromise.  GM did most of the engineering based on money and ease of operation.  Frank R||||reg||6

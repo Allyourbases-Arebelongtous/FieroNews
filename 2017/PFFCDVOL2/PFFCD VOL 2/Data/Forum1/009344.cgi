@@ -1,0 +1,2 @@
+A||||0||Bob Englert||Looking for John Good||||1||
+Z||000000||Bob Englert||08-08-2001||04:30 PM||||If John Good is a forum member could you please contact me about the Fiero name badge ordered at the Williamsburg Fiero show.  <P>There is no badge color specified on the card for your Artero badge.  Please e-mail me with the desired color and I will get it in the mail ASAP.<P>Thanks...<BR><P>------------------<BR>Bob<BR>2 - 87 GT's<BR>85 SE 4 cyl||||reg||1

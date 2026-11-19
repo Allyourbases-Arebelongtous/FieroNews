@@ -1,0 +1,2 @@
+A||||0||daved||New Struts for 86GT. Anyone cut the metal shield off to match original ?||||1||
+Z||000000||daved||12-01-2001||09:52 PM||||I guess the subject says it all.  The Monroe Sensatrac's I bought look like front wheel drive GM's.  They have a shield off the spring perch that is not present in the original equipment.  Otherwise they appear to fit.  Any value in cutting this off?  Any harm in it?  <BR>I'd prefer them to look like the originals, and the shield comes very close to the tires.  <BR>Anyone know what their purpose is?||||reg||1

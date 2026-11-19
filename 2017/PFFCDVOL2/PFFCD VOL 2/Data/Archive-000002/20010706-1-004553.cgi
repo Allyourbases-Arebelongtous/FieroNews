@@ -1,0 +1,13 @@
+A||N||11||Haze_Performance||Take a guess....||||5||
+Z||000000||Haze_Performance||11-28-2000||01:45 AM||||It took me about 10 min's to figure out what the hell this was. The camera snaped it on its own what I was working on my 87. Can you guess what it is?<P> <IMG SRC="http://www.fiero.nl/uploads/014_14.jpg"> <P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/goodlogo1_1.gif">   <BR><B>"AHHHHH!!! All Fiero's don't start on fire you BONEHEAD!!"</B>||||reg||5
+Z||000001||Oreif||11-28-2000||01:54 AM||||<BR>Heater core cover?<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/LOGO3.jpg"> ||||reg||1
+Z||000002||Haze_Performance||11-28-2000||02:11 AM||||WOW Oreif!!!!! You spend too much time under a Fiero..  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/goodlogo1_1.gif">   <BR><B>"AHHHHH!!! All Fiero's don't start on fire you BONEHEAD!!"</B>||||reg||11
+Z||000003||Oreif||11-28-2000||02:42 AM||||Actually, I had to change mine about 4 years ago. Although it did take a few minutes to get some cobwebs out of the way before I could find the right memory.  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000004||Haze_Performance||11-28-2000||04:46 AM||||lol  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/goodlogo1_1.gif">   <BR><B>"AHHHHH!!! All Fiero's don't start on fire you BONEHEAD!!"</B>||||reg||10
+Z||000005||Old Lar||11-28-2000||08:05 AM||||I thought it was the access panel to the muffler barings.||||reg||1
+Z||000006||Standard||11-29-2000||02:16 AM||||Knew as soon as I saw the pic that it was the heater core cover  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  Just replaced mine about 2 weeks ago.<P>------------------<BR>Mike -<BR>Black 86.5 GT 5 Spd, 153,000 miles and some busted up ground f/x  <IMG SRC="http://www.fiero.nl/uploads/redface.gif"> <BR>Red 84 Sport Coupe - winter donut maker    <IMG SRC="http://www.fiero.nl/uploads/asthanos.gif"> ||||reg||1
+Z||000007||StuGood||11-29-2000||01:23 PM||||Ummm...  it looks like somebody's hand.||||reg||12
+Z||000008||Cliff Pennock||11-29-2000||01:30 PM||||It's the "black cover thingy".||||reg||12
+Z||000009||Tigger||11-29-2000||01:35 PM||||Yea, not too far from the "blue dingy thingy"||||reg||7
+Z||000010||87ECO5||11-29-2000||01:36 PM||||Hmmm ... bummer.  I thought someone was doing a hand-puppet show!||||reg||6
+Z||000011||fldevel||11-29-2000||04:44 PM||||orif should get a free pine tree air freshener for that one lol  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> ||||reg||1

@@ -1,0 +1,4 @@
+A||||2||firstfiero||anyone have a gameboy advance?||||1||
+Z||000000||firstfiero||09-24-2001||07:53 PM||||     Had one in my hand today. then changed my mind. Anybody out their have one? What do ya think?<P>------------------<BR><BR>   <IMG SRC="http://www.fiero.nl/uploads/firstfiero.gif"> ||||reg||1
+Z||000001||TSPalmer||09-24-2001||10:39 PM||||I bought my son one a few months ago and he really likes it.  It plays all the old gameboy games and has two choices of screen display size.  Supposedly, you can also use it as a controller with the up coming Game Cube and it will display what is on the TV screen on the GA screen.  But it's a battery eater!!  <P><P>------------------<BR>T.Shawn Palmer<BR>'85 SE 4cyl 5spd||||reg||14
+Z||000002||Santa Cruzer||09-26-2001||10:37 PM||||the atari lynx is the best handheld out there sure it's ten years old but hey it's awsome!<BR>||||reg||1

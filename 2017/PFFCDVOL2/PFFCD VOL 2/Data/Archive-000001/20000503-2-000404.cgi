@@ -1,0 +1,4 @@
+A||||2||Fieroguy||Taking off the cat
+Z||000000||Fieroguy||07-10-99||05:50 AM||||Up here where I live there is no emissions<br>testing so I want to take off the cat<br>and put in straight pipe.Any estimates<br>of horsepower gain and any comments on <br>how much louder the car would be.I have<br>stock exhaust right now.
+Z||000001||Gokart||07-11-99||02:33 AM||||Not sure what your horse gain will be, but to keep things fairly quiet, wrap the straight pipe with high temp insulation, then go around the whole thing with strips of lead. Won't be able to tell the difference!
+Z||000002||Cooter||07-11-99||05:08 PM||||Gokart- I dont get the lead part. What is that for? When I installed the converter "test pipe" (to check to see if my converter was stopped up, really. I mean it.) The exhaust was slightly louder than before. But it is the kind of loud that most like to hear. Unfortunatly, my car is only a four cylinder, so the v6 could be louder.

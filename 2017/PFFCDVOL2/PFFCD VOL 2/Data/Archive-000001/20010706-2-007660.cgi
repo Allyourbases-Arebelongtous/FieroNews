@@ -1,0 +1,3 @@
+A||||1||ray b||wire caused fire check yours||||1||
+Z||000000||ray b||01-05-2001||12:15 AM|||| sort of a double post but important. the cause of the fire was main wire harness thru  fire wall bulkhead between eng and pass compartment. wire was fraed by edge of firewall metal bulkhead. el. tape or foam insolation. sure better than fire to fix before you need it .pic come soon.  ray||||reg||1
+Z||000001||ray b||01-05-2001||08:40 PM|||| ny son now back , he said on trip up car was smoth and strong. only new elct. problem footwell lights flicking on while driven and came on car off parked.waiting photos and cond. rpt.      ray||||reg||1

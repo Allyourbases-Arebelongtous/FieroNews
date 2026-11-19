@@ -1,0 +1,3 @@
+A||||1||jerpro||84 indy||||1||
+Z||000000||jerpro||07-20-2001||08:59 PM||||with about 130k<BR>not in mint cond. HOw much is it worth?<BR>||||reg||1
+Z||000001||AusFiero||07-20-2001||09:08 PM||||Not sure exactly but I know there is 2 on autotrader.com An automatic run down looking complete going restorer is $1500. The other is a low mileage looker at $4200.<P>Hope that helps.<P>------------------<BR>  <IMG SRC="http://www.jadeweb.com.au/fiero/ausfiero1.gif"> <BR><A HREF="http://www.jadeweb.com.au/fiero" TARGET=_blank>My Fiero</A> | <A HREF="http://www.auto-alley.com" TARGET=_blank>Fiero Accessories</A>||202.139.20.3||reg||1

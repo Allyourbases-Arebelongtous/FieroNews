@@ -1,0 +1,5 @@
+A||N||3||Luperman||exhaust bolts?||||5||
+Z||000000||Luperman||04-13-2000||09:12 AM||||Stupid question but what kind of bolts ie.steel, stainless steel or what ,do you use in the exhaust manifold and pipe flanges maybe the exhaust manifold bolt size or is this asking too much  <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif">||||reg||5
+Z||000001||Phil||04-13-2000||09:48 AM||||I used stainless from a marine supply store 8m/m I think.||||reg||1
+Z||000002||mwbackus||04-13-2000||10:02 AM||||Last time I checked these bolts were still available from GM.<BR>PartNumber $ea. QtyReq Description<BR>__________________________________________________________<BR>11515757 1.30 9 Exhaust Manifold Bolt<BR>25509575 2.20 3 Exhaust Manifold Bolt w/Stud End<BR>14066450 2.80 4 Exhaust Manifold to Y-pipe bolt<P>Mike B.||||reg||1
+Z||000003||mshill||04-13-2000||12:26 PM||||I posted this in this forum a couple of months back.  I think mw has the same stuff listed above.  I bought mine from the dealership just ot make sure I got the right stuff.<P>||||reg||1

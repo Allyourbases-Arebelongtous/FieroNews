@@ -1,0 +1,6 @@
+A||||4||NDFiero||Aura subwoofers||||1
+Z||000000||NDFiero||11-22-1999||06:34 PM||||I saw an ad for a Fiero that had Aura subs in it. They supposedly fit underneath the seats. Is there room for this? Does anyone here have these in their car?||||reg||1
+Z||000001||RZURCTN||11-22-1999||08:05 PM||||Never seen 'em, never heard of 'em.  Don't want a set vibratin' my butt either!||||reg||13
+Z||000002||Raydar||11-22-1999||09:20 PM||||Ummmm... Not even gonna go there. <BR>Although I used to work with a woman who might want a set of those subs.  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000003||DaRkLoRD||11-22-1999||09:44 PM||||Might be referring to the Aura Bass Shakers.<P>I've thought about those, but then I saw how it's possible to fit 10" or 12" subs behind the seats by cutting a bit of the firewall out.||||reg||1
+Z||000004||olympic||11-22-1999||10:55 PM||||I agree that they were probably Aura bass shakers.(There's no room under any car seat for a woofer and enclosure) If you don't know what they are they're not really a sub, they bolt to the floor and sort of vibrate to the music, "shaking" the car. They give the impression of a large subwoofer system. Alpine makes a similar unit.||||reg||1

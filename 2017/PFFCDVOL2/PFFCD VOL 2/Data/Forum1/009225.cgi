@@ -1,0 +1,2 @@
+A||||0||hutch84fierose||Price questions????||||1||
+Z||000000||hutch84fierose||08-02-2001||10:00 PM||||I found some parts that I really need and I was wondering how much these parts would be and they need some for and to be painted and the prices are in canadian<BR>I need<BR>gt nose<BR>gt bumper<BR>gt trunk lid<BR>gt ground effects <BR>how much about in a range would they be worth each thanks for your help because he really has no idea how much to charge me eiter and i really need these parts<BR>thansk for the help||||reg||1

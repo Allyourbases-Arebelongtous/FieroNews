@@ -1,0 +1,2 @@
+A||||0||JohnF||Sunroof hardware replacement||||5||
+Z||000000||JohnF||10-13-2001||10:07 AM||||What am I (not) doing wrong?  I am holding top covered nut with visegrips and turning lower Torx screw.  Nothing comes loose, screw only goes 'round and 'round and yet top screw doesn't move.  <P>How am I to replace seals if I can't get to them?  I have all new hardware & seals to install.  I don't care if I damage or ruin existing hardware - just don't want to hurt the glass!||||reg||5

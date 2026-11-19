@@ -1,0 +1,3 @@
+A||||1||BN Boomer||Could somebody please....||||5||
+Z||000000||BN Boomer||06-26-2000||09:06 AM||||...either describe to me, or better yet, show me a picture of how the main wiring harness in a V-6 car is supposed to be routed from near the starter up to junction in the firewall? I can't quite remember or figure out how to route this thing without it getting too close to the exhaust pipe. There is a clip on the harness that must bolt to something near the starter. Can anyone help?||||reg||5
+Z||000001||Raydar||06-26-2000||06:00 PM||||<B>If</B> I remember correctly, that clip either snaps into a hole in a heat shield (after the recall) or in the bracket that supports the coolant crossover pipe (before the recall). ||||reg||1

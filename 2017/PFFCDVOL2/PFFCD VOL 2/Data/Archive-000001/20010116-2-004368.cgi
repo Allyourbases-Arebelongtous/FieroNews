@@ -1,0 +1,4 @@
+A||||2||My7Fieros||Dogbone/bushings for 88||||5||
+Z||000000||My7Fieros||06-20-2000||03:49 AM||||I want to replace the bushings in my 88 Formula dog bone w/ the red poly ones. The Fierostore says that they are diff in the 88's, can use them. They say I have to get the ultimate dog bone. Im not against that, just wondering if thats true. (also, I bought a "generic" dogbone from NAPA today, too long)...any ideas on red poly bushings?||||reg||5
+Z||000001||bHooper||06-20-2000||08:51 AM||||i used the poly bushings, but i have a 86.5 GT.<P>they work great!<P>||||reg||1
+Z||000002||fiero56||06-20-2000||09:35 AM||||The bushings in the '88 dogbone are oval shaped, pre-'88 dogbone bushings are round. The FS is correct, unless you want put a pre-'88 dogbone in. I have the ultimatye dogbone in my '88 Formula. MUCH less engine movement, and doesn't transmit any more vibration than the rubber stock one.||||reg||1

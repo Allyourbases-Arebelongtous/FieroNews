@@ -1,0 +1,6 @@
+A||||4||MinnGreenGT||Bin Laden's extended family photos... ||||7||
+Z||000000||MinnGreenGT||12-05-2001||12:48 PM|||| <A HREF="http://www.chamberlainservices.com/bin" TARGET=_blank>http://www.chamberlainservices.com/bin</A> <P>(Disclaimer: it's funny & worth the look- nothing "BAD" that couldn't be viewed in any office or school setting...)||||reg||7
+Z||000001||Voytek||12-05-2001||12:57 PM||||Allow me to be the first one to say  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/voyteks_sig2.gif"> ||||reg||1
+Z||000002||Cheever3000||12-05-2001||01:21 PM||||Good idea, but Mike Tyson's photo is incorrect.  <BR>||||reg||1
+Z||000003||MinnGreenGT||12-05-2001||04:13 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Cheever3000:<BR><B>Good idea, but Mike Tyson's photo is incorrect.  </B><HR></BLOCKQUOTE><P>Yeah, I noticed... not my page- just my link.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000004||FieroKyle||12-05-2001||08:00 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Cheever3000:<BR><B>Good idea, but Mike Tyson's photo is incorrect.  </B><HR></BLOCKQUOTE><P>I thought he looked old! lol  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>||||reg||1

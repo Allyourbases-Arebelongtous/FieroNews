@@ -1,0 +1,5 @@
+A||N||3||fierojunky||Computer Help Please!||||8||
+Z||000000||fierojunky||03-29-2001||12:28 PM||||Im sure this is a really stupid question - but my computer only lets me go "back" once -i used to be able to use the back button - how do i change this - thanks.||||reg||8
+Z||000001||KRMFiero||03-29-2001||03:47 PM||||I would have to see, but just right click on your mouse and go to back  until you get far enough back....<P><BR>Kyle||||reg||1
+Z||000002||fierojunky||03-29-2001||04:38 PM||||i don't know what was wrong - now that im back on the net its not doing it - must the the cure all - shut down and restart. ||||reg||14
+Z||000003||tgowens||03-30-2001||03:47 AM||||sometimes, when you click on a link, it will open a second browser window........the back button will only go back so far -- you can click on "Go" on the menu bar and tell how many pages back your back button will take you - but, check to see if a second (or even third) browser window opened up when you clicked on a link..........||||reg||1

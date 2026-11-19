@@ -1,0 +1,2 @@
+A||||0||JohnnyK||Thank bubbajoe!!||||1||
+Z||000000||JohnnyK||04-15-2001||08:21 PM||||I just popped by Bubbajoe's house, and he was nice enough to give me a master and slave (I don't suppose you know if it came off a 4 or 5 speed do you?) and took me for a spin in his v8 machine.. It was a fine beaut! I'm impressed... I will build one if I can find an engine for cheap (read: almost free)..  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

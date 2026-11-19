@@ -1,0 +1,2 @@
+A||||0||qwikgta||Northstar on Ebay||||1||
+Z||000000||qwikgta||06-14-2001||11:28 PM|||| <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=592437987" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=592437987</A> <P>last time i checked $1500 with harness and ECM<P>Rob<P>------------------<BR>qwikgta@yahoo.com<BR>88 T-Top coupe, 65K, Header no Cat, 16" GTZ rims, short shifter, swaybar, open element air cleaner, hood vents.<BR>http://robsfieroproject.homestead.com/index.html<BR>http://vafiero.com||||reg||1

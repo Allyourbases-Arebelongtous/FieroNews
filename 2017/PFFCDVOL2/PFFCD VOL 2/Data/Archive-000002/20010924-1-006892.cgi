@@ -1,0 +1,8 @@
+A||N||6||sailordude||Importing a car into canada||||9||
+Z||000000||sailordude||04-15-2001||10:00 PM||||Hi there guys,  Just wondering does anyone know the process, taxes, fees, duty, and paperwork that has to be done to import a car into Canada from the States?  Has anyone on here done this recently?  There seem to be a lot of good deals over there, and before I buy a car I want to know that I'm getting into.<P>Thanks again guys,<P>Darren Gilbert<BR>B. Comm(Honours)<BR>Candidate<BR>Odette School of Business<BR>University of Windsor||||reg||9
+Z||000001||grinthock||04-15-2001||10:05 PM||||YES!!! I did all the research and there is ONE place to go to get ALL the info..<P>Goto<BR> <A HREF="http://www.riv.ca/" TARGET=_blank>http://www.riv.ca/</A> <P>That's the Registrar of Imported Vehicles, there is a link right there that explains EVERYTHING... Importing a fiero isn't hard... I didn't do it but I did MAJOR research it's NOT as big a deal as you think.||||reg||1
+Z||000002||Slammed Fiero||04-15-2001||10:22 PM||||I have imported a few cars (our family has) from the US to Canada , Save the headache , pay a broker have him do all the paperwork and what not , saves a ton of time , Around $130 a car , <P>This keeps things simple<P><BR>JM ||||reg||1
+Z||000003||sailordude||04-15-2001||10:25 PM||||JM, Does that $130 include the duty and taxes?||||reg||1
+Z||000004||grinthock||04-15-2001||11:35 PM||||Nah the $130 is a fee to pay a broker to do all the work all you do is drive it over and pay the duty.....  I agree with JM use a broker||||reg||1
+Z||000005||sailordude||04-15-2001||11:46 PM||||in general, what will duty run me?||||reg||1
+Z||000006||Jay||04-16-2001||01:33 PM||||I think it is just the GST.  Depends on age of car I believe.||||reg||1

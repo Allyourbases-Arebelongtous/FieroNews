@@ -1,0 +1,5 @@
+A||||3||cadaver||I NEED STICKERS.||||1||
+Z||000000||cadaver||05-31-2001||10:27 PM||||I need to find someone that is reproducing the stickers for the trunk lid. I have another application I want to try.||||reg||1
+Z||000001||mope||05-31-2001||10:38 PM||||i do-<P>e-mail me<P>mope161616@aol.com<P>mope<P>------------------<BR>=======================<P>-= Silver 86 GT, being restored, and following major things to be done: Mr. Mike's Leather, new steering wheel (anyone have a perfect black leather one?), Being painted rite now! My car is almost done! well, done enough for me...all thats left is insurance!<BR>URL=http://www.mastergraphics.cjb.net]www.mastergraphics.cjb.net[/URL]  <A HREF="http://www.mope.cjb.net" TARGET=_blank>www.mope.cjb.net</A>||||reg||1
+Z||000002||cadaver||06-02-2001||02:58 AM||||Pics? I went to both those sites and they are one pago only. If what Im doing works out I would like to put a link to your site on mine? I need pics and prices on a "FIERO" sticker as well as the "SHIELD" in like 2 inches.||||reg||1
+Z||000003||cadaver||06-03-2001||03:15 PM||||help||||reg||1

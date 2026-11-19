@@ -1,0 +1,4 @@
+A||N||2||Bluebottlejunky||Fiero Winamp Skins||||4||
+Z||000000||Bluebottlejunky||02-12-2001||04:21 PM||||Dose anyone have any Fiero Skins for the Windows Winamp Player?  And were can I download them? Thanks<P>Big Mike<BR>Got Fiero? <P>||||reg||4
+Z||000001||overlord||02-12-2001||08:52 PM||||i think there was a post about this a while ago....and i beleive there was one guy that had some.   Just search for "fiero winamp"||||reg||1
+Z||000002||gkozlov||02-13-2001||06:39 AM|||| <A HREF="http://g.kozlov.tripod.com/downloads1.htm" TARGET=_blank>http://g.kozlov.tripod.com/downloads1.htm</A> <P>I dont think my links work anymore, but here are some of the one I made.<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/sign1_3.jpg">     <BR><A HREF="http://g.kozlov.tripod.com/gkozlov.htm" TARGET=_blank>GKozlovs Fiero Site</A><BR>MSN MESSENGER: wkozlov@hotmail.com||||reg||1

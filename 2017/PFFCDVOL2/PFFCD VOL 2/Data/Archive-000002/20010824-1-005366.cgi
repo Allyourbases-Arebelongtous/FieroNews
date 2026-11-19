@@ -1,0 +1,5 @@
+A||||3||Ronnie||Orief, emblems?||||6||
+Z||000000||Ronnie||01-21-2001||07:53 PM||||Oreif, I had saved the topic the night everyone was buying your emblems.Didn't order any because you had sold out. But since then , I have picked up a few sets at the boneyard. I'd like a set made, and I'll send the sets to you.Please leave me your mailing address.<P>------------------<BR>Black '86GT 4spd / Silver '87GT 5spd<BR> <IMG SRC="http://www.fiero.nl/uploads/BOTHGTS_1.jpg"> ||||reg||6
+Z||000001||Ronnie||01-21-2001||07:56 PM||||Sorry for the mispelled name, lol.Didn't proofread it.Oreif, Fiero backwards, cool.||||reg||6
+Z||000002||Oreif||01-21-2001||08:31 PM||||Sent Email with address and info.<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/LOGO3.jpg"> ||||reg||14
+Z||000003||Songman||01-23-2001||10:04 AM||||Got my door emblems in the mail yesterday! They are gonna look very cool in the car! Thanks Oreif... I'll get more soon...<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1

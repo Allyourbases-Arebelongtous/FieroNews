@@ -1,0 +1,4 @@
+A||||2||JohnF||SERVICE ENGINE Light||||1||
+Z||000000||JohnF||08-08-2001||07:22 AM||||'88 2M4, 2.5 in great condition.  I am getting intermittent, very short light.  No codes are being set.  Throttle position has no discernable effect.<P>What gives?||||reg||1
+Z||000001||c m west||08-08-2001||11:57 AM||||possible intermitent, caused by O2, check O2 levels in diagnostic mode||||reg||1
+Z||000002||btoth||08-08-2001||12:12 PM||||My light would flash at me when I was doing highway speeds... traced it to the EGR valve.  Also... maybe just check to see if the lightbulb on the dash is not seated right.  The last few weeks my seatbelt was flashing on and off randomly (mostly when I accelerated though) and it seems to have just been a bad connection.<P><p>[This message has been edited by btoth (edited 08-08-2001).]||||reg||1

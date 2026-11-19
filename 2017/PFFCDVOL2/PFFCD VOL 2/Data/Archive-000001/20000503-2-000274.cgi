@@ -1,0 +1,3 @@
+A||||1||zeusrekning||Does anyone know about hydraulics on a fiero?
+Z||000000||zeusrekning||06-07-99||04:46 PM||||Can hydraulics be put on my 86 fiero if so will I have a fiero?=) I don't want it to hop just up down side to side and dance a little.  I don't want it to be fast and jerky just slow and smooth. 
+Z||000001||Lynx||06-08-99||12:36 AM||||Your answer is yes hydralics can be put on a Fiero i have say one on the internet. Hydralics can really be put on anything some just take more work than others. Also remeber a fiero suspension is alot like a front drive car just backwards. Would i put hydralics on my Fiero HELL NO. The fiero is a speed performance car. Hydralics would mess up the performance of the suspension, leave the hydralics to the trucks.

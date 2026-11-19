@@ -1,0 +1,2 @@
+A||||0||Songman||wkayl - cool website!||||1||
+Z||000000||Songman||07-05-2001||12:52 PM||||Hey Wayne!<P>I was just checking where people had linked to my site from and found a hit from your site. I had to tell you that it is very cool the way you did the personalized plates from each person's state! What a great idea! And I do appreciate the link!<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1

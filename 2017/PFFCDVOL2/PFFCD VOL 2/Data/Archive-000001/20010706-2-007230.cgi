@@ -1,0 +1,3 @@
+A||N||1||Dick McHaffie||Clutch Slave Cylinder Mounting Braket||||1||
+Z||000000||Dick McHaffie||12-08-2000||08:53 PM||||My Clutch Slave Cylinder Mounting Braket is busted...<P>Why did they make this thing out of aluminum?<P>Is there a steel alternative out there?<P>Thanks<P>------------------<BR>||||reg||1
+Z||000001||Bob Englert||12-08-2000||09:27 PM||||Rodney Dickman makes a replacement if you have a V6 4sp.  See his web site at <A HREF="http://www.rodneydickman.com/retail.html" TARGET=_blank>http://www.rodneydickman.com/retail.html</A> <BR><P>------------------<BR>Bob<BR>2 - 87 GT's<BR>85 SE 4 cyl||||reg||1

@@ -1,0 +1,5 @@
+A||||3||Seanh||Somthing funny I saw on T.V. last night||||1||
+Z||000000||Seanh||09-30-2000||12:50 PM||||It was so funny. It was on "Americas Dumbest Criminals" last night. There was a black Fiero parked in front of a building in New York, this guy, thinking hes going to steal it walks up to it and pried open the front compartment with his crowbar and just stands there and looks in amazment that there is no engine there. He then starts looking around and calmly closes the lid and walks away. All on home video. Man that was a funny<P>------------------<BR>Sean Heberly<BR>Silver 86 GT 2.8<BR>Killer Stereo System||||reg||1
+Z||000001||contra||09-30-2000||03:47 PM||||LOL!<BR>i want a copy of that! :P<BR>||||reg||1
+Z||000002||Seanh||09-30-2000||04:24 PM||||I wish I would have recorded it. Wonder if anyone else happened to see it?<P>------------------<BR>Sean Heberly<BR>Silver 86 GT 2.8<BR>Killer Stereo System<p>[This message has been edited by Seanh (edited 09-30-2000).]||||reg||1
+Z||000003||blayde8||10-01-2000||12:43 PM||||LMAO!!||||reg||10

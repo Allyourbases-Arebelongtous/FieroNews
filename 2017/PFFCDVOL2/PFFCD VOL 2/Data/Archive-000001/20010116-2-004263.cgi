@@ -1,0 +1,7 @@
+A||||5||btoth||normal idle speed?||||1||
+Z||000000||btoth||06-13-2000||07:54 PM||||does anyone know what most gt's idle at when in park and in drive under normal operating temp?  after i had my engine rebuilt and had the timming reset it has been very sluggish and seems to idle pretty low.... (under 1000 rpm).  thanks.||||reg||1
+Z||000001||jlruiz67||06-13-2000||08:26 PM||||I would sugest checking the timing again. Mine runs at 1000 after i got the timing light and set it myself. It was little under 1000 before.||||reg||1
+Z||000002||tgowens||06-13-2000||10:08 PM||||I have an '87GT automatic -- idles around 950 to 1000 -- in drive with foot on the brake == at idle in park pretty close to the same.....63,000 miles on the V-6 2.8L engine.... ||||reg||1
+Z||000003||btoth||06-13-2000||10:18 PM||||hm. thanks for the info.  that's what mine is running at now...||||reg||1
+Z||000004||Standard||06-14-2000||01:35 AM||||86 GT 5 speed, mine idles at 900 at operating temp.  Auto's should be idling at 750 in drive and at operating temp.||||reg||1
+Z||000005||terryk||06-14-2000||01:48 PM||||The "target" idle in the program code is 900 RPM. Due to various reasons, the idle will moving around +/-100 or so. There is an offset for the A/C being on (adds IAC counts) to keep it in that range.<P>In drive on an automatic, it will drop to around 700-800.<P>It's not rock steady like other GM engines. <P>Terry||||reg||1

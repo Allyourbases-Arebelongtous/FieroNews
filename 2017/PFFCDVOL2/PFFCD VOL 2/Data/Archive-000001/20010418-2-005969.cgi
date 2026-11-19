@@ -1,0 +1,5 @@
+A||||3||Bruce||The Flowmaster saga continues||||1||
+Z||000000||Bruce||09-29-2000||05:15 PM||||Having my Flowmaster series 40 installed today; I'll let you know how it sounds, etc.<BR>Relocating to Claremont for one year. Anyone know a fiero-friendly mechanic in the area?<BR>Thanks!<BR>bb||||reg||1
+Z||000001||AL||09-30-2000||11:40 AM||||where in claremont?calif or somewhere else?<B>AL</B>   <IMG SRC="http://www.fiero.nl/uploads/AL_sig.gif">   <P>------------------<BR> ||||reg||1
+Z||000002||DXR_DAD||09-30-2000||03:18 PM||||Bruce, I thought by now that exhaust thing was a done deal? Glad to see your still working on the car. Anything new, other mods?<P><BR>DXR_DAD||||reg||1
+Z||000003||Bruce||09-30-2000||09:36 PM||||Al,<BR>Claremont, Calif.<P>Bill,<BR>Added the Flowmaster to a Catco high flow catalytic converter. A little deeper and louder than stock, but difference is primarily in less back pressure. Low end torque seems the same. I think the 80 series is for turning heads; but I'm happy with my results.<BR>Hope all is well with you and the other DXR's <BR>bb||||reg||1

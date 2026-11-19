@@ -1,0 +1,2 @@
+A||N||0||RiceBurner515||Exhaust ? following Oreif's ?||||5||
+Z||000000||RiceBurner515||11-15-2000||04:56 PM||||Which muffler's (brand) would give me the most TORQUE on a stock 2.5 and how much would it? HP is also a concern but i would much rather the torque first. Also, is there a certain brand of CAT that increases HP/torque? What about resonators, are they good? Is there anyone that dualed a stock 2.5 exhaust? I want to dual it with it coming out each side of the car, like a Y-pipe or something, not just the stock dual single pipe.||||reg||5

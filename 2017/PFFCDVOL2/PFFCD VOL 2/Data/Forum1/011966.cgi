@@ -1,0 +1,6 @@
+A||N||4||85ZainoGT||just installed CD player... dash lights out||||1||
+Z||000000||85ZainoGT||11-18-2001||05:24 PM||||what did I forget/need to do?~!<P>------------------<BR>Paul Ventimiglia<BR>1987 Gold GT 2.8L<BR>All the options :)<BR> <IMG SRC="http://www.fiero.nl/uploads/SigPic2222.jpg"> <BR>NEW pics are coming SOON hopefully... geez!||||reg||1
+Z||000001||Nashco||11-18-2001||07:51 PM||||Check your fuses, you may have installed something wrong or shorted something out while installing it.  If they all check out fine, then get back to us.<P>Bryce<BR>88 GT||||reg||1
+Z||000002||85ZainoGT||11-18-2001||08:11 PM||||well I figured it out, dont ask me what I did wrong cause I dont know  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> but it all works  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> heh!||||reg||1
+Z||000003||Indyrestoguy_JR||11-18-2001||09:58 PM||||Instrument Lights or Player lights?||||reg||1
+Z||000004||Oreif||11-18-2001||10:23 PM||||Check the gray wire on the car side of the harness. That is the one that hooks to the dash lights. If it's just hanging it could touch ground and turn off the dash lights. Just moving the wires around will fix it but over time and vibration it will do it again.<p>[This message has been edited by Oreif (edited 11-18-2001).]||||reg||1

@@ -1,0 +1,4 @@
+A||||2||MooCow||Carbon Fiber Dash Kit||||5||
+Z||000000||MooCow||11-23-2000||06:13 PM||||Does anyone have a pic of the carbon fiber dash in their fiero?? <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=507314136&r=0&t=0" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=507314136&r=0&t=0</A> <P>                                  Thanks Ken||||reg||5
+Z||000001||Oreif||11-23-2000||10:37 PM||||How does this look?<P> <IMG SRC="http://www.fiero.nl/uploads/dashcf.jpg"> <P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/LOGO3.jpg"> ||||reg||1
+Z||000002||MooCow||11-25-2000||11:43 PM||||What do you think that Carbon Fiber dash would look like in a tan interior Fiero?  I love the way it looks in yours and I like the dark color of the carbon fiber but don't know if it will look goofy in my tan interior.  What do you guys think?<P>                              Thanks Ken||||reg||1

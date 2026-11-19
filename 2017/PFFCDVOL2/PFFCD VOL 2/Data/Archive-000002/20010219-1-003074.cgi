@@ -1,0 +1,2 @@
+A||||0||tgowens||Pennock's Banner for national Fiero Fest||||1||
+Z||000000||tgowens||07-27-2000||05:43 PM||||If you want a "banner" to identify your car at Fiero Fest, you can print this page [urlhttp://www.whgraphics.com/pennocks_banner.html[/url] and write in your Pennock's Forum name to identify your car.........<P>------------------<BR>   <IMG SRC="http://www.tgowens.com/MY_SIGNATURE.gif">               <BR><A HREF="http://www.tgowens.com/fiero" TARGET=_blank>www.tgowens.com/fiero</A>||||reg||1

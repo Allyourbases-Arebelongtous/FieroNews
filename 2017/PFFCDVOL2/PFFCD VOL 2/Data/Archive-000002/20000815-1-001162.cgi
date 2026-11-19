@@ -1,0 +1,6 @@
+A||||4||ka4nkf||Electric Fiero||||1||
+Z||000000||ka4nkf||02-04-2000||05:24 PM||||Check out this fiero on eBay item #247063374.||||reg||1
+Z||000001||Gokart||02-04-2000||09:37 PM||||Saw it last week! Wouldn't want it though unless I needed a gallon of milk down the street. Wouldn't want to be head to head at a stop light with a riceburner next to me as well! Good idea-but owner should just keep it.<p>[This message has been edited by Gokart (edited 02-04-2000).]||||reg||13
+Z||000002||DaRkLoRD||02-04-2000||10:30 PM||||Electric cars are a cool idea, but not until batteries are a lot better..<P>oh.. and what do you suppose the side scoop is for?  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000003||Oreif||02-05-2000||02:56 AM||||The scoop is for when the batteries run dry he can auction it off on Ebay for the cab fare home...LOL||||reg||10
+Z||000004||theogre||02-05-2000||03:32 PM||||Fiero should lend itself well to electrification. Now that fuel cell technology is shrinking, it should be quite effective. Properly setup and electric car could beat even a V8 up to considerable size. Electric motors can be configured for increadible startup torque.<P>As for that one above...... who knows. nice curiosity maybe.||||reg||1

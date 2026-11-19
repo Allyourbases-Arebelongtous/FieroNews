@@ -1,0 +1,3 @@
+A||||1||California Kid||? Sources for Rr Strut Tower Brace '88||||5||
+Z||000000||California Kid||07-12-2001||10:20 PM||||Does anyone know of a source that has or can fabricate a show quality Rr. Strut Tower Cross Brace ???  Have seen some pictures of "87 and earlier Fiero's with nice quality aircraft tubular aluminum pieces.<P>Don't really need it, but it would add a nice show touch to the car. If you have any leads, please respond.  Also would be interested in availability of "show type" Strut Tower Covers that clean up the towers and zone back to trunk. If you have pics, please post.<P>Thanks,<BR>Tom<BR>||||reg||5
+Z||000001||Black88GT||07-12-2001||10:34 PM||||Email Darrel Morse, morse86@aol.com<P>He makes them.||||reg||14

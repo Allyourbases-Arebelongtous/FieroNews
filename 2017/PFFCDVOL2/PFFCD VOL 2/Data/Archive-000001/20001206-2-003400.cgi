@@ -1,0 +1,8 @@
+A||||6||2M4 Dale||Will a four clylinder fan motor work in my...||||5||
+Z||000000||2M4 Dale||04-27-2000||01:54 AM||||85 GT V6 ? Mine is burnt-up...toasty, Ya Know...lol It was wired direct and ran all the time. I think I can get a four clyinder fan for next to nothing but wanted to know if there was any difference betwwen the two.||||reg||5
+Z||000001||Ozzy||04-27-2000||02:04 AM||||The fan in my 88 Coupe 4 banger is the same as the fan in my 87 GT. There were 2 speed fans on some models though. The only way I know to tell is a large white capacitor on the frame of the fan motor mount on the radiator.<P>Ozzy<p>[This message has been edited by Ozzy (edited 04-27-2000).]||||reg||1
+Z||000002||WKDFIRO||04-27-2000||02:09 AM||||I believe that the 2 speed was only in the 84 models. That is also the same motor that powers the fan for inside the car. (I think)||||reg||1
+Z||000003||SCCA FIERO||04-27-2000||02:54 AM||||I have a V6 running with the 4 cylinder fan in my Fiero with no trouble. It takes about 5 seconds to cool the car down when the fan finally comes on. I think they are the same between the 4 and 6 cylinder cars.||||reg||1
+Z||000004||Standard||04-27-2000||03:30 AM||||yeah, the 2 speed was only in 84's.  Like Oz said, big white chunk of ceramic on the drivers side of the frame.  ||||reg||1
+Z||000005||lennyb4||04-27-2000||10:18 AM||||The blower motor is a different style motor, longer shafts, bigger body housing then the cooling fan motor. It might work with some modification but it would just be easier to replace it with another cooling motor.||||reg||1
+Z||000006||2M4 Dale||04-27-2000||10:19 AM||||That's what I needed to know...Thanks Guys||||reg||7

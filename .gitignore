@@ -1,0 +1,46 @@
+# ====================================================================
+# Git Ignore for FieroNews & Pennock's Fiero Forum GitHub Pages Archive
+# ====================================================================
+
+# OS & Editor Artifacts
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.vscode/
+.idea/
+
+# Python Cache & Build Tools
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Archives & Compression Formats (To stay under GitHub limits)
+*.rar
+*.7z
+*.iso
+*.bin
+PFFCDVOL2.rar
+
+# Heavy Multi-Hour Video Files Exceeding GitHub's 100MB Hard Limit
+# (Keep these locally or host on Internet Archive / YouTube)
+archie/*.mp4
+archie/*.wmv
+archie/*.avi
+
+# Keep GitHub repository lean (~1.28 GB) by ignoring all videos in fusion/Downloads
+fusion/Downloads/**/*.mp4
+fusion/Downloads/**/*.avi
+fusion/Downloads/**/*.AVI
+fusion/Downloads/**/*.wmv
+fusion/Downloads/**/*.WMV
+fusion/Downloads/**/*.flv
+fusion/Downloads/**/*.mov
+
+# Any Legacy Uncompressed Video Files
+*.wmv
+*.flv
+*.mov
+*.avi
+*.AVI

@@ -1,0 +1,3 @@
+A||||1||Dan87GT||Stainless Catalytic Converter||||1||
+Z||000000||Dan87GT||03-20-2000||08:20 AM||||Has anybody know where I can by a Stainless Catalytic converter at??? This will be installed an a Borla System. ||||reg||1
+Z||000001||1FST2M6||03-20-2000||10:40 PM||||Engineered Performance Inc.  <A HREF="http://www.engineered.net" TARGET=_blank>www.engineered.net</A>  , West Coast Fiero <A HREF="http://home.earthlink.net/~chriswest/Exhaust/Exhaust.html" TARGET=_blank>http://home.earthlink.net/~chriswest/Exhaust/Exhaust.html</A>  and Random Technologys in Loganville, Ga. sorry don't know thier web address...  ||||reg||1

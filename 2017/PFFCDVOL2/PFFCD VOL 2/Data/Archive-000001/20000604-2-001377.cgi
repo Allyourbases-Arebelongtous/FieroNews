@@ -1,0 +1,3 @@
+A||||1||fiero56||Cold start switch||||5
+Z||000000||fiero56||11-10-1999||03:29 PM||||I'm looking for the "cold start fuel injection switch" on my v-6.  A diagram I have shows it just ahead(forward) of the thermostat.  But there are TWO sensors there, one is the switch and another I'm not sure about.  Which one is the cold start injector switch?  Is it the one thats closest to the thermostat, or the one just ahead of it?||||reg||5
+Z||000001||ka4nkf||11-10-1999||05:16 PM||||It Would Be The One Troward The Front Of The Car. The Fan Switch Has A Green Wire With White Stripe. BTW The Cold Start Switch Only Works While The Starter Is Engaged. After Your Car Starts It No Longer Works. The Cold Start Switch Is Not Really Important. At Least I Dont Think So.||||reg||1

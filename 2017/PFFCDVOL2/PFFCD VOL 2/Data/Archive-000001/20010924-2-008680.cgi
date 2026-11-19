@@ -1,0 +1,7 @@
+A||||5||Wolfhound||Fuel Pump||||5||
+Z||000000||Wolfhound||02-28-2001||06:33 AM||||I removed the gas tank from an 86 SE V6 yesterday to replace the fuel pump. Well, the tank is trashed also, Lots of rust. <BR>I have an 86 SE 4 Cyl parts car with a good tank and fuel pump that I intend to replace it with.<BR> Are the fuel pumps the same? Any other issues?||||reg||5
+Z||000001||Phil||02-28-2001||07:05 AM||||The 4 cyl and 6 cyl fuel pumps are different. 4 cyl is much lower pressure. I think that the tanks are diff. in the 84 also. Lots of good news huh?||||reg||1
+Z||000002||Wolfhound||02-28-2001||07:11 AM||||Phil, The cars are the same year, both 86. So, the difference is more than the just fuel pressure regulator?<p>[This message has been edited by Wolfhound (edited 02-28-2001).]||||reg||1
+Z||000003||Carrolles||02-28-2001||07:35 AM||||The 4 cyl pump puts out around 15psi while the 6 cyl pump puts out around 45psi.  A regulator will not boost the pressure of the 4 cyp pump.||||reg||1
+Z||000004||Wolfhound||02-28-2001||07:48 AM||||I had thought maybe they were the same pump with different regulators! OK, I had bought a new fuel pump but was afraid to try to use the original tank. Will the tank on the two cars be the same? Also can I use the fuel level sending unit and rest of the tubing unit by mounting the V6 pump in it?||||reg||1
+Z||000005||Phil||02-28-2001||08:30 AM||||I guess I should learn how to read someday.||||reg||1

@@ -1,0 +1,3 @@
+A||N||1||jerpro||84 supercharger?||||4||
+Z||000000||jerpro||11-18-2000||12:14 PM||||anyone know anything about a supercharger for a  84 2m4? <BR>I have heard about adjustable timing controls from msd. <BR>what would be a better way to go?<BR>I just hate spilling my guts out everytime I see a riceboy just laugh as he passes me by with his space shuttle.<BR>||||reg||4
+Z||000001||theogre||11-18-2000||12:24 PM||||The 4 cyl isn't known for being real strong. the 84 has some structural problems and posibly some weak rods depending just when it was built. If you are going to try this you might want an 86 motor as a base.<P>For the cost and expence, I hate to say it, but the V6 is the better option. Either route is allot of work and good chunk of cash.||||reg||1

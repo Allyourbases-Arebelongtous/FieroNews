@@ -1,0 +1,9 @@
+A||||7||mrgone||ahhh! cant find tirods. how does fiero store ship?||||4||
+Z||000000||mrgone||04-30-2001||11:01 AM||||i need tirods for it asap, and the dealer is wayy over priced.<P>how can i get it from  <A HREF="http://www.thefieroshop.com/" TARGET=_blank>http://www.thefieroshop.com/</A> <P>i need it shipped next day<P>is this a good place to do a cc order over the phone?||||reg||4
+Z||000001||bHooper||04-30-2001||11:30 AM||||check with partsamerica.com or wrenchead.com<P>i bought mine from one of those, cant remember how much i payed, but with a coupon it is much cheaper than fierostore!<P>but that was for an '86.  if you have an '88, you are probably SOL... don't know.<P><P>------------------<BR>hoop<BR>Red '86 GT<BR>KYB's, Eibach's<BR>and spellcheck crash's windows<BR>Poly Bushings<BR>Accel Coil||||reg||2
+Z||000002||mrgone||04-30-2001||11:35 AM||||im in canada<P>and i have an 86 2m4 that i have put 1km on it since i got it, and its been sitting in the shop ever since||||reg||1
+Z||000003||mrgone||04-30-2001||11:40 AM||||wrenchead only has outers i need inners<P>||||reg||1
+Z||000004||mrgone||04-30-2001||11:46 AM||||*sigh* guess i dont _have_ to eat everyday....  im going to check my account balance. ||||reg||1
+Z||000005||mrgone||04-30-2001||12:55 PM||||ok... going on a part hunt, markum, collingwood, maybe cookstown<P>be back tomorrow||||reg||1
+Z||000006||Bob Englert||04-30-2001||01:13 PM||||Check with Rodney Dickman.  I think he has inner front tie rods for the 84-87 and 88 models.<BR> <A HREF="http://www.rodneydickman.com/" TARGET=_blank>http://www.rodneydickman.com/</A> <P>He can usually ship things very quickly if they are in stock.<BR><P>------------------<BR>Bob<BR>2 - 87 GT's<BR>85 SE 4 cyl||||reg||1
+Z||000007||Indiana_resto_guy||04-30-2001||01:36 PM||||For what year do you need?<BR>I can get them!<BR>You can just pay for parts and shipping!<BR>LMK||||reg||1

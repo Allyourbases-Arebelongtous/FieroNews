@@ -1,0 +1,7 @@
+A||N||5||2xsess||Posting from Macedonia||||1||
+Z||000000||2xsess||05-22-2001||05:32 AM||||Hello!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>Well, we arrived safely. All is well so far. We're about 55miles from our final destination.<P>The country side here is so breathtaking I can't believe that the people have to find something to fight about.<P>Take care,<BR>Jeff<BR>||||reg||1
+Z||000001||87ECO5||05-22-2001||08:13 AM||||Take care of yourself, Jeff, and <B>STAY LOW!!!!!</B>||||reg||4
+Z||000002||bHooper||05-22-2001||08:20 AM||||well if you live anywhere long enough, you can get ticket off about anything.<P>hey, try to ask slobby what he thinks of fiero's, while your there!  <P>||||reg||1
+Z||000003||hugh||05-22-2001||08:00 PM||||I am constantly amazed by our increasing use of technology.Twenty years ago being able to communicate around the world with anyone in a matter of seconds seemed like science fiction.I can't begin to imagine what is in store for us in the future.<BR>It may be beautiful over there,but be careful!||||reg||1
+Z||000004||2M4 Dale||05-22-2001||11:31 PM||||Yeah Jeff Stay Low !!!!!!! Hey Bud....I know you gave me your address for over there..why don't you post it here.......might make for some interesting reading while your over there !||||reg||4
+Z||000005||sdm1964||05-23-2001||07:52 AM||||Hey, You are here and i am back home for 2 weeks.I know the view there is wonderfull. If there is anything i can do for you before I go back, let me know.||||reg||6

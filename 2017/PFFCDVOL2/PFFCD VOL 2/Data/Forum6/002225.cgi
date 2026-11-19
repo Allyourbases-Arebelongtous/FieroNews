@@ -1,0 +1,2 @@
+A||||0||fierospeeder||Crank and Chrome  new forum||||1||
+Z||000000||fierospeeder||06-05-2001||06:46 PM||||if anyone watches crank and chrome, they are on the second season and redesigned their website.  <P>they added a forum similiar in structure as this one.  It does need more members.  Only about 100 in there right now.  <BR>It would be great if anyone can pass the word out to other forums.   I did join up myself.<P>I was wondering if anyone has the old crankandchrome htmls and jpegs on their temp internet directory and can zip them to me.<BR>thank you<BR>||||reg||1

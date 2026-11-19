@@ -1,0 +1,3 @@
+A||||1||la9||Brake Caliper||||5||
+Z||000000||la9||02-22-2000||01:46 AM||||Will the front brake calipers fit on the rear ? I'm finishing up the car I bought and it has no e-brake cables and is missing the springs on the back of the caliper. I figure it would be easiest just to buy a set of calipers and stick on the back since the rears need the e-brake to adjust themselves.||||reg||5
+Z||000001||batboy||02-22-2000||02:07 AM||||I'm assuming they will fit. The Grand Am brake swap I did used front calipers on both front and back. They bolted right up, so the Fiero ones should too. I'm too lazy to go out to the shed tonight and check my extra Fiero calipers to make sure.||||reg||1

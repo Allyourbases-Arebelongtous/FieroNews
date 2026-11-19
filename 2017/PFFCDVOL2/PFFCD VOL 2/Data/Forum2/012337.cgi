@@ -1,0 +1,6 @@
+A||||4||JohnF||Oxygen Sensor||||5||
+Z||000000||JohnF||07-27-2001||07:40 PM||||Excuse my ignorance but where is the Oxygen Sensor for an '88 4-cyl.  Info indicates that it should be changed every 2 years - it's been 13.  I'm sure it is ready for a change.&lt;p&gt;&lt;center&gt;&lt;img src="http://albums.photopoint.com/j/View?u=1578096&a=12001107&p=52207670&Sequence=0"&gt;&lt;/center&gt;&lt;p&gt;||||reg||5
+Z||000001||William Federle||07-27-2001||08:01 PM||||It's screwed into the middle of the exhause manifold on the side of the engine toward the front of the car.||||reg||1
+Z||000002||theogre||07-27-2001||08:06 PM||||Bosch says there's are good 30-60,000 miles. Ongoing research has shown the sensor has no definative replacement interval. <P>If you think it's original it doesn't hurt to change it. Put in a new Bosch or ACdelco one. Either one should last several years, longer even.||||reg||1
+Z||000003||WKDFIRO||07-28-2001||12:34 PM||||Ive made it a habit to put a new in every other year. It also happens to be the same year I have to smog the car. <P>Coincidence? <P>I think not!||||reg||1
+Z||000004||maryjane||07-28-2001||08:11 PM||||Mine lasted many years, I changed it recently because of a false code 44. Kept the old one to get me runnin right some cold dark night in the future, whenI'm 100 miles from auto parts store.||||reg||1

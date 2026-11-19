@@ -1,0 +1,4 @@
+A||||2||Formula||All these new cool parts.....||||1||
+Z||000000||Formula||07-31-2001||12:25 PM||||and I already spent most of my money on my motor.   I def want to save up for aus' kit and maybe later I 'll get rodneys hood shocks and the flush hood scoops and aus' speedometer cover and....and....and..... ok, so Im gonna be broke for a while because of all these toys||||reg||1
+Z||000001||MinnGreenGT||07-31-2001||12:30 PM||||It's the only way to be!||||reg||1
+Z||000002||sqoach||07-31-2001||12:30 PM||||Yep. Know exactly what you mean. I'm already past broke. I'm in debt. Woohoo! At least it's for a good reason  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR><FONT COLOR="BLUE">sqoach@yahoo.com</FONT><BR>   <IMG SRC="http://www.fiero.nl/uploads/sqoach.gif">   <P>84 SE (FOR SALE)*sale pending*<BR>85 Coupe (parts car)($50)*sale pending*<BR>86 SC (FOR SALE)<BR>86 SE V6 (new project)||||reg||10

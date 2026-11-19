@@ -1,0 +1,2 @@
+A||||0||Dan010||No more codes||||1||
+Z||000000||Dan010||10-30-2001||08:07 PM||||Finished puting on the last new parts I had to order, Runs much better, idles at 1000/1100 per tach in car. Has fluxuated a couple of times up to 1500 thens settles back down to the 1000/1100.<BR>put a new EGR valve, TPS, MAP,O2,IAC, plugs<BR>wires,cap,rotor,accel performance coil module, and coil and no more codes (yet).<BR>Have not set the timing yet, need to purchace a timing light, or take it to a so called pro to set it.<BR>Next comes the motor and trans mounts.||||reg||1

@@ -1,0 +1,5 @@
+A||||3||iplayazi||ANY CANADIAN FIERO OWNERS OUT THERE???||||6||
+Z||000000||iplayazi||04-09-2000||06:54 PM||||If there is where could I get reasonable price for parts and mods even wheels. Help is appreciated!  <IMG SRC="http://www.fiero.nl/forum/eek.gif">||||reg||6
+Z||000001||Patrick||04-10-2000||01:12 AM||||<BR>This is a big country. You might want to mention that you're in Calgary.<P>Even if I knew of a good place here in Vancouver, you're on the wrong side of the mountains. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||iplayazi||04-10-2000||07:39 PM||||I used to live in Vancouver. what area you in. I used to live in New West Minster  <IMG SRC="http://www.fiero.nl/forum/tongue.gif">||||reg||11
+Z||000003||Patrick||04-11-2000||02:19 AM||||<BR>I'm about half a mile south west of the P.N.E. If you don't know what that stands for, you didn't live here long enough. <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>I'm pretty sure there are members from Alberta here. Maybe you should ask this question (about getting parts and wheels) in <I>The Mall</I> section. You might get more response. Good luck.||||reg||1

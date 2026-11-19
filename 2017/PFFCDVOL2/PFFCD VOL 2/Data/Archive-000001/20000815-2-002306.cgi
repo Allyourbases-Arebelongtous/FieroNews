@@ -1,0 +1,9 @@
+A||||7||Brian84SE||vent||||1||
+Z||000000||Brian84SE||02-11-2000||10:44 PM||||NO matter what setting the climate control is set at, air does not come out the black vents.  Are these for intake or is there a problem with the vent door/motor?<BR>||||reg||1
+Z||000001||Luperman||02-11-2000||10:55 PM||||are you talking about the ones above the radio if so those air will come out of thosewhen on vent and air conditioning<BR>||||reg||6
+Z||000002||fiero56||02-11-2000||10:55 PM||||If nothing comes out the black vents you have a door motor problem. There are 3 different doors. Two motors, one motor is for recirculating air, the other(most likely your problem) is the mode door motor. There is also an actuator. I assume one or more of the following is your problem: 1)the mode motor is bad; 2)the door is stuck; or 3)there is a bad connection going to the mode motor.||||reg||1
+Z||000003||daved||02-11-2000||11:53 PM||||There is an excellent diagram of the heating/cooling system on page 296 of the Haynes Manual.||||reg||1
+Z||000004||fiero56||02-12-2000||08:30 AM||||Wow! Haynes does have a diagram. Except in mine it is on page 282. Here I am trying to type from memory when it was all in the book.||||reg||1
+Z||000005||Brian84SE||02-12-2000||10:38 PM||||I do hear the door motor going when i push the various buttons.   The defrost works, the  heat works.  Do you think the door is jamming at a certain point?<BR>||||reg||1
+Z||000006||fiero56||02-13-2000||09:27 AM||||It is poossible the door is jamming, or what you are hearing is the other door motor doing its thing.||||reg||1
+Z||000007||geyser||02-13-2000||10:40 PM||||This is probably a silly question, but has there been any modifications to your dash? My 87 GT had the Pisa dash installed when I got it and I had a similar problem. I found that the front facing vents were not hooked up by the installer(s).||||reg||1

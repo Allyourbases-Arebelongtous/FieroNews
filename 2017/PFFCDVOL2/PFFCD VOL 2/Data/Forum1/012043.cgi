@@ -1,0 +1,3 @@
+A||||1||Rodney||Looking for an 88 GT complete exhaust system. Can be rusted thru.||||1||
+Z||000000||Rodney||11-21-2001||10:31 AM||||I need one just for measurements etc. Hopefully with in a reasonable driving distance of Milwaukee, WI! ||||reg||1
+Z||000001||Jefrysuko||11-21-2001||12:25 PM||||Rodney, I am planning on pulling the exhaust on my 88 GT this winter to fix a leak.  If you don't find someone closer you would be more than welcome to come down and take all the measurements you want.  My exhaust is 100% original even the cat but will have one of yours when I am done  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

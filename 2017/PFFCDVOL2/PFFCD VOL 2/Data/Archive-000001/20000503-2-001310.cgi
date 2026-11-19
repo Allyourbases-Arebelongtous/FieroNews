@@ -1,0 +1,4 @@
+A||||2||Shaun41178||Supercharger kit pics online||||1
+Z||000000||Shaun41178||11-03-1999||02:37 PM||||Pics of the supercharger kit are now online for those that are interested in a supercharger rather then a turbo or nitrous.  Dyno charts are up as well.<BR> <A HREF="http://webhome.idirect.com/~rsm1/" TARGET=_blank>http://webhome.idirect.com/~rsm1/</A> <P>Go to that address and then click on Engine & Performance.<P>Kit claims 200 hp at the wheels which is around 220-230 at the crank.  All for just $2800.  Check it out people.||||reg||1
+Z||000001||TOM||11-03-1999||03:53 PM||||I would rather do a turbo for a couple hundred and keep the a/c||||reg||1
+Z||000002||Phil||11-03-1999||04:53 PM||||Actually 200 at the wheels is about 250 at the crank -figure around 20+% loss. The stock 2.8 is supposed to be 140 at the crank yet they put around 100 at the wheels||||reg||1

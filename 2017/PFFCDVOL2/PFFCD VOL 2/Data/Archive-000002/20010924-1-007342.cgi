@@ -1,0 +1,23 @@
+A||||21||theogre||Ogre notes||||9||
+Z||000000||theogre||05-10-2001||08:14 PM||||As a bunch of you know.... I've been dealing with cancer since about this time last year.<P>Because of that, I'll be in hospital again starting tomorow AM. I'm told I should expect to be there a week. I'll likely be off line at least that long. Maybe longer.<P>This all sucks even more since yet again I can't got to Carlisle.<P>------------------<BR><I><B>Screamin Yellow Zonkers... If it's Screamin and Yellow, I ain't eatin it.</B></I>||||reg||9
+Z||000001||WKDFIRO||05-10-2001||08:17 PM||||Well you are definitely going to have to come back to see all the well wishes and thanks for your continuing help on the tech side of Fierodom!<P>You get well and I think that I can say easily that all our prayers are with you.<BR>||||reg||14
+Z||000002||87ECO5||05-10-2001||08:18 PM||||Take care, Ogre.  We'll be thinking about you ...<P>... you're gonna be fine!    <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||14
+Z||000003||DXR_DAD||05-10-2001||08:29 PM||||Take care Ogre!!! My family and I are praying that you return soon. And as I have said before, thanks for all the help you give to the Forum<P>DXR_DAD||||reg||14
+Z||000004||sqoach||05-10-2001||08:39 PM||||Bummer. I guess I was unaware of this. Hope all goes well.||||reg||11
+Z||000005||GT GT 87||05-10-2001||08:44 PM|||| I didn't know .  May God watch over you and your family.  Love--------------||||reg||1
+Z||000006||85Josh||05-10-2001||08:51 PM||||I'll remember you in my prayers, ogre. <P>------------------<BR>85 2M4(Lil' Bit)||||reg||1
+Z||000007||hugh||05-10-2001||08:53 PM||||God bless!||||reg||1
+Z||000008||Wolfhound||05-10-2001||09:01 PM||||We all love and care for you man!<BR>Have faith and smile.<BR>Will be thinking boutcha!<BR>Coy||||reg||14
+Z||000009||Coconut||05-10-2001||09:12 PM||||Round Two coming up, and we're still bettin' our money on the Ogre!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> <BR>Hang tough bro' and stomp on this thing like ya did in Round One.<BR>Thoughts and prayers are with you my friend and we wish you a speedy recovery!<P>Take care,<BR>FieroGTGirl and Coconut ||||reg||1
+Z||000010||flyntus||05-10-2001||10:10 PM||||The main thing is to take care of yourself, Hope you be back soon.||||reg||1
+Z||000011||Formula88||05-10-2001||10:18 PM||||My prayers are with you.  I'll see you when you get back....<P>Cancer can be a bear, but I know 2 friends of mine who've beaten it.  Let's go for 3, even though we've never met IRL.<BR>||||reg||14
+Z||000012||87GTZ34||05-10-2001||10:43 PM||||Our prayers are with you!  See you (read you) in a week & I'm sure there'll be plenty of pictures from Carlisle.||||reg||1
+Z||000013||FieroHarry||05-10-2001||10:47 PM||||Ogre, you be in all our thoughts and prayers.<P>------------------<BR>Harry<BR>FOCOSEVA<BR>1985 GT 262K+ "TEMPTATION"||||reg||14
+Z||000014||Jake2m4||05-10-2001||10:59 PM||||Good luck man.  I know you'll get through it.||||reg||1
+Z||000015||theogre||05-10-2001||11:38 PM||||Thanks Folks, I keep all this in mind when I wake up sometime over the weekend.<P>I'm off...<P>------------------<BR><I><B>Screamin Yellow Zonkers... If it's Screamin and Yellow, I ain't eatin it.</B></I>||||reg||1
+Z||000016||Raydar||05-11-2001||10:16 AM||||You'll be in my prayers, Ogre. Take care, man!<P>------------------<BR>Raydar - aka Steve<P>88 black Formula<BR>88 Duke coupe <BR>88 "wadded up" Formula (parts car)||||reg||14
+Z||000017||84Bill||05-11-2001||10:35 AM||||You will be in my thoughts Ogre. Take care oh wise keeper of the oracle. <BR>I'll be sure to post VIDEO well wishes from the members I find at Carlisle for you.||||reg||14
+Z||000018||TheFiero64||05-11-2001||12:35 PM||||Take care Ogre, I will try to take plenty of pictures at Carlisle and post them for you to look at when you return.<P>------------------<BR>Josh<BR>  <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg"> <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||1
+Z||000019||Tryxalon||05-11-2001||08:27 PM||||Yes, Ogre.. our thoughts and prayers!!! <P>||||reg||1
+Z||000020||MrPBody||05-11-2001||08:45 PM||||See you back soon, Ogre.  Who else is gonna keep us straight?<BR>||||reg||1
+Z||000021||Sage||05-11-2001||10:39 PM||||Hope everything goes according to plan, and that you come out better than ever.  Was kinda wondering how things were going after your stint last year.<P>Keep the faith and remember everyone's pulling for you.<P>Hate to sound redundant but,"This too shall pass".<BR>               Good Luck<BR> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

@@ -1,0 +1,4 @@
+A||||2||FIEROCIOUS||Northstar hinge mod?||||5||
+Z||000000||FIEROCIOUS||08-20-2000||03:12 PM||||What do you need to do to the decklid hinges to get the Northstar to fit? I know they need to be modified, does anyone have pictures of the modified hinges?  ||||reg||5
+Z||000001||Pontiaddict||08-20-2000||10:53 PM||||You have to cut the lower part off where the torsion bar mounts because the engine would hit it. similar things have to be done in a 3.8 or 3.4tdc swap. A gas strut is added to hold the decklid up after taking the torsion rods out.<P>Sorry i don't have pics, someone posted some northstar pictures somewhere though.||||reg||1
+Z||000002||FIEROCIOUS||08-22-2000||02:16 AM||||Thanks, Pontiaddict!<BR>Could you be a little more specific?<BR>How much is cut off?<BR>Do you keep both hinge bolts or do you need to cut off that far up?<P>Can you give aprox. dimentions?||||reg||1

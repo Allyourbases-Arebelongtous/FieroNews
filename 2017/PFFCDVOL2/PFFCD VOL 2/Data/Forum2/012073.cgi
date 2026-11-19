@@ -1,0 +1,4 @@
+A||||2||DaveL||87 2.5 ||||5||
+Z||000000||DaveL||07-16-2001||07:55 AM||||I'm pretty sure my 87 2.5 threw a rod or something similar. There's definitely coolant in the oil now. What does that mean, is the block played? Is there anything I should do to it if I can't afford to fix it immediately, like drain the oil or coolant?||||reg||5
+Z||000001||SteveJ||07-16-2001||08:08 AM||||Unless it is making a knocking noise you have a blown head gasket or maybe a cracked head. . . and yes its a fix it now situation. The coolant in the oil reduces lubrication and loss of coolant could lead to overheating.||||reg||1
+Z||000002||SteveJ||07-16-2001||08:18 AM||||. . . and if it is knocking pay attention to TheOgre's responce in: <A HREF="http://www.fiero.nl/forum/Forum2/HTML/011435.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/011435.html</A> ||||reg||1

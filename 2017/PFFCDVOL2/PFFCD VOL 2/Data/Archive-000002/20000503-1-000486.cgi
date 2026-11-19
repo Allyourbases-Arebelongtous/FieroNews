@@ -1,0 +1,2 @@
+A||||0||olympic||top speed||||5||
+Z||000000||olympic||10-31-1999||05:03 PM||||Does any one know what the highest top speed was for a modified fiero? Did anyone build one that would break 200 mph?  What are your guesses on the top speed of a Fiero equipped with a stock 300 horse Northstar engine and automatic tranny combo.(assuming the speed limiter is removed and the suspension upgraded)||||reg||5

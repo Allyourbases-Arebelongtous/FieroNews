@@ -1,0 +1,4 @@
+A||||2||FIERO1985||IMSA BODY KITS||||1||
+Z||000000||FIERO1985||12-15-2000||08:48 PM||||Anyone know where to look for IMSA body kits for fieros??<P>Dan<P>------------------<BR>1985 GT V6 <BR>"LETS RACE"||||reg||1
+Z||000001||Cheever2||12-15-2000||09:17 PM||||Did a search.<BR>Found this.<BR>Almost exact same question as yours.<BR>- <A HREF="http://www.fiero.nl/forum/Forum1/HTML/004023.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/004023.html</A> <BR>||||reg||1
+Z||000002||Oreif||12-15-2000||10:22 PM||||You can get them from IRM (Email IRMFIERO@aol.com) Or the link below has the same kit. They just call it an SD4 body but it is the same as the IMSA body. (Same Mold)<BR> <A HREF="http://www.showcars-bodyparts.com/fiero.html" TARGET=_blank>http://www.showcars-bodyparts.com/fiero.html</A>  <BR><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/LOGO3.jpg"> ||||reg||1

@@ -1,0 +1,4 @@
+A||N||2||Seanh||Where can I find these?||||1||
+Z||000000||Seanh||07-25-2001||05:30 PM||||Where can I find (and what are they called?) the little washer that goes between the front wheel bearing and nut? I seem to have lost one of mine, and can't find any like it with the little locking tab on them. Discontinued by GM....Where can I get one? Anyone have one they wanna sell me, please email me @ sean@kdsi.net<P>------------------<BR>Sean Heberly<BR>Silver 86 GT 4spd Auto (Currently in repair, wrecked by "Red-Headed Step Child")<BR><I>I live my life a 1/4 mile at a time. Nothing else matters</I>||||reg||1
+Z||000001||Leadfoot||07-25-2001||07:23 PM||||I could have sworn I saw it at Pep Boys, in fact I bought the rear nut from there.  It was in their nuts and bolts section. <P>||||reg||1
+Z||000002||Steve Normington||07-25-2001||08:56 PM||||You have mail.||||reg||1

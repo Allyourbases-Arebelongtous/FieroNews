@@ -1,0 +1,3 @@
+A||||1||Roy Grooms||Anyone from southeats WI,||||1||
+Z||000000||Roy Grooms||08-01-2001||03:43 PM||||I live in a town call Trevor and think i well go to el paso ill. fiero show<BR>anyone going from wi ,or northeast ill.<BR>                ROYSTOY<BR>I OWN A 1984 FIERO THAT I HAVE BEEN WORKING ON/ YA RED WITH COLOR KEYED AMERICAN MAG RED WHEELS||||reg||1
+Z||000001||Bluebottlejunky||08-01-2001||05:47 PM||||Not form southeast WI lol. I am from North-eastern Fox cities (Appleton/Hortonville)<P>------------------<BR>Hello, My name is Mike and I am addicted too fiero's...PLEASE dont help me.<BR>85'GT 4sp<BR>AIM: Fierofanatic2001||||reg||1

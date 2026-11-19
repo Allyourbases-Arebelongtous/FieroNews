@@ -1,0 +1,4 @@
+A||||2||fldevel||Static Cling !!!! argh!!!||||1||
+Z||000000||fldevel||07-11-2000||04:32 PM||||has neone ever noticed that when u goto little shows and u try to wipe the dust off how it just sticks to the car due to static actualy if it werent for the static the dust wouldent be there in the first place ..what are some of the methods you guys use to prevent the "static cling"||||reg||1
+Z||000001||Homicidal||07-11-2000||04:56 PM||||Waxes usually help this problem.  By trying to get rid of static electrcity is trying to change the laws of Physics.||||reg||1
+Z||000002||TheFiero64||07-11-2000||05:18 PM||||I've been told that the <B>California Duster</B> works good. It looks like a mop on a little handle. I think they sell them at most auto chains.<P>------------------<BR>Joshua Bumpus<BR>New Bedford, MA<BR> <IMG SRC="http://www.fiero.nl/uploads/fi.jpg"> ||||reg||10

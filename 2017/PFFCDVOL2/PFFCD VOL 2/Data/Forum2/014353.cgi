@@ -1,0 +1,3 @@
+A||N||1||Fallman||Rear Drivers Side Break Squeaks||||1||
+Z||000000||Fallman||10-11-2001||01:55 PM||||ITS ME AGAIN<BR>and i have had way to many problems with this car. But anyway i have this sound that comes from right behind me when the car is moving. the sound is like a brake is dragging, but i have had the brakes off several times and it doesnt make a differnce. it still squeaks.  im not sure whats going on.  the break pads are fine. ||||reg||1
+Z||000001||FieroSoul||10-12-2001||06:49 AM||||  Check the break shield that mounts behind the rotor.  Take the rotor off and look for bright metal close to where it mounts on the hub.  If you find it, a little judicious bending or a good tap with the hammer usually works. Good luck.||||reg||6

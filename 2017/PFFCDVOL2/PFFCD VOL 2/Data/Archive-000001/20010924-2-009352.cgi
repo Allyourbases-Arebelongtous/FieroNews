@@ -1,0 +1,4 @@
+A||||2||mbramble||Headlight Wiring Question||||1||
+Z||000000||mbramble||04-02-2001||08:45 AM||||Can I swap the whole headlight wiring harness (and Headlight assemblies) from an 87 into an 85??  Are there any changes I have to make in the 85 to make this work??<P>Thanks,<BR>Mike<BR>||||reg||1
+Z||000001||Voytek||04-02-2001||02:25 PM||||You should be able to swap the whole thing over with no mods (going for the quiet hydraulic ones, are you?).||||reg||1
+Z||000002||mbramble||04-02-2001||02:53 PM||||Yes, that will be the result -- but the reason is that my 85 GT project car has had the front harness andd headlight motors removed.  Once I am closer to being able to drive it, these parts, along with several other things (like seats and doors) will be taken off my 87 coupe daily driver and put on the 85 GT.<P>I thought I should be able to just move the harness and headlight assemblies over but just wanted to confirm it.<P>Thanks,<BR>Mike||||reg||1

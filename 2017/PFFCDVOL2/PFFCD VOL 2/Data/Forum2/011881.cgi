@@ -1,0 +1,2 @@
+A||||0||jake1852||wheel problem||||5||
+Z||000000||jake1852||07-07-2001||08:45 PM||||every dealer i go to around here has told me that it is impossible to put a 17X10or12 inch wheel on the rear of my fiero. i customized the ass end of my car so i need to fill quite a bit of space in the wheel well. does anyone know where i could get wheels like this that will fit? i was thinking maybe just go with a rear-wheel drive offset, but will this work?||||reg||5

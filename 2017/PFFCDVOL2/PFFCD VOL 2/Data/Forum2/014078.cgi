@@ -1,0 +1,4 @@
+A||||2||85ZainoGT||are all windshields on fieros the same size?||||1||
+Z||000000||85ZainoGT||10-01-2001||05:24 PM||||i think im about to buy one off a 84se, but will that fit my 85gt?||||reg||1
+Z||000001||Voytek||10-01-2001||05:51 PM||||Yup - all the same.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/voyteks_sig2.gif"> ||||reg||1
+Z||000002||grgoyl86||10-01-2001||09:50 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by 85ZainoGT:<BR><B>i think im about to buy one off a 84se, but will that fit my 85gt?</B><HR></BLOCKQUOTE><P>Yes, they are all teh same. BUT . . .<P>Before you do this, check your insurance coverage. With my insurance, I only pay $50 for a new windshield. I understand that some folks have full glass coverage.<P>My two cents . . .<BR>||||reg||1

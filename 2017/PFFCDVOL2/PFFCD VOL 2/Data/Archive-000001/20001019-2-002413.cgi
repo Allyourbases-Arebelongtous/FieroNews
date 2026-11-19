@@ -1,0 +1,5 @@
+A||N||3||Lance||6 Codes?!?||||5||
+Z||000000||Lance||02-20-2000||09:01 PM||||I did that paper clip thing to see why my check engine light is on. Well boy did I get some codes. <BR>Here we go,<P>13<BR>22<BR>33<BR>34<BR>35<BR>45<P>That seems like alot wrong.<BR>Could someone let me know what all these codes mean?<P>Thanx<p>[This message has been edited by Lance (edited 02-20-2000).]||||reg||5
+Z||000001||theogre||02-20-2000||09:07 PM|||| <A HREF="http://www.euronet.nl/users/fo_elmo/techno.htm" TARGET=_blank>http://www.euronet.nl/users/fo_elmo/techno.htm</A>  has a list of codes.||||reg||1
+Z||000002||Phil||02-20-2000||09:41 PM||||The Haynes manual(which you should own) also lists the codes on page 160.||||reg||1
+Z||000003||fiero56||02-20-2000||10:12 PM||||That sure sounds like a lot. Make sure all of them are current. It is possible some may have been fixed before, and were just never cleared from the ECM. Pull the negative battery cable, and leave it disconnected for a few minutes. Then plug it back in, drive the car for a while, and see what it throws your way then.||||reg||1

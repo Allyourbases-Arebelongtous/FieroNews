@@ -1,0 +1,5 @@
+A||||3||Goatman||Coolent System||||1||
+Z||000000||Goatman||08-30-2001||09:31 PM||||What is the easiest way to drain the coolent system on a '84 4 cyl Duke?||||reg||1
+Z||000001||PBJ||08-30-2001||09:37 PM||||If there is not a drain cog at the bottem of the radiator, I would remove the lower rad hose.<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/forsalestart.jpg"> ||||reg||1
+Z||000002||Oreif||08-31-2001||02:19 AM||||Under the car are 2 tubes that run from front to back on each side of the car. Right about even with the rear edge of the door you will see 2 hex head plugs. Unscrew and it'll drain the entire system.||||reg||1
+Z||000003||theogre||08-31-2001||08:38 PM||||read the coolant "fill" article in my cave. it explains just about everything. (I should rename that page I guess.) Link at the top of all forum pages.<P>If the drain plugs in the under car pipes are damaged, you can get replacements from the fierostore.com and maybe GM dealers. At some point I'd like to find brass plugs that would fit there... <p>[This message has been edited by theogre (edited 08-31-2001).]||||reg||1

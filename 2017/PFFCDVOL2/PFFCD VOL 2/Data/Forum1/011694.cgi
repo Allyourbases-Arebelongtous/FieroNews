@@ -1,0 +1,12 @@
+A||||10||speed racer||pics of the back of a fastback||||1||
+Z||000000||speed racer||11-08-2001||05:57 PM||||I am looking for some pics of the back of a fastback to draw in art class so if some one can post some it would help me out a lot.||||reg||1
+Z||000001||avengador1||11-08-2001||06:01 PM||||How's this. <IMG SRC="http://www.fiero.nl/uploads/fiero30.JPG"> <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1
+Z||000002||speed racer||11-08-2001||06:06 PM||||I would like it stright on form the back if you could.||||reg||1
+Z||000003||California Kid||11-08-2001||08:44 PM|||| <IMG SRC="http://www.fiero.nl/uploads/Post_GT_Rear.jpg"> <BR>Might help ya ?||||reg||1
+Z||000004||Wild_86_Custom||11-08-2001||08:49 PM||||Here is a pic of mine.<BR>  <A HREF="http://www.geocities.com/anything79/afiero.html" TARGET=_blank>http://www.geocities.com/anything79/afiero.html</A> <P><p>[This message has been edited by Wild_86_Custom (edited 11-08-2001).]||||reg||1
+Z||000005||GTFiero1||11-08-2001||09:06 PM||||well its not strait back but...  <IMG SRC="http://www.fiero.nl/uploads/fiero_on_2.jpg">     hey i just relized it has my aol screen name on the lisence plate<P>------------------<BR>Adam J. B.||||reg||1
+Z||000006||mrfiero||11-08-2001||09:10 PM||||Here's an eye-level close up shot of my GT.  Don't pay any attention to the bad paint and cracked taillight lens!   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P> <IMG SRC="http://www.fiero.nl/uploads/ttop2.JPG">   ||||reg||1
+Z||000007||banditbalz||11-08-2001||09:48 PM|||| <IMG SRC="http://www.fiero.nl/uploads/tailights.jpg"> <BR><P>------------------<BR>Silver 86 GT<BR>completely stock,<BR>completely fast!||||reg||1
+Z||000008||MinnGreenGT||11-09-2001||11:48 AM||||Damn Double Posts!<p>[This message has been edited by MinnGreenGT (edited 11-09-2001).]||||reg||10
+Z||000009||MinnGreenGT||11-09-2001||11:48 AM||||Hey, why not one more just for the fun of it?<BR>BTW- Please disregard the dirty taillights (they've since been cleaned & replaced with my clear lenses- photo shoot this weekend  <IMG SRC="http://www.fiero.nl/forum/smile.gif">)<P> <IMG SRC="http://www.fiero.nl/uploads/greenrear2.jpg"> ||||reg||10
+Z||000010||1FST2M6||11-09-2001||12:03 PM|||| <IMG SRC="http://www.fiero.nl/uploads/camber.jpg"> <P><BR> <IMG SRC="http://www.fiero.nl/uploads/1fstscoop2_1.jpg"> <P><P>------------------<BR>0-60 in 4.91<P> <A HREF="http://www.1fst2m6.com" TARGET=_blank>www.1fst2m6.com</A>  - underconstruction - but check it out anywho...||||reg||1

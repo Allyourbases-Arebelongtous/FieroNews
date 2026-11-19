@@ -1,0 +1,6 @@
+A||||4||AL||junkyard score||||1||
+Z||000000||AL||09-17-2000||08:35 PM||||<BR>went today to look around andfound me a holley side scoop(which i pocketed) and found me a pair of new struts for 50 bucks,i also found me a screw driver and ratchet(craftsman),so it was a good day,even thou it was 115 degrees outside.<B>AL</B> <IMG SRC="http://www.fiero.nl/uploads/AL_sig.gif"> <P>------------------<BR> ||||reg||1
+Z||000001||2M4 Dale||09-17-2000||08:38 PM||||Wow !!! now you can make some big bucks on ebay...lol...with that HOLLEY do-dad.||||reg||6
+Z||000002||Black88GT||09-17-2000||09:42 PM||||yeah LOL, that always amazes me how people will pay in excess of 75 bucks for a hideous piece of plastic that does nothing but look ugly.  Its not even a "side scoop", its a "plastic box"!!  <P>&lt;shaking head&gt;<P><P>------------------<BR>Jeff<BR>'88 GT t-top 3.4<BR>Baltimore, MD||||reg||10
+Z||000003||86SE||09-17-2000||10:03 PM||||Wait a few years, plate it gold, THEN sell it on E-Bay.  Enough for retirement right there....<P>------------------<BR>'86 Special Edition,<BR>High-Output V-6 Yellow Fiero<BR>Special Rally Heavy Duty Suspention||||reg||1
+Z||000004||AL||09-18-2000||08:27 PM||||i'll tell you this,that i will pt it on ebay and i will be looking out for more.it's incredible what people miss at thejunk yard. ||||reg||1

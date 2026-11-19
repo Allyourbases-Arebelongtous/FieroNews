@@ -1,0 +1,4 @@
+A||||2||fiero_hunter85||fiero parts websites||||1||
+Z||000000||fiero_hunter85||09-27-2001||05:53 PM||||anyone know any web sites that have a fiero alternator bracket,shift cable bracket and other hard to find parts like these?||||reg||1
+Z||000001||87GTZ34||09-27-2001||08:29 PM||||Here ya go...<BR> <A HREF="http://www.kickhill.com/mechelec.html" TARGET=_blank>http://www.kickhill.com/mechelec.html</A> ||||reg||1
+Z||000002||MikeSchaefer||09-27-2001||10:57 PM||||Kickhill has always been kinda overpriced.  I heard that some dealerships still carry that alternator bracket (though not around me) for $30 new, I just got one for $15 shipped from the mall.  Post a request in there for those parts, you'll save some money.<BR>Later,<BR>Mike Schaefer <A HREF="http://surf.to/fiero" TARGET=_blank>http://surf.to/fiero</A> ||||reg||1

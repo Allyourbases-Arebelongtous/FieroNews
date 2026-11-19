@@ -1,0 +1,8 @@
+A||||6||84Bill||Got my PFF CD today, was sent all the waaaaay from.||||14||
+Z||000000||84Bill||07-27-2001||05:10 PM||||Pittsburg?!? <BR>hehehehe Must have been sent from Pennock Productions North America main headquarters in Lovely Pittsburg PA. LOL!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||14
+Z||000001||DecadenceR||07-27-2001||05:36 PM||||Man, I'm sure it saves on the cost of postage to mail it from 'burg, but isn't it kinda expensive to fly to the states to mail it?||||reg||1
+Z||000002||Fleabitdog||07-27-2001||05:48 PM||||84bill  are you coming to Maple Grove?||||reg||1
+Z||000003||Brucepts||07-27-2001||05:57 PM||||Long lost 84Bill, sure did miss you at Ski's last weekend . . .||||reg||1
+Z||000004||AusFiero||07-27-2001||10:07 PM||||Wow it must get really expensive for poor Cliff personally delivering them things  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>So if I buy one Cliff. You gunna deliver it personally ?  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>||||reg||1
+Z||000005||martin1875||07-27-2001||10:19 PM||||how long did it take from the time you ordered the cd till you recived it in the mail. i order mine the fourth of july and still have not recived it. when i call ccnow all i get is please hold for the next operator. then a message will play we cannot take your call at this time.||||reg||9
+Z||000006||84Bill||07-28-2001||05:33 PM||||Sorry my home computer fried lastweek and I have been very busy at work because 2 outt of 4 were on vaccation. <P>I ordered my CD and made a post about it in the Fierolisa thread posted 07-12-2001 11:46 AM just after I placed the order.<BR> <BR>I dono if I'll make it to anymore shows this season but we'll see Fleabit.||||reg||14

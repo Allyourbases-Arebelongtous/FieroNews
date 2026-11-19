@@ -1,0 +1,3 @@
+A||N||1||kinboyatuwo||Steering column||||5||
+Z||000000||kinboyatuwo||01-15-2001||12:42 PM||||First, she is back on the road and running so i figure now i might as well fix this problem<P>the steering column has a lot of play/movement as if a bushing is shot<BR>dosent really bug me too much but it is getting progressively worse<P>any help or ideas is appreciated<P>if it helps it is a 87 duke<BR>thanks<BR>kinboyatuwo@yahoo.com<P>------------------<BR>"Friends don't let friends drive four doors."||||reg||5
+Z||000001||theogre||01-15-2001||01:06 PM||||in the interior department here---<A HREF="http://fierocave.shorturl.com" TARGET=_blank>The Fiero Cave</A>||||reg||1

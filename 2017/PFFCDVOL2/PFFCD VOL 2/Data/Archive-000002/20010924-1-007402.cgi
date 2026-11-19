@@ -1,0 +1,3 @@
+A||||1||FieroBUZZ||Another one bites the dust.........||||1||
+Z||000000||FieroBUZZ||05-13-2001||08:31 PM||||I'm tearing apart my 86 SE (rusty) and wondered if anyone needed any pics of anything inside while I'm at it.  Hope to remove the cradle to rebuild. Been taking some pics of rust spots, wiring, etc.  Thought pics may be of some use to someone doing work or whatever.<P>Gary ||||reg||1
+Z||000001||88formula||05-13-2001||08:55 PM||||Yeah if you have the 2.8-liter engine than take as many pictures of the engine as possible. I lost mine and need them to help me remember where everything goes. <P>Thanks.<BR><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/88formula_logo_1.JPG"> ||||reg||1

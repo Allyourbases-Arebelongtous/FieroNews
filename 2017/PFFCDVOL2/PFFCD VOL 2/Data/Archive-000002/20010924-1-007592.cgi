@@ -1,0 +1,2 @@
+A||||0||Fierochic88||Welcome SlickRick||||10||
+Z||000000||Fierochic88||05-22-2001||01:27 PM||||Hey Bud - <BR>    Glad you could join us here!  I had a great weekend with you, Lisa, Chris, Matt, Pete, Jamie, Bob & the rest of the gang!  Hope all is well 45 min from me  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Jennifer<P>------------------<BR>Silver 1988 GT<BR>Silver 1986 2m4<BR>||||reg||10

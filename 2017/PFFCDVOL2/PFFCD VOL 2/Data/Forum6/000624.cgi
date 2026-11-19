@@ -1,0 +1,3 @@
+A||N||1||fropuff||Dodge 440 help!||||4||
+Z||000000||fropuff||08-25-2000||10:33 PM||||Hey, I was wondering if there is anyone that knows anything about Dodge 440 engines.  My grandpa has a 1981 Dodge Ram 440 motorhome.  He has an oil pump problem.  He needs to remove the oil pump shaft from the distributer.  He doesn't know how to do this, nor does anyone else.  Shops won't work on motorhomes, so he needs to do it himself.  Can anyone help me with a step-by-step progress?  Thanks a lot. ||||reg||4
+Z||000001||Monkeyman||08-27-2000||05:39 PM||||As I'm mechanically challenged, I can only guess...BFH???||||reg||1

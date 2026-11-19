@@ -1,0 +1,9 @@
+A||||7||RaeQwan||My baby is hurting :(||||8||
+Z||000000||RaeQwan||12-15-2000||10:03 PM||||a old man in a 87 Fullsize Chevy 4x4 backed into my 88 at the store today, goood god. talkin bout angry. got like about a 2 foot crack right behind my passenger side door now  <IMG SRC="http://www.fiero.nl/forum/frown.gif"> Anyone happen to have a cheap GT(fastback) clip for sale? I might be lookin for one soon.<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/raeqwancfa.gif"> ||||reg||8
+Z||000001||RaeQwan||12-17-2000||02:42 AM||||Does no one care?  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/raeqwancfa.gif"> ||||reg||1
+Z||000002||Stoic||12-17-2000||03:04 AM||||I care, I just can't be of help<BR>...Good luck<P>------------------<BR>If you can read this, I,m parked.||||reg||9
+Z||000003||Homicidal||12-17-2000||03:07 AM||||Terribly sorry man!  Insurance doesn't cover it?||||reg||1
+Z||000004||mrfiero||12-17-2000||03:14 AM||||I have a fastback clip, but shipping it from Denver to NC would be pricey.||||reg||1
+Z||000005||RaeQwan||12-17-2000||03:34 AM||||the other guys insurance is. <P>mrfiero, find out how much shippin would be. I'll see what I can do.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/raeqwancfa.gif"> ||||reg||1
+Z||000006||zeusrekning||12-17-2000||07:02 PM||||A crack!!!!!<BR>No, no ray , no. <BR>fastback clip??<BR>Go, go ray go.<P> <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>Wish i could help.<BR>||||reg||1
+Z||000007||RaeQwan||12-17-2000||09:08 PM||||She will be beautiful again one day, oh yes, she will be beautiful  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> of course, she still gets the ladies to look at me & muh car.. beauty cannot be damaged ..<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/raeqwancfa.gif"> ||||reg||1

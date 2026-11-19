@@ -1,0 +1,5 @@
+A||N||3||Jackalrr||Turbo charger question...||||5||
+Z||000000||Jackalrr||11-29-2000||03:41 PM||||Would a turbo charger from a 1981 Turbo Trans Am work in a fiero?<P>Thanks,<BR>-Charlie<BR>-----<BR>jackalrr@cinci.rr.com||||reg||5
+Z||000001||Jackalrr||11-29-2000||03:43 PM||||And what about a Mitsubishi Turbo Charger TE04H, came off a 1991 Dodge 2.5L TURBO. ?<P>Thanks,<BR>-Charlie<BR>-----<BR>jackalrr@cinci.rr.com||||reg||1
+Z||000002||1FST2M6||11-30-2000||10:09 AM||||the T/A will work.. but will be slow to spool.. the smaller one will work but will spool quick and will run hot.||||reg||1
+Z||000003||Jackalrr||11-30-2000||02:58 PM||||Thanks, 1fast2m6. So wich would you recomend? If it was running hot would that do damage to it? I plan on rebuilding my engine with the performance rebuild kit from fierostore.com  would that spool the T/A turbo faster? and about how much time are we talking about to get it going?<P>Sorry about all the questions, I am pretty new at this stuff.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Thanks,<BR>-Charlie<BR>-----<BR>jackalrr@cinci.rr.com||||reg||5

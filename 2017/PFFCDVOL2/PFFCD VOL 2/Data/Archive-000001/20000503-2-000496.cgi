@@ -1,0 +1,7 @@
+A||||5||RossT||rear tail lamp cover water spot
+Z||000000||RossT||07-27-99||03:52 AM||||<br>My 88gt has, what looks to be, a water<br>spot(s)  just inside of the clear plexi-glass<br>rear tail lamp cover. Before I go and <br>remove the tail lamb assembly, I would<br>like to know if the clear part removes from<br>the rest of the assembly so that I can clean<br>the inside.  Someone told me that the clear<br>part is glued to the rest and does not remove.  If it is glued, can it be seperated,<br>cleaned, and reglued??<p>Thanks Ross
+Z||000001||DXR_DAD||07-27-99||08:26 PM||||Ross, The lens covers can be removed from the tail light assembly. It has a non-hardening gasket like form-a-gasket, you may need to pray a little. This seal MUST be used to keep water out it can be re-used if it is in tack after removing the cover, if not some type of seal must be used. <p>P.S.  DO MOT BREAK THE TABS!!
+Z||000002||DXR_DAD||07-27-99||08:34 PM||||OOPS!!<p>Let me fix that.<p>DO NOT BREAK THE TABS!!
+Z||000003||Bruce||07-27-99||08:36 PM||||Speaking of water spots, what's the best cleaner with which to remove them. I use Macguires Clean and Wax, which gives a great shine, but doesn't do much for the spots.
+Z||000004||DXR_DAD||08-02-99||11:59 PM||||I think rain-X makes a hard water spot cleaner.
+Z||000005||Formula||08-03-99||11:55 AM||||Those water spots are hard to get off. If you sell me your car for $100 I will make sure the water spots come off!!! 

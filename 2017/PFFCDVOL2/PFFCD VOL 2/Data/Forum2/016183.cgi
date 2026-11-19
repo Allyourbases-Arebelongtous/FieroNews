@@ -1,0 +1,2 @@
+A||||0||3.8T Fiero GT||MOMO/SPARCO 'hybrid' steering wheel question??||||5||
+Z||000000||3.8T Fiero GT||12-08-2001||09:45 PM||||Does anybody know if a SPARCO steering wheel will fit a MOMO hub??? Cause i will have a MOMO hub but may wanna get a SPARCO wheel...for the Fiero of course.<BR>I would like to know if anyone has seen/done this first hand, and if there were any mods involved?<P>So does it work?<BR><P>------------------<BR>*Your ASS here*   <IMG SRC="http://www.plaudersmilies.de/rough/zzwhip.gif"> <BR><B>"A 3.8T makes and excellent "RICE" cooker"</B>||||reg||5

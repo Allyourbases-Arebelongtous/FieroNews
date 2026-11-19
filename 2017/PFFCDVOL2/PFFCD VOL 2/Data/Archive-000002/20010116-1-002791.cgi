@@ -1,0 +1,4 @@
+A||N||2||Haze_Performance||My Drag Race Co-Pilot||||14||
+Z||000000||Haze_Performance||07-04-2000||03:21 AM|||| <IMG SRC="http://www.fiero.nl/uploads/025_23a.jpg"> <P> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Carl (85 Fiero) My Website's  <A HREF="http://www.drive.to/HMP" TARGET=_blank>Haze Mustang Performance</A>   &  <A HREF="http://www.drive.to/WS6_Fiero.com" TARGET=_blank>WS6 Fiero</A>||||reg||14
+Z||000001||fldevel||07-05-2000||12:50 PM||||Hey ive got one of those too !! what does urs say on the hat ?||||reg||1
+Z||000002||Haze_Performance||07-05-2000||05:09 PM||||NAPPA Gold Filters (Its from NAPPA Auto Parts) <P>------------------<BR>Carl (85 Fiero) My Website's  <A HREF="http://www.drive.to/HMP" TARGET=_blank>Haze Mustang Performance</A>   &  <A HREF="http://www.drive.to/WS6_Fiero.com" TARGET=_blank>WS6 Fiero</A>||||reg||7

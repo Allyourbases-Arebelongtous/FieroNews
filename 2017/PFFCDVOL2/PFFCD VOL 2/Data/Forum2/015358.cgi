@@ -1,0 +1,2 @@
+A||N||0||BigTurbo87GT||Northstar oiling, where do I start||||1||
+Z||000000||BigTurbo87GT||11-13-2001||12:39 PM||||Is anybody (with a northstar) using the oil cooler ports on the oil filter housing? If so how (i.e. what oil cooler, did you use threaded fitting or slip fit with clamps).<BR>Did you use a remote oil filter kit, if so which one fits the Northstar?<BR>I don't know where to start looking for this info so I thought I would see if anybody has already done it.<BR>Thanks for any info/input.<BR>Bill.||||reg||1

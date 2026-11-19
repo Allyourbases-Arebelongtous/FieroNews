@@ -1,0 +1,3 @@
+A||||1||88-DOHC||Rear bearings for 88||||1||
+Z||000000||88-DOHC||12-10-2001||06:31 PM||||My rear bearings are toast, so I was wondering if anyone knows a source for these. Perferably a source that doesn't require my right arm as payment.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>||||reg||1
+Z||000001||DRH||12-10-2001||06:41 PM||||The rears shouldn't be a problem. They are the same as 84-87 as well as some FWD cars. Try your local parts store. You might also check <A HREF="http://www.autozone.com" TARGET=_blank>www.autozone.com</A>  if you don't have a local autozone.<P>Front hub/bearings for the 88s are another story. They seem to be at least temporarily, maybe permanently, unavailable new.<BR>||||reg||1

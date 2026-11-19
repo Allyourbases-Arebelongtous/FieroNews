@@ -1,0 +1,5 @@
+A||||3||contra||Rattley windows and doors...||||9||
+Z||000000||contra||06-18-2000||07:32 PM||||One thing i've never liked about my 2 fieros is that the windows rattle when they're part way down. Is there any way to correct this? Because it can get a little annoying over bumps and normal suburban roads. Also, my passenger door actually rattles too, i wonder what could be wrong with that...any suggestions on what to check?<BR>thanx<BR>||||reg||9
+Z||000001||StuGood||06-19-2000||01:45 AM||||Have you tried replacing your dew wipes yet?||||reg||7
+Z||000002||contra||06-19-2000||05:17 PM||||no i havent<BR>i have some extras i dont know how good they are yet because they're used from a donor car i have<BR>i'll try that first because i know the passenger side needs new ones for sure<BR>how hard is it to install them or take them off in one piece?||||reg||1
+Z||000003||lowCG||06-19-2000||06:32 PM||||Try the door hinges,striker post/latch mechanisms.<BR>Also the windows have less supporting them when they're halfway down,so I either put'em all the way up,or all the way down.||||reg||1

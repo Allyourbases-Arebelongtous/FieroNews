@@ -1,0 +1,7 @@
+A||||5||rprevo|| GT Rims||||9||
+Z||000000||rprevo||03-28-2001||12:22 AM|||| Strange thing happened looking at my dads<BR>88 GT two of the GT rims are somewhat alike<BR>and the other two are alike but the two sets<BR>are a little different from each other.<BR>The edge of the rim on one pair is close<BR>to the inner part of the rim. The other two<BR>there is a step of about 1/2 an inch to the<BR>inner part of the rim. <BR>Was that common on 88 GT's?<BR>cause the set of 86 GT rims that I have are all the same.<P>     Ray<BR>||||reg||9
+Z||000001||fropuff||03-28-2001||12:26 AM||||I believe this is normal.  On the 88 GT wheels, the front width is 7"; the rear is 7.5".  I think.||||reg||1
+Z||000002||AkursedX||03-28-2001||12:45 AM||||Actually, I believe the fronts are 6.5" and the rears are 7"||||reg||1
+Z||000003||Cheever2||03-28-2001||12:52 AM||||Yes it's common.  You have to REALLY watch the tire shop people or they will mix em up every time - doesn't even matter if you tell them, they still do it anyway.<BR>||||reg||6
+Z||000004||tgowens||03-28-2001||03:24 AM||||the front wheels differ from the rear also in offset........they were designed that way to accomodate the re-designed and unique to the '88 suspension.........and yes, '88 is the only year that the different front and rear wheels were used......||||reg||1
+Z||000005||Formula88||04-25-2001||10:24 AM||||The fronts are 6" wide, and the rear are 7" wide.  I don't know if the offset is the same or not.||||reg||1

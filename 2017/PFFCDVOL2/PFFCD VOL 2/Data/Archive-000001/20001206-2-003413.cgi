@@ -1,0 +1,3 @@
+A||||1||N_Man||Crane Echopower?||||5||
+Z||000000||N_Man||04-27-2000||08:52 PM||||Has anybody heard of the crane echopower HMV-260?<BR>It's advertised in my paper under truck parts for an S-10 2.8.  Im assuming its a camshaft will it work in my fiero?||||reg||5
+Z||000001||88formula||04-27-2000||09:11 PM||||I think that cam is the Crane Powermax H-260-2 Camshaft part # 253901. This camshaft is very similar to the Crane Compucam 2030 and GM performance cam used in the 3.4 crate engine. The decryption of the cam goes as follows "Good idle, daily usage and off road, towing, economy, also mild turbocharged, 2200-3000 cruise RPM, 8.0 to 9.5 compression ratio advised. Basic RPM 1500-4500". ||||reg||1

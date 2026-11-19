@@ -1,0 +1,4 @@
+A||||2||Philphine||e-brake warning won't shut shut off||||1||
+Z||000000||Philphine||09-04-2001||08:18 AM||||<BR>when i disengage the e-brake it kind of clicks up and i get the light and bell. anyone know what kind of adjustment i need to make? thanks for any help&gt;||||reg||1
+Z||000001||84Bill||09-04-2001||09:25 AM||||Under the ebrake boot in the rear is the ebrake switch. Remove the inside threshold to get better access to it. Usually what happens is the copper contact on the back of the ebrake lever gets bent up over time, just get needle nose pliers and straighten it out.||||reg||14
+Z||000002||Steve Normington||09-04-2001||11:37 AM||||This could also happen if the e-brake is not adjusted properly. If it takes more than 7-8 clicks to fully engage the brakes, you might need to tighten them up. The adjustment is make just behind the rear cradle crossmember by turning the large nut while holding the wire still.||||reg||1

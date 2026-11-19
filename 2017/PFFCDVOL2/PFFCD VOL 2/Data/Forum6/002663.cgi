@@ -1,0 +1,3 @@
+A||||1||Fierokid87||testing sig||||1||
+Z||000000||Fierokid87||07-15-2001||03:53 AM||||disregard testing sig<P>------------------<BR><FONT COLOR="BLOODY"> Fierokid's  Web site<BR>http://www.angelfire.com/sports/sfiero<P>AIM: Fierokid87<BR>ICQ: Fierokid</FONT><P>   <IMG SRC="http://www.fiero.nl/uploads/sfiero.JPG"> ||||reg||1
+Z||000001||Fierokid87||07-15-2001||03:56 AM||||<sup>the color change worked</sup><P>Scott<P>------------------<BR><FONT COLOR="BLOODY"> Fierokid's  Web site<BR>http://www.angelfire.com/sports/sfiero<P>AIM: Fierokid87<BR>ICQ: Fierokid</FONT><P>   <IMG SRC="http://www.fiero.nl/uploads/sfiero.JPG"> ||||reg||1

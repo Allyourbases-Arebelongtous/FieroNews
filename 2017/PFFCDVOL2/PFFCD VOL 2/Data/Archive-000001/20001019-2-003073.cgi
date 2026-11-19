@@ -1,0 +1,6 @@
+A||||4||billfredmike24||Stereo Help||||5||
+Z||000000||billfredmike24||04-07-2000||07:11 PM||||I've got a pioneer deh-46dh cd player, and im not getting any power, i've got a pioneer quick-connect harness which requires no wire cutting at all, i've plugged it in and nothing, the problem seems to be no orange wire which is part of the two point connector, is this my problem, and how can it be fixed?<BR>Also i have pioneer TS-A4105 4x10's, is there any clip i can buy that will directly connect to the cars factory clip?<BR>TIA bfm24||||reg||5
+Z||000001||Loki||04-07-2000||07:29 PM||||Go to a local stereo stereo shop and get a wiring harness for your year. You wil have to "splice" it with the radio harness but it plugs dirrectly into the factory car harness....<P>Loki||||reg||1
+Z||000002||Oreif||04-07-2000||09:49 PM||||I bought all my adapters thru Crutchfields and they all work fine. They have the correct radio harness' and speaker connectors too!||||reg||1
+Z||000003||batboy||04-08-2000||08:06 AM||||If you need an extra power lead, there is usually an unused switched spade power terminal at the fuse box that you can use, since most stereos have an inline fuse.||||reg||1
+Z||000004||billfredmike24||04-08-2000||12:03 PM||||What do you guys ground to?||||reg||1

@@ -1,0 +1,2 @@
+A||||0||JSocha||Junk mail/email etc....Information||||1||
+Z||000000||JSocha||11-04-2001||11:07 AM||||Just thought I would share some info I heard about if you are tired of junk mail/email and/or telemarkerters.<BR> <A HREF="http://www.junkbusters.com" TARGET=_blank>http://www.junkbusters.com</A> <P>TeleZapper:  <A HREF="http://www.shoplifestyle.com/store/telezapper.htm" TARGET=_blank>http://www.shoplifestyle.com/store/telezapper.htm</A> <P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> ||||reg||1

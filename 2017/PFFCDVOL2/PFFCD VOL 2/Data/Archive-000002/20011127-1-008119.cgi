@@ -1,0 +1,2 @@
+A||N||0||FieroSTETZ||new headlights?||||1||
+Z||000000||FieroSTETZ||06-14-2001||01:07 PM||||i had the opportunity to drive an opel gt (w/ 3l v6, someones project car - speedy with that six!) and was amazed that the pop up lights are mechanical - you pull a lever inside to make them pop up. could we do that on fieros? would anyone want to? they can go up as fast or as slow as you want, you can wink and stuff, and no motors, less weight... i might try this on my parts car...<P>------------------<BR>     <IMG SRC="http://www.shawnrocks.com/Animation1.gif"> ||||reg||1

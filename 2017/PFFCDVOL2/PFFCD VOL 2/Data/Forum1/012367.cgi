@@ -1,0 +1,2 @@
+A||||0||FOCOSEVA||FOCOA Mid-Atlantic Region||||4||
+Z||000000||FOCOSEVA||12-01-2001||08:34 PM||||As the Regional Director of the FOCOA Mid-Atlantic Region, I ask that all FOCOA Mid-Atlantic Region local chapter presidents contact me by e-mail, identify yourself and your club. This will include any and all FOCOA local chapter presidents in the following states: North Carolina, South Carolina, Tenessee, Kentucky, West Virginia, Maryland, Washington D.C., and Delaware.<BR>Thank you very much.<BR>Curry Obenshain<BR>Pres. Fiero Owners Club of Southeast Virginia||||reg||4

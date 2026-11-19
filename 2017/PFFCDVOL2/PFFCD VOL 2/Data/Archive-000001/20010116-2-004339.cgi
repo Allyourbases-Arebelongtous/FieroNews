@@ -1,0 +1,16 @@
+A||||14||TOM||HOW DO i CHANGE MY NAME||||1||
+Z||000000||TOM||06-18-2000||05:16 PM||||I see how to change all the other stuff but not my screen name? And I should learn to type as well||||reg||1
+Z||000001||tgowens||06-18-2000||05:27 PM||||well, first you have to apply to the court........really, the easiest way is to re-register........there is no option for changing your screen name once you have registered....||||reg||1
+Z||000002||TOM||06-18-2000||07:23 PM||||Then I will lose me elite status and be a junior again? Nope I will just keep it||||reg||1
+Z||000003||tgowens||06-18-2000||07:46 PM||||refer to the next post..............<p>[This message has been edited by tgowens (edited 06-18-2000).]||||reg||1
+Z||000004||tgowens||06-18-2000||07:46 PM||||hmmmmmmm, never thought of that -- well, you could change it and then post ten posts real quick to lose the 'junior' status!||||reg||1
+Z||000005||phillip||06-18-2000||10:49 PM||||i asked cliff the same thing a few weeks back. he said he could do it , just give him my pass word to verify i am me. but i've forgotten it. guess i'll go ahead and try to retrieve it.||||reg||1
+Z||000006||dogtired||06-19-2000||01:27 AM||||TOM<BR>Find a lawyer, send him $50 tell him what you want, then WAIT, then    <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>Send me $50, tell me what you want, then WAIT, then    <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>Send MM $50, tell him what you want, then WAIT, then    <IMG SRC="http://www.fiero.nl/forum/wink.gif"><BR>Send me another $50. tell me what you wanted, then WAIT, then<BR>Send Cliff $50 tell him what you want, then WAIT.    <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>If this doesn't work start over and WAIT    <IMG SRC="http://www.fiero.nl/forum/redface.gif"><BR><p>[This message has been edited by dogtired (edited 06-19-2000).]||||reg||6
+Z||000007||bHooper||06-19-2000||06:46 AM||||im sorry... i must've missed something...  why would you want to change your screename?<P>hoop||||reg||1
+Z||000008||Gokart||06-19-2000||09:17 PM||||Stick with TOM! It's direct-to the point-and we all know you! Sometimes I wish I'd gone with just my first name but I was new to the internet and was leary about posting my real name <IMG SRC="http://www.fiero.nl/forum/redface.gif">  ||||reg||1
+Z||000009||zeusrekning||06-19-2000||09:24 PM||||I did not like using my real name that is why i used zeusrekning||||reg||1
+Z||000010||Patrick||06-20-2000||03:25 PM||||That's not your real name??!!!||||reg||1
+Z||000011||lennyb4||06-20-2000||03:40 PM||||I thought it was his real name too. Gotta give ya credit for thinking that one up  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000012||Earne||06-20-2000||09:45 PM||||Not sure credit is due, looks more like something fell on the keyboard.   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000013||dogtired||06-21-2000||02:52 AM||||  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> Where did my $50 go???     <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>I was going to buy MM's Rare Radio??   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><p>[This message has been edited by dogtired (edited 06-21-2000).]||||reg||6
+Z||000014||prof bobo||06-21-2000||01:13 PM||||Hmm,<P>I'm Bobo, you're Tom.  Now all we need is a Crow and Mike (Joel if you're a purist) ... ||||reg||1

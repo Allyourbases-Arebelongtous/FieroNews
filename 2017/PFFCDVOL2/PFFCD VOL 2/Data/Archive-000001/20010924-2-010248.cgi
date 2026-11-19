@@ -1,0 +1,3 @@
+A||N||1||Russ||replace frt brake rotor/calipers what works||||1||
+Z||000000||Russ||05-07-2001||09:05 PM||||My project 1986 Fiero needs front brakes plus calipers...should I consider am upgrade with larger rotors or some other modifications....I plan on a V8 conversion in the near furture.<P>Russ||||reg||1
+Z||000001||theogre||05-08-2001||08:19 PM||||read here before altering brakes. There's allot more than some would have you believe. Read all ther articles referenced in my article as well.<P><A HREF="http://fierocave.shorturl.com" TARGET=_blank>The Ogre's Fiero Cave</A><P>Also, make sure you fully understand your state inspection laws. Altered brakes can be reason for inspection failure even when they work.||||reg||1

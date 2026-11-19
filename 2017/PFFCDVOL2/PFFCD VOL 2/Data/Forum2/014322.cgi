@@ -1,0 +1,6 @@
+A||||4||redfiero||Crank Bolts Reusable||||1||
+Z||000000||redfiero||10-10-2001||06:28 AM||||Are the bolts that hold the flywheel to the crank "yield" bolts or are they reuseable?  Just wondering if I need to pick them up while I'm at the store.<P>Thanks<p>[This message has been edited by redfiero (edited 10-10-2001).]||||reg||1
+Z||000001||Neal||10-10-2001||11:03 AM||||Im pretty sure they are reusable.||||reg||1
+Z||000002||88CoupeV6||10-10-2001||11:18 AM||||I reused mine. I would never reuse head bolts though<P>------------------<BR>Josh<BR><p>[This message has been edited by 88CoupeV6 (edited 10-10-2001).]||||reg||7
+Z||000003||Steve Normington||10-10-2001||12:06 PM||||I think they are reusable. Most yeild bolts have a torque spec plus degrees past. For example, 90 ft/lb plus 135 degrees.||||reg||1
+Z||000004||artherd||10-11-2001||02:31 AM||||Just spend the $30 and get some new ones from the GM dealer.  They'll come with the proper threadlock compound on them so you don't need another $1,000 clutch job in a week...<P>Best!<BR>Ben.<P>------------------<BR>  <IMG SRC="http://www.cartsys.com/fiero/88ttop.jpg">  <BR>Ben Cannon<BR>88 Formula, T-top Metalic Red<BR>88 Formula, Silver<BR>87 Coupe, Metalic Red<BR>"Every Man Dies, not every man really Lives"<BR>                -Mel Gibson, "Braveheart"||||reg||1

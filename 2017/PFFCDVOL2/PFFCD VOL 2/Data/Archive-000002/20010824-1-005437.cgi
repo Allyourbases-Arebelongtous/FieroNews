@@ -1,0 +1,2 @@
+A||N||0||Seanh||Anyone want to get rid of a good 22P manual cheap?||||1||
+Z||000000||Seanh||01-25-2001||09:53 PM||||Anyone want to sell me a 22P manual for my 86GT? Email me please<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/transsig.gif">    <BR><A HREF="http://www.kdsi.net/~sean" TARGET=_blank>Sean's Fiero Page</A><BR>Sean Heberly<BR>Silver 86 GT 2.8 Auto (3.4 Conversion in Progress)<BR><I>"It's always in the last place you look." Of course it is. Why would you keep looking after you've found it? Do people do this? Who and where are they?</I>||||reg||1

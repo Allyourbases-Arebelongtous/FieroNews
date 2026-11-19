@@ -1,0 +1,4 @@
+A||||2||Cooter||How to make the owner of a new Silverado 4x4 mad:||||1||
+Z||000000||Cooter||12-23-2000||08:03 PM||||After very easily out accelerating the Silverado from one red light to another, ask the driver if his new truck has a 4 cyl or a v6 when the dual exhaust and coffee can tips give the noise of an obvious v8. When the driver yells obsenities and says it is a v8, tell him that it is a shame a truck that looks that good can't perform any better than that. Works like a charm  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000001||LarryB||12-23-2000||09:40 PM||||I take it you speak from experience.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> ||||reg||6
+Z||000002||MachineHead||12-24-2000||04:38 PM||||Just don't park in a parking lot when he is around.  Might run the Fiero over.||||reg||1

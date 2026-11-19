@@ -1,0 +1,3 @@
+A||||1||rogergarrison||turbo kit in mall||||1||
+Z||000000||rogergarrison||09-20-2001||05:50 PM||||if anyones still looking for turbo kit, dexter found one on ebay. complete new kit with everything needed. same one that IRM sells for $3K (look in mall for link)it says for auto, but dont know what the diff would be except maybe in chip.||||reg||1
+Z||000001||SCCA FIERO||09-20-2001||10:08 PM||||The Design One kit uses different mounting for the auto and manual. The auto kit mounts the turbo right where the clutch slave cylinder and shift cables would go, but allows the factory exhaust to be used. The manual kit puts the turbo under the cruise control and uses all new exhaust.||||reg||1

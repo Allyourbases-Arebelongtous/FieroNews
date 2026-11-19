@@ -1,0 +1,6 @@
+A||||4||JohnnyK||To ANYONE with an engine hoist.||||1||
+Z||000000||JohnnyK||12-05-2000||02:06 PM||||I am looking for a big favour from someone. Could someone with a portable engine hoist (the ones that roll around and have a big cylindrical jack on them) snap some photos of different angles and maybe some measurements? I really need a project for my fabrication class, and I want to make this, but I think partsource might be a little offended. Thanks a lot! I'll owe ya.||||reg||1
+Z||000001||JohnnyK||12-06-2000||05:25 PM||||Someone? Anyone? Desperate.||||reg||1
+Z||000002||fierospeeder||12-06-2000||05:46 PM||||i dont have time right now, but i will try to get some specs from my engine hoist later today.<BR>try <A HREF="http://www.jcwhitney.com" TARGET=_blank>www.jcwhitney.com</A>  for a pic or harborfreight.com||||reg||1
+Z||000003||WampusCat||12-06-2000||06:14 PM||||Go here and scroll down to hoist.zip and click to download.  Unzip and enjoy! <A HREF="http://www.esbconsult.com.au/ogden/locost/frames/fmirror.htm" TARGET=_blank>http://www.esbconsult.com.au/ogden/locost/frames/fmirror.htm</A> ||||reg||1
+Z||000004||JohnnyK||12-06-2000||09:00 PM||||Dude! Thanks, thats more than I could have asked for... These things DO move up and down enough to actually clear an engine out of a higher car, right? Thanks a lot man!||||reg||1

@@ -1,0 +1,9 @@
+A||||7||BOILERMAKER||Sorry guys!||||1||
+Z||000000||BOILERMAKER||02-18-2000||09:29 AM||||OK, I flamed there for a little bit.  Sorry for making an ass out of myself.  It's best to let people think you are an idiot than open your mouth and let people know you are an idiot.<P>O well, I ask forgiveness of the forum members for getting so uptight about the ricers.<P>Thanks Moneyman for pointing this out to me.||||reg||1
+Z||000001||Monkeyman||02-18-2000||09:33 AM||||Like I said, I'm on your side.  BTW--If it makes a difference, I just called Cliff.  He wasn't in, but I left a message.  Anyone want to send some cash to help defray the cost of the phone call?  (Just kidding, but it sure is expensive calling the Netherlands.)||||reg||1
+Z||000002||Phaeton||02-18-2000||11:35 AM||||Spring is in the air.  When the snow melts then all the stuff buried underneath gets exposed to the light of day.  Luckily it only stinks for a short time before becoming fertilizer.  The smell will go away and we will all still be family.  Heck, this'll probably make us more tolerant of each other, after all, we really DO drive Fiero's and that has to make us a tad more perceptive than normal.||||reg||1
+Z||000003||Formula||02-18-2000||06:36 PM||||monkey,<P>       10-10-321 for all calls in the united states oops, my bad, nevermind.<P>      thats collect anyway LOL||||reg||1
+Z||000004||Monkeyman||02-18-2000||11:40 PM||||An expensive call but would have been well worth it had Cliff been there.  (Heck, it would have been worth it just to talk to Cliff for a minute!    We're not worthy!  We're not worthy!!)||||reg||1
+Z||000005||Phil||02-18-2000||11:55 PM||||Speak for yourself son.||||reg||1
+Z||000006||Monkeyman||02-19-2000||02:07 AM||||Dad/Phil--What part of my post are you referring to?  "We're not worthy!!"?  Have you ever seen Wayne's World?||||reg||1
+Z||000007||Phil||02-19-2000||07:00 AM||||Yep/nope||||reg||1

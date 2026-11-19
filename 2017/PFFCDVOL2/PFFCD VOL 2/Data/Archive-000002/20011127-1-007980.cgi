@@ -1,0 +1,4 @@
+A||N||2||86seyellow||SHow??||||1||
+Z||000000||86seyellow||06-07-2001||11:25 AM||||I just missed the dells show, I live 2 hours form there and did not know about it. I live in minnestoa. where is the net closest show, Like to meet some fiero owners, <P>oh yea, its a 862M6se yellow and black <BR>||||reg||1
+Z||000001||Old Lar||06-07-2001||04:23 PM||||Michigan has a meet in Frankenmuth on July 13-14.  (North of Flint)||||reg||1
+Z||000002||KEV||06-07-2001||05:36 PM||||THERE ARE A SOME SHOWS COMING UP. SUNDAY 10TH ALL GM CAR SHOW AT THE STATE FAIR GROUNDS,2.JUNE 16&17 NOON TO 5:00PM FREE SHOW UP IN THE CITIES,3.JUNE 23RD THERE ARE TWO 1.ALL PONTIAC SHOW AT INDY 2.ALL FIERO SHOW IN ONAWA IA HOSTED BY THE MIDWEST FIERO CLUB. LET ME KNOW. I'M ALSO THE EVENTS CHAIRMEN FOR THE MINNESOTA FIERO FOREVER CAR CLUB, DUES ARE $20 A YEAR.<P>------------------<BR>BLACK85GT 3800V6 2"DROP, FLUSHMOUNT HEADLIGHTS AND WRAPAROUND WING||||reg||1

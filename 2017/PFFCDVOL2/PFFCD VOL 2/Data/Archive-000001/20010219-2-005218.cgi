@@ -1,0 +1,7 @@
+A||||5||Gold87SE||Pontiac Logos||||1||
+Z||000000||Gold87SE||08-12-2000||03:13 AM||||When I bought my Fiero it didn't have either of the Pontiac logos so I went to the junkyard and got two of them. What's the best product to use to get them to stay on?||||reg||1
+Z||000001||86SE||08-12-2000||04:37 AM||||Duct Tape.......<P>But I put 5 min appoxy on mine and so far so good (6 months)<P>------------------<BR>'86 Special Edition,<BR>High-Output V-6 Yellow Fiero||||reg||1
+Z||000002||deceler8||08-12-2000||08:58 AM||||Clear silicone (in a pinch, RTV will do)...stays flexible and won't be affected by extreme cold or heat.||||reg||1
+Z||000003||Oreif||08-12-2000||10:16 AM||||If it's the front emblem most auto parts stores carry "exterior Trim glue" If it's the little red emblems on the sail panels RTV great.||||reg||1
+Z||000004||Monkeyman||08-13-2000||01:45 AM||||If it's the emblems on the notchback sail panels, just grind/sand the raised part off and repaint.  I have mine almost done.  Just a little more sanding and some spray paint and I'll be ready for some new sail panels (from Paul McKibben, of course).||||reg||1
+Z||000005||Fformula88||08-13-2000||12:22 PM||||We glued a new one onto my dads 87 sail panel with an Epoxy that is supposed to be weather tolerant.  So far after 2 years it is still on there.  We got it new from the Fiero Store and I cannot believe how good the new ones look.  Really bright red!  I am going to replace the faded ones on my Formula soon too!||||reg||1

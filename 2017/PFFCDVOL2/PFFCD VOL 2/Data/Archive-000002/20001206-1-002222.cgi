@@ -1,0 +1,6 @@
+A||||4||MooCow||Should I buy this Fiero??||||4||
+Z||000000||MooCow||05-16-2000||09:33 AM||||Hey I have my parents convinced that I can get a Fiero and keep my Truck incase the Fiero dies on me and for winter driving.  <BR>I have found a Fiero in Illionous. It is 87 GT power everything, and it is metallic red.  It has 92,500 miles on it with an auto.  The guy is asking $3,000 which is the max that I can go. The car was at The Gateway Fiero Club's annual show with the for sale sign up if anyone seen it there let me know.<BR>So what should I do get it or just wait longer??<BR>                                  Thanks Ken||||reg||4
+Z||000001||Gold-86SE||05-16-2000||09:58 AM||||<BR>If it is well taken care of and in good shape and you like it, we all chant.<P>BUY IT! BUY IT! BUY IT! BUY IT! BUY IT! BUY IT! <P>||||reg||1
+Z||000002||Homicidal||05-16-2000||04:51 PM||||Sounds like a gorgeous Fiero!  Get it!||||reg||1
+Z||000003||Fformula88||05-16-2000||09:37 PM||||BUY BUY BUY BUY BUY BUY BUY BUY BUY BUY BUY<P>Of course, be sure it runs well, the tranny shifts well etc etc.  If its in good shape, get it.  That sounds like a good price for an 87 GT!||||reg||1
+Z||000004||Boodoggin||05-16-2000||11:51 PM||||Hey Moocow, Glad your still thinking about a fiero.  Hope it works out for you.  Let me know what you decide.<BR>||||reg||10

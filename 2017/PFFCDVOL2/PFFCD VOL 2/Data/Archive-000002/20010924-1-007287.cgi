@@ -1,0 +1,2 @@
+A||N||0||KissMySSFiero||Swap Meets In NW Indiana???||||1||
+Z||000000||KissMySSFiero||05-07-2001||10:44 PM||||Does anyone know of any swap meets coming up soon in the NW Indiana or chicago area.  <BR>TIA<P>------------------<BR>JOEJOE Aol:SSFiero <P>88FORMULA<BR>     <A HREF="mailto:SSFiero@Aol.com">SSFiero@Aol.com</A>      <P>     <IMG SRC="http://www.fiero.nl/uploads/FORUMSIG1.jpg">          <BR>"When in Doubt..Whip it out!!"||||reg||1

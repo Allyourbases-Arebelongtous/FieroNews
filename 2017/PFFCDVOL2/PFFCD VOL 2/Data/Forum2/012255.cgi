@@ -1,0 +1,3 @@
+A||N||1||John E. Rowlett||ARIZONA SHOP||||5||
+Z||000000||John E. Rowlett||07-23-2001||03:45 PM||||ANYBODY OUT THERE KNOW OF ANY GOOD FIERO SHOPS IN PHOENIX, AZ? aLSO IS THERE ANY FIERO PEOPLE IN PHOENIX MEETING ON A REGULAR BASIS?<BR>jOHN R<P>------------------<BR>||||reg||5
+Z||000001||Steve Normington||07-23-2001||08:30 PM||||Arizona Fiero Club meets about once a month.  Saturday July 28th is the next meeting on 77th Avenue and Bell road. In August, they should be meeting in East Mesa. Email me if you want a copy of the latest newsletter. Don't know about shops, I do all my own work (that's why it doesn't run).<BR>||||reg||1

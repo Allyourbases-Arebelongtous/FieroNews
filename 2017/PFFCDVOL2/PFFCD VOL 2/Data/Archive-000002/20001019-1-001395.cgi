@@ -1,0 +1,8 @@
+A||||6||ChadMan||SD4 Convertible Pix (hey Eric!)||||1||
+Z||000000||ChadMan||02-29-2000||03:00 PM||||I'm about to post some pix from the 1996 FOCOA show.  I'll post them in separate threads for the ISP-challenged.<P>This is for all you 84-86 notch fans.<BR> <IMG SRC="http://www.fiero.nl/uploads/conv841.jpg"> <P>Check out his interior - leather & wood everywhere.<BR> <IMG SRC="http://www.fiero.nl/uploads/conv842.jpg"> <P>And out back, a Super Duty 4-banger.<BR> <IMG SRC="http://www.fiero.nl/uploads/conv843.jpg"> <P>I never got to talk to the owner, and I've never seen this car again.  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><BR>||||reg||1
+Z||000001||Eric||02-29-2000||04:16 PM||||So many people would mistake that for a Ferrari.  Looks good.||||reg||7
+Z||000002||88 Fiero||02-29-2000||05:58 PM||||mistake for a Ferrari...your kidding right??||||reg||1
+Z||000003||Formula||02-29-2000||07:08 PM||||an older ferrari 88.  Looks good though.||||reg||1
+Z||000004||87ECO5||02-29-2000||08:28 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Eric:<BR><B>So many people would mistake that for a Ferrari.  Looks good.</B><HR></BLOCKQUOTE><P><B>Eric</B> - That's exactly what I thought the second I saw the picture.<P>"Hey, that looks like a Ferrari xxxxx.  Darnit, what's it called?  The one in the movie 'Wierd Science' opposite the Porsche 928."<P>Which Ferrari is it?<P>||||reg||1
+Z||000005||stimpy||02-29-2000||09:32 PM||||Mondial. Glad to be of assistance.||||reg||1
+Z||000006||DJRice||03-01-2000||09:10 AM||||Those rims and the side scoops enhance the Ferrari look.  ||||reg||1

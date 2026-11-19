@@ -1,0 +1,5 @@
+A||||3||99BlackZ||Maybe stupid ?, but. . .||||7||
+Z||000000||99BlackZ||02-26-2001||10:24 PM||||Can you put pictures on these messages without loading PIP?<BR>If so, how?<BR>I never have bothered with other sites that I've been to, but lately I've been thinking I might.<BR>Thanks in advance||||reg||7
+Z||000001||overlord||02-26-2001||10:37 PM||||yes, you just need a webserver. either your own a a free one. the free one is cheaper  <IMG SRC="http://www.fiero.nl/forum/smile.gif">.<BR>||||reg||1
+Z||000002||Tigger||02-27-2001||08:37 AM||||Some free web servers are getting picky when you try to link an image outside their service.  Usually you'll see the logo for "Angelfire" etc. instead.  If that happens just use the PIP.||||reg||1
+Z||000003||TheFiero64||02-27-2001||10:01 AM||||If you have the pics online just add [img]and[/img] around the URL<P>------------------<BR>Josh<BR>88 Coupe V6<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif">   <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||1

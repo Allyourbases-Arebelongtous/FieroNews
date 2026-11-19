@@ -1,0 +1,5 @@
+A||||3||ds21||Body style update?||||7||
+Z||000000||ds21||08-14-2001||04:23 PM||||I have a 85GT and was wondering what's involved in up dateing to the fastback body style ie:any special tools needed, can it be done in an afternoon?...Thanks||||reg||7
+Z||000001||Old Lar||08-14-2001||04:45 PM||||Look up the Fiero Fanatics of Wisconsin for help.  If you done it before, it probably could be done in an afternoon.  No real "special" tools.  Need to take out the interior to access the bolts that hold the top on, and unscrew the bolts that hold the clip to the body.   The clip should come apart at the seam across the roof.  If you haven't done it before, locating all the fasteners that hold the car together can be a challange. You'll need to change the deck lid for the fastback style and the vents.||||reg||1
+Z||000002||ds21||08-14-2001||07:31 PM||||That's what I needed to know. Thanks for the info.||||reg||10
+Z||000003||isthiswhereiputausername?||08-14-2001||08:18 PM||||heres a site with a few photos..<BR> <A HREF="http://fiero.net/showroom/fastback.html" TARGET=_blank>http://fiero.net/showroom/fastback.html</A> ||||reg||1

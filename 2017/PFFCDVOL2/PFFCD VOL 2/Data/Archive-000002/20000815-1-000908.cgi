@@ -1,0 +1,2 @@
+A||||0||deceler8||Goodies in new Harbor Freight catalog||||10||
+Z||000000||deceler8||01-05-2000||01:18 PM||||They seem to have more neat stuff than in previous catalogs...<P>Ball Joint Press Set...$29.99<BR>Strut Alignment Level...$29.99<BR>Fan Belt Tensioner...$2.99<BR>Short Finder...$17.99<P>I don't own Harbor Freight shares and I'm not spamming them...just every now and then they have stuff like this that catches your interest.||||reg||10

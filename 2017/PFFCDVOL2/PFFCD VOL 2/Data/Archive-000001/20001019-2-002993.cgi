@@ -1,0 +1,7 @@
+A||N||5||Haze_Performance||Speaker Size???||||5||
+Z||000000||Haze_Performance||04-02-2000||03:38 AM||||Can someone tell me what size speakers are in the headrests of the Fiero?? I was thinking maybe four 3 1/2" ( two in each seat??)    Thanks  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> <BR>||||reg||5
+Z||000001||Standard||04-02-2000||03:55 AM||||I think there's 2 3" round speakers in each seat.  I'm sure you can stuff anything in there that will fit, they're just held in by some foam.  Have to tear the seat down to get to them, tho.||||reg||1
+Z||000002||Haze_Performance||04-02-2000||04:11 AM||||there are zippers on the bottom back of the seats... are there hog rings too?||||reg||1
+Z||000003||Homicidal||04-02-2000||04:48 AM||||I work at Sears, the size ( I think) was 4X6, I THINK.  I'll check whe I work tomorrow and let you know for SURE.  I know we carry the size in Pioneer brand speakers.  ||||reg||1
+Z||000004||batboy||04-02-2000||09:17 AM||||The later model Fieros used 4" X 6" in the inner sail panel. I think Haze means the older seat headrest style. I've heard from more than one person that 3-1/2" speakers will work. You have to remove the whole seat back cover. Not for the timid, you may consider letting an upholstery shop do it, although it can be done at home, if you're careful and have the right tools.||||reg||1
+Z||000005||Monkeyman||04-02-2000||09:41 AM||||3.5" from the factory.  4x6s in the sail panels on '86 and later.  4x10s in the dash of all of them.||||reg||1

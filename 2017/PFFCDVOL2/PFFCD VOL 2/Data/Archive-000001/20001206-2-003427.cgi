@@ -1,0 +1,3 @@
+A||||1||Phoenix||Body panel fastners||||1||
+Z||000000||Phoenix||04-28-2000||10:16 AM||||I'm to the point now where I am starting to put all the new aero body parts on my coupe and have found all of the fastners in the P22 parts book except the "pop rivits" that are used on the bottom of the rockers and fenders.  Has anyone ordered these from a GM dealer and know the part# ? (these are not the 20664092 fastners)<P>TIA||||reg||1
+Z||000001||Phil||04-28-2000||11:53 AM||||Got mine (1/4" pop rivets)at my local auto paint supply store. Be advised you need a special rivet gun if you use the rivets. There are other types of 1/4 devises available at hardware and paint supply places||||reg||1

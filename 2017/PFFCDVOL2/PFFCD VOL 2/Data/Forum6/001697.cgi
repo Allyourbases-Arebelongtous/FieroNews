@@ -1,0 +1,6 @@
+A||||4||JohnnyK||Have to complain to someone/something...||||1||
+Z||000000||JohnnyK||03-22-2001||03:42 PM||||Woke up at six to inflate my parents tires (car went flat) I felt fine. Woke up at 8, and heaved everywhere...  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> I need a stinkin drink, but if i have one, she comes flying back up. I just "refilled" a bottle of gatorade in about .25 of a second. It was amazing||||reg||1
+Z||000001||FieroJoe||03-22-2001||10:25 PM||||sounds yummy.  reading that post just made my day... <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif"><P>------------------<BR>AIM: Snowboarder0311<BR>87 Coupe 5sp. - big resto in progress<BR>  <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||10
+Z||000002||JohnnyK||03-23-2001||01:05 AM||||Well, who am I not to share?  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||Formula88||03-23-2001||01:21 PM||||Ok, reading that post, while eating Chinese take-out has got to win me a prize for worst timing!  <IMG SRC="http://www.fiero.nl/forum/tongue.gif">||||reg||11
+Z||000004||JohnnyK||03-23-2001||01:46 PM||||Chinese take out? Your probably going to feel like I did!  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> Funny.. I feel fine today.. Must have been that damn Wendy's..  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

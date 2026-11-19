@@ -1,0 +1,4 @@
+A||||2||My7Fieros||Someone please advise of a Fiero recall website||||2||
+Z||000000||My7Fieros||06-28-2000||11:34 PM||||Ok, with all these Fieros, Im in need of somewhere in which I can find ALL of the recalls....Im sure some of mine havnt been done, Thanx! Brian||||reg||2
+Z||000001||My7Fieros||06-28-2000||11:54 PM||||....besides that 800pmcares phone number. Id like a list of recalls on a website if poss. Thanx again.<BR>||||reg||1
+Z||000002||Coconut||06-29-2000||12:08 AM||||I don't know if you've been here, but I hope this helps..... <A HREF="http://www.geocities.com/MotorCity/1930/frame.html" TARGET=_blank>http://www.geocities.com/MotorCity/1930/frame.html</A>     There is a link for recalls on this page. <P>Cruise On,<P>Larry<P>[This message has been edited by Coconut (edited 06-29-2000).]<p>[This message has been edited by Coconut (edited 06-29-2000).]||||reg||7

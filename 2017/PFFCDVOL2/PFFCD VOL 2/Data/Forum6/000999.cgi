@@ -1,0 +1,3 @@
+A||||1||loafer87gt||Looks like were stuck with the Liberals again...||||1||
+Z||000000||loafer87gt||11-27-2000||09:47 PM||||just listening to the election results, and it looks like were stuck with ol' Jean Creten another three years. Oh joy.||||reg||1
+Z||000001||fierosound||11-28-2000||08:16 PM||||Listening to Cretien today, he was saying the Liberals will be around for another % YEARS before the next election.  Sounds like they plan to hang in there unitl they have to call an election by law...<P>We're also stuck with Joke Lark (Joe Clark) as well...<p>[This message has been edited by fierosound (edited 11-28-2000).]||||reg||1

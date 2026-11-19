@@ -1,0 +1,2 @@
+A||N||0||Fiero-Tex||I need parking brake Help!||||9||
+Z||000000||Fiero-Tex||05-12-2001||03:41 PM||||I recently did a rebuild on both rear calipers on my 87 GT.  The calipers work great except one thing.  When the parking brake is pulled it seems to release the brake and when it is released it grabs.  Did I put the pistons back into the wrong calipers?  Has anyone ever experienced this?<P>------------------<BR>||||reg||9

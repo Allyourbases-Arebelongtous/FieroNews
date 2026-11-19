@@ -1,0 +1,4 @@
+A||||2||Gokart||Color code for red 87 GT?
+Z||000000||Gokart||05-25-99||08:15 PM||||Does anyone know the exact color code for dark red 87 GT's? The info on the inside of door was either painted over or removed. Would like to have some touch up on hand. TIA
+Z||000001||ezsurf||05-25-99||10:00 PM||||Gokart,<br>The most common GM color red is paint code 8774.  If you've seen a euro Lumina in bright red cape, this is most likely paint code 9025.  Code 8774 has been around for a long time.  My car is dark red as well.  The paint code sticker is supposed to be in the trunk, although mine is missing.  Take a trip to a local body shop and flip through their color code books.  There are only so many colors of red for a given model year.
+Z||000002||Gokart||06-07-99||08:21 PM||||Found out today what the exact color code is for Fiero GTs with dark red metallic=9077. Unfortunatly not made in a dupli-color touch size, only in 5.oz cans.

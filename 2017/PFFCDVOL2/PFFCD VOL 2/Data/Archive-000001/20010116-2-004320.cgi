@@ -1,0 +1,2 @@
+A||||0||wkayl||After-market radio, stock sub woofer||||1||
+Z||000000||wkayl||06-16-2000||11:53 PM||||Here is a link to wiring in your new radio.  I installed a radio and smoked the power antenna circuit before I found this site.  I now have a different radio installed and this works.<BR> <A HREF="http://members.xoom.com/fierov6/OSG/mod.radio.html" TARGET=_blank>http://members.xoom.com/fierov6/OSG/mod.radio.html</A> ||||reg||1

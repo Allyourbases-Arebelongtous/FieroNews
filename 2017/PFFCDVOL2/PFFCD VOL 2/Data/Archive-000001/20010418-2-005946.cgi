@@ -1,0 +1,6 @@
+A||N||4||DaveL||Posting Picture||||1||
+Z||000000||DaveL||09-28-2000||06:22 PM||||How do I post a picture of my Ferraro?||||reg||1
+Z||000001||2xsess||09-29-2000||01:31 AM||||What is a Ferraro?<P>You  need to download the picture posting software. Go to the bottom of the page and click on the big blue button. Then you just download and follow the online manual.<BR>Good Luck, and I hope to see a pic soon!<P>------------------<BR>Jeff<BR>85GT||||reg||1
+Z||000002||Fearless Freep||09-29-2000||01:36 AM||||ferraro.....ferraro...Hmmmmmm...he wasnt that the chick who ran for president a few years back? Had a um..tax problem if I can recall?  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000003||rockcrawl||09-29-2000||02:18 AM||||Hey, I've got a Ferraro, It's a Fiero that looks like a Ferrari!<P>------------------<BR>Jon Lagler<BR>'86 GT 3800 (for sale)<BR>'87 GT (noisey 2.8)<BR>4.9 liter V8 Testarossa Spyder (under construction)||||reg||10
+Z||000004||DaveL||09-29-2000||08:22 AM||||When I first bought the Fiero, I ended up doing quite a bit of work to it to get it into driveable condition. Talked about it so much, that some of my friends started going the other way when they saw me coming...came up with the term Ferraro" a bastardization of Ferrari and Fiero, nothing to do with Geraldine. Better than Fieri||||reg||10

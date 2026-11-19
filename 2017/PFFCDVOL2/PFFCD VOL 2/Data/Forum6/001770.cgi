@@ -1,0 +1,6 @@
+A||||4||fierojunky||Super Sized Rice||||6||
+Z||000000||fierojunky||04-03-2001||01:25 PM||||Check this out - extra rice <A HREF="http://www.zr2.com/ubb/Forum9/HTML/000490.html" TARGET=_blank>http://www.zr2.com/ubb/Forum9/HTML/000490.html</A>   <IMG SRC="http://www.fiero.nl/forum/eek.gif">||||reg||6
+Z||000001||Greg Piet||04-03-2001||03:10 PM||||From the RX-7 Forum<P>R otary<BR>I nternal<BR>C ombustion<BR>E ngine  (or engineering)<P>------------------<BR>SCCA Region 72 Race Director<BR>#47 CSP<BR>  <IMG SRC="http://www.physics.unlv.edu/~gregpiet/Jan1617s.jpg">   <BR>Our lady of blessed acceleration dont fail me now!||||reg||1
+Z||000002||btoth||04-03-2001||06:55 PM||||I would happily take a 3rd gen. RX-7 any day!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||beer_stud_21||04-04-2001||04:43 PM||||the 3rd gen are nice, but I also like the looks of the first gen.  Especially the 80-84.  Or is it 81-84 not sure.  They have nice interiors also.<P>-marlin||||reg||1
+Z||000004||KRMFiero||04-04-2001||05:50 PM||||how hard would it be to adapt a RX-7 engine into a fiero?  i know it would fit size wize, them engines are small...  300 hp with a redline of like 7k would be fun<P>Kyle||||reg||1

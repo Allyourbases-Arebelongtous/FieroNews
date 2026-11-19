@@ -1,0 +1,4 @@
+A||N||2||DaRkLoRD||hahaha!!!!||||10||
+Z||000000||DaRkLoRD||10-24-2000||02:16 AM|||| <A HREF="http://www.delphion.com/details?pn=US05523741__" TARGET=_blank>http://www.delphion.com/details?pn=US05523741__</A> <P>wow. I wish I had one of those.. hehehe  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||10
+Z||000001||frontal lobe||10-24-2000||02:44 PM||||Shouldn't it be hohoho?||||reg||1
+Z||000002||DaRkLoRD||10-24-2000||03:36 PM||||lol..<P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||10

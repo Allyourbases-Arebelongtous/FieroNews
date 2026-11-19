@@ -1,0 +1,3 @@
+A||N||1||87ECO5||Visited tgowens and the Fiero Shop in Richmond, CA!||||14||
+Z||000000||87ECO5||03-20-2001||07:20 PM||||Took a brief vacation to San Francisco this past weekend.  While there, I had an opportunity to visit Terry and George's shop.<P>Quite an amazing operation they've got there!  Unfortunately, I didn't get to see George's amazing green Fiero.<P>Terry - it was <B>GREAT</B> to see you, pal!  Looking forward to seeing you at Ed's place in April!  Thanks for letting me come by ... and THANK YOU VERY MUCH FOR THE PARTS!!!!!||||reg||14
+Z||000001||tgowens||03-21-2001||01:32 AM||||Scott, it was great to see you again. I'm glad you had a chance to stop by the shop and it was a pleasure meeting your Mom and Dad.......take care and i'll see ya soon......||||reg||1

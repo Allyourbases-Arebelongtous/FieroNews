@@ -1,0 +1,5 @@
+A||||3||Pyric||What the....????.. V12 fiero for $850||||1||
+Z||000000||Pyric||12-21-2001||04:05 PM|||| <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=599540269&r=0&t=0" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=599540269&r=0&t=0</A> <P>Um... does that say 12 cylinders under the picture?<P>Where did he get that?<BR> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>||||reg||1
+Z||000001||Ferrari_cdn||12-21-2001||04:08 PM||||He did say it was a 2.5L 4 cyl in the description, so apparently it was a typo.  LOL<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/ICEFierosig.gif"> AIM: CanadianFiero||||reg||7
+Z||000002||Pyric||12-21-2001||04:17 PM||||Crap, I was wondering how he shoe horned a 12 in there.  <IMG SRC="http://www.fiero.nl/forum/tongue.gif">||||reg||1
+Z||000003||Fiero*101||12-21-2001||07:49 PM||||Hahaha actually it said 2.4<BR>but its still funny i bet that guy feels like an a$$<P> <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>Fiero*101<BR>Gold 86 SE 2M6<BR>      <IMG SRC="http://www.fiero.nl/uploads/mycar101.jpg"> ||||reg||1

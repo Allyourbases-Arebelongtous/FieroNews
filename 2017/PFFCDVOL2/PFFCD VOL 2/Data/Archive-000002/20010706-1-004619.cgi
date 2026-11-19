@@ -1,0 +1,7 @@
+A||||5||skitime||Where can I get this cool spoiler?||||1||
+Z||000000||skitime||12-01-2000||10:22 PM||||Where can I get this cool spoiler?  I found it at this site:  <A HREF="http://www.motorcities.com/contents/99L68234211992.html" TARGET=_blank>http://www.motorcities.com/contents/99L68234211992.html</A> <p>[This message has been edited by skitime (edited 12-01-2000).]||||reg||1
+Z||000001||skitime||12-01-2000||10:36 PM|||| <IMG SRC="http://www.fiero.nl/uploads/Cool_Spoiler_Front_8.JPG"> <P> <IMG SRC="http://www.fiero.nl/uploads/Cool_Spoiler_Side_3.JPG"> <P><p>[This message has been edited by skitime (edited 12-01-2000).]||||reg||1
+Z||000002||Monkeyman||12-01-2000||11:14 PM||||That's Lawrences' car.  If you check out his site,  I think he describes how he made it (yes, it's home made).  Basically it's a stock air dam cut in half and flipped upside down.  Looks nice, huh?||||reg||1
+Z||000003||skitime||12-01-2000||11:16 PM||||Homemade, now that really nice. Where is his web site?||||reg||1
+Z||000004||DaRkLoRD||12-02-2000||12:08 AM|||| <A HREF="http://www.webelectricmagazine.com" TARGET=_blank>http://www.webelectricmagazine.com</A>  I think<P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||1
+Z||000005||skitime||12-02-2000||08:48 AM||||I checked out his site. Lots of interesting stuff, several cool electronic things useful for the Fiero but I did not find any information on the spoiler. Any other ideas?||||reg||1

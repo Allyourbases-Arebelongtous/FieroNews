@@ -1,0 +1,4 @@
+A||||2||Posthumane||Cylinder head||||1||
+Z||000000||Posthumane||12-22-2001||05:27 PM||||Yesterday my car decided to start rolling down a very gentle slope while in first gear with the engine off, went through a litre of oil in 4 days, and is leaking coolant. I'm thinking either the head gasket blew out, or the cylinder head cracked. I couldn't get under the car to see exactly where the coolant was coming from (a little snowy outside), but I don't think it's anything easily fixable. Now I have to decide whether I want to fix this or if I should just leave it until i find a better engine to swap into it.||||reg||1
+Z||000001||yo_sweet||12-22-2001||05:37 PM||||if you need a head and it's a 4yl illg ive you one for shipping<BR>!!||||reg||1
+Z||000002||Posthumane||12-22-2001||06:07 PM||||Thanks for the offer, but if I find out it's the head that's cracked, and not just the gasket, I'm just gonna go the engine swap route.||||reg||1

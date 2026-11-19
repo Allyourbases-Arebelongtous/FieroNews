@@ -1,0 +1,2 @@
+A||||0||Standard||Woo Hoo!!!||||1||
+Z||000000||Standard||10-07-2000||10:43 AM||||1,000th post!!  I feel like such a grizzled veteran  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Mike -<BR>Black 86.5 GT 5 Spd, 151,000 miles and counting!         <IMG SRC="http://www.fiero.nl/uploads/BURNOUT.gif">      <BR>Red 84 Sport Coupe - winter donut maker   <IMG SRC="http://www.fiero.nl/uploads/asthanos.gif"> ||||reg||1

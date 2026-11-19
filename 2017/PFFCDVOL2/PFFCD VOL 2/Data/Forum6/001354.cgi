@@ -1,0 +1,4 @@
+A||||2||Tigger||A "John Dear" letter?||||5||
+Z||000000||Tigger||02-01-2001||08:33 AM||||Whoa, check my email, and I get an MSN greeting for "John" which he recieved, and then he forwarded to me.<P><A HREF="http://cardrecipient.msn.com/v/fh7yZ33q6e" TARGET=_blank>Fwd: Missing you too</A><P>I have no idea how or why this guy would want to forward it to me?  Talk about wierd.   <IMG SRC="http://www.fiero.nl/forum/confused.gif"><P>------------------<BR>T-T-F-N, Ta Ta For Now!<BR>  <IMG SRC="http://www.fiero.nl/uploads/tiggerblue3.gif"> ||||reg||5
+Z||000001||GT Bastard||02-01-2001||01:21 PM||||Geez, that's a pretty personal letter...  Kinda makes me wanna cry!  She spelled "believe" incorrectly, but oh well.  J/K<BR>I wonder why they separated??????????||||reg||1
+Z||000002||Philphine||02-02-2001||02:23 AM||||so what's the deal? he misses his lawn mower or something?||||reg||1

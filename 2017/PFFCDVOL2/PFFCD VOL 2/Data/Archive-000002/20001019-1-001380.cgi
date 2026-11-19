@@ -1,0 +1,7 @@
+A||||5||DXR_DAD||COME IN BRUCE!!||||5||
+Z||000000||DXR_DAD||02-27-2000||05:03 PM||||Bruce you out there??  I lost your E-mail. Got new computer DXR_MOM did the hook-up and I can't find it.  Anyway are you going to make it to the "BIG SHOW" in Modesto?||||reg||5
+Z||000001||Monkeyman||02-27-2000||05:21 PM||||Let's see if I have this correct.  "Got new computer DXR_MOM did the hook-up and I can't find it."  What did she hook it up to?  The car?  How can you lose a computer?||||reg||1
+Z||000002||DXR_DAD||02-27-2000||06:19 PM||||Monkeyman you are a funny dude  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  Not the computer. I lost his e-mail address. I'm not to good with the computer stuff. I leave most of it to DXR_MOM & DXR_WILL there the    .comer's in the family. But I'm learning. And I wish she would hook it up to my fiero???  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><p>[This message has been edited by DXR_DAD (edited 02-27-2000).]||||reg||1
+Z||000003||terryk||02-27-2000||07:34 PM||||When and where is the show in Modesto? I'm up by Auburn. <P>Is anyone invited?||||reg||1
+Z||000004||DXR_DAD||02-27-2000||08:24 PM||||Terryk see "Car show in the making" this forum.<BR>BIG O Tire Store<BR>1901 Prescott Road<BR>Modesto, CA<P>This is a grand opening from 10AM to 3PM<BR>Come one, Come all!!!!||||reg||1
+Z||000005||bHooper||02-27-2000||09:05 PM||||Dave?... What are you doing, Dave?... I'm afraid, Dave....||||reg||1

@@ -1,0 +1,5 @@
+A||||3||fiero56||sound on startup||||5
+Z||000000||fiero56||10-10-1999||12:07 AM||||Ok, here's my question,<BR>I have an '88 Formula that I bough from the first owner earlier this year.  This is my first Fiero, so I don't know all the little "Fiero quircks", but when I start it in the morning, their is this sucking sound, like you hear at the end of a vacum cleaner hose.  It goes away after the car has warmed up and doesn't come back until it's started cold again.  It sounds like it's coming from under the rear decklid on the drivers side, near the air filter housing, but I have no idea what it could be.  Doesn't seem to affect perofmance.  Is this normal to hear on cold startup?  It's always done this, but now I just wonder what it is.||||reg||5
+Z||000001||Shiner||10-10-1999||12:12 AM||||I have 2 fieros, one an '87 GT and the other an '84 Sport Coupe.  I have owned my SC for awhile now... I STILL don't know all the fiero quirks!  ||||reg||6
+Z||000002||mwbackus||10-10-1999||12:25 AM||||Yeah, thats pretty much normal.||||reg||1
+Z||000003||Formula||10-10-1999||10:28 AM||||mine does that too. put a k&N and listen to it suck!||||reg||1

@@ -1,0 +1,6 @@
+A||N||4||bHooper||need help finding a good Free Clip art web site||||1||
+Z||000000||bHooper||08-12-2001||02:35 PM||||i have been trying to find a good clip art web site, anyone have anything?  all the ones i've found have been very annoying.<P>thanks!<P><P>------------------<BR>hoop<BR><FONT SIZE="3"><FONT COLOR="red"><B>Red</B></FONT></FONT> 86 GT 5 speed<BR><FONT SIZE="3"><B>Black</B></FONT> <u>86 SE Automatic</u>||||reg||1
+Z||000001||flyntus||08-12-2001||02:41 PM||||Hoop,<BR>A lot depends on what type of clip art you are looking for.  Start search at <A HREF="http://www.google.com" TARGET=_blank>www.google.com</A> ||||reg||1
+Z||000002||Songman||08-12-2001||03:45 PM||||Make your own... Comes out much better that way..<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||14
+Z||000003||bHooper||08-12-2001||07:37 PM||||thanks guys!  we actually found a microsoft sight right after posting here.<P>hoop||||reg||1
+Z||000004||SteveJ||08-12-2001||09:09 PM|||| <A HREF="http://cgl.microsoft.com/clipgallerylive/default.asp?nEULA=1&nInterface=0" TARGET=_blank>http://cgl.microsoft.com/clipgallerylive/default.asp?nEULA=1&nInterface=0</A> ||||reg||1

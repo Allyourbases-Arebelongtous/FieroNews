@@ -1,0 +1,6 @@
+A||||4||Jncomutt||My graduation cap||||1||
+Z||000000||Jncomutt||10-21-2001||05:28 PM||||I never really thought about posting this, but my friend asked to see it, so, I stuck the thing in my scanner and clicked scan.<P>Well here it is, my cap from when I graduated HS a few months ago<P> <IMG SRC="http://www.fiero.nl/uploads/Cap.jpg"> ||||reg||1
+Z||000001||FieroMontreal||10-21-2001||06:07 PM||||OMG  thats soo sweet!||||reg||1
+Z||000002||88CoupeV6||10-21-2001||06:13 PM||||Cool Idea. Did you get a lot of comments?<P>------------------<BR>Josh<BR>   <IMG SRC="http://www.fiero.nl/uploads/newsig.jpg">    <BR>:D  <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||7
+Z||000003||Pheagey||10-21-2001||07:20 PM||||nice.<P>------------------<BR>Pheagey Grean<BR>"The time to talk is over. The time for diplomacy is over, the time for bluffing is over. The time to kick some f!@king as$ is now."<P>'88 coupe 'Hotwheels'<P>Http://www.LithiumEffects.com/car.html<P>Kills: '97 Civic Auto,<BR>Killed by: -||||reg||6
+Z||000004||Jncomutt||10-21-2001||08:10 PM||||Yea, everyone loved it!  Especially the broken cotton ball for smoke..  'Fiero Red' is what everyone calls my car.  Only to follow my previous car, inwhich they called Fiero Green.||||reg||1

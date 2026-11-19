@@ -1,0 +1,6 @@
+A||||4||batboy||Chat with Ogre||||1||
+Z||000000||batboy||06-10-2000||05:52 PM||||If Orgre is anything like me, and I know in some respects he is (and thankfully, he's nothing like me in other ways), he's going to be bored senseless doing nothing in the hospital. He already mentioned that he's getting restless, and like me, he don't like network TV much. I say, let's set up times to chat in real time with him, at least when he's up to it. Maybe he can post to this topic when he's available for chat, so we can go to the chat room and "visit" with him. It would be a good way to ask him Fiero questions directly too. Kind of a online Fiero support line, plus it will pass the time for him too. Whatcha think?||||reg||1
+Z||000001||GT Bastard||06-10-2000||08:40 PM||||Sounds like a good idea... Too bad I'll be at work till midnight!||||reg||1
+Z||000002||blayde8||06-10-2000||11:13 PM||||I'm up to it, I need some questions answered.||||reg||14
+Z||000003||theogre||06-11-2000||12:12 AM||||might could do that. never know when I'll be on tho. I expect I may be sleeping allot this week wether I want to or not. On the off weeks I probly won't sleep as much but I still don't know when I'll get on. I should be home by then but still pretty bored. 12 weeks of this ---- they tell me.||||reg||1
+Z||000004||theogre||06-11-2000||09:47 PM||||the ogre is online now.||||reg||1

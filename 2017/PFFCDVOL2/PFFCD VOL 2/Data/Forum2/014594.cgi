@@ -1,0 +1,4 @@
+A||||2||mrossum||4 cyl stroker motor||||10||
+Z||000000||mrossum||10-20-2001||01:07 AM||||for those of you interested in duke performance, i finally started my stroker motor today. ran it on the engine stand for about 45 minutes. another couple hours on the stand, and then it will go into my 5 speed car. runs GREAT. sounds quite a bit better than i expected. might be faster than i thought. will let you know specifics after i get it into the car and broke in. plan to take to carlsbad raceway and run it a few passes down the strip for curiosity sake...||||reg||10
+Z||000001||Raydar||10-20-2001||12:38 PM||||Is this the one with the Chevy crankshaft? *Do* keep us posted. Good luck!<P>------------------<BR>Raydar - aka Steve<BR><FONT SIZE="1"><BR>Black 88 Formula.<BR>Red 88 Duke coupe. "The Project" <BR>88 Formula parts car. "The Donor"<BR></FONT>||||reg||14
+Z||000002||baldlobo||10-20-2001||01:11 PM||||as radar said "keep us posted"||||reg||1

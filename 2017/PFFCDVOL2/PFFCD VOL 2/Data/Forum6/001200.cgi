@@ -1,0 +1,7 @@
+A||||5||Cheever2||SCCA people have a forum now!||||6||
+Z||000000||Cheever2||01-04-2001||11:01 PM||||PFF will always be my home, but I have joined this new forum... <A HREF="http://www.sccaforums.com/" TARGET=_blank>http://www.sccaforums.com/</A> <BR>-<BR>My name there is the same as here.<P>Hope to see you there.<BR><P>------------------<BR><I>Chuck Hodges</I>||||reg||6
+Z||000001||Greg Piet||01-04-2001||11:07 PM||||Thanks Cheever!||||reg||1
+Z||000002||Notchit||01-05-2001||12:02 AM||||I like Pennock's better man, but i'll check the other out once in a while. thanks for informing us.<BR><P>------------------<BR>Seein Red<BR>'85 Fiero GT<BR>ICQ#: 56708070<BR> <IMG SRC="http://www.fiero.nl/uploads/Outside_side2(sml2).jpg"> <BR>_________________________||||reg||4
+Z||000003||Philphine||01-05-2001||02:24 AM||||joined. developing an interest in setting up a car for it. ||||reg||1
+Z||000004||Standard||01-05-2001||04:36 AM||||Sweet.  I'm gonna start autocrossing when I get my GT finished.  Of course, with the mods I want to make I'll get put in the street prepared class.. oh well.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/motor.gif">            <BR>AOL: LastMinuteBastrd<BR>AIM: Standard88||||reg||
+Z||000005||Cheever2||01-05-2001||08:14 PM||||Guess what kinda car I found on one of the Houston SCCA pages?... <A HREF="http://www.houscca.com/solo2/general_info1.html" TARGET=_blank>http://www.houscca.com/solo2/general_info1.html</A> <BR>-<BR>Does anybody know whose car that is?<BR>||||reg||6

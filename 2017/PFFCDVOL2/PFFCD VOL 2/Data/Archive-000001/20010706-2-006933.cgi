@@ -1,0 +1,2 @@
+A||||0||HYPTNOTiSE||Coilovers Now for sale in the Mall||||1||
+Z||000000||HYPTNOTiSE||11-23-2000||02:42 PM|||| <A HREF="http://www.fiero.nl/forum/Forum4/HTML/001796.html" TARGET=_blank>http://www.fiero.nl/forum/Forum4/HTML/001796.html</A> <BR> <IMG SRC="http://www.fiero.nl/uploads/BothGCfiero.jpg"> <BR>Thanks!<P>------------------<BR>       Mike LeCompte<BR>86 Fiero GT 3.2L w/ Nitrous<BR>   <IMG SRC="http://www.tcac.net/~daddyg/hypsig.gif">  <p>[This message has been edited by HYPTNOTiSE (edited 11-23-2000).]||||reg||1

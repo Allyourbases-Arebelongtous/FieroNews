@@ -1,0 +1,3 @@
+A||||1||NDFieroTN||Check out my 84 Indys||||6||
+Z||000000||NDFieroTN||05-16-2000||08:52 PM||||Check these out...What do you think? Thanks to FieroDave for all the restoration help!!! <A HREF="http://www.hometown.aol.com/cheerldad/myhomepage/auto.html" TARGET=_blank>www.hometown.aol.com/cheerldad/myhomepage/auto.html</A> ||||reg||6
+Z||000001||007DOUG||05-17-2000||12:11 AM||||Is FieroDave awesome or what. <P>I've had him redo the lether wrapped parts on three of my indys. One set of armrests & steering wheel was really bad. But they look like new now. <P>Highly recommended. Thanx Dave||||reg||14

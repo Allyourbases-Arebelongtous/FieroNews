@@ -1,0 +1,2 @@
+A||||0||MontanaFiero||These are Hillarious!||||10||
+Z||000000||MontanaFiero||02-09-2001||01:21 PM||||I found these on Pennock's corporate web site (FUN). I thought they were funny. <BR>Way to go cliff. I love sarcasm. <A HREF="http://www.pennock.nl/divxfaq.htm" TARGET=_blank>http://www.pennock.nl/divxfaq.htm</A>  <A HREF="http://www.pennock.nl/bgrules.htm" TARGET=_blank>http://www.pennock.nl/bgrules.htm</A> <P>------------------<BR>&gt;&gt; '87 Coupe 4 cyl, auto &lt;&lt;<BR>&gt;&gt; '86 SE V6, 4 speed- project &lt;&lt;||||reg||10

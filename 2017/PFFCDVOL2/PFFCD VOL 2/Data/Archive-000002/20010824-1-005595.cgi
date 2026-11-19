@@ -1,0 +1,2 @@
+A||N||0||fieroshop||Hood Vents and Bump Steer Kits||||7||
+Z||000000||fieroshop||02-02-2001||11:34 PM||||Well for those of you who have not seen our post on the mall, we have finally made the Fiero Shop hood vents and bump steer kits.<BR>It took a while but we finally made the long awaited kits. There are pictures on the mall.<BR>You can go there and see them as well as the price is posted there as well.<BR><P>------------------<BR> <BR>      <IMG SRC="http://www.fiero.nl/uploads/fieroshop_sig_1.gif"> ||||reg||7

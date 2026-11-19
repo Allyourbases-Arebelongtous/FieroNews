@@ -1,0 +1,3 @@
+A||||1||loafer87gt||Engine is making knocking sound :(||||1||
+Z||000000||loafer87gt||07-09-2000||05:15 PM||||Hey guys, I started my car this morning and it is making a really loud knocking /rattling noise. The oil pressure and temp are normal, and the car isn't blowing any smoke. Any ideas of what this could be? Up until now the car has been running fine.||||reg||1
+Z||000001||2birds||07-09-2000||10:19 PM||||Mine made a knocking sound, and it turned out to be a broken catalytic converter catalyst brick.  Beat on your exhaust sytem to check it.  You may have a loose exhaust hanger, too, causing the pipe to hit something.  Both sound a lot like rod knock.  ||||reg||1

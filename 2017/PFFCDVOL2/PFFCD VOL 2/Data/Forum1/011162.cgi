@@ -1,0 +1,3 @@
+A||||1||yo_sweet||white face cluster printouts||||1||
+Z||000000||yo_sweet||10-20-2001||02:17 PM||||could someone send me printouts of them please, one's with km/h perhaps or both mph and km/h that i can print out with soem kind of see through paper and stick them on my car<P>i posted before but didn't have much luck<P>thanks||||reg||1
+Z||000001||MinnGreenGT||10-20-2001||03:26 PM||||Well, I'd recommend running a search on "White Face Guages" or something to that extent.  AUS had posted some images quite awhile back-  ...just run the search and you'll find them!<P>------------------<BR>              <IMG SRC="http://www.fiero.nl/uploads/GreenGT6.gif"> ||||reg||1

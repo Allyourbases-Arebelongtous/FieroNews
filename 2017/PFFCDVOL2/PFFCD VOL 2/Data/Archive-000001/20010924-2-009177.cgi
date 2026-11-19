@@ -1,0 +1,4 @@
+A||||2||Tryxalon||Rpo Codes not on the lists. ||||1||
+Z||000000||Tryxalon||03-25-2001||02:48 PM||||Decided to decode the RPO's listed on my 85 SE (2.5L) <P>BUT ... of course I couldn't find everything.  I've looked at the sites that have RPO lists, but these are not listed anywhere. <P>I've double checked and I have the numbers written accurately. All the other codes were readily found, but these three elude me. <P> Any idea what these mean: <P>FX4 - (got to be the transaxle ratio ... but which one?) <P>P0N - <P>YT9 - <P><BR>||||reg||1
+Z||000001||baldlobo||03-25-2001||02:58 PM||||FX4 -RATIO, TRANSAXLE FINAL DRIVE 3.35<P>P0N - PONTIAC ASSEMBLY PLANT<P>YT9 - FISHER FURNISHED PARTS<P><BR>||||reg||1
+Z||000002||Tryxalon||03-25-2001||04:20 PM||||Thanks Baldlobo<P>"PON" - pontiac!  DUH????? <P>||||reg||1

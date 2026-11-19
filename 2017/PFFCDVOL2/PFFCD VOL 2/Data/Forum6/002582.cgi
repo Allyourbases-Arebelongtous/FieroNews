@@ -1,0 +1,2 @@
+A||||0||maryjane||Question for vader||||1||
+Z||000000||maryjane||07-07-2001||11:02 AM||||Your replies in some recent a/c threads indicate you may be involved professionally.<BR>I have a question on old cooling tower type<BR>sysems that will probably be rather lengthy and not of interest to most of the forum members. Any way to contact you? (anyone else<BR>that has expereince with these units, EMAIL me, I would appreciate it.<BR>janedone1@earthlink.net<BR>Thanks, Don & Jane<P>------------------<BR>84 SE 2.5<BR>not slow not fast-just halfast||||reg||1

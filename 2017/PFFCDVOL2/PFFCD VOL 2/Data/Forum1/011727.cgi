@@ -1,0 +1,4 @@
+A||||2||Philphine||bigger speaker in the seats?||||1||
+Z||000000||Philphine||11-09-2001||10:15 PM||||haven't taken mine apart yet to look, but would maybe 4" speakers fit without to much work or messing up the seat? i see more variety in the 4" size. ||||reg||1
+Z||000001||Spyder||11-09-2001||10:33 PM|||| <A HREF="http://www.mrmikes.com/addspeakers.htm" TARGET=_blank>http://www.mrmikes.com/addspeakers.htm</A> <BR>Check out this link, cool pics and should help. <BR>Looks like it would depend on depth and or size of the magnet.||||reg||1
+Z||000002||Oreif||11-09-2001||10:58 PM||||It only requires some minor trimming but a standard 4" woofer will fit. I've put a set of Polk Audio 2-ways in a friends car.<P>I should say we put a pair in each seat.<p>[This message has been edited by Oreif (edited 11-09-2001).]||||reg||1

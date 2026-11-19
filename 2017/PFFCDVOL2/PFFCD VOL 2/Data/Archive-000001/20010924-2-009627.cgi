@@ -1,0 +1,4 @@
+A||||2||SteveJ||Remote control locks||||5||
+Z||000000||SteveJ||04-13-2001||05:18 PM||||Anybody know a good site for trouble shooting remote control locks?||||reg||5
+Z||000001||rogergarrison||04-13-2001||06:06 PM||||On a Fiero? They never were offered from factory. Theyd have to be aftermarket. Have to see if you can locate a manufacturer name in the control box under the dash. Maybe someone else can give you idea where to start. Or find an accessory store that installs them.||||reg||1
+Z||000002||SteveJ||04-13-2001||06:20 PM||||Nope. Buick runs for Fiero parts. Fiero runs for Buick parts.<P>Transmission replacement:<BR>  <IMG SRC="http://www.fiero.nl/uploads/5.JPG">  <P>So if you fix the trany why not fix the remote too?<p>[This message has been edited by SteveJ (edited 04-13-2001).]||||reg||1

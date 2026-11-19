@@ -1,0 +1,4 @@
+A||||2||Wade87GT||Custom V-8 headers||||10||
+Z||000000||Wade87GT||02-04-2001||10:09 PM||||Check out this Guy's headers for his Fiero, and I thought the Ford GT40 had a "bundle of snakes"<BR> <A HREF="http://rodnclassics.com/emarsh/images/headers2.jpg" TARGET=_blank>http://rodnclassics.com/emarsh/images/headers2.jpg</A> <BR> <A HREF="http://rodnclassics.com/emarsh/" TARGET=_blank>http://rodnclassics.com/emarsh/</A> ||||reg||10
+Z||000001||Chris McDonald||02-05-2001||08:45 AM||||At some time in the future, somebody is going to get a nasty third degree burn off of those things.  ||||reg||1
+Z||000002||Raydar||02-05-2001||09:37 AM||||I believe I like the Sandersons better.   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Raydar - aka Steve<P>88 T-top Formula<BR>88 soon-to-be-V6 coupe||||reg||1

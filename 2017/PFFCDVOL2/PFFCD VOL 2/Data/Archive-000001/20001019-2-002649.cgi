@@ -1,0 +1,5 @@
+A||N||3||bHooper||transmision installation ||||5||
+Z||000000||bHooper||03-11-2000||11:08 AM||||is it possible to install a tranny (on the v-6 cars) without droping the cradle?  it looks awfull tight in there!<P>also, is there any prefered methods to removeing the flywheel?<P>thanks<P>brian||||reg||5
+Z||000001||fiero56||03-11-2000||12:27 PM||||I see no way of installing a tranny without either dropping the cradle or pulling the engine out, plug the tranny in, then slip them both in together. I would suggest dropping the cradle.<P>5 bolts hold the f/w on, not too difficult to get it off.<p>[This message has been edited by fiero56 (edited 03-11-2000).]||||reg||1
+Z||000002||Carolina 88GT||03-11-2000||12:29 PM||||Hey Hop....you finally found a tranny?||||reg||1
+Z||000003||bHooper||03-11-2000||03:28 PM||||yethir!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>found a tranny  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>gonna order this week  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>then im broke, hope tax man ok with dat  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>||||reg||1

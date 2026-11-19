@@ -1,0 +1,8 @@
+A||||6||DecadenceR||Relays on the firewall||||1||
+Z||000000||DecadenceR||06-12-2001||09:43 PM||||On my car, there are 4 relays (2 side by sire, 2 more directly under). Now I know that one's the fuel pump, one's the AC, and so on...<BR>Does anyone know part numbers for these relays? Because one relay is bad (bottom left) and I want to replace that. Thanks.||||reg||1
+Z||000001||DecadenceR||06-13-2001||11:44 AM||||*bump chikka chikka bump*||||reg||1
+Z||000002||rogergarrison||06-13-2001||02:04 PM||||Im not completely sure, but I think all those little square relays are the same. Might check them out to see. just something since I see no ones answered.||||reg||1
+Z||000003||Carrolles||06-14-2001||07:17 AM||||What year model and engine?||||reg||1
+Z||000004||Songman||06-14-2001||09:36 AM||||I replaced one on my 88 yesterday... A/C compressor control relay. Seems like it was an MS9 or something like that. Got it at Advance for $9.99.||||reg||1
+Z||000005||DecadenceR||06-14-2001||09:40 AM||||Sorry, it's an 84SE 4cyl.<BR>I always forget that...||||reg||1
+Z||000006||Songman||06-14-2001||03:05 PM||||Oops... so was mine! Sorry.. I did the 88 two days ago... Yesterday was the Indy which is 84.... <P>The guy at Advance showed me a bunch of numbers and said this this was all of the relays a Fiero had, but he had no listing for an a/c relay. I asked him to go look in the a/c section instead of the electical section and he found it... I think all of the relays are the same part anyway..<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1

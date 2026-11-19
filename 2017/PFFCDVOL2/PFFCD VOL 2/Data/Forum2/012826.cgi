@@ -1,0 +1,4 @@
+A||||2||colin86SE||engine swap question||||5||
+Z||000000||colin86SE||08-15-2001||07:32 PM||||hi guys i have a 86 SE the engine is blowing white smoke out the exhaust, i am thinking about putting a 3.1 or a 3.4 in, my question is can i use the stock ECU or do i have to use the ECU from the donor car, thanks for your help <BR>||||reg||5
+Z||000001||starfighter007@msn.com||08-15-2001||08:25 PM||||I am almost ceartain that you could use the same ecm for the 3.1 not real sure on the 3.4 but I dont remember much in the way of discussions about the 3.4 but it is a common engine swap around here.I am sure someone will give more detailed info on this question here shortly <IMG SRC="http://www.fiero.nl/forum/smile.gif"><p>[This message has been edited by starfighter007@msn.com (edited 08-15-2001).]||||reg||1
+Z||000002||Old Lar||08-15-2001||09:26 PM||||I have had the same ECM from a 2.8 to a 3.1 and to a 3.4 engine swap in my 88GT.||||reg||1

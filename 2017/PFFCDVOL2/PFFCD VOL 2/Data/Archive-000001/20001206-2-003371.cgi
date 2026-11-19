@@ -1,0 +1,3 @@
+A||N||1||Archer||dies when cold||||4||
+Z||000000||Archer||04-25-2000||10:28 PM||||i need help im 16 years old & i have an 86 fiero se with a v-6 4-speed when i start it some times it will stay running but it will allways start then i let it run for 5 minuits or so & when i put it in first & to let out on the cluch when it starts to engage it will die ive had it up to 2500rpm & eased it out a slow as posibal & it still will die it is only that first start it does it please help i will greatly appreciate it||||reg||4
+Z||000001||mwbackus||04-26-2000||04:39 AM||||You may have some codes set to indicate a problem area, but I would bet you just need a good tune up.  Vacuum leak would be another big possible.<P>Mike B.||||reg||1

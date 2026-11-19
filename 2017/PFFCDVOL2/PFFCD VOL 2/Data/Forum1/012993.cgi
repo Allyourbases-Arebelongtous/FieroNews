@@ -1,0 +1,6 @@
+A||||4||DJRice||Looking for pic of Performance Sound Slider on Dome Light Assy...||||1||
+Z||000000||DJRice||12-27-2001||03:35 PM||||I have searched the archives and cant seem to locate one.  Can anyone hook me up?<BR><P>------------------<BR>Dillon<BR>Black '87 SE V6<BR>   <IMG SRC="http://www.fiero.nl/uploads/djr_signature.jpg"> <BR>"And this one time, on the Fiero Forum..."||||reg||1
+Z||000001||tgowens||12-27-2001||04:07 PM||||Here ya go DJ...........<P> <IMG SRC="http://www.fiero.nl/uploads/Mvc-825e.jpg"> ||||reg||1
+Z||000002||rogergarrison||12-27-2001||06:41 PM||||I have one in mine. I disconnected all the factory radio and put in aftermarket. Whole domelite is great condition. Ill trade you for yours without it for nothing. Mines brown, but yours dont matter, ill paint it black.||||reg||1
+Z||000003||85ZainoGT||12-27-2001||06:46 PM||||rogergarrison -- if he doesnt take it, I will! thanks!<P>------------------<BR>Paul Ventimiglia<BR>1987 GT all the options :)<BR>      <IMG SRC="http://www.fiero.nl/uploads/sigpicNEW3bsmall2.gif"> ||||reg||1
+Z||000004||DJRice||12-27-2001||07:05 PM||||Roger, <P>I will definitely take you up one that.  I have one, but based on that picture I am missing part of the cover plate.  Mine is grey, and I can ship it out on Saturday...You will have mail momentarily.  <P>Thanks...<P>--Dillon||||reg||1

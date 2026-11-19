@@ -1,0 +1,6 @@
+A||||4||hutch84fierose||Kick Hill Farm Questions?????||||1||
+Z||000000||hutch84fierose||07-21-2001||08:28 PM||||Hi I have email this place and I hear it is good but I need to know where it is located exactly.......<BR>I know the parts are used so then I could ask fro the colour that I wanted probably<BR>What about shipping????<BR>I live in canada has anyone from canada ever gone through this place thanks for your info<BR>JON||||reg||1
+Z||000001||Indiana_resto_guy||07-21-2001||09:25 PM||||I believe it's east central Alabama.<BR>If you want a more accurate location, punch up the web site and get the address for a map quest.||||reg||1
+Z||000002||KRMFiero||07-21-2001||10:13 PM||||Oh man you guys were off, Its in CT...<P>Lebeon CT (sp?)   Its on Kick Hill Rd, <A HREF="http://www.fieropride.com" TARGET=_blank>www.fieropride.com</A>  i think the address is on there...<P>Kyle||||reg||1
+Z||000003||Chris Schaefer||07-22-2001||10:11 AM||||Here is the address that you are looking for.<P>Kick Hill Farm<BR>Bob Parker, Fiero Specialists<BR>464 Kick Hill Road<BR>Lebanon, CT 06249<P>Voice (860)642-4362<BR>Fax   (860)642-7107||||reg||4
+Z||000004||Indiana_resto_guy||07-22-2001||10:44 AM||||OH ....DUHA.......<BR>Must have been a brain fart! I knew that!<BR>What is the name of the place in AL?||||reg||1

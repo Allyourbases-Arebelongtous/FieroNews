@@ -1,0 +1,19 @@
+A||||17||AL||windows||||1
+Z||000000||AL||11-06-1999||01:18 AM||||<BR>i have a question? on my fastback when i lower the windows they go down but stay up a little, they don't go down all the way. so my question is, do all fiero windows do this or do your's go all the way down?.||||reg||1
+Z||000001||kornholio||11-06-1999||01:24 AM||||My SE does the same.||||reg||1
+Z||000002||mwbackus||11-06-1999||01:41 AM||||All Fiero windows behave in this manner.<P>  This, together with the position of several dew wipe screws, is just more data to support my theory that some Pontiac designers suffer from severe "brain cloud".<P>||||reg||7
+Z||000003||Shiner||11-06-1999||02:37 AM||||Well, a big part of owning a fiero is taking the good with the bad.  If you want some PERFECT car, you sure aren't looking in the right place  <IMG SRC="http://www.fiero.nl/forum/wink.gif">  But hey, what great sports car is reliable, anyway?  I gladly trade reliability and practicality for performance and fun.  ||||reg||1
+Z||000004||mwbackus||11-06-1999||04:37 AM||||I never said it was bad shiner, just unusual.. chill.||||reg||1
+Z||000005||Phil||11-06-1999||07:11 AM||||If you think Fieros have problems- I once owned a '67 Jag XKE. That one  makes the Fiero seem totally trouble free.||||reg||1
+Z||000006||fiero56||11-06-1999||01:02 PM||||Is it possible to modify the door/window to allow the window to go all the way down below the seals?  Was this "problem" only on the Feiro, or was it on other models also?||||reg||1
+Z||000007||ChadMan||11-06-1999||01:15 PM||||What's really weird is how the windows stand out from the car body an inch or so when they're halfway up.<P>But look on the bright side - if you had a Countach, a DeLorean or a Subaru SVX, you'd have a sorry little mail-slot sized window.  Now how many Value Meals can you fit through that?  ||||reg||1
+Z||000008||AL||11-06-1999||02:00 PM||||thanks guys. ||||reg||14
+Z||000009||theogre||11-06-1999||03:55 PM||||I don't think there is enough gear left on the "regulator." <P>I think there's enough track to go another inch, but I think the crank is out of gear. you could pull off the door trim easy enough and see. you might have to drill new holes for the bottom stop.||||reg||1
+Z||000010||Tim||11-06-1999||04:30 PM||||Been there, done that.<BR>There is an adjustable stop in the door, re-adjust it. Makes it easier to drive with your arm out the window.||||reg||1
+Z||000011||fiero56||11-06-1999||06:23 PM||||I just want to make sure of this before I go digging.  There IS an adjustable screw to allow the window to go all the way down?  Sounds too easy.  I like it, but nothing on my car is easy to do.||||reg||5
+Z||000012||Dave85||11-07-1999||08:39 PM||||Oh Timmy,<BR>Is this do-able???<BR>Please enlighten us as to the procedure.||||reg||1
+Z||000013||kornholio||11-07-1999||09:15 PM||||I would also like some more info before I start screwing around with my car.||||reg||1
+Z||000014||Tim||11-07-1999||10:30 PM||||Take the door panel off and the paper under the door panel.  Run the window up and down a few times to see the operation.  When the window is down there is a nylon stop to stop the window.  Adjust the nylon stop down to allow the window to come down more.  I did mine a few years ago.  While you are in the door is a good time to clean and lube.||||reg||1
+Z||000015||Dave85||11-08-1999||07:51 PM||||Thanks||||reg||1
+Z||000016||DJRice||11-09-1999||09:32 AM||||I bet this also makes the dew wipes a helluva lot easier to replace as well.<P>||||reg||1
+Z||000017||Tim||11-13-1999||07:53 PM||||STOP! ALERT!<P>I made a mistake! Mark the calender!<P>There is NOT an adjustable stop in the Fiero door.  There is a rubber stop that I removed to allow the window to go down the extra ¼".  I've been using it without the rubber stop for the last 4-5 years with no problems.  ||||reg||1

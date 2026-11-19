@@ -1,0 +1,5 @@
+A||||3||Coop88||How do I stop this leak?||||5||
+Z||000000||Coop88||10-07-2000||08:45 PM||||The vaccuum tube on the front valve cover keeps leaking. I replaced the rubber grommet thing that mounts on the cover(same as pcv valve's), but the tube just won't stay put. Can this leak be stopped? ||||reg||5
+Z||000001||tgowens||10-07-2000||08:56 PM||||Coop, try putting some RTV on the grommets when you put them back on the valve cover. It will set up and act as a gasket <P>------------------<BR>            <IMG SRC="http://www.tgowens.com/tgowens_sig.gif">                        <BR><A HREF="http://www.tgowens.com/fiero" TARGET=_blank>www.tgowens.com/fiero</A> - Blue '87 GT - Gold '87 GT||||reg||1
+Z||000002||Coop88||10-07-2000||11:44 PM||||I'll try that. Thanks!!!!||||reg||14
+Z||000003||Indiana_resto_guy||10-08-2000||08:54 AM||||R. Coop!<P>Send me an e-mail! Lost your school #!<BR>I have a buyer for the rear bumper, how much?<p>[This message has been edited by Indiana_resto_guy (edited 10-08-2000).]||||reg||1

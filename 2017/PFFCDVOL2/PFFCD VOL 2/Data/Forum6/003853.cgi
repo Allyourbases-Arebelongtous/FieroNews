@@ -1,0 +1,4 @@
+A||N||2||stimpy||True. ||||10||
+Z||000000||stimpy||10-20-2001||06:42 PM||||This is Hilarious, check it out! <A HREF="http://www.whitetrashcafe.com/wassup/matrix.ram" TARGET=_blank>http://www.whitetrashcafe.com/wassup/matrix.ram</A>  <P>------------------<BR>Loud Pipes Save Lives!            <IMG SRC="http://www.fiero.nl/uploads/stimpy_sig.gif">      <BR>My Fiero website-&gt; <A HREF="http://www.dancinghamsters.com/" TARGET=_blank>http://www.dancinghamsters.com/</A><p>[This message has been edited by stimpy (edited 10-20-2001).]||||reg||10
+Z||000001||stimpy||10-20-2001||06:46 PM||||Or this one... <A HREF="http://www.whitetrashcafe.com/wassup/anime.ram" TARGET=_blank>http://www.whitetrashcafe.com/wassup/anime.ram</A> ||||reg||1
+Z||000002||Cooter||10-20-2001||10:07 PM||||OMG!!!!!! That second one with the Pokemon was too much! I have Coke in my keyboard because it flew out my nose. Thanx Stimpy!||||reg||1

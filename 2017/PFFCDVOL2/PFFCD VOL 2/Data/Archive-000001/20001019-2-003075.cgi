@@ -1,0 +1,6 @@
+A||||4||88formula||V6 Intake Manifold Red Paint||||1||
+Z||000000||88formula||04-07-2000||08:31 PM||||What did you Forum members do to restore your red paint on your intake manifolds?||||reg||1
+Z||000001||Gokart||04-07-2000||08:53 PM||||Mine was orange(stupid color for a red car's engine bay!)and I got it to bare metal with aircraft stripper. I repainted the valve cover and plenum with Duplicolor high heat red. Then painted the enraised lines and the engraved "Fiero" with high heat black. Looks sweet! You'll see it in August at the swap meet at Kickhill!||||reg||2
+Z||000002||88formula||04-07-2000||09:52 PM||||Cool, I will be there also. Thanks for your info Gokart.<BR>||||reg||1
+Z||000003||stimpy||04-07-2000||11:57 PM||||Had mine powdercoated (bright yellow) looks awesome!!!||||reg||1
+Z||000004||Carrolles||04-09-2000||01:14 AM||||I used a spray paint I got from Ken's Auto in pelham, AL.<P>Seymour<BR>Hi-Tech<BR>Engine Coating<BR>EN-44<BR>Ford/Chrysler Red<BR>(800) 435-4482<BR>seymour_syc@earthlink.net<P>It matches the original pretty close and looks great.<P>I used their semi-gloss black and the Aluminum colors on the engine block and intake riser.<P>I believe the cans cost around $4.50 each.<P>Hope this helps,<P>Carroll||||reg||1

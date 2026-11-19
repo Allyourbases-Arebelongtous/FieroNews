@@ -1,0 +1,9 @@
+A||N||7||chris6878||are these tires too big for stock 14 inch rims???||||5||
+Z||000000||chris6878||06-19-2000||12:23 AM||||The size on my tires now are 195/70/14.....  the other tires i have are 205/70/14..   will these tires be better than the ones i have now.. they definetly have more tread..    will they work or not?  <P>thanks,<BR>chris||||reg||5
+Z||000001||Terrybogin||06-19-2000||12:31 AM||||My boy had 215/60-14's and had no problems. The 70's are taller so you may have some scrubbing problems at full steering, but ride quality will be better with the 70's.||||reg||1
+Z||000002||chris6878||06-19-2000||01:00 PM||||thanks terry...<P>anyone else with a comment??<P>chris||||reg||12
+Z||000003||lennyb4||06-19-2000||01:09 PM||||They will fit just fine. I currently have    BFG 215/70/14's all the way around on stock rims. The only issues i have found so far are 1st: it does slightly effect handling especially body lean on tight turns, and 2nd: when im coming out of driveways or going overspeed bumps if i dont take it easy they scrub real lightly (esp. if turning while doing this). BUT other then that there fine and i do like the way they fill up the tire well..  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000004||chris6878||06-19-2000||01:17 PM||||thanks lenny    <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||12
+Z||000005||kinboyatuwo||06-20-2000||01:14 AM||||Okay you have heard the 215 option<BR>i have 225/50/16 and are as close as you would ever want to come to the coils, a good idea is to go lower, the difference of the 215 to 225 is not that big||||reg||3
+Z||000006||kinboyatuwo||06-20-2000||01:48 AM||||ooopps missed the stock part , sorry to make you drool||||reg||4
+Z||000007||chris6878||06-20-2000||12:37 PM||||no problem man...<P>chris||||reg||6

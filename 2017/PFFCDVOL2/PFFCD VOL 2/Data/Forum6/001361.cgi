@@ -1,0 +1,11 @@
+A||||9||RiceCooker||Single Guy||||6||
+Z||000000||RiceCooker||02-02-2001||01:54 PM||||Young single guy in Calgary. Looking for a girl who's into any and all fieros. (Mine is Silver 86) <BR>Girl must be good looking, funny, smart and have a nice body to compliment this guy's.  <BR>Now I know what you're all thinking,  <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif"><BR>This is too good to be true - well, I have pictures. Only thing is, I'm not computer literate enough to post them.  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>I know you're out there ladies<P>~~just a guy in the world~~<P>And I want some damn attention too!!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>(Can't blame a guy for tryin, eh?)||||reg||6
+Z||000001||sqoach||02-02-2001||02:00 PM||||roflmao!||||reg||10
+Z||000002||Oreif||02-02-2001||02:31 PM||||Don't you need to change your screen name to "SilverStud" or something? (j/k  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  )||||reg||10
+Z||000003||RiceCooker||02-02-2001||02:36 PM||||SilverStud - I Like it!<P>How about, "Short & Wide" (The car)<P>I could be, "StudlySE"||||reg||6
+Z||000004||p4n1c||02-02-2001||02:50 PM||||Hey baby.  How 'bout a ride?  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||10
+Z||000005||RiceCooker||02-02-2001||02:52 PM||||(Austin Powers voice) Ooooohhh, Beeeeehhhhaaavvvvvve||||reg||6
+Z||000006||DJRice||02-02-2001||05:11 PM||||ROTFLMAO!<P>------------------<BR>Dillon<BR>Black '87 SE V6||||reg||1
+Z||000007||RiceCooker||02-02-2001||07:06 PM||||This isn't working like I'd hoped.<P>So far I only have 7 replies and half of them are me  <IMG SRC="http://www.fiero.nl/forum/frown.gif">||||reg||9
+Z||000008||Cliff Pennock||02-02-2001||07:28 PM||||As long as you don't post pics with todays newspaper, people won't take you seriously.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000009||Standard||02-03-2001||04:49 AM||||Ya gotta show 'em this   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>  <IMG SRC="http://www.fiero.nl/uploads/beer%20bong.jpg"> <P>of course, I don't think this helps anyone take me seriously... hehe<p>[This message has been edited by Standard (edited 02-03-2001).]||||reg||

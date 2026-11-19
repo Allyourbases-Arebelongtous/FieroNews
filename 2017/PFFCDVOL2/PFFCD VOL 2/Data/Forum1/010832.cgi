@@ -1,0 +1,2 @@
+A||||0||BlackStang95||My dream fiero||||10||
+Z||000000||BlackStang95||10-09-2001||01:15 AM||||Forget all the v8's...I want a Super Duty Inline 4 cylinder 2.7L...275hp @7500 rpm. 250 lbs tq @6500 rpm.  that would be all id need.  Lower it about an inch, red paint with chrome 16 inch rims and low profile tires.  Leather interior and digital gauges. Damn.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  too bad they didnt put those engines in stock.||||reg||10

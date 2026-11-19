@@ -1,0 +1,7 @@
+A||N||5||GML||Won't start at times||||1||
+Z||000000||GML||08-09-2001||02:04 PM||||I have an 85 GT and the problem that I am having is that from time to time the can just will not start.  I can always get it started back up by just removing the distributor cap and putting it right back on.  It seems to me like I have a loose connection or something simple, but have been unable to find the problem.  Please advise on a possible solution.||||reg||1
+Z||000001||Steve Normington||08-09-2001||02:47 PM||||You might have a cracked distributor cap that allows shorting of the spark. Also could be a bad coil wire. Have you replaced the cap, wires, and rotor?||||reg||1
+Z||000002||GML||08-09-2001||04:16 PM||||No, I have not replace anything yet.||||reg||1
+Z||000003||starfighter007@msn.com||08-09-2001||04:25 PM||||Well at the very least change the cap and rotor.but check your coil wire that could be your problem .||||reg||1
+Z||000004||PBJ||08-09-2001||04:32 PM||||I would suspect ignition module and or pick up coil concern because you have said nothing about a miss fire or rough run at times, (which you would feel if it was a cap/rotor concern)  "my money" would be on the ignition module, but if connecter to pick up coil is green (corroded) I would replace it too-but it is alot more work than the simple ign module.||||reg||1
+Z||000005||GML||08-09-2001||04:42 PM||||Do you have any tips for replacing the pick-up coil?||||reg||1

@@ -1,0 +1,4 @@
+A||||2||RaeQwan||rare 5spd||||2||
+Z||000000||RaeQwan||11-27-2000||09:55 PM||||How rare is a 86 GT 5speed?<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/raeqwancfa.gif"> ||||reg||2
+Z||000001||Indiana_resto_guy||11-27-2000||10:03 PM||||The 5 speed in '86 GT's was introduced in mid year. I'm not sure of the first production run. I'm sure that someone has done the research though.||||reg||1
+Z||000002||Standard||11-28-2000||02:18 AM||||roughly 2,200 5 speeds built in 86  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>Mike -<BR>Black 86.5 GT 5 Spd, 153,000 miles and some busted up ground f/x  <IMG SRC="http://www.fiero.nl/uploads/redface.gif"> <BR>Red 84 Sport Coupe - winter donut maker    <IMG SRC="http://www.fiero.nl/uploads/asthanos.gif"> ||||reg||14

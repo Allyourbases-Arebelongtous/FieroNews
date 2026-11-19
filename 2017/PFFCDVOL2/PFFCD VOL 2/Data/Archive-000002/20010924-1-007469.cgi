@@ -1,0 +1,6 @@
+A||||4||Old Lar||Fier o Owner (FOCOA Magazine)||||7||
+Z||000000||Old Lar||05-16-2001||08:52 PM||||Hey..Old Lar made it into the 4th quarter side of the most recent issue page 6.||||reg||7
+Z||000001||Ed||05-17-2001||01:43 AM||||So, is that you in both pictures?  I'd assume so because of the New York plate.  Nice large pictures of you.<P>I was in three pictures in the third quarter 2000.  But small and in the background of the San Diego show. ||||reg||1
+Z||000002||FieroLisa||05-17-2001||01:51 AM||||There was a pic of my coupe in the last issue, from the show in L-ville...but the issue was never sent to me, I'm kinda bummed!!!||||reg||1
+Z||000003||Old Lar||05-17-2001||04:55 AM||||The photo of the Buddha was taken when I was in China in 2000.  I had a weekend off, and went to see the "BIG" Buddha.  The statue is larger than the statue of Liberty and I was a long way away (1/4 mile).<BR>I got to eat some different types of food while on the trip.<BR> <IMG SRC="http://www.fiero.nl/uploads/fortune_cookie.jpg"> ||||reg||10
+Z||000004||Carrolles||05-17-2001||02:48 PM||||Lisa,<P>I also missed an issue of FOCOA Mag.  I called Gloria at FOCOA and she straightened out the mistake in their database (got scrambled during a move) and shipped me the issue that day.<P>Give her a call.||||reg||1

@@ -1,0 +1,4 @@
+A||||2||billfredmike24||Removing roof bolts help????||||1||
+Z||000000||billfredmike24||08-02-2001||05:08 PM||||I'm taking the sunroof out of my parts car and have gotten out two of six? bolts from the roof.  The others will turn but i can't get them out, i've tried pulling with pliers but no luck, any ideas?<BR>Thanks Mike||||reg||1
+Z||000001||LivoniaFieroGT||08-02-2001||08:15 PM||||Had to drill one of mine out then thread chase.  But when I put it back together I found out the bolts in the front were a little longer 2mm then the rear ones and the gasket (weatherstrip had dimples in it that prevented a good seat. ||||reg||1
+Z||000002||Tigger||08-02-2001||11:35 PM||||Someone had a trick for this very thing.<P>I'm sure it's was talked about here before, you might want to search some more.<P>I think what they did was pry the bolt to one side with something and then wrenched the nut off.||||reg||1

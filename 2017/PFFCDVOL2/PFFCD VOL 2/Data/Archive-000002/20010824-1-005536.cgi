@@ -1,0 +1,2 @@
+A||||0||88 Database Guy||88 Database Email Change and Info||||7||
+Z||000000||88 Database Guy||01-31-2001||09:04 AM||||I just wanted to put out a formal note about the database and where to send info.  I'm changing jobs, and my current email is going away.  So, please send all emails to me at BJWillhoff@aol.com, starting today.  <P>The database now has 2,512 cars in it.  Email me at the above address for a summary sheet of the database.<P>My Best to You All, Thanks for all your help with this project.<P>John Willhoff, BJWillhoff@aol.com, (770) 578-6556||||reg||7

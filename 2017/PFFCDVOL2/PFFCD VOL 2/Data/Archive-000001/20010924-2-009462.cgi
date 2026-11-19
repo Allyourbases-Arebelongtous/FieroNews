@@ -1,0 +1,5 @@
+A||||3||85seNUT||I need som help from you guys||||1||
+Z||000000||85seNUT||04-06-2001||05:25 PM||||i finally saved up enough money to buy the cold air intake from west coast fiero.  its 175 and i have like 180.  i'll make up whater the difference is.  Do you know what the shipping cost will be to san jose california?  Anyways, you guys gotta help me with the instalation.  If anyone that lives near here will do it or if you guys have some instructions that would be super helpful.  thanks a bunch||||reg||1
+Z||000001||DXR_DAD||04-06-2001||07:41 PM||||Mr. Nut,  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  You have Mail!!!!!!<P><BR>DXR_DAD||||reg||1
+Z||000002||85seNUT||04-06-2001||10:29 PM||||i really appreciate this, you are very generous.  Where you want me to take you to lunch?  =)||||reg||1
+Z||000003||fyerstarter||04-06-2001||11:02 PM||||Hehe. <P>Instructions:<P>1. Rip out the old air intake box, tube, etc.<BR>2. Hose Clamp the new intake onto the throttle body.<BR>3. Have a beer||||reg||1

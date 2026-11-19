@@ -1,0 +1,6 @@
+A||||4||FieroSoul||Upgraded 84 owners...||||5||
+Z||000000||FieroSoul||10-16-2001||06:52 PM||||  This is for anyone who has put a 2.8, or caddy V8 in an 84.  How much alteration to the wiring was required in either case.  If you did Bubbajoes caddy swap, how well does it work. I am looking for some feedback to decide if I want to do this or just get Ed Parks to drop in a fresh duke.  Thanks for all inputs.||||reg||5
+Z||000001||FieroSoul||10-17-2001||06:23 AM||||**bump**||||reg||12
+Z||000002||Standard||10-17-2001||08:31 PM||||I haven't done it.. but as far as wiring, i think you have to re-do the whole harness.  If you're getting the 2.8 out of another Fiero I think it's easiest to grab the whole wiring harness, computer, etc just like with any other engine swap.<P>Also need to drill (weld, fabricate?) for another engine mount.<P>This is all based on hearsay, so if I'm wrong, somebody please correct me!<P>------------------<BR>     <IMG SRC="http://www.fiero.nl/uploads/sig_pic_full.jpg">         <BR>1988 Quad 4 Coupe 5 speed<BR><FONT SIZE="1">1986 GT 5 speed, 1984 SC Auto<BR><FONT COLOR="red">AOL: LastMinuteBastrd  AIM: SavedbyJebus</FONT></FONT>||||reg||1
+Z||000003||FieroSoul||10-19-2001||06:43 AM|||| Bump**Bump||||reg||1
+Z||000004||FieroSoul||10-19-2001||10:55 PM||||One more time||||reg||1

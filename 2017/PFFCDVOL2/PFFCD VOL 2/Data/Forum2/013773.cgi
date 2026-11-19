@@ -1,0 +1,2 @@
+A||||0||Banzai||Great deal on Eibachs||||14||
+Z||000000||Banzai||09-19-2001||09:30 AM||||Was ordering a set of ST lowering springs for my 84.  Shox.com called me back to tell me they were on backorder for at least two months. So I asked him about the Eibachs-----------Fiero Store sells them for $269------------Shox.com original quote-$219, Spoke with Chris and got them for $199 plus (gulp) $20 shipping. Still $219 shipped is a hell of a deal. Thought I'd let you all know.<P>Banzai !!!!!!!!!!!||||reg||14

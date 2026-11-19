@@ -1,0 +1,2 @@
+A||||0||Neverfinished||Bad rattle on passenger side!||||6||
+Z||000000||Neverfinished||04-30-2001||02:30 AM||||Well I finally slapped a footwell sub in my car and holy ****  I am soooooooo happy. I picked up a JBL 12 dual voice coil and put it in a truck style box. I am running a pair of kenwood 4x10s and a sony 752 amp. I love these cars sooooo much. Plus i got some sheepskin seat covers and they feel so nice with your shirt offf in the nice okanagan sun. Can't wipe the grin off my face.||||reg||6

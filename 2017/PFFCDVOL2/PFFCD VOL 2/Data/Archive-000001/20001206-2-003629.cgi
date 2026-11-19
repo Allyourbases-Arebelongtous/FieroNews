@@ -1,0 +1,5 @@
+A||||3||87ECO5||What do you think this noise is?||||5||
+Z||000000||87ECO5||05-08-2000||12:49 PM||||Scraping noise heard coming from right rear of '87 4-banger when taking hard, left-hand corners.<P>Ideas?  Dragging brake caliper?  Wheel bearings?  Something else?<P>TIA||||reg||5
+Z||000001||batboy||05-08-2000||12:56 PM||||Check the easiest and cheapiest thing first. Make sure the brake dust shield didn't get bent a little and is rubbing once in a while. Mine did that before, drove me crazy.||||reg||1
+Z||000002||Oreif||05-08-2000||04:23 PM||||Batboy is correct. Odds are its your brake dust shield. My original ones were so corroded they were like tin foil. I got a decent set from a friend and stripped them then painted them. I still had to bend the new ones out a bit to keep them from rubbing.||||reg||1
+Z||000003||Fformula88||05-08-2000||05:47 PM||||My dads 87 4-cyl was making a grinding noise from the right rear when making left turns.  It was the beginning of the end for the right wheel bearings.  Worst part is the whole hub needs to be replaced.  So check the cheap stuff first, but take a look at those bearings!  Good luck!||||reg||1

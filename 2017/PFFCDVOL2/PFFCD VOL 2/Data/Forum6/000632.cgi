@@ -1,0 +1,16 @@
+A||||14||Uaana||Who want's to be a Mystery shopper?||||3||
+Z||000000||Uaana||08-28-2000||02:40 PM||||O.k. Got a new job and I thought I'd share.<BR>If any of you are interesed in becoming a mystery shopper. Contact me at the below email address, not my regular one. We cover all of the U.S. and do plenty of resturants.<P>So if interested contact me at.<BR>Robertg@Bestmark.com<P>Thanks<BR>||||reg||3
+Z||000001||GT Bastard||08-28-2000||10:12 PM||||I sent you and email...  Let me know if you did not recieve it(might have been killed by the firewall at work.)  Email me at mrbios@LL.net<P>thanks!||||reg||1
+Z||000002||fierospeeder||08-29-2000||12:11 AM||||My grocery store, and all others are doing this grocery shopper thing, and yes its a pain.  <P>I think we will get a mystery customer once or twice a month and they rank two cashiers and the rest of the service of the store.  Were suppose to ask the customers all these questions etc.. and then we get to hear the great comments back.  ||||reg||1
+Z||000003||Monkeyman||08-29-2000||12:32 AM||||I sent you an email.  I think the "mystery shopper" thing is a good idea.  I'm an asst mgr at a convenience store (soon to be mgr).  I can't watch the employees all the time.  We have some "mystery shoppers" employed by our parent company.  Most of them do a good job.  We can find our weaknesses a little easier.  I'd rather have a bad report from the home office than to start losing customers because of a "bad" employee.||||reg||1
+Z||000004||Formula||08-29-2000||11:33 AM||||I emailed you||||reg||1
+Z||000005||Uaana||08-31-2000||02:43 PM||||Thanks to all of you who responded. now my boss thinks I'm actually doing something here.||||reg||14
+Z||000006||Monkeyman||09-01-2000||12:18 AM||||Got your message, but I can't remember the other extension so I called yours again.  You're a tough man to get a hold of.  I'll try again either tomorrow or 1st thing next week.||||reg||1
+Z||000007||burdell1||09-01-2000||01:43 AM||||What restaurants do you go to?||||reg||1
+Z||000008||Uaana||09-03-2000||12:22 AM||||As for resturants kinda depends on where you live. I've seen everything from HardRock Cafe<BR>Fuddruckers, LoneStar Steakhouse, ect ect. And for retail we do Daytons for the ladies  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> (ya I'm a sexist) and Lowe's home improvement for the guys. there is also Midas. lots and lots of stuff. just depends on were you live.||||reg||1
+Z||000009||burdell1||09-03-2000||01:45 PM||||Have you ever went to Planet Hollywood?||||reg||1
+Z||000010||burdell1||09-08-2000||11:14 AM||||Does it pay pretty good?||||reg||1
+Z||000011||Richard Parnell||09-08-2000||04:46 PM||||I'm doing ||||reg||7
+Z||000012||Richard Parnell||09-08-2000||04:48 PM||||I'm doing my first mystery shop at Eagles next week.  Should be fun.  Not much pay but when you go to a restaurant for them it's a free meal.  Of course you know I'm going to eat the best they got.||||reg||7
+Z||000013||Monkeyman||09-08-2000||07:13 PM||||I tried to get a hold of you a few times and tried the other extension (some girl for my area?), but never could get through.  I might still be interested.  Email me.||||reg||1
+Z||000014||Black88GT||09-08-2000||09:59 PM||||I must have missed this one too.  I would be interested also.  <P><BR><P>------------------<BR>Jeff<BR>'88 GT t-top 3.4<BR>Baltimore, MD||||reg||1

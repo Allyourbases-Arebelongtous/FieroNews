@@ -1,0 +1,6 @@
+A||||4||varnster||is anyone out there||||9||
+Z||000000||varnster||11-12-2000||03:10 PM||||just checking if anyone is around,and if<BR>im doing this correctly, Im not much on<BR>the old laptop, and this all new to me||||reg||9
+Z||000001||Philphine||11-12-2000||03:30 PM||||your in there. welcome and tell us whatcha got.||||reg||1
+Z||000002||bHooper||11-12-2000||03:45 PM||||hello!<P>------------------<BR>hoop<BR>Red '86 GT<BR>  <IMG SRC="http://www.fiero.nl/uploads/alien.gif">  <BR>We are not alone!||||reg||1
+Z||000003||varnster||11-12-2000||03:50 PM||||cool, thought I was all alone in here,<BR>I got an 87 gt, never been touched, all<BR>numbers on all panels match,this is my<BR>2nd I had a 85 gt off the show room floor,<BR>it was my first car, this 87 has 101,000,<BR>miles but purrs like a kitten.But I need some help on the cruise control vac lines||||reg||1
+Z||000004||batboy||11-12-2000||05:17 PM||||Try this link. If that don't help, try posting another topic with a title of "need cruise control help" or something like that, then explain exactly what you need help with.<P> <A HREF="http://www.geocities.com/MotorCity/Garage/5007/fiero_osg/diag.cruise-control.html" TARGET=_blank>http://www.geocities.com/MotorCity/Garage/5007/fiero_osg/diag.cruise-control.html</A> <p>[This message has been edited by batboy (edited 11-12-2000).]||||reg||1

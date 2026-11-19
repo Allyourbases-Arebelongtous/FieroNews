@@ -1,0 +1,3 @@
+A||||1||Uaana||Oh the shame II||||8||
+Z||000000||Uaana||05-13-2000||07:18 AM||||Damn happend again, coming home from work the other night had what looked like a family sedan next to me start revving up the engine at the light, so I says to myself why not.. Waaaaaa... had him for about 2sec until his 8cyl lincon got hooked up and away he went... next time I look closer at what pulls up next to me.. Where are all the accords with supra wings.. better yet let me at one of those new pt cruisers..||||reg||8
+Z||000001||GT Bastard||05-13-2000||05:05 PM||||Please don't tell me you lost with a GT!   <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

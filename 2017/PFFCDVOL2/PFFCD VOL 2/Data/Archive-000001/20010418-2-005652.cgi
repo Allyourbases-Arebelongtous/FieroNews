@@ -1,0 +1,8 @@
+A||||6||Black88GT||PONTIAC tail lights not working||||5||
+Z||000000||Black88GT||09-10-2000||08:01 PM||||I noticed that the PONTIAC part in my tail lights was not illuminating at night.  I bought the brigter GT bulbs from Rodney Dickman.  I installed them, and they still don't work.  The wires/sockets seemed fine, no corrosion or anything.  Any ideas?<P><P>------------------<BR>Jeff<BR>'88 GT t-top 3.4<BR>Baltimore, MD||||reg||5
+Z||000001||Monkeyman||09-10-2000||08:34 PM||||Ground?||||reg||1
+Z||000002||Phil||09-10-2000||09:42 PM||||Speaking of ground:<BR>Customer says to waitress-"This coffee tastes  like mud" and the waitress says,"well it should it was only ground this morning".||||reg||1
+Z||000003||StuGood||09-10-2000||09:55 PM||||Glad to see I'm not the only one that likes bad puns, Phil  <IMG SRC="http://www.fiero.nl/forum/smile.gif">!<P>Starting with the basics - I assume you are aware that the "PONTIAC" lights up only with the ignition key turned on?  It's totally independent from the headlight switch.<P>Think the "PONTIAC" lights are supplied  power from the cooling fan circuit.||||reg||12
+Z||000004||Black88GT||09-10-2000||11:25 PM||||AHHH STU!  I wish I would have learned that before.  I just turned the headlight switch on.  Its too late now but tomorrow I will try it.  OK I feel dumb now.<P><BR>DUH!<BR>||||reg||11
+Z||000005||StuGood||09-12-2000||09:58 PM||||Brighter now?||||reg||3
+Z||000006||Black88GT||09-12-2000||10:12 PM||||YES!  They look really good now.  Still can't believe I made such a rookie mistake!<P>------------------<BR>Jeff<BR>'88 GT t-top 3.4<BR>Baltimore, MD||||reg||1

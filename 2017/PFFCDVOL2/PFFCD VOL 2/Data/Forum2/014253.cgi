@@ -1,0 +1,3 @@
+A||||1||West Coast Fiero||Anybody have a source on spark plug wire routing clips||||1||
+Z||000000||West Coast Fiero||10-07-2001||10:22 PM||||would love to get my hands on some - factory ones<P>------------------<BR>Technician, West Coast Fiero<BR>www.cwestco.com<BR>310-305-4111||||reg||1
+Z||000001||fropuff||10-07-2001||10:48 PM||||Damn, I guess I shouldn't have thrown mine away.  I hate the little bastards.  You need to get em out with a frickin screwdriver, and you always jam it into your hand.  The good part is they don't melt them, have an electrical fire, and have the car burst into flames.   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  I'll keep an eye out for ya.  Have a good one!||||reg||1

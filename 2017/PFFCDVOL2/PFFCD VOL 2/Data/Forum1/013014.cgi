@@ -1,0 +1,3 @@
+A||N||1||Jaygee79||i need quick help...is this one usually easy to find?||||1||
+Z||000000||Jaygee79||12-28-2001||12:15 AM||||i don't know if i want to pay that much for it, but is it rare?  i've never seen it before.  it ends in an hour, so i have to decide pretty fast.<P> <A HREF="http://cgi.ebay.aol.com/aw-cgi/eBayISAPI.dll?ViewItem&item=1681114514" TARGET=_blank>http://cgi.ebay.aol.com/aw-cgi/eBayISAPI.dll?ViewItem&item=1681114514</A> ||||reg||1
+Z||000001||JayLT1||12-28-2001||01:15 AM||||hey jay spend that 15 dollars on your fiero!!<BR>J<P>------------------<BR>86 Black GT (95LT1 on the way)||||reg||1

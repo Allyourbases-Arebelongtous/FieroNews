@@ -1,0 +1,6 @@
+A||N||4||Elenor84||Tach Wire to what wire in engine?||||1||
+Z||000000||Elenor84||11-20-2001||02:54 AM||||My machanic rewired my accel coil but didn't know were to splice the tach wire to...which wire does it go to?  Thx!<P>------------------<BR>Lance<BR>Click Image to go to site.<BR><A HREF="http://members.nbci.com/_XMCM/lancegspage/Index.html" TARGET=_blank> <IMG SRC="http://www.fiero.nl/uploads/Side1.jpg"> </A>||||reg||1
+Z||000001||tgowens||11-20-2001||04:55 AM||||Lance, there should be a "T-shaped" wire with a white plug coming from the engine wiring harness for the tach filter to plug into......<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/signature_TGO.jpg"> <P><A HREF="http://www.cfog-i.org" TARGET=_blank>Classic Fiero Owners Group International</A>||||reg||1
+Z||000002||Joe Torma||11-20-2001||09:06 AM||||FYI:  The tach wire is(should be) white all the way to the guage.||||reg||1
+Z||000003||grinthock||11-20-2001||09:16 AM||||I have a question on this topic too.<P>So on the back of the guage cluster, the single white wire going in on the right hand side is the tach signal?<P>(Wiring remote starter today)||||reg||1
+Z||000004||Elenor84||11-20-2001||02:10 PM||||Thx tgowens, terry is it?  I'll wire that in tonight and pm u and let u know how it went.<BR>||||reg||1

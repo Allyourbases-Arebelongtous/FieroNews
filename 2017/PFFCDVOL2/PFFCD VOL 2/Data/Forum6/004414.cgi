@@ -1,0 +1,2 @@
+A||||0||Lady Pegasus||Attention Matt M.!!||||1||
+Z||000000||Lady Pegasus||11-21-2001||11:40 PM||||HEY MATT!  Yeah you, you know who you are.  You're security guard called me.  He's very upset that you haven't called him recently.  He feels used.  Hit us up.  We miss you.<P>P.S.-I know this belongs in off topic, but I'm looking wherever I can for him.  Sorry folks.<P>------------------<BR>Hey pretty....don't you wanna take a ride with me...through my world?||||reg||1

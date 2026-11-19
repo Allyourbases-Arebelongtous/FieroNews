@@ -1,0 +1,4 @@
+A||||2||FieroGT 914||Carlisle All GM Nationals anyone???||||5||
+Z||000000||FieroGT 914||06-28-2001||09:37 AM||||just seein if anyone is goin to the All GM Nationals with their Fiero this weekend (June 30th)???<P>------------------<BR>Joe<BR>-86 1/2 GT<BR>-87 GT (just purchased)||||reg||5
+Z||000001||Fierochic88||06-28-2001||01:23 PM||||Hey Joe-<BR>   I think this is the Joe I met last year at Zinn's?  Am I correct?  Anyways, I'm going and FieroLisa, Northstar87, SlickRick and a couple others are driving out with us.  Would you like to meet us on the Tpk and head out with us?  E-mail me (FieroChic88@hotmail.com) if you're interested!<P>Jennifer<P>------------------<BR>Silver 1988 GT<BR>Silver 1986 2m4<BR>Cobalt Blue 85 GT<P> <IMG SRC="http://www.webjolt.f2s.com/pictures/jenscar-sig1.jpg"> ||||reg||1
+Z||000002||Ditz88GT||06-29-2001||10:54 AM||||I'll be there Saturday!<P>~Ditz88GT<BR> <A HREF="http://go.to/fiero" TARGET=_blank>http://go.to/fiero</A> ||||reg||1

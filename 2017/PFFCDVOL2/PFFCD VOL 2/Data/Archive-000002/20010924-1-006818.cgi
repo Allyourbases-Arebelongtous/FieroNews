@@ -1,0 +1,2 @@
+A||||0||84Bill||Bottoms up!||||6||
+Z||000000||84Bill||04-12-2001||12:23 PM||||was cruising the net and foun this for you filks doing bottom end work. Excelent prices<P>Rods <A HREF="http://www.jcwhitney.com/productnoitem.jhtml?CATID=62435" TARGET=_blank>http://www.jcwhitney.com/productnoitem.jhtml?CATID=62435</A> <P>&<P>Mains <A HREF="http://www.jcwhitney.com/productnoitem.jhtml?CATID=63386" TARGET=_blank>http://www.jcwhitney.com/productnoitem.jhtml?CATID=63386</A> <P>||||reg||6

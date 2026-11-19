@@ -1,0 +1,9 @@
+A||||7||BOILERMAKER||Anybody have suggestions on PIP||||9||
+Z||000000||BOILERMAKER||03-16-2000||10:31 AM||||I can't get PIP to work.  I was going to show everyone my new adventure in fierodom, but I can't get PIP to work.  I am at work and my company has a firewall, could this be the problem?  I will either have to ship these off to someone who can get PIP to work or wait until I get home.<P>Bummer!!!!||||reg||9
+Z||000001||Cliff Pennock||03-16-2000||11:48 AM||||Do you get an error message? If so, what is it?||||reg||1
+Z||000002||BOILERMAKER||03-16-2000||12:43 PM||||I get the "unable to connect" message.  FYI, I am on a LAN connection.<P>I will try to do this at home if there aren't any resolutions (darn firewall).||||reg||1
+Z||000003||87ECO5||03-16-2000||12:46 PM||||BOILERMAKER:<P>I'm behind a firewall at work too but I'm able to post photos with PIP.<P>If you'd like, you can send them to me and I'll post them for you ...||||reg||1
+Z||000004||87ECO5||03-16-2000||02:23 PM||||See the following thread for pictures:<P> <A HREF="http://www.fiero.nl/forum/Forum1/HTML/001554.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/001554.html</A> <p>[This message has been edited by 87ECO5 (edited 03-16-2000).]||||reg||1
+Z||000006||BOILERMAKER||03-16-2000||02:57 PM||||The first set of pictures are the ones that were taken before I actually picked up the car.<P>The second set were taken the day that I took it off of the trailer.  I still have another set (last weekend) that I have to have the roll developed and hopefully I will have PIP figured out by then.<P>Thanks Scott!!||||reg||1
+Z||000007||BENGAL4||03-16-2000||03:29 PM||||Who does that good looking white 86GT belong to? I'd like to have your job, Scott & Mike. LOL||||reg||10
+Z||000008||87ECO5||03-21-2000||12:51 PM||||I'd love to have your new engine, Bill!!!!!    <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

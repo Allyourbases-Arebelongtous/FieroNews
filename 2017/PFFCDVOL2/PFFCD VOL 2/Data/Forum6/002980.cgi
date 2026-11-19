@@ -1,0 +1,7 @@
+A||||5||rogergarrison||ignore testing new sig pic||||1||
+Z||000000||rogergarrison||08-15-2001||03:23 PM||||testing new sig<P>------------------<BR>        <IMG SRC="http://albums.photopoint.com/j/View?u=1234884&a=11878523&p=52976111"> ||||reg||1
+Z||000001||FieroLisa||08-15-2001||03:30 PM||||That's in front of your $1.6 million mansion right Roger? hehe, was that a pic we took on the day we went out picture taking or more recently? I like it! ||||reg||1
+Z||000002||rogergarrison||08-15-2001||04:34 PM||||no, just took a bunch today check out the rest in photopoint <A HREF="http://albums.photopoint.com/j/AlbumIndex?u=1234884&a=13631740" TARGET=_blank>http://albums.photopoint.com/j/AlbumIndex?u=1234884&a=11878523</A> <P>------------------<BR>         <IMG SRC="http://albums.photopoint.com/j/View?u=1234884&a=11878523&p=52976111">  <p>[This message has been edited by rogergarrison (edited 08-15-2001).]||||reg||1
+Z||000003||rogergarrison||08-15-2001||04:39 PM||||oops wrong one<BR> <A HREF="http://albums.photopoint.com/j/AlbumIndex?u=1234884&a=13631740" TARGET=_blank>http://albums.photopoint.com/j/AlbumIndex?u=1234884&a=13631740</A> ||||reg||1
+Z||000004||rogergarrison||08-15-2001||04:44 PM||||try again<BR> <A HREF="http://albums.photopoint.com/j/AlbumIndex?u=1234884&a=13637040" TARGET=_blank>http://albums.photopoint.com/j/AlbumIndex?u=1234884&a=13637040</A> ||||reg||1
+Z||000005||rogergarrison||08-15-2001||09:46 PM||||another test<P>------------------<BR>         <IMG SRC="http://albums.photopoint.com/j/View?u=1234884&a=11878523&p=52990885"> ||||reg||1

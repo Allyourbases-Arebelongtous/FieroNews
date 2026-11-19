@@ -1,0 +1,6 @@
+A||||4||Cooter||How about a good ebay seller?||||1||
+Z||000000||Cooter||12-15-2000||09:19 PM||||This is who I bought my turbo from. He usually posts the stuff over the weekend and runs through the middle of the week. I have seen LOTS of good stuff like OEM roller lifters, AL intakes, cams and other performance parts sold by this guy for great prices. Ebay id is ldmitch77. <A HREF="http://cgi6.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewListedItems&userid=ldmitch77" TARGET=_blank>http://cgi6.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewListedItems&userid=ldmitch77</A> ||||reg||1
+Z||000001||Cooter||12-16-2000||11:31 PM||||back to the top- he has posted some goodies! check it out. Oops, is that spamming? ||||reg||1
+Z||000002||terryk||12-17-2000||12:34 AM||||"and the good shall be punished"......Ren Hoek.<P>We complain about a lot of Ebay sellers, but rarely post about the good ones.<P>||||reg||1
+Z||000003||mshill||12-17-2000||12:26 PM||||terry,  is that Ren of 'Ren and Stimpy' fame?  I thought I might be the only one that was glad when Nickelodeon brought that back.  I think I like the show more than my kids do.<p>[This message has been edited by mshill (edited 12-17-2000).]||||reg||1
+Z||000004||Cooter||12-26-2000||11:28 PM||||Back to the top- new goodies! (maybe I should get a sales commission from him)||||reg||1

@@ -1,0 +1,5 @@
+A||||3||Bruce||San Diego Show||||1||
+Z||000000||Bruce||07-09-2000||03:14 PM||||Did anyone here go to the San Diego Show?<BR>How was it?||||reg||1
+Z||000001||jlruiz67||07-09-2000||07:12 PM|||| <A HREF="http://www.fiero.nl/forum/Forum1/HTML/002846.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/002846.html</A> ||||reg||1
+Z||000002||jlruiz67||07-09-2000||07:12 PM|||| <A HREF="http://www.fiero.nl/forum/Forum1/HTML/002846.html" TARGET=_blank>www.fiero.nl/forum/Forum1/HTML/002846.html</A> ||||reg||1
+Z||000003||DXR_DAD||07-09-2000||08:07 PM||||Bruce how's things going? I wish I was there but this summer was for the kids! you know?<BR>my daughter just made her SWEET 16   <IMG SRC="http://www.fiero.nl/forum/smile.gif">But I'll be ready next year. I haven't heard anything yet from any of the GGF but I'm sure it was great! and their on the way back by now so stay tuned. <P>PS. we still need to get together.<P>DXR_DAD<BR> <p>[This message has been edited by DXR_DAD (edited 07-10-2000).]||||reg||14

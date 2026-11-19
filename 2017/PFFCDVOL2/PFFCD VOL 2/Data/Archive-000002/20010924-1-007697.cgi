@@ -1,0 +1,4 @@
+A||||2||Hym-The-Man||Archies Dash Kit||||1||
+Z||000000||Hym-The-Man||05-26-2001||10:44 PM||||Does anyone have pics of Archies dash installed and covered.  I would like to purchase the kit, but I cannot get a accurate picture from the website||||reg||1
+Z||000001||V8Fiero||05-26-2001||11:07 PM||||Look at Archies web site under customers cars. I think Dave Murphys (?) F40 replica has it installed........<P>Scott<P>------------------<BR><P>86 SE Gold<BR>84 SE V8 (FS or trade)<BR>  <IMG SRC="http://www.fiero.nl/uploads/PFFsig.JPG"> ||||reg||1
+Z||000002||FieroHarry||05-27-2001||06:40 PM||||V8Fiero,<BR>Do you know any Awalts in your town?<BR>Drop me an e-mail if you would Im trying to find an old Navy buddy who was raised there and Im pretty sure his family is still there.<P>------------------<BR><B>Harry Waggoner</B><BR>1985 GT 264K+ <I>FOCOSEVA,FOCOA</I><BR><B>"Im not driving to fast, Im flying to low!"</B>||||reg||1

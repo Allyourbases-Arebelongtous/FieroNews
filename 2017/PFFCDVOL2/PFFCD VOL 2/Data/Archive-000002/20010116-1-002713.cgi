@@ -1,0 +1,4 @@
+A||||2||spike||I have a Fiero now - picked it up last night||||7||
+Z||000000||spike||06-27-2000||08:04 AM||||Well I am now a proud owner of a 1985 Fiero SE. It has been converted to the fastback model with all ground effects. It has the Iron Duke in it with 95000km. It is automatic, Blue ext. / Gray int. 16 inch mags with 255/60 tires on the rear. These tires are bald and need to be changed. I think I will buy smaller. These are just too wide and on a 4 cyl. car. If I had a v8 ok but not on a 4. Well it has a few little things wrong with it such as a wacky tach, a small piece of molding missing, the drivers seems to be locked in one position and a few other little bugs.<P>Tks, Mike<P>Now I can build my 2x10 sub box.||||reg||7
+Z||000001||Gold-86SE||06-27-2000||09:38 AM||||<BR>Congrats on the purchase.  Fieros are just too much fun.<BR>||||reg||6
+Z||000002||lowCG||06-27-2000||10:42 AM||||Cool,What color?||||reg||1

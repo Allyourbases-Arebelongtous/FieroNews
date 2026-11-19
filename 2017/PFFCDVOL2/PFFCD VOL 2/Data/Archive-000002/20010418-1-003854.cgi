@@ -1,0 +1,7 @@
+A||||5||V8Fiero||140 mph speedo?||||1||
+Z||000000||V8Fiero||10-02-2000||06:53 PM||||I just got a parts car and it has a 140 mph speedo in it. Any idea how rare these things are? I havent decided whether or not to use it in my V8 or sell it. I havent tried it to see if it works yet. If it works are there any takers. That is if I decide to sell.<P>Thanks for the info.<BR>Scooter||||reg||1
+Z||000001||mrfiero||10-02-2000||07:18 PM||||It's probably a Canadian Fiero with the speedo in kilometers.  140 KPH is approximately 85 MPH, so it makes sense that this is a Canadian speedo.||||reg||1
+Z||000002||V8Fiero||10-02-2000||07:22 PM||||oh man, didnt even look at that. Good point. <P>(sitting at puter feeling stupid). Better recheck that........||||reg||1
+Z||000003||V8Fiero||10-02-2000||07:25 PM||||Well it would look cool anyway with the bold numbers at 140....LOL. Thanks. I better learn to look closer at these things. Thanks.<P>||||reg||1
+Z||000004||Songman||10-02-2000||08:26 PM||||I have seen companies that make decals with higher number speedos. But that is all they are - decals. Your speedo is not right after that...||||reg||1
+Z||000005||Chris Schaefer||10-02-2000||09:24 PM||||I have a 140MPH speedometer for my Fiero.  I purchased the conversion from IRM back in 1987.  The conversion was only available for the backlit speedo's.<P>Just thought you might like to know.  BTW, I bet you could still get it today.<P>Chris||||reg||6

@@ -1,0 +1,4 @@
+A||N||2||CFOG||Western Regional Fiero Fest||||1||
+Z||000000||CFOG||06-06-2001||10:10 PM||||The Western Regional Fiero Fest is approaching!! This will be held in San Leandro, CA July 13-15.........Registrations may be made using the club web site  <A HREF="http://www.cfog.org" TARGET=_blank>www.cfog.org</A> ||||reg||1
+Z||000001||Robert||06-15-2001||10:59 PM||||I’m not entered, but I’ll be there.  Got to see what the best looking Fiero’s in the West look like.<P>Robert<P>||||reg||10
+Z||000002||tgowens||06-15-2001||11:14 PM||||why, they look like <I>mine</I> Robert!! - just kidding - don't know if I will have either of mine (gold or blue) in the show - the red one is in KY so it's out of the question! -- It promises to be a great show though and we will even have CD's of photos of all of the entrants available........||||reg||1

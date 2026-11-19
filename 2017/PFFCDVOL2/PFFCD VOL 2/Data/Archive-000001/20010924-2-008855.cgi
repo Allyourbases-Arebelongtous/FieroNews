@@ -1,0 +1,7 @@
+A||||5||Philphine||headers||||1||
+Z||000000||Philphine||03-10-2001||08:13 PM||||<BR>who else beside hooker might have made duke headers? i pulled off a set today and they don't have a tri y design. just wondering what they could be.||||reg||1
+Z||000001||c m west||03-10-2001||08:17 PM||||we have a Hooker (used) Tri Y header for you for $75 if your interested<P>Eric - West Coast Fiero <A HREF="http://www.cwestco.com" TARGET=_blank>www.cwestco.com</A> <BR>310-305-4111||||reg||1
+Z||000002||Philphine||03-10-2001||08:28 PM||||no thanks. just wondering what i might have.||||reg||1
+Z||000003||c m west||03-10-2001||08:58 PM||||the headers that you have are factory headers. They were designed for the formula 4 cylinder to provide hp increases in mid to low rpm range, verses stock manifolds - do not get rid of these, you will not find anything out on the market that out performs the stock design.<P>Eric - West Coast Fiero <A HREF="http://www.cwestco.com" TARGET=_blank>www.cwestco.com</A> <BR>310-305-4111<BR>||||reg||1
+Z||000004||ggarsk||03-10-2001||09:24 PM||||Hooker made 2 headers for the Duke. One's the Tri-Y and the other has the pipes going under the engine where the exhaust pipe goes and the colector is by the rear of the cradle. ||||reg||1
+Z||000005||c m west||03-10-2001||09:58 PM||||The headers that you have are Headman Headers<P>Eric - West Coast Fiero <A HREF="http://www.cwestco.com" TARGET=_blank>www.cwestco.com</A> <BR>310-305-4111||||reg||1

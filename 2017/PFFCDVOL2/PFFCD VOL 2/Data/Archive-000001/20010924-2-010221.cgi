@@ -1,0 +1,3 @@
+A||||1||Ralfy9862||dies after start up ?||||1||
+Z||000000||Ralfy9862||05-06-2001||09:02 PM||||i got an 87 gt and when i start it up 4 seconds after its running the idle drop and it dies .....but it i try to start it again it wil work fine or on any other time of the day. i just have troble with it in the morning .||||reg||1
+Z||000001||gixxer||05-06-2001||09:39 PM||||My 88 V6 pulled a similar stunt on me all last week. Turned out the ECU coolant temp sensor was screwing up, but not enough to trigger the service engine light. <BR>The computer thinks the engine is all warmed up already, so the engine receives a relatively lean fuel mixture. Eventually it triggered the light. Replaced the sensor($11), and all is well. <BR>Hope yours is as easy.  ||||reg||1

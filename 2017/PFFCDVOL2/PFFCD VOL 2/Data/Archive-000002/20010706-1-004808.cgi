@@ -1,0 +1,4 @@
+A||N||2||firstfiero||like a sled with a v6||||6||
+Z||000000||firstfiero||12-15-2000||12:51 PM||||  Drove the fiero on the freezing rain covered roads yesterday....not anywhere near as bad as every one warned me it would. It's at least no worse then the old bimmer I had last year. What do you guys do to get your cars ready for snow driving.    86se  ||||reg||6
+Z||000001||deceler8||12-15-2000||03:42 PM||||Be sure tire pressure is up to specs...195 thermostat, 5W30 or 0W30 oil...<P>I haven't really noticed much difference in traction between my Fiero and the front wheel drive car it replaced. Have to be careful in turns as the Fiero pushes rather than pulls.||||reg||1
+Z||000002||fiero56||12-15-2000||05:12 PM||||I'm thinking about putting a 40lb bag of salt in the front compartment to help with the much exagerated front/rear brake bias in snow.||||reg||1

@@ -1,0 +1,3 @@
+A||||1||danny boy||GTI race||||1||
+Z||000000||danny boy||10-04-2001||10:07 PM|||| This is some funny s*it. Can't remember how I found it.http://geijn.lagcity.com/gti/index.html<P> Also, an commercial for Yamaha Tri-moto from Hurley's Cycle center appeared in my Real Jukebox. It's downright hilarious but I have no Idea where it came from. Has anyone else heard it? Where the crap did it come from???<P>||||reg||1
+Z||000001||FieroKyle||10-04-2001||10:52 PM||||Your a bit late on it, not to piss out your flame or anything, lol,  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">, but you didn't know. Its been posted on here before, everyone thinks its funny. It is a good one. I Like it alot.||||reg||1

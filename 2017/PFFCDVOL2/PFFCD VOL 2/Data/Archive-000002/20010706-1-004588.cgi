@@ -1,0 +1,4 @@
+A||N||2||beachbomb||Looking for a "INDY" parts car!||||1||
+Z||000000||beachbomb||11-29-2000||06:22 PM||||Hi, i'm looking for an Indy Fiero to be a parts car for my Indy. It does not need to run perfect or look perfect. I've talked to a couple people so far but nothing in stone yet, if you have, or know of one somewhere plmk, thanks..jim||||reg||1
+Z||000001||2xsess||11-30-2000||09:47 AM||||Jim, are the parts that you need Indy specific? if not you could probably pick up an 85GT or 86-87SE easier than another INDY.<P>Just a thought  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>Jeff||||reg||1
+Z||000002||Monkeyman||11-30-2000||06:41 PM||||If you're looking for Indy specific parts or an actual Indy in need of restoration, try either Fierodave or Doug Kinney (007Doug).  Both are into Indys.||||reg||1

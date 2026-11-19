@@ -1,0 +1,3 @@
+A||||1||WisconsinGT||Sorry! One more thing.
+Z||000000||WisconsinGT||08-05-99||11:52 PM||||Is there anything I should do with the heads while they are off? My GT has 66,000 miles. 
+Z||000001||batboy||08-06-99||05:38 AM||||I'm not exactly sure what you mean, but the heads should go into a good machine shop and be checked for cracks and to make sure the surface where it mounts to the block is not warped. Then the valves should be ground using a 4 angle valve job for best performance. Also have the valve guides checked and replaced if necessary and the valve springs tested and shimmed if not replaced. Lastly the rocker arms need to carefully inspected. Head work is not cheap, but that's where you make or lose power in an engine, so don't skimp.

@@ -1,0 +1,6 @@
+A||||4||dantheman1998||lightest car||||1||
+Z||000000||dantheman1998||10-28-2001||09:42 PM||||is the fiero the lightest car to put a 350 in or is there a lighter GM car that will fit a 350 in with no or little mods? Please need help on this!!||||reg||1
+Z||000001||Philphine||10-28-2001||09:51 PM||||find the specs for a chevette, vega or a very early chevy II. that'd be my guess.||||reg||1
+Z||000002||baldlobo||10-28-2001||10:05 PM||||try a pontiac firefly(in winnipeg there is one with a sbc 350 in it(no wonder it needs wheele bars <IMG SRC="http://www.fiero.nl/forum/smile.gif">))||||reg||1
+Z||000003||Cooter||10-28-2001||10:29 PM||||How about a Chevette with a Gen2 3800 S/C? Other than being butt-ugly, that would be cool  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000004||Formula88||10-29-2001||12:00 AM||||Well, either the Chevette or Vega.  But if you're going to drive this thing in anything other than a straight line, the Fiero is a MUCH better choice, and probably only weights a couple hundred pounds more, if that.  I don't think the Chevettes or Vegas are gonna be lighter than 2500lbs.  Get a Fiero coupe and strip it.  A stripped down Fiero is still a better car than a loaded Chevette or Vega.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

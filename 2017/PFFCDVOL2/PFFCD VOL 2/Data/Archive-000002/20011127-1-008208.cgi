@@ -1,0 +1,6 @@
+A||||4||mark's 86||Question||||1||
+Z||000000||mark's 86||06-18-2001||03:37 PM||||has any body ever thought of towing a small trailer lets say 31/2 ft long by 4 ft wide and 3 1/2 ft tall and enclosed trailer to have more space to bring along your stuff like on long road trips or to the beach to go fishing and have enough room to put your poles and takle box and does anyone think that the fiero would be able to pull ssomething like that ||||reg||1
+Z||000001||Carrolles||06-18-2001||03:41 PM||||At the shows someone usually shows up with a trailer made out of the rear end of a Fiero.||||reg||1
+Z||000002||isthiswhereiputausername?||06-18-2001||03:50 PM||||I think I need to build one myself  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> <P> <IMG SRC="http://www.fiero.nl/uploads/trailer.jpg"> ||||reg||1
+Z||000003||84Bill||06-18-2001||03:51 PM||||I've always said if your going on vacation and you want to take your fiero, it's best to send it ahead of time||||reg||6
+Z||000004||Songman||06-18-2001||04:30 PM||||I want to do one with the rear and the front of a Fiero. The ones with just the rear are cool, but the blunt front in could be better.... <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1

@@ -1,0 +1,11 @@
+A||N||9||dgroves||Origional engine color||||5||
+Z||000000||dgroves||09-20-2001||06:09 PM||||Have motor back from machine shop now. will paint it before reassembly. What color was it origionally? '86 2.8 GT.||||reg||5
+Z||000001||Steve Normington||09-20-2001||07:49 PM||||Mine is black (85 2.8). AFAIK, only the intake plenum was painted anything other than black.||||reg||1
+Z||000002||JetroGT||09-20-2001||08:10 PM||||I used ford red on my valve covers. But you can paint it any color you want. Heres some ideas.<P> <IMG SRC="http://www.fiero.nl/uploads/Blue.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/Chrome.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/brushedAlu_1.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/gray_2.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/Yellow.jpg"> ||||reg||10
+Z||000003||Indiana_resto_guy||09-20-2001||08:37 PM||||Stock all black except the valve covers and the intake upper plenum. The lower and mid intake are plain aluminum. (stock)<BR>Rebuilds are typically blue.||||reg||1
+Z||000004||Old Lar||09-20-2001||10:40 PM||||The original engine color was red. IMHO the only color that belongs on the 2.8L V6.  If you want to see lots of different engines, go to the Fiero Gallery (bottom of page) and click on engine photos.||||reg||1
+Z||000005||Indiana_resto_guy||09-20-2001||11:28 PM||||&lt;&gt;<p>[This message has been edited by Indiana_resto_guy (edited 09-20-2001).]||||reg||1
+Z||000006||GT GT 87||09-21-2001||12:21 AM||||I'm ready to paint my 3.2 Chev. red. The V-6 book says to etch it first so the paint sticks better. How do I do this and with what ???????????????        Steve||||reg||1
+Z||000007||Carrolles||09-21-2001||01:37 PM||||Old Lar,<P>I've never seen a red engine block on a Fiero.  Mine's black with red upper intake plenum and valve covers and aluminum colored middle and lower intake.<P>Interesting.||||reg||1
+Z||000008||Old Lar||09-21-2001||02:11 PM||||You're right, I'm thinking of the intake and valve covers which are red.||||reg||1
+Z||000009||terryk||09-21-2001||06:23 PM||||When I researched it at the dealer one time (meaning I made them look until they found something), it was none other than Pontiac Bright Red. But, it comes out darker on the valve covers and plenum than the body.<P>There is a listing of engine colors vs engine code and chassis codes. Maybe I can score one from them.||||reg||1

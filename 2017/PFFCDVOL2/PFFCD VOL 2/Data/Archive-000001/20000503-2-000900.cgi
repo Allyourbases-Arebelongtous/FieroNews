@@ -1,0 +1,2 @@
+A||||0||Eddie||WEB SITE||||1||
+Z||000000||Eddie||09-20-1999||08:25 PM||||TO THE GUY (GUYS)<BR>	WHO PUT THIS SITE ON THE WEB .	<P>		IT"S THE BEST  THANKS ||||reg||1

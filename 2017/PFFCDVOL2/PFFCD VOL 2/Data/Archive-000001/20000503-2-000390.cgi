@@ -1,0 +1,4 @@
+A||||2||FieroMike||Clutch!!!
+Z||000000||FieroMike||07-08-99||06:54 AM||||Hopefully there is another solution!!  When I am in fourth on a five-speed 2.8L v-6 and I step on it, the car slips and goes to 4-5,000 RPM and then slowly the rpm's slow down and lock up!!! Ahhhh!  I just had the whole engine out and the clutch looked brand new!!! Any ideas!!!  Thanks for the help!
+Z||000001||theogre||07-08-99||09:59 AM||||yup, it's the clutch.<p>Either you are over powering the clutch, which is easy to do, or the clutch set is wearing out. The only way to fix either problem is tear it out.<p>Personally I'd stick one of CenterForce's sets in it. These use a set of counter weights to tighten the clutch as RPM's rise, and do so without greatly increasing pedal force.
+Z||000002||FieroMike||07-08-99||12:44 PM||||Dang! That's what I thought!! Thanks Ogre.  Back to the garage!! Ahhh.

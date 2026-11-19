@@ -1,0 +1,4 @@
+A||||2||yaya842m4||need help||||9||
+Z||000000||yaya842m4||12-20-2001||08:56 PM||||got an 84 2m4 was running fine.turned off the ignition and 10 min later would not turn over.seems like bat has lots of power(gauges,lights work ect.starter will not even engage.bat connections are clean and solid...any ideas??||||reg||9
+Z||000001||avengador1||12-20-2001||09:02 PM||||Maybe your starter solenoid is stuck.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1
+Z||000002||nosferatu||12-21-2001||03:50 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by avengador1:<BR><B>Maybe your starter solenoid is stuck.<P></B><HR></BLOCKQUOTE><BR>may be your generator of electricity is the problem, they have 2 little carbons wath broked easyly, and check the bands of it. <BR>ciao....<BR><P>------------------<BR>Thanks for all<BR>Sincerily Dr M Cancino||||reg||4

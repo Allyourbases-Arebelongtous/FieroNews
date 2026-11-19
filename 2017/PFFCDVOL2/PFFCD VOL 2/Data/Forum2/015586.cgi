@@ -1,0 +1,5 @@
+A||N||3||tesmith66||Combination driving light/turn signal||||3||
+Z||000000||tesmith66||11-19-2001||01:24 PM||||Does anyone have any info and possibly pictures on converting the parking lights over to some sort of half driving/half parking light affair?<P>P.S. I am only interested in mods that look and behave like original equipment, not any of those "AutoZoney" looking add-ons.<P>------------------<BR>Timothy E. Smith<BR>1986 SE V6<BR>1984 Coupe||||reg||3
+Z||000001||JohnF||11-19-2001||01:30 PM||||Well covered last week & week before.  Go to DRL (Daytime Running Light) in the "Search" function.<P>You should find everything you want to know!<P>------------------<BR> <IMG SRC="http://albums.photopoint.com/j/View?u=1578096&a=12001112&p=56509969&Sequence=0"> ||||reg||10
+Z||000002||tesmith66||12-03-2001||12:57 PM||||Bump||||reg||1
+Z||000003||Jefrysuko||12-03-2001||09:03 PM||||Go here <A HREF="http://www.fiero.nl/forum/Forum2/HTML/014872.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/014872.html</A> ||||reg||1

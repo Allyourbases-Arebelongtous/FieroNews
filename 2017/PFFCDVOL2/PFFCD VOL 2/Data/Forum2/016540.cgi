@@ -1,0 +1,4 @@
+A||||2||johnm||stuck clutch||||1||
+Z||000000||johnm||12-20-2001||02:55 PM||||I have an 84  2.5 , 4 speed . I went to push in the clutch and its solid . It won,t push . It feels like pushing on the brake pedal. <BR>  Any common causes that might have an easy fix before I take the clutch apart ?. Tks ||||reg||1
+Z||000001||MrPBody||12-20-2001||05:04 PM||||Just a guess, but . . .<P>Check your slave cylinder.  If the bracket broke or the pushrod slipped out, the slave cylinder piston will travel to the end of its bore and stop solidly against a snap ring.  Feels harder than brakes.<BR>||||reg||1
+Z||000002||GTDude||12-20-2001||08:16 PM||||Either that or the line from the master to the slave cylinder is pinched closed....or the slave cylinder is frozen solid.  Good Luck.<P>------------------<BR>GTDude's 86GT||||reg||1

@@ -1,0 +1,6 @@
+A||||4||Gokart||Who's going tomorrow?||||5||
+Z||000000||Gokart||03-10-2000||08:20 PM||||I know Cobra will be there as well as myself, was wondering if any other Forum members were going to be at Kick Hill Farms in CT tomorrow for the start of a new Fiero Owners Club of New England (or whatever we decide to call it!)||||reg||5
+Z||000001||88formula||03-10-2000||08:55 PM||||A tall basterd with a low mileage 88 Formula will be there at noon tomorrow to check it out. See ya.||||reg||1
+Z||000002||Gokart||03-10-2000||09:09 PM||||Never knew you're from Worcester! Maybe we could get the 2nd show down here on the Cape this summer?! I'll bet the 1st will be at Kickhill.||||reg||14
+Z||000003||Phil||03-10-2000||09:29 PM||||I R||||reg||1
+Z||000004||Gokart||03-11-2000||08:39 PM||||Just got back and can tell we are going to have one heck of a club and alot of good times ahead! First class people from the board down, Bob's place (Kickhill Farms) was a Fiero Owners dream! He's got a 3 story barn with organized parts from over 1500 different Fiero's! So I couldn't help but picking up a couple of items while I was there! Phil, your yellow Formula rules and I'm sure will be the attention getter at every event! ||||reg||14

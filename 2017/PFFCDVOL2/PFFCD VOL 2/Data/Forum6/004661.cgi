@@ -1,0 +1,2 @@
+A||||0||maryjane||anyone here own a Pathfinder?||||1||
+Z||000000||maryjane||12-05-2001||10:20 PM||||A friend of mine has asked me to help him with starter problems with his 94 Nissan Pathfinder. Thought I would get a little info before I went over there this weekend. <BR>Sounds like the solenoid is his problem, but he says there is a guard in the way,(sounds like a heat shield). How much trouble is it to pull the starter on a Nissan? I think he said it was a v6, but I don't know for sure.<BR>Thanks. ||||reg||1

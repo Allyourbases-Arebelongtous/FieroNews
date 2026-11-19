@@ -1,0 +1,3 @@
+A||||1||GeeDee86GT||Gravel Guard?||||5||
+Z||000000||GeeDee86GT||11-23-2000||09:14 AM||||A guy I known did some rust repairs on his pickup.  He then gave the inside of the engine compartment a good coat of gravel guard followed by black paint.  Do you think this would cause problems around the Fiero battery tray? I think it's hotter in there than most engine rooms.<P>Gary (the sticks)<BR>86 SE||||reg||5
+Z||000001||-=shame=-||11-24-2000||10:14 AM||||Don't think it's necessary. However I've heard of battery insulators. Kinda like a little coat. Stops them from boiling away in that hot compartment. Plus freezing||||reg||1

@@ -1,0 +1,3 @@
+A||||1||Dave85||Cradle bushings||||1
+Z||000000||Dave85||10-14-1999||12:49 PM||||<BR>How hard are they to replace and is there anything I should know before doing this?<BR>Thanks, Dave||||reg||1
+Z||000001||fastonpumpgas||10-14-1999||06:20 PM||||my front 2 were rusted so bad inside the sleave that I have to buy a carbie ( a blade for cutting ceramic tile) saw zaw blade to get them out, my only help I can offer is soak the bolts real good with D-40 and you might need a torch to knock the old ones out, mine were so rusted they welded together with the cradle.  if you are goin gto put in poly bushing dont forget to tap the new sleaves or they will sqeak, and I dont recomend alumiun bushing.  unles you plan to road race||||reg||1

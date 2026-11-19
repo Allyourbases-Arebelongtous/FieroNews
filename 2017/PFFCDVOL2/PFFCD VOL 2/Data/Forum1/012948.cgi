@@ -1,0 +1,3 @@
+A||||1||GTFiero1||is anyone else having problems with PIP?||||1||
+Z||000000||GTFiero1||12-24-2001||10:32 PM||||i'v been haveing problems with PIP. i went to go into, it comes up and turns white (blank) and freezes, so i re-started my computer ad tried again, still does it, i deleted off the computer and re-downloaded it, still doesn't work! help!!!<P>------------------<BR>Adam J. B.<BR>   <IMG SRC="http://www.fiero.nl/uploads/fiero_3.jpg">   <BR>you gotta keep on keepin on...<BR>IM AOL: GTFiero &  Rumpdetective (dont ask)||||reg||1
+Z||000001||mrfiero||12-24-2001||10:38 PM||||It works just fine for me......I have no idea what the trouble is.<P>Good luck.||||reg||1

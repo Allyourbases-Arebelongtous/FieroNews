@@ -1,0 +1,13 @@
+A||||11||hugh||What does Fiero mean?||||1||
+Z||000000||hugh||07-19-2000||08:28 PM||||What does Fiero mean,and what language is it?Spanish?||||reg||1
+Z||000001||fropuff||07-19-2000||08:40 PM||||It means "proud".  I don't know what language; Latin I think.||||reg||1
+Z||000002||Standard||07-19-2000||08:53 PM||||It means "proud" in Italian.  We had a big long discussion about this some time ago.. I'll try to dig up the thread..<P>------------------<BR>Mike -- Golden Valley, MN<BR>Black 86.5 GT 5 Spd, 147,000 miles and counting!  <IMG SRC="http://www.fiero.nl/uploads/BURNOUT.gif"> ||||reg||1
+Z||000003||Standard||07-19-2000||09:03 PM||||Here's that thread.. <A HREF="http://www.fiero.nl/forum/Forum1/HTML/000677.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/000677.html</A> ||||reg||1
+Z||000004||tgowens||07-19-2000||09:35 PM||||I knew it was Italian but for some reason I thought it mean "ferocious"!! -- shows you how much Italian I speak, huh? "please pass the jelly"!!<P>------------------<BR>   <IMG SRC="http://www.tgowens.com/MY_SIGNATURE.gif">               <BR><A HREF="http://www.tgowens.com/fiero" TARGET=_blank>www.tgowens.com/fiero</A>||||reg||1
+Z||000005||gixxer||07-19-2000||10:26 PM||||Looked it up in a Spanish dictionary awhile back. It means "Wild" or Feral", another  meaning:"mishapen". ||||reg||1
+Z||000006||Oreif||07-20-2000||01:11 AM||||F = First<BR>I = Intelligently<BR>E = Engineered<BR>R = Racecar<BR>O = Obviously<P><BR> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/LOGO3.jpg"> ||||reg||4
+Z||000007||FIEROCIOUS||07-20-2000||01:59 AM||||I like ferocious! Isn't that the same as wild or Feral? LOL!||||reg||1
+Z||000008||tgowens||07-20-2000||02:11 AM||||well, see? there ya go!!! it was named after you!! ('cept I just KNOW that Ferocious is not on your birth certificate!)(even tho you may be certifiable!)||||reg||1
+Z||000009||My7Fieros||07-20-2000||03:37 AM||||I love my Fieros! Really! But, you have to constantly invest time, money, and labor or you can<BR>Forget<BR>It <BR>Ever <BR>Running<BR>Otherwise<BR> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000010||Philphine||07-20-2000||10:32 AM||||never made that connection, but i knew feral was a good name for it.<P>------------------<BR><P>'87 coupe (feral)<BR>'84 indy||||reg||1
+Z||000011||BellaFiero||07-20-2000||03:10 PM||||I've got several friends from South America, who say that in the languages there, the word "Fiero" is used to describe a "sly, fox-like creature" or as an adjective; "swift"<BR>Pretty sure the Designers wanted it to be "proud" - but I'm grooving on the Brazilian meaning!! Swift, sly, fox! ||||reg||1

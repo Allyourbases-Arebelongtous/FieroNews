@@ -1,0 +1,4 @@
+A||N||2||3fifty||85 L4 & V6 Cradle the same?||||1||
+Z||000000||3fifty||11-16-2001||07:11 PM||||It is almost time for the 350. I am thinking<BR>about using the transmision and cradle out of my 85 L4 parts car so I can have the engine,trans ect. already mounted when the V6<BR>comes out of my 85 GT. Is the cradle from the L4 a direct bolt in for the V6 car? Thanks for any replies.<P>350 soon!!!!!!||||reg||1
+Z||000001||KRMFiero||11-16-2001||10:45 PM||||Yup, all 84-86 cradles are the same pretty much, all direct bolt in.  88'sare different but there are kits to mount them<P>Kyle||||reg||1
+Z||000002||Galen||11-17-2001||12:49 PM||||84 cradles are differant.<BR>85-87 are the same<BR>88s are differant <P> <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR><B><FONT COLOR="purple">Ray</FONT></B> - <A HREF="http://www.fierolinks.f2s.com/" TARGET=_blank>Fierolinks</A>||||reg||1

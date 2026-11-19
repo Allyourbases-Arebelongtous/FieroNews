@@ -1,0 +1,4 @@
+A||||2||My7Fieros||tgowens||||10||
+Z||000000||My7Fieros||07-17-2000||03:20 AM||||Just in case you're not completely sick of doing this for people yet, could you make  me a signature kinda like yours w/this pic? (w. car and My7Fieros..no background) then tell me how to use it! lol Thanx, Brian    <IMG SRC="http://www.fiero.nl/uploads/Img10a.jpg">   <P>[This message has been edited by My7Fieros (edited 07-17-2000).]<p>[This message has been edited by My7Fieros (edited 07-17-2000).]||||reg||10
+Z||000001||sdm1964||07-17-2000||05:18 AM||||Hey, <BR>Thats my 85 GT, where did you get a pic of her???  Checked outside, she's still there. Nice car, I got the twin.||||reg||14
+Z||000002||My7Fieros||07-17-2000||03:18 PM||||Thanx, its my 86 SE..one of them at least. Ive got another just like it, only w/o a spoiler, I also have a red one.||||reg||6

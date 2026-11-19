@@ -1,0 +1,3 @@
+A||||1||engine18||Code 45 PROBLEM||||1||
+Z||000000||engine18||01-13-2000||11:20 PM||||Upon startup, The car(84 2M4) idle is normal.....Then the RPM will skyrocket to 3000 RPM and the ECM will give me a code 45, rich exhaust.... The Oxygen sensor has been change.  What is causing my rpm to jump from 900RPM to 3000RPM... Would a high rpm cause the ECM compensate for some unexplain reason.  Need some solutions..... Could a faulty EGR cause this problem......<p>[This message has been edited by engine18 (edited 01-14-2000).]||||reg||1
+Z||000001||Luperman||01-14-2000||12:19 AM||||Is it a v-6 have you checked to see if the EGR tube is cracked ?||||reg||5

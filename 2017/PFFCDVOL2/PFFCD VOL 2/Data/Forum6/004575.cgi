@@ -1,0 +1,4 @@
+A||N||2||WhiteFieroBlur||Anyone know about Cisco computer networking?||||1||
+Z||000000||WhiteFieroBlur||12-01-2001||03:18 AM||||Well I am about to goto a votech school begining of the year and take the cisco networking class. I know alot about computers but jack about networking. Anyone know if this is a good field to go into and if i am gonna like it?||||reg||1
+Z||000001||Formula||12-01-2001||10:37 AM||||its my major at penn state.<P>its ALOT easier (math wise) then comp sci and electral engineering.||||reg||1
+Z||000002||Formula88||12-01-2001||01:24 PM||||Oh, yeah, it's good.  I was a Mechanical Engineer for a while, but switched to I.T. (layoffs will do that to ya...)  Anyway, I enjoy the work better and make more money than I did as a M.E.  Cisco *IS* the internet (well, almost), so it's definately a good way to go.  I'm going for my CCNA after the first of the year.||||reg||14

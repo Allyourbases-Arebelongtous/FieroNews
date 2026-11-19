@@ -1,0 +1,6 @@
+A||||4||jhar1987||headlights||||1||
+Z||000000||jhar1987||06-03-2000||12:06 PM||||both lites go up but won't go down? changed isolation relay and both acuators even tried a different lite switch.. any ideas???? 1985 se<p>[This message has been edited by jhar1987 (edited 06-03-2000).]||||reg||1
+Z||000001||Monkeyman||06-03-2000||02:54 PM||||Might be time to rebuild 'em.||||reg||1
+Z||000002||Pontiaddict||06-03-2000||06:38 PM||||Try turning the switch off<BR>then turning the parking lights on<BR>then turning the switch off again<BR>I have to do this on my firebird||||reg||1
+Z||000003||Brian||06-03-2000||10:25 PM||||jhar1987<P>I'm going through the same thing. Swapped the isolation relay & no change. I checked the voltage at the light switch (on the dash) as per the manual & bingo. Bad switch.<BR>Haven't had a chance to change it yet.<P>Now that I've read your post & seen that the switch didn't help I'm wondering if I've found the culprit or not?<P>Regards,<BR>Brian<P>Regards,<BR>Brian||||reg||5
+Z||000004||Brian||06-04-2000||03:28 PM||||I just finished replacing the light switch with a spare I had laying around. The lights went down as soon as I plugged it in!<P>Do you know for sure that the switch you used was a good one?<P>||||reg||1

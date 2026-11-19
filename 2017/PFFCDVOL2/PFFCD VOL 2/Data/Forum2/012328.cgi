@@ -1,0 +1,5 @@
+A||N||3||Tina||Just out of curiosity||||1||
+Z||000000||Tina||07-27-2001||11:24 AM|||| <IMG SRC="http://albums.photopoint.com/j/View?u=1315468&a=11471843&p=52205837"> <P>Always wondered, what is this vent for?<BR>It looks like one, but where does it vent to?<P>A bit puzzled<BR>Tina <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000001||Indiana_resto_guy||07-27-2001||11:30 AM||||That vent maintains air circulation in the passenger compartment while the windows are closed.<BR>Without it the interior would pressurize and you wouldn't get much air flow, ie. in the winter not too much heat . . . . cccccoooollllddd!<P>Better?||||reg||1
+Z||000002||Tigger||07-27-2001||11:31 AM||||It's to vent air to the outside, the air travels in the spaceframe up to another vent behind the sail panel.||||reg||1
+Z||000003||Tina||07-27-2001||11:45 AM||||Thanks for clearing this up for me.<P>Tina   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR><p>[This message has been edited by Tina (edited 07-27-2001).]||||reg||1

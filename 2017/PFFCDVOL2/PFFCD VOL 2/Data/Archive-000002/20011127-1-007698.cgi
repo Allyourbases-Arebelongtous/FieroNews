@@ -1,0 +1,3 @@
+A||||1||mark's 86||hey ausfiero||||14||
+Z||000000||mark's 86||05-26-2001||10:45 PM||||sorry to ask ive been gone but are you going to put any of those mods into production id love to buy one of them from you||||reg||14
+Z||000001||AusFiero||05-29-2001||11:44 AM||||yep Mark.<BR>Speaker pods and consoles are in production but just held up getting things perfect. The body kit will be a bit further down the track. It is at the basic design stage and measured on the car. A long way to go.<P>------------------<BR> <IMG SRC="http://www.jadeweb.com.au/fiero/fiero.gif"> <BR><A HREF="http://www.jadeweb.com.au/fiero" TARGET=_blank>My Fiero</A><BR>When I was young I spent 80% of my money on Women, Gambling and Alcohol. I guess I wasted the rest.||||reg||1

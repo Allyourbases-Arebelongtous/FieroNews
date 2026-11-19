@@ -1,0 +1,3 @@
+A||||1||Philphine||the old threads||||1||
+Z||000000||Philphine||07-26-2001||01:40 PM||||<BR>seems like i can only go back so far when i search. i was looking for a question on head gasket replacement i asked about around a year ago so i wouldn't be repeating myself. plus a thread i have saved dosen't come up anymore (original choptop pics i'm trying to keep up with). is there a way of getting back further or dose the forum kind of purge itself occassionaly?<P>------------------<BR>Phil T.<P>SERENITY NOW!!!!||||reg||1
+Z||000001||isthiswhereiputausername?||07-26-2001||02:15 PM||||anything over 6 months gets archived.. check the "hop to" section at the bottom||||reg||1

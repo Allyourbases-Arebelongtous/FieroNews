@@ -1,0 +1,3 @@
+A||N||1||GT-maniac||Power lock failure||||1||
+Z||000000||GT-maniac||06-16-2001||12:44 AM||||I have a strange problem with my 87 GT, the power lock buttons on the doors both work. But only the passenger door will lock or unlock. I've pulled the wire out of the drivers door and there doesn't seem to be any power there though the part of the harness going up to the switch has power. I can see the relay for the switches under the dash does just the one relay control both sides ?<BR>Will I have to replace this relay ?.  ||||reg||1
+Z||000001||Fierowrecker||06-16-2001||01:49 AM||||I suspect the wire is bad where it bends...<BR>crash...||||reg||1

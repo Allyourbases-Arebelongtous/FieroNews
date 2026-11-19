@@ -1,0 +1,3 @@
+A||N||1||Bugsy||Clutch Master Cylinder||||9||
+Z||000000||Bugsy||10-31-2000||08:29 PM||||Well, My clutch master has been leaking since i bought my 86 SE in May '99.  I just figured out where the fluid was going....my carpet is saturated with it...as well as the pad under it.  My question is this: how difficult is it to rebuild the cylinder?. I was quoted almost $100 at a local parts house for the cylinder, but i can get the rebuild kit for like $25. TIA <P>------------------<BR>86 SE I'm addicted and proud of it<BR>Kevin||||reg||9
+Z||000001||robertjay||10-31-2000||10:31 PM||||Very simple to rebuild, sort of a pain to bleed.||||reg||1

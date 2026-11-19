@@ -1,0 +1,4 @@
+A||||2||Cheever3000||Calling: Goldiron, Ikarian and Htown86GT||||2||
+Z||000000||Cheever3000||10-11-2001||07:28 PM||||Tried to reach you by PM or email.  If you want to go to Southlake on Saturday, let's caravan!  I expect to leave about 10:00 and be back around midnight.  Be there or be bored.  Two of you guys I haven't even met yet!  When are we getting together?  Don't forget the LSF picnic in Huntsville on the 20th.  Know any other Forum geeks around Houston?  I'm assuming FieroMike and FreakySix have dropped out, since they haven't had Fieros for a long time.<P>||||reg||2
+Z||000001||Cheever3000||10-12-2001||12:17 AM||||Mind if I bump this up?  Thanks.<BR> <IMG SRC="http://www.fiero.nl/forum/tongue.gif"><BR>||||reg||1
+Z||000002||Cheever3000||10-12-2001||05:56 PM||||Bumping one more time.  Too bruised to take many more bumps.<P>I heard from Ikarian via email.  Waiting for the other two to see this.<P>||||reg||1

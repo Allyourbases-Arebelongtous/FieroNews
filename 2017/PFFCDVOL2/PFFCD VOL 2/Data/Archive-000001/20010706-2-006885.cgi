@@ -1,0 +1,6 @@
+A||||4||horseman||HELP! ||||1||
+Z||000000||horseman||11-20-2000||09:08 PM||||Hey Everyone,<BR>I can't seem to get any heat to the floorboards. I am freezing and I have to drive a little over 8 1/2 hours home for Thanksgiving. What the heck is wrong? Everything(hot air) goes to the windshield. It is 18 degrees here currently and I don't know how I am going to make it! I don't want to miss mom's dinner. Thanks in advance,<BR>Charlie||||reg||1
+Z||000001||theogre||11-20-2000||09:16 PM||||the control unit or the mode motor behind the radio is messed up. If you've messed with the radio at all then you may have knocked the connector off the motor.<P>there is an article in my cave on this. (MVAC1)||||reg||1
+Z||000002||87GTZ34||11-20-2000||09:58 PM||||If all else fails drive with your feet up on the dash.  BTW is your cruise working?||||reg||1
+Z||000003||horseman||11-20-2000||11:37 PM||||Hey Guys,<P>          I don't know if my cruise is working because the stalk is broken. I guess I'll consult archives or on-line service guide for help on that. I'll also look at the "cave" for some insight. Any other fixes  would be appreciated. Thanks a ton everyone.<P>Charlie||||reg||1
+Z||000004||horseman||11-20-2000||11:41 PM||||Forgot to mention that I have not messed with the radio. Plan to soon ,by adding a CD player.But first priority now is heat!<P>Charlie||||reg||9

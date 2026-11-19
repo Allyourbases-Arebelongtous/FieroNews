@@ -1,0 +1,4 @@
+A||||2||2M4 Dale||Fiero Automatic Tranny to Quad four||||5||
+Z||000000||2M4 Dale||11-04-2000||08:53 AM||||I have a fellow interested in a Fiero auto tranny that I have for sale...He has a 88 Buick ??? (like a Grand Am) with a quad four...will the Fiero tranny bolt to his quad four and into his Buick ????? ||||reg||5
+Z||000001||BroCar 87||11-04-2000||06:15 PM||||Dale, I am/was looking into the Quad 4 swap in the fiero and I was told that there is an adapter that you need to mate the quad to the auto tranny. So I am guessing that you would need the adapter too. <BR><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/Signature2.jpg">  <BR>87 Coupe "IRON BEAST"<BR>   Custom dual side exit exhaust!||||reg||1
+Z||000002||2M4 Dale||11-05-2000||09:52 PM||||Thanks BroCar87....anyone have any more input ?||||reg||7

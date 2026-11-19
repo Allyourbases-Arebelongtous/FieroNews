@@ -1,0 +1,5 @@
+A||N||3||londerville||WS6 Suspension?||||1||
+Z||000000||londerville||09-08-2001||02:50 AM||||Hi,<BR>I was just wondering what the difference is between a base suspension and the WS6 option?<P>Jason||||reg||1
+Z||000001||Standard||09-08-2001||02:57 AM||||The ws6 suspension added differently valved shocks/struts and stiffer springs.  After 13 or so years it doesn't make much difference.  Almost any replacement shock now will be better than the originals and the springs have probably settled in a bit.  So it's mainly one of those "look what I have!" options..  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/sig_pic_full.jpg">        <BR>1988 Quad 4 Coupe 5 speed<P><FONT SIZE="1">1986 GT 5 speed, 1984 SC Auto<BR><FONT COLOR="red">AOL: LastMinuteBastrd  AIM: SavedbyJebus</FONT></FONT>||||reg||1
+Z||000002||londerville||09-08-2001||03:06 AM||||cool!<P>Thanx,<BR>Jason||||reg||1
+Z||000003||ray b||09-08-2001||12:45 PM||||88 only got a rear anti-roll bar in ws6<BR>84-87 better tyres maybe stiffer springs<P>------------------<BR>Question wonder and be wierd||||reg||1

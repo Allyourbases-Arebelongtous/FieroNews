@@ -1,0 +1,4 @@
+A||N||2||kornholio||thick orange wire is accessory?||||5
+Z||000000||kornholio||11-16-1999||05:39 PM||||I am trying to find my accessory wire in the ignition switch harness.  Does anyone know the colour of it?  I have a list of which wires are what colour on a sheet of paper from my alarm company.  It says that the orange wire is the accessory.  Are they wrong?  When I test this orange wire with a test light, it only lights up in run.  Thanks.||||reg||5
+Z||000001||Tim||11-17-1999||12:58 PM||||According to mine wire diagram, try orange at ignition switch. Terminal "I-3" feeds the fan, heater and window fuses via the orange wire.||||reg||1
+Z||000002||kornholio||11-17-1999||05:50 PM||||I checked my Haynes manual and found the right wires.  The sheet of paper is wrong.  Into the garbage it goes.||||reg||1

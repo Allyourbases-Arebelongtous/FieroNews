@@ -1,0 +1,4 @@
+A||||2||Ironhorse||2 questions||||5||
+Z||000000||Ironhorse||05-12-2000||01:57 PM||||Here are the 2 question that I have (this is for 85 Fiero GT 2.8 with auto tranny)<P>1) Is the throttle cable different from any Fiero 4 cyc or V6,  I have 2 4cyc Fiero in junkyard, Could I take that and put it on my GT?<P>2)  I'm gonna redo the interior ALL BLACK, including the driver.. The seatbelt is grey, can I dye the seatbelt or would I need to find another pair that's already black, If can dye seatbelt, how would I do it... if have to buy a set that's already black, what other veh can I fit this in from?||||reg||5
+Z||000001||Monkeyman||05-12-2000||10:16 PM||||Replacing the belts might pose a problem.  Ours are a continuous loop.  Seems like most others actually have a beginning and end.||||reg||1
+Z||000002||SCCA FIERO||05-13-2000||12:37 AM||||The 4 cylinder throttle cable won't work for your V6. I'm pretty sure that all other year model V6 cables will.||||reg||1

@@ -1,0 +1,2 @@
+A||||0||Cheever3000||More pics from Texas get-together||||1||
+Z||000000||Cheever3000||12-13-2001||03:00 PM||||My not-so-shiny GT on the left of the first pic.<P><BR> <IMG SRC="http://www.fiero.nl/uploads/My_Pictures0013.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/My_Pictures0014.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/My_Pictures0015.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/My_Pictures0016.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/My_Pictures0017.jpg"> <BR>||||reg||1

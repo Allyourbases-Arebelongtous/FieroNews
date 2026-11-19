@@ -1,0 +1,4 @@
+A||N||2||johnt671||timing advance||||5||
+Z||000000||johnt671||03-25-2001||08:55 PM||||Thinking about advancing the timing on my 4 4cyl.  anybody got an idea of what works well.  I will be installing a k&n filter, msd blaster coil 8226 and accel 8mm plug wires next weekend and want to try a timing advance as well.  Thanks<P>------------------<BR>||||reg||5
+Z||000001||Cooter||03-25-2001||09:27 PM||||I tried advancing the timing on my old DuckMobile, but all I got was more spark knock, even when using premium fuel. Be careful not to over do it!||||reg||1
+Z||000002||88formula||03-25-2001||10:43 PM|||| Advancing the timing will only shift the power band of the engine lower. The rpm band of the iron duke is already very low so why would you want to do that? You may hurt the performance of the engine by advancing the timing. <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/88formula_logo_1.JPG"> ||||reg||1

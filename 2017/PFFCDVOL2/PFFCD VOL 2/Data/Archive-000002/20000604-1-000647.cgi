@@ -1,0 +1,4 @@
+A||||2||RZURCTN||Cliff, I was just wondering...||||5||
+Z||000000||RZURCTN||12-01-1999||09:27 PM||||when will the rest of your website be up and running?  I know we all bug you a lot and we keep you pretty busy.  But you know how Fiero Nuts are;  we always want more!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  ||||reg||5
+Z||000001||Cliff Pennock||12-02-1999||03:19 AM||||To be honest, it's not very high on my priority list because there are already some very good Fiero sites out there. Also, I'm not very happy with the current layout and I am working on something completely different.<P>It will eventually be up, and when it is I want it to be something unlike any Fiero site out there.||||reg||1
+Z||000002||RZURCTN||12-02-1999||12:52 PM||||Sounds great to me!  I really like your forum and can't help wanting more!||||reg||1

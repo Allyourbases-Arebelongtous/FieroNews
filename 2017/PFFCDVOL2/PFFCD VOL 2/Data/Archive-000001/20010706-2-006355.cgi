@@ -1,0 +1,3 @@
+A||||1||BRIAN CORNELIUS||HOW MANY FIERO REGISTRIES ARE THERE?||||1||
+Z||000000||BRIAN CORNELIUS||10-21-2000||05:48 PM||||How many Fiero registries are there? I know there is one for 1988's and a T-Top; is there one for Indy and GT's, etc? And what are the links? It would be great to have these posted for new members.||||reg||1
+Z||000001||fierosound||10-22-2000||12:27 AM||||Ther's also F.O.L.D. at  <A HREF="http://www.mrmikes.com/fold/fold.htm" TARGET=_blank>http://www.mrmikes.com/fold/fold.htm</A> <P>This is how I located contacted 9 people initially to get the Calgary Fiero Owners Group started.<BR> <A HREF="http://www.geocities.com/calgaryfieros" TARGET=_blank>http://www.geocities.com/calgaryfieros</A> <BR>||||reg||10

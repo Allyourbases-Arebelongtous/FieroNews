@@ -1,0 +1,6 @@
+A||||4||jhar1987||GLOWING MANIFOLDS||||1||
+Z||000000||jhar1987||04-03-2001||09:03 PM||||what do you think,timing or cat.????????||||reg||1
+Z||000001||hugh||04-03-2001||09:14 PM||||Timing,retarded timing can do it.||||reg||1
+Z||000002||Neverfinished||04-03-2001||09:17 PM||||A little politically incorrect don't ya think???    <IMG SRC="http://www.fiero.nl/forum/smile.gif">   <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||12
+Z||000003||Howard_Sacks||04-03-2001||09:19 PM||||My glowing manifolds went away after I replaced the EGR tube and the original pvc vacuum lines with Rodney Dickman's mild steel ones.<P><BR>Howard Sacks<BR>87GT Auto  Badly Hurt see saturnet.net/fiero.mov<BR>86GT 4spd Dead Engine||||reg||1
+Z||000004||DRH||04-04-2001||02:15 PM||||Most likely suspects:<P>- Bad EGR tube (steel tube from EGR Valve to intake manifold)<BR>- Vacuum leak elsewhere<BR>- timing<BR>- plugged cat. or muffler<P>I would minimize or eliminate driving it until it's fixed. Other than the obvious danger of having something glowing red in the engine compartment, I believe heat stress is a factor in causing cracked exhaust manifolds. The hotter it is the more stress you put on it...<BR>||||reg||1

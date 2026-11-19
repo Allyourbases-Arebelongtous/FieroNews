@@ -1,0 +1,5 @@
+A||||3||88 Fiero||Performance for the 2.5 L4 engine||||1
+Z||000000||88 Fiero||11-13-1999||11:46 AM||||I found this website...http://www.amotion.com/p4.html....<BR>This shows you performance parts on your 2.5 liter Iron Duke... They have a Street/Strip Performance Kit that will give the 2.5 a 181HP...Check it out guys and let me know...and who says that a 4 cylinder can't be a Sleeper Car!!!!||||reg||1
+Z||000001||GT Bastard||11-13-1999||03:50 PM||||Right on man.... I looked at that site before, but the stuff was pretty pricey for what it does.  I ended up giving up on my 2M4 and going V6 Fiero.  Good luck though.  The problem is still that the block itself is pretty weak.  Too bad there's not a heavier duty replacment.||||reg||1
+Z||000002||four50four||11-13-1999||04:14 PM||||ever hear of a pontiac super duty???||||reg||6
+Z||000003||88 Fiero||11-13-1999||04:40 PM||||Yep!!! but I don't think you can get the parts for it... I have the book that contains the parts for the SD4 as well as the SD6...John Callies is the head of this SD4 project...I don't even know if he sells the Crank for the SD4....||||reg||1

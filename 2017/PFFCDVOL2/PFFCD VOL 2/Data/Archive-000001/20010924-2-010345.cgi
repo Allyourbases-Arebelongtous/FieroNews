@@ -1,0 +1,3 @@
+A||||1||fiero56||2.8 TB Holley Part #||||5||
+Z||000000||fiero56||05-11-2001||05:51 PM||||I contacted Holley today, armed with what I thought to be the Holley part # for the factory TB. I was told that this number was not a Holley part #, and they had no info on it. <P>Does anyone know if the number on the side of the TB is a GM # or Holley? The number very closely matches the number format used on other Holley products.||||reg||5
+Z||000001||WKDFIRO||05-11-2001||06:21 PM||||10031441 is the number I come up with in the 22P parts book. They are still pretty easy to find in the junkyards for way cheaper than the dealer would have. <P>Let me know if you have problems finding one, Im probably going to the "yard" sometime next week.||||reg||6

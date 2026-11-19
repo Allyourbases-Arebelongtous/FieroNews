@@ -1,0 +1,2 @@
+A||||0||Lynx||Shift Cable
+Z||000000||Lynx||06-06-99||03:00 AM||||Here's the prob. I was trying to slap my car out of reverse without the clutch (car off) and i hit it and messed up the shift cable. It bent it and broke the plastic housing( right behing shifter). Well i figure the best thing is too just go to the wrecking yard and get a new shift cable and throw it in there. Well what i want to know is: Can you get the cable out? How do you get it out(best way)? and last How hard is it?<p>Lynx<p>Remember im just replacing the one bad shift cable. 

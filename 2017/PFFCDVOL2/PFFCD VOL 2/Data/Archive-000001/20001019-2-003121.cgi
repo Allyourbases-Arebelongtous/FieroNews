@@ -1,0 +1,3 @@
+A||N||1||Nightwing||84 idle is way off ???||||5||
+Z||000000||Nightwing||04-10-2000||10:30 PM||||I just got my 1st Fiero 1984 2m4 notch back... now to the point i start it up & idles at 4000 to 5000 rmp no joke .. Checked the pcv valve. Good Vac. & can hear it rattle .. so any other ideas ???||||reg||5
+Z||000001||fierospeeder||04-11-2000||12:05 AM||||could be your IAC idle air control, one way is to check to see if its moving, when you remove the aircleaner, you can see it move while someone turns the key.  Also the engine coolant temp, can be bad, does the cars idle come down after its been warmed up?  ||||reg||1

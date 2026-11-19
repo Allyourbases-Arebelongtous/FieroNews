@@ -1,0 +1,3 @@
+A||||1||wxxo||so il||||1||
+Z||000000||wxxo||06-06-2000||02:28 PM||||ive got a nasty gold 86se v6 4spd. i tried to take a pic for this post but its so damn ugly that it broke the lense in the camera. haha. all of you that live in illinois...where. im in southern illinois (around the carbondale siu area) and i think that ive got the only fiero around. (cept for this ugly chick who tries to follow me around all of the time haha)thinking so il fiero club needs to get started up. need members though. ||||reg||1
+Z||000001||BBBAD GT||06-06-2000||11:56 PM||||Damn!  I grew up and presently work in Carbondale (live in another town tho).  Check you email, and I thought I had the only Fiero GT around.......||||reg||1

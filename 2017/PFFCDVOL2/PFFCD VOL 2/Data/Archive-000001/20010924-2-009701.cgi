@@ -1,0 +1,4 @@
+A||||2||c m west||87 GT A/C Compressor - DA6 or HR6||||1||
+Z||000000||c m west||04-16-2001||01:50 PM|||| curious if anybody knows which ac compressor for an 87 GT||||reg||1
+Z||000001||WKDFIRO||04-16-2001||02:25 PM||||Don't know if it helps but the part number for the 87 GT AC comp was 12329637. Still looking to find out which compressor that was...<BR>     According to the 22 P book the only difference between the DA6 and the HR6 was the shaft seal. The original seal was made up of 4 pieces where as the second design was made up of only 3. This second design started after 84. <P>It almost sound like it implies that the HR6 is the newer design and thus might be your compressor for an 87 GT!<P>Hope that helps.<p>[This message has been edited by WKDFIRO (edited 04-16-2001).]||||reg||4
+Z||000002||Carrolles||04-16-2001||04:11 PM||||My 85SE v-6 uses the DA-6 but I believe they are interchangeable.||||reg||1

@@ -1,0 +1,2 @@
+A||||0||RaeQwan||Haze, come here man.. let me speak to ya .. privately..||||1||
+Z||000000||RaeQwan||11-10-2000||05:34 AM||||okie you all.. didn't you see the privately, but you're already here so I guess its cool. <P>Haze, come on man.. I know my CFA page aint the greatest, but could ya hook me up with a link on ya page man.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> Much thanks man...<P>Yes I modeled your sigline<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/raeqwancfa.gif"> ||||reg||1

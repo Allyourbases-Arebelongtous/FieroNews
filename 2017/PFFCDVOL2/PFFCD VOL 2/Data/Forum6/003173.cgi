@@ -1,0 +1,5 @@
+A||||3||firstfiero||anyone use imagestation?||||1||
+Z||000000||firstfiero||08-30-2001||10:54 AM||||    The thing is driving me crazy! I make a picture file, I choose my meathod of download...click and drop. After I do that I can't find the pics or figure out how the hell to get them into the folder! can anyone help!<P>------------------<BR><BR>   <IMG SRC="http://www.fiero.nl/uploads/firstfiero.gif"> ||||reg||1
+Z||000001||Cliff Pennock||08-30-2001||12:36 PM||||Tell them to make their site "PIP-ready".  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>||||reg||1
+Z||000002||thomas_l||08-30-2001||02:47 PM||||I've used it alot. When I drag/drop to the download target, a status window pops up and I can see the upload in progress. When it's done you browse into the "album" you just created to view the pictures.||||reg||1
+Z||000003||firstfiero||08-31-2001||10:15 AM||||     ahhhh haaa! I don't see a status window. maybe somethings loaded wrong. Thanks<P>------------------<BR><BR>   <IMG SRC="http://www.fiero.nl/uploads/firstfiero.gif"> ||||reg||14

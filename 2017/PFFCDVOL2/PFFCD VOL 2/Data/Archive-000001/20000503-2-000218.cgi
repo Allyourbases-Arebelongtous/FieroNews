@@ -1,0 +1,7 @@
+A||||5||Atlas||Leaky radiator
+Z||000000||Atlas||05-24-99||10:42 AM||||I have a leak in the one of the two metal pipettes that run next to the radiator (looks like its leaking right under the nut.)  What purpose do the pipes serve, and what's the best way to fix it?
+Z||000001||PaUL||05-24-99||01:41 PM||||Does your car have an auto trans and/or AC? If so its either your auto trans oil cooler or the AC condensor. Since my car has neither Im just guessing.
+Z||000002||Atlas||05-24-99||01:56 PM||||Hi Paul,  it's an automatic transmission.  It has AC too, could a leak there keep the system from putting out cold air?  
+Z||000003||theogre||05-24-99||07:45 PM||||If you are talking about the  small lines going to one of the radiator tanks... they are the trans cooler lines.<p>if it's leaking anti freeze, pull the radiator and have it fixed at a shop. the plastic tanks are a pig pain.<p>if it's leaking ATF then the fitting may just need some retightening. assuming there isn't a split in part of it. If it's split the cooler then the tank will need to be pulled apart at a shop.
+Z||000004||Pretender||05-24-99||08:51 PM||||i've got a like new radiator if your intrested....i know, i know this isn't the mall, but it's a reply...:o)
+Z||000005||Atlas||05-25-99||03:18 PM||||Thanks guys!  It's leaking anti-freeze right now, but I wonder if this problem might be connected to the problem I'm having with the car wanting to cutoff after extended runs.  Maybe the leak is causing the tranny to get too hot?  Hmmm...

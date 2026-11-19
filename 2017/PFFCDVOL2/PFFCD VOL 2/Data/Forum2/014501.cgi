@@ -1,0 +1,2 @@
+A||N||0||KRMFiero||88' Cradle in 86'?||||5||
+Z||000000||KRMFiero||10-16-2001||08:39 PM||||well i can get a 88 cradle with suspention, brakes and everything.... who has dont this swap?    what kit did you use? how hard was the converion? any welding required? prices? is it worth it?<P>Held Motorsports seems to have a desent price for it with coilovers but they dont garentee the axles and everything will fit (will they?) they didnt say how hard it was or anything... any one do it? should i?<P>Kyle||||reg||5

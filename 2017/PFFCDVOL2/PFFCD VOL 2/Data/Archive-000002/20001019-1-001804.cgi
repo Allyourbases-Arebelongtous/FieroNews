@@ -1,0 +1,3 @@
+A||||1||lennyb4||HEY CLIFF...||||6||
+Z||000000||lennyb4||04-12-2000||03:27 PM||||Just had a quick comment and question for ya. I noticed in Announcements under the post "Just Wondering". GoKart mentioned something about forum cards that you created? I have seen alot of fieros around my area lately and was thinking if you wanted i could create some kind of card (or you could send me some or e-mail the template, i could print them out)and see if we could get some more people on here. Can never have enough combined knowledge..||||reg||6
+Z||000001||Standard||04-13-2000||12:17 AM||||These are the card's he created:<BR> <IMG SRC="http://www.fiero.nl/uploads/forumcard_1.gif"> ||||reg||14

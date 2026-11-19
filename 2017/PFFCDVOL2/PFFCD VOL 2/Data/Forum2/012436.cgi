@@ -1,0 +1,6 @@
+A||||4||btoth||Fixed exhaust leak - brakes got better!||||4||
+Z||000000||btoth||07-31-2001||04:58 PM||||Well, my manifold near the trunk was (actually still is, sorta) leaking and I had finally traced the leak to it and just tightened down the bolts.  The leak in now about 90% quieter than it was before.  But the weird thing is... my brakes have been working better since I tightened down the manifold. My pedal seems more responsive and I don't seem to have to push it down as far to stop.  I haven't done anything else to the car.  <P>Can this be possible!?  Or am I just nuts.||||reg||4
+Z||000001||Phil||07-31-2001||05:11 PM||||Yes||||reg||1
+Z||000002||Steve Normington||07-31-2001||05:15 PM||||If I remember correctly, one of the brake lines runs near there. If the exhaust leak was heating the brake fluid, it could have made your brakes mushier.||||reg||1
+Z||000003||Formula||07-31-2001||07:20 PM||||its possible but never ask some if your nuts if you own a fiero...... we are all nuts!!||||reg||1
+Z||000004||theogre||07-31-2001||08:34 PM||||there is a brake line across the trunk wall. If you've heated the fluid that much that you were getting mush pedal then you should flush the fluid. Heating it like that weakens all the additives in it as well as boiling it.||||reg||1

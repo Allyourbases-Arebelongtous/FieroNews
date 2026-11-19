@@ -1,0 +1,3 @@
+A||||1||stsmithgt||I'm ready to get sailin'||||14||
+Z||000000||stsmithgt||10-11-2000||12:01 PM||||I ordered some sail panels from the dealership for my 86GT on 8-22-00.  One came in two days later, but the other just came in yesterday!  All I need now is my car back from the Fiero Shop so I can put them on. <IMG SRC="http://www.fiero.nl/forum/smile.gif"> OH YEAH! And some folks didn't think I'd get that second sail panel. <IMG SRC="http://www.fiero.nl/forum/cool.gif">he he||||reg||14
+Z||000001||Old Lar||10-11-2000||04:15 PM||||What did they cost you?  I got a set earlier this year and they were ~$190 each.||||reg||1

@@ -1,0 +1,6 @@
+A||||4||Jericko||TORONTO AREA||||6||
+Z||000000||Jericko||08-01-2001||12:42 AM||||Asides the GTA Fiero Club, and their meetings, are there any other fiero car meets<P>Jericko -84 PL4Y B0Y<BR>ICQ#  112998411||||reg||6
+Z||000001||Jay||08-01-2001||04:57 PM||||Yes every Wednesday night Mapleview mall in Burlington has a huge show and Haugen's just before Port Perry on Hwy 12 every Wednesday night.  Of course there is all of the illegal gatherings that happen Saturday night.  But I can't tell you where they are.<P>------------------<BR>Jay<BR>1986 Northstar GT<BR>www.members.home.net/jaygrande<BR> <IMG SRC="http://www.fiero.nl/uploads/cayuga3_3.jpg"> ||||reg||1
+Z||000002||CanadianGT||08-01-2001||05:22 PM||||Yah tonight at Mapleview............you should go!!!  Im going for the first time tonight!<BR>PeAcE<BR>Kyle||||reg||1
+Z||000003||grinthock||08-01-2001||05:33 PM||||There is the Wed at Mapleview , then there is a Monday night one at Hutches in Hamilton and of course the "unofficial" meets which you can find out from the guys in person at mapleview<P><p>[This message has been edited by grinthock (edited 08-01-2001).]||||reg||1
+Z||000004||Jericko||08-01-2001||06:16 PM||||Does anyone goto the Costco meets??? <A HREF="http://www.torontostreetracing.com" TARGET=_blank>www.torontostreetracing.com</A> ||||reg||1

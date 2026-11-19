@@ -1,0 +1,2 @@
+A||||0||loafer87gt||Any Fiero clubs in Central Canada?||||1||
+Z||000000||loafer87gt||01-10-2000||02:13 AM||||Hi Guys,<P>I was just curious as to if there is any Fiero clubs around Saskatchewan, Canada. I noticed a few other guys on the forum are from around here and was thinking it would be neat to get together at the next car show in Saskatoon this spring. If anyone knows of any groups of fellow Fiero fantatics drop me a line. ||||reg||1

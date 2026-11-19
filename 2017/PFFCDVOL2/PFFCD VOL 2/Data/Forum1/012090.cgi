@@ -1,0 +1,5 @@
+A||N||3||Eric_PA||It's in it's in||||10||
+Z||000000||Eric_PA||11-23-2001||07:47 AM||||actually it's been in for a few weeks. It took a couple of months, but finally, it was worth it. There are a few bugs to work out yet, but I have put 300 miles on it now.   <IMG SRC="http://www.fiero.nl/forum/smile.gif"> I can't wait to see what it got.<BR>  <IMG SRC="http://www.fiero.nl/uploads/Nov23$01.jpg">  <p>[This message has been edited by Eric_PA (edited 11-23-2001).]||||reg||10
+Z||000001||Kasdan||11-23-2001||08:32 AM||||that a NA 3800?<P>------------------<BR>Tyler Morgan, 1986 GT<BR>  <IMG SRC="http://www.fiero.nl/uploads/kassig2.gif">                  <BR>Aftermarket Power Steering, Rebuilt 2.8<BR>http://www.geocities.com/mtyler14/index.html||||reg||1
+Z||000002||Master_Sushi||11-23-2001||05:54 PM||||Looking good!||||reg||14
+Z||000003||Eric_PA||11-24-2001||10:48 AM||||Kasdan... that's an NA 3800 for now  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> It will see NOS later once it's broken in. I still don't have it running up to par.||||reg||1

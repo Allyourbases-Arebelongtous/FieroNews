@@ -1,0 +1,6 @@
+A||||4||DecadenceR||Sunroof||||5||
+Z||000000||DecadenceR||05-26-2001||10:21 AM||||In my 84 SE, the sunroof leaks. I am ordering the replacement seal ffrom the fiero store, but I was just wondering how hard it is to change, and if anyone has any tips for while i'm doing it anything else i should take care of?<P>Also, anyone know where I can get the washer-type things that are in the actual sunroof glass where the hardware attaches?||||reg||5
+Z||000001||speed racer||05-26-2001||11:17 AM||||I got the washers at GM and that stoped my leak.||||reg||1
+Z||000002||Oreif||05-26-2001||12:02 PM||||Use a good silicone sealant. Also since it's an 84 you might want to ad the drain holes to the corners. They are on the 87's and 88's.<BR>I had to add them when I did my 86.<P>------------------<BR>      <IMG SRC="http://www.fiero.nl/uploads/LOGO3.jpg">    <BR><B><I>Got Emblems?</I></B>||||reg||1
+Z||000003||DecadenceR||05-26-2001||06:02 PM||||How / where would I put the drain holes? And where should I put the silicone? If you can't tell, i haven't taken the old strip off, and I have never put another on...||||reg||6
+Z||000004||fierohoho||05-26-2001||10:37 PM||||DecadenceR, check the thread from 05-22 on replacing the sunroof weatherstrip||||reg||1

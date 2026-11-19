@@ -1,0 +1,3 @@
+A||||1||wkayl||Octain question||||5||
+Z||000000||wkayl||11-17-2000||12:07 AM||||My new truck owners manual says to use 87 octane.  Here in Co we have 85 octane with the 87 14 cents higher.  I haven’t had to put gas in yet but will the lower octane cause any adverse effects.  Some have said that the computer will take care of the difference.||||reg||5
+Z||000001||1FST2M6||11-17-2000||08:12 AM||||you'll be fine.. your computer will advust the timing to compensate for the lack of octane. <P>well what kinda truck is it? an brand spankin new one? if so yeah you'll be fine.. if it's some strange Mercedes Gandelawagen i'd say use 87 and only 87!||||reg||1

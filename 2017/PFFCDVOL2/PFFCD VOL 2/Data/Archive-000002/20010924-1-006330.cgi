@@ -1,0 +1,6 @@
+A||||4||firstfiero||online fiero chat....check it out!||||6||
+Z||000000||firstfiero||03-21-2001||10:29 AM||||     Hey guys check out the fiero chat when your on the board. Last night their was 8 of us on their. I don't know if thats good or sad!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> either way it always good for some laughs so if you have the time check it out. ||||reg||6
+Z||000001||Tigger||03-21-2001||12:40 PM||||I was chatting last night too.  We should have a "Didn't make it to Daytona." chat this weekend.||||reg||1
+Z||000002||Galen||03-21-2001||03:11 PM|||| <A HREF="http://www.slackersguild.com/~tc/fieroforumchat.html" TARGET=_blank>Instructions</A> anyone who hasn't chatted with me, but to those who have chatted with me knows what that is, and agrees.. use it! its the same chat as the forum chat..   <IMG SRC="http://www.fiero.nl/forum/smile.gif"> just a differant client   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><p>[This message has been edited by Galen (edited 03-21-2001).]||||reg||1
+Z||000003||fropuff||03-21-2001||04:47 PM||||Sure would be nice if I could use the chat now.  I'm using AOL 3.0, and it won't let me do it.  Oh well.||||reg||1
+Z||000004||firstfiero||03-22-2001||11:04 AM||||   upgrade to 6.0...hell they have upgrades by the truckloads they give away at Circuit city snf just about any video game store!!||||reg||1

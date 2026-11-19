@@ -1,0 +1,3 @@
+A||N||1||AgaricX||Test||||12||
+Z||000000||AgaricX||11-17-2001||06:06 AM||||Just a Signature test, but feel free to leave comments.<P>------------------<BR> <IMG SRC="http://www.agaric.net/fiero/AgaricX.jpg"> <BR>85 SE 3800 Manual<BR>Body Work in Progress||||reg||12
+Z||000001||Dragon||11-17-2001||06:15 PM||||Very nice looking machine with I could get mine to look that good<BR> <A HREF="http://floridafieros.org/daytona2002/" TARGET=_blank>http://floridafieros.org/daytona2002/</A> <P>------------------<BR>Dragon<BR>         <IMG SRC="http://SpaceCoastFieros.com/coupe-trailer.jpg">         <BR>   Space Coast Fieros -&gt; Florida Fiero Council||||reg||14

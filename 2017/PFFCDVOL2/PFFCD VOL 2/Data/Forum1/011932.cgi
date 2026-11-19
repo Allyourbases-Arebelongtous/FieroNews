@@ -1,0 +1,2 @@
+A||N||0||WhiteFieroBlur||Mailman dropped off springs!||||10||
+Z||000000||WhiteFieroBlur||11-17-2001||02:13 PM||||Well I got my first set of springs today it says they ship em seperate so I guess I'll get the next pair soon. But I ordered the suspension tech springs from JC Whitney I'll get them installed soon and let ya'll know how much they dropped and how well they handle. only driven my friends honda with springs so I am new to the springs bit but I'll give info for people who wondered about the suspension tech springs.||||reg||10

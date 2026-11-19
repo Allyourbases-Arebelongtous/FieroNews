@@ -1,0 +1,2 @@
+A||N||0||Fastfiero1||Headers?||||5||
+Z||000000||Fastfiero1||11-19-2001||10:35 PM||||I have an 87 4 TECH $ cyl, and I have been exhausting myself (no pun intended) in an attempt to find headers for it, seems between the internet and through local speed shops, I keep comming up empty.  So far I have made a good effort to gain whatever performance I can with the 87 4 tech and I think headers would make a great addition.  Anyone got any leads??||||reg||5

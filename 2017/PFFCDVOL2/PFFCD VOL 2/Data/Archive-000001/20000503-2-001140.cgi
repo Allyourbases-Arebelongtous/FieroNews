@@ -1,0 +1,7 @@
+A||||5||GWMORGAN||One size smaller.||||1
+Z||000000||GWMORGAN||10-18-1999||03:14 AM||||Recently,my alternator belt broke while on the high-way.As a quick fix,it was replaced with a belt one size (the only one I could get at the time) smaller than the original.I have since driven the car as it is quite a few times and everything seem ok.Can I leave it as it is,or should I put the correct size belt back on? ||||reg||1
+Z||000001||Patrick||10-18-1999||03:30 AM||||<BR>When you say "smaller", do you mean <B>shorter</B> or <B>narrower</B> or <B>thinner</B>? Assuming it's a <B>V-belt</B>, I believe that there's three different ways to measure it.<P>If it's a little shorter than called for, but it's been installed without it being too tight, I'd say it's fine. If it's narrower or thinner, you might be looking at premature wear and/or early failure.||||reg||5
+Z||000002||GWMORGAN||10-18-1999||03:39 AM||||Patrick,<BR>It's the same width and shape,only shorter.||||reg||1
+Z||000003||fiero56||10-18-1999||08:48 AM||||If it is too short and pulling too hard, I'd say you can wear out some bearings on your pulleys prematurely, otherwise you should be fine.||||reg||1
+Z||000004||GWMORGAN||10-18-1999||11:43 AM||||Although the belt is shorter,inward adjustment (going smaller) can still be made on the alternator.There's enough tension on the belt for it to run ok. ||||reg||1
+Z||000005||lowCG||10-18-1999||09:49 PM||||I seem to recall a difference between what the books said,and what really worked on the 4 cylinder car I used to own,should be fine.||||reg||1

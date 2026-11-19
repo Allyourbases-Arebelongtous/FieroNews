@@ -1,0 +1,7 @@
+A||||5||gabriel||Archie?||||1||
+Z||000000||gabriel||05-31-2001||02:19 PM||||From the ck3 thread:<P>&gt;Hey, I'll sell you my TR molds (&/or my F-&gt;40 molds).<P>&gt;With the Fino & Finale I really don't have &gt;the time or desire to make any more of &gt;those bodies.<P>&gt;Archie<P>  I've emailed you, but no reply.<BR> Still interested in selling these items?<P>         -g<P>||||reg||1
+Z||000001||Jefrysuko||05-31-2001||02:22 PM||||Archie....Archie?<P>Where are you?<BR> <A HREF="http://www.fiero.nl/forum/Forum1/HTML/007740.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/007740.html</A> ||||reg||1
+Z||000002||mbramble||05-31-2001||03:06 PM||||Archie recently posted that he is going on vacation.  Can't remember the exact dates.  Maybe he has already left....||||reg||1
+Z||000003||grinthock||05-31-2001||05:08 PM||||yep, he's gone....  What is the result of those 512 molds?   What's it for?||||reg||1
+Z||000004||TRiAD||05-31-2001||09:36 PM||||If I remember correctly, he was in Indiana today, and will leave for Seattle like tomorrow. <BR>He said something about taking a laptop with him?<P>FYI<P>------------------<BR><B><I>Looking for a white '88 GT 5 sp...<BR>...Could it be...Found?<BR>Stay tuned!</I></B>||||reg||1
+Z||000005||gabriel||06-01-2001||12:50 PM||||&gt;What is the result of those 512 molds? What's it for?<P>  Well, he didn't say it was for the 512TR, just the TR, but people sometimes forget the difference between the two.<P>  They would be the molds to make the body parts. ||||reg||1

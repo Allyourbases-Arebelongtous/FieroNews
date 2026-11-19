@@ -1,0 +1,4 @@
+A||||2||huggy||Tach & Idle||||5||
+Z||000000||huggy||09-21-2000||10:01 AM||||The idle on my 84 2.5 is rough surges between<BR>900 and 1000. Have replaced plugs wires and<BR>distributer cap. Also my tach stays at 1000<BR>when the car is turned off, then when you turn the key on it drops to 0, Is this normal. Any input on rough idle any tach<BR>would be greatly appreciated. ||||reg||5
+Z||000001||Carrolles||09-21-2000||10:34 AM||||I don't think the 100 rpm surge at idle is all that odd.  Has it always done that?<P>The tach will not zero when ignition is off.  Neither will the temp and oil press gauge if I recall  correctly.<P>Hope this helps,<P>Carroll||||reg||1
+Z||000002||ROB MAC||09-21-2000||03:41 PM||||If you hear static pops onthe radio and /or you see the headlights flicker when this surge in the idle happens , try disconnecting the headlight isolation relay. ||||reg||1

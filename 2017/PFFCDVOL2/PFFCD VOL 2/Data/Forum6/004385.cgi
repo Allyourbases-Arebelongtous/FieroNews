@@ -1,0 +1,2 @@
+A||||0||JSocha||IWANNIRM...you still around?||||5||
+Z||000000||JSocha||11-20-2001||10:56 AM||||Hey man, you still around?  Don't see you post much (esp in OT) and was wondering if your cell phone is back on line.  PM/Email me when you get a chance and if you have a new number, send me that.<P>Now that I got my cell phone bill paid up from my trip down your way, be expecting a call!  Same with the awsum peoples from Florida!<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> ||||reg||5

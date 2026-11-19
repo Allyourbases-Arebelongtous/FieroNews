@@ -1,0 +1,5 @@
+A||||3||Spektrum-87GT||body panel clips question||||1||
+Z||000000||Spektrum-87GT||09-02-2001||10:44 PM||||ive read before that if you take off any of the body panels, that you have to replace the clips that hold them on. is this true? or partially true? and if i need to get new ones, please tell me they're not a dealer item! thanks.||||reg||1
+Z||000001||theogre||09-02-2001||10:50 PM||||Many are no longer available new. Just what you do for a workaround depends on which clip it is.<BR>||||reg||1
+Z||000002||mbramble||09-02-2001||11:23 PM||||Ardel Distributors is a good source for many of the clips, fasteners, etc.  <A HREF="http://www.ardeldistributors.com/category.html?UCIDs=414669%7C656537" TARGET=_blank>http://www.ardeldistributors.com/category.html?UCIDs=414669%7C656537</A>  The Fiero Store also has a selection...||||reg||1
+Z||000003||MrPBody||09-02-2001||11:27 PM||||Mostly it's the molding clips that break.  And you have to destroy a few rivets to remove rocker panels, fenders, and quarters.<BR>||||reg||1

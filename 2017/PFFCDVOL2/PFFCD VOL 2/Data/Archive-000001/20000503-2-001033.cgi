@@ -1,0 +1,5 @@
+A||||3||RZURCTN||VIN# MIX UP?||||5
+Z||000000||RZURCTN||10-06-1999||01:06 PM||||While I was checking out the VIN# on my 84 and bouncing the # off the codes in my Haynes Manual I noticed something peculiar.  My poor little Fiero is classified as a 6000. The VIN is:  1G2AF37R5EP216695<BR>Is this a typo in the Haynes manual or do I have a screwy Fiero? The AF makes it a 6000 and the 37 make it a notch back.  Any help withthis would be great.||||reg||5
+Z||000001||theogre||10-06-1999||02:03 PM||||below are the results from the <A HREF="http://www.fiero.mn.org" TARGET=_blank>www.fiero.mn.org</A>  vin decoder<P>1G2AF37R5EP216695  <BR>1  Build in: USA <BR>G  Manufacturer by: GM <BR>2  Make: Pontiac <BR>AF  Model: Fiero SE <BR>37  Body Type: Notchback <BR>R  Engine: L4 2.5L <BR>5  Check Digit <BR>E  Year: 1984 <BR>P  Place Built: Pontiac, MI <BR>216695  #:16695  <P> <BR>||||reg||1
+Z||000002||RZURCTN||10-06-1999||02:14 PM||||GREAT!!!  That means that Haynes is wrong.  I should write them a note!  Thanks for the help!||||reg||10
+Z||000003||theogre||10-06-1999||03:17 PM||||don't bother. they know the books are screwy and don't care.||||reg||1

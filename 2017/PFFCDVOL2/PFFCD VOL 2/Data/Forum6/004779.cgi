@@ -1,0 +1,9 @@
+A||N||7||Seanh||How do I find my IP address?||||1||
+Z||000000||Seanh||12-12-2001||10:12 PM||||Errr...how can I figure out my IP address? Thanks...<P>------------------<BR>Sean Heberly - 86 GT<BR>Back to my 3.1L...<BR> <IMG SRC="http://www.fiero.nl/uploads/Image2.gif"> ||||reg||1
+Z||000001||DRH||12-12-2001||10:16 PM||||Try clicking Start &gt; Run.. and type: winipcfg<BR>||||reg||1
+Z||000002||terryk||12-12-2001||10:51 PM||||Or IPCONFIG in a DOS window.||||reg||1
+Z||000003||Formula88||12-13-2001||12:09 AM||||Let me guess, it's 192.168.0.1, right?   <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>Oh, if you have a modem and a network card and use winipcfg, you'll have to select which adapter's IP address you want.  Your modem is usually listed as a "PPP Adapter" and your NIC would probably be listed by name, i.e. "3COM 3C905 Ethernet Adapter"<BR>Also, Internet Connection Sharing will show it's own IP as well.||||reg||6
+Z||000004||Adrift||12-13-2001||01:25 AM||||The easiest way = go to <A HREF="http://www.whatismyip.com" TARGET=_blank>http://www.whatismyip.com</A> <P>Tis' that simple.<BR>||||reg||1
+Z||000005||Formula88||12-13-2001||09:40 AM||||Unless you connect through a firewall, then you might get a false reading.  FYI.||||reg||14
+Z||000006||GodSend||12-13-2001||09:45 AM||||After you get out the washroom, walk outside and take a look at the numbers on the building.  Then you know exactly where you are peeing!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">. bwahahaha!||||reg||1
+Z||000007||btoth||12-13-2001||02:57 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Adrift:<BR><B>The easiest way = go to <A HREF="http://www.whatismyip.com" TARGET=_blank>http://www.whatismyip.com</A> <P>Tis' that simple.</B><HR></BLOCKQUOTE><P>Cool.||||reg||1

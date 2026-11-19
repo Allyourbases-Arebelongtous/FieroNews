@@ -1,0 +1,4 @@
+A||||2||DRH||Mounting extra guages on the windshield pillar.||||1||
+Z||000000||DRH||03-13-2001||11:20 PM||||I just noticed the Fiero Store has these to mount 1 or 2 guages. I have never seen them for a Fiero before and thought I'd share the news. Might be a really neat way to mount a boost guage for a Turbo or SC...<P>Look in the Online Store - Specials section...<P> <A HREF="http://www.fierostore.com/pegasus/index.html" TARGET=_blank>http://www.fierostore.com/pegasus/index.html</A> ||||reg||1
+Z||000001||Predator||03-14-2001||07:15 AM||||I bought them, and installed the boost and fuel/air guages on it. It looks pretty good after you paint it to match your interior.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Fiero4_1.jpg"> ||||reg||1
+Z||000002||KRMFiero||03-14-2001||08:40 AM||||I am going to order the dual one as soon as i get my 4.5L Caddy in  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Kyle||||reg||1

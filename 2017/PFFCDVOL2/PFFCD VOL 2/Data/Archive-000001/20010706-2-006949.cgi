@@ -1,0 +1,4 @@
+A||||2||Richard Parnell||Air conditioning problem||||5||
+Z||000000||Richard Parnell||11-24-2000||07:19 PM||||I have a question re: the ac in my car.  I jsut put in a v8, got rid of the computer.  New compressor and just had the system recharged.  When I try the ac nothing happens.  The compressor does not start.  All the wiring looks ok.  The system has no leaks.  But no ac.  I don't think the ac needs the computer, right?  Does anyone have any suggestions as to what may be the problem relays etc?  The fuses are ok.||||reg||5
+Z||000001||StuGood||11-24-2000||07:33 PM||||Depends on how you set up the wiring, of course.  But on stock Fieros, I believe the A/C engagement <B>is</B> controlled by the ECM.     ||||reg||5
+Z||000002||theogre||11-24-2000||07:44 PM||||not sure about the distributor 4 or the V6 but the DIS 4 ECM definatly controls the AC clutch. They do this so the ECM can adjust idle if need be when the AC is on.||||reg||1

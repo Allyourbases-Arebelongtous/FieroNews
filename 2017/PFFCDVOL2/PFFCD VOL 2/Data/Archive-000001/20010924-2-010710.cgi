@@ -1,0 +1,3 @@
+A||N||1||PKFieroGT||Tranny fluid help please- desperate!!!!||||1||
+Z||000000||PKFieroGT||05-24-2001||02:37 PM||||Hey all,<BR>I wrote a couple of weeks ago about a grind of my 3rd gear in my 4speed tranny on a V6 Fiero. I have a Stupid question really, How do you change the tranny fluid on these trannys!!!<BR>I've looked in my Haynes Manual, but I can't seem to find the info I need, like, where's the drain hole? Do I fill it in the Speedo hole? HELP!!!<BR>||||reg||1
+Z||000001||c m west||05-24-2001||03:45 PM||||there is a bolt w/ a 15mm head on the bottom of the case, and yes - you remove the VSS to refill the case<P>Eric - West Coast Fiero <A HREF="http://www.cwestco.com" TARGET=_blank>www.cwestco.com</A> <BR>310-305-4111||||reg||1

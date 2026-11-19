@@ -1,0 +1,4 @@
+A||||2||RobertVol||North FL / South GA||||10||
+Z||000000||RobertVol||04-30-2001||04:16 PM||||Well I finally got enough time to plan the next meeting. with some input.<P>Check the web site. Will have some info updated then<P>Date: 5-26-01. 12:00 pm <P>------------------<BR>Robert<BR>88GT 56k T TOP  <BR>North Florida Fiero Club<P>CLICK BELOW AND SEE OUR SITE !!! <A HREF="http://fullspeed.to/NorthFLFieros" TARGET=_blank>http://fullspeed.to/NorthFLFieros</A><BR>    <IMG SRC="http://albums.photopoint.com/j/View?u=819451&a=5959473&p=36934984&Sequence=1">   <P>[This message has been edited by RobertVol (edited 04-30-2001).]<p>[This message has been edited by RobertVol (edited 04-30-2001).]||||reg||10
+Z||000001||2xsess||04-30-2001||04:19 PM|||| <IMG SRC="http://www.fiero.nl/forum/frown.gif">||||reg||1
+Z||000002||RobertVol||04-30-2001||08:20 PM||||I am to take this as you will not be able to make it, Jeff? <P>awwwwww||||reg||5

@@ -1,0 +1,6 @@
+A||N||4||fierocd||fuel pump||||5||
+Z||000000||fierocd||03-02-2001||04:48 PM||||I just bought an 86gt and when I turn the car off I hear a humming sound that stays on unless I disconnect the battery.  I'm almost positive its the fuel pump.  Does anyone know what is causing this?||||reg||5
+Z||000001||Jake_Dragon||03-02-2001||06:09 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by fierocd:<BR><B>I just bought an 86gt and when I turn the car off I hear a humming sound that stays on unless I disconnect the battery.  I'm almost positive its the fuel pump.  Does anyone know what is causing this?</B><HR></BLOCKQUOTE><P>Probably a bad relay. It should only hum for 2 sec. then stop till you start the car. I paid $8 at AutoZone for a new one.<P>Good luck.<BR><P>------------------<BR>Jake_Dragon<BR>1985 2.5L Sport Coupe<BR>   <IMG SRC="http://home1.gte.net/rebel33/fiero.jpg"> ||||reg||1
+Z||000002||Stan86SE||03-02-2001||07:54 PM||||Or maybe the oil sending unit.<P>||||reg||1
+Z||000003||Jake_Dragon||03-02-2001||10:09 PM||||They are the same part number and can be interchanged.<BR>I would try replacing one first and if it doesn’t help switch them.<BR>||||reg||1
+Z||000004||fierocd||03-03-2001||12:06 AM||||My oil pressure gauge doesn't work so it might be that.  I'll check it tomorow and see.  Thanks.||||reg||1

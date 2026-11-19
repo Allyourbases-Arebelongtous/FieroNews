@@ -1,0 +1,3 @@
+A||N||1||Luperman||TV Show||||5||
+Z||000000||Luperman||09-16-2000||08:45 AM||||I've trying to find out when star trek voyager season opener starts (what date)I just got a satelite hooked up and having to tune into a station in LA (CA). wierd watching other peoples news well I guess it better than watching static on the screen. TIA.<P>------------------<BR>86 fiero 2M6 V-6<BR>84 Grand Wagoneer 360||||reg||5
+Z||000001||DJRice||09-19-2000||10:38 AM||||Im thinking its the first week in october, but dont quote me on that...<P>------------------<BR>Dillon<BR>Black '87 SE V6<BR>"You mean like the back seat of a Volkswagen?"||||reg||1

@@ -1,0 +1,5 @@
+A||N||3||FreshAir||Worn out selector||||9||
+Z||000000||FreshAir||01-27-2000||01:21 AM||||I just sufferd a great loss: gear selecting between 1st and 2nd.  Tranny-shop next door to work took apart the "External Shift Lever" and discovered that a small plastic bushing has worn out (after 160k miles).  Original part number = 10035023 (according to mechanic).  Does anyone know of a replacement?||||reg||9
+Z||000001||mwbackus||01-27-2000||08:32 AM||||Although you do not state which transmission you have, I am confident that Rodney Dickman may offer what you need to fix it.  Here is the link to his site:<BR> <A HREF="http://www.execpc.com/~rodney1/" TARGET=_blank>http://www.execpc.com/~rodney1/</A> <P><BR>Mike<BR>||||reg||1
+Z||000002||David Gamache||01-28-2000||12:48 AM||||If you refer to the auto gear selector in the center console which clicks through park, neutral, drive etc... I have the whole shifter for 25.00$ if your interested.||||reg||1
+Z||000003||FreshAir||01-28-2000||02:21 AM||||Thanks Mike!  That is exactly what I was looking for.  For the record I have a Muncie 4 speed.<P>Doug||||reg||10

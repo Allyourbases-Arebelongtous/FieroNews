@@ -1,0 +1,4 @@
+A||||2||Archie||Right Hand Drive||||1||
+Z||000000||Archie||12-10-2000||01:12 PM||||I'm looking to collect some more info on converting a Fiero to Right Hand Drive.<P>There used to be a guy in Germany who did this conversion but I've lost track of him.<P>Thanks<P>Archie||||reg||1
+Z||000001||Tina||12-10-2000||02:49 PM||||Just to make sure were on the same page<BR>Are you are talking about moving the steeringwheel to the passenger side?<BR>Be glad to post the Q to the german Fiero List <BR>If anybody they probably would know about the guy!<P>Tina||||reg||1
+Z||000002||OzFiero||12-10-2000||07:19 PM||||Hi Archie,<BR>Lots of guys have experience converting Fieros down under. It's pretty simple with mid engine. Dave at <A HREF="http://www.pontiworld.com.au/fiero.htm" TARGET=_blank>http://www.pontiworld.com.au/fiero.htm</A> <BR>should be able to give you the advice you need.  ||||reg||6

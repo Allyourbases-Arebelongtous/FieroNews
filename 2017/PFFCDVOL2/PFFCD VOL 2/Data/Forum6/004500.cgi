@@ -1,0 +1,12 @@
+A||N||10||[NIFE]Haze||just a test||||14||
+Z||000000||[NIFE]Haze||11-27-2001||06:58 PM||||just a test||||reg||14
+Z||000001||[NIFE]Haze||11-27-2001||07:09 PM||||last test<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/nifelogo_copy.gif"> ||||reg||14
+Z||000002||Lady Pegasus||11-27-2001||07:11 PM||||loking good<P>------------------<BR>Hey pretty....don't you wanna take a ride with me...through my world?||||reg||1
+Z||000003||[NIFE]Haze||11-27-2001||07:14 PM||||Thank You....  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/nifelogo_copy.gif"> ||||reg||14
+Z||000004||[NIFE]Haze||11-27-2001||07:22 PM||||test<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/nifelogo_copy.gif">   <A HREF="http://www.FieroFocus.com" TARGET=_blank>Club Site</A> <p>[This message has been edited by [NIFE]Haze (edited 11-27-2001).]||||reg||14
+Z||000005||Jefrysuko||11-27-2001||07:45 PM||||You lied!  How dare you!||||reg||1
+Z||000006||Haze_Performance||11-27-2001||07:49 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Jefrysuko:<BR><B>You lied!  How dare you!</B><HR></BLOCKQUOTE><P><BR>Lied?<BR>||||reg||5
+Z||000007||reddog||11-27-2001||10:11 PM||||test<BR> <IMG SRC="http://fiero.nl/uploads/P1000053.MOV"> ||||reg||1
+Z||000008||Haze_Performance||11-27-2001||10:18 PM||||  <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by reddog:<BR><B>test<BR>   <IMG SRC="http://fiero.nl/uploads/P1000053.MOV">   </B><HR></BLOCKQUOTE><P><BR>Whats a MOV file? Movie?<P><p>[This message has been edited by Haze_Performance (edited 11-27-2001).]||||reg||5
+Z||000009||Jefrysuko||11-27-2001||10:29 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Haze_Performance:<BR><B> <BR>Lied?</B><HR></BLOCKQUOTE><P>You said your second post was your "last test"  <IMG SRC="http://www.fiero.nl/forum/tongue.gif">||||reg||1
+Z||000010||[NIFE]Haze||11-27-2001||10:46 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Jefrysuko:<BR><B> You said your second post was your "last test"   <IMG SRC="http://www.fiero.nl/forum/tongue.gif"></B><HR></BLOCKQUOTE><P><BR> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/nifelogo_copy.gif">  <A HREF="http://www.FieroFocus.com" TARGET=_blank>www.FieroFocus.com</A> ||||reg||7

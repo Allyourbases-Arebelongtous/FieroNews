@@ -1,0 +1,6 @@
+A||||4||TOM||Anyone recognize this console||||1||
+Z||000000||TOM||03-23-2000||11:54 PM||||I need to know what it is for. Thanks <A HREF="http://albums.photopoint.com/j/View?u=141908&a=1039804&p=18202709&Sequence=1" TARGET=_blank>http://albums.photopoint.com/j/View?u=141908&a=1039804&p=18202709&Sequence=1</A>  <A HREF="http://albums.photopoint.com/j/View?u=141908&a=1039804&p=18202712&Sequence=1" TARGET=_blank>http://albums.photopoint.com/j/View?u=141908&a=1039804&p=18202712&Sequence=1</A> ||||reg||1
+Z||000001||fierospeeder||03-24-2000||01:36 AM||||the ashtray looks like a ford.  Im going to the junkyard on sat. if i spot anything ill leave a reply.||||reg||1
+Z||000002||theogre||03-24-2000||08:02 PM||||look around it and see if there are any numbers. maybe molded in..... If you list the numbers I maybe can at least tell you who it was made for.||||reg||1
+Z||000003||TOM||03-25-2000||12:52 AM||||I dont think it is a ford part. I know ford numbers and have never seen a ford part that didnt have a number somewhere. This thing has no numbers anywhere on any piece.||||reg||1
+Z||000004||Oreif||03-25-2000||03:52 PM||||It looks simular to my cousins 1968 Olds Cutlass. Could it be a GM console from a Buick skylark or Pontiac lemans? I can definately say it's late 60's early 70's era. As for GM it looks more like a GM than a Ford.  ||||reg||1

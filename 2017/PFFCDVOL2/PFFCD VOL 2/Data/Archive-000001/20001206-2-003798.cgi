@@ -1,0 +1,6 @@
+A||||4||87PegasusGT||Clutch starter kill adjustment? Help...||||1||
+Z||000000||87PegasusGT||05-17-2000||03:36 PM||||You know how the manual tranny won't start unless the clutch is depressed? Well , mine won't start unless it is pushed in a certain amount. If you push the clutch in all the way, you get the same result as not pushing it in at all? How do I fix this?||||reg||1
+Z||000001||theogre||05-17-2000||11:00 PM||||Sounds like the switch is bad. I don't think they are adjustable. maybe the bracket is bent? (Yey another joy of owning an automatic. I don't have to fool with this. I won't say how sick of clutch problems I am again.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> )||||reg||1
+Z||000002||Carrolles||05-17-2000||11:21 PM||||Mine was out of the car when I bought it.  The wires were cut and twisted together so the circuit is always closed.  I've never had a problem in almost 3 years and 20000 miles.<P>Don't know if the switch is adjustable.  Call or write to Ed parks at the Fiero Factory at     fierofactory@juno.com<BR>(256) 420-5391<P>Good luck,<P>Carroll||||reg||1
+Z||000003||87PegasusGT||05-18-2000||06:11 PM||||Where is the switch located?||||reg||1
+Z||000004||theogre||05-18-2000||06:29 PM||||on the pedal hardware someplace. may have 2 switches on it if it's got cruise.||||reg||1

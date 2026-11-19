@@ -1,0 +1,3 @@
+A||||1||88formula||Muncie 282 5-speed clutch fork removal?||||1||
+Z||000000||88formula||08-20-2000||07:59 PM||||How do I remove the clutch fork so that I can replace the bushing and seal on my 88formula 282 5-speed transmission? The GM service manual I have says to use a special tool but I know someone here has concocted a way to remove the clutch fork shaft without that special tool.||||reg||1
+Z||000001||Rodney||08-20-2000||10:16 PM||||I have a tool to do that job. You also need it to reinstall the bushing also. On my web page. When you install the bushing fill the small void below the seal with a thin grease. This prevents the shaft from rusting in the future. <BR> <A HREF="http://www.rodneydickman.com" TARGET=_blank>www.rodneydickman.com</A> ||||reg||1

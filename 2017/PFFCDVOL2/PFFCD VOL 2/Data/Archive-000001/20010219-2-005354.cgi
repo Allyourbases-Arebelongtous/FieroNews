@@ -1,0 +1,2 @@
+A||||0||GodSend||Hard start when warm..||||1||
+Z||000000||GodSend||08-21-2000||03:54 PM||||My 87 Gt stalls when the engine is warm right after starting her up.  If I give gas for 15-20 seconds it drops to 500 (almost stall) and then levels out at 1000 rpms.  <P>  So far I have onl tried injector cleaner and a new air filter.  Im brand new to the Fiero thing, soo any suggestions on where to look next would be apppreciated..||||reg||1

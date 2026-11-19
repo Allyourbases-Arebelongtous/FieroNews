@@ -1,0 +1,9 @@
+A||||7||JohnnyK||Possible clutch problem||||1||
+Z||000000||JohnnyK||03-29-2001||09:28 PM||||What would happen if the clutch arm were to throw too much? Let's say .5" too much? Any damage could become of it? I can't remember exactly what it was like in there from when I took it apart.||||reg||1
+Z||000001||Formula88||03-30-2001||12:09 AM||||I would guess, worst case scenario is your clutch would stick disengaged, but I doubt that would happen.  What makes you ask?  Any particular symptoms?||||reg||6
+Z||000002||JohnnyK||03-30-2001||03:18 AM||||No man, I'm just in the midst of designing a mechanical clutch linkage for it. Want to make sure I have thought of everything that could possible go wrong.||||reg||1
+Z||000003||Phil||03-30-2001||07:42 AM||||If you have too much throw the throw out bearing will push the aginst the clutch disk and shove it up against the flywheel. Also over flexing the pressure plate diaphragm  will eventually break it.  You asked.||||reg||1
+Z||000004||Archie||03-30-2001||08:50 AM||||Ditto on what Phil said, ....... except that when you over travel the Diaphram, you push up against the center hub of the Disk. The center hub of the Disk is not designed to take that load and will break sooner rather than later.<P>Archie<BR><p>[This message has been edited by Archie (edited 03-30-2001).]||||reg||1
+Z||000005||Formula88||03-30-2001||09:03 AM||||See what happens when you try to re-invent the wheel?  Good luck on that new linkage!||||reg||6
+Z||000006||JohnnyK||03-30-2001||12:58 PM||||Oh, it'll be no problem.. I'll just make a stop. Trust me man, if this is reinventing the wheel, the wheel was horribly made. I GUARANTEE this linkage will be a work of art. No more messy hydraulic lines, no more sticky shifting, no more grinding.. I can't wait!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000007||Phil||03-30-2001||04:07 PM||||The wife's 97 Subaru has a cable setup for the clutch||||reg||1

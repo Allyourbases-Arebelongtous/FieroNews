@@ -1,0 +1,3 @@
+A||N||1||FieroSTETZ||ceramic turbos||||1||
+Z||000000||FieroSTETZ||07-21-2001||11:19 PM||||was reading a mustang mag - had an article about turbos w/ ceramic bearings, looks neat, no oiling system, no turbo timers, faster spooling (there are ones w/ ceramic impellers) i think this would be great for a fiero, fast spooling and no oil line plumbing, anyone have more info?<P>------------------<BR>     <IMG SRC="http://www.shawnrocks.com/Animation1.gif"> ||||reg||1
+Z||000001||Pontiaddict||07-22-2001||12:55 AM||||Nope but the cost is probably too much.<BR>You can also get turbos with carbon fiber impellers.||||reg||1

@@ -1,0 +1,3 @@
+A||||1||LEE498||Auto?-4 speed?
+Z||000000||LEE498||05-03-99||10:27 PM||||<br>I have an auto v6 fiero with a high stall converter and shift kit.It runs pretty good but the motor it's weak,and I'm in the porcess of building a 3.2. I also have a 85 v6 4speed recked. A buddy of mine want's to buy my auto trans and converter(his is fading fast).I mention to him i was thinking of swicthing. Would it be worth it? Is it too difficult? Has any one ever done this before?I have all the part's to do the swicth.Pedels,lines,trans,shaft's,computer,shifter,everything.I'm going to pull the motor soon if i'm going to do it I'll do it then. Need some advice! 
+Z||000001||theogre||05-04-99||08:36 AM||||Transmission conversion is not difficult. just very time consuming.

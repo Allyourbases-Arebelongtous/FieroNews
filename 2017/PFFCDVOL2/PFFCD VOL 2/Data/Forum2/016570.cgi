@@ -1,0 +1,3 @@
+A||||1||BENGAL4||Clutch wont release||||1||
+Z||000000||BENGAL4||12-21-2001||08:13 AM||||Got home from work yesterday, and everything was fine. I put it in neutral to get my mail, and when I put it in gear, I noticed that the pedal was real hard. I let the pedal out and the car was moving, but when I depressed it, the car was still moving. Any suggestions?<BR>||||reg||1
+Z||000001||Phil||12-21-2001||08:28 AM||||Doesn't sound good. I would have somebody push the pedal while I was watching the clutch arm and see how much movement you have. Just a wild guess but sounds like you have overthrown the TO bearing and jammed it up. What kind of clutch you running Mr. Lead foot?<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/carwreathsig_1.gif"> ||||reg||1

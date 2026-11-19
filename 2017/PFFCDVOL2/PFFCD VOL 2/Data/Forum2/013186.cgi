@@ -1,0 +1,3 @@
+A||||1||NEPTUNE||front brake upgrade||||5||
+Z||000000||NEPTUNE||08-28-2001||09:39 AM||||I want to upgrade using 90 Beretta/Grand Am rotors, but would rather  not use the cast iron calipers that go with this setup. has anyone tried the later model (99) aluminum grand am rotors? they would look better with custom wheels, and would add less unsprung weight....<P>------------------<BR>||||reg||5
+Z||000001||Indiana_resto_guy||08-28-2001||02:03 PM||||Best read the documentaion in theogres cave (link at bottom of page) before you do anything.<P>Oh, welcome to the Forum!<p>[This message has been edited by Indiana_resto_guy (edited 08-28-2001).]||||reg||1

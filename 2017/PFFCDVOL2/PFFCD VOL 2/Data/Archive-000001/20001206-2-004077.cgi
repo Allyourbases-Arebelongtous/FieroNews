@@ -1,0 +1,5 @@
+A||N||3||Lewis||Feel pretty dumb about this question?||||1||
+Z||000000||Lewis||06-02-2000||01:45 PM||||Where is the sending unit...I have haynes book and I am unable to find location of sending unit..I have 85GT Auto with air..thanks...||||reg||1
+Z||000001||lennyb4||06-02-2000||01:47 PM||||Which sending unit?||||reg||1
+Z||000002||Lewis||06-02-2000||02:35 PM||||Oil sending unit...I found it though..it has a three prong connector on the top and a tube going to the back of the motor....My oil pressure guage is erratic..it idles about 275kpa or 39psi and moves up and down..while i drive it stays about 380kpa or 56-59psi at 2500 rpm..and guage jumps around every now and then while i am driving..tried cleaning the connections but still does it...should i replace it?||||reg||1
+Z||000003||DiggityDan||06-02-2000||03:16 PM||||Here's the fix and explanation why: <A HREF="http://www.franken.de/users/dagobah/luke/fieroidx.html" TARGET=_blank>http://www.franken.de/users/dagobah/luke/fieroidx.html</A> <BR>This is a great resource for little, often unknown problems.||||reg||1

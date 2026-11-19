@@ -1,0 +1,6 @@
+A||||4||fldevel||What do i need to bolt a 2.8 v6  to a 4 cyl auto tranny ?||||1||
+Z||000000||fldevel||11-13-2000||05:32 PM||||just waning a little input on what i need to do to put a v-6 in a 2m4 ..with the engine bolt up to the auto tranny or do i need anything special??? ||||reg||1
+Z||000001||Indiana_resto_guy||11-13-2000||10:27 PM||||All you need are bolts and the flywheel off the V-6.||||reg||1
+Z||000002||tgowens||11-14-2000||03:33 AM||||you might want the wiring harness and ECM from the v-6 too.......just make sure the harness and ECM are from a v-6 4-spd<P>------------------<BR>                 <IMG SRC="http://www.tgowens.com/tgowens_sig.gif">                             <BR><A HREF="http://www.tgowens.com/fiero" TARGET=_blank>www.tgowens.com/fiero</A> - Blue '87 GT - Gold '87 GT<BR><A HREF="http://www.cfog.org" TARGET=_blank>www.cfog.org</A> - Classic Fiero Owners Group<BR><A HREF="http://www.fieroshop.net/" TARGET=_blank>http://www.fieroshop.net/</A> - Fiero Shop - Richmond, CA - 1-510-23-FIERO||||reg||1
+Z||000003||fldevel||11-14-2000||01:19 PM||||is the auto tranny computer controled ?? or can u use the ECM from the doner car wich is a 4 sp manual ??||||reg||1
+Z||000004||Got2manyfieros||11-14-2000||02:02 PM||||If your car is an 84 you will need the entire in dash harness, the fuel lines, and a lot of patience.||||reg||1

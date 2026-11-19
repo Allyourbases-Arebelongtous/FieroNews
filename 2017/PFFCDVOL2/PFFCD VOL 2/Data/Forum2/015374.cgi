@@ -1,0 +1,4 @@
+A||||2||DTH||replacement head||||5||
+Z||000000||DTH||11-13-2001||05:05 PM||||What year of heads can I put on my 84 2.5?  Thanks   DTH||||reg||5
+Z||000001||ITB 2M4||11-13-2001||11:00 PM||||I'm using a pick-up truck head on my '84.  It doesn't have those annoying little 'vanes' in the middle of the intake runner that take up room otherwise used by fuel and air.  If you have to pass smog restrictions, this might not be a good thing tho'.  The vanes are there to help mix the air/fuel better for emmisions purposes.<P>------------------<BR>SCCA ITB '84 Fiero 2M4||||reg||1
+Z||000002||84fierotrevor||11-14-2001||12:36 AM||||Dude i got the same problem as you,<BR>They seem to be a *****  to find,<BR>I just got one from Chris and I am having it installed, If it works I will let you know,<BR>But according to my mecaninc it has to have the casting numbers, 373 on it.||||reg||1

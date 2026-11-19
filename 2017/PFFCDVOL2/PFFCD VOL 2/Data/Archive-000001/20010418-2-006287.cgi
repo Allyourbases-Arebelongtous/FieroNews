@@ -1,0 +1,9 @@
+A||||7||PatrickB||Fiero Store Poly Dogbone||||1||
+Z||000000||PatrickB||10-17-2000||07:21 PM||||I had purchased the Poly Dogbone inserts from the Fiero Store about 6 months ago and today I was checking the engine.  I noticed that the engine can still rock back and forth about 1/4 of an inch and there is play in the dogbone.  Anyone know whats up with that?  Is there supposed to be a little play or did I not do something?<P>Thanks,<BR> Pat||||reg||1
+Z||000001||ka4nkf||10-17-2000||08:24 PM||||I purchased the ultimate dog bone from the fiero store and mine is tight and no play. I dont know about the bushings, because I bought mine complete. mine Is the V6||||reg||1
+Z||000002||2xsess||10-17-2000||08:42 PM||||Yeah, I bought mine complete too and my engine doesn't move.<P>------------------<BR>Jeff<BR>85GT||||reg||1
+Z||000003||theogre||10-17-2000||10:55 PM||||1/4 inch of motion caused by engine loading is normal. You shoudn't be able to move it by hand much if at all. also depends which motor and tranny how engine load will appear.<P>are you sure both bolts are tight?||||reg||1
+Z||000004||86SEFIERO||10-18-2000||03:38 AM||||I put in the replacement dogbone bushings<BR>in my v-6 86 and it doen't move at all? Maybe your lower motor mount is wore out.  ||||reg||1
+Z||000005||PatrickB||10-18-2000||11:54 AM||||I looked hard at the dogbone and everything looks good.  Yes I can move the engine if I stand in the trunk, grab the front of the plenum and pull back.  I guess its time to do another inspection of the other mounts...<BR>||||reg||1
+Z||000006||stsmithgt||10-18-2000||06:22 PM||||That's got my vote.  So many mounts so little time. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000007||theogre||10-18-2000||07:37 PM||||yeah.... was under mine a few days ago changing the exhaust manifold again and saw my engine mount. not much left of it at all.||||reg||1

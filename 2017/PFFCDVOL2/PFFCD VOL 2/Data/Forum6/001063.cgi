@@ -1,0 +1,4 @@
+A||||2||My7Fieros||Forum blue on desktop, but RED on laptop!?||||9||
+Z||000000||My7Fieros||12-09-2000||03:54 AM||||Ok when Im on my desktop computer, the forum is normal..blue backgrounds.....however, when Im on my laptop (like now)..the "blue" background is RED! Whats the deal? Everything else is fine, just the background. Its an old (about 4 years old) NEC laptop. Its only 100 mghz, and has less than 1 gig of hard drive space..but it does fine. Is there anyway to make the background normal on the forum on here..or does it have something to do with the fact that its just an old computer? TIA, Brian.<BR>||||reg||9
+Z||000001||Seanh||12-09-2000||04:51 PM||||First off, what browser program are you useing? Try downloading the newest version of it from their website, I think that might be the problem.||||reg||1
+Z||000002||My7Fieros||12-09-2000||06:41 PM||||I dont know...internet explorer..dont know what version though....||||reg||1

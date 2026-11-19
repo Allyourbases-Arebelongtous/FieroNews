@@ -1,0 +1,3 @@
+A||||1||sinoloa||Ogre and Others||||10
+Z||000000||sinoloa||11-09-1999||12:21 AM||||I would like to thank everyone for their help. I finally got my car to idle right.  After $170 worth of experimenting, the last sensor we installed (the temp. sensor) was the one that did the trick.  It runs like a new fiero.  Without this great site, it would've cost us much more.  We've learned tons from you guys. Now we've got to replace the front brakes and headlights, so I'm sure you'll be hearing from us again.||||reg||10
+Z||000001||theogre||11-09-1999||12:58 AM||||I didn't even think of that one. The ECM temp sensor goes bad so infrequently.......<P>glad it's fixed dude.||||reg||1

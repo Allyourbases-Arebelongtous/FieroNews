@@ -1,0 +1,3 @@
+A||||1||Homicidal||I NEED THIS PART! I got the model number and ALL! ||||4||
+Z||000000||Homicidal||04-20-2000||10:42 PM||||It's a little black rubber.....stopper it looks like. The pushrod of the slave cylinder goes into it which mvoes the fork.<P>                          But I have no name:<P>                          GM Model #: 10026256 (2)<P>                          Anybody know of any searches or anything?<BR>||||reg||4
+Z||000001||2M4 Dale||04-21-2000||12:02 AM||||Go to   Lustine.com  and check them out. All you need there is a factory part number. If they have one it will probably be cheap !!!||||reg||7

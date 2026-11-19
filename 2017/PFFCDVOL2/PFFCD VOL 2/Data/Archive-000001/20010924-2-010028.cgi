@@ -1,0 +1,5 @@
+A||||3||MrPBody||Isuzu 5th gear fix||||1||
+Z||000000||MrPBody||04-29-2001||11:44 AM||||The Isuzu 5-speed in my '85 SE has been slipping out of 5th gear for a few months.  Not popping out forcefully, but slipping gently out of gear while coasting.<P>After some thought -- worrying about transmission rebuild -- I checked the 5th gear detent.  I couldnt remove the %$#@! detent ball; it sticks in its hole!  With a rolled piece of sandpaper, I have enlarged the hole enough that the ball no longer sticks in operation, although I still can't get it out.  On the 450-mile round trip to Toney, it worked fine -- so I guess I'll call it fixed.<P>Has anyone else had this problem?<BR>||||reg||1
+Z||000001||Fierowrecker||04-29-2001||07:39 PM||||Who would admit they had sticky balls?||||reg||1
+Z||000002||MrPBody||04-29-2001||09:14 PM||||Or who would admit to sandpapering them?<BR> <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>||||reg||1
+Z||000003||Steve Normington||04-30-2001||12:04 PM||||I think you mis-read the original post. He wasn't sanding his ball, he was sanding his hole to enlarge it.||||reg||7

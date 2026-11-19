@@ -1,0 +1,3 @@
+A||N||1||mpicanso||Just picked up an 87GT and have a couple or questions||||10
+Z||000000||mpicanso||09-14-1999||02:00 PM||||Hello everyone, I am new to this group, as I just found.  Like I said I just bought an 87GT and the heater core let go and leaked all over the passenger floor.  What is the best way to clean this up.  Also I was seeing a white color-less smoke coming from the vents when every the A/C or Heat was on, any ideas????||||reg||10
+Z||000001||Dan||09-14-1999||09:12 PM|||| The smoke is leaking coolant from the heater core. If you have antifreeze in it , it probably had a sweet smell to it. Best way to clean it up is with an extraction type rug shampooer with the upholstry attachment.||||reg||12

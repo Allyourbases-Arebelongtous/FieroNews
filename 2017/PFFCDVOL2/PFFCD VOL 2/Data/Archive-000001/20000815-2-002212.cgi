@@ -1,0 +1,5 @@
+A||||3||HF6582||Clutch Pedal replacement||||5||
+Z||000000||HF6582||02-02-2000||11:00 AM||||This is for those of you that have replaced your pedal with the steel one. Did you keep the return spring on the pedal? V8 Archie says in his site that it is not needed.<P>Scott||||reg||5
+Z||000001||BOILERMAKER||02-02-2000||12:53 PM||||When I replaced mine (trying to think back) I didn't buy one new piece (I had a steel one from a wreck) and I used everything that originally was on the aluminum pedal.  The only thing I did (once everything was done and put into place) was put the steel one in the place of the aluminum one.||||reg||1
+Z||000002||SpeedPhreak||02-02-2000||01:03 PM||||i just replaced mine like 3 wks ago.  i did NOT keep the spring & it worked fine (till the dealer took it back).||||reg||1
+Z||000003||William Federle||02-02-2000||01:25 PM||||I replaced mine a couple of months ago with a new steel pedal from the Fiero store and I didn't replace the spring. It works just fine.<BR>||||reg||1

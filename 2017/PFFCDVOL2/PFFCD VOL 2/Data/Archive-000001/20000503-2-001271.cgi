@@ -1,0 +1,12 @@
+A||N||10||tabasco||EGR TUBE||||8
+Z||000000||tabasco||10-31-1999||05:01 PM||||WHERE IS THE BEST PLACE TO BUY ONE||||reg||8
+Z||000001||88formula||10-31-1999||05:33 PM||||Have a professional welder weld the one you have, this is a real common problen with these cars and it will only happen again.||||reg||1
+Z||000002||K9||10-31-1999||06:43 PM||||The only place that I could find one was at the GM dealer and they wanted $275 (Can.) just for the part! ||||reg||9
+Z||000003||SCCA FIERO||10-31-1999||08:01 PM||||I think West Coast Fieros sell a flexible EGR tube for $99.00 US. I just went to the site and looked for it, but didn't find it. Maybe it was on another site...||||reg||6
+Z||000004||Linx||10-31-1999||09:12 PM||||The fiero store has 'em for $95.  Still alot of money.  Yknow- these tubes bear an amazing resemblance to gas appliance hose.  Im certain it would work if you could reproduce that flat flare at the ends.<P><A HREF="http://www.fierostore.com/product/products.html" TARGET=_blank>the Fiero Store</A><P>Look in "emissions".<p>[This message has been edited by Linx (edited 10-31-1999).]||||reg||1
+Z||000005||Tim||10-31-1999||09:56 PM||||IRM in Maryland has what you need.<BR>A custom EGR "hose" made of braided stainless. Looks good and should last.  <P>US$90 <BR>(301)948-3301<P>No web site or email that I know of, someone has scanned the catalog to the net.||||reg||10
+Z||000006||Tim||10-31-1999||10:11 PM|||| <A HREF="http://www.geocities.com/MotorCity/9159/irm.html" TARGET=_blank>http://www.geocities.com/MotorCity/9159/irm.html</A> <P>(800)367-8423||||reg||1
+Z||000007||sinoloa||10-31-1999||10:50 PM||||tabasco:<BR>what's your car doing?  What kind do you have.  I may be having some EGR problems, too.  ||||reg||5
+Z||000008||88 Fiero||10-31-1999||11:06 PM||||FOCOA sells them...life time guarantee...||||reg||1
+Z||000009||BENGAL4||11-01-1999||10:21 AM||||I have an extra one that I will sell for $50.00. E-mail me if you want it.<P><BR>Bill||||reg||14
+Z||000010||FieroGT||11-02-1999||02:53 PM||||Just use the $2 fix like I did. <P>Go to a junkyard and get an EGR tube from a Camaro or Firebird. You will have to slot the bolt holes on the flange, the side that bolts to the EGR side. Intake side lines up fine. It may be easier to pull the plenum to do this. When you get the tube, you'll see why. The tube has fixed flange ends on both sides. Only difference is that the F-body tube doesn't have the heat shield material like the Fieros. I've had mine on my car for over 6 months with no ill effects. ||||reg||10

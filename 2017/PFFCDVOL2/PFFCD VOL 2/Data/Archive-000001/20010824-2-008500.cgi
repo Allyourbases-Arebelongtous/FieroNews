@@ -1,0 +1,5 @@
+A||N||3||GT-maniac||Engine origin question||||1||
+Z||000000||GT-maniac||02-16-2001||11:08 PM||||Can anyone tell me a way of identifying whether the replacement 2.8 engine I have originally came from a fiero ? It was pulled out of an 85 GT, I know that, and I read somewhere that you could identify a fiero engine by the letters on the side of the block. But my block doesn't have any letters. My block has the number 820 on the left and rear sides. As well as a long engine number stamped into it.||||reg||1
+Z||000001||terryk||02-16-2001||11:26 PM||||There are three letters cast into the block, but you'll need the list to verify it. Most dealerships can dig it up for you. The Fiero block is the same as the W engine used in the 85 and up X an A cars too.||||reg||1
+Z||000002||ray b||02-17-2001||12:39 AM||||does it have a vin # on the front of block left side. if replaced won't # match but will have P as mid # in long string if was from a fiero or other letter if other cars.<BR>if no vin was crate motor. ||||reg||1
+Z||000003||terryk||02-17-2001||12:50 AM||||Might be a rebuild too. They don't seem to remove the VIN from Goodwrench engines.||||reg||1

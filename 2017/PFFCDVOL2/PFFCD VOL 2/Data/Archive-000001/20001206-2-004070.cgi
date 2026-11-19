@@ -1,0 +1,3 @@
+A||N||1||Chance||Slave cyl bleeder screw||||4||
+Z||000000||Chance||06-02-2000||05:56 AM||||What size of bleedeer screw is on the clutch slave cyl? I was looking at getting a "speed bleeder" replacement for it...<BR> <A HREF="http://www.speedbleeder.com/size.htm" TARGET=_blank>http://www.speedbleeder.com/size.htm</A> ||||reg||4
+Z||000001||bad88||06-04-2000||02:31 PM||||I remember replacing my slave cylinder and i thought the nut was 10 mm so the threads are probably metric...not my area of expertise but if you go to the hardware store (or auto parts)and find a bleeder there. you should be able to measure the threads to get an idea||||reg||1

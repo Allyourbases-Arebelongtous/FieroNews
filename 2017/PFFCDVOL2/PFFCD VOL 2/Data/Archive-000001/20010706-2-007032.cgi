@@ -1,0 +1,3 @@
+A||||1||HYPTNOTiSE||How many teeth on a fiero flywheel?||||1||
+Z||000000||HYPTNOTiSE||11-29-2000||01:05 AM||||Does anyone know how many teeth are on a stock fiero flywheel? I really dont feel like counting  <IMG SRC="http://www.fiero.nl/forum/wink.gif">  Thanks! I'm looking into getting a gear-reduction high torque starter for my 3.2  <P>------------------<BR>       Mike LeCompte<BR>86 Fiero GT 3.2L w/ Nitrous<BR>  <IMG SRC="http://www.tcac.net/~daddyg/hypsig.gif"> ||||reg||1
+Z||000001||Steven||11-29-2000||03:35 PM||||Sorry for the long wait. I had to pull the engine to get to the flywheel and count teeth. Just kiding. I just bought an '88 flywheel for my 3.2 conversion, and counted them for you. The answer is 142 teeth. Hope that helps||||reg||1

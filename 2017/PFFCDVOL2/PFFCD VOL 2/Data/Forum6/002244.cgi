@@ -1,0 +1,6 @@
+A||||4||rodmcneill||Another birthday for me||||12||
+Z||000000||rodmcneill||06-08-2001||09:41 AM||||It seems like it was just a year ago. Call in sick or go to work?||||reg||12
+Z||000001||FieroJoe||06-08-2001||10:54 AM||||Happy Birthday!<P>It depends on how old you are...whether you stay home or go to work.<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/joesig_1.jpg"> <BR>'87 Coupe 5spd.<BR>AIM:FieroJoe87||||reg||1
+Z||000002||Steve Normington||06-08-2001||11:21 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by rodmcneill:<BR><B>Call in sick or go to work?</B><HR></BLOCKQUOTE><P>It depends on the state of your Fiero.<P>Need money to buy parts / upgrades / cool stuff = Go to work.<P>Need time to install parts / upgrades / cool stuff = Call in sick.<P>||||reg||1
+Z||000003||flyntus||06-08-2001||01:08 PM||||Have a good one no matter which way you go.<BR>||||reg||1
+Z||000004||Butter||06-08-2001||03:45 PM||||Rodmcneill,<BR>Happy birthday and take a good ride in your Fiero.<P>Steve Normington,<BR>You related:<BR>It depends on the state of your Fiero.<P>Need money to buy parts / upgrades / cool stuff = Go to work.<P>Need time to install parts / upgrades / cool stuff = Call in sick.<P>I do that everyday!<P>||||reg||12

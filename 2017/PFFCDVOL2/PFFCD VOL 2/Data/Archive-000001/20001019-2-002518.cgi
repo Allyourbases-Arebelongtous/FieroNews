@@ -1,0 +1,6 @@
+A||N||4||FIERONUT||tach filter||||5||
+Z||000000||FIERONUT||02-28-2000||10:53 PM||||Hey anyone out there? Does anyone know where the tach filter is on a 84 se? im desperate. third request....... Also anyone know if Bob Steiger from Twin Lakea Auto Body in Loda,Il has e mail? thanks||||reg||5
+Z||000001||Carrolles||02-28-2000||11:07 PM||||I don't know where your tach filter is but I'm sure Ed Parks of the Fiero Factory does and would be glad to tell you.  Call him at (256) 420-5391 or e-mail him at<BR>Fierofactory@juno.com<P>Good luck,<P>Carroll||||reg||1
+Z||000002||Cooter||02-28-2000||11:09 PM||||On my 85 SE the filter is a silver cannister located on the rear of the engine- the drivers side of the car where the tranny and engine bolts together. I believe that it is held on with one of the tranny bolts. It has a two wire connector that is tied into the tach circuit and distributer.||||reg||1
+Z||000003||Carrolles||03-01-2000||12:00 AM||||Here is the pic from my 85 Helms manual for the 4cyl tach filter.  I assume it should be similar on your 84<P> <IMG SRC="http://www.fiero.nl/uploads/tachfilterl4.gif"> ||||reg||1
+Z||000004||FIERONUT||03-01-2000||12:20 AM||||Thanks guys for your quick response....I will check it tomorrow.||||reg||1

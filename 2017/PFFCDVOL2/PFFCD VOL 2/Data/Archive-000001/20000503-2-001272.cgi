@@ -1,0 +1,9 @@
+A||||7||AL||cruise control||||1
+Z||000000||AL||10-31-1999||06:10 PM||||<BR>ok my cruise control don't work, checked hoses and they seem fine, is ther any hoses connected to the back of the system? i have to fittings but don't have any hoses to it, do any hoses go to those two fittings?||||reg||1
+Z||000001||Wolfhound||10-31-1999||06:21 PM||||I have two working cruise controls with nothing attached to the fittings. <BR> I,m assuming you are refering to the two adjacent conections on the smaller part of the cruise. ||||reg||1
+Z||000002||Bill Osmer||11-01-1999||01:04 PM||||There's alot more to the cruise control "system" than the vacuum lines. A lot is electrical - have you checked the switches at the brake and clutch pedals? Have you verified the stalk functionality? (this one's a pain). I've done the job, and can help with details, some of which are in manuals, some of which is electrical troubleshooting. Let me know....||||reg||6
+Z||000003||AL||11-01-1999||07:50 PM||||well bill as you kow the haynes bok doesn't show s--t so how about a little help, thanks.al||||reg||1
+Z||000004||86_Fastback||11-02-1999||04:37 PM||||Bill,  I am in the same boat.  Can you give me some help?  Pictures would be a bonus.<BR>Gregg||||reg||1
+Z||000005||Tim||11-02-1999||10:31 PM||||Start here&gt; <A HREF="http://members.xoom.com/fierov6/OSG/diag.cruise-control.html" TARGET=_blank>http://members.xoom.com/fierov6/OSG/diag.cruise-control.html</A> <P>Good luck||||reg||1
+Z||000006||AL||11-04-1999||09:54 PM||||thanks guys||||reg||14
+Z||000007||Greg Piet||11-04-1999||10:05 PM||||OK I have bypassed the clutch switch that requires that the clutch be depressed to start the car.  Is this the same switch as used for the cruise?  I thought that the clutch had two switches on the clutch pedal.  I cant see any other fault in my cruise, but it doesnt work. ||||reg||1

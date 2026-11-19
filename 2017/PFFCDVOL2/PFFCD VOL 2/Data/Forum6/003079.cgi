@@ -1,0 +1,10 @@
+A||N||8||FieroKyle||STICKDEATH.com||||1||
+Z||000000||FieroKyle||08-24-2001||12:20 AM|||| <A HREF="http://www.stickdeath.com/frameset.htm" TARGET=_blank>http://www.stickdeath.com/frameset.htm</A> <BR>one of the funniest sites  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000001||FieroLisa||08-24-2001||12:42 AM||||I've seen that before...it's sick but hilarious||||reg||1
+Z||000002||LT1 Chop Top||08-24-2001||12:59 AM||||I love the "Beast" series!<P>||||reg||14
+Z||000003||AkursedX||08-24-2001||01:40 PM||||Poor Stickman  <IMG SRC="http://www.fiero.nl/forum/frown.gif">  What a life it must be to die over and over again.....it's a least repititive, if anything  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR><BR> <IMG SRC="http://www.fiero.nl/uploads/sigpic2_2.jpg"> ||||reg||9
+Z||000004||Mach10||08-24-2001||07:32 PM|||| <IMG SRC="http://www.fiero.nl/forum/smiley_drunk.gif"> Death to the Greeners!  <IMG SRC="http://www.fiero.nl/forum/smiley_drunk.gif"><BR>||||reg||10
+Z||000005||Fierokid87||08-24-2001||10:33 PM||||These animations are pretty funny.  sick but funny<P>Scott<P>------------------<BR><FONT COLOR="BLOODY"> Fierokid's  Web site<BR>http://www.angelfire.com/sports/sfiero<P>AIM: Fieroguy1987<BR>ICQ: Fierokid</FONT><P>    <IMG SRC="http://www.fiero.nl/uploads/sfiero.JPG"> ||||reg||1
+Z||000006||FieroKyle||08-24-2001||10:36 PM||||The beast is great. Its not really sick, its just sticks. HaHa, I like how they refer to all the mean stupid people in the world as "greeners". I like the one that they have the Volkswagon driving through Greenville and what the Greeners kill eachother.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||12
+Z||000007||Leadfoot||08-24-2001||10:39 PM||||Houston we have a problem....I can't see the site.  <IMG SRC="http://www.fiero.nl/forum/frown.gif">||||reg||1
+Z||000008||FieroKyle||08-24-2001||10:45 PM||||Just clicked on it, site is underconstruction  <IMG SRC="http://www.fiero.nl/forum/frown.gif"> <A HREF="http://www.stickdeath.com/" TARGET=_blank>http://www.stickdeath.com/</A> <BR>||||reg||1

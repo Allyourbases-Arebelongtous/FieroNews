@@ -1,0 +1,3 @@
+A||||1||learner||Erratic idle at startup||||1||
+Z||000000||learner||01-12-2000||10:14 PM||||This is certainly an impressive and active chat room but I have discovered the answer to my problem by paging through the subject titles.  Symptoms:  Upon cold start engine speeds up to about 1500rpm drops rapidly back to about 600; acts as if it will stall; speeds up; slows down; cycles through this for about 1-11/2 minutes; settles down to idle at 900 rpm.  Doesn't do this on warm start.  Suggestions?||||reg||1
+Z||000001||Dave85||01-12-2000||10:31 PM||||My car had the same problem. I thought it might be the tach filter but I just changed the fuel filter Sunday and the problem is gone. I couldn't believe the poo-poo that was in there. The car sure runs better.||||reg||1

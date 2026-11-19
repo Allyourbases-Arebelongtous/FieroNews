@@ -1,0 +1,3 @@
+A||||1||Dumba$$||auto to stick conversion!!||||1||
+Z||000000||Dumba$$||12-03-2001||08:58 AM||||whell in ditching my auto and im gonna be putting in a 4 speed  probibly at the end of this week     im expecting a huge diff. in the the way the car feels when driven<BR>ive only driven 2 clutch fiero's <BR>im a big fan of the auto expecially with my shift kit, butt i just think it will be a whole lot funner to drive a clutch fiero!!!<P>------------------<BR>Rich<BR>Sioux Falls SD<BR>Red 84 SE<BR>Gold 86 SE <BR>98 acura cl 3.0<P>4.9 caddy engine for sale 30,000 miles complete with bubba joes mounts!!  $750||||reg||1
+Z||000001||jeffndebrus||12-03-2001||09:49 AM||||WHY ARE YA SELLING THE 4.9 PUT IT IN.<BR>NOW THAT WOULD FEEL DIFFERENT!||||reg||1

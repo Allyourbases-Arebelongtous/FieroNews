@@ -1,0 +1,3 @@
+A||||1||batboy||Christmas cards||||12||
+Z||000000||batboy||12-23-2000||08:25 AM||||<B>Meowy Christmas</B><P> <IMG SRC="http://www.fiero.nl/uploads/xmascats.jpg"> <P><B>Hope you get what you want!</B><P> <IMG SRC="http://www.fiero.nl/uploads/xmasboys.jpg"> <BR>||||reg||12
+Z||000001||Monkeyman||12-24-2000||12:25 AM||||Merry Christmas, bb.  One of my employees adopted a cat recently.  I decided to name him (her?).  I thought "WheelChock" was appropriate. <IMG SRC="http://www.fiero.nl/forum/smile.gif">  (I know.  You like cats.  That's OK.  Nobody's perfect. <IMG SRC="http://www.fiero.nl/forum/smile.gif">)||||reg||1

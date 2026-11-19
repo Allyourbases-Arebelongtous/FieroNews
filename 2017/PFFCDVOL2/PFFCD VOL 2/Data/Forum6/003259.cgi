@@ -1,0 +1,5 @@
+A||||3||Sootah||Need help finding an inactive member's site||||1||
+Z||000000||Sootah||09-06-2001||01:32 AM||||I am looking for this site cause he had some sweet-ass rims on his car and I am thinking about getting some like them.<P>Here's what I remember about him:<BR>   His sig had a pic of his car and a little devil like thing in the top left corner<P>   The site had before and after pics of his car and below the after pic the phrase 'depreciation my ass'<P>   There was a tut on there on how to make a custom intake out of a PVC pipe<P>That is a bout all I can remember. Any help would be appreciated.<P>Thanx -<B>Sootah</B><P>-----------------<BR><I>Never pull your pants down in Cosco, the dang monkeys will getcha</I>||||reg||1
+Z||000001||onfire||09-06-2001||03:25 AM|||| <A HREF="http://www.geocities.com/fiero88gt1/" TARGET=_blank>http://www.geocities.com/fiero88gt1/</A> <P><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/onfiresig.jpg"> ||||reg||14
+Z||000002||Oreif||09-06-2001||08:25 AM||||That is sjp777. ||||reg||1
+Z||000003||Sootah||09-06-2001||11:37 AM||||I knew that it had 3 #'s on the end of the username! Thanx.||||reg||1

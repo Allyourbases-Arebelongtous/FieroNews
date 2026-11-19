@@ -1,0 +1,3 @@
+A||||1||72vinman||Fiero's over the border||||5||
+Z||000000||72vinman||07-20-2001||04:52 PM||||I guess this question is mainly for all the Canadians out there. Has anyone brought a car over the border. What is involved? I think I found the car I want at a price I can afford but it is in Colorado. Does anyone know how much it would cost to ship it over by truck? <BR>Please help. Thanks 72vinman@home.com||||reg||5
+Z||000001||fierosound||07-20-2001||06:18 PM||||Everything you need to know about importing a vehicle is here   <A HREF="http://www.riv.ca/" TARGET=_blank>http://www.riv.ca/</A> <P>To check for auto transfort companies, check here  <A HREF="http://www.movecars.com/" TARGET=_blank>http://www.movecars.com/</A> <P>||||reg||1

@@ -1,0 +1,4 @@
+A||||2||Gokart||Little help! EGR issue||||5||
+Z||000000||Gokart||03-02-2000||11:16 AM||||I banged out today cause it's sunny and warm and hopefully I can pinpoint my code 32 yesterday. I pulled the plenum and checked tube and it's fine. Where is the egr solinoid and/or switch? Could have it been my connection at the plenum or valve with the tube? I'm thinking that maybe I had a leak? Would that cause the code? TIA for help!||||reg||5
+Z||000001||DJRice||03-02-2000||11:22 AM||||The EGR solenoid is a black vacuum cylinder looking gadget with a square box on it.  It is located above your water pump but below the Thermo housing and mounted horizontally.  It has a wire connector, several vacuum hoses, and is about 6 inches long.<P>Hope this helps.||||reg||1
+Z||000002||Gokart||03-02-2000||03:31 PM||||Sure did! You pinpointed for me. Thanks DJ! Put the one in from my parts car and code is gone. ||||reg||14

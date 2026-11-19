@@ -1,0 +1,2 @@
+A||||0||mrtgman||Great parts source!||||10||
+Z||000000||mrtgman||10-05-2001||05:15 PM||||Just wanted to let everybody know that I found a great source for parts.<BR> <A HREF="http://www.partszoneonline.com" TARGET=_blank>www.partszoneonline.com</A> <P>I ordered all the dew wipes, inside and out, and a left rear marker lamp. Delivered to my home in less than a week! Cost around $72.00. thats about $15.00 less than gmparts direct.<P> ||||reg||10

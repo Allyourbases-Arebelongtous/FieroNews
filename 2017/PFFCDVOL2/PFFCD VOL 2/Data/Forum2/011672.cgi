@@ -1,0 +1,5 @@
+A||||3||John E. Rowlett||loseing power||||1||
+Z||000000||John E. Rowlett||06-28-2001||09:04 PM||||I have a loss of power after driving on the freeway for a period of time and inthe heat (phoenix). Today I had to drive about 50 Miles, mostly freeway but some was city. Air temp was about 108F. The car never overheated at all but acted like it was running out of gas. At a stop I had to keep rpm up to keep it from stalling. Also I'm new Fiero owner and don't know very much yet. I have built and raced drag cars most of my life, so I'm mechanical but don't know the ins and outs of the Fiero. My Fiero is a 85 GT, 4 Speed, pure stock.<BR>Thanks   John R<P>------------------<BR>||||reg||1
+Z||000001||PBJ||06-29-2001||12:20 AM||||cat is plugged.||||reg||1
+Z||000002||John E. Rowlett||06-29-2001||06:33 PM||||Thanks for the response and I will check it out.||||reg||1
+Z||000003||88formula||06-29-2001||06:51 PM||||Good guess, a vacuum gauge will tell you if your cat is getting plugged. The instructions on how to test it come with the gauge.<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/88formula_logo_1.JPG"> ||||reg||1

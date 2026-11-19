@@ -1,0 +1,3 @@
+A||N||1||Jay||Northstar||||1||
+Z||000000||Jay||10-06-2000||09:07 PM||||Well, my 1986 GT with a 97 Northstar engine is finally in!!  Still running at only 70%  The TCC is starting the car in 2nd gear and cutting power.  The moduel will be hooked up this week-end.  Still as is it ran a 13.9 at the track over the week-end.  Once TCC is installed I expect times to drop!<BR>Check out my website at <A HREF="http://www.members.home.net/jaygrande" TARGET=_blank>www.members.home.net/jaygrande</A> <BR>Thanks for all the help along the way||||reg||1
+Z||000001||frontal lobe||10-06-2000||11:55 PM||||Congratulations, Jay.  I'm envious, but I know it was lots of hours of hard work.  Enjoy the pay-off.||||reg||1

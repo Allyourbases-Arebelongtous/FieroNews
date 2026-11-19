@@ -1,0 +1,5 @@
+A||||3||v8vinnie||KYB,s||||1||
+Z||000000||v8vinnie||01-22-2001||08:48 PM||||hey guys which is better the, KYB GR2, OR JUST THE KYB,s, i think  the regular kyb are stiffer than the GR2 , is this true, if it is ill trade my GR2  for the regular ones.||||reg||1
+Z||000001||mrfiero||01-22-2001||11:47 PM||||They make a GR-2 front shock and a monotube front shock.  The monotube version is stiffer than the GR-2.  I personally think it is too stiff, but to each his own.<P>The monotubes are about twice as much as  the GR-2's.  ||||reg||1
+Z||000002||v8vinnie||01-23-2001||06:56 PM||||well the stock struts i had on the car when i bought it were new, but one side was not working all the time so i replaced them with the kyb,s, but the ones i had on didnt have a manufactures name ,but they did have more compression which i think would work better on the extra toque of the v8, are monroes or senseatracks better struts?||||reg||11
+Z||000003||v8vinnie||01-24-2001||07:16 AM||||what ,no more opinions on this one, just kidding!!||||reg||1

@@ -1,0 +1,7 @@
+A||||5||v8vinnie||pumper stops||||1||
+Z||000000||v8vinnie||01-06-2001||08:28 AM||||hey guys another question. Tommorow i am going to finish my poly bushings in the back end, and also instaling my lowering springs front and rear, should i trim the bump stops front and rear, or leave them alone, i will be using the pro spring kit from the fiero store,any suggestions?.||||reg||1
+Z||000001||jerpro||01-06-2001||11:47 AM||||that is personal preference.<BR>I would leave them alone just for the hassle but you can trim them if you want.<BR><P>------------------<BR>Only try your best, and if you don't succeed... TRY HARDER.||||reg||1
+Z||000002||rockcrawl||01-06-2001||12:35 PM||||The rear bumbstops are built into the struts and they cannot be modified. Like jerpro said, the fronts are personal preference. depending on how much you lower it, they might hit all the time and need to be trimmed.<P>------------------<BR>Jon Lagler<BR>'87 GT<BR>4.9 liter V8 Testarossa Spyder (under construction)<BR> <IMG SRC="http://www.fiero.nl/uploads/rockcrawlsig.jpg"> ||||reg||1
+Z||000003||v8vinnie||01-06-2001||06:14 PM||||IM ONLY DROPING IT I INCH?||||reg||1
+Z||000004||Wade87GT||01-06-2001||07:02 PM||||Hey Vin, If you haven't already you might want to read this thread: <A HREF="http://www.fiero.nl/forum/Forum2/HTML/007628.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/007628.html</A> ||||reg||1
+Z||000005||v8vinnie||01-06-2001||08:45 PM||||THANKS FOR THE QUICK INFO, FOR NOW IM GOING TOJUST PUT THE SPRINGS IN THEN MABE DO THE BUMP STOP MODIFICATION.||||reg||1

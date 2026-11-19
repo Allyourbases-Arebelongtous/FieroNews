@@ -1,0 +1,5 @@
+A||N||3||86SEFIERO||Do four cylinder fieros work better for v-8 swaps or do v-6 fieros?||||1||
+Z||000000||86SEFIERO||10-12-2000||02:51 AM||||<BR>Which ones better to install a v-8 into? Which one works better to hook up fuel pump and coolant lines? ETC.. Thankyou?||||reg||1
+Z||000001||theogre||10-12-2000||08:38 AM||||The only relevant issue is the fuel pump. that depends on the motor you use. Carb motors will want the 4 cyl fuel pump. EFI depends what systems it is.||||reg||1
+Z||000002||elfiero||10-12-2000||09:33 AM||||I've put 3800's&TPIV8's in all model fieros<BR>and by far the easiest was a '84 coupe,no<BR>A/C,no options at all.<BR>P.S.also this is the lightest by far-under<BR>2500lbs.This makes for better power to weight<BR>ratio.||||reg||6
+Z||000003||rprevo||10-12-2000||03:11 PM|||| I've done a V8 swap in an 84 SE and a 88 GT<BR>the only real big difference that I noticed<BR>was getting the exaust around the rear sway<BR>bar in the 88 GT. My 84 dosn't have a rear<BR>sway Bar.<P> Ray<BR>||||reg||6

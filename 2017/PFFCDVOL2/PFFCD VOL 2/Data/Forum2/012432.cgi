@@ -1,0 +1,2 @@
+A||||0||WisconsinGT||MSD 6A ingnition||||1||
+Z||000000||WisconsinGT||07-31-2001||01:39 PM||||I am thinking of going this route. Can y'all give me some ideas on where I can install this. I would rather not put it in the trunk area. <P>On a similar note, is it difficult to install? If not how? Do I need other parts? I have the MSD GM original design coil on it now.<P>Thanks!<P>By the way...This is going on a stock 2.8 in my 88GT.||||reg||1

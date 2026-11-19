@@ -1,0 +1,4 @@
+A||||2||GodSend||Found some aftermarket fiero parts in alberta||||1||
+Z||000000||GodSend||12-21-2001||01:08 PM|||| <A HREF="http://www.compusmart.ab.ca/fx/gm.htm" TARGET=_blank>http://www.compusmart.ab.ca/fx/gm.htm</A> <P>they have a couple of fiero wings w/ pics.  Not a big fan of them, but someone may like them||||reg||1
+Z||000001||FieroMontreal||12-21-2001||02:24 PM||||I like the "Mid Wing Lighted" wing.. They are going in my fav list.. maybe next year I'll be able to buy it..<P>------------------<BR> -Alex <BR> <IMG SRC="http://www.fiero.nl/uploads/sigfieromontrealholidays.gif"> <BR>1986 Fiero GT, STOCK Wingless, <BR>President of FieroMontreal... <A HREF="http://www.fieromontreal.com" TARGET=_blank>www.fieromontreal.com</A> <BR>and Regional Director of CFOG-I for Eastern Canada.||||reg||1
+Z||000002||Posthumane||12-22-2001||03:05 AM||||Some nice looking stuff. Too bad they don't have the IMSA stuff.||||reg||1

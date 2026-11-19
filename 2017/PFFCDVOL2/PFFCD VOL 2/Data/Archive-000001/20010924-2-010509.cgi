@@ -1,0 +1,4 @@
+A||||2||mckay_lee||where to start?||||5||
+Z||000000||mckay_lee||05-17-2001||12:42 AM||||the other day my windshield wipers quit working all of a sudden, and the fuse is still good. I have no idea where to start looking for the problem. anybody have any suggestions on where to start.||||reg||5
+Z||000001||2farnorth||05-17-2001||06:04 AM|||| Turn on the switch and check for power at the connector for the wiper motor under the hood.  If you have power there then  the wiper motor is probably bad. If no power at that connector then will likely have to have the switch in the steering column changed.<BR>One question though.  Did any other accessories quit working at the same time?  If they did then the ignition switch would be suspect..   Good luck<P>Dave||||reg||2
+Z||000002||mckay_lee||05-18-2001||01:33 AM||||Thanks, turns out it was the wiper motor.||||reg||1

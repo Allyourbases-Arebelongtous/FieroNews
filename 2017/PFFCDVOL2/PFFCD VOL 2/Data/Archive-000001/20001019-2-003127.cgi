@@ -1,0 +1,5 @@
+A||||3||Phoenix||Fastback Conversion||||1||
+Z||000000||Phoenix||04-11-2000||10:51 AM||||I'm in the process of putting a fastback on my coupe and have seen references to "trunk sizing plates" to square off the trunk opening.  I can't find any other info on these, has any one done a conversion and what are these trunk sizing plates?<P>TIA||||reg||1
+Z||000001||SCCA FIERO||04-11-2000||09:48 PM||||The plates are shaped like a huge "D" and go on each side of the trunk. They make the trunk square and the trunk gasket (weather strip) goes on top of it. <P>I converted my Coupe to a fastback not too long ago. ||||reg||1
+Z||000002||David Gamache||04-12-2000||11:25 PM||||These plates are helpful to direct rain water and as mentioned to form a ridge for the trunk seal. I have an extra set and if you decide you want a set e-mail me and i can sell you a used set resonable.||||reg||1
+Z||000003||Phoenix||04-13-2000||08:05 AM||||Thanks guys , I got a set from Kick Hill yesterday. Now to start wrenching !||||reg||1

@@ -1,0 +1,3 @@
+A||||1||Ben84||Seat Cover||||6||
+Z||000000||Ben84||02-25-2001||12:50 AM||||Has anyone tried the covers from The Fiero Store..(52923 Brown Seat Cover Set $149.95).... I always knew about the Upholstery Kit for 349.95...... I receieved the 6 page sales publication on Friday...<BR>Thanks For Any Info on this matter....||||reg||6
+Z||000001||Monkeyman||02-25-2001||01:43 PM||||I don't know anything about them (just happened to glance at it the other day), but I'm guessing that you'd be buying some really nice Walmart style seatcovers.  Just a slip on.  You could probably do better at Autozone for less than $50.||||reg||1

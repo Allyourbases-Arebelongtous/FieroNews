@@ -1,0 +1,21 @@
+A||||19||Steve Normington||FieroTiffany||||11||
+Z||000000||Steve Normington||06-28-2001||05:26 PM||||Just to help round out the topics.||||reg||11
+Z||000001||Songman||06-28-2001||07:06 PM||||Hey Tiff!<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||10
+Z||000002||JSocha||06-28-2001||10:52 PM||||Hmmmm?<P>This thread seems rather slow...  <IMG SRC="http://www.fiero.nl/forum/confused.gif"><P>Whatcha usin for bait?<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> ||||reg||5
+Z||000003||FieroHeather||06-28-2001||11:10 PM||||I wanna see her pic!  I *know* that she isnt a girl!!||||reg||14
+Z||000004||DecadenceR||06-29-2001||12:28 AM||||Sorry, can't help ya there. I only have pics of me. Well, and one of my ex GF, but I keep that for bad days when I can print it out. And burn it. LOL||||reg||1
+Z||000005||Steve Normington||06-29-2001||02:12 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by FieroHeather:<BR><B>I wanna see her pic!  I *know* that she isnt a girl!!</B><HR></BLOCKQUOTE><P>I know FieroTiffany.||||reg||1
+Z||000006||fierobaby||06-29-2001||02:21 AM||||deca lets see a pic of you||||reg||1
+Z||000007||FieroTiffany||06-29-2001||02:38 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by FieroHeather:<BR><B>I wanna see her pic!  I *know* that she isnt a girl!!</B><HR></BLOCKQUOTE><P>Here you go unbeliever:<P> <IMG SRC="http://fiero.nl/uploads/Corin9.jpg"> <P>||||reg||1
+Z||000008||DecadenceR||06-29-2001||11:14 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by fierobaby:<BR><B>deca lets see a pic of you</B><HR></BLOCKQUOTE><P>You can see all the pics of me you'd like. <A HREF="http://www.angelfire.com/nj/nonscence/me.html" TARGET=_blank>http://www.angelfire.com/nj/nonscence/me.html</A> <P>Don't say I didn't warn youuuuuuuu....||||reg||1
+Z||000009||fierobaby||06-29-2001||11:19 AM||||nice try Tiff Thats me :0) so NANANANANANA!!!<P>------------------<BR>1984 Sweet Candy Apple red Fiero sport coupe :-D<BR>    <IMG SRC="http://www.fiero.nl/uploads/cfiero.JPG"> ||||reg||1
+Z||000010||fierobaby||06-29-2001||11:22 AM||||awwww deca all I can say is adorable! If I said more a certain someone would shoot me||||reg||1
+Z||000011||DecadenceR||06-29-2001||04:46 PM||||*bows*<BR>Thank you, I do what i can with what I have.||||reg||1
+Z||000012||FieroTiffany||06-30-2001||09:16 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by fierobaby:<BR><B>nice try Tiff Thats me :0) so NANANANANANA!!!</B><HR></BLOCKQUOTE><P>OMG! I've found my long-lost twin sister!||||reg||1
+Z||000013||DecadenceR||06-30-2001||12:30 PM||||It starts....<BR>ya think you know a guy...||||reg||1
+Z||000014||DecadenceR||07-01-2001||03:22 AM||||It's 3 o'clock...<BR>Do you know where your Fiero's are?||||reg||1
+Z||000015||fierobaby||07-01-2001||11:04 AM||||I know where my fiero is althogh right now itd 11 AM mine sitting in my garage all nice and pretty<P>------------------<BR>1984 Sweet Candy Apple red Fiero sport coupe :-D<BR>    <IMG SRC="http://www.fiero.nl/uploads/cfiero.JPG"> ||||reg||1
+Z||000016||DecadenceR||07-01-2001||12:58 PM||||I just rode in mine...<BR>Woke up at 11:45 and had to take my videos back to Blockbuster.||||reg||1
+Z||000017||FieroHeather||07-06-2001||01:19 AM||||So... can anyone PROVE you are a girl or are you really a guy?||||reg||1
+Z||000018||FieroTiffany||07-06-2001||10:51 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by FieroHeather:<BR><B>So... can anyone PROVE you are a girl or are you really a guy?</B><HR></BLOCKQUOTE><P>Yes.<P>I refuse to answer on the grounds that it would make people think that I am weird.<P>PS. Who sent me this lovely dead chinchilla?<P>||||reg||1
+Z||000019||DecadenceR||07-06-2001||11:35 AM||||Look through it's eyes and see if you can look at it's brain!!!!!<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/SigPic.jpg"> <BR>AIM - DecadenceR||||reg||1

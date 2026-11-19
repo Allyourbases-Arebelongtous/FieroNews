@@ -1,0 +1,5 @@
+A||||3||mckay_lee||Has anybody here built a fino?||||1||
+Z||000000||mckay_lee||05-08-2001||12:06 AM||||if anybody here has built a fino, i was wondering if they could tell me what they think about it.||||reg||1
+Z||000001||JasonS||05-10-2001||10:10 AM||||I'd like to know also...I was thinking about doing a fino or a finale after I put my 350 in!  Any concerns or problems with the kit?||||reg||14
+Z||000002||Cheever2||05-10-2001||10:45 AM||||Archie, if you're watching this:<BR>The center of the Fino hood seems to have a dip in it.  Does anything inside the front trunk area need to be cut away to give clearance?  Is the only cutting necessary on the front corners, or is there more?  One more thing... what original body panels are kept, and not included with the kit?<P>Editing cause I read the article on your website again, and it says the only original panel kept is the roof.  Doesn't mention the cutting however.<BR><p>[This message has been edited by Cheever2 (edited 05-12-2001).]||||reg||6
+Z||000003||mckay_lee||05-12-2001||02:06 AM||||i have also wondered about the dip in the fino hood, if only someone who built a fino would tell us whats up.||||reg||1

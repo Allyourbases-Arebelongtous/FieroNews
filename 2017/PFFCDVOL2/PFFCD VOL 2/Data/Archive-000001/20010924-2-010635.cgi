@@ -1,0 +1,23 @@
+A||||21||Rex||Correct prenunciation||||1||
+Z||000000||Rex||05-21-2001||08:15 PM||||Fiero<BR>is it Fe air o<BR>   OR<BR>is it Fe are o ........ or either?<BR>just wonderin,have heard it both ways.<BR>Thanks!!||||reg||1
+Z||000001||Oreif||05-21-2001||08:19 PM||||It's Fee Err O.<p>[This message has been edited by Oreif (edited 05-21-2001).]||||reg||12
+Z||000002||Black88GT||05-21-2001||08:34 PM||||Fee-air-oh||||reg||1
+Z||000003||84Bill||05-21-2001||08:55 PM||||Pronounced<BR>Me-kan-ni-kel nite-mare<p>[This message has been edited by 84Bill (edited 05-21-2001).]||||reg||6
+Z||000004||88formula||05-21-2001||09:26 PM||||That's funny Bill. <P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/88formula_logo_1.JPG"> ||||reg||1
+Z||000005||Ken Wittlief||05-22-2001||09:59 AM||||I thought it was Fur ahhh eeee<P>like those people that dont know how to pronounce their own name:<P>Mr Smith?<P> "its pronounced sm eye th"<P>but its spelled smith!<P> "dont tell me how to pronounce my own name"||||reg||1
+Z||000006||LZeitgeist||05-22-2001||10:24 AM||||"It's spelled Kfrqmyd, but it's pronounced 'Bob'. The 'q' is silent, you know."||||reg||1
+Z||000007||Cheever2||05-22-2001||11:03 AM||||Try rolling the "r".  <BR>Fierrrrrro!<P>||||reg||1
+Z||000008||LZeitgeist||05-22-2001||11:14 AM||||Nah, that makes it sound Mexican. <P>"Welcome to Taco Hell, may I take your order?"<P>"Yes, I'd like a Nachos BelGrande, and three Fierrrrro Supremes."<P> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000009||stsmithgt||05-22-2001||11:16 AM||||My GT is a work of art in progress so it should be called, "Mo Nay Pit"  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>My work of art.(in progress.)    <IMG SRC="http://www.fiero.nl/uploads/carpicsig.jpg"> ||||reg||1
+Z||000010||StuGood||05-22-2001||01:18 PM||||We've covered this topic before... look down at the bottom of your doctor's bill; there's a pointy thing that directs your attention to the amount you owe...<P>"Fee arrow"   <P>||||reg||1
+Z||000011||Ken Wittlief||05-22-2001||03:53 PM||||Ah ka ka kaka! Whered ya get that per nuns ski ation?<P>Saw some Popeye cartoons recently - I think he is skitzo - modern drugs could probally help old Popeye now!||||reg||1
+Z||000012||rogergarrison||05-22-2001||04:11 PM||||everyone calls mine fair-rare-oh<P>(ferrari + fiero)<P>------------------<BR>    <IMG SRC="http://albums.photopoint.com/j/View?u=1234884&a=9116379&p=34556781"> ||||reg||1
+Z||000013||mrfixit58||05-22-2001||05:07 PM||||My wife and kids call it, "the little blue car"! I call it FUN!  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>Roy :D<BR>87 GT  <IMG SRC="http://www.fiero.nl/uploads/pennocksize.JPG"> ||||reg||14
+Z||000014||Jay||05-22-2001||05:53 PM||||Actually, none of you are correct.  Fiero is Italian as many of you know.  It means "Intense pride".  In english many tend to over compensate to make it sound italian.  Actually instead of being a three syllable word (Fi-er-oh) it is only two.  Pronounced Fier-oh.<P>------------------<BR>Jay<BR>1986 Northstar GT<BR>www.members.home.net/jaygrande||||reg||1
+Z||000015||Old Lar||05-22-2001||07:43 PM|||| pro nun ci a tion<BR>  __     _ <BR> fee air o||||reg||1
+Z||000016||Rex||05-22-2001||09:20 PM||||Thanks all!<BR>Shame the topic line is'nt spell checked<BR>LOL pro nun ci a tion||||reg||1
+Z||000017||Formula88||05-23-2001||12:54 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by LZeitgeist:<BR><B>"It's spelled Kfrqmyd, but it's pronounced 'Bob'. The 'q' is silent, you know."</B><HR></BLOCKQUOTE><P><BR>Actually, it's spelled "Raymond Luxury Yacht" but it's pronouces "Throat Wobbler Mangrove"  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>||||reg||1
+Z||000018||GoCartGuy||05-25-2001||03:17 AM||||Hell everyone calls mine The GoCart, kinda where it got its name.  Little metal, some plastic two pedals, 4 wheels, something to stear with, and an over sized engine.  Sounds like a gocart to me.<P>------------------<BR>'85 GT "The GoCart"||||reg||1
+Z||000019||ROB MAC||05-25-2001||10:10 AM||||I saw one on the highway last year . It was pronounced   FIRE!......ohhhh||||reg||1
+Z||000020||Devotshka||05-26-2001||03:08 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Formula88:<BR><B> <BR>Actually, it's spelled "Raymond Luxury Yacht" but it's pronouces "Throat Wobbler Mangrove"   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"></B><HR></BLOCKQUOTE><P>Hahahaha, haven't heard that in a while!||||reg||1
+Z||000021||84Bill||05-26-2001||01:45 PM||||LOL all of you I love this post!||||reg||10

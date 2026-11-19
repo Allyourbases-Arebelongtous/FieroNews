@@ -1,0 +1,7 @@
+A||||5||Smokin' GT||What is the US$/Canadian$ exchange rate?||||1||
+Z||000000||Smokin' GT||11-25-2001||07:56 PM||||Basically, how many candadian dollars to $1 US currency.  (looking at Race-tech, can't figure the right prices)<P>------------------<BR>-87 Bright Blue Metallic GT-<BR>          -Joel||||reg||1
+Z||000001||Mach10||11-25-2001||08:09 PM||||1.59CDN per 1.00 USD  <IMG SRC="http://www.fiero.nl/forum/frown.gif">||||reg||13
+Z||000002||Smokin' GT||11-25-2001||08:13 PM||||thanks Mach10||||reg||1
+Z||000003||Mach10||11-25-2001||08:21 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Smokin' GT:<BR><B>thanks Mach10</B><HR></BLOCKQUOTE><BR>*Grumble-grumble-don'tmentionit-grumble*<P><BR>||||reg||8
+Z||000004||FieroMontreal||11-25-2001||08:32 PM||||It takes 1 cdn dollar and 2 chickens to buy one US dollar  <IMG SRC="http://www.fiero.nl/forum/frown.gif"> .. grrrr<P>------------------<BR> -Alex <BR> <IMG SRC="http://www.fiero.nl/uploads/sigfieromontreal_1.gif">   <BR>1986 Fiero GT, STOCK Wingless, <BR>President of FieroMontreal... <A HREF="http://www.fieromontreal.com" TARGET=_blank>www.fieromontreal.com</A> <BR>and Regional Director of CFOG-I for Eastern Canada.||||reg||1
+Z||000005||Jay||11-25-2001||10:36 PM||||The banks in Canada are buying US currency at $1.5785 and selling US currency at $1.6170<BR>in other words if you have $1000 US you've got $1578.50 Canadian.<P>------------------<BR>Jay<BR> <IMG SRC="http://www.fiero.nl/uploads/newsig2_copy_1.jpg"> ||||reg||1

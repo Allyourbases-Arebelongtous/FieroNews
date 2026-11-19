@@ -1,0 +1,6 @@
+A||||4||maryjane||ie5 question-wallpaper||||1||
+Z||000000||maryjane||08-05-2001||05:25 PM||||Let's say you right click on a web image & set it as wallpaper, but don't save it to hard drive. Later you change the wallpaper to 'none' or use a saved file as wallpaper. <BR>What happens to the web image? I mean is there a temp file or somewhere you can later retrieve it from without going back online and setting it again? It is no longer listed in the drop dn box in display properties.||||reg||1
+Z||000001||btoth||08-05-2001||05:45 PM||||Under your list of wallpapers in your Background window, there should be one called "IE Wallpaper" or something similar.  That's were it stores the last one you used.||||reg||1
+Z||000002||maryjane||08-05-2001||05:58 PM||||nope, it's never in the list once I change to another one||||reg||1
+Z||000003||DaRkLoRD||08-05-2001||06:12 PM||||it saves it in the windows folder as "IE wallpaper" or something like that. in order to save it when you wish to set another image as your wallpaper thru IE, you need to go into windows, and save it as something else.<P>------------------<BR>    <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>    <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||3
+Z||000004||maryjane||08-05-2001||06:29 PM||||ok, I found it. thanks||||reg||1

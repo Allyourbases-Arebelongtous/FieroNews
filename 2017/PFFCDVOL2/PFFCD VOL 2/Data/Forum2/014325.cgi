@@ -1,0 +1,4 @@
+A||N||2||conductor||Wheels||||5||
+Z||000000||conductor||10-10-2001||08:22 AM||||Hi there, here Richard from the Netherlands,does anybody of you know if the 13inch 84(?)wheel fits my 86 2m4?<BR>Is there a difference for the odometer?<BR>whith the tires fitted, is the size the same?<BR>Grtx Richard,Amersfoort, the Netherlands.||||reg||5
+Z||000001||Master_Sushi||10-10-2001||11:21 AM||||I think all fiero wheels will work on any fiero. EXCEPT the 13 inch wheels will not fit the 1988 fieros. This is because of the larger brakes.||||reg||1
+Z||000002||theogre||10-10-2001||07:48 PM||||The mounted tire diameter of a 13 inch wheel will be smaller than the 14. <P>------------------<BR>  <IMG SRC="http://www.fiero.nl/forum/fullstaff.gif">  <FONT COLOR="blue"><I><B>11-Sept-01, The day the world as we knew it ended.</B></I></FONT>||||reg||1

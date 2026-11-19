@@ -1,0 +1,2 @@
+A||||0||GarethWright||Adding Power Door Locks, need wiring help!||||1||
+Z||000000||GarethWright||10-13-2001||11:45 PM||||Double Post   <IMG SRC="http://www.fiero.nl/forum/frown.gif"><BR>Please reply to my other post of same name<BR> <A HREF="http://www.fiero.nl/forum/Forum2/HTML/014411.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/014411.html</A> <BR>Cliff, Please delete this post<BR>Thanks,<BR>Gareth<P><p>[This message has been edited by GarethWright (edited 10-14-2001).]||||reg||1

@@ -1,0 +1,9 @@
+A||N||7||rnoswal||2.8 heads||||1||
+Z||000000||rnoswal||11-24-2001||07:10 PM||||This is what I have to work with, so what are the largest heads from any other engine  I can fit on this 2.8 block. I don't mean after  market, just something from the junkyard. Thanks<P>Russ||||reg||1
+Z||000001||terryk||11-24-2001||11:18 PM||||In iron, only one and you have them.||||reg||1
+Z||000002||lou_dias||11-25-2001||02:48 PM||||I have ported and polished heads for sale.||||reg||1
+Z||000003||rnoswal||11-25-2001||06:07 PM||||Hey I appreciate it Lou, but I was hoping for a better head and since there isn't, I will port the ones I have. Thanks<P>Russ||||reg||1
+Z||000004||lou_dias||11-26-2001||07:58 AM||||Well Edelbrock makes 2 sets of heads for the 60* V6, but they are made to accept carburators.  Also, you can buy the Gen III aluminum heads but you'd have to either go carb again or do all the rewiring on an engine swap from a Grand AM GT or Montana.||||reg||1
+Z||000005||Last Dodo||11-26-2001||10:48 AM||||Hey Lou how much do you want for those heads?<P>I might have a buyer for you if she is still needing a set.<P>LMK||||reg||1
+Z||000006||lou_dias||11-26-2001||12:21 PM||||do a search on "Interest in ported heads" in the mall.  I gave out details there.  I don't have pictures yet because I had to replace a heater core and ball joint on my daily driver (88GT) saturday and then it rained Sunday.  I don't have a flash on my polaroid camera.  Maybe Wednesday night I can email anybody pics.||||reg||1
+Z||000007||rnoswal||11-26-2001||08:27 PM||||Carburation is the way I want to go. I have a Holley 500 that I want to mount on this thing. I am from the old school and still like the adjustability of a carb and distributor. I have seen plenty of carbed v-6's in the junkyards so that is the way I will go. I was just hoping for a better bolt on head from the same junkyard........oh well....sigh!!!    Thanks<P>Russ||||reg||1

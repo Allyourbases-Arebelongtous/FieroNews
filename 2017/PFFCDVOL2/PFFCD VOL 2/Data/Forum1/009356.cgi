@@ -1,0 +1,4 @@
+A||||2||Loki||How I spent yesterday..||||1||
+Z||000000||Loki||08-08-2001||10:34 PM||||BLACK SHOULD HAVE BEEN A FACTORY INTERIOR COLOR!!!!!   HEheh  I got dash, a-pillers,headliner and center consols pieces done.  Rest will come when I get time.  Pics should be reay by tommorow I hope.<P><P>------------------<BR> <IMG SRC="http://members.home.net/loki-mg/loki_sig.jpg"> <BR>ICQ# 16477998||||reg||1
+Z||000001||fieronv||08-08-2001||11:38 PM||||Black is the worst color in Nevada, but it sure looks good. Can't wait to see pic's<P>------------------<BR>85GT (twoloud)||||reg||6
+Z||000002||Loki||08-09-2001||04:45 PM||||Black isnt the best for TX either but my a/c is getting fixed   <IMG SRC="http://www.fiero.nl/forum/smile.gif"> And it looks DAMN good.  Pics comin<P><P>------------------<BR> <IMG SRC="http://members.home.net/loki-mg/loki_sig.jpg"> <BR>ICQ# 16477998||||reg||1

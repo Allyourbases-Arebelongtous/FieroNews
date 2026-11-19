@@ -1,0 +1,4 @@
+A||||2||David Bartlett||Seat Belts?||||1||
+Z||000000||David Bartlett||09-03-2001||10:52 PM||||Are there any other cars (other then Fiero's) that have the use seatbelts? I'm looking for black belts, but if I can't find them I'll go with light grey. (currently I have the stock tan ones)||||reg||1
+Z||000001||Mickey_Moose||09-03-2001||11:01 PM||||you can always dye them black<P>Tim<BR>||||reg||12
+Z||000002||varnster||09-04-2001||12:11 AM||||Its up to you about dying them, but that slick webbing does not take dye very well.<BR>It will dye but count on doing them over.<BR>If you have the extra cash look into a local<BR>auto upholster shop. I paid 75 bucks a pop, yea I know thats high but they look better then factory, and installed correctly. safety is not the time to cut corners.hope this helps.Not saying the dye will harm the<BR>webbing, its just more time than I have to spend.<BR>||||reg||12

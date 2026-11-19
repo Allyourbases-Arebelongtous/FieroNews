@@ -1,0 +1,2 @@
+A||||0||GodSend||Anyone coming to the GTA shows that wants some extra cash?||||1||
+Z||000000||GodSend||09-14-2001||12:42 AM||||(Not sure if this belongs in the mall)<P>I am looking to pick up a Dogbone with new bushings.  I am not too worried if its the ultimate dogbone, a stock one with poly, or even a stock one with new rubber.  Its for an 87 GT.  Let me know if you have one you want to sell me at the show.  Thanks guys.<P>Also wondering what soft of merchandise it typically kicking around that this thing?<P>||||reg||1

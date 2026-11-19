@@ -1,0 +1,2 @@
+A||||0||BN Boomer||Check out this sweet MR2!||||10||
+Z||000000||BN Boomer||03-07-2001||09:16 AM||||<A HREF="http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=566827966" TARGET=_blank>TOYOTA MR2</A><P>Has this already been touched on here? I love the leaf blower starting system. Heh, always did think those rice-burners sounded like squirrel cages anyhow!  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||10

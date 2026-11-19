@@ -1,0 +1,4 @@
+A||||2||Loki||Hey Aus||||1||
+Z||000000||Loki||08-22-2001||04:21 PM||||You know ya got some pics that dont load on your page?  Well one, the new rocker panels dont laod.<BR><P>------------------<BR> <IMG SRC="http://members.home.net/loki-mg/loki_sig.jpg"> <BR>ICQ# 16477998||||reg||1
+Z||000001||AusFiero||08-22-2001||05:47 PM||||Thanks Loki. Will check out what has glitched.<BR><P>------------------<BR>  <IMG SRC="http://www.jadeweb.com.au/fiero/ausfiero1.gif"> <BR><A HREF="http://www.jadeweb.com.au/fiero" TARGET=_blank>My Fiero</A> | <A HREF="http://www.auto-alley.com" TARGET=_blank>Fiero Accessories</A>||202.139.20.3||reg||1
+Z||000002||Loki||08-22-2001||05:48 PM||||Just checkin in on ya   <IMG SRC="http://www.fiero.nl/forum/smile.gif">   BTW  if im still on your ICQ list, messgae me sometimes.. I had to format<P>------------------<BR> <IMG SRC="http://members.home.net/loki-mg/loki_sig.jpg"> <BR>ICQ# 16477998||||reg||1

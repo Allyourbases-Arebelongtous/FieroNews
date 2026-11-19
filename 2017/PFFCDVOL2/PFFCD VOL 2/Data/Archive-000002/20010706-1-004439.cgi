@@ -1,0 +1,3 @@
+A||N||1||VISCERAL||1988 lowered spindles||||1||
+Z||000000||VISCERAL||11-20-2000||01:54 PM||||Does anyone have a spare set of 1988 spindles laying around that a machinist can borrow, not purchase and will return, so he can make some drop spindles from and also maybe fabricate a bolt on caliper brake upgrade kit....no brackets, just take bigger calipers off the shelf and bolt them on to new spindles. Please reply and we will try to work something out. Thank you.||||reg||1
+Z||000001||mrfiero||11-20-2000||04:06 PM||||I could send a set.  The only thing that I ask is make a set for me!<P>How long would the machinist need them?  LMK. ||||reg||10

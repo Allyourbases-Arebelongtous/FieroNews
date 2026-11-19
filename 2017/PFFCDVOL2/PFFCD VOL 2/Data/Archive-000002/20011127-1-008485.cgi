@@ -1,0 +1,3 @@
+A||||1||87FieroGTx||Warlock Phantom SE side vents on a fiero?||||1||
+Z||000000||87FieroGTx||06-29-2001||07:38 PM|||| I was just looking at a Warlock Phantom SE and was wondering how the side vents would look on a fiero.<P> Can some one photoshop up a picture?<P> I think it would look sweet!<P>||||reg||1
+Z||000001||Songman||06-29-2001||08:22 PM||||The vents on Tina's car sorta remind me of that...<P> <IMG SRC="http://albums.photopoint.com/j/View?u=1315468&a=13322422&p=50588226"> <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1

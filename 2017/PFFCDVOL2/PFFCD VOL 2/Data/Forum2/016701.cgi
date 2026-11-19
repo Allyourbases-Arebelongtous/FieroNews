@@ -1,0 +1,4 @@
+A||||2||ray b||Door Window Removeal?????||||5||
+Z||000000||ray b||12-26-2001||05:30 PM||||OK I took off the rubbers on both ends and the iner dew wiper and still can't get the window out of the door.<BR>Do I have to remove the plastic buttons or will it come out with them still on the window???<BR>Yea DRILLED OUt the rivits and window is loose but will not come out.<BR>WHATS THE TRICK???<P>------------------<BR>Question wonder and be wierd||||reg||5
+Z||000001||Phil||12-26-2001||06:20 PM||||You have to remove the big white plastic roller looking doobies(travel stops)located at both ends of the window.<BR>Been there done that.||||reg||1
+Z||000002||ray b||12-26-2001||06:49 PM||||Drill the white plastic roller center rivit??<BR>or is there a eazyer way?<P>------------------<BR>Question wonder and be wierd||||reg||1

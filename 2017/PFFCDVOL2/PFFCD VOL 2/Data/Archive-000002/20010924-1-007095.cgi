@@ -1,0 +1,3 @@
+A||||1||Formula||where to find...||||1||
+Z||000000||Formula||04-27-2001||10:41 AM||||is there anywhere I can find a drivers side "scoop" panel without the scoop?<P>When I put my new engine in its not going to use the scoop and It doesnt look very good with every thing else red on my car.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sigformulagt.jpg"> ||||reg||1
+Z||000001||FieroHarry||04-27-2001||11:30 AM||||Maybe you could glass it over?<BR>Ive never seen any without the scoop.<BR>Anybody else? <IMG SRC="http://www.fiero.nl/forum/eek.gif"><P>------------------<BR>Harry<BR>FOCOSEVA<BR>1985 GT 262K+ "TEMPTATION"||||reg||1

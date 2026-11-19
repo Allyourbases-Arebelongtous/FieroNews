@@ -1,0 +1,18 @@
+A||N||16||chris6878||Nice Fiero GT Bra.... check it out...!!!||||2||
+Z||000000||chris6878||02-21-2000||01:32 PM|||| <A HREF="http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=265949852" TARGET=_blank>http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=265949852</A> <BR>||||reg||2
+Z||000001||Monkeyman||02-21-2000||09:51 PM||||"Only 3 known to exist."  That doesn't surprise me as ugly as that is.  That's 3 too many.||||reg||1
+Z||000002||Cooter||02-21-2000||09:58 PM||||Very unique. I have never seen anything like that before. I can only hope that I never see anything like that again. ||||reg||1
+Z||000003||stimpy||02-21-2000||10:28 PM||||I think it is very cyber robo-cop lookin. I ean if ya gotta put a barf bag on the front of your car, it looks a darn sight better than those cheesy vinyl thingies. Kinda reminds me of a groucho nose too tho. Can't say I would spend 3 bills on one.||||reg||1
+Z||000004||bHooper||02-21-2000||10:41 PM||||i seem to remember something like that for sale in the late '80's called the "stealth bra" it was supposed to "absorb" radar.  or something like that.  don't know too much about them... with my trusty k-40 radar detector, i never had too much of a problem anyway  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000005||Robert||02-21-2000||11:07 PM||||It looks to me like someone dipped the car in a very large can of that plastic stuff you dip your tools in to protect them.  I think the designer went a little overboard with the saying “form follows function”.  Not very sexy. I give it a “thumbs down”. ||||reg||13
+Z||000006||Oreif||02-22-2000||01:30 AM||||Bhooper is right they were sold by Cincinatti Microwave. I've seen them for other cars but never for a Fiero (now I know why!  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> ) I've seen them for F-bodies and Corvetttes. Most of the ones I saw looked tinted grey (the stuff to absorb radar was in the plastic) Never heard if they worked or not.||||reg||1
+Z||000007||bHooper||02-22-2000||07:31 AM||||you know, the more i look at it, the less i think it is a "radar" bra.  if it was, i don't believe that it would have those "snaps" around it.<P>i think they also made it for th original 300z... seems i saw one or two of those||||reg||1
+Z||000008||sdm1964||02-22-2000||08:00 AM||||It is kinda ugly, I think that is why do one has bid on it. enuff said||||reg||13
+Z||000009||Spyder||02-22-2000||01:31 PM||||NOW here is a nice Fiero GT Bra!!!!<BR> <A HREF="http://www.fiero.nl/uploads/Bra.jpg" TARGET=_blank>http://www.fiero.nl/uploads/Bra.jpg</A> <P><p>[This message has been edited by Spyder (edited 02-22-2000).]||||reg||14
+Z||000010||Oreif||02-22-2000||01:52 PM||||Spyder, can I get one of those!....prefer filled already  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000011||DRH||02-22-2000||03:51 PM||||Spyder, that one seems to cover the headlights...||||reg||12
+Z||000012||Carolina 88GT||02-22-2000||03:54 PM||||Spyder,  those arent gonna start flappin when being drove at 60mph?||||reg||1
+Z||000013||Formula||02-22-2000||08:00 PM||||thats one nice looking fiero lol||||reg||1
+Z||000014||Cooter||02-22-2000||08:01 PM|||| <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000015||Richard Parnell||02-22-2000||08:05 PM||||I bet if the rice burners saw that they would love it.  Anything flashy and shiney. ||||reg||12
+Z||000016||superXmotorsports||02-22-2000||10:33 PM||||I remember seeing those in Road&Track about 10-12 years ago for other cars too.  (The actual car bra  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> ) They were available for several different makes.  Those white dots really make that look bad.  SXM.||||reg||1

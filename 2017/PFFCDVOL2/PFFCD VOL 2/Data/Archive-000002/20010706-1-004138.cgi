@@ -1,0 +1,5 @@
+A||||3||elfiero||GOING TO SEMA SHOW?||||5||
+Z||000000||elfiero||10-26-2000||04:01 PM||||Dave,bam-bam,anyone else-I'm going to the SEMA<BR>show and will get into town(VEGAS BABY!!)on<BR>monday 10/30/00.I think we should all get<BR>together for some PFF fun/dinner?Lets talk<BR>about it!||||reg||5
+Z||000001||Seanh||10-26-2000||07:03 PM||||Just thought I would let you know, I might be going to SEMA. My dad is going to go, but I might have to stay here. Probally wont know until close to monday.<P>------------------<BR>Sean Heberly<BR>Silver 86 GT 2.8<BR>Killer Stereo System||||reg||1
+Z||000002||elfiero||10-27-2000||09:42 AM||||Alright seanh!lets talk this weekend if it<BR>looks good for monday.Come on,lets hear from<BR>BAM-BAM,DAVE,you say your going,speak up!||||reg||1
+Z||000003||1FST2M6||10-27-2000||11:32 AM||||Look four the shop there! I won't be there but pic of my car will be  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  Engineered Performance RIGHT next to the NOPI booth!<P>------------------<BR>Shhh.. Top Secret! <BR> <IMG SRC="http://www.fiero.nl/uploads/1fstcheeto_2.jpg"> ||||reg||1

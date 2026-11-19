@@ -1,0 +1,5 @@
+A||||3||DecadenceR||Water pump now too???||||1||
+Z||000000||DecadenceR||06-07-2001||04:21 PM||||Okay, when I first start up the car, I hear a loud squeal that sounds like a belt. Now this only happens if the car has been sitting for hours. didn't happen when I ran into Wawa. But I checked and the belts all seem to move fine. It sounds like it's coming from the water pump. Does this mean I need to replace that now too???||||reg||1
+Z||000001||drednot||06-07-2001||04:35 PM||||sure sounds like a water pump to me, that is, if you are 100% sure it is the belts.  you will probably know it if it is the water pump.  it is a fairly distinctive sound.||||reg||11
+Z||000002||DecadenceR||06-07-2001||04:43 PM||||Well to me it sounds like an alternator belt squeal. But the belts are all tight. <P>Some water did get on the pulleys and the outside did rust slightly. Could this be the noise?||||reg||1
+Z||000003||DecadenceR||06-07-2001||08:09 PM||||Well, I double checked and I tightened the alternator pulley a little more. Hopefully it was just the belt.||||reg||1

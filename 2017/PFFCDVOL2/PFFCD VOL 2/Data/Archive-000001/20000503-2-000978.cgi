@@ -1,0 +1,3 @@
+A||||1||BENGAL4||Horn problems||||5
+Z||000000||BENGAL4||09-30-1999||12:54 PM||||My horn stopped working a month or two ago and I didn't make it priority to fix until a lady in Jag conv almost side swiped me on the interstate. I replaced the relay but all it does is buzz under the dash on the passenger side. Any suggestions? <BR>||||reg||5
+Z||000001||lowCG||09-30-1999||01:49 PM||||Sounds like either another bad relay,or somethings shorted in the horn area.<BR>Just found a set of Fiamm air horns for $20,new,with a relay at a tool store.<BR>Stock horn sounds like it's coming from another car,far away somewhere.||||reg||1

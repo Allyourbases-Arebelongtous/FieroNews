@@ -1,0 +1,4 @@
+A||||2||daveml66||Syncromesh Question||||5||
+Z||000000||daveml66||04-07-2001||10:06 AM||||this crap is expensive and i don't know how much to get.  does neone know how much the 4spd  holds?????     and  should i replace the seals where the axles go into the trans????||||reg||5
+Z||000001||montage||04-07-2001||03:06 PM||||A cheap source of synchromesh is your local Pennzoil dealer, like any quick lube place or auto parts store. You can get this for $4.00 a quart same as GM brand. Not sure of capacity of 4-sp do a search of tech archives and you might find it in there. I wouldn't replace any seal unless they are leaking.||||reg||1
+Z||000002||johnt671||04-07-2001||07:23 PM||||My 84 4 spd holds three qts per haynes.  Poured in 2.5 qts and it seemed about to overflow so I stopped.<P>------------------<BR>||||reg||1

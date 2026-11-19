@@ -1,0 +1,3 @@
+A||||1||NEFA||Servey for NEFA members||||7||
+Z||000000||NEFA||06-11-2001||10:48 AM||||Our merchandise coordinator Jaime Garman (Jaygee79) has set up an online survey about future products. Please check it out.<BR><A HREF="http://www.geocities.com/jaygee79/survey.html" TARGET=_blank>CLICK HERE FOR SURVEY</A> <P><BR>------------------<BR>    <IMG SRC="http://www.fieropride.com/logos/NEFA_Logo12_small.gif">    <BR><A HREF="http://www.fieropride.com/calendar.htm" TARGET=_blank>Upcoming Club Events</A> <P><A HREF="http://www.geocities.com/jaygee79/tshirt.html" TARGET=_blank>Get your Club T-shirt</A><p>[This message has been edited by NEFA (edited 06-11-2001).]||||reg||7
+Z||000001||Jaygee79||06-18-2001||05:05 PM||||*bump*||||reg||1

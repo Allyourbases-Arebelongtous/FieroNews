@@ -1,0 +1,5 @@
+A||N||3||Xtreme Fiero's||rear 1/4 pannel rapair||||1||
+Z||000000||Xtreme Fiero's||12-09-2000||10:05 AM||||<BR>My fender (rear over the tire) has a hole in it due to vandals is it repairable? ho much would it cost for a pro to fix?||||reg||1
+Z||000001||Indiana_resto_guy||12-09-2000||10:13 AM||||When you say it's 'over the fender' is it in the rear clip area?<BR>If it is, it would be cheaper to replace the clip if it's on a coupe.||||reg||1
+Z||000002||Xtreme Fiero's||12-09-2000||10:18 AM||||yes it's a about 2" in diameter in the rear clip. I thout replaceing the clip was expincive and hard to do?||||reg||1
+Z||000003||Oreif||12-09-2000||10:18 AM||||If you just want a cheap way to fix it until you can find a good rear clip, Just go and get a "Fiberglass Repair Kit". The rear clip is the stiffer plastic and fiberglass will stick to it. Just fill, sand, finish, prime, and paint it.  <P>Rear clips are less expensive than getting the clip repaired. (notchbacks cheaper than fastback) Changing them isn't too bad about 2-3 hours of work. With 2 people.<P><p>[This message has been edited by Oreif (edited 12-09-2000).]||||reg||1

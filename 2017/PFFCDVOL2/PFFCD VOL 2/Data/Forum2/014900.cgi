@@ -1,0 +1,3 @@
+A||||1||Ray Heath||Programming the ECM||||5||
+Z||000000||Ray Heath||10-30-2001||10:43 AM||||Has anyone tried re-programming their stock computer or know of anyone that has?||||reg||5
+Z||000001||MinnGreenGT||10-30-2001||11:35 AM||||There are a few different replacement chips available for the ECM, but many people question the acutal performance difference in these chips (I've got one: "ADS-strip", but am waiting for my G-Tech to arrive... want to see if there is a measurable change in performance).  I believe that there are also a few members here with the capabilites to burn their own chips... I think it's great, but for now that is a little beyond me.||||reg||1

@@ -1,0 +1,4 @@
+A||||2||MCordray||Funky Headlight Motors...||||13
+Z||000000||MCordray||10-28-1999||09:27 PM||||I was out driving my '86 GT tonight and when I turned on the lights, they wouldn't pop-up. I have this problem once every six months, and in the past, just turning the lights off and on corrected the problem. The lights won't go up by themselves (they have to be wound up), but they WILL go down. Thus, the motor works when turning the lights off but not when turning them on!! Any advise would be GREATLY appreciated.||||reg||13
+Z||000001||Greg Piet||10-28-1999||10:18 PM||||	In another thread under headlights, there is a link to the "fiero online service guide".  This has ALL the info you need to fix the problem.  Doing a web search on the right engine should give you the site as well with the words in quotes.||||reg||1
+Z||000002||MCordray||10-28-1999||10:38 PM||||Thanks Greg. I have this site bookmarked, but I didn't even think to look there. ||||reg||1

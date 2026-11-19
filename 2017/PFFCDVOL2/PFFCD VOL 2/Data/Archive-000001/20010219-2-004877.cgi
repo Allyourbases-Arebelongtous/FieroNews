@@ -1,0 +1,2 @@
+A||||0||Formula||I got a flat tire today :(||||1||
+Z||000000||Formula||07-22-2000||05:51 PM||||it ripped the sidewall up real bad (looks like a golf ball went through it) and it was a brand new tire  <IMG SRC="http://www.fiero.nl/forum/frown.gif"> ....... now my fiero looks like its limping until monday whent ther tire store opens back up.  (it looks really bad with the little donut and my big 225/60s on it) oh well, its getting painted oin tuesday!!!!!!!!!!!!||||reg||1

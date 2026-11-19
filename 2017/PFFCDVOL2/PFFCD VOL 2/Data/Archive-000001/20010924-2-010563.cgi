@@ -1,0 +1,14 @@
+A||||12||bcwawright||High Performance Spark Plug Wires||||5||
+Z||000000||bcwawright||05-18-2001||11:22 PM||||Anybody know of a mfg that offers 8mm or larger spark plug wires with ends installed for the 2.8 engine.<BR>Thanks<P>Bruce<BR>88GT||||reg||5
+Z||000001||Jay||05-18-2001||11:46 PM||||I've never found any with the ends installed.  Taylor makes them but you've gotta put them together.  Not that difficult, I think they even provide the tool.<P>------------------<BR>Jay<BR>1986 Northstar GT<BR>www.members.home.net/jaygrande||||reg||1
+Z||000002||PBJ||05-18-2001||11:48 PM||||Jay is right, it's nothin to build em yourself. ||||reg||1
+Z||000003||bcwawright||05-18-2001||11:51 PM||||Does Taylor have a website??<P>Bruce<BR>88GT||||reg||1
+Z||000004||cadaver||05-19-2001||12:02 AM||||MSD makes a set. I have them and am happy eith them.||||reg||1
+Z||000005||WKDFIRO||05-19-2001||12:28 AM||||I have also had great ease and success with using Taylors. <P>I prefer them since I can determine the length. I have yet to see a prebuilt wire set that actually fits on any car. <p>[This message has been edited by WKDFIRO (edited 05-19-2001).]||||reg||14
+Z||000006||Uaana||05-19-2001||12:31 AM||||Accel also makes a complete custom cut set with 8.8mm wires. Only prob with them, if you want to call it one.. is the heat shields at the base no longer fit.<BR>Bout 60bucks at Summit ||||reg||1
+Z||000007||rodmcneill||05-19-2001||05:03 AM||||I have Taylor Spiro-Pro wires on both my GTs. Taylor part# 074224, 8mm red with correct ends. I did have to take apart 3 of them and cut a little shorter and then recrimp. Good wires!||||reg||1
+Z||000008||Dave Gunsul||05-19-2001||11:02 AM||||The Accel 8.8 spiral core wires work great!<BR>When ordering you have to order them for a 2.8 Camaro/Firebird though.<BR>The part number is: 110 8879<P>------------------<BR>Dave Gunsul<BR>N.I.F.E. member<BR>86 GT modified<BR>85 SE daily driver||||reg||1
+Z||000009||WisconsinGT||05-19-2001||01:06 PM||||I have the splitfire wires. They came prebuilt and fit perfectly.||||reg||1
+Z||000010||Jay||05-19-2001||01:46 PM||||I heard that the Accel 8.8 and the Taylor 8.0 are the same size.  The only difference is the thickness of the insulation, not the wire inside.  Anyone varify this?||||reg||1
+Z||000011||AkursedX||05-19-2001||03:15 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by WisconsinGT:<BR><B>I have the splitfire wires. They came prebuilt and fit perfectly.</B><HR></BLOCKQUOTE><P>I have the same wires.  8mm.  Got them from the FieroStore.  They work great!<P>||||reg||1
+Z||000012||RacinRob||05-19-2001||11:53 PM||||I have a universal set of 8 cyc accel super stock 8mm wire and they work great, are cheap and I have 2 extra in case something happens.||||reg||1

@@ -1,0 +1,8 @@
+A||||6||Patrick||What happened to the "Cars for dummies" thread? ||||5||
+Z||000000||Patrick||12-14-1999||07:26 PM||||<BR>I was sending a post to the <B>Cars for dummies</B> thread when all heck broke loose on my computer. When I got back on line, I discovered that the thread has now been cut in half.<P>What did I do? <IMG SRC="http://www.fiero.nl/forum/frown.gif"> ||||reg||5
+Z||000001||Dave85||12-14-1999||07:41 PM||||I tried posting on that thread yesterday and it wouldn't go through.  I didn't have the time to try again so I never did post there.<BR>Dave||||reg||1
+Z||000002||Patrick||12-14-1999||07:44 PM||||<BR>Hmmm.... well, it's back now.<P>Strange.<P>Only one explanation...<P>... must be a demon thread.||||reg||5
+Z||000003||Cliff Pennock||12-14-1999||08:43 PM||||Actually, that thread has been causing me headaches because apparantly some replies made got lost. Until I figured it out... The thread was posted in both the "General Fiero Chat" and the "Technical Discussion & Questions" section!  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>||||reg||1
+Z||000004||DJRice||12-15-1999||09:51 AM||||A thread with multiple personalities....Interesting||||reg||1
+Z||000005||dogtired||12-15-1999||02:53 PM||||I KNOW!<BR>I KNOW!<BR>It was all 24 of the BILLS, Mikes and Freds that started it.   <IMG SRC="http://www.fiero.nl/forum/wink.gif"><BR> Thought I was seeing DOUBLE   <IMG SRC="http://www.fiero.nl/forum/smile.gif">    <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000006||william_thorniii||12-15-1999||06:46 PM||||DAMN those multiple personalities... after all I'm a schitzophrenic, and so am I. <P>William T. Thorn, III||||reg||10

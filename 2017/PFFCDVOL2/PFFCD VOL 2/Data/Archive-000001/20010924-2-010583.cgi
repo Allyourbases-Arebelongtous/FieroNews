@@ -1,0 +1,2 @@
+A||N||0||Vlad||Should the GT oil pressure gauge be smooth?||||1||
+Z||000000||Vlad||05-19-2001||11:11 PM||||I don't know.... I just replaced the sending unit, and it doesnt jump any more, but the needle doesnt move as it used when I had an original in-tach gauge. It looks like it goes as a second needle on the watches. Second by second, up and down....<P>Should it be that way or something is wrong?||||reg||1

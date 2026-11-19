@@ -1,0 +1,4 @@
+A||||2||mikemrq||EGR TUBE||||1||
+Z||000000||mikemrq||05-04-2001||04:53 PM||||pulled the covering material off my egr tube because it was dry rotted and i wanted to check the tube for any cracks. tube is fine, but do i have to cover the tube with some kind of heat shield material??||||reg||1
+Z||000001||88formula||05-04-2001||05:32 PM||||The engineers felt it was worth the expense to put it there so I would replace it with new insulation. <P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/88formula_logo_1.JPG"> ||||reg||1
+Z||000002||stimpy||05-04-2001||05:41 PM||||The trick would be to be able to put it on without having to take the tube off. A lot of speed shops sell aluminized cloth. If you're handy with the sewing machine, you could put a couple of layers together in a sleevethat would fasten around with velcro.  Have I been watching too much Martha Stewart with the wife or what?  "Heat shielding... It's a good thing."||||reg||1

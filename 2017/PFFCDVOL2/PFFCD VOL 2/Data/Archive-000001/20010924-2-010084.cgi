@@ -1,0 +1,3 @@
+A||||1||Jaei Sun||quick Q about A/C condenser locale?||||1||
+Z||000000||Jaei Sun||04-30-2001||11:42 PM||||Where is it located??  I am removing all the A/C components from my parts car and I got all the big components (Compressor, Evaporator, & Accumulator) except for the Condensor.  Is it in the front or under the car??<P>------------------<BR> <IMG SRC="http://home.mn.rr.com/fierojaei/trans_fiero_sig2.gif"> ||||reg||1
+Z||000001||Indiana_resto_guy||05-01-2001||12:49 AM||||In front of the radiator.<BR>Don't forget the lines if your going to convert a non A/C car.<p>[This message has been edited by Indiana_resto_guy (edited 05-01-2001).]||||reg||1

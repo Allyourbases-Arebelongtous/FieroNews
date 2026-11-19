@@ -1,0 +1,9 @@
+A||||7||Oreif||Check this car out. (non-fiero)||||12||
+Z||000000||Oreif||12-08-2000||04:41 PM|||| <A HREF="http://hometown.aol.com/DaveYugo/UNDERDOG.html" TARGET=_blank>http://hometown.aol.com/DaveYugo/UNDERDOG.html</A> <P>Kind of humorous. My question is "why?"||||reg||12
+Z||000001||FieroJoe||12-08-2000||09:54 PM||||Oh god.  that was bad.  He got smoked in the 1/4 too by 18mph!<P>To each his own though, but Im sure he gets ripped on, frequently.||||reg||1
+Z||000002||Raydar||12-08-2000||10:34 PM||||And that sound! <BR>Kinda like a... a... Skil Saw!||||reg||11
+Z||000003||Fformula88||12-09-2000||12:46 AM||||Hehehehehe.... now that is funny!  By the sound of the recording, I don't think he wound the rubber band tight enough.  If it was a little tighter he may have gotten into the 13's!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  hehehe||||reg||1
+Z||000004||Joe4x4||12-11-2000||06:38 PM||||Can you say  CHAINSAW...<P>I go to ATCO ....and boy let me tell you about these cars ..they are load and they brake down half-way down the track.||||reg||6
+Z||000005||Monkeyman||12-12-2000||06:07 PM||||Just to set the record straight...<B>THIS IS NOT MY CAR!!!!!</B>||||reg||1
+Z||000006||Raydar||12-13-2000||12:07 PM||||Monkeyman...<BR>So THAT'S where you've been!!!<P>LTNS. Hope all is well.<P>||||reg||12
+Z||000007||FieroLisa||12-13-2000||10:50 PM||||So I wonder if he filled up his gas tank, would it double the value of his car?<P>Today I saw something comparably ignorant looking. I was pulling out of the apartment complex when this Ford Escort comes wheezing by me with a 4 inch exhaust tip!! Wow was it ugly...He had no other obvious mods, except that ugly tip..<P>------------------<BR>Lisa<BR>86 gold 4 speed GT<BR>86 gold 5 speed SC (For Sale)<BR>Columbus, OH/Greensboro NC<BR>*Lots of New Pics!* <A HREF="http://www.geocities.com/fierolisa/" TARGET=_blank>http://www.geocities.com/fierolisa/</A>||||reg||1

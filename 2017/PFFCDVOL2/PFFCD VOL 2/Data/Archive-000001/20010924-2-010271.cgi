@@ -1,0 +1,4 @@
+A||||2||FieroTig||Fiero Specs?||||1||
+Z||000000||FieroTig||05-08-2001||03:58 PM||||What are the specifications of a stock 1986 Fiero GT? i guess what i really want to know is what is the average 0-60 and what is the stock ground clearance? and any other info that might be useful/interesting to know about my car?<P>------------------<BR> <IMG SRC="http://209.125.196.179/fiero/adams/FieroTig.jpg"> ||||reg||1
+Z||000001||Steven||05-08-2001||05:49 PM||||Car & Driver said the '86 gt w/4sp manual would run 0-60 in 7.5 sec, 1/4 mile in 15.9 @ 85.0 mph, top speed 123 mph, and push .80 lateral g's. overall height 46.9. Sorry, but I could not find anything on the ground clearance.<P>------------------<BR> 85 Fiero GT<BR> 3.2 Liter Under Construction||||reg||1
+Z||000002||FieroTig||05-08-2001||07:13 PM||||hey thanks for the info!||||reg||1

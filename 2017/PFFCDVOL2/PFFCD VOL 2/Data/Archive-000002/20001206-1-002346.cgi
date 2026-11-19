@@ -1,0 +1,5 @@
+A||||3||RiceCooker||Bright Yellow Fieros!||||1||
+Z||000000||RiceCooker||05-27-2000||03:18 PM||||Not the same one, but<BR>I know two guys up here in Calgary that have bright yellow GT's that look very similar to that one and they are sweeeeeeet.<BR>The color is Lamborghini yellow.<BR>Hope this helps.||||reg||1
+Z||000001||overlord||05-27-2000||08:39 PM||||ya.theres a bright yellow one in brandon, manitoba.......its always parked on the one street..and i always go out of my way to drive by it..-)     He must of just got it painted when my sister seen it cause she seen this super bright yellow thing half a mile away and when she got up close...Wow its a fiero, and said it was so bright it was hard to look at...-)||||reg||1
+Z||000002||86SE||05-29-2000||03:47 PM||||cool, in a couple of weeks my Fiero will be painted a very bright yellow!!  Its the only yellow Ferrari makes, its called Modena, I cant wait!!||||reg||14
+Z||000003||Shiner||05-30-2000||12:22 AM||||86,<BR> Will you send me a pic of it when it's done?  I was also thinking of getting my car painted "Giallo Modena"  (Modena Yellow)  Who makes paint in this color anyways?  LMK man!||||reg||1

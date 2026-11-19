@@ -1,0 +1,8 @@
+A||||6||fldevel||oil pressure question ||||1||
+Z||000000||fldevel||06-23-2000||01:02 PM||||whats the normal oil pressure when the engine first starts ..my oil pressure guage goes almost all the way up when i start  and then when it warms up it settles down somewhare just after the half way mark ..is this normal? dident do this before i changed the oil <BR>||||reg||1
+Z||000001||Old Lar||06-23-2000||01:06 PM||||Oil sending unit notorious for doing this on V6 engines. When it goes past 80 and stays there, you get to replace it. Check out the archive files, lots of info there.<p>[This message has been edited by Old Lar (edited 06-23-2000).]||||reg||1
+Z||000002||terryk||06-23-2000||04:10 PM||||Completely normal. The Fiero engines are spec'd at 55 PSI so with cold oil, it will hit close to 70 and drop when the oil thins out. The 660 needs tons of oil.<P>Terry||||reg||1
+Z||000003||bHooper||06-23-2000||04:25 PM||||my guage blips all over the place.  im running 10w30.<P>its done this for years... anywhere between 55 and 75 lbs!<P>although the other day it did drop below 50, for a while.....<P>the car seems ok.||||reg||1
+Z||000004||terryk||06-23-2000||10:57 PM||||I'm assuming you have a good sender.||||reg||4
+Z||000005||My7Fieros||06-23-2000||11:26 PM||||Oil sending unit may be heading south...easy fix.........||||reg||1
+Z||000006||Eric||06-23-2000||11:41 PM||||I run a mechanical guage in my car with 10W40 oil.  On startup the guage goes up to 60 psi.  At cruise it drops to 31 psi.  And at idle when fully warm, it hangs out around 5 to 10 psi.  The oil pump I am running is GM's biggest one.  It must be high volume because it sure isn't high pressure.||||reg||1

@@ -1,0 +1,35 @@
+A||||33||GT Bastard||Group Purchases?||||5||
+Z||000000||GT Bastard||06-01-2000||01:59 AM||||How bout a group purchase for quarter windows, headlight motors, ignitions, etc?  If anyone is interested, I can look into some possibilities.  I know the F-body boards use them a lot, and it's a great way to save a few bucks on much-needed items.  ||||reg||5
+Z||000001||tgowens||06-01-2000||02:01 AM||||sounds good - just how many quarter windows can I put on my '87 GT anyway? and, how many are in a group?????||||reg||1
+Z||000002||Haze_Performance||06-01-2000||03:20 AM||||How about a group purchase for Dew wipes???||||reg||1
+Z||000003||BroCar 87||06-01-2000||02:21 PM||||HAZE, I'll go for that.   DEW WIPES here||||reg||1
+Z||000004||lennyb4||06-01-2000||02:24 PM||||Did some one say dew wipes....Count me in||||reg||1
+Z||000005||LarryB||06-01-2000||04:27 PM||||Dew wipes? I'm in. ||||reg||1
+Z||000006||Motorhead||06-02-2000||05:11 AM||||DEW WIPES?!  I'll take four!||||reg||1
+Z||000007||Haze_Performance||06-02-2000||09:12 AM||||See what I started.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> ||||reg||14
+Z||000008||fieroshop||06-02-2000||09:37 AM||||I have them in stock and they are less expensive then the Fiero Store. Look on my web site and check for pricing.||||reg||1
+Z||000009||WhiteFieroBlur||06-02-2000||09:53 AM||||ok I know I am new to having a fiero and a car and all but dew wipers? Umm should I even ask what they are or am I gonna get laghed at for the rest of my forum life?  <IMG SRC="http://www.fiero.nl/forum/confused.gif"> <BR>  But everyone wants them so I'll take 10 of em  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> <BR>   <BR> I do need them quarter windows though, Mine are in pretty bad shape. So if there is a group discount for quarter windows put me down for that.||||reg||1
+Z||000010||frontal lobe||06-02-2000||02:40 PM||||Are dew wipers anything like Tucks?||||reg||1
+Z||000011||tgowens||06-02-2000||02:45 PM||||it "Depends"||||reg||1
+Z||000012||lowCG||06-02-2000||05:30 PM||||Dew wipes have got to be the next purchase for my car besides motor swap stuff that's draining me currently; count me in.<BR>Tired of hearing the sound of my windows getting scratched by my crusty,old dew wipes every time I put the window up or down.||||reg||1
+Z||000013||DaRkLoRD||06-02-2000||05:38 PM||||Dew Wipes are the little rubber "squeegee" type things that go on either side of the window glass.. when the window is rolled down, they wipe any water off the glass so it doesn't go inside the door. It also prevents water from running down the window glass into the door.<P>At least I think that's what they are.   <IMG SRC="http://www.fiero.nl/forum/wink.gif"><p>[This message has been edited by DaRkLoRD (edited 06-02-2000).]||||reg||1
+Z||000014||turbo86se||06-03-2000||11:57 AM||||Group purchase on dew wipes? Count me in!!  I'll need a pair. <BR>Let me know the details!!!<BR>TIA   -joel||||reg||1
+Z||000015||2M4 Dale||06-03-2000||02:13 PM||||I could use another set of dew wipes.||||reg||6
+Z||000016||Monkeyman||06-03-2000||02:58 PM||||In everyones search for a cheaper price you should try Fierodave and Doug Kinney (Fiero Warehouse) in addition to Fieroshop.  I know for sure that FD has them.  ||||reg||1
+Z||000017||terryk||06-03-2000||05:16 PM||||What are you guys paying for dew wipes (outside glass sealing trim 20606220 and 2060221 for 85-88)?<P>The Fiero Store is charging $38.95 ea. I just bought them from the dealer for just under $25 each. List is $29. A bit of a difference in price.<P>If you guys like that price, call (530) 885-0471. Gold Rush Chevrolet in Auburn, CA. Tell them you are part of a Fiero Club and they will give you a discount. Keep in mind that their *list* prices are cheap than others discount prices. <P>They will ship anywhere in the US via UPS. No sales tax outside of CA. These guys have been the cheapest on *ANY* GM part hands down.<P>Terry||||reg||1
+Z||000018||GT Bastard||06-04-2000||02:25 AM||||But dew wipes are boring.... Lets do a group purchase on something exciting.||||reg||13
+Z||000019||Motorhead||06-04-2000||06:56 AM||||Exciting huh?  Well, how 'bout sequential turn signals (another thread). Pretty neat!||||reg||1
+Z||000020||Bruce||06-04-2000||12:09 PM||||Just make sure you don't say anything about group discounts for Flowmasters!!!!!!!!!<BR>bb||||reg||12
+Z||000021||Haze_Performance||06-04-2000||12:18 PM||||Flowmasters?? They dont make..........(never mind) <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif"> ||||reg||12
+Z||000022||terryk||06-04-2000||02:22 PM||||Make it worth your time. Get a group purchase on a turbo kit.||||reg||1
+Z||000023||Haze_Performance||06-04-2000||02:37 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by GT Bastard:<BR><B>But dew wipes are boring.... Lets do a group purchase on something exciting.</B><HR></BLOCKQUOTE><P>WHAT??!! Its not boring if everyone wants them.<P>||||reg||14
+Z||000024||GT Bastard||06-04-2000||03:01 PM||||The mere fact that everyone wants them doesn't mean it's not boring.||||reg||1
+Z||000025||stimpy||06-04-2000||04:10 PM||||Are dew wipes anything like a do-rag? Mrs stimpy wants to know.||||reg||5
+Z||000026||terryk||06-04-2000||08:02 PM||||I know..... DEW STRIPS! It's so crazy it just might work!<P>Thank you everybody, I'm here all week....||||reg||12
+Z||000027||stimpy||06-04-2000||09:03 PM||||And don't forget to tip your waitress on the way out.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000028||fierodave||06-05-2000||10:04 AM||||I don't want to rain on a parade here, but I do have a few questions!<P>Who is going to finace the purchase?<P>what % discount are you going to get?<P>who is going to drop ship the stuff to the list members once the stuff is delivered to the finace guy? <BR>(I don't think they would send it out to 60 to 100 different addy's discounted?)<P>what happens If a member fails to send the money to the finace guy, or decides not to buy?<P>I think it's a great idea to do this  but I would need to know a few of the above things first!<P>Just My 2 cents worth<BR>FD||||reg||1
+Z||000029||2M4 Dale||06-05-2000||10:15 AM||||Hey FieroDave, I'll nominate you...lol. And if someone don't pay we'll beat them with a dew strip then take thier Fiero away from them.(Fate worse than DEATH)||||reg||7
+Z||000030||Motorhead||06-05-2000||05:09 PM||||Check the sequential turn signal thread.  Is this a vendor with an eye toward the customer, or what?  Thanks again for the offer Lawrence!!||||reg||1
+Z||000031||DXR_DAD||06-05-2000||08:44 PM||||Motorhead, so what ya tryin to say is:<P>"Can You Feel The Love"  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>GOOD DEAL!!<P>||||reg||14
+Z||000032||Motorhead||06-05-2000||10:30 PM||||Yea', something like that I guess!||||reg||7
+Z||000033||tgowens||06-05-2000||11:25 PM||||ok, now y'all let me know when ya start talkin' about group purchases on gas and insurance!!||||reg||1

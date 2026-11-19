@@ -1,0 +1,3 @@
+A||||1||Deer_Slayer||Clock stays on when motor is off||||5||
+Z||000000||Deer_Slayer||10-23-2000||03:23 PM||||About a month or two ago, My stepdad and I noticed that after letting the 86 SE run, the clock in the radio would stay on.  Sometimes it would go off immediately and sometimes it would stay on for hours.  Recently though, its been going off like it should.  Could anyone shed light on this situation?||||reg||5
+Z||000001||StuGood||10-23-2000||04:01 PM||||Nope.  But if misery loves company, I can help that way.  My 1986 SE's (yes) radio did that.  Switched radios with another Fiero, and the problem migrated with the radio.  So in my case, the problem was apparently in the radio itself.  Haven't investigated further.   ||||reg||3

@@ -1,0 +1,5 @@
+A||||3||moonie||what a guy !||||8||
+Z||000000||moonie||07-25-2000||09:14 PM||||To the person driving the black 85-87 GT on highway 51 south last weekend, right below Ripley Tn.<P>woulda been nice of you to stop & see what my problem was. But NOOOOOO, you see my car under a overpass, jacked up on one side & you honk & wave as you go by about 70 mph.<P>Thanks man ....that really made my day !<P>what goes around comes around ...but i'll also have to fix my horn first so i can say Hi .<P>||||reg||8
+Z||000001||88formula||07-25-2000||10:01 PM||||That guy told me to say "sorry about your bad luck".||||reg||1
+Z||000002||Monkeyman||07-25-2000||10:51 PM||||How do you know that it was an "'85-'87GT"?  '85GTs were notchbacks.  '86-'88GTs were fastbacks.  The '84 Indy and '86-'87SEs had the same aero/notchback body style, too.||||reg||1
+Z||000003||stimpy||07-25-2000||11:41 PM||||Possibly his spotters guide was being used to steady the jack that was holdig up one side of the car on the side of the road as the bad samaritain passed by!  <P>Sorry to hear about your misfortune, guy.  I would have doubled back to help you.  There is such thing as karma.||||reg||1

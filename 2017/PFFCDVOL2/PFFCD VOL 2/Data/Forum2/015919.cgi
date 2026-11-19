@@ -1,0 +1,3 @@
+A||||1||David DeVoe||Bonneville & Grand Prix lace wheels???||||5||
+Z||000000||David DeVoe||11-30-2001||12:24 PM||||Can the lace wheels (usually gold centers) used on Bonnevilles and Earlier Grand Prix's be used on our Fiero's? Would the fact that these cars are front drive create an offset issue??? It seems to me that they should be easier to come by then the Fiero lace wheels and they are almost all 16 inch.<BR>Thanks for any info<BR>Dave||||reg||5
+Z||000001||PBJ||11-30-2001||12:28 PM||||They are a larger bolt pattern and will not bolt up. Need from a J car or older N cars. along with other smaller to mid size cars. if you do a search there is a full list including other makes. <p>[This message has been edited by PBJ (edited 11-30-2001).]||||reg||1

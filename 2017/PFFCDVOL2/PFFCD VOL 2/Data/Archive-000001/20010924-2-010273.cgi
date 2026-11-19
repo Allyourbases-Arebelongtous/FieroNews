@@ -1,0 +1,5 @@
+A||||3||deceler8||Refinished wheel photos||||1||
+Z||000000||deceler8||05-08-2001||05:19 PM||||Sorry I don't have the highest res digital cam, but here is the car with the wheels I refinished with my Black and Decker Mouse sander.<P> <IMG SRC="http://www.fiero.nl/uploads/may08$01.jpg"> <P>The second photo is the car with the old wheels. I really like these aluminum wheels...makes the car look more like the classic Duke Fiero.<P> <IMG SRC="http://www.fiero.nl/uploads/apr18$02_1.jpg"> <P>And I was asked by the tire place guys where I found such a nice set.||||reg||1
+Z||000001||StuGood||05-08-2001||06:56 PM||||Very sharp!  Guess you have to use a Mouse, to get those wheels so squeaky clean  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> ||||reg||10
+Z||000002||Taijiguy||05-08-2001||07:26 PM||||Oh no, Stu, you did <I>not</I> just say that!||||reg||1
+Z||000003||StuGood||05-08-2001||11:46 PM||||Sorry.  I'll try to keep my trap shut from now on.  No more cheesy jokes.<P>Well, not tonight, anyway  <IMG SRC="http://www.fiero.nl/forum/wink.gif">.||||reg||9

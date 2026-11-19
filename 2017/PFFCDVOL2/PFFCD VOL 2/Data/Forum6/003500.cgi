@@ -1,0 +1,2 @@
+A||||0||Shaun41178||My new email addy!!!||||1||
+Z||000000||Shaun41178||09-20-2001||07:54 PM||||Some of you might have known that my email addy was an aol account.  Well that is no more.  So please if you have email to send me send it to Shaun41178@hotmail.com<P>I will update my profile too.<P>Hey Brian I can't quite remember your email addy for the directions to my house.  Email me at that hotmail account so I have it.<P>------------------<BR>Shaun 85 GT with nitrous<BR>0-60 in 5.6 seconds||||reg||1

@@ -1,0 +1,8 @@
+A||N||6||87ECO5||Oil Dipstick Tube Bolt Missing - Need Replacement||||5||
+Z||000000||87ECO5||07-11-2001||09:51 PM||||There's a bolt that holds the oil dipstick tube in place - and I've misplaced it.  On the V6, this bolt threads into a bracket on the backside of the engine (ahead of the rocker arm cover closest to the passenger compartment).<P>Can someone give me the size of the bolt so that I can purchase a replacement?<P>TIA||||reg||5
+Z||000001||87ECO5||07-12-2001||07:20 AM||||*bump*||||reg||4
+Z||000002||tgowens||07-12-2001||07:55 AM||||Scott, it's an 8mm.........||||reg||1
+Z||000003||87ECO5||07-12-2001||09:18 AM||||Thank you, Terry!||||reg||14
+Z||000004||bHooper||07-12-2001||09:21 AM||||Scott, funny you mentioned that.  When I put the manifold in the black car, I forgot to reinstall the tube first, so I lost the bolt trying to do this after the fact!<P>I always forget the dipstick, I need to wright a big sticky note and leave it on the windshield of the car, or something.<P>------------------<BR>hoop<BR><FONT SIZE="3"><FONT COLOR="red"><B>Red</B></FONT></FONT> 86 GT 5 speed<BR><FONT SIZE="3"><B>Black</B></FONT> <u>86 SE Automatic</u>||||reg||1
+Z||000005||87ECO5||07-13-2001||08:48 AM||||FEI ... the bolt is an M6 1.0 x 16mm.||||reg||14
+Z||000006||bHooper||07-13-2001||09:48 AM||||thanks!  ill buy a pair of them, so i can properly fix my car... thats one to lose and one to fit.<P> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P><P>------------------<BR>hoop<BR><FONT SIZE="3"><FONT COLOR="red"><B>Red</B></FONT></FONT> 86 GT 5 speed<BR><FONT SIZE="3"><B>Black</B></FONT> <u>86 SE Automatic</u>||||reg||1

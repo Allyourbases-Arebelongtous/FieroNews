@@ -1,0 +1,2 @@
+A||N||0||Matt85_GT||Need help V6 only||||5||
+Z||000000||Matt85_GT||04-08-2000||06:16 PM||||Would someone who has a good running V6 fiero please perform the following test?  Disconnect the injector six way connector it is located just below the MAP sensor thermostat side of the engine.  The connector has the letters A through F labeled on it.  Check the resistance with and ohmeter of the injector harness between <BR>B & A, B & D, C & A, and C & D.  Please tell me if you get resistance between all of these terminals and how much. Please respond<BR>Thanks, Matt 85 GT||||reg||5

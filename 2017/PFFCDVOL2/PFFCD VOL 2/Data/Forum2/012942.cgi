@@ -1,0 +1,3 @@
+A||N||1||Seanh||Steering Column Bearings, is this right?||||1||
+Z||000000||Seanh||08-19-2001||07:47 PM||||Alright, on the shaft of the column up by the wheel there is a ring of bearings in a black ring. There is a tapered ring, then another ring with long sides, and slits in them. My question is that on that last ring with the slits in it, does it need to be pressed/hammered in there, or does it just sit on top until you compress it and put the lock plate on? If it needs to be pressed, how do you do it? It looks like it would bent if you hammer/punch it. Thanks!||||reg||1
+Z||000001||PBJ||08-19-2001||08:03 PM||||I gets compressed when you put the steering lock plate back on.||||reg||1

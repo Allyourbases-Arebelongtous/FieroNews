@@ -1,0 +1,5 @@
+A||N||3||count_iblis||where can i find the interior?||||5||
+Z||000000||count_iblis||10-27-2000||05:18 PM|||| <IMG SRC="http://www.fiero.nl/uploads/kit1d_1.jpg"> ||||reg||5
+Z||000001||DaRkLoRD||10-27-2000||06:05 PM||||you can't.<P>only 2 exist, the kit was never produced. best option would be to design your own based on the available photographs...<P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||13
+Z||000002||Seanh||10-27-2000||06:39 PM||||I love that interior. I would like to know about how much that would cost to have made. Any ideas?<P>------------------<BR>Sean Heberly<BR>Silver 86 GT 2.8<BR>Killer Stereo System||||reg||1
+Z||000003||RaeQwan||10-27-2000||09:12 PM||||Kinda reminds me of a stealth dash..  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> I wonder if my brother would miss the dash out of his stealth .. hehe  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/raeqwanpenguin.gif"> ||||reg||1

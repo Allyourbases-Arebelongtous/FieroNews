@@ -1,0 +1,2 @@
+A||||0||Cheever2||More pics - now I can do albums||||6||
+Z||000000||Cheever2||05-21-2001||06:36 PM||||I'm just a PFF-pic-postin' fool.  If you want to see more pics of my cars, go to <A HREF="http://photomail.photoworks.com/sharing/album.asp?Key=9542661405370801" TARGET=_blank><B>this album</B></A>.  They're from the same roll as the ones I posted previously.  Can't say when I'll get last weekend's show pics up.<BR><p>[This message has been edited by Cheever2 (edited 05-21-2001).]||||reg||6

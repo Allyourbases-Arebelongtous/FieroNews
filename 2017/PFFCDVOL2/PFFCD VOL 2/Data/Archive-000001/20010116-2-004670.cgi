@@ -1,0 +1,4 @@
+A||||2||Cooter||What about this "new" four speed?||||1||
+Z||000000||Cooter||07-09-2000||11:51 AM||||At the trade school where my dad teaches, they have an 85 Citation with 6 miles on it. It was donated by GM and has to be dismantled and scrapped instead of being sold. The car is a carb. v6 with a four speed. Anybody have an idea if this is the same 4 speed the Fiero uses? If so, what gear would it have?||||reg||1
+Z||000001||Philphine||07-09-2000||01:37 PM||||i always heard the fiero had a citation drtvetrain. if it's not the same it's got to be close.<P>------------------<BR><P>'87 coupe (feral)<BR>'84 indy||||reg||1
+Z||000002||terryk||07-09-2000||02:00 PM||||Hi Cooter,<P>It is likely the same if the car was not an X-11. The X-11's had diferent gear spacings.<P>Probably a standard M17.||||reg||1

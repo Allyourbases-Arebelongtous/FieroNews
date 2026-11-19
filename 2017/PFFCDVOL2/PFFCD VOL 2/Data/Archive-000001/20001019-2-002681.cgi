@@ -1,0 +1,5 @@
+A||||3||1FieroGTRacingInc||Another idle Question...||||5||
+Z||000000||1FieroGTRacingInc||03-12-2000||08:51 PM||||My 87GT Automatic... My ?? is it idles @1800rpm's when my defroster is on and @1200rpm's when my a/c is on  and <BR>@1400rpm's when my off button is pushed .... <P>   Is all this normal??? If not then do any of ya'll have a clue why???  Thanks...||||reg||5
+Z||000001||theogre||03-12-2000||11:01 PM||||Is that with the tranny in drive?<BR>Is it warmed up or cold?<p>[This message has been edited by theogre (edited 03-12-2000).]||||reg||1
+Z||000002||1FieroGTRacingInc||03-13-2000||12:32 AM||||Sorry I forgot to tell you that huh..  well lol actually.. that is in PARK... I CANNOT GET IT TO IDLE AT ALL IN DRIVE.. It will idle @700-800rpm's that the car will ****  and die Everytime....  <IMG SRC="http://www.fiero.nl/forum/confused.gif">  I HAVENT A CLUE WHAT TO DO...       Hey theogre,<P>How are the turn signal mirror project ?? DEAD??  ||||reg||1
+Z||000003||Phil||03-13-2000||06:11 AM||||Try disconnecting the TCC solenoid on the tranny and see if that stops the stalling bit. Many threads cover its funtion and stuff.||||reg||1

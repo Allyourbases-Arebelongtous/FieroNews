@@ -1,0 +1,4 @@
+A||||2||85seNUT||Clutch problem, anyone know what it is?||||1||
+Z||000000||85seNUT||08-17-2001||09:43 PM||||Well i was just about home(thank god) when i go to push in the clutch to put it into neutral so i can come to a stop when i push it in about halfway down it got really rough and went all the way to the floor with no pressure, then when i bring it back up and try to push it back down i can only push it halfway!!!!  what the heck is wrong.  and the car wont start cuz it only pushes a little ways down.  please help me!!!!||||reg||1
+Z||000001||EdsB52||08-17-2001||10:32 PM||||Sounds like it could be binding in the pressure lpate springs??? When you depress it now, does it bind hard when half travel?||||reg||1
+Z||000002||85seNUT||08-17-2001||10:38 PM||||what do u mean bind hard?  when i push it down its like normal then i hit the spot and it stops and i can push it farther if i use all my weigh but it still ownt start the car.  hmmmm ||||reg||1

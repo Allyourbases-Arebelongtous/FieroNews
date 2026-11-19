@@ -1,0 +1,5 @@
+A||||3||billfredmike24||Last radio wiring question||||5||
+Z||000000||billfredmike24||08-20-2001||03:48 PM||||If i leave the brown wire disconnected, just tape it up with electrical tape, am i going to have any problems with the deck? Blowing fuses or anything?<BR> <IMG SRC="http://www.fiero.nl/uploads/Untitled-1_7.jpg"> <BR>I had the gray disconnected but blew some fuses for the instrument panel.  I don't need the dim signal for the deck.<BR>Any help would be great.<BR>Thanks Mike<BR><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sig_10.jpg"> <BR>yeah the wheels are ugly, and the stickers, that'll change||||reg||5
+Z||000001||PBJ||08-20-2001||04:03 PM||||correct.||||reg||1
+Z||000002||billfredmike24||08-20-2001||04:29 PM||||Correct, as in I can leave it disconnected?||||reg||1
+Z||000003||grinthock||08-20-2001||05:07 PM||||Just tape it up, you don't need it.<P>When we install a deck at the stereo shop, we use a conversion harness ALWAYS and never connect that wire.||||reg||1

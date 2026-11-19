@@ -1,0 +1,3 @@
+A||||1||Adrift||Anyone know if something like this has been adapted to the fiero?||||5||
+Z||000000||Adrift||12-03-2001||12:03 AM||||Found this while surfin' <A HREF="http://www.meaa-mea.com/products/b_eps.asp" TARGET=_blank>http://www.meaa-mea.com/products/b_eps.asp</A> <BR>Anyone knows if any electrical assisted steering setups have been added to fieros?||||reg||5
+Z||000001||Nashco||12-03-2001||12:24 AM||||I don't know for sure, but I HIGHLY doubt that anybody has adapted a set.  The equipment involved is just too limited right now..it's out there, but not in any quantity.  Rodney Dickman has one of the original electro-assisted power steering units, amazingly enough, but that isn't an adapted setup that anybody else could make.<P>Bryce<BR>88 GT||||reg||1

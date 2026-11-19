@@ -1,0 +1,3 @@
+A||N||1||blazin'||Engine Swaps??||||5||
+Z||000000||blazin'||10-01-2001||09:39 PM||||I have an 84 Fiero with the 2.5. The engine needs a lot of work, but otherwise the car is in great shape. I want to put a bigger <BR>V-6 in it. I found a Buick 3.3 v-6, would this be any good?? I haven't heard of a fiero with a 3.3. Any other suggestions???||||reg||5
+Z||000001||Raydar||10-01-2001||10:13 PM||||A 3.3 is as much trouble to install as a 3.8/3800 (requiring custom mounts and some fabrication), with not much more horsepower than a 2.8.<P>------------------<BR>Raydar - aka Steve<BR><FONT SIZE="1"><BR>Black 88 Formula.<BR>Red 88 Duke coupe. "The Project" <BR>88 Formula parts car. "The Donor"<BR></FONT>||||reg||1

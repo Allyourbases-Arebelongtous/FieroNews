@@ -1,0 +1,3 @@
+A||||1||Gumball||Getrag Question||||1||
+Z||000000||Gumball||05-04-2001||04:16 AM||||I recent stole a fine 328 kit car from a friend for 2000 dollars.  I love everything about it except fot the auto transmission.  I am planning to get a getrag 5 speed from the yard.  Do any of you guy know any autoshop in San Diego that can do the swap for me.  I need a shop that is well experience with the fiero.||||reg||1
+Z||000001||88formula||05-04-2001||09:10 PM||||Don't know how close this guy is to you but he specializes in the fiero. <A HREF="http://www.fieroshop.net" TARGET=_blank>http://www.fieroshop.net</A> <P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/88formula_logo_1.JPG"> ||||reg||1

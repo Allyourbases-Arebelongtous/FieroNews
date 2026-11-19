@@ -1,0 +1,5 @@
+A||||3||mutfish||part prices||||1||
+Z||000000||mutfish||12-13-1999||07:14 AM||||I can hardly beleive I just had to pay Pep Boys $27.49 each for rebuild kits for the rear calipers on an '88. I checked the Fiero store catalog they get $41.89......The same basic parts (piston dust boot and a couple rubber seals)for a '84-87 $12.02.<BR> Man those '88 brakes MUST be a whole lot better!||||reg||1
+Z||000001||Raydar||12-13-1999||10:19 PM||||Don't feel too bad. I didn't feel comfortable rebuilding my calipers. I just paid Advance Auto $75 each for two rebuilt rear calipers. And the CORE CHARGE was an additional $73 per. (Fiero Store gets approx. $149 each for rear calipers, plus core.)||||reg||1
+Z||000002||87GT||12-13-1999||10:26 PM||||Im going to have to get a hold of a 88 fiero so that I can see how great the brakes are.  I got a couple of compliments from friends that drove my car saying how awesome the brakes are.  Ill have to check it out. ||||reg||1
+Z||000003||Standard||12-14-1999||12:49 AM||||I've been looking around for a TBI rebuild kit, which should be a couple of gaskets and some o-rings, and the price was around $50.  insane.||||reg||13

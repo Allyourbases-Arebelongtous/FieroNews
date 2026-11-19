@@ -1,0 +1,4 @@
+A||||2||Greg Piet||Signature test reccomendation||||1||
+Z||000000||Greg Piet||01-09-2001||01:44 PM||||With all these darn signature tests, maybe at the bottom we could have a signature test section which gets deleted every month or so?  This will reduce archive space, and reduce the amount of posts to muddle through?<P>------------------<BR>SCCA Region 72<BR>#47 CSP<BR>Bring it to the track.<BR>Lets see if all those mods really helped!||||reg||1
+Z||000001||Cliff Pennock||01-09-2001||05:17 PM||||Actually, people could go to the PIP forum and do all the testing they want there:<BR> <A HREF="http://pip.pennock.nl/cgi-bin/Ultimate.cgi?action=intro" TARGET=_blank>http://pip.pennock.nl/cgi-bin/Ultimate.cgi?action=intro</A> <P>||||reg||1
+Z||000002||william_thorniii||01-09-2001||08:34 PM||||test... LOL||||reg||1

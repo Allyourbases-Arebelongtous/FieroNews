@@ -1,0 +1,4 @@
+A||N||2||Shianne||Sluggish power locks||||5||
+Z||000000||Shianne||05-16-2001||12:10 AM||||What would cause power locks to be slugish.  When I got the car they did not work at all.  The fuse was missing, when I replaced the fuse they now work, but I have to press the button several times to get the doors to lock or unlock.  other than that they seem ok.  Also my power mirrors no longer work, I think it may be the switch in the center area, but am not sure.  All wires seem to be ok, and attached.<P>Pat||||reg||5
+Z||000001||87GTZ34||05-16-2001||12:24 AM||||The linkage inside the door needs to be cleaned/adjusted.  I did it to my 1st Fiero and now I need to do the same thing to the 2nd one.  It is kind of PITA to do but...||||reg||1
+Z||000002||btoth||05-16-2001||12:26 AM||||Make sure that things aren't bent and spray some WD-40 on the moving parts and move them back and forth.  That's how I got my locks working.||||reg||1

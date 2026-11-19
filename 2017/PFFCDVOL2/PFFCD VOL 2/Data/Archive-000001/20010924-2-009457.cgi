@@ -1,0 +1,7 @@
+A||||5||Getaway2k||I need hoses!!!||||1||
+Z||000000||Getaway2k||04-06-2001||01:13 PM||||Looks like the feed hose to my gas tank is leaking. I called the dealer and they advised that these hoses (return and feed) are discontinued. Anyone know where I can buy these two hoses at? One is rather large and the other is much smaller.<P>Thanks||||reg||1
+Z||000001||Steven||04-06-2001||01:47 PM||||Just wondering, what year and what engine?<P>------------------<BR> 85 Fiero GT<BR> 3.2 Liter Under Construction||||reg||5
+Z||000002||Getaway2k||04-06-2001||02:46 PM||||It's an 86 GT with a V6.||||reg||1
+Z||000003||Steven||04-06-2001||03:38 PM||||Going by the catalog, the return hose is 10068753. It is item #33 in the green pages of the parts catalog. It is also still a good part number. Dealers list price shows to be $49.24<BR>||||reg||1
+Z||000004||Steven||04-06-2001||03:40 PM||||The feed line going in to the filter is discontinued, but the feed line coming out of the filter is still good. Part number is 10068754. Dealers list price $39.50.||||reg||1
+Z||000005||Indiana_resto_guy||04-06-2001||03:42 PM||||I have both on an '87 parts car. I will gladly let you have them for $20.00 for both + shipping. I will need to go and take them off so send me an e-mail to let me know.<P>Which two do you need specifically?<BR>IRG<p>[This message has been edited by Indiana_resto_guy (edited 04-06-2001).]||||reg||1

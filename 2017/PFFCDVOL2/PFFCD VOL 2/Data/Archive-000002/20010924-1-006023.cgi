@@ -1,0 +1,4 @@
+A||N||2||Roy Grooms||PAINT CODE 1984 RED||||1||
+Z||000000||Roy Grooms||03-03-2001||02:23 PM||||I for got to say it is a 1984 fiero 2m4 <BR>factory paint red||||reg||1
+Z||000001||rogergarrison||03-03-2001||02:29 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Roy Grooms:<BR><B>I for got to say it is a 1984 fiero 2m4 <BR>factory paint red</B><HR></BLOCKQUOTE><P>WA8553 is the 84 red code<P><BR>||||reg||1
+Z||000002||Roy Grooms||03-04-2001||09:47 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by rogergarrison:<BR><B> WA8553 is the 84 red code<P></B><HR></BLOCKQUOTE>THANK YOU FOR THE PAINT CODE,I SEEN A LOT OF G.M. RED BUT WAS NOT SURE WHICH ONE TO BUY<BR>            ROYS TOY<P>||||reg||7

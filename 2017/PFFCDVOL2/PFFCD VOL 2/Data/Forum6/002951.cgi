@@ -1,0 +1,4 @@
+A||N||2||87ECO5||Why men are not secretaries||||6||
+Z||000000||87ECO5||08-13-2001||03:16 PM||||WHY MEN ARE NOT SECRETARIES<P>Husband's note on refrigerator to his wife:<P>Someone from the Guyna College called.<BR>They said your Pabst beer is normal.<P>.<BR>.<BR>.<P>Sorry if this is a dupe ...||||reg||6
+Z||000001||JSocha||08-13-2001||03:28 PM||||One for the ladies to enjoy!  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>Men are like high heels.<BR>There easy to walk on, once you get the hang of them.<P>Sorry guys...just though I would share...  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> ||||reg||10
+Z||000002||Steve Normington||08-13-2001||04:04 PM||||Warning! A little crude humor.<P>How are men like linoleum?<P>Lay um right the first time and you can walk all over them the rest of your life.||||reg||1

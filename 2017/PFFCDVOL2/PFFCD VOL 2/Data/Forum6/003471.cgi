@@ -1,0 +1,7 @@
+A||||5||SteveJ||From the Celica board||||1||
+Z||000000||SteveJ||09-18-2001||10:09 AM||||Please don't click this link if you are offeneded by sexual content but the chance to seek humor at Bin Lauden's expense is rare:<BR> <A HREF="http://www.newcelica.org/ubb/Forum1/HTML/004218.html" TARGET=_blank>http://www.newcelica.org/ubb/Forum1/HTML/004218.html</A> ||||reg||1
+Z||000001||Fformula88||09-18-2001||08:39 PM|||| <IMG SRC="http://www.fiero.nl/forum/smiley_dizzy.gif">  Thats funny, but I feel bad for Kermit the Frog!  LOL, still funny!  hehe  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>John  <BR>AOLIM: Fformula88<BR>    <IMG SRC="http://www.fiero.nl/uploads/Fiero2m6siga.JPG">     <IMG SRC="http://www.fiero.nl/forum/halfpole.gif"> <P>1988 Fiero Formula<BR>1985 Fiero SE 2M6||||reg||1
+Z||000002||Brian87egotrip||09-19-2001||05:55 PM||||too damn funny!<P>------------------<BR>Brian                    87GT||||reg||1
+Z||000003||BlackDragon||09-19-2001||08:26 PM||||i cant get it, the server has it blocked, can someone post it here?<P>------------------<BR>We are all different for a reason<P><BR>BlackDragon||||reg||1
+Z||000004||FieroKyle||09-19-2001||10:26 PM||||he better get used to it, while in prison they will pass him around, lol. =)||||reg||1
+Z||000005||FieroKyle||09-19-2001||10:26 PM||||he better get used to it, while in prison they will pass him around, lol. =)||||reg||1

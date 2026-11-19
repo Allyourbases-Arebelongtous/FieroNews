@@ -1,0 +1,6 @@
+A||||4||ginoferrari||aluminum cradle mounts||||5||
+Z||000000||ginoferrari||09-21-2001||10:40 PM||||I read a post the other day from a guy that makes aluminum engine mounts. I checked in the search mode and can't find anything. Does anyone know who it was? He wanted to know if anyone was interested in getting a set so he would know if it would be worth his while to get the material to make them.<P>------------------<BR>                  <IMG SRC="http://www.imagestation.com/picture/sraid26/p23177a738ceb9d88e0b51db344f1ee79/fe3c196f.jpg">                       <BR>84 2M4<BR>84 SE<BR>87 Coupe||||reg||5
+Z||000001||FieroBUZZ||09-22-2001||10:03 AM||||Try Darrell Morse in MN. He makes them and may have some in stock. MORSE86@aol.com <BR>Gary||||reg||14
+Z||000002||ginoferrari||09-22-2001||10:40 AM||||Thanks Buzz, I'll drop him a line and check it out.||||reg||10
+Z||000003||c m west||09-22-2001||02:33 PM||||We also supply 6061 T6 Heat treated aluminum cradle bushings, check us out at <A HREF="http://www.cwestco.com" TARGET=_blank>www.cwestco.com</A> <P>Eric - West Coast Fiero||||reg||1
+Z||000004||Jimmy||09-22-2001||03:03 PM||||Last I heard Darel had them in stock for $125 a set.<P>Jim||||reg||1

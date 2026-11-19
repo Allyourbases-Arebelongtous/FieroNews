@@ -1,0 +1,3 @@
+A||||1||montage||Source of 88 Ft/Rear Poly Sway Bar Bushings||||1||
+Z||000000||montage||06-19-2001||09:52 AM||||I'm trying to locate a source of front and rear poly sway bar bushings for a 1988 formula. I found one source for the front (suspension.com) but none for the rear. Could anyone help me locate a source?  Tanks!!||||reg||1
+Z||000001||Black88GT||06-19-2001||09:58 AM||||I think <A HREF="http://www.suspension.com" TARGET=_blank>www.suspension.com</A>  will sell just the bushings, but my entire assembly needed to be replaced so I had to buy the "kit" from the Fiero Store, <A HREF="http://www.fierostore.com" TARGET=_blank>www.fierostore.com</A> ||||reg||1

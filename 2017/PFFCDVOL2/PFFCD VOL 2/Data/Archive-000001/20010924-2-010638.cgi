@@ -1,0 +1,2 @@
+A||||0||WMEBERT||Locate Bright Green S/C Fiero Owner||||1||
+Z||000000||WMEBERT||05-21-2001||09:23 PM||||I'm trying to locate the owner of the bright (lime?) green with cool graphics, 3.8 S/C Fiero GT that was at Carlisle this past weekend.  He has the stock 2.8 V6 from it for sale that I am interested in.  My email is sdebert@earthlink.com if anyone knows who I'm talking about and how to get a hold of him. I'm in the Allentown, PA area and he said he was from Macungie.  Thanks||||reg||1

@@ -1,0 +1,6 @@
+A||N||4||porridgeman||exhaust manifolds||||5||
+Z||000000||porridgeman||05-09-2001||11:48 PM||||can any-one tell me if the exhaust manifolds are the same of 1984 thru till 1986 2.8 V6 ?  also what would be a fair price to pay for a used one. TIA<P>------------------<BR>||||reg||5
+Z||000001||Seanh||05-09-2001||11:50 PM||||Im pretty sure they are all the same thru all the years. The V6 was only available in 85-88 cars. ||||reg||1
+Z||000002||stsmithgt||05-10-2001||02:22 PM||||I picked one up the other day for about 25 dollars(U.S.) from an auto wrecker, but 35.00 wouldn't be unusual.  I took it off and saw that motor was running clean with that chaulky white color inside the manifold.  Too bad it's been sitting in the weather for a couple of years.  probably a good rebuilder for someone.<P>------------------<BR>My heap. No, it's not missing the "C".<BR>Those are notes that I spend on it.<BR>     <IMG SRC="http://www.fiero.nl/uploads/carpicsig.jpg"> ||||reg||1
+Z||000003||Steven||05-10-2001||03:13 PM||||Doesn't the white chaulky stuff mean that it has been running lean?||||reg||5
+Z||000004||Dave Gunsul||05-10-2001||10:20 PM||||If you're going to replace them it'd be a good time to have them ported for some more power or buy headers.<P>------------------<BR>Dave Gunsul<BR>N.I.F.E. member<BR>86 GT modified<BR>85 SE daily driver||||reg||1

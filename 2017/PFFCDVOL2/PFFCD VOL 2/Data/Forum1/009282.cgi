@@ -1,0 +1,4 @@
+A||N||2||Jericko||Meets/Chills in the Toronto Area on Sturday August 11||||1||
+Z||000000||Jericko||08-06-2001||12:01 PM||||Starting this Saturday, which is the 11th of August, Ontario Racing Crew will be hosting the meets of ALL cars in the Western part of the Greater Toronto Area.  Please contact me via ICQ for more details.  ICQ#112998411<BR>By The Way, members of Ontario Racing Crew will be informed about the 1.5 Kilometer ABONDONED ROAD, that we WILL be using!||||reg||1
+Z||000001||Jericko||08-06-2001||12:34 PM||||It is going to be a weekly event...||||reg||1
+Z||000002||Jay||08-06-2001||02:05 PM||||Would love to come but on Sunday the 12 of August I'll be going to Cayuga for the Innovative import and sub compact domestic shoot out.  <P>------------------<BR>Jay<BR>1986 Northstar GT<BR>www.members.home.net/jaygrande<BR> <IMG SRC="http://www.fiero.nl/uploads/cayuga3_3.jpg"> ||||reg||1

@@ -1,0 +1,2 @@
+A||||0||mrfixit58||Alternate Manual Tranny ????||||14||
+Z||000000||mrfixit58||04-05-2000||11:14 AM||||Just in case some of you guys missed it, there is an interesting thread about the guys from England using a 6-speed transmission in the Fieros. Look at:<BR> <A HREF="http://www.fiero.nl/forum/Forum1/HTML/001719.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/001719.html</A> <P>Maybe we should move the discussion here. ||||reg||14

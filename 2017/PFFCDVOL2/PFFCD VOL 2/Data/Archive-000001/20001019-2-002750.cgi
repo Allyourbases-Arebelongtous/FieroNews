@@ -1,0 +1,3 @@
+A||N||1||Lewis||codes 13 and 44 from ecm||||1||
+Z||000000||Lewis||03-17-2000||12:21 PM||||I retrieved the codes from the ecm.  They both seem to point to a oxygen sensor problem along with other things.  I have a very strong exhaust smell and bad gas mileage and a inconsistent idle sometimes the car will even stall out.  Does anyone have any suggestions about these codes and if I should change the sensor?||||reg||1
+Z||000001||TheFiero64||03-17-2000||12:27 PM||||I had the same problem. The oxygen sensor was so far gone it made my cat con block up. I say get a new sensor and you will feel, smell, & see the difference.||||reg||1

@@ -1,0 +1,4 @@
+A||||2||overlord||just some pics||||1||
+Z||000000||overlord||09-04-2000||09:45 AM||||just bored....<BR>first one is of the 2 pontiacs in the area<BR>second is me...<BR>third is my window decal <BR> <IMG SRC="http://www.geocities.com/motorcity/downs/2634/transfiero.jpg"> <BR> <IMG SRC="http://www.geocities.com/motorcity/downs/2634/me.jpg"> <BR> <IMG SRC="http://www.geocities.com/motorcity/downs/2634/window.jpg"> ||||reg||1
+Z||000001||DXR_DAD||09-04-2000||03:08 PM||||Two more!!!!!! and you know the color!!! <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P><BR> <IMG SRC="http://img14.webshots.com/photos68/452/9/4520916PWBDTNdIQB_photo.jpg"> <P><BR>DXR_DAD||||reg||1
+Z||000002||My7Fieros||09-04-2000||03:17 PM||||Coolness...I love pics! Cars look sharp.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||14

@@ -1,0 +1,2 @@
+A||||0||Mark||Shifter Cable Insulation Renu||||5||
+Z||000000||Mark||11-28-2000||06:06 PM||||The silvery coating on the insulating sleeves over my shifter cables is worn out, leaving the insulation "dirty" looking.  Has anyone found a suitable coating or cover material which can be applied over the insulation, or in lieu of the insulation, to make things all pretty again?  What about that header wrap stuff?  Or is there anything like a metallic or heat resistant spiral wrap product out there? ||||reg||5

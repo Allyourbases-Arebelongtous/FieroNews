@@ -1,0 +1,3 @@
+A||||1||wkayl||Fure pressure related to spark?||||1||
+Z||000000||wkayl||09-18-2001||09:13 PM||||I am having trouble with getting spark intermittently.  This evening the car started right up.  I hooked fuel press gage to rail and had 30lbs.  I ran the car a while.  Pressure dropped to 5 lbs, Shut the car off and now no spark.<P>------------------<BR>     <IMG SRC="http://www.fiero.nl/uploads/sig_2.jpg">    <IMG SRC="http://www.fiero.nl/uploads/usa1017[1].gif">   <BR>Dnyee's 88 Formula, Casey's 86GT, Wayne's 86GT.  <BR>We consider my wife as being "Fiero Challenged"||||reg||1
+Z||000001||87GTZ34||09-18-2001||09:25 PM||||The only connection (no pun intended) is maybe a weak battery?||||reg||1

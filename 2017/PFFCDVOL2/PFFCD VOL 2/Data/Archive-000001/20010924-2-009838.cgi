@@ -1,0 +1,4 @@
+A||N||2||FieroJoe||Reassembly order for interior panels||||1||
+Z||000000||FieroJoe||04-22-2001||12:19 AM||||Well, tomorrow I hope to get the plastic A-pillar, B-pillar, and lower trim pieces on.  But, I cannot remember what order I need to put them on!  All the dash is in, and the carpet too, but what goes first, second, and third when it comes to those 3 panels?<P>Thanks!<P>------------------<BR>AIM: Fiero87311<BR>87 Coupe 5sp. - big resto near completion!<BR>    <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1
+Z||000001||tgowens||04-22-2001||05:28 AM||||A, B, then the lower trim pieces........||||reg||1
+Z||000002||FieroJoe||04-22-2001||05:22 PM||||Thanks alot, I'll go try it!<P>------------------<BR>AIM: Fiero87311<BR>87 Coupe 5sp. - big resto near completion!<BR>    <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1

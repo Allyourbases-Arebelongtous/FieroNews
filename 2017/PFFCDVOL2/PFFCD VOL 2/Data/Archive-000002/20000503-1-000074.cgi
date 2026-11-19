@@ -1,0 +1,4 @@
+A||||2||Pretender||Carlise was Great!
+Z||000000||Pretender||05-16-99||11:59 PM||||it was awesome!...i have never seen so many fiero's in my life!, northstar conversions, vette engine conversion,turbos, 3.8, 3.8 supercharged, many many kits and body mods!!!!!!..this is a must go to show next year guys/gals.....:o)<br>
+Z||000001||Patrick||05-17-99||12:30 PM||||<br>As I said to <b>spike</b> in his thread...<p>PICTURES, WE WANT PICTURES !!!!!!!!<p>Sorry...again...<p>
+Z||000002||Pretender||05-17-99||02:44 PM||||i would of taken all i could but my camera broke last weekend!(while i was in english town), the film jammed in and i lost all the pics and when i tried to put in a new role it also jammed, i think it has seen it's better days..i think i might visit sears and check out the new digital cameras..:o)

@@ -1,0 +1,6 @@
+A||||4||Oreif||Where is this switch??||||1||
+Z||000000||Oreif||08-15-2000||11:57 AM||||Saw this AD on Ebay. <A HREF="http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=408259746" TARGET=_blank>http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=408259746</A> <BR>The person selling it doesn't say what year it is but if you read thru the options it has an "overdrive lock-out switch"<BR>He claims it's 100% stock. I think it's an 86 GT. (silver trim on bottom and the non-etched intake) I have a "hydromatic" trans also. Maybe this is why I run high RPM's at 100mph  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><BR>(I know Fieros only have 3spd auto's)  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>||||reg||1
+Z||000001||Phil||08-15-2000||02:51 PM||||Most likely means the lock-up solenoid||||reg||1
+Z||000002||elfiero||08-15-2000||03:19 PM||||Can you belive they give morons like this<BR>drivers licenses?||||reg||5
+Z||000003||theogre||08-15-2000||03:39 PM||||I noticed it looks like he's got the EGR vac line off in that pic. not a good sign.||||reg||1
+Z||000004||tgowens||08-15-2000||04:57 PM||||but he has a $1000 driver's seat........maybe it's an egress system with an ejection seat? ||||reg||1

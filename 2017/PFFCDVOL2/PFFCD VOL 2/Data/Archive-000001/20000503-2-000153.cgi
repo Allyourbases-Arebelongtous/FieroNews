@@ -1,0 +1,3 @@
+A||||1||kel||brake light
+Z||000000||kel||05-07-99||11:32 PM||||I have an 86SE that just had a new master cylinder installed because "half" the brakes were gone.  (The brake light had come on one time and I had alot of leeway in the pedal.)  Since the master cylinder was installed a couple days ago, the brakes feel O.K. but I braked for a left turn, and as I started to accelerate in the middle of the turn the brake light came on again.  When I gently braked, it went off.  I've driven it a couple times since then and it hasn't done it again.  I'd appreciate any input you might have. Thanks. 
+Z||000001||theogre||05-08-99||12:39 PM||||rebleed the system. preferably with enough fluid to push out all the old stuff.

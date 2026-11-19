@@ -1,0 +1,3 @@
+A||||1||StansGT||Pic of 4cyl.  5spd. slave cyl.||||1||
+Z||000000||StansGT||10-20-2001||12:40 AM||||Im looking for some "comparitive" pictures of a 4cylinder five speed Transmission. Specifically of the slave cylinder?????<P>Any year will do ,,,,I think...<P>Im looking at the resting length of the rodd for the fork arm.<P>------------------<BR>Stock 87 GT<P> <IMG SRC="http://www.fiero.nl/uploads/stansig.jpg"> ||||reg||1
+Z||000001||FieroMaster88||10-20-2001||10:49 AM||||<B>Bump!</B><P>------------------<BR>     <IMG SRC="http://www.fiero.nl/uploads/jamessig.jpg">                  <BR>James Essar<BR>AOL IM Name: FieroMaster88<BR>Not your ordinary 88 coupe!||||reg||1

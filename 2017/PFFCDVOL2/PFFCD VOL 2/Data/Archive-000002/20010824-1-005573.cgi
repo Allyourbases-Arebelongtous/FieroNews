@@ -1,0 +1,5 @@
+A||||3||JC Webb||What type of helmet for autocrossing, etc.?||||1||
+Z||000000||JC Webb||02-01-2001||09:23 PM||||I need to decide what type of helmet I should buy for autocrossing and Solo 1.  Should I go with open or closed face?  Bell or Simpson?  Any thoughts or opinions will be appreciated?<BR>||||reg||1
+Z||000001||2M4 Dale||02-01-2001||10:36 PM||||I use a SHOEI motoX style full face.  But any Snell 98 rated helmet would work....it just needs to be comfortable and have good side vision and lots of air flow.||||reg||7
+Z||000002||GT Bastard||02-02-2001||01:57 PM||||Definitely get an open-faced helmet.||||reg||1
+Z||000003||PJ||02-02-2001||10:39 PM||||Spend a few extra bucks and get one with a Snell SA rating (Nomex liner instead of nylon). With it you'll be legal for Solo I, club racing and most driving schools. Open face is fine for autocross but I wouldn't use one in high speed situations. Most sanctioning bodies and schools won't let you use one. A slightly tight fit is better than a loose one. You can adjust the tight areas with the wrong end of a screwdriver.<P>Have fun,<BR>PJ<BR>ITA #66 Black<BR>||||reg||1

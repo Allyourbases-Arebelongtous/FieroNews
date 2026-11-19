@@ -1,0 +1,4 @@
+A||||2||gtsonly||heads going on the car right now-Need help please||||5||
+Z||000000||gtsonly||12-18-2001||08:21 PM||||I just got the heads back for my car. Its been awhile and I have forgotten which bolts to use to attach the exhaust manifold to it. This is the forward head. How is the stack up for the heat shield go, head-gasket-shield-manifold? 6 bolts, 3 are normal, 3 have the threaded studs on them????????<BR> Help<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/myfiero001_copy_1.jpg"> ||||reg||5
+Z||000001||wkayl||12-18-2001||08:41 PM||||Hope this helps<BR> <IMG SRC="http://www.fiero.nl/uploads/parts_book_1.jpg"> ||||reg||1
+Z||000002||gtsonly||12-18-2001||08:47 PM||||You are a GOD my friend!!!!<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/myfiero001_copy_1.jpg"> ||||reg||14

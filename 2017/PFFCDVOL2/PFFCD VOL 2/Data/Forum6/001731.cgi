@@ -1,0 +1,3 @@
+A||||1||Hank is Here||Where to get cheap prints made from digital pics?||||1||
+Z||000000||Hank is Here||03-28-2001||09:56 PM||||I have a bunch of digital pics from my trip to New Orleans from the NCAA tourney and Burbon St. from a few weeks ago.  S ome of the pictures could be censored so.  But where online has the cheapest prints.  Photopoint and zing both have $.49 for 4"X6".  Anyone know of a site that can beat those prices?||||reg||1
+Z||000001||DaRkLoRD||03-28-2001||11:21 PM||||sure.. print them yourself on photo paper.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||3

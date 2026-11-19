@@ -1,0 +1,4 @@
+A||||2||ROB MAC||Lock nuts||||1||
+Z||000000||ROB MAC||06-06-2001||11:49 PM||||My car had puzzle locks when I bought it so I know they are old. They are also unmarked ( no name, no numbers ). After some clutch work , the mechanic used an impact wrench to put the locks on , STRIPPING the TWO-PIECE key. Tried welding it but it snapped. Does anyone know how to remove a puzzle lock nut? Cannot grab with pliers. ||||reg||1
+Z||000001||DecadenceR||06-07-2001||12:10 AM||||If they're pontiac locks, you can go there and they have a universal tool to get it off. if not, most decent mechanic shops have equipment to get them off. I think I had to pay $10 to get mine removed.||||reg||1
+Z||000002||cadaver||06-07-2001||11:41 PM||||Yes you use an old socket that is just a tad small. Bang it on with a hammer the use the breaker bar to turn it like a nut. The socket teeth will grab it even though its round.||||reg||1

@@ -1,0 +1,12 @@
+A||||10||batboy||More Fiero pics||||1||
+Z||000000||batboy||03-17-2000||09:05 PM||||I posted another page on my website, Fiero Forum Foto page 4. Nothing else at the site has changed lately, so here is the address just for that page. Owners of the cars, give me more info.<P> <A HREF="http://sites.netscape.net/batboybain/forumfoto4" TARGET=_blank>http://sites.netscape.net/batboybain/forumfoto4</A> ||||reg||1
+Z||000001||GT Bastard||03-18-2000||02:21 AM||||Batty, thanks for puttin' my GT on your site!  ||||reg||1
+Z||000002||batboy||03-18-2000||06:08 AM||||What year is the cars I have posted? I know FieroDave's Indy is a 1984 of course.||||reg||1
+Z||000003||Earne||03-18-2000||07:52 AM||||Batboy, I'm honored, no jive!  My car is an 86.5 and was always a GT.  Primax 17" wheels, Pirelli P7000Z tires, you have seen the engine and interior, and it has 43,000 miles on the odometer.  Thanks for showing it off.||||reg||1
+Z||000004||batboy||03-18-2000||09:28 AM||||I might be able to squeeze in a couple more Fiero pics on this page. The first two Forum members to respond are the big winners.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000005||batboy||03-18-2000||01:34 PM||||Room for one more pic on this page.||||reg||1
+Z||000006||Motorhead||03-18-2000||03:45 PM||||Thanks Batboy!  Now that the Little Red Coupe is famous, I'm gonna' have to wear sunglasses when I take it out, to avoid giving out autographs.<P>I'll post a pic here, when it's finished.<P>Mike||||reg||1
+Z||000007||Greg Piet||03-18-2000||11:46 PM||||Well Now after looking at all those Fieros, I feel really guilty/bad.  My little Fiero is in dire need of a paint job, and now im beating it up by driving rallycross and autocross.  <P>So now all of you can yell at me for my actions.||||reg||1
+Z||000008||Motorhead||03-19-2000||12:07 AM||||Drive it Greg!  Ain't doin' nobody any good just sittin'!||||reg||1
+Z||000009||batboy||03-19-2000||06:41 AM||||My 85 GT is in very sad need of a new paint job too. I put close to 100 miles on it per day, five days a week commuting. Sometimes I feel guilty too for putting it through the daily grind, but that's why I have more than one Fiero. Different Fieros for different occasions and moods.<p>[This message has been edited by batboy (edited 03-19-2000).]||||reg||1
+Z||000010||Motorhead||03-19-2000||11:49 AM||||I get it, kinda like all those shoes in my ladys' closet!||||reg||1

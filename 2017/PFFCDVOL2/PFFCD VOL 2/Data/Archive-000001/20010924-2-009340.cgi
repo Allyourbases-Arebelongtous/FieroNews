@@ -1,0 +1,8 @@
+A||||6||JohnnyK||What is the diameter of the clutch line?||||1||
+Z||000000||JohnnyK||04-01-2001||04:56 PM||||I replaced my old one with 1/4 line. I HOPE thats what the original one is, because if not, that means it has to move more fluid through a bigger area, and less throw. I need all the throw I can get.||||reg||1
+Z||000001||Phil||04-01-2001||05:26 PM||||line size makes no differance at all so don't worry||||reg||1
+Z||000002||JohnnyK||04-01-2001||05:41 PM||||Line size would make a difference. Take for example, the same plunger pushing distance on a small clutch line, as opposed to the same master cylinder on a 1" pipe. The movement with the 1" pipe will be WAAAAAAY less than that of the smaller line. You will get more leverage, but less movement.||||reg||1
+Z||000003||Phil||04-01-2001||06:17 PM||||I don't want to come off as being nasty but perhaps you should take a course in hydraulics. In your case LINE SIZE MAKES NO DIFFERANCE.<p>[This message has been edited by Phil (edited 04-01-2001).]||||reg||1
+Z||000004||JohnnyK||04-01-2001||08:13 PM||||Well, I took a course and a lot of it had to do with the hydraulics in a brake system (how the force is distributed), and line size does make a difference. Perhaps you shouldn't have edited your message, so I could see what you wrote the first time.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000005||Phil||04-01-2001||08:39 PM||||I edited out some additional comments that I had explaining why in this case size made no diff.  Piston dia. makes a diff not the line connecting the two pistons. I will say no more on the subject. (MS ChemEng.)||||reg||1
+Z||000006||bubbajoexx||04-01-2001||10:13 PM||||line size makes no differance in travel line size only affects speed of motion ||||reg||7

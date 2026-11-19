@@ -1,0 +1,15 @@
+A||||13||edbone||another Pic, Bad to the Bone||||11||
+Z||000000||edbone||11-14-2001||01:09 AM||||Cant figure out how to add more than one Pic at a time, Any one Know? Im not bragging , Just Proud.  <IMG SRC="http://www.fiero.nl/uploads/Dscf0003_1.jpg"> ||||reg||11
+Z||000001||Master_Sushi||11-14-2001||11:41 AM||||Wow, what size wheels are those? Lookin' good!  <IMG SRC="http://www.fiero.nl/forum/icons/icon14.gif"> ||||reg||11
+Z||000002||Pheagey||11-14-2001||03:37 PM||||where'd yea get the wing?...<P>------------------<BR>'88 coupe, 5 speed.<BR>"The car formerly know as Dj's Fiero."||||reg||5
+Z||000003||88CoupeV6||11-14-2001||03:45 PM||||Looks sweet, Love the wheels.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>Josh<BR>   <IMG SRC="http://www.fiero.nl/uploads/88coupeV6.jpg">       <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>    <A HREF="http://www.fieropride.com/nefa.htm" TARGET=_blank>Join New England Fiero Association</A>||||reg||7
+Z||000004||FieroMontreal||11-14-2001||06:44 PM||||Whoa! What a beast! I want a Spoiler like that too!!<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/sigfieromontreal_1.gif">  <BR>1986 Fiero GT, STOCK Wingless, <BR>-Alex President of FieroMontreal... <A HREF="http://www.fieromontreal.com" TARGET=_blank>www.fieromontreal.com</A> <BR>and Regional Director of CFOG-I for Eastern Canada.||||reg||1
+Z||000005||avengador1||11-14-2001||07:28 PM||||That is one sweet looking ride <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1
+Z||000006||Banzai||11-14-2001||08:31 PM||||GOT WING?<P>Banzai !!!!!!!!!!||||reg||1
+Z||000007||fldevel||11-14-2001||08:31 PM||||hey i just baught that same wing or one simular to it at the local performance shop .. copy cat :P  ..  nice wing BTW ..how much did they do ya for over there? ||||reg||1
+Z||000008||banditbalz||11-14-2001||09:44 PM||||It's amazing what you can do with photoshop 6.0!<BR> <IMG SRC="http://www.fiero.nl/uploads/blackwhite2_4.jpg"> <P>------------------<BR>Silver 86 GT<BR>completely stock,<BR>completely fast!||||reg||1
+Z||000009||edbone||11-15-2001||07:34 AM||||The wheels are 18" Quantum Tech s-13, as for the wing, It set me back 650.00. Thanks for the replies. Eddie||||reg||1
+Z||000010||edbone||11-15-2001||11:29 PM||||I have Nito 225 40 zr18 92w in front and 235 40 zr18 91w in rear,with no rubbing or hitting. Wing cost me 650.00||||reg||1
+Z||000011||[BTK]*[m@dDOG]||11-16-2001||12:26 AM||||edbone!!!!!! more PIC  more PIC  more PIC plz plz plz||||reg||1
+Z||000012||sloth85GT||11-16-2001||02:43 AM||||All I'm seeing from this car is visual improvements.....where's the engine mods? Did you do anything to the motor? Please say you did, if you're gonna spend thousands on looks, at lest drop a couple hun into the motor.......<P>------------------<BR>     <IMG SRC="http://www.mts.net/~kuzma/fieronl.gif">     <BR>Dan<BR>1985 Silver GT||||reg||1
+Z||000013||edbone||11-16-2001||09:28 PM||||No engine mods yet. Planning on doing the V-8 thing during hibernation.||||reg||1

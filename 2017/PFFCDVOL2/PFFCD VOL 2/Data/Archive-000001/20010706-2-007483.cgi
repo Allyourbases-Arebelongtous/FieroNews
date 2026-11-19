@@ -1,0 +1,2 @@
+A||||0||theogre||Link: Heat Management||||1||
+Z||000000||theogre||12-23-2000||11:04 PM||||Here's something I ran into while searching for some stuff last week. They sell heat coatings. I haven't delt with them yet.<P><A HREF="http://www.techlinecoatings.com/" TARGET=_blank>TECH LINE COATINGS</A><P>Hell of allot less expesive then sending out to JetHot. I think I'll try it out on mine next spring.||||reg||1

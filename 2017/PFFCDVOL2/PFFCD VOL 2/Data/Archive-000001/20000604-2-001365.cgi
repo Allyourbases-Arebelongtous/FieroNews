@@ -1,0 +1,3 @@
+A||||1||mshill||Replacing Cruise Stalk...||||1
+Z||000000||mshill||11-09-1999||04:36 PM||||Ok, I got a working cruise control stock from the boneyard last week.  I tested it and want to replace my non-functional one...  How exactly does it disconnect from the turn switch thingy?<P>At the junkyard I just pulled it out and it looked like a small brass retaining washer was in there.  What I have is the stalk with about a half inch metal stub sticking out the  end of the plastic.<P>Any description or pictures would be appreciated.||||reg||1
+Z||000001||Rodrv6||11-09-1999||04:56 PM||||Your method of removal is correct!  Just pull it out. The replacement will plug right in after you thread the wire harness into the column||||reg||1

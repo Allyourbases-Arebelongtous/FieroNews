@@ -1,0 +1,3 @@
+A||||1||StansGT||MONEY||||5||
+Z||000000||StansGT||07-07-2001||09:34 PM||||I've got an 87' GT wht Fiero. I bought it for $1000, and its in "like new" condition. It doesnt need new shocks and struts yet, but I would like to make it ride better. I have $1500 to spend what should I do to it, I want good quality, but I also want the most for the money.<BR>I also would'nt mind a lower front.||||reg||5
+Z||000001||West Coast Fiero||07-07-2001||09:59 PM||||Take a look at our suspension packages for the Fiero, you may find what you are looking for, the link is below<P>Eric - West Coast Fiero <A HREF="http://www.cwestco.com" TARGET=_blank>www.cwestco.com</A> <BR>310-305-4111<P>||||reg||1

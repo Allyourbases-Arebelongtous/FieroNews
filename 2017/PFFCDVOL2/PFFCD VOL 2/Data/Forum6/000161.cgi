@@ -1,0 +1,4 @@
+A||N||2||1FST2M6||Technical Drawings||||1||
+Z||000000||1FST2M6||03-14-2000||02:18 PM||||There was a post in Tech. about drawings in an AutoCad format for our Fiero. Might anyone have access to a set of 2D reproducables? Or anything I could scan to digitize or even an Intergraph format? Who else is in the Architectual Engineering field? Anyone use 3D Studio VIZ R3 or 3D modeling in AutoCad 2000? i'm looking for  diffuse maps for VIZ.  Just courious...||||reg||1
+Z||000001||DaRkLoRD||03-14-2000||04:55 PM|||| <IMG SRC="http://www.fieroproject.com/fieropics/scetch.jpg"> <P>I got this from a European Fiero site last year. The artist/designer(?) is a forum member. Penetrator I think. some awesome 3D models on his site.. I don't remember the URL off hand tho.||||reg||1
+Z||000002||william_thorniii||03-14-2000||06:06 PM||||penetrator's site can be found here: <A HREF="http://www.hyperwerks.se/fiero/" TARGET=_blank>http://www.hyperwerks.se/fiero/</A> ||||reg||10

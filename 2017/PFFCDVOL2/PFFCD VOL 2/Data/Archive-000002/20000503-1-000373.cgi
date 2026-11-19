@@ -1,0 +1,5 @@
+A||||3||CUTTER||Power Pullies?||||1
+Z||000000||CUTTER||10-03-1999||01:59 AM||||I seen Power Pullies in the Fiero Store Mag. and wounder if they really give you 8-10 HP. and are they worth the 79.95?||||reg||1
+Z||000001||mwbackus||10-03-1999||09:09 AM||||YES||||reg||1
+Z||000002||batboy||10-03-1999||09:15 AM||||I've heard several people say that it gave them a slight boast in power, but 8-10 HP is probably wishful thinking. More likely just a 2-3 HP increase in the upper RPM range. Is it worth it? I guess that's up to you to decide. If your car spends a lot of time idling or driving in stop and go traffic, I'd think twice about doing it.||||reg||1
+Z||000003||mwbackus||10-03-1999||04:31 PM||||Just do a search on "pulley" in this forum.  You will find several instances of proven performance increases, anywhere from .2 to .6 sec. improvements in quarter mile times.  I would say that this is enough evidence to convince me that they work as advertised, and I noticed a distinct improvement when I installed mine.<P>Mike||||reg||1

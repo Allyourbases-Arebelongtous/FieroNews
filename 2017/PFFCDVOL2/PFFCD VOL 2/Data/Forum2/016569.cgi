@@ -1,0 +1,2 @@
+A||N||0||dcaprio||differences in 2.8 L motors||||1||
+Z||000000||dcaprio||12-21-2001||06:52 AM||||I saw in my manual that theres a 10 hp difference between a 86 and a 87 2.8L motors.I was wondering what the difference was? I'm going to build a performance motor this winter and I can buy either a 86 or 87 motor to start with. <P>------------------<BR>84 coup 117000 miles<BR>86 Gt 113000 miles||||reg||1

@@ -1,0 +1,9 @@
+A||||7||MrPBody||Alternate upper ball joints?||||5||
+Z||000000||MrPBody||08-10-2001||09:41 PM||||I’m trying to improve the front suspension geometry on my ’85 SE.  I want the upper control arms to point out-and-up rather than out-and-down.  It looks tough to relocate the inner pivot where the control arm mounts to the chassis, so I’m considering the other end . . .<P>I have read past posts here which describe using Cadillac lower ball joints to lower the front.  This would increase the distance between upper and lower ball joints, and have the effect I want; however, I am not comfortable with this approach.  I would prefer to modify the upper ball joint, which I suspect to be more lightly loaded than the lower.<P>Does anyone know of a longer <B>upper</B> ball joint that may fit?  Ideally, I want one that bolts onto the stock mounting, or can easily be adapted to do so.  Yes, I want the Moon, but maybe I’ll settle for low Earth orbit.<P>||||reg||5
+Z||000001||fiero56||08-10-2001||09:49 PM||||Not any help to your problem, but there <B>are</B> drop spindles available.||||reg||1
+Z||000002||MrPBody||08-10-2001||11:50 PM||||I'm not trying to lower the car (it's already lowered), but I want better geometry.<BR>||||reg||1
+Z||000003||MrPBody||08-11-2001||09:26 PM||||Up (<I>going once . . .</I>)<BR>||||reg||1
+Z||000004||Pontiaddict||08-11-2001||09:39 PM||||If you want better geometry, then try looking for slightly taller spindles. I don't know what car would have any that fit though.||||reg||1
+Z||000005||MrPBody||08-11-2001||10:09 PM||||Yep, that's the effect I'm looking for.<BR>||||reg||1
+Z||000006||MrPBody||08-12-2001||09:36 PM||||Up (<I>going twice . . .</I>)<BR>||||reg||1
+Z||000007||MrPBody||08-13-2001||08:18 PM||||Up (<I>going three times . . .</I><B>Sold!</B> to the man in the funny hat.)<P>Y' never know 'til y' ask.  Thanks anyhow.<BR>||||reg||1

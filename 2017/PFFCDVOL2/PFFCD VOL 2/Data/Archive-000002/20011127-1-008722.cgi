@@ -1,0 +1,8 @@
+A||||6||casper||selling my se||||1||
+Z||000000||casper||07-10-2001||05:00 PM||||well i might be selling my se. and getting a 85 gt. with 60k on it. auto black very clean. what do you guys think. is $2900.a good price for this car let me know.  <P>tia.||||reg||1
+Z||000001||DisfourDan||07-10-2001||05:09 PM||||Well, its obvious we need more information about the car to give it a correct value.||||reg||1
+Z||000002||casper||07-10-2001||05:18 PM||||sorry about that.<P>its a black 85 gt good paint sunroof auto 60k miles a/c p/w p/l very clean. <BR>||||reg||1
+Z||000003||DisfourDan||07-10-2001||06:26 PM||||I would say around $2500, but i could be wrong.  ||||reg||1
+Z||000004||88CoupeV6||07-10-2001||06:37 PM||||Great, getting another one.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> I was saying to myself <I>he just joined the forum and now he is selling his Fiero</I><P>------------------<BR>Josh <B>(known by TheFiero64 for first 1239 posts)</B><BR>     <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg">    <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||7
+Z||000005||beer_stud_21||07-10-2001||06:56 PM||||I paid $300.00 for my 85GT auto, pw, pl, pm, sunroof, cruise, delay.  But it wasn't running (now it is) and the paint is quite rough.  Interior is also rough, one headlight doesnt go up, cat converter was rusted out, brakes are sticking.<P>just to give you an idea.<P>-Marlin||||reg||1
+Z||000006||DisfourDan||07-10-2001||09:22 PM||||The price i gave him was in the case of the car being in very good condition, engine running very strong, interior good, body panels good, brakes, and so on.  ||||reg||1

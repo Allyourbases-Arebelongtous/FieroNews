@@ -1,0 +1,3 @@
+A||||1||Michael Radak||Noise From Back??
+Z||000000||Michael Radak||04-19-99||07:55 PM||||I Own a '86 1/2 GT Fiero With 97,000 miles and lately have notice a noise that almost sounds like a rattling in the back, maybe back right.  The car still has power, but just makes that noise.  And more and more it starts to make a belt squelling noise(only on wet days) but will stop after about 5-10 mintues of driving it.  Please tell what, or how I can fix this problem.   Thank-you all.
+Z||000001||theogre||04-19-99||09:31 PM||||first of all....  change the belts. <p>check the alternator, water pump, and if equiped the AC clutch. all ot those could make noises.<p>also check the CV joints, and wheel spindle for damage and free play.

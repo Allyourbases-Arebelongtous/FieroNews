@@ -1,0 +1,2 @@
+A||N||0||FieroSTETZ||I made a fiero FTP site||||1||
+Z||000000||FieroSTETZ||06-12-2000||02:09 AM||||the ftp site is 24.21.0.94 login: FieroForum, password: pff . if anyone has any questions or comments, go ahead and leave me a text file in the root directory and I will get the message. also, if you want your own login (more access) mention that either on the forum or in a text file in the root directory. feel free to upload pics of cars, sounds, videos, etc... ||||reg||1

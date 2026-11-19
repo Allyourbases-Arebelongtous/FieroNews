@@ -1,0 +1,5 @@
+A||||3||Dan010||coolant sensor||||1||
+Z||000000||Dan010||10-31-2001||10:27 PM||||Is the coolant sensor to the ECM the one nearest the themostat housing with one single wire to/from it???||||reg||1
+Z||000001||samoht||10-31-2001||10:41 PM||||the light will have one wire..  Gauge I think is in the right head to the rear.. V6 that is<P>85gt3.2<BR>||||reg||1
+Z||000002||Dan010||10-31-2001||10:49 PM||||Yes, I forgot to say 86 2.8, I think I just took the wrong sensor out. Will clean it and look for the correct one now<BR>THanks||||reg||1
+Z||000003||Zoom88||10-31-2001||11:56 PM||||The one on top of the manifold , next to the thermostat housing is the one for the Coolant fan  (haven't had to replace this one yet), there is one just below this on the same side (water pump side) it is horizontal and is the one for the ECM (Borg/Warner part No. WT3000) The other one is on the left side (distributer side) of the head that is facing the rear of the car (with you standing looking from the rear ), it is right above the manifold, 2 wires, it is for both the idiot light and the temperature gauge. (NAPA Echlin part No. TS6667)<P>    Later,||||reg||1

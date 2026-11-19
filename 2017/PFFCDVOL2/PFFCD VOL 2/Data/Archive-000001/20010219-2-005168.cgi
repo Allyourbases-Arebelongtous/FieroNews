@@ -1,0 +1,5 @@
+A||||3||olympic||Anyone want LSD???||||12||
+Z||000000||olympic||08-09-2000||02:16 AM||||<B>L</B>imited <B>S</B>lip <B>D</B>ifferential that is.  <IMG SRC="http://www.fiero.nl/forum/wink.gif">  I'm not sure if this was posted here before but quaife LSD's are available for Fieros and other cars at <A HREF="http://www.isuzuperformance.com/bills/drivdiff.html#quaife" TARGET=_blank>http://www.isuzuperformance.com/bills/drivdiff.html#quaife</A> <P>They also will make custom coils springs to your specs for a good price.<P>------------------<BR>"Those who can,  do.  Those who can't,  teach."||||reg||12
+Z||000001||gixxer||08-09-2000||03:00 PM||||Thanx Olympic. That's food fer thought..||||reg||1
+Z||000002||Xtreme Fiero's||08-10-2000||10:02 AM||||Yeha Bill's is awsome I got thier Isuzu 6-speed. It's awsome!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||TheFiero64||08-10-2000||05:26 PM||||Wow olympic, For a sec. I thought there was a drug deal going on on the forum. LOL<BR><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif"> ||||reg||1

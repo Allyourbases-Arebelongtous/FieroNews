@@ -1,0 +1,5 @@
+A||||3||DecadenceR||V6 possible starter problem||||1||
+Z||000000||DecadenceR||06-11-2001||06:42 PM||||A friedn of mine just picked up an 86 SE 6cyl. To get it started, he had to jump the starter with a screwdriver. Once he did this once, it started fine.<BR>He had to disconnect the battery. When he hooked it up again, he couldn't get it to start, until he jumped it again. Now it starts fine.<BR>What could be the problem?||||reg||1
+Z||000001||theogre||06-11-2001||06:46 PM||||starter solinoid is probably failing or has a crappy connection.||||reg||1
+Z||000002||PBJ||06-11-2001||06:46 PM||||"Now it starts fine"  You mean with the key.<BR>If so I would look at nuetral safty switch (auto)of clutch pedal switch (std)||||reg||1
+Z||000003||DecadenceR||06-11-2001||08:34 PM||||We are going to try running a new battery wire first to see if that's it. Otherwise replace the starter?<P>PBJ - It's not anything with moving it. We're just trying to start it in the driveway. but every time we take out the battery we have to jump the starter again.<P>thanks||||reg||1

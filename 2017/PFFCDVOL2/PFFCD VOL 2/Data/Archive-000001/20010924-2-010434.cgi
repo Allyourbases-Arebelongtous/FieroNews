@@ -1,0 +1,3 @@
+A||||1||mrgone||clutch fried....... ok i want a new car >:(||||1||
+Z||000000||mrgone||05-14-2001||08:06 PM||||yup, missed my exit on my first day of work on the way to my new job, got off the next exit gave it some gas and then there was nothing.<P>car rolled to a stop, clutch pedal had no resistance and car would not start.<BR>can move shifter through all gears without the pedal pressed now. yay me im so lucky!<P>boo!!!  <IMG SRC="http://www.fiero.nl/forum/frown.gif">||||reg||1
+Z||000001||ROB MAC||05-15-2001||01:28 AM||||Been there.... LAST WEEK ! Got a new clutch and the pain is fading . You have my sympathy.||||reg||1

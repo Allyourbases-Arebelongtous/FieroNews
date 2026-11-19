@@ -1,0 +1,7 @@
+A||||5||RobertVol||Attn: Sdm and 2xcess!!||||1||
+Z||000000||RobertVol||03-31-2001||12:02 AM||||I got your shirts !!!!<P>if you want them e mail me ! <P>Thanks <P>------------------<BR>Robert<BR>88GT 56k T TOP  <BR>North Florida Fiero Club <A HREF="http://fullspeed.to/NorthFLFieros" TARGET=_blank>http://fullspeed.to/NorthFLFieros</A><BR> <IMG SRC="http://albums.photopoint.com/j/View?u=819451&a=5959473&p=36934984&Sequence=1"> ||||reg||1
+Z||000001||mbramble||04-01-2001||01:34 AM||||I think 2xcess has deployed to Kosovo for awhile.  You may have to hold on to his shirt for a bit.....<P>His e-mail address is kresge@clds.net.  Might drop a note there in case he or his wife are checking it.<p>[This message has been edited by mbramble (edited 04-01-2001).]||||reg||1
+Z||000002||RobertVol||04-01-2001||04:40 PM||||Thats right! I forgot. <P>Thanks for the reminder <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000003||sdm1964||04-02-2001||01:03 PM||||Robert,<BR>jeff is at ft. polk for the next day or 2. I am trying to email you now. If it does not work mine is   sdm1964@yahoo.com||||reg||1
+Z||000004||sdm1964||04-02-2001||01:08 PM||||Jeff is or was at Ft. Polk , should be home soon. I am in bosnia,  my e-mail is sdm1964@yahoo.com. ||||reg||1
+Z||000005||RobertVol||04-02-2001||08:45 PM||||Alright! I got the e mail and replied. I replied first without reading to the whole e mail ...Duh! So I replied to the place you sent the mail from. But read the e mail and then sent to the Yahoo address. ||||reg||1

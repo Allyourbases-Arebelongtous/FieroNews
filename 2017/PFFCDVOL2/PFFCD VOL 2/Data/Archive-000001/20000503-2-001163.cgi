@@ -1,0 +1,6 @@
+A||N||4||kornholio||Do I need wheel alignment again?||||5
+Z||000000||kornholio||10-20-1999||06:23 PM||||I've noticed that after I broke a shock mount and got it fixed, my alignment is off.  Just enough to get annoyed.  I just got an alignment job done 2 months ago when I got new tie rods.  It used to go perfectly straight when I let go of the wheel while going 60 mph.  Is it normal for alignment to go out of wack after this type of problem?  Thanks.||||reg||5
+Z||000001||theogre||10-20-1999||08:34 PM||||didn't you recently say you hit something? That sure as heck can whack the alignment.||||reg||1
+Z||000002||terryk||10-20-1999||09:07 PM||||Get it 4 wheel aligned. Be prepared for some bad news (maybe). Depends on how you broke it. Fiero's don't like the front end hitting things. ||||reg||1
+Z||000003||kornholio||10-20-1999||09:50 PM||||I broke the shock mount driving out of a gas station.  The driveway was too steep and I guess I was going too fast.<P>Bad news?  Thats all I need now!  What kind of things could be messed up also?||||reg||1
+Z||000004||batboy||10-20-1999||11:20 PM||||A broken shock mount by itself won't affect the alignment much. But, if you hit hard enough to break a shock mount, then a bent control arm is possible. Now that will really screw up your alignment and mess up your day.||||reg||1

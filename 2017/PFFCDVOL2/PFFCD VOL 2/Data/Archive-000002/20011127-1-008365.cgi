@@ -1,0 +1,3 @@
+A||||1||Jake2m4||from tech section||||1||
+Z||000000||Jake2m4||06-24-2001||11:07 PM||||Engine swap question<BR>Will a 3800 from a camaro work as easily as one from a front wheel drive car? Using the fiero manual trans. I understand that the '98 is a 3800 series II, like the ones in buicks and others. The reason I'm asking is b/c most of the info I've found only talks about front wheel drive uses of the 3800.<P>I posted in the tech section, but only mrfiero replied.  I thought I might get some more input here.  <P>Jake<BR>||||reg||1
+Z||000001||Jake2m4||06-24-2001||11:08 PM||||Oh yeah mrfiero mentioned the need to move the starter on the camaro 3.4 would this be the same with a 3800?<P>thanks guys<p>[This message has been edited by Jake2m4 (edited 06-24-2001).]||||reg||1

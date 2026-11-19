@@ -1,0 +1,6 @@
+A||||4||Uaana||White Fieros||||1||
+Z||000000||Uaana||04-15-2001||01:00 AM||||Is it me or do all of these things start to look a little yellowed after the years?<BR>Is there any way to bring back a cleaner white short of a repaint?<P>||||reg||1
+Z||000001||RossT||04-15-2001||01:24 AM||||You could always buy one with 700 original miles on it;<BR> <IMG SRC="http://www.fiero.nl/uploads/Image071_1.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/Image046.jpg"> <P>BTW you may see this car in your area, A guy named "Denny" from Eden Prarie MN bought it from me last fall!!||||reg||1
+Z||000002||Uaana||04-15-2001||01:38 AM||||You are an evil, evil man......<BR>I am busy enough wiht fixing the GF's GT and my new SE...<P>How do you sleep at night..||||reg||1
+Z||000003||RossT||04-15-2001||01:42 AM||||I work the night shift!!  I sleep during the day!! And surf PFF all night........ <P>That car was actually the most pristine fiero<BR>I have ever seen.  Even better than my red t-top car.  But something about t-tops made me sell the white one to make room for the red one. No regrets..||||reg||1
+Z||000004||rogergarrison||04-15-2001||11:44 AM||||most white cars turn off color just from road film. All you can do is polish them often. washing wont take it off. If you do a small area and it dont brighten up, the clearcoat yellowed and your stuck with it. ||||reg||1

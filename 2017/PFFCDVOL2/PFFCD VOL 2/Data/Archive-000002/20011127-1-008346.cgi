@@ -1,0 +1,8 @@
+A||||6||BAM-BAM||S-10 Bulletin Board????||||5||
+Z||000000||BAM-BAM||06-24-2001||01:12 AM||||Does anyone know of a good S-10 Bulletin Board that is formated like Pennocks? Doesn't have to be, but it would be nice. I just bought another Fiero for my oldest son and I'm trading him the Fiero for his S-10. I may or may not fix it. It's an 85 S-10 2.8L and I was thinking about going with MFI like the Fiero. What do ya think???<P>Peace, B2 OUT!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Knowledge is POWER!<BR>That is why the ignorant remain Weak!||||reg||5
+Z||000001||Tigger||06-24-2001||01:23 AM||||Check out <A HREF="http://www.sportruck.com" TARGET=_blank>http://www.sportruck.com</A> ||||reg||1
+Z||000002||Tigger||06-24-2001||01:23 AM||||T-I-Double-Post-Geh-Rrr<p>[This message has been edited by Tigger (edited 06-24-2001).]||||reg||1
+Z||000003||BAM-BAM||06-24-2001||01:32 AM||||Thanks Tee eye double G er, that's what I was looking for. <P>Peace, B2 OUT!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||6
+Z||000004||KRMFiero||06-24-2001||11:43 AM||||cheak out <A HREF="http://s10-4x4.com/cgi-bin/ubbs/Ultimate.cgi?action=intro&BypassCookie=true" TARGET=_blank>http://s10-4x4.com/cgi-bin/ubbs/Ultimate.cgi?action=intro&BypassCookie=true</A> ||||reg||1
+Z||000005||BAM-BAM||06-24-2001||12:55 PM||||Thanks KRM, I am now a member of two BB's. That's the one I was looking for. Hey, I saw your post on there about the difference between RWD and FWR 2.8L blocks. Great recomendation.<P>Peace, B2 OUT!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||12
+Z||000006||Philphine||06-24-2001||09:59 PM||||snuck over too. i'm on one called truckworld online but this one is more vehicle specific. thanks.||||reg||1

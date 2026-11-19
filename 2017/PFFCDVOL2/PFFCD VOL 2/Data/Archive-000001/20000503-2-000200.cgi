@@ -1,0 +1,6 @@
+A||||4||Pretender||'88 Z24
+Z||000000||Pretender||05-20-99||01:35 AM||||is there anything that is "better" on the Z24<br>i noticed that the hood was fiberglass and that it weighs a lot less then our hoods, i know that we can't swap hodds(DUH!)but it made me think and ask the question is anything else better?(brakes,intake,manifolds, heads etc)..it was my sisters first car, she wrecked it and it's now sitting at my fathers house withering away(rusting) i figure.
+Z||000001||Patrick||05-20-99||01:47 AM||||<br>Is there anything that is "better" on the Z24?<p>Yeah, I hear the backseat is roomier.  <IMG SRC="http://forums.gagames.com/forums/biggrin.gif"> <p><p>
+Z||000002||87FieroGT||05-20-99||03:20 PM||||This is a FIERO FORUM. Wrong channel.  :)
+Z||000003||Motorhead||05-20-99||03:28 PM||||<br>I think Pretender is asking about swapping parts from the Z-24 ya'll!  Is there anything interchangeable that might improve his Fiero?
+Z||000004||Pretender||05-20-99||10:15 PM||||thanks motorhead, that is EXACTLY what i am saying(87gt), my sisters car has the same 2.8 as my 88GT, it is very clean and low miles, i was asking if any of the parts that were put on the z24's that were a higher quality/  or performance wise, i don't know so thats what i'm asking........

@@ -1,0 +1,2 @@
+A||||0||Loki||Cavalier or Sunbird brake upgraders||||1||
+Z||000000||Loki||06-08-2001||11:29 PM||||Just saw this in the new Sport Compact Car mag.... 95-01 Cavalier or Sunbird front slotted 12" or 13" rotor and 4-piston aluminum calipers brake kit   <A HREF="http://www.ssbrakes.com" TARGET=_blank>www.ssbrakes.com</A>    Unsure if they will work, but hey its new out<BR><P>------------------<BR>Loki<BR>ICQ# 16477998||||reg||1

@@ -1,0 +1,4 @@
+A||N||2||Chance||85 SE parts or whole car||||4||
+Z||000000||Chance||06-03-2001||04:42 AM||||My buddy Spanky posted the 85 SE on Ebay for $150.00 for the whole thing... if it doesn't sell, he parting it out, to check it out go here...<BR> <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=591995158&r=0&t=0" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=591995158&r=0&t=0</A> ||||reg||4
+Z||000001||JJ-85-2M6||06-03-2001||08:50 PM||||Could you get him to post the vin #?  Or at least if its a v6?  Does it even include the engine?   (Price seems a bit steep, if no engine.)   Thanks!||||reg||5
+Z||000002||Chance||06-03-2001||11:05 PM||||I will have him get the VIN... I know its a 4cyl automatic, I got the light buckets so I could rebuild the headlight motors... but everything else comes with the car.||||reg||1

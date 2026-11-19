@@ -1,0 +1,13 @@
+A||N||11||CoolBlue87GT||Testing a new pager, need little help please.||||5||
+Z||000000||CoolBlue87GT||10-19-2001||07:53 PM||||Could I get a few people to send a short email to me ?  Just a hi ?<P>Address dlambert@afcon.net<P>Thank you,   Dave<BR>||||reg||5
+Z||000001||CoolBlue87GT||10-19-2001||08:10 PM||||.<p>[This message has been edited by CoolBlue87GT (edited 10-19-2001).]||||reg||5
+Z||000002||Nashco||10-19-2001||08:31 PM||||Done...||||reg||1
+Z||000003||CoolBlue87GT||10-19-2001||08:46 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Nashco:<BR><B>Done</B><HR></BLOCKQUOTE><BR>Thank you<P>||||reg||6
+Z||000004||Monkeyman||10-19-2001||09:39 PM||||You......have mail.||||reg||1
+Z||000005||Raydar||10-20-2001||01:05 PM||||done  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000006||Mach10||10-20-2001||02:48 PM||||Anyone remember "BEEP!!" ?  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||10
+Z||000007||maryjane||10-20-2001||03:05 PM||||No,hum a few bars of it. But I do remember: <BR>"Beep----Beepbeep, his horn went beepbeepbeep". A silly song from before your time. <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000008||Monkeyman||10-20-2001||03:21 PM||||"How in the hell do you get this car out of second gear?"||||reg||1
+Z||000009||maryjane||10-20-2001||04:08 PM||||  <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Monkeyman:<BR><B>"How in the hell do you get this car out of second gear?"</B><HR></BLOCKQUOTE>We have winner, folks. Caller #1 wins a lifetime supply of already broken donuts and a scentless Pinetree air freshner. Caution: may cause eye irratation. In case of contact, flush with water. If irritation persists, please see a physican. Please allow 6-8 weeks for delivery , (contest not open to employees, their families or sponsors) This offer void where prohibited by law. No warranty expressed or implied.  <P><p>[This message has been edited by maryjane (edited 10-20-2001).]||||reg||1
+Z||000010||bHooper||10-20-2001||05:24 PM||||im not sure if i got the nudie photo to go through!<P>i tried and tried, i sent that sucker 15 times... but i don't know if it'll show up!<P>  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">jk<P><BR>hoop<P>(i cant spell without spell checker and i'm afraid to use the one the Great Providor (Cliff) gives us, because it crashes my Netscape!)<p>[This message has been edited by bHooper (edited 10-20-2001).]||||reg||1
+Z||000011||CoolBlue87GT||10-20-2001||08:44 PM||||Thanks everyone !<P>The test worked. - (loved the pic's)<BR>||||reg||6

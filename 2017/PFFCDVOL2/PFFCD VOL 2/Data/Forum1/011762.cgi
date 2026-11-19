@@ -1,0 +1,4 @@
+A||N||2||KRMFiero||who the yamaha SHO power fiero?   ||||1||
+Z||000000||KRMFiero||11-10-2001||10:33 PM||||I got SHO engine /w 5 speed, want to put it into fiero,  who was the person who did this?<P>Kyle||||reg||1
+Z||000001||84fierotrevor||11-10-2001||11:40 PM||||Did you buy that motor from that guy that was selling it for 250 ?||||reg||1
+Z||000002||MinnGreenGT||11-11-2001||01:03 AM||||Jay Lugas of the infamous JLGi Kit Car Ripoff ring was the only one I saw who ever installed the Ford/Yamaha SHO motor.  I have an old video of the car (it had a Ferrari Koening Replica body on it too...)<P>Basically, the only one that I know of- was owned & created by a scam artist. For all we know, the car didn't actually run/drive- just had the motor mounted in it (that would be the easy part).  Good luck to 'ya!<P>------------------<BR>              <IMG SRC="http://www.fiero.nl/uploads/GreenGT6.gif"> ||||reg||1

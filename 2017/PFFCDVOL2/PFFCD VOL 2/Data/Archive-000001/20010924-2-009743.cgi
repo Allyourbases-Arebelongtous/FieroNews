@@ -1,0 +1,4 @@
+A||||2||speed racer||how much trouble||||1||
+Z||000000||speed racer||04-17-2001||10:46 PM||||How much trouble would it be to swap a standered in a car with an auto aready||||reg||1
+Z||000001||dreams||04-17-2001||10:49 PM||||You will need the manual cables, shifter, pedal, computer, slave cylinders....this isnt an easy conversion. good luck||||reg||1
+Z||000002||86GT Turbo||04-18-2001||02:34 AM||||Whats up<P>I've done a bunch of these kind of swaps<BR>the best thing to do is find a parts car<BR>preferbly same engine and year<BR>if you are doing a V6 you will need the<BR>main engine harness and all the trans stuff<BR>also you will need the whole brake pedle/clutch pedle because thats what your master cylinder bolts to.<BR>if your doing a late model 2.5L<BR>you will need to swap your throttle<BR>cable and pully plus a bunch of other stuff.<BR>the best thing I have found is to have both cars sitting there when you start.<P>hope this helps<P>Turbo||||reg||4

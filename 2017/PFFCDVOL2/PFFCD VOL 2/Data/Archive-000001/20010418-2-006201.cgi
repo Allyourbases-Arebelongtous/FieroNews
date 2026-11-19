@@ -1,0 +1,3 @@
+A||||1||saleenfiero||Throttle Body question||||1||
+Z||000000||saleenfiero||10-13-2000||02:37 PM||||I was looking at my 86 2.8 engine a while back and noticed that the throtle body or whatever (just past where the air filter housing is) says Holley on it.  Is this an aftermarket thing or did at the V6's come with it?  Is there any performance advantage to speak of?||||reg||1
+Z||000001||1FST2M6||10-13-2000||03:20 PM||||their all like that.. well the V6s are.. pretty fancy hunh  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <p>[This message has been edited by 1FST2M6 (edited 10-13-2000).]||||reg||1

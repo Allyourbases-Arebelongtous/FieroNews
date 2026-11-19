@@ -1,0 +1,3 @@
+A||N||1||KRMFiero||Fiero dimmensions..?||||5||
+Z||000000||KRMFiero||10-27-2001||09:49 PM||||Does anyone know the dimmesnions of the fiero?<BR>I need to know how far from the center of front wheel to the center of the rear wheel<P>how far from the left the right side wheel<P>total width<BR>length from back (area around radiator to the trunk)<P>if anyone knows it will help, i cant seem to find a tape messure<P>Kyle||||reg||5
+Z||000001||Fformula88||10-27-2001||11:43 PM||||Some of the body measurements are different from car to car, but the wheelbase and track are going to be the same.  Here is what I have.<P>1988 Fiero Formula Specifications:<BR>Wheelbase 93.4 inches<BR>Length 163.1<BR>Width 68.9<BR>Height 46.9<BR>Curb Weight 2743<P>Hope it helps some!||||reg||1

@@ -1,0 +1,6 @@
+A||||4||CUTTER||Transmition question...||||1||
+Z||000000||CUTTER||01-29-2000||03:23 AM||||I need to get a transmition in my 87GT and want to know what cars I can pull a trans from? or can I only put a trans in from a fiero? i have a auto trans.will Any year fiero with auto 4 speed work?<BR>Thanks||||reg||1
+Z||000001||batboy||01-29-2000||09:10 AM||||The only tranny that is a direct swap with no modification into the Fiero is another Fiero tranny. Any year Fiero auto should work. By the way, maybe it was just a typo, but the Fiero autos are all 3 speeds, no 4 speed overdrive auto trannies were ever put into the Fiero from the factory.||||reg||1
+Z||000002||squid||01-29-2000||10:40 AM||||Also, all fiero final drive ratios arent the same. I'm trying to find my book that lists all the ratios used but I can tell you my '87 auto has a 2.84, my '85 4spd has a 3.65, and '84 4spds had either a 4.10 or one around 3:1.||||reg||1
+Z||000003||fiero56||01-29-2000||11:23 AM||||I have the ratios here on my site: <A HREF="http://www.geocities.com/MotorCity/Pit/3490/html/specs.html" TARGET=_blank>http://www.geocities.com/MotorCity/Pit/3490/html/specs.html</A> ||||reg||1
+Z||000004||theogre||01-29-2000||11:49 AM||||All TH125's are the same physically. the finals vary, and you'll have to change the shifter arm. Annoying but not hard.||||reg||1

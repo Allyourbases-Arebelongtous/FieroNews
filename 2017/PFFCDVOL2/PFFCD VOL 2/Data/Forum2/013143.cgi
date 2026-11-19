@@ -1,0 +1,6 @@
+A||||4||FieroRacer||Magnesium Radiator||||6||
+Z||000000||FieroRacer||08-26-2001||09:46 PM||||Anyone know of anyone making magnesium radiators for the lowest weight possible?||||reg||6
+Z||000001||cadaver||08-27-2001||01:07 AM||||I dont know of any but I also think that the weight reduction over an aluminum radiator wouldnt be good enough to differ the cost of having one built.||||reg||1
+Z||000002||c m west||08-27-2001||12:56 PM||||not to mention that the heat tranfer co-effecient would be far less than aluminum||||reg||1
+Z||000003||artherd||08-27-2001||05:50 PM||||I can't imagine it would work terribly well....<P>PS: there's what, 30lbs of coolant here?  I'd recomend an aluminum engine to save weight in a fiero (think turbo quad4 :)<P>Best!<BR>Ben.<P><BR> <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by FieroRacer:<BR><B>Anyone know of anyone making magnesium radiators for the lowest weight possible?</B><HR></BLOCKQUOTE><P><P>------------------<BR>  <IMG SRC="http://www.cartsys.com/fiero/88ttop.jpg">  <BR>Ben Cannon<BR>88 Formula, T-top Metalic Red<BR>88 Formula, Silver<BR>87 Coupe, Metalic Red<BR>"Every Man Dies, not every man really Lives"<BR>                -Mel Gibson, "Braveheart"||||reg||1
+Z||000004||Steve Normington||08-27-2001||06:00 PM||||Also magnesium corrodes very quickly.||||reg||1

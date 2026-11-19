@@ -1,0 +1,6 @@
+A||||4||northstarfieroorbust||Fiero wont run||||8||
+Z||000000||northstarfieroorbust||12-16-2001||01:17 PM||||Well guys heres a tuffy for ya, ive got spark, and the fuel pump is running, but she just wont run, Just up and quit on me one day in the middle of driving. <BR>Any help would be greatly appreciated?<BR>Feel free to email me<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/fieronewrims2-2_2.gif"> Looking for an insane amount of power in a sweet little car||||reg||8
+Z||000001||tgowens||12-16-2001||01:29 PM||||you might want to rebuild the distributor. It could either be the ignition module or the pick-up coil...||||reg||1
+Z||000002||FieroMontreal||12-16-2001||04:18 PM||||Check the ignition Module.||||reg||1
+Z||000003||K2m4||12-16-2001||04:48 PM||||i agree with the above. i had the same problem ...Pick up coil and the ignition modules ahev a tendency to fail its only a 40 dollar investemnt total and about an hours worth of time <P><P>------------------<BR>Kerm<BR>86 GT<BR>86 2M4||||reg||1
+Z||000004||northstarfieroorbust||12-16-2001||06:31 PM||||Its an 87 four cyl, it has two coil packs and i just put a new crank sesor and ignition module on it and that didnt do the trick||||reg||1

@@ -1,0 +1,3 @@
+A||||1||HF6582||? for those that have a 3800SC||||5||
+Z||000000||HF6582||02-18-2000||01:54 PM||||I have an 86gt 4spd that I am want to change motors in.<P>Just wondering if you bought an install kit or made the parts yourself to install the 3800SC motor.<P>Also, what all was involved with the swap?<P>Any help, Please.<P>Thanks <BR>Scott||||reg||5
+Z||000001||Phil||02-18-2000||02:35 PM||||Check <A HREF="http://www.americancustomengr.com" TARGET=_blank>www.americancustomengr.com</A>  they have lots of info on time and $ also <A HREF="http://members.home.net/gene-down/" TARGET=_blank>http://members.home.net/gene-down/</A> ||||reg||1

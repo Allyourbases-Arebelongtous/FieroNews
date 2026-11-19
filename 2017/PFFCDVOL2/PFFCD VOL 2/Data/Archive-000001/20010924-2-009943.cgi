@@ -1,0 +1,6 @@
+A||||4||NSUMEY||F I N A L L Y!!!!!||||10||
+Z||000000||NSUMEY||04-25-2001||01:19 PM||||My baby is back on the road!  can you believe that the freakin' MAP sensor was bad? After all that freakin' messing around....I could hardly believe it....the computer didn't even store a code....I remember from years ago..a fiero that I worked on had idle problems and the MAP sensor was the culprit...so I swapped that baby and sure enough...she purrs like a kitten!!!! Y E S !!!!!!||||reg||10
+Z||000001||fierojunky||04-25-2001||01:39 PM||||Glad to see your back on the road.  Guessing you don't want to sell anymore  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  ||||reg||1
+Z||000002||NSUMEY||04-25-2001||01:56 PM||||NO WAY!!! that fustration makes you say things you don't really mean...||||reg||12
+Z||000003||LPR||04-25-2001||04:30 PM||||Wow, that's awesome!!!!!<P>Maybe I should try that with mine too! How much did you pay for that pesky map sensor any~hoot?<P>Once again, congrats!<BR>Luc||||reg||7
+Z||000004||NSUMEY||04-26-2001||10:41 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by LPR:<BR><B>Wow, that's awesome!!!!!<P>Maybe I should try that with mine too! How much did you pay for that pesky map sensor any~hoot?<P>Once again, congrats!<BR>Luc</B><HR></BLOCKQUOTE><P>$34.95 ADVANCED AUTO<BR>||||reg||1

@@ -1,0 +1,4 @@
+A||N||2||DaRkLoRD||Hacking the ECM...||||5||
+Z||000000||DaRkLoRD||09-16-2000||06:32 PM||||I have a crazy idea.. ok, I have lots of crazy ideas.. but I'm only asking about one of them right now..  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>Can anyone give me a listing of all the functions the ECM handles?<P>eg. receives input from sensors and then outputs a signal to the speedometer.. monitors engine systems and displays a warning light if something isn't working right, etc..<P>thanks in advance!<P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||5
+Z||000001||theogre||09-16-2000||11:43 PM||||Try here. <A HREF="http://www.diy-efi.org/diy_efi/" TARGET=_blank>http://www.diy-efi.org/diy_efi/</A> ||||reg||1
+Z||000002||terryk||09-17-2000||12:10 AM||||The service manual.||||reg||1

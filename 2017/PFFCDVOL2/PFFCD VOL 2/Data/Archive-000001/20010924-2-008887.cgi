@@ -1,0 +1,3 @@
+A||N||1||Vlad||Pictures from Mitchell.....||||14||
+Z||000000||Vlad||03-12-2001||03:43 AM|||| <IMG SRC="http://www.rk86.com/vlad/tech_pic/block.gif">  <BR> <IMG SRC="http://www.rk86.com/vlad/tech_pic/front_sus.gif">  <BR> <IMG SRC="http://www.rk86.com/vlad/tech_pic/head.gif">  <BR>[img] <A HREF="http://www.rk86.com/vlad/tech_pic/mounts.gif[/img]" TARGET=_blank>http://www.rk86.com/vlad/tech_pic/mounts.gif[/img]</A>  <BR> <IMG SRC="http://www.rk86.com/vlad/tech_pic/rear_sus.gif">  ||||reg||14
+Z||000001||Vlad||03-12-2001||03:44 AM||||I guess we could use them as a reference talking about different parts of the car.<BR>||||reg||1

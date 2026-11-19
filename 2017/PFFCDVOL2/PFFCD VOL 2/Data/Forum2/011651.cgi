@@ -1,0 +1,3 @@
+A||||1||Rodney||Heater box foam gaskets||||1||
+Z||000000||Rodney||06-28-2001||08:48 AM||||Taking apart a A/C - heater box the other day to see the foam gaskets that need to be reproduced I only see 2. The other two are a rubber type that seem very durable and not reproduceable. These foam gaskets are the ones that start to deteriorate and spit out small pieces of foam from the vents. If there is enough interest I'll have them made. There are several more gaskets that can easily be made from hardware store type weather striping foam so I doubt I look at making those. ||||reg||1
+Z||000001||Monkeyman||06-28-2001||08:30 PM||||I'm interested in new foam gaskets.  Also the foam "pad" on top of the flap.  Mine's starting to deteriorate badly.<P>MM||||reg||1

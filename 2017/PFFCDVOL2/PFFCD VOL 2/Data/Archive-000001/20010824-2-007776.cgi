@@ -1,0 +1,5 @@
+A||N||3||Bigfieroman||Stock spring rates?||||1||
+Z||000000||Bigfieroman||01-11-2001||01:01 PM||||What are the stock rates of my 87 Gt?  Thanks.<P>------------------<BR>I once got a warning from a Police officer because he couldn't keep up with me around some twisties.  the prerequisite for a warning instead of a ticket was that I must let him drive it back and forth the way we had come.  Burned a quater tank of my gas!||||reg||1
+Z||000001||william_thorniii||01-11-2001||02:57 PM||||BFM,<P>I can get those numbers for you (assuming I remember to bring them in to work).  <P>William T. Thorn, III||||reg||12
+Z||000002||Bigfieroman||01-11-2001||05:08 PM||||thanks!<P>------------------<BR>I once got a warning from a Police officer because he couldn't keep up with me around some twisties.  the prerequisite for a warning instead of a ticket was that I must let him drive it back and forth the way we had come.  Burned a quater tank of my gas!||||reg||1
+Z||000003||fiero56||01-11-2001||09:19 PM||||36.5 N/mm or 208.1 lb/in||||reg||1

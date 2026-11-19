@@ -1,0 +1,6 @@
+A||N||4||fierodave||would someone stand on there head for me?||||10||
+Z||000000||fierodave||10-20-2000||09:10 PM||||<BR>lol  <BR>I need someone with a A/C delete Fiero that has the UQ6 subwoofer performance sound system in there car to snap a photo of there factory sub install!(under dash)  <P>The under dash area is barren in a non A/C car,   and I need to see what the enclosure bracket to sub to dash looks like!<P>First A/C delete car I have had so this is all new to me!<P>------------------<BR>  <IMG SRC="http://members.theglobe.com/fierodave/gifs/fierosig.gif"> ||||reg||10
+Z||000001||wkayl||10-20-2000||10:23 PM||||Here is a scan of some of the Fiero GT option list.  It shows that you need A/C in order to have gotten a factory sub.<BR> <IMG SRC="http://www.fiero.nl/uploads/radio_1.jpg"> ||||reg||1
+Z||000002||My7Fieros||10-20-2000||11:32 PM||||Ok Dave Im standing on my head....damn its hard to type like this!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||12
+Z||000003||Indiana_resto_guy||10-21-2000||12:38 AM||||COOL TRICK MY7FIEROS!<BR>I love it!||||reg||1
+Z||000004||2xsess||10-21-2000||12:52 AM||||Dave, if I had either of those I'd give it a shot but I can't hardly type sitting on my butt so MY7Fieros is a better man than me.lol<BR><P>------------------<BR>Jeff<BR>85GT||||reg||1

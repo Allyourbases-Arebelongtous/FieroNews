@@ -1,0 +1,2 @@
+A||||0||BAM-BAM||HellO!!!!! TOM!!!!||||12||
+Z||000000||BAM-BAM||05-04-2001||09:13 PM||||  Good to see you back. Now for the real question. Are you light kits still available? I will be starting on some body mods in the next month or so and would love to have a set. LMK<P>Peace, B2 OUT!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Knowledge is POWER!<BR>That is why the ignorant remain Weak!||||reg||12

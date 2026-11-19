@@ -1,0 +1,2 @@
+A||N||0||firstfiero||wolf bra from The Fiero store||||9||
+Z||000000||firstfiero||12-18-2000||07:16 AM||||     Did anyone here put a wolf bra on their car? I'm not real happy about the fit....It kinda sags right in front of both wheels. Doesn't seem like their is enough clips to hold it in place. I tried some velcro...but that didn't work at all. Any suggestions? I had one manufactured by la bra for my storm gsi and that fit like a glove..  86se||||reg||9

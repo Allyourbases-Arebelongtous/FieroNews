@@ -1,0 +1,3 @@
+A||||1||Cozmo||cool car safety site...||||1||
+Z||000000||Cozmo||07-20-2001||02:36 PM|||| <A HREF="http://www.crashtest.com/default.htm" TARGET=_blank>http://www.crashtest.com/default.htm</A> <P>I found this site while surfing around...<BR>Lotta info!<BR>[C02M0[/b]||||reg||1
+Z||000001||AusFiero||07-20-2001||07:00 PM||||Hey what a cool site. Always wondered where you find what type of car you buy that rich old aunt that has you down as her only benefactor in her will  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>  <IMG SRC="http://www.jadeweb.com.au/fiero/ausfiero1.gif"> <BR><A HREF="http://www.jadeweb.com.au/fiero" TARGET=_blank>My Fiero</A> | <A HREF="http://www.auto-alley.com" TARGET=_blank>Fiero Accessories</A>||202.139.20.3||reg||1

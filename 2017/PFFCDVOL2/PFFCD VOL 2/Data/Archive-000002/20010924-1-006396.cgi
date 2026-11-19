@@ -1,0 +1,3 @@
+A||||1||Philphine||sunroof code||||1||
+Z||000000||Philphine||03-25-2001||08:25 PM||||<BR>is there a code on that label in the front trunk for a sunroof option? i know the roof could have been changed later but i might get a clue from it anyway. thanks.||||reg||1
+Z||000001||baldlobo||03-25-2001||09:08 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Philphine:<BR><B><BR>is there a code on that label in the front trunk for a sunroof option? i know the roof could have been changed later but i might get a clue from it anyway. thanks.</B><HR></BLOCKQUOTE><P>I believe this is what your looking for(I might be wrong)<BR>AD3	WINDOW, HINGED, ROOF||||reg||1

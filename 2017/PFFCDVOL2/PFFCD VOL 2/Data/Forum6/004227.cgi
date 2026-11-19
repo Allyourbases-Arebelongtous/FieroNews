@@ -1,0 +1,14 @@
+A||||12||Loki||Looking for the following||||1||
+Z||000000||Loki||11-11-2001||07:59 PM||||If anyone has one or can get one. Im looking for an old gmae console. TurboGrafix16 and 1 game  "Military Madness" If anyone knows, please tell me..<BR>THANX<P>------------------<BR> <IMG SRC="http://members.home.net/fieroloki/lokisig1%20copy.jpg">  <BR>"All Fieros broke right now" :(||||reg||1
+Z||000001||FieroMontreal||11-11-2001||08:38 PM||||I can get you the system.. but I don't think I can get the game||||reg||1
+Z||000002||Loki||11-11-2001||09:02 PM||||How much would it run? And I will be honest, wont be able to get till next year (hehe wahat 2 months)  but I would like it<P>||||reg||1
+Z||000003||Jaei Sun||11-11-2001||09:11 PM||||Why not just get an emulator and download the rom?||||reg||1
+Z||000004||Loki||11-11-2001||09:33 PM||||???????????? Get a huh?||||reg||1
+Z||000005||FieroMontreal||11-11-2001||09:55 PM||||An Emulator would be a lot easier to get + you wouldn't have to pay anything.. It's a thing that you download .. its like having the system on your pc.. you can play the game on your pc.. you can download all the games for that system from various online "emu" sites..<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sigfieromontreal_1.gif"> <BR>1986 Fiero GT, STOCK Wingless, <BR>-Alex President of FieroMontreal... <A HREF="http://www.fieromontreal.com" TARGET=_blank>www.fieromontreal.com</A> ||||reg||1
+Z||000006||Loki||11-11-2001||10:00 PM||||Hmm  interesting. KNow of any sites I can goto for the TG16?||||reg||1
+Z||000007||84fierotrevor||11-12-2001||01:17 AM||||Dude use morph !<BR>I got a nes emulator with 623 Nes games.<BR>a snes emulator with 120 games.<BR>some sega emulators with a bunch of games i havnt even tried those yet.<BR>I got a n65 emulator with perfect dark, Goldeneye, waverace.<BR>I got a dreamcast emulator. and i got a ps2 emulator with one game. Gran turismo 3 They all work perfect. except ps2 emulator sucks cuss gran turismo is all funky. i gonna delete that one.<BR>Which reminds me any one got a ps2 for sale ?||||reg||1
+Z||000008||Monkeyman||11-12-2001||10:01 AM||||More info on this, please.||||reg||1
+Z||000009||Loki||11-12-2001||04:18 PM||||Where can I get morph and the games at? I would love the console version myself but this is cool....||||reg||1
+Z||000010||btoth||11-12-2001||05:33 PM||||TG16 Emulators are here:<BR> <A HREF="http://www.zophar.net/tg16.html" TARGET=_blank>http://www.zophar.net/tg16.html</A> <P>I do believe that they have some roms too.<p>[This message has been edited by btoth (edited 11-12-2001).]||||reg||1
+Z||000011||84fierotrevor||11-12-2001||07:18 PM||||go to download.com and type in morpheus.<BR>it will brint it up click download now.||||reg||1
+Z||000012||Loki||11-13-2001||12:59 PM||||The same morpheus as in the one that d/l s everything? so searh for emulater and then the game names or console names?||||reg||1

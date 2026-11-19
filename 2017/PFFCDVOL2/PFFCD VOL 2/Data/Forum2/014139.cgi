@@ -1,0 +1,3 @@
+A||||1||David DeVoe||EGR valve insulator||||5||
+Z||000000||David DeVoe||10-03-2001||07:07 PM||||Does anyone know where to get that nice shiny insulation for the egr tube. Mine is falling apart and looks like h---. Is it available as a replacement or is there one from another car that can be adapted??<BR>Dave||||reg||5
+Z||000001||Fiero_Freak||10-03-2001||11:33 PM||||Summit Racing equipment mail order offers some stuff that looks exactly the same.  I think it would work...  It's a fiberglass like material...with aluminum covering.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Fiero_Left_01.jpg"> <BR>Two '87 GT's...<BR>   ...Double Trouble||||reg||1

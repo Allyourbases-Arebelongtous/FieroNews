@@ -1,0 +1,5 @@
+A||||3||Neverfinished||Need Some PFF Paint Opinions||||1||
+Z||000000||Neverfinished||11-27-2001||09:31 PM||||Well guys with my 85/86 GT whatever it is, I will be painting it in the spring but would like to choose a color...<BR>My dad runs a small business painting cars and such and does awesome work, so I can get any paint color etc... <BR>WHAT SHOULD I CHOOSE!!!!!!!!!!!!!!!<BR>There are so many choices.<BR>I have a red set of scorchers so The paint would have to not look tacky with them.<BR>BTW it is a aero notchback.<BR>I'm thinking a deep red but its nice to hear some opinions or examples of sweet notchbacks.<BR>Thanks and pleez respond||||reg||1
+Z||000001||Neverfinished||11-27-2001||09:52 PM||||buhhhhh ---- ummmppppp||||reg||4
+Z||000002||Neverfinished||11-27-2001||10:02 PM||||NEVERMIND||||reg||1
+Z||000003||rogergarrison||11-27-2001||10:16 PM||||my Mercedes was red, but I redid it a dark maroon, and it looked really good. I dont think ive seen any real dark red/maroon Fieros, so that would be different.<P>------------------<BR>           <IMG SRC="http://www.jadeweb.com.au/fiero/rogergarrison1.gif"> ||||reg||1

@@ -1,0 +1,6 @@
+A||||4||DXR_DAD||How do you do it??||||5||
+Z||000000||DXR_DAD||10-05-2000||08:58 PM||||When lubing the front end (Ball joints, Tie rod ends) Do you spurt grease out of the boot? or just enough to see the boot get fat.<P>I've heard both??? with new parts it's easy to see the boot get full, but old boots just seem to spurt all the time??? <BR>Not too technical but I just wanted to know.<P><BR>THANKS<BR>DXR_DAD||||reg||5
+Z||000001||mrfiero||10-05-2000||09:19 PM||||You don't want to overfill the boots, so just put enough grease in so that the sides start to "poof" out (how's that for technical?).   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>There is no benefit by overfilling them, just keep an eye on them.....you don't want them to get too low on grease either.  I usually check my balljoints & tierods at every oil change and put one or two pumps of grease into each one. <BR>||||reg||1
+Z||000002||fldevel||10-06-2000||02:17 PM||||whats the best type of grease to use for this application ??? ||||reg||1
+Z||000003||DXR_DAD||10-06-2000||03:19 PM||||I used LPS HI-LOAD ThermaPlex. This was the first time. I was using Mobil synthtic before<P>DXR_DAD||||reg||1
+Z||000004||DXR_DAD||10-06-2000||03:22 PM||||Anything High Temp/High Load will do the job<P>DXR_DAD||||reg||14

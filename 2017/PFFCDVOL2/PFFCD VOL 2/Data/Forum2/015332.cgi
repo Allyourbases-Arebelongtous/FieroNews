@@ -1,0 +1,9 @@
+A||||7||Pilrulz||Has this ever happened to you?||||12||
+Z||000000||Pilrulz||11-12-2001||09:12 PM||||Just pulled the head off the duke about an hour ago.  Because of what the previous owner said, i expected a bad head gasket, or at most a cracked head.  Instead, when the head came off, there was revealed a one inch wide hole in the #3 cylinder, i'm guessing about the length of the cylinder.  Has this ever happened to you?<P>                           pil||||reg||12
+Z||000001||jelly2m8||11-12-2001||09:24 PM||||WOW, sounds like you found your problem!<P> Some say the 2.5 will do that. Ford 2.3's in the Rangers an ****  will do that too.<P>Looks like it's time for a new motor.<P> Best of Luck||||reg||1
+Z||000002||Fierowrecker||11-12-2001||10:09 PM||||Yes...<BR>And the piston was able to rock on the cylinder...<BR>crash...||||reg||1
+Z||000003||MrPBody||11-12-2001||10:16 PM||||Yes, I had an Opel with a hole like that . . . where the connecting rod hit the block.<BR>||||reg||1
+Z||000004||StuGood||11-13-2001||12:41 PM||||Nope.  I never seem to have that kind of luck.  For that reason, I don't have much experience to share, when it comes to "big" mechanical problems with engines.<P>So now I'm wondering - is it possible the wrist pin worked its way out, and dug a slot in the cylinder wall?  Have any pictures to share?      ||||reg||1
+Z||000005||FieroFuker||11-13-2001||03:14 PM||||Nothing a little duck tape won't fix. lol!<P>||||reg||1
+Z||000006||TRiAD||11-13-2001||03:50 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by FieroF**r:<BR><B>Nothing a little duck tape won't fix. lol!<P></B><HR></BLOCKQUOTE><P>Any chance I could convince you to change your username?<P>I really don't care to see that word slashed all over the forum. <P>Thanks. <P>||||reg||1
+Z||000007||Pilrulz||11-13-2001||05:29 PM||||haven't taken any pics...yet.  yeah, and i happen to agree with triad.<P>pil||||reg||1

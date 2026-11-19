@@ -1,0 +1,7 @@
+A||N||5||polomeno||Where do i look for the engine code on my block?||||1||
+Z||000000||polomeno||05-27-2001||02:41 PM||||Hey guys I have a 4 cylinder and need to find the exact engine code for it.. where do i look?<P>thanks||||reg||1
+Z||000001||Indiana_resto_guy||05-27-2001||08:14 PM||||Which code are you looking for? <P>'R'?||||reg||1
+Z||000002||polomeno||05-27-2001||09:24 PM||||I guess so.. just need to know exactly which engine it is when i go to get head gasket set.. i already got wrong one once<P>Thanks<P>John||||reg||1
+Z||000003||Indiana_resto_guy||05-28-2001||03:55 AM||||If you have a 4 cylinder, it's 'R'<BR>If you have a 6 cylinder, it's '9'<BR>This is the 8th digit of the car's VIN #.<P>||||reg||1
+Z||000004||87GTZ34||05-28-2001||02:29 PM||||Indiana, I don't know alot about the duke, but he may mean that someone has swapped out his four and the heads are different enough that the gasket didn't work.  If that is the case, he needs the engine code stamped on the block which is located next to the cam cover on the front of the block.  (next to the alt according to the picture)  If this is not the case then what Indy said...<P>PS Ever notice in the manual they show code locations for a lot of engines not offered in the Fiero... <p>[This message has been edited by 87GTZ34 (edited 05-28-2001).]||||reg||1
+Z||000005||polomeno||05-28-2001||03:45 PM||||ya that's what i was lookin for ! <BR>Thanks 87GTZ<P>John||||reg||1

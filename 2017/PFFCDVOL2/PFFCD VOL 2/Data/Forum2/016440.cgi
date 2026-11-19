@@ -1,0 +1,4 @@
+A||||2||2M4 Dale||Shifter Thread||||5||
+Z||000000||2M4 Dale||12-17-2001||10:43 AM||||I have the 5 speed shifter and I was wondering if anyone knows if it is metric or SAE. I have measured mine and it measures .612 on the threads and .625 on the unthreaded shank. The thread pitch is odd too. I do not have a metric thread gage but I do have an SAE thread gage......closest thing I can come up with is 5/8-18 thread. But this is not exactly correct. Is this a 15.5 metric thread ??? Anyone ???||||reg||5
+Z||000001||Formula88||12-17-2001||11:09 AM||||It's been posted before, but instead of telling you to do a search, I'll simply answer your question.   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>16mm shaft x 1.5mm pitch.   <BR>That would be a <B>M16x1.5</B> if you're looking for the correct size die, etc.||||reg||1
+Z||000002||2M4 Dale||12-17-2001||11:26 AM||||Thanks !!!!!!!!!!!!!||||reg||4

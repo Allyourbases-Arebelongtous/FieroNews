@@ -1,0 +1,3 @@
+A||N||1||85gt||differences?||||1||
+Z||000000||85gt||04-02-2000||03:18 PM||||Does anyone here know what the differences between a coupe and a sport coupe are? I haven't been able to find out. Any help would be appreciated.||||reg||1
+Z||000001||Standard||04-02-2000||03:55 PM||||A sport coupe has some options available that a coupe doesn't.  Not sure exactly which one's.  I think I remember a discussion we had on this awhile ago.. search time.<P>Here's the thread.. <A HREF="http://www.fiero.nl/forum/Forum1/HTML/001318.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/001318.html</A> <P>now go get a spotter's guide!  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><p>[This message has been edited by Standard (edited 04-02-2000).]||||reg||1

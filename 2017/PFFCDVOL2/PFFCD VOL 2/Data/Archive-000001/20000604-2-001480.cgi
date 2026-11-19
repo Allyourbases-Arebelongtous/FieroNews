@@ -1,0 +1,4 @@
+A||N||2||Monkeyman||Unknown wiring harness||||5
+Z||000000||Monkeyman||11-22-1999||12:18 AM||||I just removed my center console (gonna do a custom interior) and I found a wiring plug in that I can't identify.  It is next to the cigarette lighter, but hidden under the cover.  Nothing is plugged into it.  I don't have any power options (yet:-)) so I thought maybe it is a connection for one of those.  It has 5 or 6 wires running to it.  Before I bury it under a new console I need to know what it goes to.  HELP!||||reg||5
+Z||000001||Carrolles||11-22-1999||12:22 AM||||It sounds like that is the ALDL data link connector.  This is what you use to read the computer codes when the check engine light comes on.  Nothing is supposed to be connected to it.  Don't bury it permanently.  You will eventually need to get to it.||||reg||1
+Z||000002||Monkeyman||11-22-1999||01:18 AM||||Carrolles-Thanks!  Now I can start on my project.||||reg||1

@@ -1,0 +1,3 @@
+A||N||1||FRODO||STUD REMOVING||||5||
+Z||000000||FRODO||12-19-2001||03:04 AM||||Do any of you guy's know what size stud remover I could use to remove a stripped manifold stud? Is it a millimeter stud or do they make a universal stud remover?Any help would be greatly appreciated!!!Merry X-Mas.....Thanks||||reg||5
+Z||000001||GTDude||12-19-2001||08:26 AM||||Depends on whether you have drilled  a center  hole in the stud.  If you have part of the stud sticking up....go to a parts store and buy a stud remover.  If you've drilled it...just get the proper size ez out to fit the hole.  Prob have to heat it to get it out.  Good luck.<P>phil pettus<P> <IMG SRC="http://www.fiero.nl/uploads/DSCF0003a_3.JPG"> <P>------------------<BR>GTDude's 86GT||||reg||1

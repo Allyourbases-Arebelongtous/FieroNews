@@ -1,0 +1,3 @@
+A||||1||Eric_PA||Fiero Drive Shafts ||||5||
+Z||000000||Eric_PA||11-25-2000||07:23 AM||||I was wondering if the 86 4 speed drive shafts are interchangeable with the 5 speed ones in an 87 2.8. Just wondering cause that's one of the last items I need to swap in my HO Quad. Getting ready to start with the project. Just took the car off the road for the winter.<P>Thanks,<BR>Eric<BR>Black 86.5 Fastback Ratmatic---&gt;HO Q4<BR>Red 84 4 speed<BR><p>[This message has been edited by Eric_PA (edited 11-25-2000).]||||reg||5
+Z||000001||Rodrv6||11-25-2000||09:59 AM||||All Fiero manual transmission driveshafts are identical.  Year and number of gears do not matter.<P>------------------<BR>Rod Schneider, Woodstock, Ga.  84 SE, 330,000 miles and counting :)||||reg||1

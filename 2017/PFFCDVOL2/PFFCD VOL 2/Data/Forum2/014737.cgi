@@ -1,0 +1,2 @@
+A||||0||8Ball||Smooth Fiero (no trim) need help with a few questions||||1||
+Z||000000||8Ball||10-24-2001||11:19 AM||||The topic is in General Fiero Chat at  <A HREF="http://www.fiero.nl/forum/Forum1/HTML/011220.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/011220.html</A> <P>Please any pointers or suggestions would be greatly appreaciated. I would like to start it befor it gets too cold.<P>Thanks,<BR>Randy W.||||reg||1

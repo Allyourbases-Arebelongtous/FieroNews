@@ -1,0 +1,4 @@
+A||||2||JohnnyK||Where to find small engines?||||1||
+Z||000000||JohnnyK||02-22-2001||12:38 PM||||I want to get a cheap engine. Something of about 10 hp. ANyone know where I could find this? (Must be horizontal shaft, as it's for a kart). I'm cheap and don't want to spend much, so I don't want to get a refurbished one or anything like that. Would a wreckers have them or anything? Any ideas?||||reg||1
+Z||000001||KRMFiero||02-22-2001||01:07 PM||||My local Small Engine Repair shop sells me 8 hp engines for 75$   10/11 hp for 100$ and 12 hp for 125$<P>go to a small engine repair place and make them a offer for 100$ for a running used one<P>Kyle||||reg||1
+Z||000002||JohnnyK||02-24-2001||03:28 PM||||Damn. I had this plan to go to the wreckers, find an engine, and strategically place it near the fence for later seizure.. Too bad they didn't have any.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

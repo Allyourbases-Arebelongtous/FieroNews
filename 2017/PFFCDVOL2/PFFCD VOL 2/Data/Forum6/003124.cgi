@@ -1,0 +1,8 @@
+A||||6||rodmcneill||MultiGrain Cheerios , Yum Yum||||1||
+Z||000000||rodmcneill||08-26-2001||12:13 PM||||What's your favorite food to start the day?||||reg||1
+Z||000001||btoth||08-26-2001||12:37 PM||||Cheerios.  Mixed with a combo of different fruits.  Today it was peach and frozen blueberries. Yum.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  Sometimes I add in granola just for the crunchiness.||||reg||7
+Z||000002||Kasdan||08-26-2001||12:42 PM||||Somebody set up us the bomb||||reg||1
+Z||000003||starfighter007@msn.com||08-26-2001||12:49 PM||||Half cooked panny cakes with auntie J. syrup some parkay margerine and snasages smothered in syrup ummmmmy||||reg||14
+Z||000004||fogglethorpe||08-26-2001||01:06 PM||||I like to peel a banana and dip it into nonfat vanilla yogurt.||||reg||1
+Z||000005||Urchin||08-26-2001||10:38 PM||||grilled cheese w/bacon and a tall glass of chocolate milk.    Mmmmmmmmmm.........<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/side_cut_sig_4.jpg">  <BR>If you can read this, I'm parked.||||reg||1
+Z||000006||JSocha||08-27-2001||12:05 PM||||Bacon, lettuce, tomatoe and Peanut butter sandwich with pickles, chocolate pudding, mayonaise, ketchup, horseradish and mustard.  Yummy to the tummy!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P> <IMG SRC="http://www.fiero.nl/forum/eek.gif"> As I just wrote that, I think how disgusting that would actually be if I actually were to make that and eat it. YUCK!<P>Jethro bowl of Fruit Loops!  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> ||||reg||1

@@ -1,0 +1,4 @@
+A||||2||fierosound||A new Fiero Kit???||||14||
+Z||000000||fierosound||01-23-2000||06:33 PM||||Sure sounds like a new product being built on a Fiero chassis.  Looks really good....<P><BR> <A HREF="http://www.lear2000.com/lear2000.html" TARGET=_blank>http://www.lear2000.com/lear2000.html</A> ||||reg||14
+Z||000001||Gokart||01-23-2000||07:35 PM||||Sure does! Looks like what the Fiero's future could've evolved into, but not for another 10-15 years!||||reg||14
+Z||000002||mshill||01-24-2000||01:50 PM||||It is a real sharp looking design.  Obviously, based on the Lambo Diablo, but built on a stock length Fiero chassis.  I have already made some inquiries to the company.  <P>The unfortunate thing is that is is not being sold as a kit, only as turnkey cars.  I wouldn't pay $55K for a rebodied, souped up Fiero, but I would fork out $7K for the body kit.<P>||||reg||1

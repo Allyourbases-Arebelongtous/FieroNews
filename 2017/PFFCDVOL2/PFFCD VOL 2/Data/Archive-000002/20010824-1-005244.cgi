@@ -1,0 +1,3 @@
+A||||1||DXR_DAD||ur2biteme???||||1||
+Z||000000||DXR_DAD||01-14-2001||07:01 PM||||Are ou out there?????<BR>Man I sent you an email but it came back?<P>ur2biteme@aol.com<P>Ok, just emailed to the hotmail address<BR>You have mail<P>Email me<BR>DXR_DAD<P><BR><p>[This message has been edited by DXR_DAD (edited 01-14-2001).]||||reg||1
+Z||000001||ur2biteme||01-15-2001||03:50 AM||||lol.  good thing i look here.  i almost never check hotmail.  wouldnt go through on aol?  hmmm.  dont make sense.  guess i'll have to look into it.  checkin hotmail now....<P>------------------<BR>Bob's '87 econo coupe<BR>170k awaiting a tranny:(<BR> <A HREF="http://members.fortunecity.com/ur2biteme" TARGET=_blank>http://members.fortunecity.com/ur2biteme</A> ||||reg||1

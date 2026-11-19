@@ -1,0 +1,3 @@
+A||N||1||gkozlov||Looking for fellow Fiero owner||||1||
+Z||000000||gkozlov||09-17-2000||01:05 PM||||Im looking for one of Ed Parks mechanics. His name is Jeremy. I need his last name and/or phone number. <BR> <IMG SRC="http://www.fiero.nl/uploads/officearea1_1.jpg"> <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sign1_3.jpg">  <BR><A HREF="http://g.kozlov.tripod.com/gkozlov.htm" TARGET=_blank>GKozlovs Fiero Site</A>||||reg||1
+Z||000001||gkozlov||09-18-2000||11:00 AM||||Any one?<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sign1_3.jpg">  <BR><A HREF="http://g.kozlov.tripod.com/gkozlov.htm" TARGET=_blank>GKozlovs Fiero Site</A>||||reg||1

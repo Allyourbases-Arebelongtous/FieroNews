@@ -1,0 +1,3 @@
+A||||1||theogre||Helpfull link. brakes and other things.||||1||
+Z||000000||theogre||11-15-2000||10:22 AM||||Someone was recently havin an awfull time bleedint the brakes. this site has a page that might help about leveling the master cyl durring bleeding ad a bunch of other stuff. It's for cars in general not just Fiero.<BR> <A HREF="http://www.cardone.com/protech.htm" TARGET=_blank>http://www.cardone.com/protech.htm</A> <P>------------------<BR>Lake Superior? Is that what I stepped in? Sorry.||||reg||1
+Z||000001||ponya||11-15-2000||07:05 PM||||Hi Theogre, I had the brake bleeding problem. Thanks for putting that website on the forum. It's got very interesting and informative information on bleeding brakes and other auto areas. Again, thanks,  Bob||||reg||14

@@ -1,0 +1,5 @@
+A||||3||GT Bastard||Universal MSD Blaster2 coil....||||5||
+Z||000000||GT Bastard||02-15-2000||02:53 PM||||Does anyone know if you can adapt a Blaster2 coil to a V6 Fiero?  It says that it's designed to work with the MSD 6 or 7 model ignition, but you can adapt it to work with a "points" style ignition too. What would need to be done to adapt this?  <BR>thanks in advance!||||reg||5
+Z||000001||TOM||02-15-2000||10:41 PM||||Just use the 8663. I think thats the number it fits in the stock location and uses the stock plugs and can be fired from a msd 6-7||||reg||1
+Z||000002||mwbackus||02-16-2000||12:13 AM||||MSD-8226	COIL GM EXT DUAL CONNECTOR H-P		$ 38.95<P>MSD-8876    Harness for GM Dual Connector		$ 27.95<P><BR>Price info from Summit racing equipment:<BR> <A HREF="http://www.summitracing.com/index.htm" TARGET=_blank>http://www.summitracing.com/index.htm</A> <P>Mike<P>||||reg||1
+Z||000003||Kage86GT4SP||02-16-2000||12:33 AM||||And in my case (using the coil, harness and MSD 5) its worked like a charm!||||reg||1

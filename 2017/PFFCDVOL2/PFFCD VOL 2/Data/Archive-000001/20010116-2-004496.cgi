@@ -1,0 +1,14 @@
+A||N||12||Haze_Performance||Sunroof Question||||4||
+Z||000000||Haze_Performance||06-28-2000||01:29 PM||||I have a 85 with a sunroof,And I want to use the sunroof cover. My question is: Isnt there a special latch used to hold the panel on the 86-up cars??If so anyone have a pick of one installed in the car?  ||||reg||4
+Z||000001||80's BOY||06-28-2000||01:45 PM||||when i parted out the 87 gt, the sunroof cover and roof itself had velcro sticky tabs to hold it on with. don't know if that was factory though.||||reg||3
+Z||000002||Ed||06-28-2000||02:41 PM||||Yes, stock is Velcro on the glass.   ||||reg||1
+Z||000003||DXR_DAD||06-28-2000||03:25 PM||||But,  The latch is not same. The sunroof latch has a little lip just in front ot hold the insert/cover, I thank that only the fieros that came with the cover had this style. ||||reg||4
+Z||000004||Monkeyman||06-28-2000||06:09 PM||||The latches on both of my cars ('85 and '86) look identical to an aquaintances '87 and '88.  If there's a difference, it must not be much of one.||||reg||1
+Z||000005||DXR_DAD||06-28-2000||07:40 PM||||Monkey from what I understand the little lip type latch was only on fieros that came with the sunroof insert/shade/cover. My 86SE doesn't have the lip but my 87coupe did?? Yes you are right it is not much of a difference and I'm not sure it's needed??<P>DXR_DAD||||reg||5
+Z||000006||TOM||06-28-2000||08:53 PM||||I was going tpo make a bracket that went on cars that do not have the proper latch for the sunshade.||||reg||1
+Z||000007||Phoenix||06-28-2000||11:36 PM||||I've currently got an 87 sunroof glass and bracket going on eBay. The car it came out of had the factory sun shade. Current bid is $20.00  seller id is ppaulb||||reg||1
+Z||000008||Haze_Performance||06-29-2000||04:33 AM||||Anyone have a photo of the one with the lip????||||reg||5
+Z||000009||Formula||06-29-2000||10:31 AM||||I wish I had a sun roof........ <P>anyone know where I could get one for around a hundred bucks?||||reg||1
+Z||000010||GT-maniac||06-29-2000||09:20 PM||||Formula, you don't have a sunroof ? I don't think I've ever seen a fiero without one.<BR>Yeah they're kinda nice to have. I'd be happier with mine if it didn't leak every times there's a heavy rain or I washed the car. Right in the middle at the latch too which is even more annoying. I think mine is caused by my sun roof glass being arched somewhat, so the middle of the panel doesn't compress the rubber when the panel is closed.||||reg||1
+Z||000011||zeusrekning||06-29-2000||09:34 PM||||Are you guys talking about the black leather "bag" If not tell me what this bag is for. I spent many minutes trying to shove my sunroof in it???||||reg||1
+Z||000012||Monkeyman||06-30-2000||09:25 AM||||The sunroof doesn't go in the bag, the shade does.  I wouldn't mind having one, but I'm sure as heck not going to pay the going price for one.<P>------------------<BR>Dave-<BR>Grape Ape ('85GT)||||reg||1

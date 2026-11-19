@@ -1,0 +1,5 @@
+A||||3||Galen||Philips CDRW ppl .. need your help||||1||
+Z||000000||Galen||12-19-2001||11:45 AM||||I seemed to have lost my installation cd.. and windows doesn't wanna install it right for some odd reason :/ anyone with it(with broadband) possibly could send me a copy?  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> AIM me or ICQ me..<P>Fiero88cpe on aim<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/galen-sig-xmas3.gif">  <BR><B><FONT COLOR="purple">Ray</FONT></B> - <A HREF="http://www.fierolinks.f2s.com/index.shtml" TARGET=_blank>Fierolinks</A>||||reg||1
+Z||000001||Galen||12-19-2001||11:47 AM||||oh yeah, its a philips  pcrw804  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||Loki||12-19-2001||11:49 AM||||Have you tried there web page??????<P>------------------<BR>  <IMG SRC="http://www.fieroloki.com/lokisig1%20copy.jpg">   <BR>"All Fieros broke right now" :(||||reg||1
+Z||000003||Galen||12-19-2001||11:56 AM||||yeah, their website isn't worth a mustang  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> hehe||||reg||1

@@ -1,0 +1,2 @@
+A||||0||yo_sweet||Anyone have an Atari Lynx?||||1||
+Z||000000||yo_sweet||12-04-2001||11:10 PM||||I have one spare game up for trade ms pac man will trade for another if anyone has this system get back to me<P>i also have a jaguar cd game "dragon's lair" that i have never used i would trase it for another cart jag game or even a lynx game<P><BR><P>------------------<BR>1986 Fiero SE 2.8lv6<BR>  <IMG SRC="http://www.fiero.nl/uploads/dance.gif">  <P><BR>www.geocities.com/acme_s2000/intro.html<BR>yo_sweet!||||reg||1

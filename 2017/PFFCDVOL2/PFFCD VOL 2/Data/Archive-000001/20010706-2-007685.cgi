@@ -1,0 +1,5 @@
+A||||3||Alex2004||What is the 3rd brake light bulb number?||||4||
+Z||000000||Alex2004||01-06-2001||08:30 PM||||A while back i was asking about how to install a 3rd brake light, well now all i need is the bulb and the socket the plugs up to the 3rd brake light bulb.  I was looking at autozone today but wasn't sure what the bulb number was, so does anyone know? Thanks...||||reg||4
+Z||000001||Alex2004||01-06-2001||09:43 PM||||anyone?||||reg||1
+Z||000002||BAM-BAM||01-06-2001||09:58 PM||||  Alex, It's a GE889. That's the bulb and socket that the harness plugs into, it's one piece. Take it easy   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>  Peace, B2 OUT!   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Don B. <BR>85GT<BR>Eibach/KYB Susp.<BR>Mr.Mikes 500 series seats,headliner! MOMO Commando Steering Wheel, White Face Race Style Gauges And Soon To Be More!!! YEAH BABY-YEAH<p>[This message has been edited by BAM-BAM (edited 01-06-2001).]||||reg||12
+Z||000003||Alex2004||01-06-2001||10:02 PM||||Alright, thanks man...<P>Alex...||||reg||1

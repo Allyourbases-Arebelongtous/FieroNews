@@ -1,0 +1,4 @@
+A||N||2||3fifty||Factory Fiero Lugs||||1||
+Z||000000||3fifty||09-20-2001||06:52 PM||||Anyone that has a few spares please send me<BR>10 factory Fiero lug nuts. After my adapter ordeal, I have to go back to the stock rims<BR>for a few weeks. I have 10 lugs nuts. I would<BR>be happy to pay. If I get a mail and someone<BR>is sending some, I will make a post so no other nice "Fiero" people will send more.<P>Thanks a lot!!!!!!<P>MSully007@aol.com<BR>Marty Sullivan<BR>2209 Chadwick Dr.<BR>Florence, SC 29501<P>||||reg||1
+Z||000001||Rick 88||09-21-2001||01:26 AM||||You can use any GM lug nut from that period. <BR>The actual Fiero lug nuts are slightly shorter but have the same thread pitch as many other GM's. You should be able to find a ton of them in a local wrecking yard, or new ones at an auto parts. <P>Rick 88||||reg||1
+Z||000002||Fformula88||09-21-2001||09:56 AM||||Go to a wrecking yard and get yourself a few.  They should sell them to you dirt cheap!  ||||reg||1

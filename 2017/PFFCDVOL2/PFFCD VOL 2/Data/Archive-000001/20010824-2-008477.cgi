@@ -1,0 +1,3 @@
+A||||1||Wannabe||Trans swap auto to 5spd||||1||
+Z||000000||Wannabe||02-15-2001||03:14 PM||||I'm considering buying an '88 GT with an auto trans, but really want a 5 spd. I do have an '87 GT 5spd, the obvious thing would be to swap the trannies. The '87 would turn into a parts car. Which is going to be harder, swapping the trannies or finding a decent, reasonably prices '88 with 5 spd? Any comments on the difficulty of the auto to 5 speed swap?||||reg||1
+Z||000001||danny boy||02-15-2001||11:04 PM||||not hard, just time consuming. things you will need:<BR>Clutch/brake pedal assy.<BR>master cylinder<BR>fluid hose<BR>slave cylinder<BR>engine wiring harness<BR>computer<BR>axles<BR>shifter/linkage/console<BR>beer<BR>atleast 1 friend to help<P><BR>||||reg||1

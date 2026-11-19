@@ -1,0 +1,8 @@
+A||N||6||burdell1||high speed shake||||5
+Z||000000||burdell1||11-19-1999||01:46 PM||||I have an '85 Fiero GT and have had problems with my car shaking when I reach speeds of 70 mph or more. what could be causing this? is this normal? ||||reg||5
+Z||000001||Phil||11-19-1999||02:18 PM||||Have you had your tires balanced lately? If not it might be time.||||reg||1
+Z||000002||burdell1||11-19-1999||02:21 PM||||back in january||||reg||1
+Z||000003||fiero56||11-19-1999||05:57 PM||||Have a four wheel alignment done. Even if you had one done in January if you hit a good enough bump the alignment can get screwed up.  Also, check to make sure all of your wheel weights are on the wheel. I've heard of them falling off before, happened to a friend.  There should be a mark from where the weights are/were.||||reg||1
+Z||000004||olympic||11-19-1999||07:31 PM||||There is also the possibility that one of the tires is out-of-round. Try to localize the shake to the front or back of the car to give your tire shop a place to start.||||reg||1
+Z||000005||RFMike||11-19-1999||08:40 PM||||If you can isolate the vibration to the front or back, rotate the tires front to back.  If the problem moves with the swap, it is probably an out of balance or out of round tire.  If the problem stays in the same spot, it is probably alignment or suspension related.||||reg||1
+Z||000006||batboy||11-19-1999||08:59 PM||||Check the tires first like the other fellows are telling you. Also, it could be front ball joints, tie rods, steering rack, or wheel bearings. Don't forget you have wheel bearings and ball joints in the rear too.||||reg||1

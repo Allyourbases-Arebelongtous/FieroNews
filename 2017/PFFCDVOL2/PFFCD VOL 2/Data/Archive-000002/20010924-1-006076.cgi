@@ -1,0 +1,25 @@
+A||||23||Tweek||Fiero pictures and a Quiz||||1||
+Z||000000||Tweek||03-06-2001||05:01 PM||||I just took these pictures a few minutes ago. The snowbank from me shoveling has reached the height of the car... though being a fiero that doesnt say much!!<BR> <IMG SRC="http://w3.ime.net/~valor/ted/snow0007.jpg"> <P> <IMG SRC="http://w3.ime.net/~valor/ted/snow0008.jpg"> <P>Ok who can guess what this car is?? It belongs to my neighbor....<P> <IMG SRC="http://w3.ime.net/~valor/ted/snow0009.jpg"> ||||reg||1
+Z||000001||Shaft||03-06-2001||05:10 PM||||My guess is it's either an older firebird or an Avanti (sp?)<P>Am I right?||||reg||1
+Z||000002||JohnnyK||03-06-2001||05:55 PM||||I'm gonna go with 79 FIrebird.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||rogergarrison||03-06-2001||06:23 PM||||those both are pretty good guess. looks like closest is rt front fender. Avanti is good but mirror looks wrong for '64. My best guess would be 72-77 Firebird/Camaro.||||reg||1
+Z||000004||hugh||03-06-2001||07:04 PM||||Is it a snowmobile?||||reg||1
+Z||000005||Pontiaddict||03-06-2001||07:24 PM||||79 Firebird, I'll even venture to say it's a Trans Am.<P>Of course I never get these right.<p>[This message has been edited by Pontiaddict (edited 03-06-2001).]||||reg||1
+Z||000006||87GT||03-06-2001||07:46 PM||||Has to be a 79-81 Firebird/Trans-Am.||||reg||1
+Z||000007||2xsess||03-06-2001||07:59 PM||||Come on Tweek, give us a hint.<P>Didn't some of the El Caminos have front ends like that?<BR><P>------------------<BR>Jeff<BR>AOL IM : Only2xsess<BR>       <IMG SRC="http://www.fiero.nl/uploads/2xsess.gif">      <BR> <A HREF="http://kresgeus.homestead.com/FieroPage.html" TARGET=_blank>Visit My Website</A>||||reg||1
+Z||000008||Uaana||03-06-2001||08:20 PM||||76 Pontiac LeMans||||reg||1
+Z||000009||FieroLisa||03-06-2001||08:23 PM||||there was a car under there?? :-)||||reg||1
+Z||000010||Tigger||03-06-2001||09:37 PM||||73-77 Laguna||||reg||1
+Z||000011||sqoach||03-06-2001||10:49 PM||||trans am.<BR>anyone remember smokey and the bandit?<P>------------------<BR>sqoach@yahoo.com<P>       <IMG SRC="http://www.fiero.nl/uploads/sqoach.JPG">  <BR>84 SE (project car?)<BR>85 Coupe (parts car)<BR>86 SC (daily driver)||||reg||1
+Z||000012||DJRice||03-06-2001||11:03 PM||||69 rolls-kinardly<P>------------------<BR>Dillon<BR>Black '87 SE V6||||reg||1
+Z||000013||Jaygee79||03-06-2001||11:08 PM||||El Camino?<P>I'd be surprised if I actually got that right  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000014||Jaygee79||03-06-2001||11:09 PM||||oops, double post<p>[This message has been edited by Jaygee79 (edited 03-06-2001).]||||reg||1
+Z||000015||billyboy||03-07-2001||06:08 AM||||Can't be a Firebird or Trans Am.  If you look very, very closely in front of the front wheel well, the corner lights are running vertical.  The Firebirds and Trans Am always had theirs running horizontal.  So did the Le Mans and GTO.  So those are out.<P>It's not an Avanti, they never had those corner lamps at all.<P>It's not an El Camino.  Something just isn't right with the front end.  Which is going to sound really weird when I say:<P><B>It's a '76 Malibu.</B><P> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <BR>||||reg||1
+Z||000016||bHooper||03-07-2001||08:10 AM||||its a 78 camero, or some obscure AMC test mule, left over from the mid '80's.<P>------------------<BR>hoop<BR>Red '86 GT<BR>KYB's, Eibach's,<BR>Poly Bushings||||reg||1
+Z||000017||Formula||03-07-2001||10:53 AM||||your all wrong.....because its.......<BR>DUN DUN DUN.......<BR>.<BR>.<BR>.<BR>.<BR>.<BR>.<BR>.<BR>.<BR>.<BR>.<BR>the batmobile!!<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/yellowtored3.jpg"> ||||reg||1
+Z||000018||87ECO5||03-07-2001||11:04 AM||||How about a Chevette?||||reg||6
+Z||000019||ray b||03-07-2001||11:24 AM||||a post studabaker avanti they where in production intill late 80's with vett motors.||||reg||1
+Z||000020||Haze_Performance||03-07-2001||11:54 AM||||Its a Chrysler/Dodge product..<P>------------------<BR><A HREF="http://www.ws6fiero.com" TARGET=_blank><BR>  <IMG SRC="http://www.fiero.nl/uploads/ttttttt.gif">  </A>       <BR><A HREF="http://www.geocities.com/WS6_Fiero/photo.html" TARGET=_blank><BR>PFF Members Photo Page</A><BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1431213" TARGET=_blank><BR>Photopoint Gallery (Updated Weekly)</A>||||reg||4
+Z||000021||Tweek||03-07-2001||04:09 PM||||Sorry guys, I went up to my parents house and got snowed in, away from cable and internet access.. not too mention the fiero getting stuck in a 30 inch drift.. but thats another story.<P>Anyways, Tigger is right, Im not sure of the year, But its a Laguna.||||reg||1
+Z||000022||rogergarrison||03-07-2001||10:40 PM||||If I remember rite, the Laguna and El Camino did share noses from windshield forward.||||reg||1
+Z||000023||billyboy||03-08-2001||02:30 AM||||The Malibu and El Camino are the same thing from the windshield up also.  Only difference is one has a truck bed, one has a trunk.<BR>||||reg||1

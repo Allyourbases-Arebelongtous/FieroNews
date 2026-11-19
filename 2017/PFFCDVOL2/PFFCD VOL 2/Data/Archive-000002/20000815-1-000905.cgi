@@ -1,0 +1,2 @@
+A||||0||RZURCTN||It lives!!! :)||||10||
+Z||000000||RZURCTN||01-04-2000||10:40 PM||||I finally got my Fiero running again!  WOO HOO!!!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  I even have a set of 225/70R14's to put on the wheels for driving in the 6 inches of snow we just got. Special thanks to Fierodave for getting me the engine and a really great deal on it!  I didn't even have to pay him for it yet!  He's a great guy to do business with!  Also, if you need some parts from an 84, check out my post in the mall.||||reg||10

@@ -1,0 +1,3 @@
+A||||1||burdell1||ECM/PROM problems
+Z||000000||burdell1||07-23-99||01:00 PM||||I recently couldn't get my '85 Fiero GT started so I had it towed to my local dealership.  $80 later, I got it back, however, it ran real clunky and had the 'check engine' light on constantly. I read the codes and it said 51.  Could it be that I burned out the whole ECM or just the PROM unit. What are the symptoms of a bad PROM unit?  Also, is it safe to drive with a bad prom--will it do any engine damage?<br>
+Z||000001||Phil||07-23-99||01:21 PM||||It seems you paid to have your car NOT fixed. I would take it back to the dealer and either have him fix it right at no additional charge  or return your money

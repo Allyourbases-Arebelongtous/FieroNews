@@ -1,0 +1,6 @@
+A||||4||BAM-BAM||Interesting.......Anyone ever heard of this????||||5||
+Z||000000||BAM-BAM||12-03-2001||07:48 AM|||| Found this on E-Bay and thought it was interesting. Full power Fiero seats???? I have never heard of it. I have heard about the power lumbar seats, but 8 way adjust? Just wondering. Oh, and it's from an 89 with headrest speakers?<P>Peace, B2 OUT!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||5
+Z||000001||chester||12-03-2001||12:29 PM||||Pretty sure it's  <IMG SRC="http://www.fiero.nl/forum/smiley_bs.gif"><P>------------------<BR>     <IMG SRC="http://www.fiero.nl/uploads/sigline.jpg">     <BR>Modified 2.8<BR>2.5" Drop<BR>11" Brakes<BR>17" Revolutions<BR>RCC Coilover Suspension||||reg||1
+Z||000002||Cheever3000||12-03-2001||12:47 PM||||Oh yeah!  Fieros are getting better every year.<BR> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>||||reg||3
+Z||000003||Screwie||12-03-2001||01:00 PM||||Hmmm<P> <IMG SRC="http://www.stopstart.fsnet.co.uk/smilie/biggrinshoot.gif"> ||||reg||1
+Z||000004||Ayrow||12-03-2001||01:44 PM||||Chester, <P>can you post some more pics of your car and the mods you have done to it?<P>I love the pic in your sig and would love to see more of what you've done to it.<P>E-mail them to me if you wish.<P>Thanks,<P>Ayrow<BR>||||reg||1

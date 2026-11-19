@@ -1,0 +1,5 @@
+A||N||3||FieroHarry||Tan Interior paint?||||6||
+Z||000000||FieroHarry||11-07-2001||06:40 AM||||I got my new pillar gage mount from the Fiero store but alas its black,<BR>has anybody ever found a good interior spray in tan?<P>Im dying to install this thing........ <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR><BR><B>"If you want to blend in, take the bus!"</B>||||reg||6
+Z||000001||MinnGreenGT||11-07-2001||12:21 PM||||Check with a local automotive paint supplier.  They should have interior-specific paint to match your existing interior!||||reg||1
+Z||000002||voyagerspe||11-07-2001||09:26 PM||||try<BR> <A HREF="http://www.eastwoodco.com" TARGET=_blank>www.eastwoodco.com</A> <P>great company they have lots and lots of cool <BR>car tools and supplys||||reg||7
+Z||000003||crash||11-07-2001||09:46 PM||||NAPA has great vinyl paint. I bought off the whole stock of dark grey out of the stores in the grand rapids area a month ago to do the interior of my fiero.<BR>It is great stuff<BR>||||reg||1

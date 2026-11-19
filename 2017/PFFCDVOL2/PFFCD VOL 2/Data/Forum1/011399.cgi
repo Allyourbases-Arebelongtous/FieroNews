@@ -1,0 +1,2 @@
+A||||0||tomanyfieros||need wrecked GT pics||||1||
+Z||000000||tomanyfieros||10-29-2001||04:26 PM||||i need pics of wrecked GT's that are Black and are 86-88. any pics, please post, needs to be the pic of the front of the car, it doesnot have to be straight on, it can be the front and driver/pass side.... this is for a school project.... please post some pics of black wrecked GTs! Thanx Jason<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/dreamer.gif">    <BR><B>We all have dreams, but not everyone gets them...</B>||||reg||1

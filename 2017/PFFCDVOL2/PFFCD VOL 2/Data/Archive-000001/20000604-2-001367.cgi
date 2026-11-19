@@ -1,0 +1,5 @@
+A||||3||mshill||Yet another clutch pedal issue...||||11
+Z||000000||mshill||11-09-1999||04:54 PM||||After rebuilding my clutch master cylinder and having it leak worse than before, I found a type 2 master at the boneyard for $7 and threw it in with great success.<P>While attaching the banjo to the pedal I discovered what could be another reason to <BR>buy a new clutch pedal assembly every 100,000 miles or so.  It seems that the shaft on the pedal wears down where it contacts the banjo.  I looked at mine and estimated it had worn down between 1/16th and 3/32nds of an inch.  This can be pretty significant with already limited travel of the master/slave cylinders.<P>||||reg||11
+Z||000001||TOM||11-09-1999||07:07 PM||||What do you mean type 2||||reg||1
+Z||000002||theogre||11-09-1999||07:19 PM||||there are 2 diferant master cylinders. you can tell what one is what by how the reserve tank is attached. The type 2 ones are built better.||||reg||1
+Z||000003||TOM||11-09-1999||08:54 PM||||What is the difference to look for. I noticed that two different ones have the line at a different place. One has it fore and on has it aft of the resivour||||reg||1

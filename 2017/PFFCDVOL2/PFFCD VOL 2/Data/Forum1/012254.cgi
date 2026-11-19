@@ -1,0 +1,5 @@
+A||||3||MP5Na3||Will a wheelchair fit in a fiero's trunk?||||1||
+Z||000000||MP5Na3||11-28-2001||11:53 AM||||Just need to know if a standard wheel chair will fit when folded into a fiero's trunk.<P>Thanks<BR>||||reg||1
+Z||000001||1FST2M6||11-28-2001||12:08 PM||||nope.. a small quickie will .. tried it a moth or so ago.. then i got stuck driving the Broken Legs, friend's S/C Focus.. <P><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/1fst2m6sig_1.gif"> <P> <A HREF="http://www.1fst2m6.com" TARGET=_blank>www.1fst2m6.com</A>  - underconstruction - but check it out anywho...||||reg||1
+Z||000002||rogergarrison||11-28-2001||03:10 PM||||i cant even get a reg fold up chair in.||||reg||1
+Z||000003||Master_Sushi||11-28-2001||04:04 PM||||I think the more important question. Will a person that need to be in a wheelchair be able to get into a fiero  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">? God, I'd die if something happend to me and I couldn't drive  <IMG SRC="http://www.fiero.nl/forum/frown.gif">.||||reg||11

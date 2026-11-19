@@ -1,0 +1,2 @@
+A||||0||Wannabe||Silly question? Maybe not!||||1||
+Z||000000||Wannabe||12-08-2000||10:19 AM||||Ok, don't even ask why I'd like to know, but is the 3.4 TDC block exactly the same as the pushrod block? I understand that the camshaft  is replaced by a driveshaft for the oil pump, and that the distributor mounting boss is there, and that the timing chain area is basically the same, but are lifter holes there and machined? In the alternatice, is it possible to use the crankshaft, con rods and pistons in a 3.4 pushrod block? ||||reg||1

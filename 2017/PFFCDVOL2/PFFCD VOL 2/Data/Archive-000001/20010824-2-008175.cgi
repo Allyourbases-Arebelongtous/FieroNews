@@ -1,0 +1,7 @@
+A||||5||BroCar 87||2.5 out the top....16 hours????||||11||
+Z||000000||BroCar 87||01-31-2001||12:26 AM||||I read that a person took the fiero 2.5 out from the top and replaced it with a 2.5 in about 16 hours. Is this the right amount of time? It only takes about 3 to take it from the bottom right? Are there any shortcuts/cheats to get it out quicker.<BR>I have a 2.5 with the auto tranny.<BR>Thanks for any info or help.<BR>BroCar 87||||reg||11
+Z||000001||Got2manyfieros||01-31-2001||12:54 AM||||In my experience, with two people, dropping it out the bottom takes about 2 hours.<P>Advice:  Have at least one assistant that knows something about cars.  It is also helpful if you have a dolly that you can put the engine cradle on.<P>Good luck.||||reg||1
+Z||000002||GT Bastard||01-31-2001||05:39 AM||||I watched FIEROGOD do it himself in about 90 minutes or so...||||reg||1
+Z||000003||1FST2M6||01-31-2001||09:33 AM||||finace' and i can yank a V6 in 90min also.  (GT B's actually)||||reg||1
+Z||000004||DJRice||01-31-2001||12:24 PM||||I can do it in 3 hours by myself from the bottom.  <P>------------------<BR>Dillon<BR>Black '87 SE V6||||reg||1
+Z||000005||danny boy||02-01-2001||06:14 PM|||| I've done this so much I can have it out in an hour and a half by myself.Its way easier to drop everything out the bottom. Just make sure everything is loose and leave the strut assemblies on the car, just loosen the ball joints and pull the control arms out of the spindles. also, dont lose the plastic things that hook the wiring harness through the firewall.||||reg||1

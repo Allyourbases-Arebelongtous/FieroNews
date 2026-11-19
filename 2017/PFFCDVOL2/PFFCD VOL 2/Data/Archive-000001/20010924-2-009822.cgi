@@ -1,0 +1,5 @@
+A||||3||Jay||V6 tach with a V8?||||1||
+Z||000000||Jay||04-21-2001||09:18 AM||||My Fiero tach works with my Northstar but I believe it is only getting a signal from 6 cylenders.  It is off by about 1200 rpms when  I'm cruising.  At idle it is only slightly off.  Anyone know how to recalibrate the 6 cyl tach to read 8? Otherwise I'll just buy a new gauge.||||reg||1
+Z||000001||elfiero||04-21-2001||09:31 AM||||go to the fiero big book from pisa,there is<BR>two articles on how to modify your exsisting tach.I belive you change the primary resistor<BR>to.056mF<p>[This message has been edited by elfiero (edited 04-21-2001).]||||reg||1
+Z||000002||Jay||04-21-2001||09:43 AM||||That's what I thought but I didn't know the values.||||reg||1
+Z||000003||V8Fiero||04-21-2001||01:33 PM||||I just recalibrated mine the other day for my SBC. I used .049uf capacitor. It seems to be working fine. I know the other article said to use .0064uf. But mine seems to be working.<P>That fiero parts book paid for itself with that information.... <BR> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Scott||||reg||6

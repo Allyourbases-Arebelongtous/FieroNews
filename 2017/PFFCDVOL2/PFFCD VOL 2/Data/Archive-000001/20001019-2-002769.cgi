@@ -1,0 +1,5 @@
+A||||3||BAM-BAM||Dumb Question!!!||||11||
+Z||000000||BAM-BAM||03-19-2000||12:17 AM||||  Hey guys, I was wondering, is there a performance chip for an 85GT?  I would like to install one if it is available. Just a little sumpm-sumpm till I bore and stroke it.<BR> <IMG SRC="http://www.fiero.nl/forum/cool.gif"> I would appriciate any info y'all might have.<P> Thanx,BAM-BAM  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||11
+Z||000001||GT Bastard||03-19-2000||01:37 PM|||| <A HREF="http://www.fierostore.com" TARGET=_blank>www.fierostore.com</A>  <BR>go to the online catalog and select performance.  You'll see Hypertech chips there. The one for the 85 is listed as $99 bucks.  ouch!||||reg||3
+Z||000002||BAM-BAM||03-19-2000||01:53 PM||||  Hey GT, Which is better, the Street Runner or the Thermomaster? I'll get one, but I want the best one <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>  Thanx,BAM-BAM <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||10
+Z||000003||1FST2M6||03-19-2000||03:13 PM||||Had the ADS Strip chip in my car.. she still passed emissions and showed an increase on the dyno! (86 SE V6)||||reg||1

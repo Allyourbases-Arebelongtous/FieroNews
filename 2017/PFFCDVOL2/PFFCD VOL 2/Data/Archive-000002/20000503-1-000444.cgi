@@ -1,0 +1,4 @@
+A||||2||BENGAL4||Batboy and the ogre should visit Cincinnati||||14
+Z||000000||BENGAL4||10-20-1999||07:12 PM||||I was out and about this weekend and I seen a lovely sight. Two nice Fiero GT's and both of them were being driven by nice looking ladies. I tried to get phone numbers for you guys but my wife wouldn't let me. I pleaded and pleaded your case but to no avail. She said anyone that lived in a cave could find their own women. They were both pretty close to my home and I know I will see them while I am alone so I will give it a try then. ||||reg||14
+Z||000001||theogre||10-20-1999||08:36 PM||||  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> ||||reg||1
+Z||000002||batboy||10-20-1999||09:46 PM||||Wow! Thanks for looking out for us cave dwellers. It's been a while since I've been in that part of Ohio, but maybe it's time for a road trip. A sporty young lady in a sporty Fiero might be just the thing to help heal my broken heart.||||reg||12

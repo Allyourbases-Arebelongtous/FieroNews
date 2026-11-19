@@ -1,0 +1,8 @@
+A||N||6||bHooper||Anyone really good at critquing resume's?||||1||
+Z||000000||bHooper||02-28-2001||08:52 AM||||i am redoing my resume', lookng to make a possible career change, and wanted some additional input on my resume'<P>let me know and i will email it to you.<P>thanks!<BR>hoop<P>p.s.<BR>please, if your an amway rep, i'm not interested in that.  thanks anyway! ||||reg||1
+Z||000001||stimpy||02-28-2001||08:58 AM||||Hey hoop. I've worked for a large staffing firm and have looked at literally thousands of resumes. I'd be happy to check yours out and give some pointers. Unfortunately, being on webtv, I can't open any text files off of email, but if you email the resume regular-style, I'd be happy to check it out and shoot it back.<BR>j_stillwel66@webtv.net<P>(edited because d@mn cordless keyboard likes to miss keystrokes!)<p>[This message has been edited by stimpy (edited 02-28-2001).]||||reg||1
+Z||000002||bHooper||02-28-2001||09:16 AM||||stimpy, thanks!  you have mail.<P>hoop||||reg||1
+Z||000003||bHooper||02-28-2001||09:46 AM||||stimpy,<BR>i got a [i]mail return: user unknown{/i] message.  is this email address correct? <P>j_stillwel66@webtv.net||||reg||1
+Z||000004||stimpy||02-28-2001||10:29 AM||||Arrgh, I hate webtv! Damn cordless keyboard.<BR>Try j_stillwell66@webtv.net<BR>My profile has the email addy right.||||reg||1
+Z||000005||bHooper||02-28-2001||04:09 PM||||stimpy, thanks!<P>i have my spray bottle, squeege and intersection all picked out!<P>hoop||||reg||1
+Z||000006||LarryB||02-28-2001||05:08 PM||||I'll be glad to look at it and make comments if you forward it to me. <BR>||||reg||12

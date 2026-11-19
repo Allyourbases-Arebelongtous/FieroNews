@@ -1,0 +1,4 @@
+A||||2||stomper282||Shake, Rattle, and Roll ||||9||
+Z||000000||stomper282||02-02-2001||11:59 PM||||How do I get mu door's to stop rattling every time I hit bump??? I've checked for places to tighten them up at, and I'm stumped! Some one save me from the maddness!!!     <BR>           Mike||||reg||9
+Z||000001||1FieroGTRacingInc||02-03-2001||07:49 AM||||I might be wrong on this, BUT , I don't think I am thogh...  It may be your door pin's and their bushing's. You can pick those up at any auto part's place. It's not really hard at all. Someone will have to correct me if I'm wrong.  Good luck!<P>------------------<BR>1FieroGTRacingInc.||||reg||1
+Z||000002||theogre||02-03-2001||11:53 AM||||If the hinge pins are good then the latch is probably worn. the latcch can't be adjusted. The strike may be worn. that can be replaced easy. replacing the latches is a giant pain.||||reg||1

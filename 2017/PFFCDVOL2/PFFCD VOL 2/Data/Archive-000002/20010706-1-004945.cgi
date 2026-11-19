@@ -1,0 +1,7 @@
+A||N||5||Monkeyman||Need info on aftermarket vent||||5||
+Z||000000||Monkeyman||12-24-2000||12:18 AM||||I need some info (source, etc) on an aftermarket vent.  It's round and swivels, with a couple of flaps that can be raised.  I think it's the one on PISAs Ferarri dash.<P>Anyone know where I can get some??||||reg||5
+Z||000001||Pontiaddict||12-24-2000||01:59 AM||||Try the aftermarket A/C companies. <A HREF="http://www.vintageair.com/vintage.htm" TARGET=_blank>http://www.vintageair.com/vintage.htm</A> <BR>part no: 49355-VBQ    ||||reg||1
+Z||000002||Monkeyman||12-24-2000||07:17 AM||||Thanx.  There's one source although they don't do any direct e-commerce.  The nearest authorized dealer is too far for me to mess with.  I'll have to call them next week, though.<P>Any other suggestions while we're still here?||||reg||1
+Z||000003||Phil||12-24-2000||07:59 AM||||If you have a RV super center around they have all sorts of stuff like that. I got some just like you're describing 'cept the flaps don't raise, they're at about 45* and swivel||||reg||1
+Z||000004||Monkeyman||12-24-2000||08:07 AM||||Thanx, Phil, but no RV super center anywhere around my house.  I'll continue the search.||||reg||1
+Z||000005||Philphine||12-24-2000||10:32 AM||||mid 70's corvettes have two vents that are like eyeballs in a socket. might be able to find a couple on ebay or if your close enough to paoli ind. try steve hankins corvette sales (vette salvage). i don't know how you'd work out the socket part though.||||reg||1

@@ -1,0 +1,2 @@
+A||||0||Carrolles||Cliff:  Can't review message in reply screen.||||1||
+Z||000000||Carrolles||01-08-2001||01:35 PM||||Cliff,<P>While typing a reply to a message I used to be able to scroll down to see the original message.  I can't seem to do that anymore.  Am I missing something?<P>BTW,  Thanks for all your work on keeping this Forum going.<P>Thanks,<P>Carroll<P>Just wanted to bring this back to the top.<p>[This message has been edited by Carrolles (edited 01-10-2001).]||||reg||1

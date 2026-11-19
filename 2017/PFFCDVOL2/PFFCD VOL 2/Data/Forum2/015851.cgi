@@ -1,0 +1,6 @@
+A||||4||Rumor||HOOD DECAL||||5||
+Z||000000||Rumor||11-28-2001||12:53 AM||||Does anyone know where you can order a Fiero Hood decal? Does anyone make a repro?  THANKS!||||reg||5
+Z||000001||clayatandalusia||11-28-2001||12:57 AM|||| <A HREF="http://www.fierostore.com" TARGET=_blank>www.fierostore.com</A>  <P>84-85 FT FASCIA EMBLEM W/ NUT  <BR>  Part #: 50354  <BR>Price <BR>$22.95 <BR> <BR> <P><BR>86-88 FT FASCIA EMBLEM W/ NUT  <BR>  Part #: 50355  <BR>Price <BR>$22.95 <BR> <BR> 85-88 GT FT FASCIA EMBLEM  <BR>  Part #: 50356  <BR>Price <BR>$22.95 <BR> <BR> <P>||||reg||1
+Z||000002||Rumor||11-28-2001||01:08 AM||||I'm looking for the BIG decal that is goes on the front hood.  Thanks for the link though - I think I may have helped the fierostore add a room to their house the past week!||||reg||1
+Z||000003||Rumor||11-28-2001||01:54 AM||||Hey, I found them!<P>65 bucks, not too terrible...<P><BR> <A HREF="http://home.neo.rr.com/fieros/decal.htm" TARGET=_blank>http://home.neo.rr.com/fieros/decal.htm</A> ||||reg||1
+Z||000004||Fierobruiser||11-28-2001||11:59 PM||||Get them from Paul McCribben and sail panels and lots of other stuff at <A HREF="http://www.angelfire.com/biz/fierosails/" TARGET=_blank>http://www.angelfire.com/biz/fierosails/</A>  <P>------------------<BR>Notchbacks Rule<BR>85GT(show car)<BR>88Coupe (daily driver)<BR>84 Coupe(project car)||||reg||1

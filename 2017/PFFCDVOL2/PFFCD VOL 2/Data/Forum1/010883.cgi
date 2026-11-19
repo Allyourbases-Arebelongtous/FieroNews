@@ -1,0 +1,3 @@
+A||||1||Tabs||Tire Question||||5||
+Z||000000||Tabs||10-10-2001||07:33 PM||||How wide of a tire can I go with on the front of my Fiero.<P>I was think of going with 215's but I"m not sure if they would rub me wheel well when I turn.||||reg||5
+Z||000001||Fierowrecker||10-10-2001||07:38 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Tabs:<BR><B>How wide of a tire can I go with on the front of my Fiero.<P>I was think of going with 215's but I"m not sure if they would rub me wheel well when I turn.</B><HR></BLOCKQUOTE><P>Hey Tabs!<BR>First, measure the clearance of your present tire, then calculate the added width and see if you still have one inch min. clearance...<BR>crash...||||reg||1

@@ -1,0 +1,7 @@
+A||N||5||FieroSTETZ||well, did anyone ever record fiero sounds for me?||||1||
+Z||000000||FieroSTETZ||07-18-2000||03:29 PM||||didja, didja? huh? i got some promises!!!! please??? hehehe||||reg||1
+Z||000001||Standard||07-18-2000||04:51 PM||||I've been meaning to make a recording, I just have to get around to doing it!  When(if) I get it done I'll send you a copy!<P>------------------<BR>Mike -- Golden Valley, MN<BR>Black 86.5 GT 5 Spd, 147,000 miles and counting!  <IMG SRC="http://www.fiero.nl/uploads/BURNOUT.gif"> ||||reg||1
+Z||000002||overlord||07-18-2000||09:41 PM||||well ive got a WAV of my 4-banger...its got a glass packed muffler and tips...sounds  not too bad for a 4.<BR> <A HREF="http://www.geocities.com/motorcity/downs/2634/mycar.wav" TARGET=_blank>http://www.geocities.com/motorcity/downs/2634/mycar.wav</A> ||||reg||1
+Z||000003||Standard||07-19-2000||03:43 AM||||wow man, that doesn't even sound like a four...  sounds nice!||||reg||1
+Z||000004||overlord||07-19-2000||10:32 AM||||ya...its pretty loud too...but when crusing at 40-50 kph it sounds pretty cool....and then there is downshifting...first time i did that in town...someone told me they tghough it was some kind of race car coming...lol. My cousin calls it "the airplane"||||reg||1
+Z||000005||DJRice||07-19-2000||02:29 PM||||Cooter made a full blown video...look for the "Take a ride in the Cootermobile" thread.<P>------------------<BR>Dillon - Titusville, FL<BR>Black '87 SE V6<BR>"Matched Perfect and Staggered Special"||||reg||1

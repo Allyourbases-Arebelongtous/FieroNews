@@ -1,0 +1,11 @@
+A||||9||AL||strange temp gage||||1
+Z||000000||AL||11-06-1999||02:07 PM||||<BR>ok first i grounded the wires,they both work, second i changed sensors(two of them from gm)to see if it would work and nothing, i can't seem to get the gage to tell me at what temp the car is.any suggestions?also if this appears twice sorry.||||reg||1
+Z||000001||Lynx||11-06-1999||02:44 PM||||Make sure you are fixing the right temp sensor there is three.(ECM,Fan,Guage)||||reg||1
+Z||000002||AL||11-06-1999||07:22 PM||||ok i have a v6, the one for the gage is next to the intake,right?or what?||||reg||1
+Z||000003||Tim||11-07-1999||09:47 PM||||The sending unit for the gauge is next to the exhaust near the coil.||||reg||1
+Z||000004||AL||11-07-1999||10:13 PM||||that's the one i changed and nothing?||||reg||1
+Z||000005||sinoloa||11-08-1999||11:58 PM||||there's a temperature sensor and a temperature switch.  The fan switch will be located somewhere on one of the heads.  Check that.  ||||reg||7
+Z||000006||theogre||11-09-1999||01:20 AM||||Al,<P>Look for ground wires all over the block. check the thin one from the battery too.<P>clean all the grounds you find. repair or replace any that even look bad. Especially the braided main ground from the block to body. ((If it's a wire bolted directly to the block or the body then it's a ground.))<P>a flaky ground can throw off lots of things, including gauges. remember, gauge senders operate as "thermistors" with a direct path to ground thru the sender shell. If the ground from block to body, or bat to body, is cruddy then the gauges will be off.<P>Thermistor = THERMal resISTOR<BR>This is the standard electronics name for the thing.||||reg||1
+Z||000007||AL||11-10-1999||01:42 AM||||well i've checked all grounds, i even put my voltmeter and it all seems fine, i just can't seem to find the problem and i know it's under my nose.time to trace wires what a pain.||||reg||1
+Z||000008||Phil||11-10-1999||10:41 AM||||You say you grounded the wires and they both work. I assume you mean that the temp gage pegged and the idiot light came on. If that is not the case you're messing with the wrong sensor or bad wires/gage/sensor||||reg||1
+Z||000009||AL||11-11-1999||01:33 AM||||yes phil, i grounded and the light came on and the gage pegged, any ideas?||||reg||1

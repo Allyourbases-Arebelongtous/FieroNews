@@ -1,0 +1,3 @@
+A||||1||85seNUT||Can it be done?||||1||
+Z||000000||85seNUT||02-28-2001||01:48 AM||||Is there any type for performance intake for a fiero.  I have a 3.4 and i was wondering if they make performance intake for fiero's.  Does anyone know?||||reg||1
+Z||000001||Sleeper||02-28-2001||02:14 AM||||talk to Eric at West Coast Fiero  <A HREF="http://www.cwestco.com" TARGET=_blank>www.cwestco.com</A> <P>------------------<BR>85 GT<BR>17" Racing Hart C5 wheels, Kumho Ecsta Supra 712 tires, Intrax lowering spring, KYB shocks, KYB-GR2 struts, Chris West's Strut Tower Bar, J.E.T. super chip, Accel Super Coil, Accel Wires, K&N filter and Optima Battery.||||reg||1

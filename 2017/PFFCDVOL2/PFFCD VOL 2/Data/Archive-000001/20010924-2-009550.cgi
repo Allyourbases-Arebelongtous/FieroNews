@@ -1,0 +1,2 @@
+A||||0||Rodney||New fan switches are in!||||1||
+Z||000000||Rodney||04-10-2001||11:15 AM||||New fan switches have arrived. 210 on and 200 off. Use with<BR>the stock 195 degree thermostats. $19.00 each and $2.00<BR>shipping.<P>The OEM GM switches appear to be 240 on and 230 off. A<BR>bit on the high side!<P>Not on my web page yet but in stock.<P>Thanks,<BR>Rodney Dickman<BR>New web page! <A HREF="http://www.rodneydickman.com" TARGET=_blank>http://www.rodneydickman.com</A> <P>||||reg||1

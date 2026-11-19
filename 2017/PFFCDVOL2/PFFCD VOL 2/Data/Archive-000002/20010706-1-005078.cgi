@@ -1,0 +1,4 @@
+A||N||2||stimpy||Putt-Putt||||10||
+Z||000000||stimpy||01-04-2001||01:10 PM||||<BR>I saw this pic while srfing around and thought it was pretty funny. The ultimate mini-golf hole!<BR> <IMG SRC="http://www.execulink.com/~dmann/golf-fiero1.JPG"> <P>------------------<BR>Loud Pipes Save Lives!      <IMG SRC="http://www.fiero.nl/uploads/stimpy_sig.gif"> ||||reg||10
+Z||000001||TheFiero64||01-04-2001||02:15 PM||||I've seen that too. I wonder where that is?<P>------------------<BR>88 Coupe V6<BR>  <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif">  <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||1
+Z||000002||2xsess||01-04-2001||06:53 PM||||Never ceases to amaze me the versatility of these little gems. <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>||||reg||1

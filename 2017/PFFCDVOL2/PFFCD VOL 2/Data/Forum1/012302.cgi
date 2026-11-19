@@ -1,0 +1,4 @@
+A||||2||jimmybpei||Tigger , Calling Tigger||||1||
+Z||000000||jimmybpei||11-29-2001||06:22 PM||||Teigger check out your thread on signatures,<BR>need your help<P>Thanks<BR>jimmy B.||||reg||1
+Z||000001||Smoooooth GT||11-29-2001||06:46 PM|||| <IMG SRC="http://www.fiero.nl/uploads/Tigger.gif"> <BR>j/k..  I don't have photoshop, or I'de try for you..<P>------------------<BR>       <IMG SRC="http://www.fiero.nl/uploads/smooooothgtsig_9.gif">         <P>www.thefibersmith.com<BR>Technical Support (903) 825-7744 Steve<BR>Shaved door handles, sidetrim, exhaust outlet's, etc.... smooooth!!!||||reg||1
+Z||000002||Tigger||11-30-2001||01:34 AM||||Yep, saw your post.  Should have some time this weekend to sit down and make a sig.  Anyone else that wants a custom signature <A HREF="http://www.fiero.nl/forum/Forum1/HTML/012042.html" TARGET=_blank>click here</A>||||reg||1

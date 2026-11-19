@@ -1,0 +1,4 @@
+A||||2||86seyellow||Tina!||||1||
+Z||000000||86seyellow||12-05-2001||10:15 PM||||Tina,<P>Sure, I would be up for a trade. I got lots of Barry white cds you might want. But seriously, I can pretty much facilitate any of your furniture needs. Let me know ok<P>ROn<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/86seyellow_new1.JPG"> <BR>All Stock plus goodies||||reg||1
+Z||000001||Tina||12-05-2001||10:36 PM||||Could you do me a favor and e-mail me your #<P>Tina  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>BTW come join us in the chatroom ||||reg||1
+Z||000002||86seyellow||12-06-2001||08:41 AM||||TIna, here is my office number. ive been really busy . just leave a message if ya cant get a hold of me<BR>651-565-2757<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/86seyellow_new1.JPG"> <BR>All Stock plus goodies||||reg||1

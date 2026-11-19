@@ -1,0 +1,2 @@
+A||N||0||tgowens||Sunroof button......||||1||
+Z||000000||tgowens||07-02-2000||04:22 PM||||yeah, yeah, yeah - I know, we don't have electric sunroofs! -- Does anybody have one of the "button" fasteners from the top of a sunroof that they can part with? (and, maybe complete with the black torx head screw that mounts it?) I am missing one from the latch on my sunroof -- if you have one you can part with, email me at  <A HREF="mailto:terry@tgowens.com">terry@tgowens.com</A>  -- thanx.......||||reg||1

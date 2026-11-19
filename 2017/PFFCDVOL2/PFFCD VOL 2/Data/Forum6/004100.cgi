@@ -1,0 +1,5 @@
+A||||3||avengador1||More pictures just for the heck of it||||10||
+Z||000000||avengador1||11-04-2001||07:20 PM||||My cross drilled rotors. <IMG SRC="http://www.fiero.nl/uploads/Camer011.jpg"> <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||10
+Z||000001||avengador1||11-04-2001||07:21 PM||||and. <IMG SRC="http://www.fiero.nl/uploads/Camer012.jpg"> ||||reg||1
+Z||000002||TRiAD||11-05-2001||06:54 PM||||Damn!  <IMG SRC="http://www.fiero.nl/forum/eek.gif"><BR>What size are those BEAUTIFUL Modas?!<P>NiiiiiCE!<P>------------------<BR><B><I>Michael ~ triadtuning@hotmail.com</I></B><BR>-----------------<BR>      <IMG SRC="http://www.fiero.nl/uploads/88FieroGTwhitefscustomcroppedmini.jpg">   <IMG SRC="http://communities.msn.com/_Secure/0NgAlAL0S2vLvViYU9P7uloj72fLFTqfz59trng8I7AOG7hGCvfk6WP96n!gnOaEUAvooy1kUoWucv7BJ7L5EWg/temp-sig.gif">    <BR><I>Photoshop rendering of planned exterior modifications.</I>||||reg||1
+Z||000003||avengador1||11-05-2001||07:44 PM||||They are 17x7.5 Moda R6 with 215/45ZR17 Sumitomo HTR Z II's. Thank you <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

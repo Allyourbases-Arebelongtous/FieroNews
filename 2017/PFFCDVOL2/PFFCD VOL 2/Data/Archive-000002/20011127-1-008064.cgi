@@ -1,0 +1,2 @@
+A||||0||JSocha||Purple Pavement Eater...did it sell?||||5||
+Z||000000||JSocha||06-11-2001||11:05 AM||||Been kind of off the computer most of this weekend and am getting caught up on the gossip here as well as some of the auctions at Ebay I was following.<P>Just wondering, did the PPE ever sell?  If so, for how much?  Anyone got the link to the original PPE auction?<P>------------------<BR>     <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> ||||reg||5

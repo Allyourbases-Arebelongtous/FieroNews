@@ -1,0 +1,3 @@
+A||||1||fogglethorpe||the unholiday||||1||
+Z||000000||fogglethorpe||12-22-2001||03:43 PM||||endless planning<BR>horrendous expense<BR>we count the hours<BR>and wait in suspense<BR>for a fleeting moment<BR>for barely a glimpse<BR>of a fleeting intangible<BR>passing instance<BR>to end up with wrappings<BR>and trappings galore<BR>but nothing much lasting<BR>we've missed it once more  ||||reg||1
+Z||000001||Fierokid87||12-22-2001||03:50 PM||||good poem.  how did you come up with that?<P>Scott<P>------------------<BR><FONT COLOR="red"> Fierokid's  Web site:</FONT><BR><FONT COLOR="white">http://www.angelfire.com/sports/sfiero</FONT><P><FONT COLOR="blue">AIM: Fierokid87<BR>ICQ: Fierokid</FONT><P>  <IMG SRC="http://www.fiero.nl/uploads/fierokid.gif"> ||||reg||1

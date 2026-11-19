@@ -1,0 +1,4 @@
+A||||2||MCFIEROGUY||NO CHAT?||||5||
+Z||000000||MCFIEROGUY||09-06-2000||10:33 PM||||Hey I am a new guy and I was just wondering why no one uses the chat? I have checked every time I log on and it is always a ghost town. Whats up? Nothing to say or what?<P>------------------<BR>-Chris||||reg||5
+Z||000001||whamel||09-06-2000||10:47 PM||||Unfortunately I can only get to it when I'm at home since my firewall won't let me in at work.  But I was wondering - I remember a few years ago there was an IRC channel dealing with Fieros.  Is that still around?  I can get there through my shell account (kind of backwards way around I guess) at work, but unfortunately most web based chat programs get shut down for me during the day.<BR>Thanks,<BR>Wade||||reg||1
+Z||000002||MCFIEROGUY||09-07-2000||04:33 PM||||Anybody else ??||||reg||9

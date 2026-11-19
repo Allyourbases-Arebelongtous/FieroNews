@@ -1,0 +1,5 @@
+A||||3||fieroshop||Terry Got||||6||
+Z||000000||fieroshop||02-08-2001||10:54 PM||||Yesterday I installed the first hood kit on Terry's Blue 87 GT. Then I told him he had to finish the project and he went right to work.<BR>I guess I no longer have a one of a kind hood vent. We will be shipping as early as tomorrow.<BR>Let me know how you like the vent.<BR>My next project, is to make a similar side scoop on the car. Anybody interested, please let me know.<P>------------------<BR> <BR>       <IMG SRC="http://www.fiero.nl/uploads/fieroshop_sig_1.gif">  <p>[This message has been edited by fieroshop (edited 02-09-2001).]||||reg||6
+Z||000001||fieroshop||02-09-2001||12:25 AM||||Sorry, forgot to post the picture.<BR> <IMG SRC="http://www.fiero.nl/uploads/Terry.jpg"> <P>------------------<BR> <BR>      <IMG SRC="http://www.fiero.nl/uploads/fieroshop_sig_1.gif"> ||||reg||9
+Z||000002||tgowens||02-09-2001||12:36 AM||||uhhhhh, me! I'm interested!!!||||reg||1
+Z||000003||MontanaFiero||02-09-2001||01:04 AM||||OOh OOh, me tOO  <BR>Come on Rapid Refund!<P>------------------<BR>&gt;&gt; '87 Coupe 4 cyl, auto &lt;&lt;<BR>&gt;&gt; '86 SE V6, 4 speed- project &lt;&lt;||||reg||1

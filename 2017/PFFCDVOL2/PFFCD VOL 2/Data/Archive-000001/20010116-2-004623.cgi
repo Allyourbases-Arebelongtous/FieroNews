@@ -1,0 +1,4 @@
+A||N||2||SloPonti||The wierd humming noise at 40 to 60 MPH is solvesd!!||||14||
+Z||000000||SloPonti||07-06-2000||12:12 AM||||as some of you might no that i reported a wierd humming noise that was very loud at speeds of 40 to 60 MPH. i had just put new tires on and had an alighnment done but that did not fix it-so i replace the passenger  side rear wheel bearing and it solved the problem! now just a nice quite ride! the reason i replaced just the passenger one because that seemed to be were the sound was coming from! i plan to replace the drivers side next week! hope this helps someone!<BR>thanks<BR>Rob||||reg||14
+Z||000001||Old Lar||07-06-2000||06:05 AM||||Glad you posted the solution.   Knowledge is power.||||reg||10
+Z||000002||wxxo||07-06-2000||04:01 PM||||...and ignorance is bliss haha. i got the same problem but i think that mine is caused by a siezed caliper. ||||reg||1

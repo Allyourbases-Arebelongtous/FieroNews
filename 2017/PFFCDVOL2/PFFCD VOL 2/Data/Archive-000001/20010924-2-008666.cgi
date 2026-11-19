@@ -1,0 +1,6 @@
+A||||4||pontiacs4me||Fiero weight?||||1||
+Z||000000||pontiacs4me||02-27-2001||08:41 PM||||How much do you guys estimate a 87 fiero with the v-6 weighs?  All the AC equipment will be removed.  Any ideas, has anyone weighed theirs?||||reg||1
+Z||000001||Ed||02-27-2001||09:37 PM||||My reference book says the '87 GT's curb weight is 2708.  There should be some archival material on the weight question.  ||||reg||1
+Z||000002||FieroJoe||02-27-2001||09:47 PM||||That reference book say anything about a 87 coupe with AC?<P>Tried search before, didnt find what I was looking for.<P>------------------<BR>AIM: Snowboarder0311<BR>87 Coupe 5sp. - big resto in progress<BR>  <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1
+Z||000003||862M4inCA||02-28-2001||03:07 AM|||| <A HREF="http://www.fiero.nl/forum/Forum2/HTML/006519.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/006519.html</A>  Check this out....has some Fiero weight info.||||reg||1
+Z||000004||AusFiero||02-28-2001||05:25 PM||||In Australia we have to have our car weight on our registration papers.<BR>My 86 Fiero GT Fastback is listed at 1154 kgs without the air conditioning compressor.<BR>Bear in mind though my car has t-tops so this has probably added a few kilos to the equation.<P>Cheers<BR>Jim<P>||||reg||14

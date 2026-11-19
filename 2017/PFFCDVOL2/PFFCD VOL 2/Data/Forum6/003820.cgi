@@ -1,0 +1,2 @@
+A||||0||isthiswhereiputausername?||osama (adult humor content)||||1||
+Z||000000||isthiswhereiputausername?||10-17-2001||09:39 AM|||| <A HREF="http://www.****osama.com/humor/images/humor_100301f.gif" TARGET=_blank>http://www.****osama.com/humor/images/humor_100301f.gif</A> <P> <A HREF="http://www.fu****ckosama.com/humor/images/humor_100301f.gif" TARGET=_blank>http://www.fu****ckosama.com/humor/images/humor_100301f.gif</A> <P>(remove astericks)<P><p>[This message has been edited by isthiswhereiputausername? (edited 10-17-2001).]||||reg||1

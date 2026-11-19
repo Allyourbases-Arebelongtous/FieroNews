@@ -1,0 +1,2 @@
+A||||0||Richard Parnell||Rea wheel weel Flare||||5||
+Z||000000||Richard Parnell||12-03-1999||06:02 PM||||Ok, ok . I should have put this topic in this section instead of the chat.  So whip me with an old Fiero wiring harness, ouch.<BR>Does anyone know of a kit or method to make a flare for the rear wheelwell of a Fiero? I would like to make the wheelwell opening look smaller and have a slight flare like the front wheel wells of my 87 SC. Also that way I could put much wider tires on the back. But mostly it's to get the look of the rear well to not be so large. ||||reg||5

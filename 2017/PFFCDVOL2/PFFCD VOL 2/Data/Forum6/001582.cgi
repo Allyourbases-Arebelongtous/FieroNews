@@ -1,0 +1,2 @@
+A||||0||JohnnyK||A plan!||||1||
+Z||000000||JohnnyK||03-05-2001||11:17 PM||||I think this would be entertaining. One day, we get 100 or so of us to storm the #cars channel and praise Fiero's... Man it would get hilarious.. (Don't get me wrong.. I like the guys in tehre. They just have a problem with Fiero's). I think it would be damn funny!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

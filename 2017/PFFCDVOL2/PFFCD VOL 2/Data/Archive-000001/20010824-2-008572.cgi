@@ -1,0 +1,3 @@
+A||N||1||Elenor84||Rebuild Kits||||1||
+Z||000000||Elenor84||02-22-2001||04:49 PM||||Hey guys...I drive a 84 4 cylinder duke...I want to buy a rebuild kit for the engine or a tune up kit...just wanting to spend about 150 canadian...u know the basic's like plugs wires...etc etc<BR>TIA<P>------------------<BR>Lance<BR>Click Image to go to site.<BR><A HREF="http://members.nbci.com/_XMCM/lancegspage/Index.html" TARGET=_blank> <IMG SRC="http://www.fiero.nl/uploads/Side1.jpg"> </A>||||reg||1
+Z||000001||Tigger||02-23-2001||09:43 AM||||Other quick things to check is to test the EGR valve and check to see if the PCV valve rattles.||||reg||1

@@ -1,0 +1,7 @@
+A||||5||JBGehling||South Carolina Fieros?||||5||
+Z||000000||JBGehling||10-07-2000||07:47 PM||||Is anyone here from SC?||||reg||5
+Z||000001||DjKid||10-07-2000||10:30 PM||||Shortened Extended leave over, I hope!  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>ummm.. I'm from right on the NC/SC border.. in area of the rockingham dragway.. visit the Carolina Fiero's website, the link is at the bottom of the page in my sigline. And Welcome to the forum!<P>------------------<BR>Ray - Blue 88 Coupe - <A HREF="http://blueknight.carolinafieros.com" TARGET=_blank>My Blue Knight</A> - <A HREF="http://www.carolinafieros.com" TARGET=_blank> Carolina Fieros</A>||||reg||1
+Z||000002||gkozlov||10-08-2000||12:21 AM||||I currently live in Huntsville, Alabama but I am from Columbia. <P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/sign1_3.jpg">   <BR><A HREF="http://g.kozlov.tripod.com/gkozlov.htm" TARGET=_blank>GKozlovs Fiero Site</A><p>[This message has been edited by gkozlov (edited 10-08-2000).]||||reg||1
+Z||000003||zeusrekning||10-08-2000||07:43 PM||||If anyone from the carolinas wants to give me there email addressi plan on sending out some ifo soon. been spending time finding old post with carolinians in them.||||reg||1
+Z||000004||MCFIEROGUY||10-08-2000||09:27 PM||||Went to bootcamp in South Carolina but I live in Maryland now.||||reg||1
+Z||000005||2xsess||10-08-2000||11:57 PM||||I live near Savannah,GA, only an hour to SC border.<P>------------------<BR>Jeff<BR>85GT||||reg||1

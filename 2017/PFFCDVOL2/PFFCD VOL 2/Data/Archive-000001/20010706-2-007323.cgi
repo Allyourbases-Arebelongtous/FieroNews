@@ -1,0 +1,8 @@
+A||||6||Stoic||tread depth?||||5||
+Z||000000||Stoic||12-13-2000||11:06 PM||||Anyone now know the specific tread depth measurement on your tires that you need to pass a safety?||||reg||5
+Z||000001||Mark||12-13-2000||11:14 PM||||In Pennsylvania, 2/32 inch minimum.||||reg||1
+Z||000002||Stoic||12-13-2000||11:53 PM||||damn, thats not very much.||||reg||1
+Z||000003||DrRodey||12-14-2000||10:15 AM||||What they do here is take a Penny, turn it upside down and place it in the grove... If you can see the top of Lincolns head... thats a fail.. if you can't that passes<BR>.<p>[This message has been edited by DrRodey (edited 12-14-2000).]||||reg||1
+Z||000004||ChadMan||12-14-2000||10:41 AM||||Now here's a question for you...does there have to be enough tread across the entire tire to cover Lincoln's head?  Or just in the center?<P>My dad's spare car ('78 Caprice) has front tires that are nearly bald at the outer edges, but still have quite a bit of tread in the center.  He deals with it by not driving fast around corners in the rain.   <IMG SRC="http://www.fiero.nl/forum/eek.gif">||||reg||5
+Z||000005||zeusrekning||12-14-2000||07:23 PM||||i always thought it was 52/416ths?<BR>I failed fractions in preschool.<BR>No seriously i thought it was 1/8 here.<BR>||||reg||1
+Z||000006||KissMySSFiero||12-14-2000||09:55 PM||||hey zeusrekning dont feel bad about the fractions.  there are three kinds of people in this world.  those who can count and those who cant.   anyways.  in fla you need 2/32's too. <BR><P>------------------<BR>JOEJOE  88FORMULA<BR>KissMySSFiero@netzero.net<BR>   <IMG SRC="http://www.fiero.nl/uploads/FORUMSIG1.jpg"> ||||reg||10

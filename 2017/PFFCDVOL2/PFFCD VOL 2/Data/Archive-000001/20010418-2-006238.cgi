@@ -1,0 +1,4 @@
+A||N||2||86SEFIERO||did they make 86 fieros with sport written on trunk lid||||1||
+Z||000000||86SEFIERO||10-16-2000||01:10 AM||||<BR>My brother scene an 86 fiero 4cyl that had a sport decal on the rear trunklid where the decals for the model name goes? Did they make a so called fiero sport with different options then the sports coupe or are they the same thing?||||reg||1
+Z||000001||Monkeyman||10-16-2000||04:31 AM||||No "Sport" produced by Pontiac and there weren't any "Sport" logos on the back.    Nothing that said "Sports Coupe", either.  Only rear decklid sticker choices in '86 were:  2M4, 2M6 and GT.  I have an '86 SC (sports coupe) and it says 2M4 on the back.||||reg||1
+Z||000002||theogre||10-16-2000||10:53 AM||||My 87 SC has "sport" reverse cut into a wide stripe on the bottom of the door. Never heard of it on the deck lid. Mine just says Fiero like all the other 87's.||||reg||1

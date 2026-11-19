@@ -1,0 +1,3 @@
+A||||1||Jaei Sun||Anyone here a Transformers Nut?||||14||
+Z||000000||Jaei Sun||10-18-2001||11:47 PM||||Man I love those toys and the cartoons rocked.  Anyone have the Fiero Figure/Character?  The name is Punch/Counterpunch, the Double-Spy.<P> <IMG SRC="http://www.pontiacfiero.com/FieroToyBox/Images/03.jpg"> <P>------------------<BR>     <IMG SRC="http://home.mn.rr.com/fierojaei/trans_fiero_sig2.gif"> ||||reg||14
+Z||000001||West Coast Fiero||10-19-2001||12:17 AM||||AHhh - how much for one - how much for one?!?!?!?!??!<P>------------------<BR>Technician, West Coast Fiero<BR>www.cwestco.com<BR>310-305-4111||||reg||1

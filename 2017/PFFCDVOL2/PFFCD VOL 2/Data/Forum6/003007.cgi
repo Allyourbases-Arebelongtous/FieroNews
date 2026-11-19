@@ -1,0 +1,3 @@
+A||N||1||trigger||bell housing to bolt a 425 olds to a 4spd muncie||||1||
+Z||000000||trigger||08-17-2001||01:40 PM||||Does anybody know where I can find a bell housing that will mount a 4 spd muncie up to a 425 olds?  Thanks.<P>------------------<BR>Honestly officer, I was just keeping up with the flow of traffic.  I know there aren't any cars in the area, that's how far behind I am.<BR> <IMG SRC="http://www.fiero.nl/uploads/Trigger.gif"> ||||reg||1
+Z||000001||TONY_C||08-17-2001||02:16 PM||||jegs or summit has an adapter plate to mount a Buick-Olds_pontiac engine to a Chevy bellhousing or vise versa.  i believe it is made by TCI and it sells for about $50.||||reg||1

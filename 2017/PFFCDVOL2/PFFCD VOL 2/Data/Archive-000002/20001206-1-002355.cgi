@@ -1,0 +1,3 @@
+A||||1||redfiero||A/C Conversion||||1||
+Z||000000||redfiero||05-29-2000||10:50 AM||||Well guys....I did it!  I went to Kmart and bought the R12 to R134a conversion/recharge kit.  I installed it this morning.<P>I bought my car last September.  Knew that the A/C didn't work when I bought it.  I figured that for $30 its worth it to see if it works or not.  Only took about 15 minutes to install.  Its cool here this morning so its hard to tell if its working or not.  It's supposed to hit 90 this week.  I'll update the forum as soon as I find out how it works!<P>matt||||reg||1
+Z||000001||theogre||05-29-2000||12:06 PM||||15 minutes? Takes an hour at least to fully pump down the system and boil out all the water and R12.||||reg||1

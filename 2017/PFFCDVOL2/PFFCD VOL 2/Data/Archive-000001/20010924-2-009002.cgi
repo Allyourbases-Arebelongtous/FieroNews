@@ -1,0 +1,6 @@
+A||||4||fierose||Passenger side mirror compatibility||||1||
+Z||000000||fierose||03-17-2001||01:54 PM||||I just bought a passenger mirror from an 84.  Is this compatible with an 85 2m4?<P>Also, anyone that has done this before is there any tips you might have on changing them.  I clipped a dodge ram at an intersection and actually hit his tire with my mirror.  ||||reg||1
+Z||000001||KRMFiero||03-17-2001||01:56 PM||||as far as i know they are the same||||reg||1
+Z||000002||retrostudd||03-17-2001||11:03 PM||||ive never had any problems changing parts from one fiero to another, of any year but that doesnt mean they will all work. I think the mirror being such a basic item shouldnt be a problem||||reg||1
+Z||000003||danny boy||03-18-2001||02:09 AM|||| I have an 87 Gt. I got a mirror out of a junkyard for the passenger side and the plugs were different Don't know what year the mirror was. If they're not power, they're all the same.||||reg||1
+Z||000004||theogre||03-18-2001||01:38 PM||||Not hard to fix but time consuming. I usually pull the interior skin off to get more room. Physically I think they are all the same. Electrically I couldn't tell you. You can move the mirror guts from one shell to another and patch up the wire if need be.||||reg||1

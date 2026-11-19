@@ -1,0 +1,2 @@
+A||N||0||ur2biteme||my site finally got updated.  ||||7||
+Z||000000||ur2biteme||12-20-2000||05:08 AM||||well, pretty much the same old pics, but a much better looking site.  had to do something to quench the fiero bug while my car was in the shop, anxiously awaiting a package from colorado (thanks mrfiero).  <P>anyways, the site is <A HREF="http://members.fortunecity.com/ur2biteme/index.htm" TARGET=_blank>http://members.fortunecity.com/ur2biteme/index.htm</A> <P>------------------<BR>UR2BITEME<BR>'87 econo coupe<BR>170k and a bad fender :(||||reg||7

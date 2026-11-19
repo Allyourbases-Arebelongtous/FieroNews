@@ -1,0 +1,6 @@
+A||||4||hefty||testing oil press. gauge||||5
+Z||000000||hefty||10-17-1999||06:15 PM||||The oil press. gauge on my '87 GT pegs all the way to the right, it doesn't come down any while the car is running. The car runs great and oil level is fine. Any test I can do to figure out what to replace ? ||||reg||5
+Z||000001||fiero56||10-17-1999||06:55 PM||||I suggest replacing the oil pressure sending unit before trying anything else.  Fairly cheap to replace and not all that difficult to get to.  As I recall, it is just below and to the left of the battery.||||reg||1
+Z||000002||88 Fiero||10-17-1999||08:25 PM||||I agree with fiero56...replace the oil pressure sending unit...that can be the culprit....||||reg||1
+Z||000003||fiero56||10-17-1999||10:55 PM||||hey hey,<BR>Someone agrees with me. I gotta' be doing something right.  Now Ogre's gonna' get on later and blow me away with his perfect answers.  Happens every time, but now I have a follower.  He'll be going against the flow. <IMG SRC="http://www.fiero.nl/forum/smile.gif">  Fiero56 prevails...||||reg||10
+Z||000004||GWMORGAN||10-18-1999||03:00 AM||||I had the same problem with my 86GT and changing the oil pressure sending unit had it corrected.||||reg||1

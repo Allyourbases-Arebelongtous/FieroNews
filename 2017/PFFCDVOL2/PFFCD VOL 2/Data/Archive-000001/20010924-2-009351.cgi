@@ -1,0 +1,4 @@
+A||||2||fierobob88||budget build up||||3||
+Z||000000||fierobob88||04-02-2001||02:31 AM||||So I am looking to get some aftermarket parts for my '88 fiero (good ole iron duke)...I am on somewhat of a budget, but am looking for exhausts, springs or other suspension parts, and intakes as well.  Can somebody give me some advice. I find it hard to actually find the parts for my car that I want.  Thanks! Any advise is welcome||||reg||3
+Z||000001||gearhead313||04-02-2001||11:57 AM|||| <A HREF="http://www.fierostore.com" TARGET=_blank>www.fierostore.com</A> ||||reg||1
+Z||000002||danny boy||04-02-2001||08:19 PM|||| I've never seen the Fiero Store and cheap used together.When I had my 86 Duke I got a few things from Summit Racing that was reasonable.I<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/PFF_sig_2.jpg"> ||||reg||1

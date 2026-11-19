@@ -1,0 +1,8 @@
+A||||6||ig88vsbobafett||My 84 4speed tranny has a dip stick ????||||1||
+Z||000000||ig88vsbobafett||12-06-2001||08:25 PM||||My cluch just blew and i was looking at the tranny and saw it had a dip stick (My haynes manual said only 87/88 had dip sticks on the manuals ??? and any one know a aprox time to drop the moter ?? thanks ||||reg||1
+Z||000001||85 gt fiero||12-06-2001||08:38 PM||||maybe 3.5-9 hours depending on if you have ever dropped a fiero motor before, about the dip stick i say someone somehow swapped trannys.  randy<P>------------------<BR>RALLY CAR, FULL ROLL CAGE, SKID PLATES AND SOON TO BE BRIGHT YELLOW||||reg||1
+Z||000002||ig88vsbobafett||12-06-2001||08:43 PM||||Ok how do i tell what year trany i have i need to buy i new cluch mine just blew up or somthing i pushed in the cluch comming of the high way ramp put it in 2nd and POW (I never let of  the cluch when i put it in 2nd)||||reg||1
+Z||000003||fieroman_5000||12-07-2001||07:45 AM||||My '84 SE Auto also has a dipstick! Cool! Maybe the Haynes manual had a typo? Anywayz...just my .02<P>Fieroman <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||10
+Z||000004||johnt671||12-07-2001||07:52 AM||||I have an 84 SE with a 4:10 4 spd.  I don't have a dipstick, I have the fill plug on the side.||||reg||1
+Z||000005||Banzai||12-08-2001||09:02 AM||||I also have an 84' 4 speed 4:10-------no dipstick.<P>Banzai !!!!!!!||||reg||1
+Z||000006||85 gt fiero||12-08-2001||09:11 AM||||yah my old 84 tranny didnt have a dipstick, i still think you may have had a tranny swap or maybe a typo in haynes(theres been a lot).<P>------------------<BR>RALLY CAR, FULL ROLL CAGE, SKID PLATES AND SOON TO BE BRIGHT YELLOW||||reg||1

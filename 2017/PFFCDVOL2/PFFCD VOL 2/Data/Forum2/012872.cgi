@@ -1,0 +1,4 @@
+A||||2||DaveL||MAT Sensor Question||||6||
+Z||000000||DaveL||08-17-2001||08:00 AM||||I'd like to know if a faulty MAT sensor can contribute to engine knock. When I first got my 87 2.5 SE, I sprayed everything in sight under the hood with carb cleaner and ended up replacing several sensors because of it. Haven't replaced this one yet although it looks easy.<P>A friend just picked up an 87 with a 2.5 for $1000 and its the smoothest quietest 4 pop I've ever heard. When I quit drooling, I'm gonna try to buy it from him because I am in need of a 2.5 so the lawn can start growing in that special corner of my yard.......||||reg||6
+Z||000001||rogergarrison||08-17-2001||11:04 AM||||oops<p>[This message has been edited by rogergarrison (edited 08-17-2001).]||||reg||1
+Z||000002||theogre||08-17-2001||08:09 PM||||MAT could be part of knock. Just what else have you replaced?<P>Just when is it knocking? ||||reg||1

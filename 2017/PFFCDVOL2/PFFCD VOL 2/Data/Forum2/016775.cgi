@@ -1,0 +1,2 @@
+A||||0||ig88vsbobafett||NEED HELP  "Pick N PUll" Salvage yard ||||1||
+Z||000000||ig88vsbobafett||12-29-2001||01:06 PM||||Ok i found a 4 speed in a 84 claviler Will that work in my fiero (Is it the same trannay)<P>And i found a 3.1 in a cutlass supream (Late 80s or early 90s cant rember he said i could have both for $400 What i needed to change it to a 3.1 over a 2.5 can i take the moter mounts from the cutlass ??? or do i need ones from the fiero store ????<P>||||reg||1

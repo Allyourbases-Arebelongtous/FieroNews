@@ -1,0 +1,27 @@
+A||N||25||rockcrawl||3800SC color scheme, take a look||||1||
+Z||000000||rockcrawl||03-25-2001||08:01 PM||||Check out the paint job on this engine. Let me know what you think. It's not mine and I didn't paint it, I'm doing the conversion for someone else. The colors match the car.<BR> <IMG SRC="http://www.fiero.nl/uploads/DCP01013.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/DCP01019.jpg"> <P>------------------<BR>Jon Lagler<BR>'87 GT<BR>4.9 liter V8 Testarossa Spyder (under construction)<BR> <IMG SRC="http://www.fiero.nl/uploads/rockcrawlsig.jpg"> ||||reg||1
+Z||000001||Mi Junk||03-25-2001||08:05 PM||||YUCK!<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/85_sig_2.jpg"> ||||reg||13
+Z||000002||Slammed Fiero||03-25-2001||08:18 PM||||is that the car that says mountian dew all over it ?? Lime green??<P>as for the colour ..to each his own<P>JM||||reg||1
+Z||000003||pherder||03-25-2001||08:31 PM||||Two words ...<P><B>JOHN DEERE</B><P><BR> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Paul<P>------------------<BR>88 Formula<BR>88 Coupe<BR>86 SE<BR>95 GMC<BR>92 Mazda<BR>55 Jones<BR>Sedgwick, KS 67135<BR>pherder@kscable.com||||reg||6
+Z||000004||85Josh||03-25-2001||08:33 PM||||OWWW! MY EYES! I like they grey, though.||||reg||1
+Z||000005||rogergarrison||03-25-2001||08:50 PM||||is he gonna use it to cut grass?||||reg||1
+Z||000006||AkursedX||03-25-2001||08:58 PM||||Well.....it's kinda sad to say it...but, I actually like it, although I'm not sure why.<P>Colors aside, that's a really cool idea to have a engine painted like that to match the car  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||7
+Z||000007||rockcrawl||03-25-2001||09:00 PM||||OK guys, just remember those colors weren't my idea. I prefer a black engine with a silver blower.<P>Hey, you know what they say, nothing runs like a Deere. My dad restores old JDs and I don't even think he likes it.||||reg||1
+Z||000008||Cooter||03-25-2001||09:02 PM||||So, that's what it would look like if Walt Disney threw up.||||reg||1
+Z||000009||fieroparts.com||03-25-2001||09:12 PM||||Not bad!||||reg||14
+Z||000010||terryk||03-25-2001||10:22 PM||||Disinfectant green. Colorful.....||||reg||1
+Z||000011||MooCow||03-25-2001||10:48 PM||||I like the idea but not the colors. Yea pherder your right it does remind me of john deer. hehe<BR>  By the way what kind of paint would you use to do that with?  I want to make my engine the same color as my car.<P>                                Thanks Ken<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/kensig_1.jpg"> <BR>87 GT, 3.4 engine with a 4:10 tranny.  Soon will be Viper Yellow!||||reg||1
+Z||000012||Spyder||03-25-2001||10:53 PM||||I love it and I hate it!<BR>Looks good, but not in my car.||||reg||1
+Z||000013||Fearless Freep||03-25-2001||10:54 PM||||John Deere right?||||reg||1
+Z||000014||Alex2004||03-25-2001||10:55 PM||||That is really awesome!!!!||||reg||10
+Z||000015||Standard||03-25-2001||11:55 PM||||hmmmmm... I don't think I want to know what the car is gonna look like if that paint scheme is supposed to match it  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <IMG SRC="http://www.fiero.nl/forum/tongue.gif">||||reg||1
+Z||000016||Formula88||03-26-2001||01:18 AM||||Ewww!||||reg||1
+Z||000017||rogergarrison||03-26-2001||07:04 AM||||PLEEZZZZZZZEE dont tell us hes going to put yellow and dayglow green wire loom on everything too.......to match!!!!!!!!!||||reg||1
+Z||000018||rockcrawl||03-26-2001||08:15 AM||||I'll post some pics of the car as soon as I get a chance to get them. It will be a pleasant surprise to most of you I think. The car is primarily green with airbrushing covering very much of the car. I think it looks awesome. The engine will look nice in that car. You should see it at Carlisle this year.<BR> The green is Grabber Green from Eastwood. I think it's made by Duplicolor. The Yellow is the same paint, but I forget the name of the color.||||reg||1
+Z||000019||Cheever2||03-26-2001||09:59 AM||||Aside from the color, it's CLEAN!  That's why I like it.  Doesn't (much) matter what color it is if it stays looking that nice.<BR>||||reg||6
+Z||000020||Tigger||03-26-2001||10:15 AM||||Yep, agree, not my choice of colors, but it's very nicely detailed.  ||||reg||1
+Z||000021||Eric_PA||03-26-2001||01:18 PM||||The colors are different. Wouldn't hesitate to trade that for my 2.8, could deal with it that way. John, I take it that it belongs to a local? Was going to ask for advice on how to run the exhaust off of such a setup with the 3.8. Maybe when I get to that point I could get some help from you. It's going to be a while until I finish rebuilding the 3.8, but hopefully by the middle of the Summer.<P>Eric||||reg||1
+Z||000022||LZeitgeist||03-26-2001||01:37 PM||||Errrrrrrrrmmm... no.<P><BR>||||reg||1
+Z||000023||DJRice||03-26-2001||10:18 PM||||Yep, definitely not good looking.  He doesnt want that engine.  Why dont I stop by there and relieve you of it?<P>Whats the address?<P>Very meticulous.  Not my choice of colors, but I like it.  Especially those extra cylinders...<P>------------------<BR>Dillon<BR>Black '87 SE V6<P>"Who wants somma Debo?"||||reg||1
+Z||000024||ToddAsh||03-26-2001||11:12 PM|||| It needs a little orange so it looks like a bucket of sherbert.Probably look Great in car though.Wish I had the time and patience.||||reg||1
+Z||000025||SWTKSTMS||03-27-2001||05:02 AM||||good detail, bad colors. but i would like to see the pics after it gets all done. ||||reg||1

@@ -1,0 +1,4 @@
+A||||2||88 Fiero GT Turbo||need help||||5||
+Z||000000||88 Fiero GT Turbo||08-13-2000||01:47 AM||||I need to know if I swap from a 2.8 to 3.4 what that I can use off the 2.8 and what I need to get for the 3.4.<P>Thanks for all your help<P>Later,<BR>Jack||||reg||5
+Z||000001||Carrolles||08-14-2000||09:01 AM||||Check out Ed Parks' site on the swap.<BR> <A HREF="http://www.angelfire.com/on/fierofactory/start.html#34" TARGET=_blank>http://www.angelfire.com/on/fierofactory/start.html#34</A> <P>Good luck,<P>Carroll||||reg||1
+Z||000002||Carrolles||08-14-2000||09:23 AM||||Take a look at Ed Parks' site for 2.8 to 3.4 swap info.<BR> <A HREF="http://www.angelfire.com/on/fierofactory/start.html#34" TARGET=_blank>http://www.angelfire.com/on/fierofactory/start.html#34</A> <P>Good luck,<P>Carroll||||reg||1

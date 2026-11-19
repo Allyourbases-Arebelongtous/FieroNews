@@ -1,0 +1,4 @@
+A||||2||fierocd||lower intake manifold mounting question||||5||
+Z||000000||fierocd||08-11-2001||11:34 AM||||I just finished rebuilding my 2.8 and I am down to puting the intake manifolds on.  When I went to put the lower intake on, it sits about 1/8-1/4 inch off the engine block.  I wanted to know if this is normal and if I should just put some extra RTV sealant on to seal it.||||reg||5
+Z||000001||PBJ||08-11-2001||12:36 PM||||along the block between the heads (v6) you run a beed of silicone but the gap there is alot less then what you are having-sounds to me like something is hanging up.||||reg||1
+Z||000002||rogergarrison||08-11-2001||07:02 PM||||If you had the heads milled during rebuild, you may have to have them decked to match the intake again. But my guess is something is just hanging it up too.||||reg||1

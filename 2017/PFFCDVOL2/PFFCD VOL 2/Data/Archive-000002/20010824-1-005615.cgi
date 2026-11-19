@@ -1,0 +1,2 @@
+A||||0||Bluebottlejunky||Fiero Picture Site||||4||
+Z||000000||Bluebottlejunky||02-04-2001||02:01 AM||||Hello,<BR>     I'm starting a Mega Fiero Picture Site..and I would like as many pictures of all the Forum members car's..any year/any style.  Would like .Gif or .Jpg's, I will add your e-mail/Name to let people know who owns that great Fiero(if you want)!  Please send the Pictures to Bluebottlejunky@cs.com <BR>Thank You<BR>Mike<BR>Got Fiero?||||reg||4

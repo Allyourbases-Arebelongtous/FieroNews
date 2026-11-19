@@ -1,0 +1,4 @@
+A||||2||Gokart||Would it do any good if I.........||||5||
+Z||000000||Gokart||03-24-2000||08:01 PM||||....started putting Liquid wrench on the exhaust manifold bolts when I come home from work every night. It's non-flammable, but if I kept it on the road to go back and forth to work would it not make any difference in having an easier time loosening them? I'm sending Tom the manifolds from my parts car and he will port/weld them and was hoping in the meantime I could do something about making those pesky bolts come out easier!||||reg||5
+Z||000001||Phaeton||03-24-2000||11:22 PM||||Heat valve lubricant is also a penetrating oil, and it is designed for Hi-Temp.  But what if they loosen up and fall out?||||reg||12
+Z||000002||Gokart||03-25-2000||05:29 AM||||Good point Phaeton! I'm going to take that chance considering it would be more likely to break off one of these bolts when I do the swap. Is Liquid wrench a heat valve lubricant that withstand the heat?||||reg||1

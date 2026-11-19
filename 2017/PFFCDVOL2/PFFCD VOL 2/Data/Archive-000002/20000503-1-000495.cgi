@@ -1,0 +1,8 @@
+A||||6||Scott2M4||Fiero pictures for PC wallpaper||||5
+Z||000000||Scott2M4||11-02-1999||11:44 AM||||Hey, folks.  Who's got some good (and large) pictures they could send me for use as wallpaper on my PC?  I'm running a 1280 x 1024 pixel configuration on a 21" monitor.<P>You can send them directly to scott.s.haas@lexis-nexis.com - my work email account.<P>Thanks tons, fellow Fiero fans (say that five times fast)!||||reg||5
+Z||000001||Cliff Pennock||11-02-1999||01:15 PM||||The Fiero wallpaper I use is unfortunately 800x600, but it looks incredibly good:<BR> <IMG SRC="http://www.fiero.nl/uploads/smallwp.jpg"> <P>If anybody wants it, I can zip up the original and put it up on my server for download.||||reg||1
+Z||000002||87GT||11-02-1999||07:02 PM||||Hey Cliff, I got the same exact one.  I am sure were not the only ones though. 8-)||||reg||10
+Z||000003||fiero56||11-02-1999||08:04 PM||||I've got one of those too.  Along with it, I downloaded a screensaver, which has that exact design, but is shaped like the "ornament" with the pegasus on the front fascia.  It floats around the screen while it spins.  Pretty neat.||||reg||10
+Z||000004||SCCA FIERO||11-02-1999||08:11 PM||||fellow Fiero fans...fellow Fiero fans...Fiero fellow fans...Feirow Fellor fins...Fiero fanllow fellows. Piece of cake  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||6
+Z||000005||Cliff Pennock||11-02-1999||08:17 PM||||Yep, got the screensaver that goes with it too, but that made place for the seti@home screensaver.||||reg||7
+Z||000006||JMergen||11-03-1999||11:59 PM||||Scott2m4, I like this one. Its one of three magazine adds that Pontiac put out in 84. The line is kind of catchy on a working PC.<BR> <IMG SRC="http://www.fiero.nl/uploads/fiero2.gif"> ||||reg||1

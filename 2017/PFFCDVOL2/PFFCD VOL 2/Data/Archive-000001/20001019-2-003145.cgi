@@ -1,0 +1,2 @@
+A||N||0||bHooper||Different altenator's||||5||
+Z||000000||bHooper||04-12-2000||09:19 AM||||just like the flywheel thing, in my other thread, i also took the altenator from the '87 Corsica... i believe it to be a 100 amp unit.  <P>unfortunately, it doesnt fit the bracket's on the GT.<P>do the v-6 fiero's have a specific altenator?  the AC equiped cars require at least the 94 Amp unit, correct?<P>just trying to figure this out, needless to say i am a little disapointed that my $20 altenator doesnt fit  <IMG SRC="http://www.fiero.nl/forum/frown.gif"> <P>||||reg||5

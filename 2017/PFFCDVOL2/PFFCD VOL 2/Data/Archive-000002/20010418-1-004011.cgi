@@ -1,0 +1,2 @@
+A||||0||overlord||cruisin town last night......||||1||
+Z||000000||overlord||10-17-2000||08:43 AM||||last night after work, cruised around town, yes town, population about 1000...and turned down a street inever been doiwn before, and what do i see  perched on the lawn of some guys house? A white 84 coupe.    He must of just got it cause ive never seen it around before.     I was the first and only to have a fiero around here..I'm not alone anymore...whoohoo.<BR>Later today ill stop by, check the car out, and give him a forum card.||||reg||1

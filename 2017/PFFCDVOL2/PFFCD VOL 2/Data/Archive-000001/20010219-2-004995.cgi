@@ -1,0 +1,3 @@
+A||N||1||Coop88||Exhaust Question||||5||
+Z||000000||Coop88||07-31-2000||06:30 AM||||My formula makes an incredibly annoying "drone" noise when driving and the rpm's are around 2000. It's worse when I'm doing 55 on the highway. After driving back from Jeffersonville, my ears were ringing! I know the cat is bad, it rattles like it's full of rocks. Could this be the cause of the "drone"? Or do I need a quieter muffler? Would I lose a noticeable amount of power? I'd appreciate any input. Sorry for the long post.||||reg||5
+Z||000001||Carrolles||07-31-2000||01:30 PM||||Mine did the same thing when I got it.  I finally replaced the cat and found the old one was completely hollow.  It resonated terribly.  The new cat fixed the problem.||||reg||1

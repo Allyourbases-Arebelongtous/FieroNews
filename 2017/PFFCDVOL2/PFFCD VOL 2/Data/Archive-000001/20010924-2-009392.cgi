@@ -1,0 +1,2 @@
+A||||0||theogre||Steering Pivot Pin Puller||||4||
+Z||000000||theogre||04-03-2001||07:19 PM||||For those who do regular steering column repairs..... <BR> <A HREF="http://www.ontool.com" TARGET=_blank>www.ontool.com</A>  $15.86<P>Steering Pivot Pin Remover <BR>Works on 1969-current GM, Chrysler and Ford vehicles with Saginaw steering columns.Tilt and telescoping steering columns are much easier to work on when your toolbox has one of these tools in it. <P>(OTC-7889) MSRP $23.95 <P>It's made by OTC so you can probably get it else where as well.||||reg||4

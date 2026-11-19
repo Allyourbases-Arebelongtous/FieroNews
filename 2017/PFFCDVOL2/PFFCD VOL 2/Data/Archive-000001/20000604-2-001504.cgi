@@ -1,0 +1,5 @@
+A||N||3||SloPonti||were to find exhaust-cat back??||||5||
+Z||000000||SloPonti||11-24-1999||05:28 PM||||i am looking for the dual cat back exhaust for a 84 four chylinder! i just bought my hooker tri y header today and need exhaust now! i am told the v6 cat back will bolt right up to the 4 from the fiero store! i do not like the fiero stores gorlic or ocelet performance exhaust! does anyone know were to find a complete fiero exhaust!<BR>thanks<BR>Rob||||reg||5
+Z||000001||DXR_DAD||11-25-1999||02:07 PM||||Ok, Too many posts, too much info to list.<BR>Use the search. <P>Mufflers<BR>Exhaust<BR>Manifolds<BR>Cat-back<P>I'am sure you will find what you need||||reg||2
+Z||000002||penetrator||11-27-1999||05:52 PM||||Check with Justin at <A HREF="http://www.fierostore.com" TARGET=_blank>www.fierostore.com</A> <P>He knows some guys =)<P>Magnus||||reg||14
+Z||000003||pollock||11-30-1999||05:50 PM||||Summit has a Pacesetter cat-back system for ya.  give them a call.  1-800-230-3030.  Can't remember how much they wanted for it.  It's not shown in their catalog.||||reg||6

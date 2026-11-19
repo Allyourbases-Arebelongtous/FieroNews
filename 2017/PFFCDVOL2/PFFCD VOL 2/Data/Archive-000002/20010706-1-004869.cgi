@@ -1,0 +1,2 @@
+A||||0||rodmcneill||Diecast Chevy Small Block||||1||
+Z||000000||rodmcneill||12-19-2000||02:41 AM||||I thought if some forum members were looking for a cool present for someones Christmas I would mention what I bought for my nephew. Toy's R Us are selling a diecast model of a 1967 Chevy Camaro SS small block engine. The detail is excellent, about 6" long parts actually turn, orange block, chrome accessories, comes in a presentation box, about $20.00 This is probably the closest I will come to a small block in my Fiero unless Archie is feeling charitable.||||reg||1

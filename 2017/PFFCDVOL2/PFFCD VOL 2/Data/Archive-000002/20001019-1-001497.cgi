@@ -1,0 +1,3 @@
+A||N||1||turbo86se||3800 Listing||||5||
+Z||000000||turbo86se||03-11-2000||11:13 AM||||<BR>Hi everyone, a while ago I found a webpage somewhere with a listing of many Fiero owners that have a 3800 installed. Does anyone know where that page is? Anyone have a link? I'm going to Aberdeen, MD tomorrow and I believe there is a Fiero owner there with a 3800 installed. I'm trying to get in touch with him so hopefully I can meet him!<BR>TIA!||||reg||5
+Z||000001||mrfixit58||03-11-2000||05:30 PM||||See if this is it: <A HREF="http://www.angelfire.com/biz/fierosails/info.html" TARGET=_blank>http://www.angelfire.com/biz/fierosails/info.html</A> <P>Roy L.<P>||||reg||1

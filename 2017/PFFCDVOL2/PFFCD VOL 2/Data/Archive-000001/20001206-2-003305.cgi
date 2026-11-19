@@ -1,0 +1,9 @@
+A||N||7||Ozzy||V6 Vibration problem??||||5||
+Z||000000||Ozzy||04-21-2000||09:38 PM||||Hi all. I have been having much enjoyment with my nu blu toy...<P>Got in it this morning and it seems to have developed a low to moderate vibration beginning at 2100 rpm thru to around 2350 rpm. This was not there at all yesterday. It is not really severe but does have me a little concerned. Not present at all above or below this rpm range.<P>Any ideas or similar experiences??<P>TIA<P>Ozzy||||reg||5
+Z||000001||Fret Naught||04-21-2000||11:11 PM||||Were you rolling or standing still?, A vibration that appears just like that and is at or between certain speeds, I would think that I through a wheel wheight. And it was out of balance.||||reg||1
+Z||000002||Ozzy||04-21-2000||11:45 PM||||That's a big negatory there buddy. Was exactly my first thought but does it consistently sitting still, moving, whatever.<P>Ozzy||||reg||1
+Z||000003||Fret Naught||04-22-2000||01:33 AM||||HUM, I had a Vibration, but it was more of a sound than something I could feel turned out to be the muffler mounts, I got no idea, sorry||||reg||1
+Z||000004||Fiasco||04-22-2000||02:21 AM||||Motor mount bushings worn???||||reg||1
+Z||000005||JetroGT||04-22-2000||04:56 AM||||Could be the vibrational dampener coming apart. The one on my SE did this. Look to see if the outer metal ring is coming off.||||reg||1
+Z||000006||Ozzy||04-22-2000||10:47 AM||||Thnx guys...<P>What was the nature of the damper coming apart? Cracked, loose??<P>Can worn bushings or motor mounts cause the same repetitive type of vibration?||||reg||1
+Z||000007||Ozzy||04-23-2000||03:43 AM||||Hmmmmm...I wonder? This car was fine a day earlier. I did jack the car up in th rear to place jack stands under it. I placed the jack under the cradle support on one side then the other. Could this move/bend/break engine or tranny mounts? <P>Ozzy||||reg||4

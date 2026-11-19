@@ -1,0 +1,4 @@
+A||||2||BENGAL4||VALVE COVER GASKETS
+Z||000000||BENGAL4||08-09-99||06:33 AM||||I just finished painting the plenum and valve covers and all the parts stores seem to carry the intake & plenum gaskets but nobody carrys the valve cover gaskets. Are the reusable? They are made of some type of rubber and seem to be in good shape. Just wondering if anyone else has run into this problem. <br>
+Z||000001||Eric||08-09-99||03:04 PM||||They had better be available because I tossed mine last week.  They weren't in too good of shape either.<p>What paint did you use?  There are a couple of us trying to find a match.
+Z||000002||BENGAL4||08-09-99||09:10 PM||||Eric, I found a pair through Autozone but they had to order them. They run about $16.00 per pair. The paint I used is Duplicolor Engine enamel, Ford red. I tested it on a piece of metal and it looks real close to the original. After it dried, I put a thin coat of clear engine enamel. They look great.

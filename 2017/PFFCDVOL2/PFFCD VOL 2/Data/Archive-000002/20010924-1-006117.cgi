@@ -1,0 +1,8 @@
+A||||6||Alex2004||Is this a member's car?||||4||
+Z||000000||Alex2004||03-08-2001||07:33 PM|||| <IMG SRC="http://www.fiero.nl/gallery/Cars/white88gt.jpg"> <BR>I found this pic in the gallary.  I was wondering because of the parking/turning light's have what look's like a fog or driving light in it.  And if it is a member's car, where did you get the lights? Let me know, thanks!<P>Alex....  <A HREF="mailto:AbercrombieAlex15@hotmail.com">AbercrombieAlex15@hotmail.com</A>  <p>[This message has been edited by Alex2004 (edited 03-08-2001).]||||reg||4
+Z||000001||Alex2004||03-08-2001||08:09 PM||||just checking sig<P>------------------<BR> <IMG SRC="http://www.cruzingzone.com/MAIN3.gif"> <p>[This message has been edited by Alex2004 (edited 03-08-2001).]||||reg||1
+Z||000002||Cliff Pennock||03-08-2001||08:11 PM||||That's a picture I took at a Fiero-meet here in Holland. I know who owns the car and I'm pretty sure he sometimes reads the forum.||||reg||1
+Z||000003||Philphine||03-08-2001||08:19 PM||||got my favorite wheels on it. got 'em on two of mine and possibly working on a third.||||reg||1
+Z||000004||Tigger||03-08-2001||08:53 PM||||Cliff, were those lights required on GM exported Fieros or was that just a mod the guy did?  Looks cool!||||reg||1
+Z||000005||Alex2004||03-08-2001||09:56 PM||||Thanks Cliff!  I am wanting to do something like that to mine just because i like daytime running lights and all. LOL  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  And then i could just run it through the clear lense.  Do you know what the owner used the clear part for?  thanks...<P>Alex...||||reg||10
+Z||000006||Cliff Pennock||03-09-2001||04:25 AM||||I'm pretty sure the clear bits are daytime lights because "officially" they must be clear by law.||||reg||1

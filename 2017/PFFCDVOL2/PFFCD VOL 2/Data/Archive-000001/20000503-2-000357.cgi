@@ -1,0 +1,5 @@
+A||||3||VISCERAL||Adjustable balljoint question?
+Z||000000||VISCERAL||07-01-99||10:17 PM||||Hi y'all. For anyone who has bought these<br>who manufactures them and what is the beloved part number. Please let us know. Thanks, Sincerely Patrick S.
+Z||000001||Hock||07-02-99||02:00 PM||||What do you mean adjustable ball joint. Like the one's on the upper control arm? If so TRW makes them. IF your talking about something else you will have to explain.
+Z||000002||Phil||07-02-99||03:49 PM||||Moog makes them too
+Z||000003||PaUL||07-02-99||07:34 PM||||Hi, I posted an earlier post on this topic. When I replaced all the front balljoints on my fiero, I used Moog replacement parts. The top balljoints have sloted bolt holes and allow you to change the camber. Actually, they are slotted to allow a symetrical top joint design. The stock top balljoints are asymetrical and they are supposed to go on only one way. I adjusted mine as far inboard as the slots would allow resulting in a very visible negative camber. Ive heard that this is good for handling but bad for tire wear. All I can say is that, with the front camber adjusted this way, I get a whole lot more grip.

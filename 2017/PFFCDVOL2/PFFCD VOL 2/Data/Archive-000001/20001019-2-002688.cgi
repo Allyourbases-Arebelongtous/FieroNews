@@ -1,0 +1,3 @@
+A||N||1||bHooper||high reving SE||||5||
+Z||000000||bHooper||03-13-2000||11:26 AM||||someone at work has a '84 SE.  for some reason, when the are idleing and have their foot on the clutch and or brake pedal, the idle jumps to 5000 rpm!  <P>any thoughts on the cause of this?||||reg||5
+Z||000001||1FST2M6||03-13-2000||11:41 AM||||The clutch issue I'm not sure of cause there is no vacuum lines tied in to that system well not in my car.. but with the foot on the brake indicates a Vacuum leak. I neglected to hook up a vacuum line and mine did the same... (86 V6) When pumpin the brake it would go up and up and up... found my not-so-bright mistake and POOF normal idle. ||||reg||1

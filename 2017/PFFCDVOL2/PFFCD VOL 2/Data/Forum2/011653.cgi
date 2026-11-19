@@ -1,0 +1,3 @@
+A||N||1||CC Rider||Voltage at Fuel Pump Relay||||1||
+Z||000000||CC Rider||06-28-2001||11:18 AM||||Question - on a 87 GT, what should be the voltage at the fuel pump relay coming from the ECM be. <BR>Have put a new relay in only to have it go bad after a few days. Checked the voltage and it's 9v , is this correct ?||||reg||1
+Z||000001||PBJ||06-28-2001||12:26 PM||||I don't see it saying any voltage, so you can only assume 12v (ignition voltage)<BR>That is on terminal A dark green/white.<P>Could jump between wires D (orn/blk) and B (tan/wht) at the relay to bypass relay and see if pump works.<p>[This message has been edited by PBJ (edited 06-28-2001).]||||reg||1

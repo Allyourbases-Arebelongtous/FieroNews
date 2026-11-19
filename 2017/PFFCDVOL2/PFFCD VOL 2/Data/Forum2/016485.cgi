@@ -1,0 +1,3 @@
+A||||1||ordovician||GO LOOK AT YOUR SPRINGS! PLEASE||||1||
+Z||000000||ordovician||12-18-2001||04:00 PM||||i was looking at replacement springs for my car, when i noticed that my springs look nothing like what they wanted to sell me. please tell me what your springs look like. are they straight (same circumfrence all the way up) or are they small on the bottom and huge on the top? mine are the latter and they need to be replaced.<BR>thanks||||reg||1
+Z||000001||Steve Normington||12-18-2001||04:17 PM||||Those springs are correct for 84-87 rear springs. The 84-87 front springs should be the same diameter. (This may be the same for 88, I don't know.)||||reg||1

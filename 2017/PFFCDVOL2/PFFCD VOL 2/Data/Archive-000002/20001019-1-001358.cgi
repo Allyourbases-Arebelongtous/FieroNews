@@ -1,0 +1,2 @@
+A||N||0||superXmotorsports||white/color gauges offer for the Forum||||7||
+Z||000000||superXmotorsports||02-25-2000||07:40 AM||||I know we have quite a few new members and I would like to extend a welcome by offering 5 sets of the Fiero SUPERSPORT gauges for $89 a set shipped to the Forum again.  Click on the link below for details or email me directly.<BR> <A HREF="http://users.supernet.com/superx/gauges" TARGET=_blank>http://users.supernet.com/superx/gauges</A> <P>Thanks!  SXM.||||reg||7

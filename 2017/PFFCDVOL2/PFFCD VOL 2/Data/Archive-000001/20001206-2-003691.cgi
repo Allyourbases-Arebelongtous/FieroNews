@@ -1,0 +1,4 @@
+A||||2||Homicidal||Flush Mount Headlight System for Fieros: Easy install?||||1||
+Z||000000||Homicidal||05-11-2000||06:43 PM||||I want to do it.  What skill level does it require??  The most I have done with my Fiero was:<P>Battery replacement<BR>Starter connection fixes<BR>Fuel Filter<BR>Replaced headlights.<P>Is it hard or relatively easy?<BR>||||reg||1
+Z||000001||Fiasco||05-11-2000||06:52 PM||||Which flush mount kit are you talking about?<BR>Is there a website where I can look at it? I've been thinking about the switch also.||||reg||1
+Z||000002||DaRkLoRD||05-11-2000||07:01 PM||||Hope this helps..<BR> <A HREF="http://www.fieroproject.com/tom/headlights.htm" TARGET=_blank>http://www.fieroproject.com/tom/headlights.htm</A> <P>that's the install article for Tom's headlight modification, found on his website at: <A HREF="http://www.fieroproject.com/tom/" TARGET=_blank>http://www.fieroproject.com/tom/</A> ||||reg||1

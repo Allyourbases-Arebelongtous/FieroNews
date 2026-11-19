@@ -1,0 +1,2 @@
+A||||0||Reality||Instructions needed||||1||
+Z||000000||Reality||03-12-2001||01:10 PM||||Hello all, I am in need of some assistance. I recently purchased a model kit off of ebay for really a dirt cheep price couldn;t pass it up. But it dosen't have the instruction sheet with it. I beleive the kit is the IMSA kit but am not to sure. If someone has a cory of these or wants to scan and email them to me I would greatly appricate it. <p>[This message has been edited by Reality (edited 03-12-2001).]||||reg||1

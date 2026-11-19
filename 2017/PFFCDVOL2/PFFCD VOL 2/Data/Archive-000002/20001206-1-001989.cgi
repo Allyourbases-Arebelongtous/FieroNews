@@ -1,0 +1,2 @@
+A||||0||turbo86se||Hey guys!!  Lots of new pics!!||||10||
+Z||000000||turbo86se||04-27-2000||12:08 PM||||<BR>Check these out, I added a few new pics to my turbo 86SE folder, such as the manifolds right after I got them back from Jet-Hot, and a shot of the interior. The black 86GT is my next Fiero, anyone spare me $1000?  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>Enjoy the pics!!!!<P> <A HREF="http://albums.photopoint.com/j/AlbumIndex?u=226077&a=5405885" TARGET=_blank>http://albums.photopoint.com/j/AlbumIndex?u=226077&a=5405885</A> <BR>||||reg||10

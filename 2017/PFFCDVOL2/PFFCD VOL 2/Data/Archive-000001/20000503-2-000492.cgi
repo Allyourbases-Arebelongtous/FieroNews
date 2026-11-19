@@ -1,0 +1,5 @@
+A||||3||DJRice||Help!  Clutch Revisited
+Z||000000||DJRice||07-26-99||07:10 AM||||Ok guys,  I went throught the Clutch info uncovered and although there was mention of multiple ways to bleed the clutch system.  I didnt find mention of them.  I just swapped the motor and 5spd tranny out of an 85 into my 84 and I had to swap the slave cylinder....  Now we bleed and bleed and bleed and clutch wont engage.  What is the tried and true way to get the air out of the system.  Please Help
+Z||000001||batboy||07-26-99||10:17 AM||||You might try the V8 Archie method.<p>http://www.v8archie.com/archism.htm
+Z||000002||Patrick||07-26-99||01:03 PM||||<br>Ummmm....something's wrong here.<p>If you can't get all the air out of the system, the clutch will not <b>DISengage</b> properly. <p>If your clutch has trouble <b>engaging</b>, air in your system is NOT responsible for this problem.<p> 
+Z||000003||DJRice||07-27-99||07:00 AM||||Well I cant be expected to explain my problems correctly!  Thats what I meant, but not what I said.  The Archism got my clutch back in business.  Thanks for the assistance.<p>

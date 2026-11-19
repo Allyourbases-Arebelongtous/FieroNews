@@ -1,0 +1,3 @@
+A||||1||Songman||my turn for a sig test... ||||1||
+Z||000000||Songman||06-27-2001||01:12 AM||||just gonna test the pic and not change my sig yet... I think it is gonna suck..<P> <IMG SRC="http://www.fiero.nl/uploads/triosig.gif"> <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1
+Z||000001||Songman||06-27-2001||01:12 AM||||Hmmm... would have looked okay on the light blue rows, but not good on the dark blue...<P> <IMG SRC="http://www.fiero.nl/uploads/triosig.gif"> <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1

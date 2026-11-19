@@ -1,0 +1,2 @@
+A||||0||STUK'N'80s||Why not! we're all in this together cont....||||14||
+Z||000000||STUK'N'80s||12-01-2001||12:01 AM||||Have resolved carfax issue, ya'll can still use my carfax account for vin checks. Password remains:  CSierra74@hotmail.com<BR>Happy treasure hunting...for those interested in viewing my new digital dash, interior chrome set-up, and latest 87 GT STEAL (Ooops purchase (-:  pics, leave me a personal messege with your e-mail and I will send you pics.||||reg||14

@@ -1,0 +1,2 @@
+A||||0||danny boy||selling the Stealth||||1||
+Z||000000||danny boy||03-30-2001||12:00 AM||||Yeah, right. <BR>  <IMG SRC="http://www.fiero.nl/uploads/Stealth_snow_2.jpg">  Just got this one developed.It will be officially off the road for tranny work starting monday. I'm having way too much fun with the GT to even worry about this thing.<BR><p>[This message has been edited by danny boy (edited 03-30-2001).]||||reg||1

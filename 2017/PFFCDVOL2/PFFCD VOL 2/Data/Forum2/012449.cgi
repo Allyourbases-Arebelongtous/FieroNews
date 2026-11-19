@@ -1,0 +1,3 @@
+A||||1||mikabika||Wheels That Fit?||||1||
+Z||000000||mikabika||08-01-2001||06:23 AM||||I'm new to this group, so forgive me if this topic has been beaten into the ground, but I'm trying to find some chrome modular wheels to fit my 1987 GT. The only ones that I can find that will fit are butt ugly!! Can<BR>anyone tell me where I can find these? Thanks<P>------------------<BR>Mikabika||||reg||1
+Z||000001||watts||08-01-2001||12:54 PM||||It's been hashed to death...<P>But let's try to kill it a bit more: <A HREF="http://fiero2m4.homestead.com/Wheels.html" TARGET=_blank>http://fiero2m4.homestead.com/Wheels.html</A> <P>Wheels that fit!  It helped me find the ones I've got...<BR>||||reg||1

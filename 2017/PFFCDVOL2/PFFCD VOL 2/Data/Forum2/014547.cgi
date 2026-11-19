@@ -1,0 +1,2 @@
+A||||0||mfleury||Headlight problem again!!!!||||8||
+Z||000000||mfleury||10-18-2001||04:28 PM||||on my 88 GT, the left headlight had a burn fuse which you all gave me the light to check it it worked fine... now the head light will not come up or down and no burn fuse. Some one told to chk the something inside the car but could not figure it out what was it and how it should look??? Any idea on this ( the motor works fine I connected on the other side)||||reg||8

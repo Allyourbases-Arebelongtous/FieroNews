@@ -1,0 +1,5 @@
+A||||3||BroCar 87||checking PIP||||1||
+Z||000000||BroCar 87||10-29-2000||02:13 PM||||Before:<BR> <IMG SRC="http://www.fiero.nl/uploads/BeforeFrontPass.jpg"> <P>Now:<BR> <IMG SRC="http://www.fiero.nl/uploads/BeastOnTruck.jpg"> ||||reg||1
+Z||000001||Monkeyman||10-29-2000||07:18 PM||||Forgive me if I sound confused, but did PIP do that to your car?  I guess I'd better install the upgrade soon.  (I've had it for a while, just haven't installed it.  I've always been a procrastinator, but...more later.)||||reg||1
+Z||000002||Tigger||10-29-2000||07:59 PM||||Oh NO..  the repressed memories are coming back.  There goes 10 weeks of therapy out the window for me.  <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>So what was it, clutch, bad wiring, rod, timing gear, or did the PIP actually do that to your car?||||reg||1
+Z||000003||Cooter||10-29-2000||08:08 PM||||Well, how is Pip doing? I have been wondering about him. I guess if he did that to your car, he must be OK. What a shame though. Did you make him mad or something? Why did he haul away your poor little car?||||reg||1

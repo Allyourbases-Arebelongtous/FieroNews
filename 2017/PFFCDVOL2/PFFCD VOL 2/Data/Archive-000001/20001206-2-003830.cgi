@@ -1,0 +1,7 @@
+A||||5||William Federle||Holding lites up without motors||||1||
+Z||000000||William Federle||05-19-2000||07:08 AM||||I am going to have to rebuild my headlight motors - they frequently won't go down when I turn them off. Whenever this happens, I have to turn them back on, rotate the knobs on top of the motors until they click, and then go shut off the lights.<P>My question is: Has anyone come up with a way to hold the headlights up while they have the motors out? It might take me more than a weekend and I have to drive my car to work.<P>Thanks for reading this.||||reg||1
+Z||000001||fiero56||05-19-2000||07:55 AM||||An empty(of full) 1 quart oil contianer. I've seen it used before and it works.||||reg||1
+Z||000002||Monkeyman||05-19-2000||10:05 AM||||If you have a really nice Fiero (I know. They're all nice...), you might want to try a can of synthetic motor oil since we all know that synthetic is found in the worlds best cars (?). ||||reg||1
+Z||000003||Monkeyman||05-19-2000||10:08 AM||||BTW--If you have even a couple of spare hours over the weekend, you shouldn't have any problem rebuilding and reinstalling both headlight motors.  (At least the early style.  Piece of cake.)||||reg||1
+Z||000004||Oreif||05-19-2000||11:08 AM||||Cut a section of 2X4 wood long enough to hold the lights up. That way if it's daytime just pull the wood out.||||reg||1
+Z||000005||William Federle||05-19-2000||01:24 PM||||Thanks for the ideas. I guess this kind of thing always looks more complicated to me the first time I do it. ||||reg||1

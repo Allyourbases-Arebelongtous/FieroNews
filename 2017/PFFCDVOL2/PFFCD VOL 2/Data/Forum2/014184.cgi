@@ -1,0 +1,6 @@
+A||||4||Hank is Here||can't get auto shift knob off||||1||
+Z||000000||Hank is Here||10-05-2001||01:43 PM||||Okay, simply remove the retaining clip and lift off right?      I removed th clip and it seems as if the knob is really stuck to the shifter arm.  Anyone else encounter this?  oh yeah it is an 87 GT<P>Hank||||reg||1
+Z||000001||lowfunds||10-05-2001||02:02 PM||||Make sure you have it in park. It will slide right off. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||My7Fieros||10-05-2001||04:16 PM||||Yeah keep it in park and take off the clip...you may have to tap it from the underside to persuade it...years of it being there can cause it to be stubborn...but it'll come off!<P>------------------<BR><FONT SIZE="3"><FONT COLOR="blue"><B><I>My 7 Fieros</FONT></FONT></B></I>||||reg||1
+Z||000003||XDrewX||10-06-2001||09:59 PM||||BE CAREFUL......<BR>The machined slots on the shaft are as sharp as a razor.<P>I found out the hard way !!!||||reg||1
+Z||000004||Black86SE||10-06-2001||11:25 PM||||yeah, that is all there is to it. I took mine off and replaced it with a knob off a '85 GT. Top button as opposed to side. It isn't in perfect shape but it looks cool.<P> <IMG SRC="http://www.fiero.nl/uploads/Image2_4.gif"> <P><P>------------------<BR>1986 V6 SE<BR>Black<BR>17" Wheels<BR>P235/45/ZR17 <BR>BF Goodrich g-Force KDWS||||reg||1

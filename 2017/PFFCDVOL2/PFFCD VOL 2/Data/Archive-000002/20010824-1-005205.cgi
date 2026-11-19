@@ -1,0 +1,5 @@
+A||||3||FieroMike||Recaro Leather Seats||||4||
+Z||000000||FieroMike||01-12-2001||04:48 PM||||Hi! It's been a while since I posted!  I was wondering if anyone has pics or has heard of putting Recaro seats in a Fiero.  They have great support for the twisties... Thanks!!<P>-Mike||||reg||4
+Z||000001||2xsess||01-12-2001||05:25 PM||||I think 1FST2M6 had a set in his SE.<P><P>------------------<BR>Jeff<BR>AOL IM : Only2xsess<BR>  <IMG SRC="http://www.fiero.nl/uploads/My_car_(large)sig_1.JPG"> ||||reg||1
+Z||000002||Raydar||01-12-2001||05:45 PM||||When I saw Travis' car it had Corbeaus, although he might have had Recaros, too. He experiments.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> <BR>Since Recaros were installed in some TA's in the 80s, and folks are using 80s F-body seats in Fieros, I suspect that Recaros would fit, too.<P> <P>------------------<BR>Raydar - aka Steve<P>88 T-top Formula<BR>88 soon-to-be-V6 coupe||||reg||1
+Z||000003||2xsess||01-12-2001||06:40 PM||||You're right Raydar. Sorry about that.<P>------------------<BR>Jeff<BR>AOL IM : Only2xsess<BR>  <IMG SRC="http://www.fiero.nl/uploads/My_car_(large)sig_1.JPG"> ||||reg||1

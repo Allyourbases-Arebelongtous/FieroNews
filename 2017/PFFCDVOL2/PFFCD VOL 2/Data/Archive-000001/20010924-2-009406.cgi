@@ -1,0 +1,3 @@
+A||N||1||gmata||Shifter Problems||||11||
+Z||000000||gmata||04-04-2001||09:47 AM||||Last week, my car shifter wouldn't get out of part.  It turned out that there is a plastic rod within the shifter that gets engaged when you press on the button.  Well, it broke!!!  GM doesn't make the part, so my mechanic order the rod for a firebird and cut it down to size.  That one just broke today.  It there another alternative ?||||reg||11
+Z||000001||Oreif||04-04-2001||10:09 AM||||You can buy aluminum rods at most hardware stores and cut to length. My question is why do you keep breaking them? Unless the metal pin at the bottom of the shifter is bent or sticking, the button should depress easily.<BR>I would pull out the shifter assembly and check it out first.||||reg||1

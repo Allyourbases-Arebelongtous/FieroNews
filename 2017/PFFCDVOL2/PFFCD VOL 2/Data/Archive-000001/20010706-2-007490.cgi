@@ -1,0 +1,4 @@
+A||||2||Joe4x4||how to take starter out ??||||1||
+Z||000000||Joe4x4||12-24-2000||02:00 PM||||what do I need to remove to take the starter out ?||||reg||1
+Z||000001||BAM-BAM||12-24-2000||02:21 PM||||   Joe there should be a heat shield and two bolts. Be sure and disconnect the battery first. It might be tricky to work it out, can't really remember right now, but it wasn't a real big deal. Also be sure to save the shim just in case the new starter doesn't have one. There is also the electrical connection that needs to be disconnected. That's about it.<P> Peace, B2 OUT!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||12
+Z||000002||Joe4x4||12-24-2000||04:47 PM||||thanks, Bam-Bam<BR>just found my Hanes manual.<BR>it said same thing . hope it gets little warmer so I can get under it   <IMG SRC="http://www.fiero.nl/forum/eek.gif"><BR>||||reg||6

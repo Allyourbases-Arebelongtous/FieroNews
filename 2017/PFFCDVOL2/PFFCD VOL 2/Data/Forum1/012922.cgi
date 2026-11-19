@@ -1,0 +1,2 @@
+A||||0||DR650SE||Nice GT down the road...||||1||
+Z||000000||DR650SE||12-23-2001||02:44 PM||||Right now I'm in Las Cruses New Mexico visiting some family for the holidays.  Down the road is a nice black GT fastback.  It has black lace wheels.  I was wondering if anyone here owned this.  I would like to talk to te owner.  Let me know...<P>------------------<BR>AIM:  DR650SE<BR>2 Black 86 SE's V-6 4-SPD<BR>  <IMG SRC="http://www.fiero.nl/uploads/DR650SEsig.gif"> ||||reg||1

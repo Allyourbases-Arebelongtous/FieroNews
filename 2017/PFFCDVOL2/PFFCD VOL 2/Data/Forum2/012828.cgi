@@ -1,0 +1,5 @@
+A||N||3||Elenor84||Can I use clutch slave from 4cyl on my 6 cylinder(same tranny's)||||1||
+Z||000000||Elenor84||08-15-2001||07:38 PM||||Hey guys...as most of u know I'm doing an engine swap...I don't have a clutch slave cylinder on my v6 4speed but I do on my 4cyl 4 speed...are they interchangable or do I need to buy a new one?  Thx!<P>------------------<BR>Lance<BR>Click Image to go to site.<BR><A HREF="http://members.nbci.com/_XMCM/lancegspage/Index.html" TARGET=_blank> <IMG SRC="http://www.fiero.nl/uploads/Side1.jpg"> </A>||||reg||1
+Z||000001||starfighter007@msn.com||08-15-2001||08:19 PM||||I believe that they are the sameBut I am not 100% for sure only 98.9%for sure <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000002||rockcrawl||08-15-2001||08:24 PM||||I just put a '84 4:10 trans in an '86 V6 car using a V6 slave. Everything works fine, no problems. ||||reg||1
+Z||000003||Elenor84||08-15-2001||08:31 PM||||thx very much guys<P>------------------<BR>Lance<BR>Click Image to go to site.<BR><A HREF="http://members.nbci.com/_XMCM/lancegspage/Index.html" TARGET=_blank> <IMG SRC="http://www.fiero.nl/uploads/Side1.jpg"> </A>||||reg||1

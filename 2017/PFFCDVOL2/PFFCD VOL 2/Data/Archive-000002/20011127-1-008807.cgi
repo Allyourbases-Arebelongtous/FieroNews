@@ -1,0 +1,3 @@
+A||||1||Standard||ATTN: Elfiero||||5||
+Z||000000||Standard||07-15-2001||02:33 PM||||Did you get my e-mail?  If not, try sending one to  <A HREF="mailto:LastMinuteBastrd@aol.com">LastMinuteBastrd@aol.com</A>  or  <A HREF="mailto:Fieromike88@hotmail.com">Fieromike88@hotmail.com</A> <P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/sig_pic_full.jpg">        <BR>1988 Quad 4 Coupe 5 speed<P><FONT SIZE="1">1986 GT 5 speed, 1984 SC Auto<BR><FONT COLOR="red">AOL: LastMinuteBastrd  AIM: SavedbyJebus</FONT></FONT>||||reg||5
+Z||000001||elfiero||07-15-2001||03:40 PM||||Yup,I just checked my mail and will reply<BR>this evening with pics!||||reg||6

@@ -1,0 +1,2 @@
+A||||0||zeusrekning||dyno2000 comp program question.||||5||
+Z||000000||zeusrekning||11-09-2000||09:07 PM||||I wasn't sure which section to post this in but... <BR>Has anyone used this to help build an engine? if so how accurate is it. I played around  with it but my power doesn't come in till ari\ound 5000 rpm.But it is nice and level from 6000 to 8000<BR>i'm lost anyone mind helping me throuh email?<P>||||reg||5

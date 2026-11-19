@@ -1,0 +1,2 @@
+A||||0||PBJ||gas pedal sticks||||5||
+Z||000000||PBJ||07-24-2001||08:29 PM||||anyone else have there gas pedal stick when you let off the gas, more so when engine is hot. It is not the pedal or cable, it is the butterfly in throttle bore hanging up in closed postion.  I have cleaned and lubricated but no luck-maybe it is just worn out. <P>any luck out there fixing this condition or should I just get another one?<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/petesigsm.jpg"> ||||reg||5

@@ -1,0 +1,5 @@
+A||||3||Daver||v-8 swap?
+Z||000000||Daver||04-20-99||03:50 PM||||I have read a little bit about kits for a v-8 fiero.  Most of this information has come directly from the retailer, so I don't know what to belive.  Does anyone here know anything about these kits or have any experience with a v-8 swap?
+Z||000001||Patrick||04-20-99||04:14 PM||||<br>Check out  <A HREF="http://www.v8archie.com" TARGET=_blank>www.v8archie.com</A> . All reports are that these kits are good quality. Or if you prefer, Archie will do the swap.<p>
+Z||000002||Carrolles||04-23-99||11:09 AM||||I spoke to Archie the other day and he told me that he will install a small block chevy V-8 for $5500 (includes kit and labor). This is assuming you supply the compoete engine and that there are no problems with it.<p>Carroll
+Z||000003||Pretender||04-23-99||11:07 PM||||A few months back i orderd one of his(Archie's) custom made radiators It was supposed to be (C.O.D) but i never got it. I hope he doesn't operate his buisness like that.

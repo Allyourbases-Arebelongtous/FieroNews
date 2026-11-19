@@ -1,0 +1,9 @@
+A||N||7||DaRkLoRD||Does anyone recognize this front end?||||1||
+Z||000000||DaRkLoRD||04-13-2000||04:29 PM|||| <IMG SRC="http://www.geocities.com/MotorCity/Garage/7941/Green.jpg"> <P>I know the image has been altered with a computer, (the green paint job looks a bit fake, but that's ok. it's just to demonstrate what it might look like if it's green. not like when that guy doctored the 89 prototype pic...) but I'm not sure if the front end is a real aftermarket one or an edited one.<P>thanks||||reg||1
+Z||000001||Spyder||04-13-2000||04:46 PM||||It's a Ferri TestaRossa Front with Ferrari 348 lights.<BR> <IMG SRC="http://www.ferrari.com/Automobili/Models/348/img/FrontQuarterSpider.JPG"> <BR> <IMG SRC="http://www.ferrari.com/Automobili/Models/Testarossa/img/TestaFrontQuarter.JPG"> <P>||||reg||1
+Z||000002||Richard Parnell||04-13-2000||05:05 PM||||Looks more like a Firebird or Camaro front end.  Note the middle of grille has an upright whereas the Ferrari front end is solid all the way across.  Just my opinion.||||reg||12
+Z||000003||fotofrank||04-13-2000||05:14 PM||||I believe this front end is available in Europe. Holland or Denmark with a price that is more than my '84 SE.:rolleyes||||reg||12
+Z||000004||88 Fiero||04-13-2000||07:49 PM||||That front end was made by the Fiero Factory in UK... it fits the stock body of the fiero. it doesnt have the bucket headlights tho..this one was altered.||||reg||1
+Z||000005||Haze_Performance||04-13-2000||07:56 PM||||How do i get that front end ??????||||reg||1
+Z||000006||Racer 1||04-14-2000||01:18 AM||||This is PISA front end  <IMG SRC="http://www.primenet.com/~pisa/cybercars/mnfr/m0001p05.jpg">  looks almost the same.||||reg||1
+Z||000007||Monkeyman||04-15-2000||09:11 AM||||I like the Ferrari nose.  Where can I get one like that????????????||||reg||1

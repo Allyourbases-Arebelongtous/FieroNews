@@ -1,0 +1,6 @@
+A||||4||Silver Bullet||FRIED MIATA
+Z||000000||Silver Bullet||08-26-99||11:13 PM|||| In my 85 2m6 I ran a mazda miata into the ground.  I raced him in an 8th mile, and took him by about 7 car lengths.  ha ha ha<p><p>                 Silver Bullet-*Team Fiero*<br>                 (Wrap your ass in fiberglass)<br>
+Z||000001||CUTTER||08-26-99||11:52 PM||||Hey good job, let him know who is boss...hehehe...I cant beileve they are slower then the CRX's, what for motor is in them anyways? 1.6?
+Z||000002||ChadMan||08-27-99||07:18 AM||||The original Miatas had a 1.6 that made something like 118 hp.  Somewhere along the line they upgraded to a 1.8, which is now making something like 140 hp.  But with all that torque our 2.8's make, I think even the new Miatas would sniff Fiero exhaust.<p>I think Miatas are cool in the same way 4-banger Fieros are cool - they aren't fast, but they sure are fun.  Which reminds me.  Does anyone still make a convertible kit for Fieros?  Maybe this is a topic for another thread.
+Z||000003||ChadMan||08-27-99||07:19 AM||||Oh, and good kill, Silver Bullet.
+Z||000004||DJRice||08-27-99||07:40 AM||||I took down a Miata myself a while back.  He rolled up beside me and downshifted to wind his engine out to get my attention.  The light ahead of us turned red.  When It turned green, the pedal went down and I had Miata Headlights in my rearview.

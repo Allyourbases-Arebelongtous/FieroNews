@@ -1,0 +1,4 @@
+A||N||2||sparks||What other cars?||||5||
+Z||000000||sparks||12-20-2000||04:30 PM||||What other cars used the Isuzu 5 speed transaxle besides the 4 cylinder Fiero?<P>Any other GM car???<P><P>------------------<BR><BR>Adam Sparks||||reg||5
+Z||000001||StuGood||12-22-2000||08:30 PM||||My <B>guess</B> is, 1985-1988 (?) 4-cylinder J-cars (Cavalier, Sunbird, etc.) might be a good bet.  Not certain - but based upon the years the 4-sp and 5-sp were available on J-cars, they might have used the same (or similar) transaxles as the Fiero.<P>You'll have to ask around/ do your own research to confirm this, but it's my best guess.  Sorry I can't tell you for sure.    ||||reg||5
+Z||000002||Oreif||12-23-2000||03:03 AM||||The 85 thru 88 (I think) Grand Am's used the same 5-spd as the Fiero with the 4cyl. I'm not sure which year the GA went to the quad 4 and stopped putting in V-6's. When the GA's went to quad 4's they got the getreg.||||reg||1

@@ -1,0 +1,9 @@
+A||||7||Adrift||Fiero Based Kit Car Forum||||1||
+Z||000000||Adrift||12-06-2001||02:11 PM||||I suggested in general chat a while back that there should be a kit car catagory on pennocks. About half the people who replied were for it and half against. So I decided to make one myself. <P>The url is <A HREF="http://www.kitcar.ca/cgi-bin/Forum/YaBB.cgi" TARGET=_blank>http://www.kitcar.ca/cgi-bin/Forum/YaBB.cgi</A> <BR>||||reg||1
+Z||000001||Brandon86SE||12-06-2001||02:33 PM||||Hurray!   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  I'm the first registered member (next to Adrift) on the forum.  I don't have a kitcar........  yet....... but it's all good.<P>Brandon||||reg||1
+Z||000002||Cheever3000||12-06-2001||02:53 PM||||Looks great.  When my dream of acquiring a Fino becomes more of a reality than a dream, I'll be there.  I admire your initiative.<P><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Cheever_gold_sig.jpg"> <BR><I>Try to keep up!</I>||||reg||14
+Z||000003||MinnGreenGT||12-06-2001||03:37 PM||||Cool, I don't have a kitcar... but I'm now registered and set to go! (updating profile right now).<P>Nice work Adrift!<P>------------------<BR>              <IMG SRC="http://www.fiero.nl/uploads/GreenGT6.gif"> ||||reg||1
+Z||000004||rogergarrison||12-06-2001||03:49 PM||||oh great, now I have 3 forums to keep up with,  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">. Already registered, tks||||reg||1
+Z||000005||Adrift||12-06-2001||03:59 PM||||I was afraid I would get flamed if I posted this announcement in General Chat.. I know it would be more widely read there, but am still hesitant... what do you guys think?||||reg||1
+Z||000006||Brandon86SE||12-06-2001||04:08 PM||||I think Fiero kit car's are very Fiero related, personally.  I see no reason not to post there.   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Brandon||||reg||14
+Z||000007||rockcrawl||12-06-2001||09:03 PM||||Count me in.<BR>||||reg||1

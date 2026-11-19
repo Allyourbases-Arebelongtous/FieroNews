@@ -1,0 +1,4 @@
+A||||2||Uaana||Max horse power!?!?||||5||
+Z||000000||Uaana||03-03-2000||02:59 AM||||Just got my new plug wires in from Summit racing (Accel 8.8s) they sure are pretty (and  fat!)<BR>Now the important H.P. question!!!!<BR>Where do I put the stickers? (Accel, Summit)<BR>Back window or qtr panel?||||reg||5
+Z||000001||Jim Baumann||03-03-2000||03:26 AM||||I vote for the Qtr Panel that way you got room for more. If you start putting stickers on the rear window you will soon run out of room.||||reg||14
+Z||000002||Phaeton||03-03-2000||03:37 AM||||Size Matters.<BR>If the sticker is large enough to seriously impair vision then the only serious horsepower gains exist just above center on the rear window.  Awesome gains staring bold in the rear view mirror.  So Awesome the mirror just has to be turned so the passenger can also read.<P>Small tastefull decals don't do squat and should be thrown away.||||reg||1

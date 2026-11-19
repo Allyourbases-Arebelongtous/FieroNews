@@ -1,0 +1,4 @@
+A||||2||Leadfoot||Using coil wire for timing adjustments.||||5||
+Z||000000||Leadfoot||09-04-2001||07:41 PM||||I was surfin the web for new project ideas when I came across this little paragraph.<P>A trick that's easier than averaging #1 and #4 is to clip the timing light onto the coil wire. This will cause the light to flash too often, but only two of the flashes (#1 and #4) happen when the timing mark is near the timing tab.<P>Is this true?  I haven't heard of this before.  ||||reg||5
+Z||000001||Wolfhound||09-04-2001||09:04 PM||||Interesting enough to me that I'll do a comparison against standard procedure.||||reg||3
+Z||000002||Max The Chainsaw||09-05-2001||07:01 AM||||Yes, it's true. Done it that way for years.<P>The mark may show up in two places not too far apart if the distriutor is worn, one place is #1 and the other #4 or #6 depending on if ya got a duke or V6. Just average the two marks if this occurs to offset the difference in the two cyls.<P>||||reg||1

@@ -1,0 +1,5 @@
+A||||3||FieroSoul||Junk instrument pod needed||||3||
+Z||000000||FieroSoul||08-06-2001||10:36 AM||||Hey everyone.  I am thinking about making a headboard for my son's bed out of the damaged dash I replaced in my Fiero.  I need a non working instrument pod (could just be pod and speedo/tach face plates w/o the guts).  I would be happy to pay shipping for it. I will supply pictures if it turns out. TIA ||||reg||3
+Z||000001||sqoach||08-06-2001||11:13 AM||||I can get one for you. E-mail me.<P>------------------<BR><FONT COLOR="BLUE">sqoach@yahoo.com</FONT><BR>   <IMG SRC="http://www.fiero.nl/uploads/sqoach.gif">   <P>84 SE (FOR SALE)*sale pending*<BR>85 Coupe (parts car)($50)*sale pending*<BR>86 SC (FOR SALE)<BR>86 SE V6 (new project)||||reg||14
+Z||000002||FieroSoul||08-06-2001||05:27 PM||||You've got mail.||||reg||6
+Z||000003||Leadfoot||08-06-2001||05:53 PM||||That's cool!  I just picked up a red race car bed for my girlfriends nephew for $50 and was thinking of rigging it with lights, and a dash with working clock/alarm.<P>||||reg||1

@@ -1,0 +1,3 @@
+A||||1||Philphine||earbud/earplugs?||||1||
+Z||000000||Philphine||02-15-2001||03:57 PM||||looking for some walkman type ear buds that also work as ear plugs. i look each time i go on a guard trip (we fly first class...c130) 'cause i've heard of them but i can never find them. anybody seen 'em?||||reg||1
+Z||000001||Shiner||02-16-2001||01:42 AM||||Yep, Etymotic Research makes them.  I belive they offer 20db of isolation.  They also sound great!  Of course, this comes with a price tag that is none too light.. but certainly not bad for a good set of cans.  check em out at <A HREF="http://www.headphone.com/ProductsHeadphones/HeadphoneList.asp" TARGET=_blank>http://www.headphone.com/ProductsHeadphones/HeadphoneList.asp</A> ||||reg||1

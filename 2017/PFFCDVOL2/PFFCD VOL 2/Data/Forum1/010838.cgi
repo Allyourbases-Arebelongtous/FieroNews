@@ -1,0 +1,2 @@
+A||||0||Rodney||LOoking for Getrag dip stick||||1||
+Z||000000||Rodney||10-09-2001||11:10 AM||||Lift lever type dip stick for a Getrag. Have a friend<BR>that is doing a FWD conversion and the trans he found<BR>did not have it. Looks like GM is out of stock.<P>Thanks,<BR>Rodney Dickman<BR>New web page! <A HREF="http://www.rodneydickman.com" TARGET=_blank>http://www.rodneydickman.com</A> <P>||||reg||1

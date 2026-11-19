@@ -1,0 +1,3 @@
+A||N||1||TalShino||Quad-4 Turbo||||5||
+Z||000000||TalShino||04-14-2000||10:09 PM||||Could anyone describe what all I'd have to do to do a Quad-4(with or without turbo) on my 88 Coupe 2.5liter.. I wanna do this sometime near the end of the summer.. just getting the details together right now...<P>Ray||||reg||5
+Z||000001||WKDFIRO||04-14-2000||10:26 PM||||First you would want to find out if any changes were made with mounting the engine so that it wouldn't blow head gaskets. The torque strut bracket on the valve head was being blamed for this problem. With all things considered it would almost be more economical to simply trade up to a V6 (my opinion)for practicality and reliability.||||reg||2

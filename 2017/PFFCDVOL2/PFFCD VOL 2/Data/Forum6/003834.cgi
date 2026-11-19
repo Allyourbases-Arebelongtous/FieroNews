@@ -1,0 +1,2 @@
+A||||0||yo_sweet||pageing 1fst2m6||||1||
+Z||000000||yo_sweet||10-18-2001||02:36 PM||||could i use your car as kinda the star on my webpage? likethe pics of it? its totally awsome!<P>------------------<BR>1986 Fiero SE<BR>customized tail light's,american raceing rim's,k&n air filter,pioneer cd player.. more to come<P>kill's: 1990 Honda CRX,93 ACURA integra, 85 mr2,94 pontiac grand am,94 mustang, suzuki swift 5 car lengths!,86 laser 4cyl.<P>loses: 1996 camero Z28,2000 grand prix 3.8L, 1986 monty carlo SS||||reg||1

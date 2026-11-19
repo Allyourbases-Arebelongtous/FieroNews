@@ -1,0 +1,3 @@
+A||N||1||86SEFIERO||how many people have an auto trans v-8 install||||5||
+Z||000000||86SEFIERO||05-30-2000||03:06 AM||||<BR>Who has auto trans v-8 install How much hp? How is auto v-8 install compared to manual trans v-8 install?||||reg||5
+Z||000001||batboy||05-30-2000||02:54 PM||||***Raises hand***<P>I don't think the install is much different, the engine still mounts in the same place regardless of the type of tranny. The V8 swap with an auto might be a little cheaper. The flexplates is cheaper than the custom made flywheels and you don't have to buy an expensive high performance clutch. Another advantage of the auto is that you don't have to worry about the clutch hydraulic system.||||reg||1

@@ -1,0 +1,6 @@
+A||||4||olympic||1BAD85GT||||14||
+Z||000000||olympic||06-22-2000||05:07 AM||||   And it's not far from me either!!<BR> <IMG SRC="http://www.fiero.nl/uploads/01009_1.jpg"> <BR>very eye catching yet tasteful.  Where's that wing from??<P>Here's the link to the ad:<BR> <A HREF="http://www.canada.trader.com/trader/result/affich.asp?sid=37IOVMQ11644105&rubno=4000&pa=2&pr=1" TARGET=_blank>http://www.canada.trader.com/trader/result/affich.asp?sid=37IOVMQ11644105&rubno=4000&pa=2&pr=1</A> ||||reg||14
+Z||000001||Monkeyman||06-22-2000||10:07 AM||||Personally, I hate the wheels (prefer about 5 spokes), but the car does look good.  Almost looks like a ZR2 wing, but not quite.  Probably one of the "ricer" aftermarket ones.||||reg||1
+Z||000002||Standard||06-23-2000||05:53 AM||||Hmmm.. almost looks like the wing from a 2nd generation MR2...<P>Very nice looking car!||||reg||14
+Z||000003||Pontiaddict||06-23-2000||09:30 PM||||Oooooooooooooooooooooooooooooooooooooooooooh Purdeee! Love that color! Don't know about the wing though.||||reg||1
+Z||000004||My7Fieros||06-23-2000||11:02 PM||||I agree with monkeyman, the wheels are tacky..but the rest of the car is super duper sweet. I love silver w/the monochromatic look.||||reg||7

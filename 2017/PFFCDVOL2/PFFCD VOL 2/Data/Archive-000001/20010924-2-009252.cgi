@@ -1,0 +1,4 @@
+A||||2||WisconsinGT||Help with very small part||||1||
+Z||000000||WisconsinGT||03-28-2001||11:46 AM|||| I need to know if someone can give me a part# or would have the little rubber T shaped thing? One end fits onto the Upper Manafold while the other two ends hook-up to the vacuum lines. It is inbetween the the Fuel prrss reg. and the MAp sensor. GM does not sell them anymore. Any auto store tells me they do not have anything close. Please help! Thanks<BR>||||reg||1
+Z||000001||85Josh||03-28-2001||04:58 PM||||The AutoZone near me has a wide selection of rubber fittings, but they don't have a listing in their computer. Ditto PepBoys and Advance. Go to a big parts place and hunt through the aisles. Don't be afraid to buy a bunch of close parts and return what dosen't work. Good luck.||||reg||1
+Z||000002||Homer||03-28-2001||07:19 PM||||Just go to the junk yard they have a bunch...get them off of most pontiacs of the same year...||||reg||1

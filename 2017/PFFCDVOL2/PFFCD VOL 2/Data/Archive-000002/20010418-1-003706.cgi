@@ -1,0 +1,3 @@
+A||||1||trigger||what does that flapper do?||||5||
+Z||000000||trigger||09-17-2000||07:58 PM||||I was wondering what the purpose of that flapper in the air intake is for.  I was thinking about removing it.  Does it do anything important?  How do you get it out?  Thanks.<P>------------------<BR>Honestly officer, I was just keeping up with the flow of traffic.  I know there aren't any cars in the area, that's how far behind I am.||||reg||5
+Z||000001||2M4 Dale||09-17-2000||08:42 PM||||That thing should work via a thermal sending unit (THERMAC...I think) to open and close depending on how warm your engine is. Closed when cold and open as your engine warms up.||||reg||4

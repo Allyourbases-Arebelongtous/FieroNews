@@ -1,0 +1,3 @@
+A||||1||saleenfiero||Repainting my wing!||||1||
+Z||000000||saleenfiero||06-11-2001||07:12 PM||||What is the process for applying clear coat on a spray bombed paint job?  When do I sand and stuff?  Do I sand after applying clear again?  This is all out of a rattle can too, so pefection is not an option.||||reg||1
+Z||000001||DXR_DAD||06-11-2001||10:30 PM||||here it is:<BR> <A HREF="http://www.fiero.nl/forum/Forum2/HTML/011070.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/011070.html</A> <P>Getting ready to do mine also, We have a ton of info on painting here: I just did a search and got most of what I needed.<P><BR>DXR_DAD<p>[This message has been edited by DXR_DAD (edited 06-11-2001).]||||reg||4

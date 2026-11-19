@@ -1,0 +1,4 @@
+A||||2||84Bill||Apology for Fantom||||9||
+Z||000000||84Bill||06-14-2001||01:27 PM||||My apologies for hitting you with a 2 x 4 IE and attached note Fantom. I should have use a pool noodle and tape.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>I'm sorry <IMG SRC="http://www.fiero.nl/forum/frown.gif">  <P>BTW<BR>WELCOME TO THE FORUM!!<BR>||||reg||9
+Z||000001||Fantom||06-14-2001||01:53 PM||||apology accepted but not necessary i tried a mean tactic to flush the rascal out and it backfired i was going to change my name but not now you will always wonder who i was bwahahahaaaaa cliff you can deregister me now that was fun stimpy good idea<BR>||||reg||1
+Z||000002||84Bill||06-14-2001||02:01 PM||||Oh your already registerd! why you little weasel! You must be a Canadian!<p>[This message has been edited by 84Bill (edited 06-14-2001).]||||reg||11

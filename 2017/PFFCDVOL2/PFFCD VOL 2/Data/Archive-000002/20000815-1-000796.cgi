@@ -1,0 +1,4 @@
+A||||2||Formula||fog lights||||1||
+Z||000000||Formula||12-20-1999||04:16 PM||||where can you mount fog lights on an 88 formula? I guess it would be the same as a 87 and 88 coupe?<P>The air dam seems like it would be too weak to put them on. Anybody try this?||||reg||1
+Z||000001||DXR_DAD||12-20-1999||05:12 PM||||Use the search on this fourm,"Fog Lights" It was about a month or two ago.||||reg||1
+Z||000002||theogre||12-20-1999||06:24 PM||||I have that nose...... 87SC. you definatly cannot attach to anything plastic. you may be able to put a block of AL or plastic on the back side and screw thru the bottom of the nose and the block into the frame. I haven't entirly seen how the back of this nose works yet.<P>You might be able to make a bracket that sandwiches between the nose and dam but you will also have to stiffen it or the virbation will eat lamps.||||reg||1

@@ -1,0 +1,4 @@
+A||N||2||Chance||what would it be worth?||||5||
+Z||000000||Chance||05-26-2001||03:48 AM||||K, since no one is wanting to make an offer on the whole 85 SE fiero Im trying to get sold for my buddy, then should I just take every part I can off for him and put them on EBAY? or just put the whole car on there for 300 bucks or something? ||||reg||5
+Z||000001||Wolfhound||05-26-2001||07:12 AM||||Chance, You mentioned in your other post that you hadn't tried to crank the car. I,d throw a battery it it and give it a shot first. you never know to you try. A running car is worth more. I,ve drove several non running cars off the trailer.||||reg||1
+Z||000002||Chance||05-26-2001||01:52 PM||||Its worth a shot... that would shock the heck out of me and Spanky too... (I hope he wouldn't want the few parts he let me have back) I guess if worse comes to worse and it don't turn over, he called and told me he's thinking about putting it on ebay for 100 bucks starting bid. ||||reg||1

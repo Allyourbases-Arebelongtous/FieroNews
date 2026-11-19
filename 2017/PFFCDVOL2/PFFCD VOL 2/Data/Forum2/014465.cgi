@@ -1,0 +1,2 @@
+A||||0||DaveL||2.5 Problem Getting It On an Engine Stand||||1||
+Z||000000||DaveL||10-15-2001||03:58 PM||||I recently bought a used 2.5 for my 87 SE, and I want to put it on my engine stand. What size are the three threaded holes on the engine?  They look like thy might need metric nuts, about 12 MM or so. There are several sleeved holes that I can deal with, but I can't find a 3 and a half inch 12MM. Is that the size?<P>------------------<BR>||||reg||1

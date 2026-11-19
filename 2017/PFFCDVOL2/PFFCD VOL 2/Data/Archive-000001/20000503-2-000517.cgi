@@ -1,0 +1,3 @@
+A||||1||4Banger Bandit||easy question about 4 to 6-cyl swap.
+Z||000000||4Banger Bandit||07-29-99||11:14 PM||||Just wondering how much torque the '85 automatic tranny can handle.  Is it identical to the one in the 6-cyl models.  Also, what type of 2.8 engine am I looking for if I'm interested in swapping motors? I know there are different types, but what years should I look for?  thanks...  
+Z||000001||batboy||07-30-99||05:56 AM||||The Fiero automatic transmission can handle the V6 without much problem. A few things that must be replaced during a 4 cylinder to V6 swap are motor mounts, fuel pump, engine wiring harness and ECM (the computer). Hopefully same of the other guys will add anything I'm forgetting.

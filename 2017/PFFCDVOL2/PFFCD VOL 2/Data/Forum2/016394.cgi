@@ -1,0 +1,3 @@
+A||||1||Dumba$$||ecm question||||1||
+Z||000000||Dumba$$||12-15-2001||09:01 PM||||im switching from an auto to a 4 spd<BR>my ? is :<BR>do i need to switch the whole ecm or can i just switch the chip?<P>------------------<BR>Rich<BR>Sioux Falls SD<BR>Red 84 SE<BR>Gold 86 SE <BR>98 acura cl 3.0<P>ever notice that people that own a fiero, either have, or have had other fieros?||||reg||1
+Z||000001||GTDude||12-15-2001||09:12 PM||||They both use the same ecm's you just need to upgrade the prom (chip).  Might be a good time to get a performance chip, not much more expensive.<P>Phil Pettus<P>------------------<BR>GTDude's 86GT||||reg||1

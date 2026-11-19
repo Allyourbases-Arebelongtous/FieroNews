@@ -1,0 +1,9 @@
+A||||7||Cliff Pennock||Did my car get a nose job?
+Z||000000||Cliff Pennock||05-27-99||12:59 AM||||As you may know, my car was in an accident about two months ago and the nose had to be replaced. Instead of using the nose of a 86.5 GT, they used the nose of an 85 notchback. Now as far as I know, the only difference between these two noses is the strip on the side. But someone else pointed out to me that the nose of the 85 notchback is also a bit narrower than the nose of the 86.5.<p>Can anyone confirm this? I must say that since it got the new nose I always thought my Fiero looked a little bit different than before, but I was never able to figure out why... COuld this be it?
+Z||000001||Patrick||05-27-99||01:18 AM||||<br>Who nose?<p>
+Z||000002||FieroMike||05-27-99||09:46 AM||||That was funny! <p>From what I hear 85-88 GT noses are all interchangeable, now if that means they are the same...  But I smell a debate.... (I had to try)
+Z||000003||Cliff Pennock||05-27-99||01:59 PM||||:)<p>I could have expected that! A lot of people were giving me funny looks when I told them I finally got a new nose...
+Z||000004||SCCA FIERO||05-27-99||03:10 PM||||The 2 look so much alike(besides the side moldings) would Pontiac retool to make it different? I mean would they waste the time and money to make the a "little" different? I think they are the same shape...they look the same. I could be wrong
+Z||000005||Phil||05-27-99||04:33 PM||||The nose off of my 85GT looks exactly like the one on my 88GT except for the molding
+Z||000006||Bozone||05-30-99||10:22 AM||||Cliff - this is not the first time I've seen that 86.5GT thing. I have two 86GTs, a 4-speed and a 5-speed. Is that when they changed? What separates the 86GT from an 86.5GT? By the way, I'm getting a new nose on one of mine too &lt;g&gt;.
+Z||000007||Cliff Pennock||05-30-99||02:01 PM||||Bozone, the 86GT is the notchback. The 86.5GT is the fastback.

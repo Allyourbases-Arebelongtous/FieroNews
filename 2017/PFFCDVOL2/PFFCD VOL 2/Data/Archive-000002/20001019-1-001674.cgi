@@ -1,0 +1,2 @@
+A||||0||Spyder||Fiero Kit Cars At Daytona 2000||||10||
+Z||000000||Spyder||03-28-2000||02:32 PM||||<BR>My favorite was this blue Fino from Gary's: <IMG SRC="http://www.fiero.nl/uploads/kdayfinobluea.JPG"> <BR> <IMG SRC="http://www.fiero.nl/uploads/kdayfinobluec.JPG"> <BR> <IMG SRC="http://www.fiero.nl/uploads/kdaylaboW1.JPG"> <BR> <IMG SRC="http://www.fiero.nl/uploads/daymultia_1.JPG"> <P>I will post some more later.<P>||||reg||10

@@ -1,0 +1,2 @@
+A||||0||Sage||Comic Value||||5||
+Z||000000||Sage||07-13-2000||09:55 AM||||Can anyone point me to a site that will help place a value on some vintage comic books? <P>Most of them are published by Dell from the the 50's, and there are some of the "Classics Illustrated", like The Ten Commandments, Abe Lincoln's Life Story, and The Three Muskateers,Vol#1.<P>Any info will be appreciated.<P>TIA ||||reg||5

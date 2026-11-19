@@ -1,0 +1,3 @@
+A||||1||MCordray||Door Skin Removal?||||5
+Z||000000||MCordray||11-21-1999||05:23 PM||||I'm replacing the outer weatherstriping on the drivers side door (door glass seal). I know of a couple of methods that don't involve removing the door glass (which I don't want to do). But, can it also be done by removing the outer door skin? How hard is it to remove the door skin? Does anyone have experience doing this?||||reg||5
+Z||000001||TOM||11-21-1999||06:08 PM||||Taking the skin is no biggie but it wont help with the dew wipe replacment. You need to make a tool to get to the center screws or buy one from me for $7.00||||reg||1

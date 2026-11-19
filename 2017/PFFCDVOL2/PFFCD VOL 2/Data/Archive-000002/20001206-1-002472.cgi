@@ -1,0 +1,5 @@
+A||||3||Homicidal||Price of Eagle Car Wash: $4.99....Price of Tire Protectant: $2.99......||||1||
+Z||000000||Homicidal||06-09-2000||03:23 AM||||Price of that funny feeling you get when you are at a local classic car show and your Fiero gets LOTS of looks:  PRICELESS BABY!!<P>Yeh, there is a local car show every wed. here in San Diego, and I always sport my Fiero there.  I always get looks and questions because I make sure it is SUPER glossy on the white paint job and all the black!!<P>I LOVE it!||||reg||1
+Z||000001||DXR_DAD||06-09-2000||10:51 AM||||yep!!! I know that feeling. The Golden Gate Fieros Poker Run & Car Show is this Sunday<P>I need someone to wash & wax mine, had a little rain over last few days, I hope it's a nice day!!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||14
+Z||000002||lennyb4||06-09-2000||11:36 AM||||Well thats not a feeling i knew yet BUT i hope to by next summer. But when she's nice and clean she does look pretty darn good.||||reg||7
+Z||000003||lennyb4||06-09-2000||11:36 AM||||Well thats not a feeling i know yet BUT i hope to by next summer. But when she's nice and clean she does look pretty darn good.||||reg||7

@@ -1,0 +1,2 @@
+A||||0||Steven||Quad 4 engine info.||||1||
+Z||000000||Steven||01-31-2001||01:43 PM||||Don't know who is planning to do what on their Fieros, but for anyone thinking of a Quad 4 engine swap. You might want to check out the January 2001 issue of Hot Rod. It has the first article of a series talking about how to soup them up, what is the different between the 2.3 and 2.4 liter versions, and what is interchangable. Just thought that someone might like to know. ||||reg||1

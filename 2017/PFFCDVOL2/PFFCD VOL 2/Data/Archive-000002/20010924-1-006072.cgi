@@ -1,0 +1,8 @@
+A||N||6||1FST2M6||From the guys at Grassroots magazine||||1||
+Z||000000||1FST2M6||03-06-2001||03:27 PM||||thought you might be interested... NOT a flame war... <BR> <A HREF="http://www.board.mr2pages.com/showthread.php?s=fa00322564b45d4b61c1aa6e4b3a2dce&threadid=13998" TARGET=_blank>http://www.board.mr2pages.com/showthread.php?s=fa00322564b45d4b61c1aa6e4b3a2dce&threadid=13998</A> <P><BR><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sig1fst.jpg"> ||||reg||1
+Z||000001||FieroJoe||03-08-2001||08:46 PM||||Interesting, where do you send the pics to?<P>------------------<BR>AIM: Snowboarder0311<BR>87 Coupe 5sp. - big resto in progress<BR>  <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1
+Z||000002||Oreif||03-08-2001||09:05 PM||||I just added my car to the GrassRoots site.<BR>Thanks!||||reg||1
+Z||000003||onfire||03-09-2001||03:00 AM||||Hmmm a chance to be in a magazine, and only 2 Fiero are listed.||||reg||1
+Z||000004||onfire||03-09-2001||03:02 AM||||To make it easier go here. <A HREF="http://www.grassrootsmotorsports.com/" TARGET=_blank>http://www.grassrootsmotorsports.com/</A> <P>Then click on message board, then the readers rides.||||reg||1
+Z||000005||ChadMan||03-09-2001||08:40 AM||||Semi-off-topic...I saw somebody on eBay selling a back issue of Grassroots Motorsports from 1994 in which they did a big feature on Fieros, but I was outbid.  Something to keep an eye out for!||||reg||1
+Z||000006||1FST2M6||03-09-2001||08:46 AM||||what month? i'll e-mail David Wallens (senior editor) and see if I cna't get one... (they bring their project car up for dyno tuning)<p>[This message has been edited by 1FST2M6 (edited 03-09-2001).]||||reg||1

@@ -1,0 +1,2 @@
+A||||0||fieroX||www.fieroX.com||||1||
+Z||000000||fieroX||10-30-2001||08:02 PM||||just wanted to let everyone know I purchased <A HREF="http://www.fieroX.com" TARGET=_blank>www.fieroX.com</A>  this evening.  There isnt anything there now, and probably wont be for a week or so, but just so everyone knows its coming!<P>------------------<BR> <IMG SRC="http://luminasupercharged.com/logo1small.jpg"> ||||reg||1

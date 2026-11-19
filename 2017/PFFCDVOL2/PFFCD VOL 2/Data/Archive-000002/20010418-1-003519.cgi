@@ -1,0 +1,3 @@
+A||||1||DjKid||ATTN: People with fieros with Z24 rims on it!||||6||
+Z||000000||DjKid||09-03-2000||08:44 PM||||I know I'm late.. but I hadda do it!<P><BR>  <IMG SRC="http://www.fiero.nl/uploads/fiero_z24.gif">  <P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/djkid_sig.gif">    <BR><A HREF="http://www.geocities.com/ray19nc/" TARGET=_blank>'Blue Knight'</A><p>[This message has been edited by DjKid (edited 09-03-2000).]||||reg||6
+Z||000001||Philphine||09-03-2000||11:52 PM||||i could almost be in this group but i only have 3 wheels and i only use them for spares. if you like five stars (3 stars for me) and are on a budget they make a good looking set of 16" wheels.||||reg||1

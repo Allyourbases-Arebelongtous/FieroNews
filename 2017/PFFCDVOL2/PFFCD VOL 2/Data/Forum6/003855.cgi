@@ -1,0 +1,6 @@
+A||||4||bigpacupacu||you have to see this ......HILARIOUS!!!!||||1||
+Z||000000||bigpacupacu||10-20-2001||07:41 PM||||check out this site and prepare to LOL!!! <A HREF="http://www.gotlaughs.com/funpages/bin2.cfm" TARGET=_blank>www.gotlaughs.com/funpages/bin2.cfm</A>  <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/00_00075.1.jpg"> ||||reg||1
+Z||000001||Loki||10-20-2001||07:51 PM||||HEheheh  That was kick ass   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P><P>------------------<BR> <IMG SRC="http://members.home.net/fieroloki/loki_sig.gif">    <IMG SRC="http://members.home.net/fieroloki/w4[1].gif"> <BR>ICQ# 16477998||||reg||1
+Z||000002||maryjane||10-20-2001||08:44 PM||||pretty nifty stuff.||||reg||1
+Z||000003||Tigger||10-20-2001||09:46 PM||||LOL  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>I'm not kidding, I've been thinking about that song since the attack and trying to write "Taliban" to it.  Just haven't had the free time to think out the whole song...<P>They did a great job!||||reg||10
+Z||000004||72vinman||10-21-2001||12:56 AM||||George Bush, get down with your bad self. He plays a mean bongo.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

@@ -1,0 +1,5 @@
+A||||3||twigg||my fiero wont start please help||||9||
+Z||000000||twigg||10-16-2000||02:41 PM||||my fiero will turn but it wont kick over.i cant figure out how to get it working it's a 86 4cyl 5speed please let me know what u think might help or what i can do thanks 4 your time.<BR>               tony||||reg||9
+Z||000001||fiero56||10-16-2000||03:05 PM||||Is this the twig from "stickman and twigg" on fiero.org?<P>I would check to make sure cam gear isn't stripped. Have ignition module tested too(does I-4 have ign mod).||||reg||1
+Z||000002||ThatRickGuy||10-16-2000||03:12 PM||||by turn/kick what do you mean. is the engine "turning over" (meaning the starter is turning the engine okay)? if so, from there, you need 3 things. Spark, Air, and fuel. air is pretty hard to mess up. so check for spark and make sure you're getting fuel to the cylinders. Have you recently done any work on the car? anything happen that could make you think theres a problem (hear a pop or other bad noises last time it ran) or anything like that?||||reg||1
+Z||000003||Old Lar||10-16-2000||04:06 PM||||Fuel pump fuse..That was a killer for me. Car cranks, got spark..no fuel.||||reg||3

@@ -1,0 +1,9 @@
+A||||7||Neal||name change||||10||
+Z||000000||Neal||06-01-2001||02:35 PM||||Well ive been here for about a year always with a name i didnt really like, so now im starting over with my real neme  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||10
+Z||000001||Voytek||06-01-2001||03:09 PM||||You mean your other name was goofier than Neal?  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> What was your other name?  Are you Neal NEAL?  As in blue '87 GT Neal?||||reg||1
+Z||000002||Neal||06-01-2001||03:28 PM||||Hey Voytek it sure is Neal with the blue GT.  Well that other name can remain a mystry but if you can figure it out i may admit to it...||||reg||1
+Z||000003||skitime||06-01-2001||03:38 PM||||How about fierosound, Rashaam, Ricecooker, Flashy, Haspers8, but not RRobinson?<P>------------------<BR><UL TYPE=SQUARE><BR><LI>Red 88 GT T-TOP<BR><LI>Red 86 GT<BR></UL><BR>      <IMG SRC="http://www.fiero.nl/uploads/pictures-1_5.jpg"> ||||reg||1
+Z||000004||fierojunky||06-01-2001||04:05 PM||||lottaballscamero??  <P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/fierojunkysig.jpg">   <BR>All show and no go is like a Wonder Bra. Looks really good untill you open it up||||reg||1
+Z||000005||RiceCooker||06-01-2001||04:07 PM||||Yeah Neal, "N_Man" was kinda cheesy<P>Oh, i'm sorry. Was thatsupposed to be a secret?  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||6
+Z||000006||Neal||06-01-2001||05:25 PM||||jeez todd, expose my shame, umm name why dont cha  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000007||FLASHY||06-01-2001||05:51 PM||||Hi Neal, and the rest of you. Just thought I'd join the Calgary Post club here. See you all soon enough.<P><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/flashy_sig.gif"> <P>"I know you believe you understand what you think I wrote, but I'm not sure you realize that what you read is not what I really meant"||||reg||1

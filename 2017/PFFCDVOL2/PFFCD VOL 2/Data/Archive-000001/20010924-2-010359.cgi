@@ -1,0 +1,4 @@
+A||||2||NASAReeves||Plenum Removal (Gasket) Question||||5||
+Z||000000||NASAReeves||05-12-2001||10:40 AM||||When you remove the plenum (88 GT/V6), is it best to replace the gaskets, or can they generally be reused?  If they should need replacing, where could I find some (and what would you call the item)?<P>Thanks for your patience & time!<P>------------------<BR>Scott & Traci<BR>'88 GT||||reg||5
+Z||000001||terryk||05-12-2001||11:24 AM||||If they are still flexible, I've reused them without any problem. If they are hard and brittle, change them.<P>A Pontiac dealer, Napa, Autozone, Kragens, etc or The Fiero Factory on Toney about 9 miles north on 53 I think. <p>[This message has been edited by terryk (edited 05-12-2001).]||||reg||1
+Z||000002||Formula88||05-12-2001||05:33 PM||||I, too, have re-used the upper plenum gaskets without any problems, provided they are still flexible.  If they crack when you bend them slightly, time for new gaskets.||||reg||6

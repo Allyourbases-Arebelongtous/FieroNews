@@ -1,0 +1,3 @@
+A||||1||Blade||Painting Sugestions...||||1||
+Z||000000||Blade||08-31-2000||02:02 PM||||I need new front panels...<BR>I eventually want to paint the whole car Black. It was originally gold and now it it burgandy. Would I be best off just tryint to replace all panals on car with Black panals? Or just get whatever i can find and paint the whole car? I figure i need to paint the Black panals anywhay but not sure is the Plasick Black red ect then painted? Just curious.<P>Blade<P><BR>||||reg||1
+Z||000001||Indiana_resto_guy||08-31-2000||10:05 PM||||If the car's paint is not faded just paint the new parts. If it is, no matter what you do you'll most likely need over-all paint.||||reg||1

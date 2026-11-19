@@ -1,0 +1,3 @@
+A||||1||Giles||compression?||||1||
+Z||000000||Giles||04-25-2000||10:54 PM||||I'm redoing the head on my 84 fiero.  I'm gonna try to mill the head down to increase the compression.  what is the max i can mill off the head?  i'm concerned about the valves hitting the top of the piston.  does anyone have suggestions?  I'm aware that i'll need to get shorter lifters, and i already know where i can get them.  Just need help on the mill thickness.  thanks MRG||||reg||1
+Z||000001||batboy||04-25-2000||11:02 PM||||I'd only mill 0.010" and with hydraulic lifters, you shouldn't need longer pushrods.||||reg||1

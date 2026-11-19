@@ -1,0 +1,5 @@
+A||||3||ginoferrari||aluminum cradle mounts||||5||
+Z||000000||ginoferrari||09-21-2001||10:43 PM||||I read a post the other day from a guy that makes aluminum engine mounts. I checked in the search mode and can't find anything. Does anyone know who it was? He wanted to know if anyone was interested in getting a set so he would know if it would be worth his while to get the material to make them.<P>------------------<BR>                  <IMG SRC="http://www.imagestation.com/picture/sraid26/p23177a738ceb9d88e0b51db344f1ee79/fe3c196f.jpg">                       <BR>84 2M4<BR>84 SE<BR>87 Coupe||||reg||5
+Z||000001||qwikgta||09-22-2001||01:27 AM||||Check with chris west. I think its cwestco.com <P><BR>Rob||||reg||1
+Z||000002||VISCERAL||09-22-2001||10:16 PM||||Darrell Morse in the parts vendors section on the top of the page.||||reg||1
+Z||000003||lowfierogt||09-22-2001||10:26 PM||||Call darrell he's the man.<P><P>------------------<BR> <IMG SRC="http://lowfierogt.no-ip.com/halfpole.gif"> ||||reg||14

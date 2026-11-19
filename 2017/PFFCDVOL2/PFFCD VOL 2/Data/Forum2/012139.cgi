@@ -1,0 +1,5 @@
+A||||3||DaveL||Dead 2.5||||5||
+Z||000000||DaveL||07-18-2001||03:05 PM||||Ok so my 87 2.5 threw a rod, and is stored in the garage until I can find a nother motor for it. There is coolant in the oil, so I'm wondering if there's something I should do while it's garaged...will this hurt the block?||||reg||5
+Z||000001||TONY_C||07-18-2001||03:45 PM||||Coolant in the oil can't hurt the block as much as a pitched con rod will.....||||reg||1
+Z||000002||EdsB52||07-18-2001||04:41 PM||||I bought an 84 with a thrown rod. When I disassembled it, I found it had a cracked crankshaft and cracked cylinder wall. I had the crank welded and cylinder wall sleeved. I should have found a core motor. Pull it apart and check it out. Maybe you got away with no damage. Good luck.||||reg||1
+Z||000003||theogre||07-18-2001||07:16 PM||||Don't even worry about this motor. just get another one. Olds Cutlass Calias and Grand Am are plentifull in the scrap yards. These motors usually run between 200-300$. You need to transfer all the brackets, pulleys and wire from the present motor to the FWD one. Buy a new belt tensioner while it's out and easy to replace.||||reg||1

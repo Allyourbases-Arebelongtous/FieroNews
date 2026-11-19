@@ -1,0 +1,4 @@
+A||N||2||Monkeyman||Door handle bezel is crooked?||||1||
+Z||000000||Monkeyman||05-29-2000||12:50 PM||||The mounting holes line up and everything.  Everything works, but I just don't like it.  What can I do?<BR> <IMG SRC="http://www.fiero.nl/uploads/dr.doorhandle_1.JPG"> ||||reg||1
+Z||000001||2M4 Dale||05-29-2000||01:03 PM||||Mine is a little crooked to. Not quite that much though and just the drivers side. Must have been Pontiacs attention to detail...lol. Good Luck||||reg||1
+Z||000002||Monkeyman||05-29-2000||01:17 PM||||The only thing I could think of to do would be to weld the front/rear/both screw hole closed, grind it smooth, redrill and retap the hole.  I'm not sure I want to pay someone to do all that, and I'm sure not gonna attempt it.  Then again, I hate the way it looks.  Let's put it this way.  My wife couldn't care less what my car looks like (or so she says <IMG SRC="http://www.fiero.nl/forum/smile.gif">) and she even noticed it.||||reg||1

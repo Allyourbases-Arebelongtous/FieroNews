@@ -1,0 +1,3 @@
+A||||1||btoth||Cleveland Plain Dealer article...||||10||
+Z||000000||btoth||09-09-2001||05:00 PM||||In the Driving section of today's Plain Dealer there is an article about car collectors and on the front page is a picture of Gary Glatzhofer, president of Cleveland Fieros with his bright red, 84 SE.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  <P>I'll try to scan it if I can.||||reg||10
+Z||000001||Raydar||09-09-2001||05:37 PM||||Yes!<BR>It's taking some time, but we (the Fiero crazed) are finally being recognized. <P>------------------<BR>Raydar - aka Steve<BR><FONT SIZE="1"><BR>Black 88 Formula.<BR>Red 88 Duke coupe. "The Project" <BR>88 Formula parts car. "The Donor"<BR></FONT>||||reg||14

@@ -1,0 +1,5 @@
+A||||3||jasonl||cat converter||||1||
+Z||000000||jasonl||01-31-2001||10:26 AM|||| Help!  I have taken my car in three time to have the emissions tested and it won't pass.  I was getting a code 32, which was fixed the last time I took it in.(PCV Valve tube was broken) Everything is passing except for the CO level, which makes me now think it's in the cat converter.  I am not getting any engine code lights (thank Goodness) and everything seems to be running fine.  Any Suggestions?||||reg||1
+Z||000001||FieroJoe||01-31-2001||10:30 AM||||What engine do you have?<P>How many miles?<P>It always helps to know these things...<P>Could be the cat going bad, if it has a lot of miles it could be getting clogged.<P>------------------<BR>FieroJoe<BR>c311t@yahoo.com<BR>AIM: Fiero87311, Snowboarder0311<BR>  <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1
+Z||000002||jasonl||01-31-2001||10:57 AM||||It is the 2.8 with 129,000 miles on it. (Sorry)||||reg||1
+Z||000003||TheFiero64||01-31-2001||11:09 AM||||I think it is your cat too.||||reg||1

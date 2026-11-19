@@ -1,0 +1,10 @@
+A||||8||Tigger||Saw a Fiero on the History Channel!||||4||
+Z||000000||Tigger||10-01-2001||10:33 AM||||Last night I was watching a show that looked into all the aspects and conspiracies linked to the JFK assasination.<P>Well, the Fiero was parked in front of a building as some people were walking in the door.<P>From the rear it looked to be a blue '87 coupe.  Anyhoo, just wanted to see if anyone else saw it too.||||reg||4
+Z||000001||NEPTUNE||10-01-2001||10:48 AM||||Naw, missed that. The History channel ran a 1 hour show on the history of the American sportscar recently, showed the usualCorvettes, Cobras, even Thunderbird, as well as  some most people never heard of. (Kurtis, Muntz)<BR> Guess which GM car did not even get an "oh by the way" mention. Oh well, thanks to that, I can still afford to buy/ own a Fiero!  ||||reg||6
+Z||000002||Tigger||10-07-2001||03:19 AM||||Just saw another Fiero on the World's Wildest Police Chases!<P>The officer was in pursuit of a blue Ford truck that was refusing to stop.  Saw the Fiero in the background as the truck made a right turn.  Just before the officer made the turn, there it was, an 87-88 burgandy coupe with a winky headlight sitting at the light across the intersection.||||reg||10
+Z||000003||87FieroGTx||10-07-2001||05:19 AM|||| I saw one tonight in the movie  "Bless The Child" Good movie.||||reg||1
+Z||000004||hugh||10-07-2001||09:16 AM||||I saw it too,it was parked against the right curb.||||reg||1
+Z||000005||Mickey_Moose||10-07-2001||11:49 AM||||well you can always pull out a copy of Star Trek 4 (I think) - The Voyage Home - Fieros galore in this film...<P>Tim||||reg||6
+Z||000006||fierobaby||10-07-2001||12:00 PM||||I was watching speedvision and I saw a Fiero they were talking about different cars with people on the street like an interview thing and a black GT drove by I think it was an 87||||reg||1
+Z||000007||Brian87egotrip||10-07-2001||07:15 PM||||There's one in copland probably the best scene in the movie<P>------------------<BR>Brian                    87GT||||reg||1
+Z||000008||4BanGinFun||10-07-2001||10:16 PM||||theres an 85 SE in "Ferris Bulers Day Off"<BR>just like mine <P>||||reg||6

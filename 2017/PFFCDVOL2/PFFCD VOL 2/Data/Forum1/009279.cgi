@@ -1,0 +1,2 @@
+A||||0||skitime||Williamsburg Show Pics||||1||
+Z||000000||skitime||08-06-2001||10:48 AM||||Hey just thought I share pics and break them into catagories. Prep,Cruise,Show,Banquet Please post your pics too.<P> <IMG SRC="http://www.fiero.nl/uploads/P8040025.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/P8040026.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/P8040030.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/P8040033.jpg[/img][img]http://www.fiero.nl/uploads/P8040034.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/P8040043.jpg"> ||||reg||1

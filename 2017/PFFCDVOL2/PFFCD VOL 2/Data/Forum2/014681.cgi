@@ -1,0 +1,7 @@
+A||N||5||JB||what is this part???||||5||
+Z||000000||JB||10-22-2001||09:04 PM||||On my 85 gt with the 2.8,  What is the part that appears to be a fan in the luggage area on the pass side?  It has duct work that runs to the coil.  What is it and what does it do?  I want to know so i can make sure that it is working!||||reg||5
+Z||000001||DXR_DAD||10-22-2001||09:07 PM||||JB, it's just what you said  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> A fan with duct work to the coil and alt. It's to keep them cool. It comes on with the rad. fan.<BR>Or when you turn on the AC.<P>DXR_DAD||||reg||1
+Z||000002||JB||10-22-2001||10:33 PM||||Thanks DXR_DAD for your info. and prompt response.  I Thought thats what it was but being new to the FIERO world, I thought that I had better ask just in case.  ||||reg||1
+Z||000003||DXR_DAD||10-22-2001||10:39 PM||||No problem. That's what the forum is here for<BR>Glad to be a help <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>PS. Welcome to the spot!!!! Also try the search Upper right of this page. Lots of info there that has been cover many many times.<P>DXR_DAD||||reg||14
+Z||000004||mbramble||10-22-2001||10:41 PM||||I just spent quite a long while getting mine to work.  Couln't get radiator and engine compartment fans to come on at the same time.  Finally increased from 10 to 15 amp fuse and all is well..  Must be old motor drawing more current at startup.  <P>Welcome to the Forum....||||reg||1
+Z||000005||JB||10-22-2001||11:23 PM||||Thanks for the info guys.  Will do.||||reg||1

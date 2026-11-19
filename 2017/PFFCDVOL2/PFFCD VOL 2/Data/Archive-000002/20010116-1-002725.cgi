@@ -1,0 +1,7 @@
+A||N||5||FieroSTETZ||anyone have a spare front....||||1||
+Z||000000||FieroSTETZ||06-28-2000||12:32 PM||||does anybody have a spare '88 coupe/formula front, preferably in black? i am looking to buy one to put on my '87 GT to see how it looks. this fascia would fit, would it not?||||reg||1
+Z||000001||Monkeyman||06-28-2000||05:51 PM||||It would fit, but the more important question is, "Why?".||||reg||1
+Z||000002||Raydar||06-28-2000||08:44 PM||||You might be surprised. (Then again, maybe not.)  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><BR>I saw a medium red 87 GT for sale last year, that had a Formula nose on it. It really looked like it "belonged". Looked *much* better than I would have imagined.<BR>Just my $.02.||||reg||1
+Z||000003||Raydar||06-28-2000||08:50 PM||||Oops. This usta be a duplicate.  <p>[This message has been edited by Raydar (edited 06-28-2000).]||||reg||1
+Z||000004||FieroSTETZ||06-29-2000||03:35 AM||||well, I was curous about how it would look- think about a formula front with a GT back... wouldnt that be kinda cool? i think it would look a little more exotic, and less like a trans am (besides, it would give me a front fascia to use while i was modifying the aero one- might put one of those JCW knight rider thingies in there  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> )||||reg||10
+Z||000005||SCCA FIERO||06-29-2000||05:08 AM|||| <IMG SRC="http://www.fiero.nl/uploads/fieroGT(formula).jpg"> ||||reg||14

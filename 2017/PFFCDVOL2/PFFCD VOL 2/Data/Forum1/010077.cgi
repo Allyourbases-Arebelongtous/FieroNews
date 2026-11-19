@@ -1,0 +1,3 @@
+A||N||1||1FST2M6||Gathering in Marietta...  (GA) well Kennesaw||||1||
+Z||000000||1FST2M6||09-05-2001||03:12 PM||||Friday night 9-7-01 @ US Play, in kennesaw. Marietta Street Performance (aka MSP or Mostly Sticker Performance) is hosting a show.. starts at 7 till 11 food drinks, toys and I'm sure as always a little stop light dancing afterwards. <P><BR>Who'll be at the Ga. Fieros drive saturday?<BR><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/1fstmeatsig.jpg">          <BR>www.engineered.net||||reg||1
+Z||000001||Brian87egotrip||09-05-2001||04:35 PM||||my gt broke down in kennasaw last year on the way to foccoa. Memories... only cost me $400 dollars and two days time. God I love my fiero<P>------------------<BR>Brian                    87GT||||reg||1

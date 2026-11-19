@@ -1,0 +1,2 @@
+A||N||0||trigger||Urchin?||||1||
+Z||000000||trigger||06-23-2001||10:41 PM||||I was wondering if you could post some pics of your car.  Especially the wheels and tires.  Do you have any info on them.  Thanks.<P>------------------<BR>Honestly officer, I was just keeping up with the flow of traffic.  I know there aren't any cars in the area, that's how far behind I am.<BR> <IMG SRC="http://www.fiero.nl/uploads/Trigger.gif"> ||||reg||1

@@ -1,0 +1,4 @@
+A||||2||FIEROCIOUS||Play in steering wheel?||||5||
+Z||000000||FIEROCIOUS||04-21-2000||01:56 AM||||I have a little play in my steering wheel I have a after market steering wheel (Grant). All the steering gear is new and it just started doing this a week ago. I know The Grant wheel and the rack and pinion are not the problem It seems more in the column to me. Has anyone had this problem? How do I fix it? ||||reg||5
+Z||000001||CUTTER||04-21-2000||12:08 PM||||Mine does the same thing except my whole thing has play. The steering wheel and everything else under it. I been driving like that for about 2-3 months now and it doesnt get worse, I plan on getting it fixed in a week or 2. No clue on the cost!||||reg||1
+Z||000002||Phil||04-21-2000||12:34 PM||||Check Ogre's cave(link at bottom of this page)||||reg||1

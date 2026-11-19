@@ -1,0 +1,4 @@
+A||||2||jlhuber||sensor identification||||5||
+Z||000000||jlhuber||03-05-2000||08:14 PM||||what is the sensor that is by the #5 cyl on the '86 GT?  it almost looks like the temp sensor, but the tip is a bit bigger and it has a different thread than the temp sensor that is in the lower intake manifold.  i haven't found it in the manuals yet either.  anyone know?  is there actually two coolant temp sensors?  or did the previous owner replace some sensors with different ones?  thanx||||reg||5
+Z||000001||Phil||03-05-2000||08:35 PM||||If you mean the one in the head with 2 wires and a most likely melted connector it is the temp gage and idiot light switch/sender||||reg||1
+Z||000002||Standard||03-06-2000||02:02 AM||||there are actually 3 temp sensors on the v6.. one for the ECM, one for the Gauge, and one for the fan.  which seems pretty stupid coming from the beancounters at GM...  <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif">||||reg||1

@@ -1,0 +1,2 @@
+A||||0||LoW_KeY||Speedo & interior lights||||1||
+Z||000000||LoW_KeY||12-02-2001||09:59 PM||||I'm curious is there any kind of bulb you can get thats brighter? and would the white gauges light up like the stock? <P>if not I'll stick with black, but I want a 150 speedo!!  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>AIM: FierFormula88   <P>  <IMG SRC="http://www.fiero.nl/uploads/kcbanner.jpg"> ||||reg||1

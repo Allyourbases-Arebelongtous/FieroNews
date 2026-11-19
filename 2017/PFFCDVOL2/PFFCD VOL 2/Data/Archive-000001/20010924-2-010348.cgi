@@ -1,0 +1,3 @@
+A||||1||spideyfoot||other seats?||||5||
+Z||000000||spideyfoot||05-11-2001||08:10 PM||||Has anyone mounted any other seats in their fiero.  know about the f bodies but how about something like the new Cougars or Momos or Sparcos or anything cool? I bet it wouldn't be to hard to move the seat mounts from the stocks. The parking brake may be a bugger though hmm||||reg||5
+Z||000001||Dave Gunsul||05-11-2001||09:58 PM||||I've got a Kirkey racing seat in my GT.<BR>All you have to do is remount the original<BR>brackets to the new seat.<BR>And yes my GT is a one-seater.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>Dave Gunsul<BR>N.I.F.E. member<BR>86 GT modified<BR>85 SE daily driver||||reg||1

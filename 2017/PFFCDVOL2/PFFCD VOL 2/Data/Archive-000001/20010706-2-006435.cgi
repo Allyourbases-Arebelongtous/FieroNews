@@ -1,0 +1,4 @@
+A||N||2||Fiero_Freak||3.1 stroker kit?||||5||
+Z||000000||Fiero_Freak||10-26-2000||10:10 PM||||   I was thinking of making a kit through Summit to emulate the Hi-Po kit from the Fiero store. Is the 3.1 really just a different crank?  How much more power can you get from the 3.1? Would I have a problem with the TRW's?  Do you have to get a new ECM chip.  I have the hypertech chip for the 2.8. Just anything you can tell me would be great. ||||reg||5
+Z||000001||ThatRickGuy||10-27-2000||09:15 AM||||you need crank and pistons. the rods are the same, but to make up for the longer stroke, the rods meet up different in the pistons... But that's it. Search the archives, there's plenty of prior discousions on it from other people doing the exact same research.||||reg||1
+Z||000002||Phil||10-27-2000||09:37 AM||||Don't forget the neutral balance flywheel/flex plate||||reg||1

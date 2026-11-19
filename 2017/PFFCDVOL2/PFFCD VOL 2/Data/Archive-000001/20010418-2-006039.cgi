@@ -1,0 +1,9 @@
+A||||7||JetroGT||Reverse lights on 5spd GT don't work!||||8||
+Z||000000||JetroGT||10-03-2000||06:33 PM||||I have an 86 service book but the car is an 87. It shows the switch to be on the left side of the shifter but I did not see any switch. Where is that thing? I going to work so I'll abuse the proxy their.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||8
+Z||000001||Indiana_resto_guy||10-03-2000||11:36 PM||||The switch is located inside the tranny. You should be able to see the pig tail from the top of trany.||||reg||1
+Z||000002||contra||10-03-2000||11:45 PM||||did you start with the simple first?<BR>did you check to see that the bulbs work?<BR>i wouldn't want to see you go through a headache and all it was, were the bulbs needed changing<BR>hehe<BR>happened to me with my brake lights<BR>i thought i had an electrical problem<BR>but nope<BR>all my lights just burnt out  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||msweldon||10-04-2000||08:52 AM||||be careful not to pop a vein in your forehead while trying to get that back-up sensor out.  Spray it down with some anti-sieze compound (wd40) and let it sit for a few hours.<P>regards,<BR>marc||||reg||1
+Z||000004||JimIndyRCR||10-04-2000||01:46 PM||||Does anyone have a part # or a "place to buy" one of those backup switches. I took my switch out of the trans and it only works 50% of the time. <BR>Thanks,<BR>Jim||||reg||1
+Z||000005||the need for speed||10-04-2000||03:17 PM||||how do they come out of the tranny?is it pretty easy or do you have to take the tranny a part?||||reg||1
+Z||000006||ROB MAC||10-04-2000||06:22 PM||||My switch bends back far enough that the lights only stay on if you hold the shifter against the stop. If I adjust it it doesn't hold.||||reg||1
+Z||000007||msweldon||10-04-2000||06:31 PM||||Go to the Fiero Store...<BR> <A HREF="http://www.fierostore.com" TARGET=_blank>www.fierostore.com</A> <P>Forgot the price, sorry....<P><BR>marc||||reg||1

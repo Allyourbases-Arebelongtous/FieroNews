@@ -1,0 +1,4 @@
+A||N||2||kyote||Will an '86 ECM work with a '85 engine?||||1||
+Z||000000||kyote||10-15-2001||11:41 AM||||I have a question... will an ECM for a '86 V-6 work with a '85 V-6  engine..??  <IMG SRC="http://www.fiero.nl/forum/confused.gif"><BR>(will have same tranny...)<P>Thoughts...??<P>------------------<BR>'84 SE<BR>'84 SE (Strictly Parts Car)<BR>'86 SE<p>[This message has been edited by kyote (edited 10-15-2001).]||||reg||1
+Z||000001||Voytek||10-15-2001||03:06 PM||||Shouldn't be a problem - exactly the same engine.  Make sure both cars are either standard or automatic - a combo doesn't work.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/voyteks_sig2.gif"> ||||reg||1
+Z||000002||kyote||10-15-2001||03:12 PM||||Those were my thoughts also...<BR>just wanted to be sure... <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Thanks for the reply...||||reg||7

@@ -1,0 +1,5 @@
+A||||3||Getaway2k||Rubber transmission hoses||||5||
+Z||000000||Getaway2k||10-28-2000||08:16 PM||||I need to replace the 2 rubber transmission line hoses on my 86 gt. Is there a special brand/type/quality of hose that I should be buying. Any specific pressure rating that I should be concerned with (or anything else for that matter!)? Also, do I need to drain the trans fluid 1st (if only a small amount of fluid will be lost I won't bother removing the pan, but, if it's going to spray out I'd rather drain the fluid).<P>Thanks||||reg||5
+Z||000001||Terrybogin||10-28-2000||09:25 PM||||Most suppliers will have auto trans cooler line. It seems to be a little stiffer than the same size fuel hose. If not, some power steering return hose will also work. ||||reg||1
+Z||000002||theogre||10-29-2000||11:53 AM||||you can change the line without worrying about the fluid.||||reg||1
+Z||000003||Getaway2k||10-29-2000||04:34 PM||||Thanks Terry, I've found a package of transmission cooler line at the local auto parts store. <P>Theorge, glad I don't have to drain the fluid. I was worried that I'd be taking a bath in the stuff if I disconnected the hose!<P>||||reg||1

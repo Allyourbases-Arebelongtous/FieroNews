@@ -1,0 +1,4 @@
+A||N||2||sombre||Question about 17's||||1||
+Z||000000||sombre||05-11-2001||11:12 PM||||  Quick question for all those of you running 17 inch wheels....<P>    What offset are you running and what size tires for front and rear???<P>   I made up my mind that I wanted 16's but just got some info on real good wheel prices but they do not deal with anything smaller than a 17...So back to square one...\<BR>                                  Greg||||reg||1
+Z||000001||sjp777||05-11-2001||11:19 PM||||My rims are 17X7.5 5-100 42S all around with Nitto Extreme Performance 215/45ZR17's on the front and 235/40ZR17's on the rear. Got them from discounttiredirect.com. <P>------------------<BR> <A HREF="http://www.geocities.com/fiero88gt1/" TARGET=_blank>http://www.geocities.com/fiero88gt1/</A>||||reg||1
+Z||000002||Jim Keyton||05-12-2001||08:18 PM||||88 GT, ROH ZS, 17x7.5, 40mm, 215/45 and 245/45. One coil cut front. No clearance problems.<BR>Jim||||reg||1

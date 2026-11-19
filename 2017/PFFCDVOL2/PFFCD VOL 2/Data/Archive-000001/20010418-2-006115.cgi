@@ -1,0 +1,4 @@
+A||||2||JohnnyK||Need your guys help (non fiero)||||1||
+Z||000000||JohnnyK||10-08-2000||02:01 PM||||I just smashed up my 3/4 ton chevy van yesterday, and need some help (figured you guys could help me). The van only suffered from a crumpled front right quarter?-panel and a smashed light fixture (etc), but the Intrepid was destroyed.. Now, has anyone ever taken that steel panel off and can tell me how? Thanks!||||reg||1
+Z||000001||2xsess||10-08-2000||11:54 PM||||If you're talking about the fender ( the piece over the front wheel) it should be easy. Remove bolts on top edge, under hood. Check for bolts in door hinge area. Remove bolts from bottom of panel. There might be a few behind the grill too so you should take that off to.<P>Hope That Helps.<P><P>------------------<BR>Jeff<BR>85GT||||reg||1
+Z||000002||JohnnyK||10-09-2000||10:16 AM||||Yeah, I have to replace lots of the grill too (what the heck was I thinking??).. Thanks alot man!||||reg||1

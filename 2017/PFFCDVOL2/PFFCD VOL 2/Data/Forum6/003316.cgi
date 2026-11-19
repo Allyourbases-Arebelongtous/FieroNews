@@ -1,0 +1,10 @@
+A||||8||Urchin||Trying out sig ideas...again (ignore)||||1||
+Z||000000||Urchin||09-10-2001||08:28 PM|||| <IMG SRC="http://www.fiero.nl/forum/eek.gif"><P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/Final_pic_1_(signature_sized).jpg"> <BR>If you can read this, I'm parked.||||reg||1
+Z||000001||Urchin||09-10-2001||08:29 PM|||| <IMG SRC="http://www.fiero.nl/uploads/Rear_quarter_2(experiment_sig).jpg"> ||||reg||1
+Z||000002||Urchin||09-10-2001||08:30 PM|||| <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <IMG SRC="http://www.fiero.nl/forum/tongue.gif"> <BR> <IMG SRC="http://www.fiero.nl/uploads/Rear_quarter_2(experiment_sig1).jpg"> ||||reg||1
+Z||000003||Urchin||09-10-2001||08:30 PM||||Hmmmm.........||||reg||1
+Z||000004||Urchin||09-10-2001||08:36 PM|||| <IMG SRC="http://www.fiero.nl/uploads/Final_pic_2_(signaturec).jpg"> ||||reg||1
+Z||000005||Urchin||09-10-2001||08:54 PM||||I really need a better camera!  <IMG SRC="http://www.fiero.nl/forum/mad.gif"><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Final_pic_1_(signature_sizedm).jpg"> <BR>If you can read this, I'm parked.||||reg||1
+Z||000006||Urchin||09-10-2001||09:01 PM||||One more for now....<BR> <IMG SRC="http://www.fiero.nl/uploads/new_one.jpg"> ||||reg||1
+Z||000007||sqoach||09-10-2001||09:02 PM||||Hey, I can't ignore these things  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>The 3rd one looks pretty cool, with the blueish looking background.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>-Adam<BR><FONT COLOR="BLUE">sqoach@yahoo.com</FONT><BR>        <IMG SRC="http://www.fiero.nl/uploads/sqoach.gif">        <BR>^^^^^^<B>new project</B>^^^^^^<BR><LI><FONT SIZE="1">84 SE (FOR SALE)*sale pending*<BR><LI>85 Coupe (parts car)($50)*sale pending*<BR><LI>86 SC (FOR SALE)</FONT>||||reg||1
+Z||000008||Urchin||09-10-2001||10:21 PM||||lqwerioyhg<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/final.jpg"> <BR>If you can read this, I'm parked.||||reg||1

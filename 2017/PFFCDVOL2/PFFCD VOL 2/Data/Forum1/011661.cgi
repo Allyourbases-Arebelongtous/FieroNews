@@ -1,0 +1,7 @@
+A||||5||RadRuss||fiero owners near buffalo, NY||||6||
+Z||000000||RadRuss||11-07-2001||06:48 PM||||hey guys i should be getting my car back in about a week i hope, so if weather permits would anyone near buffalo be intrested in getting togather and doing a cruiz. let me know. <BR> <IMG SRC="http://www.fiero.nl/uploads/signature_6.jpg"> ||||reg||6
+Z||000001||AkursedX||11-07-2001||06:54 PM||||I should be up for it.  Just give me a date and a place.  Although I won't have my 88, I just put it away, but I will have my 87.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR><BR> <IMG SRC="http://www.fiero.nl/uploads/sigpic2_2.jpg"> ||||reg||1
+Z||000002||87FieroGTx||11-08-2001||12:34 AM||||I'm right around the corner!<P>------------------<BR>85 Fiero GT ~ auto 3.2 200hp 220tq ~ 75+ shot NOS ~ 0-60 4.9 13.5 1/4||||reg||1
+Z||000003||Red2m4||11-08-2001||02:53 AM||||I'm putting mine away for the winter soon, but maybe...<P>Any of you go to UB?  ||||reg||7
+Z||000004||Master_Sushi||11-08-2001||01:06 PM||||Sounds like fun! Only thing is I don't think my fiero could make it all the way to buffalo right now  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">.... I've got lots of work to do on it.||||reg||10
+Z||000005||Master_Sushi||11-08-2001||01:08 PM||||Oh, I don't go to UB. But the owner of the car before I bough it did. So my fieros spent many hours there I'm sure.||||reg||1

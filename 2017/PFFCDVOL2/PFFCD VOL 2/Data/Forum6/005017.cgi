@@ -1,0 +1,2 @@
+A||N||0||CoolBlue87GT||Gosh, I've got to stop pulling those wheelstands||||1||
+Z||000000||CoolBlue87GT||12-25-2001||04:03 PM||||(didn't mean to port this here, thought I was in Fiero Chat forum - sorry)<P>Opps, got to stop pulling those wheelstands, think it's bending my frame ! lol<BR>     <IMG SRC="http://www.fiero.nl/uploads/delthin2.jpg">     <P>Ever have this problem ?<BR><p>[This message has been edited by CoolBlue87GT (edited 12-25-2001).]||||reg||1

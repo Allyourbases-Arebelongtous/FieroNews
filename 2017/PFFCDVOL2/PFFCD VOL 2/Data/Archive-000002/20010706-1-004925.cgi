@@ -1,0 +1,2 @@
+A||||0||fierodave||New server for my website||||6||
+Z||000000||fierodave||12-22-2000||10:19 PM||||<BR>Hey all  I want to wish all the forum members a Joyful holiday season.  also i have moved my website to a new server to better support the needs of my site  NO banners, faster loading, there is an automatic redirect there now  so save it to your Favs if you like. and check out the updated list of stuff for sale in the mall<BR>Thanks for the space <BR>FD<BR>Regards<BR>David Andregg||||reg||6

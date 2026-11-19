@@ -1,0 +1,4 @@
+A||||2||JetroGT||Where's Bobs website?||||5||
+Z||000000||JetroGT||12-09-1999||05:22 AM||||<BR>I'm talking about the Fiero Parts Depot also know as Twin Lakes Fiero. I did a search for it and coulden't find it, and the ones that I did find didn't work. <BR>Does anybody know what the website is?<BR>Someone told me that they were doing 3.1 and 3.4 conversions while keeping the intake and valve covers the same. I just wanted to know what he was charging to do the engine swap.||||reg||5
+Z||000001||Carrolles||12-09-1999||02:17 PM||||Ed Parks does this conversion and uses the Fiero intake and valve covers.  He is at The Fiero Factory<P>Fierofactory@juno.com<P>(256) 420-5391  Huntsville, AL||||reg||1
+Z||000002||Monkeyman||12-09-1999||06:38 PM||||Twin Lakes Autos' phone # is:  217.386.2669.  Someone sent it to me just yesterday.||||reg||1

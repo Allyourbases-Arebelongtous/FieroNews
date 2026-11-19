@@ -1,0 +1,3 @@
+A||||1||Carrolles||On my way to Fiero Mecca||||1||
+Z||000000||Carrolles||03-22-2000||12:28 AM||||Hi,<P>I'm taking my family on a trip to California soon.  I called Phil at FOCOA and asked if he would be open on a Sunday when I am in Los Angeles.  He said he isn't open on weekends but he'd be glad to meet me so I could see FOCOA.  We agreed on 10AM on the Sunday I will be in town.<P>He did not have to do that.  Needless to say I am excited to be able to visit FOCOA.  I'll take pics and post what I think you all might like to see.<P>Take care,<P>Carroll||||reg||1
+Z||000001||ChadMan||03-22-2000||09:44 AM||||Yeah, let us know how the FOCOA museum is!  I have considered donating one of my Fiero models, but have no idea how to safely get it there.||||reg||1

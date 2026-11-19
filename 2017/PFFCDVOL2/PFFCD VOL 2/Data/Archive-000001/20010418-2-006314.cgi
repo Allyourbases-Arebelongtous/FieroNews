@@ -1,0 +1,3 @@
+A||||1||ThatRickGuy||One last vacuum question||||5||
+Z||000000||ThatRickGuy||10-19-2000||11:15 AM||||Okay, should be all good except that damn charcoal canister. I think I could make out where it goes tho, horizontal under the cruse control diaphram thing. I was told it's used for gas fumes off the tank, but I also thought it had a vac line to the cruise control. and I can't remember were the other vacuum line is, anyone happen to know what it plugs into so I can try to back track it? Thanks for all the help!||||reg||5
+Z||000001||Carrolles||10-19-2000||12:12 PM||||I think the horizontal canister below the cruise control is actually the vacuum canister, not the fuel vapor recovery canister.<P>On the v-6 cars the vapor canister is near the air filter housing.||||reg||1

@@ -1,0 +1,6 @@
+A||||4||FIERO1985||***I have an idle problem****||||5||
+Z||000000||FIERO1985||12-03-2000||09:57 AM||||In the mornings when its cold or at least 40 or below my car runs rough when cold I usually have to rev it up to 2-3000 rpms for 2-3 minutes for it to warm up and it still runs rough but soon after it runs and idles normal. But in the morning if I dont rev it up it will die and sometimes there is some back pressure when I rev it up but just like a little pop when i punch it from idle to 2-3000 IF any one has any idea of what to check them please respond<P>thanks so much <BR>Dan||||reg||5
+Z||000001||StuGood||12-03-2000||02:44 PM||||What engine and trans?  4-cyl (2.5) or V6 (2.8)?  Manual or auto?||||reg||5
+Z||000002||FIERO1985||12-03-2000||05:36 PM||||2.8 85 gt V6 4 speed||||reg||1
+Z||000003||StuGood||12-03-2000||05:51 PM||||Nothing springs to mind right off the bat.  Have you tried reading out trouble codes yet?<P>Does it idle too slow, then?  If so, might try cleaning up the throttle body; actually, first step might be to remove the IAC valve and clean that area of the throttle body. ||||reg||1
+Z||000004||FIERO1985||12-04-2000||03:18 PM||||ok I will try that then get back with you<P>thanks<BR>||||reg||10

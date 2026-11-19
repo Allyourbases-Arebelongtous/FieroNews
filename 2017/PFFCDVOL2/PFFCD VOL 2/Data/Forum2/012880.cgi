@@ -1,0 +1,2 @@
+A||||0||Joe Torma||Anyone hava a G-tech||||1||
+Z||000000||Joe Torma||08-17-2001||11:52 AM||||I got a G-Tech to tune my car a bit-- when it is drivable.  I was wondering if anyone has any experience with comparing it to a dragstrip times?  I know there is no reaction time involved with the G-Tech, so that's a consideration.<P>The thing is accurate to itself so that's good...but is it good enough to say "my car runs XX.XX?"<P>Thanks||||reg||1

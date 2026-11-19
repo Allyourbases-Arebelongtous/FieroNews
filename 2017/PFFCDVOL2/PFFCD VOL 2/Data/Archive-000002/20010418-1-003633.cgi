@@ -1,0 +1,4 @@
+A||N||2||Babygirl||Northwest shows||||3||
+Z||000000||Babygirl||09-11-2000||11:56 PM||||Any shows coming to the Northwest?  They all seem to be in the Midwest to New England states.  <P>------------------<BR>~Laura<BR>1984 Black SE Fiero||||reg||3
+Z||000001||Fret Naught||09-12-2000||12:36 AM||||BabyGirl,<BR>You might want to think of joining Fieros Northwest, they publish a newsletter with all kinds of Fiero activities scheduled, plus tech corner want ads etc...<BR>If you find this at all interesting, drop me an E-mail, and I will fill you in, I don't like to post Phone numbers and addresses on an open forum. Later<BR>Fret Naught<BR> <IMG SRC="http://www.fiero.nl/uploads/FretNaught_sig_6.gif"> ||||reg||14
+Z||000002||Babygirl||09-12-2000||11:04 AM||||Thanks!  I'll shoot you an email today!  Thx!<P>------------------<BR>~Laura<BR>1984 Black SE Fiero||||reg||6

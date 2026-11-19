@@ -1,0 +1,3 @@
+A||N||1||trigger||What happened to B lo 0||||1||
+Z||000000||trigger||09-25-2000||10:00 PM||||I haven't seen him for quite a while.  Is he still in one piece?<P>------------------<BR>Honestly officer, I was just keeping up with the flow of traffic.  I know there aren't any cars in the area, that's how far behind I am.||||reg||1
+Z||000001||DaRkLoRD||09-26-2000||01:09 PM||||I was wondering that as well.. I have a ton of questions to ask him regarding his online car audio business...<P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||5

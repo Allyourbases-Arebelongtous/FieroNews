@@ -1,0 +1,5 @@
+A||||3||hutch84fierose||sorry for all the topics!!!!!!!!!!||||1||
+Z||000000||hutch84fierose||07-01-2001||12:45 PM||||Sorry for so many topics there but thanx everyone for your help......I am 18 and starting to work hard on making this fiero an awesome car just simple projects will make it look good thanx everyone||||reg||1
+Z||000001||Cheever2||07-01-2001||01:23 PM||||No problem.  It's expected from newbies.  Like Radio Shack says: "You got questions. We got answers."  It's what this place is for.<BR>||||reg||1
+Z||000002||Bluebottlejunky||07-01-2001||02:33 PM||||Cheever your Fired!<P>------------------<BR>Hello, My name is Mike and I am addicted too fiero's...PLEASE dont help me.<BR>85'GT 4sp<BR>AIM: Fierofanatic2001||||reg||4
+Z||000003||88CoupeV6||07-01-2001||05:36 PM||||post all you want.<P>------------------<BR>Josh <B>(known by TheFiero64 for first 1239 posts)</B><BR>     <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg">    <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||7

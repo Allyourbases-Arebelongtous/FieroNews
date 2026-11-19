@@ -1,0 +1,4 @@
+A||||2||JohnnyK||What flare do I need at the master cylinder? (clutch)||||1||
+Z||000000||JohnnyK||09-07-2000||11:14 PM||||I am having fluid come up between the fitting and teh steel line at the master cylinder of the clutch. Why would this be? I had to make my own clutch line, and in doing so I took the old fitting of the old line, bought a new line, cut the end off, put the new fitting on and bubble flared it. Does it need a bubble flare, or a Y (double) flare? Should I just buy a new brake line, keep the fitting that came with it, but cut of teh flare and make a new one? THanks||||reg||1
+Z||000001||theogre||09-07-2000||11:24 PM||||Brake lines are always Double flared.||||reg||1
+Z||000002||JohnnyK||09-08-2000||08:47 AM||||But this is a clutch line, and it looked like it was a bubble flare. What happens if it is meant for a bubble flare, but I use a double flare?||||reg||1

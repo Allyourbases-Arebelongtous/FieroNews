@@ -1,0 +1,4 @@
+A||||2||rcn491||Longer Wheel bolts ?||||1||
+Z||000000||rcn491||02-26-2000||12:42 AM||||I just put on new wheels on my kit car and the bolts appear to be too short. The lug nuts bottom out after only 3 turns. Are longer bolts available ?||||reg||1
+Z||000001||terryk||02-26-2000||01:24 AM||||Yes, from any auto parts store in various lengths. Pop one out and take it with you.||||reg||1
+Z||000002||cobra427||02-26-2000||11:55 PM||||Its not a cut and dry deal.My experience was that, most auto stores have longer lugs but most were not metric and the few that were, had a bigger diameter shoulder(part that fits into the hub).Not much but enough so that it was not a simple press in fit.If you find the right size,you may have to drill out the lug holes a little to make them fit.<BR>Maybe you'll get lucky and find a store that has the ones you want. I tried two Auto Zones,two Napas,and Discount Performance. Could not find what I wanted.||||reg||1

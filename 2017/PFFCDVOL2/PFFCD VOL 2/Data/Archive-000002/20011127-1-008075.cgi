@@ -1,0 +1,2 @@
+A||||0||Oreif||Message for Leadfoot.||||4||
+Z||000000||Oreif||06-11-2001||09:29 PM||||Hey, <BR>I live in Schaumburg too. What section do you live in? I'm over by Walnut and Weathersfield Way.<BR> Are you a member of the Northern Illinois Fiero Enthusiasts?<BR>Email me at: se1986@home.com<P>------------------<BR>      <IMG SRC="http://www.fiero.nl/uploads/LOGO3.jpg">    <BR><B><I>Got Emblems?</I></B>||||reg||4

@@ -1,0 +1,3 @@
+A||||1||Mickey_Moose||engine problems||||1||
+Z||000000||Mickey_Moose||08-09-2001||10:27 PM||||88 GT v6 auto<P>1) car starts fine when cold (sits over night) - but hard to start when warm. Suggestions?<P>2) when taking off from a stop light - normal or hard acceleration - the car seems to want to stall the very instant that gas pedal is pressed, but then 'catches' and then drives fine. Suggestions?<P>no codes are coming up...last code was a bad oxygen sensor<P>thanks<BR>Tim<BR>||||reg||1
+Z||000001||ironhedno3||08-10-2001||08:20 AM||||sounds like the tps is getting slow..get a scan tool that can tell you the percentage of throttle@wide open..if it doesnt read 100% then i would replace it..another cause could be the ignition module  is getting too hot||||reg||6

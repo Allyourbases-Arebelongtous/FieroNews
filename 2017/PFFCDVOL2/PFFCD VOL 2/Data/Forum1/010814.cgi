@@ -1,0 +1,5 @@
+A||||3||FieroBUZZ||New wheels....new car....smaller pics||||6||
+Z||000000||FieroBUZZ||10-08-2001||01:55 PM||||These are the AR rims I had on my SE project. I think they look good.  Thanks for the comments on my original post.  I have another wing to put on.  I'll have some body mods to do before paint. Some of Doug and Sages scoops and a hood vent of some kind. Different seats, etc to make it 'mine'.<BR> <IMG SRC="http://www.fiero.nl/uploads/smgt10.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/smgt9.jpg"> <BR>Gary<BR>86 GT & SE||||reg||6
+Z||000001||FieroMaster88||10-08-2001||03:50 PM||||Looks good!  I want a fastback.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/jamessig.jpg">              <BR>James Essar<BR>AOL IM Name: FieroMaster88<BR>Not your ordinary 88 coupe!||||reg||1
+Z||000002||72vinman||10-08-2001||08:05 PM||||Love the wheels. Looks good. Very similar to what I would like to do this winter.||||reg||14
+Z||000003||StansGT||10-08-2001||08:51 PM||||Huh, James wants a GT, weird???  <P>------------------<BR>Stock 87 GT<P> <IMG SRC="http://www.fiero.nl/uploads/stansig.jpg"> ||||reg||10

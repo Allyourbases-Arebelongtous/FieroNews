@@ -1,0 +1,8 @@
+A||||6||fieroshop||RE: Pricing for Borla||||14
+Z||000000||fieroshop||11-10-1999||09:07 PM||||It seems I have a priliminary price for an exhaust system. Stainless stell headers, stainless steel pipes, stainless steel Cat. stainless steel Borla muffler and super nice tips. The whole system will be around 1100.00 to 1300.00. The headers by themselves will be around 450.00 if sombody just wants the headers.||||reg||14
+Z||000001||WisconsinGT||11-10-1999||10:21 PM||||How about from the end of the crossover pipe to the tailpipe?||||reg||1
+Z||000002||theogre||11-11-1999||01:12 AM||||you making a 4 cyl header to? If not a "cat back" price might make sence. Some of the 4's have the V6 dual outlet mufler.||||reg||1
+Z||000003||88formula||11-11-1999||07:55 PM||||STEEP PRICE DUDE.||||reg||1
+Z||000004||Tim||11-11-1999||10:05 PM||||Sounds good.  I can not bring myself to replace a stainless exhaust system with a mild steel that will rust.  Build a good product, do not worry about people that use price as a value.  Many are willing to pay for a superior products if we can find them.||||reg||1
+Z||000005||fieroshop||11-11-1999||10:24 PM||||Tim, I'm not worrying about what people say. Some will say the price is too steep and others will say it is great. Don't forget that this is the only all stainless steel headers that are being made. (At least as far as I know) Sprint headers are mild steel covered with aluminized paint and they sell for over $500.00 This system is stainless and is under $500.00 Tell me where anybody can get a system like this for that price.||||reg||7
+Z||000006||lowCG||11-12-1999||02:37 AM||||While you're at it,are you going to make a system for the 3.4TDC motor,say with 2" primaries?<BR>Drooling now.||||reg||1

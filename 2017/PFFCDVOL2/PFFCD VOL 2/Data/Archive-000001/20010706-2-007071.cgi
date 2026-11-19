@@ -1,0 +1,5 @@
+A||||3||1FieroGTRacingInc||Cracked Block....||||5||
+Z||000000||1FieroGTRacingInc||11-30-2000||09:34 PM||||Is my 2.8L that is cracked, worth having it welded or repaired???  In all reality...<BR>                     Thamk's   Steve||||reg||5
+Z||000001||Will||11-30-2000||09:48 PM||||Unless it was a gift from your dear departed grandmother...<BR>No||||reg||1
+Z||000002||1FieroGTRacingInc||11-30-2000||10:08 PM||||naaa. BUT I do wish I had Mammaw's Caddy Motor....   lol||||reg||1
+Z||000003||hugh||12-01-2000||08:11 PM||||There are very few places that are competent enough or have the necessary equipment to do a proper repair.Now may be the time to think about upgrading your engine.I always figure how much more will it cost to do what I really want?To make easier to understand what I mean.Suppose to replace your engine it will cost $2500,and to install a new 3800s/c,or a smallblock it costs$6500,the actual cost for the different engine is only $4000 because you had to spend $2500 anyway.This is the way I make a lot of decisions related to buying.Sorry for the long post(I was Inspired)  ||||reg||1

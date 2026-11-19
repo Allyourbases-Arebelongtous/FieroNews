@@ -1,0 +1,2 @@
+A||||0||86se/lambo||thermostat housing leak/discontinued||||9||
+Z||000000||86se/lambo||05-07-2000||02:48 AM||||Hi everyone, gotta say I love all the fiero<BR>smack. I noticed a leak from my 86 2.8, at the thermostat housing below the cap. After removing the cap and seeing the rust, lightly sanded the rim and found multiple small holes leaking. When i contacted the dealer I found out that the part has been discontinued and was forced to find one at the junk yard($25). The coolant has always been kept up ...just another area to watch out for  see ya||||reg||9

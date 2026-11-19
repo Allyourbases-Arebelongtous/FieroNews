@@ -1,0 +1,5 @@
+A||||3||TOM||Hey 88 FIERO||||1
+Z||000000||TOM||10-04-1999||05:53 PM||||Tired of the headlight covers poping up at triple digit speeds. You need my headlight mod.||||reg||1
+Z||000001||88 Fiero||10-04-1999||06:16 PM||||Hey Tom...thanks for recommending your headlight kit...The truth is I still love those pop-up headlights so I will have my fiberglass guy do some custom work on my hood for ventilation..||||reg||1
+Z||000002||pherder||10-04-1999||09:34 PM||||Tom,<P>I got your email with the pictures.  Question ... are your headlights mounted to the hood or to the body of the car?<P>Have you thought about using Lexan for a cover?  (or is that illegal in your area?)<P>I assume that one lamp is low and the other the high beam?<P>I am interested because I am building an Artero and would like something different in front.<P>Paul||||reg||5
+Z||000003||TOM||10-04-1999||11:37 PM||||They are mounted on the hood. No permanent mocification required. They can be changed back anytimne.<P>On low you get the outboard, on high you get both on.<P>I thought about a lexan cover just havent had time to work on them. I do have the bracket done but not the cover.||||reg||1

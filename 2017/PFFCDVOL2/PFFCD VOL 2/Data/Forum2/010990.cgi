@@ -1,0 +1,6 @@
+A||||4||mrgone||best tranny fluid||||2||
+Z||000000||mrgone||06-04-2001||01:53 PM||||what do you guys use?||||reg||2
+Z||000001||84Bill||06-04-2001||02:38 PM||||Dextron III and it really works great! There was a noticable change in shift and shift timing. It feels alot smoother than before. I have converted my Fiero, corsica and subaru over to Dextron III ||||reg||14
+Z||000002||mrgone||06-04-2001||02:52 PM||||need mroe info on what it is, so i know where to look at canadain tire  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||84Bill||06-04-2001||05:24 PM||||It's basicly the same a Dextron II (stock) tranny fluid and should be right next to it on the shelf. I think I paid 7 bucks US for a gallon and used about a gal and 1/4 in the Fiero||||reg||14
+Z||000004||theogre||06-04-2001||07:13 PM||||GM recomends DexronIII in ALL transmissions that previously used Dexron II. I'm suprised that anyone can still get II. The stuff was obsoleted at least 5 years ago now. There's more about it in my cave.<P>And yes, Dexron III will mix with II. so if you just need to add a pint then it fine use the DexronIII. All fluid changes should install III.<p>[This message has been edited by theogre (edited 06-04-2001).]||||reg||1

@@ -1,0 +1,4 @@
+A||||2||falconhulk||Sterling car show||||1||
+Z||000000||falconhulk||08-20-2001||10:55 AM||||Hey I was at the Sterling car show Sunday and met a couple guys on this forum.  A guy with a silver fiero in the contest had a radio out of a Jimmy.  If you read this please let me know what year Jimmy you got that from.  I think thew other guys name was Fiero Tom....Just wanted to know if you went back and entered your car?||||reg||1
+Z||000001||Cheever3000||08-20-2001||06:03 PM||||I can't answer your question, but where was the Sterling show?  I still have never seen a Sterling in person.  Considered getting one before I got my first Fiero.<BR>||||reg||1
+Z||000002||falconhulk||08-21-2001||08:22 AM||||heh heh no it was in Sterling VA.  It was called the Sterling Classic car show but there was a few Fieros!||||reg||1

@@ -1,0 +1,3 @@
+A||N||1||Two88GTs||Tranny hose leaking-what's the diameter?||||1||
+Z||000000||Two88GTs||07-28-2001||04:18 PM||||The car is an 88GT auto.  I think it's leaking where it is surounded by a foam outer layer near the side tranny pan.  Does anyone know what the correct diameter of the hose is?  Also, will regular coolant hose work or should I use fuel/emission grade hose?<P>||||reg||1
+Z||000001||starfighter007@msn.com||07-28-2001||04:31 PM||||It is 3/8" transmission line.I believe you need to use transmission line.It probobly cost the same as fuel lines so you might as well get the right type of hose for your repair.hope this helps.||||reg||1

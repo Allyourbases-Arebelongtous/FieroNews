@@ -1,0 +1,8 @@
+A||||6||aubicon||cruse control removal||||1||
+Z||000000||aubicon||11-23-2001||05:17 PM||||i am removing the cruse control components from my car, i really dont need them and it just takes up space. there is a canister below the cruse control unit with one tube coming from the vacuum lines and another going the the cruse control unit. my question is can i block off the tube coming from the vacuum line or do i have to block off the tube going from the canister to the cruse control unit? thank you for any advise you can offer.<BR>||||reg||1
+Z||000001||aubicon||11-23-2001||11:10 PM||||HELLO?||||reg||1
+Z||000002||cadaver||11-23-2001||11:36 PM||||ah, why?||||reg||1
+Z||000003||aubicon||11-24-2001||12:28 AM||||WHO? WHERE? WHEN? WHAT?||||reg||1
+Z||000004||87GTZ34||11-24-2001||01:45 PM||||Yes you can bypass the can.  You should still maintain the the evaporative emissions canister though.  So that means you need the vacuum for that but not the resevoire tank used for the cruise.||||reg||1
+Z||000005||cadaver||11-24-2001||02:17 PM||||Ok Ill try it again. Why are you going through all the work of removing it?||||reg||1
+Z||000006||aubicon||11-24-2001||08:08 PM||||sorry about not understanding what you where asking cadaver. i will be using the car for racing and i want to keep it as cool as possible. i will never use the cruse control, i have used it once on my saturn (that i have had for 3 years). <BR>i am currently removing everything that is not a necessity to improve air flow and to make it easier to manuver around the engine compartment. im really not a fan of creature comforts.<BR>||||reg||1

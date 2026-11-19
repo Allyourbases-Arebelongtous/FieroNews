@@ -1,0 +1,12 @@
+A||||10||GT Bastard||My Fiero with new wheels...||||14||
+Z||000000||GT Bastard||04-13-2000||01:10 AM||||I met some cool Fiero guys here a few weeks ago. One had an 86SE and he had been looking for the grey cross-laced rims like my GT's.  I've never been a fan of the cross-laced ones, and he had some 5-spokes that I liked.  We did and even-up trade.  I think I got the better end of the deal, given the condition my old rims were in, but we're both happy... Sorry it's B&W, but I was taking other pics too.<P> <IMG SRC="http://www.fiero.nl/uploads/Newpic1.jpg"> <P>this one shows the "work in progress." You can see that the body panels are in place, but most of the front end still has to be sanded.  Paint is coming soon.<P> <IMG SRC="http://www.fiero.nl/uploads/Newpic2.jpg"> <P>ps-that's my gf Angela in the pic.  And guess what???! She wants a Fiero too!||||reg||14
+Z||000001||Standard||04-13-2000||01:58 AM||||very nice!||||reg||1
+Z||000002||DaRkLoRD||04-13-2000||02:29 AM||||very...<P>car's nice too.  <IMG SRC="http://www.fiero.nl/forum/tongue.gif">||||reg||1
+Z||000003||Haze_Performance||04-13-2000||02:36 AM||||Ahhhhhhhh one of the few things girls are good for....sitting on cars  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> .......Im sure you can all figure out rest  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> ............. Oh yea.. cool car <IMG SRC="http://www.fiero.nl/forum/smile.gif">.... <BR>||||reg||12
+Z||000004||2M4 Dale||04-13-2000||06:45 AM||||Car ??? What Car???I didn't see any car...lol<P>Wheels look great GTB !!!||||reg||1
+Z||000005||mrfixit58||04-13-2000||08:58 AM||||Interesting way to lower the front end. And here all this time I've spent looking for lowering spindles!!  <IMG SRC="http://www.fiero.nl/forum/tongue.gif">||||reg||12
+Z||000006||grizco||04-14-2000||12:45 AM||||They look good I've been looking at wheels like that for my car.||||reg||1
+Z||000007||kevin||04-16-2000||08:40 PM||||Is that a bra on the front of your Fiero?||||reg||1
+Z||000008||Patrick||04-16-2000||08:50 PM||||<BR>Glad you mentioned the <I>Fiero</I>...||||reg||10
+Z||000009||GT Bastard||04-22-2000||05:47 PM||||Actually, that's not a bra at all.  It's the GT nose from a black Fiero.  The one that came with THAT car was damaged.  It's all sanded down and ready for primer now though. ||||reg||1
+Z||000010||TwisT||04-22-2000||06:35 PM||||Heyyyyyyy,  you keep changing your ride and I won't be able to recognize it should I ever spot it in Sioux Falls!  Just keep the updates coming,  ok????  <P>Curious,  who's painting it?||||reg||1

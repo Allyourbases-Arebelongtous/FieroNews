@@ -1,0 +1,9 @@
+A||||7||batboy||Fiero forum fotos||||
+Z||000000||batboy||09-01-99||06:57 PM||||I posted a couple more Forum Fieros. Cooter's unique 1985 fastback red Fiero and 88 Fiero's 1988 Fiero project car. Go to the below listed URL.<p>http://sites.netscape.net/batboybain/forumfotos
+Z||000001||88 Fiero||09-01-99||07:19 PM||||hey bat...thanks for posting my car picture in your forum....
+Z||000002||Cooter||09-01-99||08:24 PM||||Thanks Batboy! You picked the best picture- it shows the cars "good side"-the one with my 2 year niece in the car seat! I appreciate the reply to my questions.<p>Greg
+Z||000003||DaRkLoRD||09-02-99||12:02 AM||||Cool pics! Mind if I put those in my Fiero site photo gallery?<p>not tonight tho. it's getting late. <IMG SRC="/ubb/wink.gif" WIDTH=15 HEIGHT=15>
+Z||000004||batboy||09-02-99||05:03 AM||||I don't care and I'm sure the owners don't mind either.<p>By the way Cooter, shame on you for having such a young wife and then claiming it's your niece. Cradle robber <IMG SRC="/ubb/smile.gif" WIDTH=15 HEIGHT=15>
+Z||000005||batboy||09-02-99||07:52 PM||||If any of you other folks want a picture your Fiero out there on the world wide web, just send me a photo, and I'll slap it onto my site. I might have to start a second Forum Fotos sub-page. If you get too many photos on one page, it takes too long to load. Or if you prefer, I think DaRkLoRD still has room for more Fiero pics on his site too.
+Z||000006||DaRkLoRD||09-02-99||08:09 PM||||last I checked I have 24 megs left on the server. might have room for one or two more photos.. hehe.. <IMG SRC="/ubb/smile.gif" WIDTH=15 HEIGHT=15>
+Z||000007||BlackGT||09-07-1999||09:06 PM||||Yo 88 Fiero,<BR>I like your ride and it will definately be the "Bomb" when you`re done... but what I want to know is what size are your wheels and<BR>tires? (they look like 17") and how did you<BR>lower the car like that? Could you post some<BR>prices of what mods you`ve made!<P>BlackGT||||reg||

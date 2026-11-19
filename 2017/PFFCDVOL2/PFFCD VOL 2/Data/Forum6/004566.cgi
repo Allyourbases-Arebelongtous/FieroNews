@@ -1,0 +1,4 @@
+A||||2||Alex4mula||Anybody having WebTV hang when posting?||||5||
+Z||000000||Alex4mula||11-30-2001||04:18 PM||||Since about one week ago every time I get into the “Post Reply” page in my WebTV it hangs the whole thing. It causes WebTV to reboot itself. I can browse all forums. Problem is only when I try to post a reply. Haven’t tried the “Submit New Topic”. Anyone with the same problem? TIA<P>------------------<BR>    Alex4mula<BR>:) Red-Original Owner & White-1/94 with PM (:||||reg||5
+Z||000001||stimpy||11-30-2001||08:01 PM||||You know how I fixed my WebTV woes? I bought a computer! Kinda expensive, but very effective.||||reg||1
+Z||000002||rogergarrison||11-30-2001||08:16 PM||||I have both. Web used to be faster than cmptr. but so many out there its slower than !@#&. Now cmptrs are starting to get that slow too. I just use my web for TV Guide now. I just got my DSL stuff from FedX today, cant wait to get that going.||||reg||1

@@ -1,0 +1,2 @@
+A||||0||8Ball||I Finally changed my ignition switch||||1||
+Z||000000||8Ball||11-11-2001||04:17 PM||||Well I got my ignition switch in the mail and finally installed it. WOOO HOOO that was easy!!!!<P>And to think, I was worried I would take the thing apart and never get it back together.<P>Thanks guys for the wealth of info on this forum.<P>The search option has made my day that much easier  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

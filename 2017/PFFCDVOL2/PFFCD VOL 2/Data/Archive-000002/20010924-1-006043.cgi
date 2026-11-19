@@ -1,0 +1,4 @@
+A||N||2||Shunyata||*sigh* another accident||||9||
+Z||000000||Shunyata||03-04-2001||10:40 PM||||so... had finally gotten everything working well, hadnt had a breakdown in quite a while... hydroplaned on the freeway tonight, landed in a ditch between the north and southbound lanes. lovely. im fine, which is good, will be sore in the morning. not sure how the car is, some body panels were sticking out and looking mangled. car is stuck there till tomorrow, tow truck place wouldnt tow it until chp could come and block off a lane of traffic. i'm hoping nothing got damaged except the body, and i can just duct tape those back on temporarily or something  <IMG SRC="http://www.fiero.nl/forum/tongue.gif"><P><P>------------------<BR>-Shun<BR>86.5 GT||||reg||9
+Z||000001||stimpy||03-04-2001||10:47 PM||||What a drag. Sorry to hear about that. Hope it's nothing major.||||reg||1
+Z||000002||Indyellowgt||03-05-2001||04:29 PM||||OWWWW...CH. BUMMER.||||reg||1

@@ -1,0 +1,2 @@
+A||||0||Cheever2||80's Boy & other TX owners: let's autocross||||6||
+Z||000000||Cheever2||01-08-2001||08:29 PM||||80's Boy, I guess you couldn't get off work yesterday.  I watched the Houston Solo II.  Been 20 years since I was at one of those.  Now I have to get into it.  Scott Garrison of Lone Star Fieros raced.  Don't know the results yet.  Are you on the SCCA forum?<P>Got a month to get ready for the next one.<BR>Let's show those clowns how it's done.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P><P>------------------<BR><I>Chuck Hodges</I>||||reg||6

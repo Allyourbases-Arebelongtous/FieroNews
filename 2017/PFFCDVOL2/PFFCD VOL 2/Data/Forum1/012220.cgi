@@ -1,0 +1,4 @@
+A||||2||Simple Fiero||88 coupe VS 86 Prelude SI/SE||||1||
+Z||000000||Simple Fiero||11-27-2001||02:34 PM||||I was wondering if my 88 coupe could even keep up to my friends 86 prelude.<BR>I know it's a stab in the dark. And I don't really condone racing was just sorta curious.||||reg||1
+Z||000001||FieroLisa||11-27-2001||02:36 PM||||I have no definite answer for you, but just as a comment, my mom has a 91 Prelude that I've been driving since my daily driver broke down yesterday, and it's really not that much slower than my GT when it's at higher RPMs. Kinda a fun car, actually.||||reg||1
+Z||000002||Neverfinished||11-27-2001||09:14 PM||||If its a carbed prelude then you will probably spank it. I've raced many carbed preludes with my 4 speed duke and beat them all. Injected preludes after that gets harder and will kick my ass at the least. My bosses 89 with the 2.0l puts me in my place.<BR>FYI||||reg||1

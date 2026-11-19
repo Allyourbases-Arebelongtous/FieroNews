@@ -1,0 +1,8 @@
+A||||6||doughboySE||ok i guess its working||||1||
+Z||000000||doughboySE||11-19-2000||03:33 PM||||ok well i guess im still a registered member so i guess i can start posting again i thought i had lost all this <BR>hi to everyone who remembers me <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000001||Coconut||11-19-2000||04:03 PM||||Hey what's up, doughboy?<P>Where the heck have ya been? If I'm not mistaken, hasn't it been a few months since you last posted? Great to see ya back! <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Cruisin' On, <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> <P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/Coconut's_Signature_1.JPG"> ||||reg||14
+Z||000002||doughboySE||11-19-2000||04:10 PM||||ya been a long while last time i posted i was pissed hehehe i think ay GTBASTARD but who cares hehe im back||||reg||1
+Z||000003||fropuff||11-19-2000||04:34 PM||||Nice to hear that you're back.  At least you have the common sense not to let little differences ruin things.  Welcome back!!!<P>------------------<BR>Fuzz busters are for those who are worried about being caught.||||reg||1
+Z||000004||GT Bastard||11-19-2000||04:34 PM||||No offense Doughboy, but that's a run-on sentence.  You might want to capitalize some letters too! ;(||||reg||1
+Z||000005||doughboySE||11-19-2000||04:37 PM||||um god D ude I MISSwed you GTBastared<BR>KISS KISS||||reg||1
+Z||000006||DaRkLoRD||11-19-2000||05:39 PM||||hehe.. back to the good ol' days..  <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif"><P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||10

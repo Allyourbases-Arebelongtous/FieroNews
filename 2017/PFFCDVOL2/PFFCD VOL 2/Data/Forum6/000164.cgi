@@ -1,0 +1,2 @@
+A||||0||mutfish||paint job||||1||
+Z||000000||mutfish||03-15-2000||10:46 PM||||It seems there was this country fellow going door to door in a well to do neigborhood looking for odd jobs. After a while one homeowner said he would be glad to give him some work and handed him a bucket of paint and a brush."You can paint the porch around back." After a short time, he returned for his pay. "Finished already?" the man asked."Yep,"replied the country boy,"And by the way,that ain't no porch,it's a Ferrari.....<BR>||||reg||1

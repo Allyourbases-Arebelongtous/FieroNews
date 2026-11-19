@@ -1,0 +1,6 @@
+A||||4||ig88vsbobafett||How do you open the trunk (Moter end)HELP PLEASE||||1||
+Z||000000||ig88vsbobafett||10-31-2001||07:31 PM||||I am buying a 1984 Am4 and the key hole was pushed all the way in and there is no way i can find to open it so i can look at the moter (Any help?????) thanks||||reg||1
+Z||000001||Jake_Dragon||10-31-2001||07:43 PM||||Welcome to the Forum, look inside the hole if it is punched all the way out you should be able to use a screw driver to turn the lock.<BR>I know this because I had to punch my lock after dropping the keys in the trunk.<BR>Good luck.||||reg||1
+Z||000002||ig88vsbobafett||10-31-2001||08:24 PM||||is the lock to one side or the other ???<P>i looked in it but didnt see it ??<P><BR>and any idea where i can get the console (Around the shifter Man.) and up around where the stereo is )||||reg||1
+Z||000003||maryjane||10-31-2001||08:31 PM||||My 84 SE has a switch to unlock it. I guess the rocker switch on the right side of the dash won't open it? You should be able to release the lock with a screwdriver, as suggested above.||||reg||1
+Z||000004||samoht||10-31-2001||10:38 PM||||yep screwdriver... a big screwdriver..  And check bone yards.. lots of 84 2m4 treats they..  i get some nice stuff off Ebay .. yep a big screwdriver should do it<P>85gt3.2<BR>||||reg||1

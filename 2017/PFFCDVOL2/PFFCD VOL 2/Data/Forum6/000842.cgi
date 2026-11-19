@@ -1,0 +1,4 @@
+A||||2||My7Fieros||HEY GUYS, BE CAREFUL WATCHING THIS MOVIE W/ YOUR SIG. OTHER!!!||||4||
+Z||000000||My7Fieros||10-27-2000||09:41 PM||||Ok heres this weeks movie pic..."The Green Mile" w/ Tom Hanks...anybody seen it? Its GREAT!! Tom Hanks is simply a fantastic actor! But listen guys, be warned if you havnt seen it! I was watching it with my g/f and of course shes boo-hooing all throughout the last 30 minutes of it. Well, Im about as non-emotional as it gets (you have to be in my line of work)...but I tell ya, towards the end I was fighten' it!   <IMG SRC="http://www.fiero.nl/forum/frown.gif"><BR>But the movie was absolutly great! I really recommend it.<p>[This message has been edited by My7Fieros (edited 10-27-2000).]||||reg||4
+Z||000001||2M4 Dale||10-28-2000||12:05 AM||||Seen it !!! And your right. Real tear jerker !||||reg||1
+Z||000002||Cheever2||10-28-2000||12:55 AM||||Was the only movie that made me want to check out the official website.<P>||||reg||1

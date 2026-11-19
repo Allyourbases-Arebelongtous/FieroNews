@@ -1,0 +1,4 @@
+A||N||2||FieroRacer||A wonderfull Place||||1||
+Z||000000||FieroRacer||12-31-2001||02:24 AM||||I was at a wonderfull place today.  I saw 4 90's 300zx TT's, 3 Corvette C5's, a house with both (yes both) a 01 Viper GTS and an 01 Porsche Carrerra, and 2 Ferrarri (One looks like it could've been a fiero kit though).  All that was within one residential block!!  My fiero was invited to join them up there when it's running too!!!  Now I know where the real sports cars sleep!!!||||reg||1
+Z||000001||West Coast Fiero||12-31-2001||03:04 AM||||where exactly is Lakeside from LA?<P>------------------<BR> <IMG SRC="http://clubs.hemmings.com/fieroswest/WestCoast300.gif"> <BR>Eric Nelson<BR>Technician,<BR>West Coast Fiero<BR>www.cwestco.com<BR>310-305-4111||||reg||1
+Z||000002||FieroRacer||12-31-2001||03:37 AM||||Actually, it was near the Del Mar Fair Grounds.||||reg||1

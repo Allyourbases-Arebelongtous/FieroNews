@@ -1,0 +1,4 @@
+A||||2||REDHOTT88||Nice polishing rag!||||1||
+Z||000000||REDHOTT88||11-21-2001||07:55 PM||||Just went to Wal-mart, and picked up a product in automotive called "The Glosser".<P>Comes in a plastic bag and has pre moistened microfiber cloths that are great for roadtrip shine-ups. Takes off that dusty film that builds up on the rear deck and bumper. Takes off water stains too. No, I don't own stock in the company!!||||reg||1
+Z||000001||REDHOTT88||11-21-2001||08:13 PM||||I realize this should of gone to "general chat".  OOOOPS!!!<P>||||reg||1
+Z||000002||REDHOTT88||11-21-2001||08:14 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by REDHOTT88:<BR><B>I realize this should of gone to "general chat".  OOOOPS!!!<BR></B><HR></BLOCKQUOTE><P>But it is pretty good!<P>------------------<BR>1988 Red Formula- and she doesn't wear a bra!||||reg||1

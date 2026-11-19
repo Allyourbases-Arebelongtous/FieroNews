@@ -1,0 +1,2 @@
+A||||0||Doni Hagan||Hey, FIEROSOUL!!!||||14||
+Z||000000||Doni Hagan||10-08-2001||10:21 PM||||Hi, Dwayne...<P>When I heard about the air strikes on Afghanistan, you were the first one I thought of. I don't know if you were called up but if so GODSPEED... Come back safely and remember we're all behind you guys!  GO AIRBORNE!! <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Doni. <p>[This message has been edited by Doni Hagan (edited 10-08-2001).]||||reg||14

@@ -1,0 +1,4 @@
+A||||2||IiplayaziI||aaaaaahhhhhrrrrrgggghhhh!!||||9||
+Z||000000||IiplayaziI||03-30-2000||07:09 PM||||hello yall.. im new to this forum and I would like to take a chance and say hello to all the members  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> .. I do have a question though. Does anybody know how big of rims I can get with low profiles without problems or modifications of any sort.. ||||reg||9
+Z||000001||87PegasusGT||03-30-2000||07:38 PM||||Hullo....17" with 42mm offset I believe and tires I think are 255. One of the members should have a link though.....<BR>Welcome Fiero nuts one and all  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||IiplayaziI||03-30-2000||07:52 PM||||thanks ill check it out.. what about width.. 7--7.5  <IMG SRC="http://www.fiero.nl/forum/eek.gif">||||reg||10

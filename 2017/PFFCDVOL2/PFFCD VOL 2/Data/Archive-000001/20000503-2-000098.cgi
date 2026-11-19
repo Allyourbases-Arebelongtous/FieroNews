@@ -1,0 +1,3 @@
+A||||1||Roy||Getting a few more horsepower out of a 4cyl
+Z||000000||Roy||04-23-99||10:18 PM||||I was wondering, what are known ways to pull a few more horsepower out of the gm 2.5L 4cyl in the 1984SE Coupe. I just wanted to get a little bit better performance til I have the time to take out the 4cyl in the summer and put in a v8 conversion and a performance suspension. Whats the base hp on the 84 SE Coupe anyway? Im looking to pull 10-20 more hp out of the car. Thanks in advance.<p>Roy
+Z||000001||Pretender||04-24-99||02:34 AM||||1984SE---2480lbs, 92@4000(bhp), 10.9(0-60), 18.1@74(1/4 mile)<p>add a K&N drop in filter, performance plugs/wires, exhaust....

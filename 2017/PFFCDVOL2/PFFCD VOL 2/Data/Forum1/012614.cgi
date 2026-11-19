@@ -1,0 +1,2 @@
+A||||0||ejayerik||One hour left!!! Hurry if you want it!!||||4||
+Z||000000||ejayerik||12-11-2001||07:09 PM||||This is a V6 Fiero engine for sale on ebay. Very cheap. Take a look. There is only an hour left! <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=598823640&r=0&t=0" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=598823640&r=0&t=0</A> ||||reg||4

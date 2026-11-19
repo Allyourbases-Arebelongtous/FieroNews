@@ -1,0 +1,4 @@
+A||||2||ordovician||idle problem||||1||
+Z||000000||ordovician||12-18-2001||07:26 PM||||i turn the car on. rpms go up to 4500. slowly go down to less than 500. choke a little. go up to 1000 and stay there. WHAT THE HELL IS GOING ON?||||reg||1
+Z||000001||Pyric||12-18-2001||07:35 PM||||my V6 is having a similar problem.  Here is the thread I posted.  <BR> <A HREF="http://www.fiero.nl/forum/Forum2/HTML/016491.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/016491.html</A> <P>no response yet though.  <IMG SRC="http://www.fiero.nl/forum/frown.gif">||||reg||1
+Z||000002||GTDude||12-19-2001||10:17 AM||||This is just a guess.....considering the info given....but it sounds like you may have a bad cold start injector switch.  Depends on the year.  <P>phil pettus<BR> <IMG SRC="http://www.fiero.nl/uploads/DSCF0003a_4.JPG"> <P>------------------<BR>GTDude's 86GT||||reg||3

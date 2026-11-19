@@ -1,0 +1,6 @@
+A||N||4||polomeno||Tach never moves? any idea's ?||||1||
+Z||000000||polomeno||11-29-2000||06:28 PM||||Hey guys.. about 2 weeks ago my tach just stopped working.. sometimes it will work again but most of the time it just hangs straight down.. i have FINALLY found the tach filter and the connections on it seem ok... anyone else had this problem and found a solution?<P>thanks<P>John||||reg||1
+Z||000001||Phil||11-29-2000||07:08 PM||||The connections might be all right but the unit could be bad. Rodney Dickman sells new ones.||||reg||1
+Z||000002||DJRice||11-30-2000||09:13 AM||||disconnect the tach filter and then try it.  If that fixes the problem then a bad tach filter is causing your grief.  Otherwise, its probably time for a new tach.<P>------------------<BR>Dillon<BR>Black '87 SE V6<BR>"You mean like the back seat of a Volkswagen?"||||reg||1
+Z||000003||polomeno||11-30-2000||10:54 AM||||So you dont actually need the tach filter for the tach to work?  .. so i just connect the 2 wires straight up and see if they work?<BR>do i do anything with the ground?<P>thanks<P>John||||reg||1
+Z||000004||fldevel||11-30-2000||04:56 PM|||| your fiero is dead .. it has no pulse  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||10

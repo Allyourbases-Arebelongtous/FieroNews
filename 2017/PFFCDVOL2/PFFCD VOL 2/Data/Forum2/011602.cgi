@@ -1,0 +1,4 @@
+A||||2||ThatRickGuy||Tranny Swap Questions||||5||
+Z||000000||ThatRickGuy||06-26-2001||03:50 PM||||Hey people,<BR> Finally getting all these annoying problems fix, so I thought I'd start researching my next mod. OD auto trannys. I've seen the numbers mentioned in the archives, 440L4 and 4T65, but which cars do these come from?<BR>any advantage of one over the other?<P>I may have a lead on an '89 GP, engine and tranny are fine, but the rest of the car is jacked. I was thinking of buying the tranny off of him if it'll work right. Anything to get the cruising RPMs down. it's a 30 minute drive down I-95 to get to work every morning, and I'm usually turning over 3k RPMs (70mph) to keep up w/ traffic. Thanks!||||reg||5
+Z||000001||JayUSA77||06-26-2001||04:12 PM||||what kind of car was that again a 89 what??||||reg||1
+Z||000002||ThatRickGuy||06-26-2001||04:48 PM||||'89 Pontiac Grand Prix. w/ the 2.8 and 4 speed OD w/ Torque Converter lockup<BR>||||reg||1

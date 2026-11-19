@@ -1,0 +1,4 @@
+A||||2||Blade||headlights go out???||||1||
+Z||000000||Blade||11-29-2000||07:29 PM||||Here is the symptom...Ill be driving for 15-30 min and headlights just go out..stay up, but go out. I start flipping switch. sometimes they come right on sometimes nogo for 5-10 min. Sucks at 80 on freeway. Any ideas ???<BR>Im looking into switch but is there a relay?<BR>Blade||||reg||1
+Z||000001||Indiana_resto_guy||11-30-2000||12:07 AM||||No relay. Install new switch.||||reg||1
+Z||000002||PlasticWrapd||11-30-2000||12:26 AM||||Yep, get a new switch.  The switch has a built-in circuit breaker.  Either the circuit breaker has gone bad or you are using high wattage headlights.  If the latter is the case, a new switch won't help. You'll need to wire in a heavy duty relay to handle the heavy load from the high wattage headlamps.||||reg||1

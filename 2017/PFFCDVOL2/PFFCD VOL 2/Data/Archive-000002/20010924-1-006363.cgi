@@ -1,0 +1,3 @@
+A||||1||Fiero54||Problems||||13||
+Z||000000||Fiero54||03-23-2001||10:59 AM||||I own a 85 GT, the past few days I been having some problems, I replaced the altenator on monday and last night when I was drivng my serp. belt was smoking like crazy. I checked the belt, and it's pretty tight, no more that 1/2 inch play.  Has anyone had a water pump go out on a V6, or the bearing for the pump go out?  I needed some imput on this, I don't want to spend money on something that I could possibly fix my self. ||||reg||13
+Z||000001||Tigger||03-23-2001||11:44 AM||||I'd loosen the belt and turn the waterpump by hand to see if there's any drag in the bearings.  How many miles are on it?  Even tho the alternator is new, I'd check to see how well that spins too.||||reg||1

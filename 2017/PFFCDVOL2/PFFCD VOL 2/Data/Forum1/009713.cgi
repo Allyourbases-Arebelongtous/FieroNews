@@ -1,0 +1,2 @@
+A||||0||Loki||Need some pics of side scoops||||1||
+Z||000000||Loki||08-22-2001||05:25 PM||||I have some side scoops that need the mounting holes and the scoops hole cut out...But not sure exactly where to cut the air inlet hole at. I just need a close up of a few preferabbly with mesh in it...<BR>Thanx<BR><P>------------------<BR> <IMG SRC="http://members.home.net/loki-mg/loki_sig.jpg"> <BR>ICQ# 16477998||||reg||1

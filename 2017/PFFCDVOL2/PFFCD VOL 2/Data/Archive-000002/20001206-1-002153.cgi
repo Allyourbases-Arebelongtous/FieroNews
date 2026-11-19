@@ -1,0 +1,2 @@
+A||||0||mbramble||Useful Fiero Links||||1||
+Z||000000||mbramble||05-09-2000||09:15 PM||||Because I use 3 different computers, I am always 'losing' links to interesting Fiero sites that I run across.  So, I have put up a new web page so that they are available to me no matter which PC I am using.  You may find them useful as well.  More to come, but no bandwidth hogging photos, ads, banners, etc., just a simple text based page with good links.<P>It's at <A HREF="http://www.bramblett.com/fiero" TARGET=_blank>http://www.bramblett.com/fiero</A> <P>Mike<BR>||||reg||1

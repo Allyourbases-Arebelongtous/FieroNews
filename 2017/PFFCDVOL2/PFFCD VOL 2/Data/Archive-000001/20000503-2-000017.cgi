@@ -1,0 +1,6 @@
+A||||4||sodsurfer||Availability of headlight motors
+Z||000000||sodsurfer||03-12-99||04:06 PM||||Does anyone have a good source for reasonably priced headlight motors for an '86? I need a left (driver side US) motor and the best I found was $134.  I would appreciate any other sources.
+Z||000001||anna||03-18-99||06:32 PM||||I'm sending your an internet address called <br>Fiero secrets. Which is realy not secret.but it has alot of addresses for Fiero related items.You can find rebuild motors for about $50 a pair, you also can find rebuilt kits cheap.One of the addressse also has information on rewiring you headlights ,so they last longer.I hope that the info can help. Address is : <br>www.angelfire.com/biz/fierosails/info.html<p>                        anna
+Z||000002||raceknb||03-18-99||07:28 PM||||The old standby...THE FIERO STORE has everything you are looking for and more.<br>www.fierostore.com
+Z||000003||theogre||03-30-99||01:48 PM||||anna,,,, do you have the fiero secrets link page url? please post it. 10Q
+Z||000004||anna||04-28-99||07:08 PM||||the only fiero secrets link page url I can find is http://www.qtm.net/~lcur/fieroindex.html<br>Then go to homepage listings and click on Fiero Sails Panels.From there you are able to click on to fiero secrets.Let me know if you was abel to use it

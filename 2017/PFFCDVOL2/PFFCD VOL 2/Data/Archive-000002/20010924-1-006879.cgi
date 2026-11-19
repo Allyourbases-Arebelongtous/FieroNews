@@ -1,0 +1,3 @@
+A||N||1||grinthock||TORONTO ALARM Dealers||||5||
+Z||000000||grinthock||04-15-2001||04:00 PM||||Well here goes!  I am looking for an Alarm for my Fiero, I don't have one now, need one, I don't wanna spend $1000 and I do'nt wanan install it myself (BEEN THERE!  done that, pain in the ass!)<P>Also, I want the place to ADD the servo's for hte power door locks too (Been there, DONE THAT, )<P>What do ya think?  ANyone have reccomendations?||||reg||5
+Z||000001||Jay||04-16-2001||01:40 PM||||Try Stereo Dimension in Scarborough<BR>416-291-5554 ask for Donovan.  He's done all the work in my car.  Tell him Jay sent you.||||reg||1

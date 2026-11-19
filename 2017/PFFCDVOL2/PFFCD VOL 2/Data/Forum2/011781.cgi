@@ -1,0 +1,7 @@
+A||||5||sqoach||Fuel pressure switch question||||5||
+Z||000000||sqoach||07-03-2001||10:59 PM||||I'm about to change my fuel filter. I know to take the fuel pump fuse out. How do I relieve the pressure, though? I know there's a valve of somekind, and I think I know where it is. (close to the stat housing) Do I need a special tool to relieve the pressure? Or...??? Any help appreciated  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>sqoach@yahoo.com<BR> <IMG SRC="http://www.fiero.nl/uploads/forumsig.JPG">      <BR>84 SE (FOR SALE)<BR>85 Coupe (parts car)(take it off my hands for $50)<BR>86 SC (FOR SALE sometime in this summer)<BR>86 SE V6 (new project)||||reg||5
+Z||000001||Indiana_resto_guy||07-03-2001||11:45 PM||||Just pull the fuse and start it and let it 'run out'.||||reg||1
+Z||000002||ka4nkf||07-03-2001||11:53 PM||||There is a schrader valve above the thermostat housing.<BR>put a rag to catch the fuel. push in the valve just like you would on a tire valve and relieve the pressure. I am talking about the V6.||||reg||1
+Z||000003||sqoach||07-04-2001||11:18 AM||||Oh yeah. Sorry it's a 6. Thanks for the help guys. I hope I don't get gas all over the place  <IMG SRC="http://www.fiero.nl/forum/redface.gif">||||reg||1
+Z||000004||b lo 0||07-04-2001||12:47 PM||||Be careful with the Schrader valve, mine wouldn't seal back up all the way, and I had to tap the side with a screwdriver to get the ball to seat properly.||||reg||1
+Z||000005||Indiana_resto_guy||07-04-2001||12:53 PM||||That's why I said "LET IT RUN OUT"!||||reg||1

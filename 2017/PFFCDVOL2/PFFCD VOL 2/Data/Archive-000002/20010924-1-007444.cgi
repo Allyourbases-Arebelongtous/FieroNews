@@ -1,0 +1,4 @@
+A||||2||VISCERAL||Check out this custom car body||||1||
+Z||000000||VISCERAL||05-15-2001||12:08 PM||||Cool car with some interesting styling hints that anyone could copy and create on their own.<BR> <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=587365108&tc=photo7250" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=587365108&tc=photo7250</A> <P>||||reg||1
+Z||000001||Fiero5||05-15-2001||01:25 PM||||Allready been covered: <A HREF="http://www.fiero.nl/forum/Forum1/HTML/007353.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/007353.html</A> <P>Steve<P>------------------<BR>                <IMG SRC="http://www.fiero.nl/uploads/Fiero1_5.jpg">              <BR>http://www.kelleyfamilyfieros.homestead.com/index.html||||reg||12
+Z||000002||rogergarrison||05-16-2001||09:04 AM||||ya, but look in another post, in '348 Kit' for a lot better for same money.||||reg||1

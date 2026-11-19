@@ -1,0 +1,3 @@
+A||||1||MooCow||How do I get the spoiler off????||||5||
+Z||000000||MooCow||01-27-2001||02:40 PM||||How do I take teh spoiler off the stands?  I am leaving the stands on and only want the spoiler paart off.  I got the 4 screws off in the back and  then what?  I don't want to just pull up hard so I thought I would ask first.  So someone tell me how it comes off?<P>                            Thanks Ken<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/kensig_1.jpg"> ||||reg||5
+Z||000001||Oreif||01-27-2001||02:53 PM||||You need to take the stands off first. There is a bolt on the inside that needs to come off in order to remove the wing off the stands.||||reg||1

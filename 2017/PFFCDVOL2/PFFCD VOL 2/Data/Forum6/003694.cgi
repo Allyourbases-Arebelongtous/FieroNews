@@ -1,0 +1,2 @@
+A||||0||rogergarrison||Atlanta GT sports car race||||1||
+Z||000000||rogergarrison||10-06-2001||12:43 PM||||Anyone watching today. started at 11:30 till 10:00pm EDT. Lots of interesting new stuff. VW has two entries, and the first Ferrari 360 Modena competing.<P>------------------<BR>          <IMG SRC="http://albums.photopoint.com/j/View?u=1234884&a=11878523&p=52990885">  <p>[This message has been edited by rogergarrison (edited 10-06-2001).]||||reg||1

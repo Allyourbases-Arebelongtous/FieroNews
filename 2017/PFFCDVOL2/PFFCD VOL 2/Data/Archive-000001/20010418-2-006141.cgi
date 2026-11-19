@@ -1,0 +1,10 @@
+A||||8||SibERThuG||exhaust||||6||
+Z||000000||SibERThuG||10-09-2000||11:32 PM||||I'm adding the newest edition to my fiero. Flame throwing exhaust! Propane, push-button, raw power. It should shoot approx. 20-30 foot flames. Anyone for a BBQ?? <P>------------------<BR>Robbie<BR>88' Formula||||reg||6
+Z||000001||862M4inCA||10-10-2000||05:01 AM||||Hrm...sounds like a great feature for those guys in big SUV's who like to pull up on your *ss at night and blind you with their lights.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||1FST2M6||10-10-2000||08:40 AM||||I'll bring the Marshmallows if you can find some twigs...  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||stsmithgt||10-10-2000||12:15 PM||||Fire...he.....he.he...he he ...fires cool <IMG SRC="http://www.fiero.nl/forum/smile.gif"> he he.. he ... he he...||||reg||1
+Z||000004||Cooter||10-10-2000||09:24 PM||||liar liar pants on. . .  he he huh huh uh huh||||reg||1
+Z||000005||ROB MAC||10-11-2000||02:56 PM||||I think anything over 15 feet is not street legal for exhaust flame throwers. ||||reg||1
+Z||000006||Tigger||10-11-2000||03:27 PM||||Wow look Dad, that Fiero is on fire!  Yea sure son, those always caught fire.  <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif"><P>(Uh oh, anybody have some asbestos exhaust header wrap?)  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>T-T-F-N, Tah Tah For Now!<BR> <IMG SRC="http://www.fiero.nl/uploads/tigger.gif">          <BR> <A HREF="mailto:RacingStripes@hotmail.com">RacingStripes@hotmail.com</A> ||||reg||10
+Z||000007||Seanh||10-11-2000||09:57 PM||||Thats great... I hate trucks pulling up behind me so close I cant even see them, just under them. Is there any way to add flame throwing exhaust without propane?<P>------------------<BR>Sean Heberly<BR>Silver 86 GT 2.8<BR>Killer Stereo System||||reg||1
+Z||000008||SibERThuG||10-11-2000||11:13 PM||||yeah you can add them without propane. e-mail me to find out how...<P>------------------<BR>Robbie<BR>88' Formula||||reg||10

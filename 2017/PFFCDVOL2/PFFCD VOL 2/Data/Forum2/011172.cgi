@@ -1,0 +1,11 @@
+A||||9||cadaver||aluminum threshold plates||||1||
+Z||000000||cadaver||06-10-2001||10:08 PM|||| <A HREF="http://albums.photopoint.com/j/View?u=141908&a=1039804&p=50080818&Sequence=0&res=high" TARGET=_blank>http://albums.photopoint.com/j/View?u=141908&a=1039804&p=50080818&Sequence=0&res=high</A> <BR>What do you think of these. Is there a market for them? What would be a fair price?||||reg||1
+Z||000001||fyerstarter||06-10-2001||10:11 PM||||Chris West sells them for $80 a pair,  <A HREF="http://www.cwestco.com" TARGET=_blank>http://www.cwestco.com</A> <P><BR>If you could bring the price down to say $50 a pair I'd definitely take a pair off ya. My car was formerly grey and is now red, and that is the only place that wasn't painted.||||reg||1
+Z||000002||cadaver||06-11-2001||12:38 AM||||These are not as wide as the cwest parts. I didnt want to make them come all the way out. But I might make a set to see how it looks. I will probably offer both styles as well as a style for non/gt,se's. I was thinking somewhere around that $50 with shipping included. $80  is way to much.||||reg||1
+Z||000003||cadaver||06-12-2001||11:44 PM||||Well Fyer looks like your the only one interested. Which style would you like. The one in the pic of the full one like chris||||reg||1
+Z||000004||Monkeyman||06-13-2001||12:05 AM||||I'd be interested, but my budget has just about run dry for the moment.  If you're offering these in a month or so, email me.<P>MM||||reg||1
+Z||000005||deceler8||06-13-2001||09:09 AM||||When you get the non GT/SE  type, I might be interested if you're talking $50 for the set.<P>||||reg||1
+Z||000006||cadaver||06-14-2001||12:53 AM||||Monkey for you anytime just let me know.<P>deceler8 after the weekend I should have the non gt template. Trouble is when Im building something I only have one car to go on. My SE ||||reg||1
+Z||000007||cadaver||07-09-2001||03:41 AM||||I thought these would sell better also.||||reg||1
+Z||000008||Monkeyman||07-09-2001||04:03 AM||||I thought that everyone would be running at this.  Hmm...Maybe everyones' budgets have just run dry at the moment.  I'd keep this on the back burner.  Don't forget about it entirely.<P>------------------<BR>'Consciousness:  That annoying time between naps.'<P>MM||||reg||1
+Z||000009||cadaver||07-10-2001||02:47 AM||||Thanks MM||||reg||1

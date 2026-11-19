@@ -1,0 +1,3 @@
+A||||1||Doni Hagan||Yo, Fierowrecker?||||5||
+Z||000000||Doni Hagan||08-01-2001||02:45 AM||||Hey....<BR>How did the hog roast go? I had a concert in Indiana on the 28th and couldn't make it. My people didn't remind me of it until the 26th. Not their fault...I'm really lousy with my calender. That's why my secretary makes more than I do. She works harder. ||||reg||5
+Z||000001||Fierowrecker||08-01-2001||08:12 AM||||Hey Doni!<BR>A good time was had by all! (But the pig!)<BR>Even though I invited EVERYONE, I still have tons of pork leftover.<BR>Corse, the pig dressed at 275 lbs...<BR>Hope to see ya next time!<BR>crash...||||reg||1

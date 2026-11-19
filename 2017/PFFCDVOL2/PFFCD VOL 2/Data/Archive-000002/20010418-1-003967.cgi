@@ -1,0 +1,9 @@
+A||||7||oreif_GT87||Would a dash from a 2000 Cavalier fit a Fiero?||||14||
+Z||000000||oreif_GT87||10-13-2000||01:47 PM||||sure would look nice||||reg||14
+Z||000001||DaRkLoRD||10-13-2000||03:38 PM||||Ya know.. that name is gonna get confusing, what with the other Oreif here etc.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||10
+Z||000002||2xsess||10-13-2000||03:41 PM||||I agree Steve.<P>I'm interested to know what the out come of this thread is.<P>Oreif87, did you do a search, I know that dash implants were discussed just recently<P><BR><P>------------------<BR>Jeff<BR>85GT||||reg||1
+Z||000003||william_thorniii||10-13-2000||04:34 PM||||I would highly doubt it.  New Cavaliers are noticeably narrower inside than our Fiero's  are.<P>William T. Thorn, III||||reg||1
+Z||000004||Raydar||10-13-2000||05:26 PM||||I've seen a pic (maybe on this Forum) of a GP or Bonneville dash in a Fiero. Looked nice, but I'll bet it was a pain in the @$$. <P>------------------<BR>Raydar<P>Out of my mind.<BR>Back in five minutes.||||reg||1
+Z||000005||DaRkLoRD||10-13-2000||07:21 PM||||It was a bonneville dash, in a Finale rebody.<P>last I saw, it was for sale by Gary's Custom Exotics.<P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||1
+Z||000006||Monkeyman||10-13-2000||09:02 PM||||Grand Prix on RSMs site.  They aren't selling the GP dash for a Fiero conversion, though.  They're just selling parts for the dash.||||reg||1
+Z||000007||Pontiaddict||10-15-2000||02:14 AM||||The dash in a Saturn might work.<BR>||||reg||1

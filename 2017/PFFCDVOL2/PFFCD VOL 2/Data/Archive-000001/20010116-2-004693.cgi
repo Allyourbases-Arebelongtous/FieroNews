@@ -1,0 +1,5 @@
+A||N||3||wxxo||how hard should a v6 pull?||||1||
+Z||000000||wxxo||07-10-2000||03:12 PM||||got pretty low miles on my 86 se(4spd) for a 14 year old car anyhow. about 85xxx. im thinkin that my car is a wuss. it does ok but still i think that it should have a little more umph. any insight?? tia||||reg||1
+Z||000001||GT Bastard||07-10-2000||03:56 PM||||Check timing, make sure it's set to 10 deg advance...  That will have a direct impact on performance.  Clogged cat could be a factor as well.   Is it running decent?||||reg||1
+Z||000002||88formula||07-10-2000||05:31 PM||||Get a v8 if you think it should pull like one. It's only a 16-second car, which does 0-60 in about eight seconds.||||reg||1
+Z||000003||BBBAD GT||07-10-2000||05:35 PM||||We'll have lunch tomorrow or some day and you can compare it with my 87 V6.  Don't forget, these are heavy cars by comparison.<P><P>------------------<BR>87 GT, Stock for now<BR><A HREF="http://scribers.midwest.net/bbbad50/Fiero.htm" TARGET=_blank>BBBAD GT's Web Site</A>||||reg||1

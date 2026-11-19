@@ -1,0 +1,8 @@
+A||||6||85seNUT||E- Brake||||1||
+Z||000000||85seNUT||04-13-2001||01:52 AM||||hey guys i got a little problem.  when i pull my e-brake it engages but then i go to push it back down to its normal position and it disengages.  its like it wont completly engage.  any one know whats going on?||||reg||1
+Z||000001||Indiana_resto_guy||04-13-2001||02:20 AM||||Sounds like you may have a bad spring in the handle. See if you can find a replacement.||||reg||1
+Z||000002||85seNUT||04-13-2001||08:27 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Indiana_resto_guy:<BR><B>Sounds like you may have a bad spring in the handle. See if you can find a replacement.</B><HR></BLOCKQUOTE><P>where do i find this, how much is it, and is it easy to replace?  thanks<P>||||reg||1
+Z||000003||danny boy||04-13-2001||10:21 PM|||| Salvage yard, Cheap, PITA.||||reg||1
+Z||000004||85seNUT||04-14-2001||03:18 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by danny boy:<BR><B> Salvage yard, Cheap, PITA.</B><HR></BLOCKQUOTE><P>whats pita?<P>||||reg||1
+Z||000005||Max The Chainsaw||04-14-2001||07:14 AM||||pita= "Pain in the a--"   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>||||reg||1
+Z||000006||85seNUT||04-14-2001||04:05 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Max The Chainsaw:<BR><B>pita= "Pain in the a--"    <IMG SRC="http://www.fiero.nl/forum/smile.gif"></B><HR></BLOCKQUOTE><BR>ah got it, thats sucky.  maybe i'll just have it done.  hehe  thanks guys<BR>||||reg||1

@@ -1,0 +1,4 @@
+A||N||2||DreXteR||Trannies?!?!?!?!||||5||
+Z||000000||DreXteR||10-14-2001||10:58 AM||||Can I use a 5 speed 4 cl into a 6 cl????<P><BR>Thanx<P>DreX||||reg||5
+Z||000001||Indiana_resto_guy||10-14-2001||11:13 AM||||They match and bolt up.<BR>There are mixed feelings between some members on durability. V-8 Archie uses them behind his power plants, that says something! Use the clutch for the tranny.||||reg||1
+Z||000002||rmorgandotcom||10-14-2001||11:41 PM||||<B>FieroMaster88</B> has done this conversion. You should talk to him.<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/rmorgansig.jpg">   <BR><UL TYPE=SQUARE> <BR><LI><I><FONT COLOR="blue">project - finale body on a 86 4 cylinder 5 speed</FONT></I><BR><LI><A HREF="http://www.geocities.com/rmorgandotcom/" TARGET=_blank>www.geocities.com/rmorgandotcom/</A><BR></UL>||||reg||1

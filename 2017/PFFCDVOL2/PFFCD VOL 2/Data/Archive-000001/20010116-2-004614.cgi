@@ -1,0 +1,6 @@
+A||||4||hugh||How  much do these cars weigh?||||1||
+Z||000000||hugh||07-05-2000||09:12 PM||||I just had my car weighed.It weighed 3400 lbs. with me in it.It has a 345hp chevy crate engine mated to a toronado 425a transaxle.I weigh 160lbs. so that makes the car come in at 3240lbs.I want to get new struts and coilovers and I can't believe it can weigh that much.So I want to be sure about the weight before Ido.||||reg||1
+Z||000001||Phil||07-05-2000||09:55 PM||||My Formula (SC3800) weighs 3068 with me and 1/2 tank gas||||reg||1
+Z||000002||lowCG||07-06-2000||12:26 AM||||My '87 V6 5spd,A/C S/E weighs 2750,w/o<BR>driver.<BR>My old car,an'86 4cyl 5spd,S/E weighed 2550 on the same scale.||||reg||1
+Z||000003||Old Lar||07-06-2000||06:02 AM||||My 87 GT is listed on the NYS registration as 2780 lbs.  So when I climb in its 3000 lbs.  ||||reg||7
+Z||000004||86SE||07-06-2000||06:50 PM||||And everyone says these cars are light......<P>"Im not gonna race you," ('89 Pontiac Grand Prix, 2.8L V6) "your car is way lighter than mine, it will kill me!"<P>At least it still has the intimidation factor....... <IMG SRC="http://www.fiero.nl/forum/smile.gif"> <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||11

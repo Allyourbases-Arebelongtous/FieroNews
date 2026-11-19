@@ -1,0 +1,2 @@
+A||||0||fldevel||who used to own this car ..||||1||
+Z||000000||fldevel||12-04-2001||03:40 PM||||i know it was soemone on this forum cause ive seen it before .. it is a lime green 85 SE with a eclipse wing on the back ..seems like he had some sort of sterio set up in it and had an mtx 8"speeker whare the glove should be it also had a nice set of rims with low profile tires on it .. anyone know whose car this was??||||reg||1

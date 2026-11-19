@@ -1,0 +1,3 @@
+A||N||1||Pontiatic||Saw a new red GT in my area...||||1||
+Z||000000||Pontiatic||11-13-2001||03:52 PM||||I saw a red gt at the car wash down the street from my house today. I went into wash my car and the auto wash was out so i had to go home and change shoes before i washed mine. anyway it looked pretty stock except the wheels i never saw on a fiero before is this anyone on here's car? i was gonna talk to him but by the time i got back he was gone...||||reg||1
+Z||000001||phreakboy4||11-13-2001||05:13 PM||||hey if it looked like it had a new paint job then ive talked to  him before, its in really really good condition and the guy is really nice, cant think of his name off hand but i see him all the time at the wawa at rt10 & rt 30<P>||||reg||1

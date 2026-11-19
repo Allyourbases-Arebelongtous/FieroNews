@@ -1,0 +1,3 @@
+A||||1||sid1200||power steering
+Z||000000||sid1200||08-03-99||02:13 AM||||was wondering.  has any one attempted or installed PS on their cars.  I know the 88's were going to have it as an option (electric PS) but it was never released.  apparently some cars had it and it was removed at the factory.  anyways I was just wondering, prob wouldn't do it, just thought it would be an interesting topic.
+Z||000001||kel||08-03-99||03:18 AM||||You might get an idea of what some think about power steering in Fieros if you go to topics from the last 100 days in General Fiero Chat.  The post is from Refio "why no power steering?"  5-14-99. 

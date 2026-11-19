@@ -1,0 +1,3 @@
+A||||1||gmata||Radiator Fan & Fuel Gage||||5||
+Z||000000||gmata||07-07-2000||12:53 AM||||At what temperature should the radiator turn on.  I left the car running without the a/c until the thermastat reached 220 degrees.  I then turned on the a/c thus starting the fan.  What could be wrong?<P>Also, I noticed that my Fuel gage was acting weird.  It kept bouncing between half a tank to full.  What could cause this problem?||||reg||5
+Z||000001||theogre||07-07-2000||04:48 PM||||all OEM single speed fans have a 235F turn on.<P>Flakey fuel gauges are a common problem. Usually means working on the fuel sender.||||reg||1

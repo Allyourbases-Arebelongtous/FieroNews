@@ -1,0 +1,2 @@
+A||||0||ChadMan||Pontiac Fiero Performance Portfolio||||5||
+Z||000000||ChadMan||11-05-2000||02:49 PM||||Got a catalog from Classic Motorbooks yesterday, and in it they list a new (?) Brooklands book called Pontiac Fiero Performance Portfolio.  It's black with red type, has a yellow Formula on the front cover, and is listed as "NEW."<P>I'd order it right now, but I'm concerned it might be the old familiar Brooklands Fiero book (black with yellow type, red 88 GT on cover) with a new cover.<P>Has anybody seen this book, and if so, does it contain different articles?||||reg||5

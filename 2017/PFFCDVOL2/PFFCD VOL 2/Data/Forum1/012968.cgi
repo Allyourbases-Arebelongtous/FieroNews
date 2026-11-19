@@ -1,0 +1,3 @@
+A||N||1||85 gt fiero||Attn: Fierochild||||1||
+Z||000000||85 gt fiero||12-25-2001||09:59 PM||||I was just curious on what type of paint you have on your car and the # if you still have it.  Thanx in advance  Randy i really like it i think it is lambo green just makin sure <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>17 YEAR OLD WITH A RALLY CAR, FULL ROLL CAGE, SKID PLATES, LIGHT BARS, SCS SUSPENSION, KONI ADJUSTERS,HIGH POINT CUTOFFS,||||reg||1
+Z||000001||Smoooooth GT||12-25-2001||10:27 PM||||I love it too...  I also am thinking about Lambo neon Blue..   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

@@ -1,0 +1,6 @@
+A||||4||cifc||Fieros in the MUseum||||1||
+Z||000000||cifc||09-06-2000||12:36 AM||||If I can get this to work.  I took these pictures at the Museum of Science and Industry in Chicago.  Sorry for the quality, but it was dark in there.<BR> <IMG SRC="http://www.fiero.nl/uploads/Image2_1.jpg"> <p>[This message has been edited by cifc (edited 09-06-2000).]||||reg||1
+Z||000001||cifc||09-06-2000||12:39 AM||||well..I got one of them.  Here's the other.<BR> <IMG SRC="http://www.fiero.nl/uploads/museum.jpg"> ||||reg||1
+Z||000002||fierospeeder||09-06-2000||04:33 AM||||is this a new exibit, unless i dont remember a fiero in the museum?<P><BR>But i do love their 100feet??  model train set.&lt;drool&gt;||||reg||1
+Z||000003||HugGRRRFiero||09-06-2000||08:21 AM||||Is that little red car in the middle of the top picture a Fiero?  Pretty cool, I should drop by that museum for a visit sometime!  Thank you for showing us the pics.<P>Brent<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/huggrrr.gif">  <BR>  <A HREF="mailto:HugGRRRFiero@hotmail.com">HugGRRRFiero@hotmail.com</A> ||||reg||1
+Z||000004||wkayl||09-06-2000||09:45 AM||||Here is a GT in a antique auto memorbelia museum in Berthoud Co.<P> <IMG SRC="http://www.fiero.nl/uploads/inside_1.jpg">   ||||reg||1

@@ -1,0 +1,8 @@
+A||||6||Formula||what a ripoff!!!!||||1||
+Z||000000||Formula||09-13-2001||02:22 PM||||I just got charged $8 for 2 roast beef sandwiches and a medium fry at hardees....<P>no receipt and the cashier was about 85 years old, go figure...||||reg||1
+Z||000001||kempo||09-13-2001||02:35 PM||||You have a HARDEES?!  Last time I was in one of those I was 10...  I thought that they were bought out...  <P>------------------<BR> <IMG SRC="http://www.admist.net/kempsig.jpg"> <BR>87 Fiero GT / 5 Speed<BR>86 Fiero 2m4 - FOR SALE||||reg||1
+Z||000002||frontal lobe||09-13-2001||02:36 PM||||He's probably addicted to geritol, and ripped you off to feed his addiction.||||reg||1
+Z||000003||deceler8||09-13-2001||02:38 PM||||I don't know what's worse...the fact that you were charged so much, or the fact you paid it...<P>That reminds me...I'm hungry.||||reg||1
+Z||000004||Formula||09-13-2001||02:39 PM||||now that I read that it sounds like i have something against older citizens, I dont, but I think I'm gonna stay away from hardees for a while.   <P><P>------------------<BR>          <IMG SRC="http://www.fiero.nl/uploads/Formulasigfile.jpg">  <P> <IMG SRC="http://www.fiero.nl/uploads/Flag.jpg"> ||||reg||1
+Z||000005||Formula||09-13-2001||02:41 PM||||hmm trying something<P>nope..no images can be used in your hometown thing<P>------------------<BR>            <IMG SRC="http://www.fiero.nl/uploads/Formulasigfile.jpg">    <P>   <IMG SRC="http://www.fiero.nl/uploads/Flag.jpg">  <p>[This message has been edited by Formula (edited 09-13-2001).]||||reg||1
+Z||000006||Formula||09-13-2001||02:44 PM||||back to normal||||reg||1

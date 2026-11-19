@@ -1,0 +1,3 @@
+A||||1||Brandon86SE||Did anyone else watch Invincible tonight?||||14||
+Z||000000||Brandon86SE||11-18-2001||10:04 PM||||I just finished watching the TBS movie Invincible, and I really liked it.  Great choreography, exciting fight scenes, decent plot.  Kind of a combination of The Matrix, The Fifth Element, and Highlander.  I loved Billy Zane's constant calm, nonchalant demeanor.  What did the rest of you think of it?<P>Brandon||||reg||14
+Z||000001||Loki||11-18-2001||10:19 PM||||Was OK, but was kinda lame in my eyes. The chic though..YEEEEEOUCH!!! She a hottie   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR><P>------------------<BR> <IMG SRC="http://members.home.net/fieroloki/lokisig1%20copy.jpg">  <BR>"All Fieros broke right now" :(||||reg||1

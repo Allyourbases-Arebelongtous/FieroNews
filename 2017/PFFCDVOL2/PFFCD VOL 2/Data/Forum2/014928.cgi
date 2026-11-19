@@ -1,0 +1,3 @@
+A||||1||deceler8||Windshield molding...how's it come off ?||||1||
+Z||000000||deceler8||10-30-2001||09:57 PM||||Curious...the molding around the perimeter of the windshield...how does it come off ?<P>I hve a water leak and ned to remove it to seal it up.<P>Thanks in advance.<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/deceler8_sig.gif"> ||||reg||1
+Z||000001||terryk||10-30-2001||11:04 PM||||Just glued on. Pull. <P>Go to any glass shop and get new stuff. When you are ready to install it, go for a drive, come back home, open the trunk lid and lay it on the intake/air cleaner and close the hood. Wait 10 minutes. It will be very soft and plyable. You can then bend it to match the curves correctly. ||||reg||1

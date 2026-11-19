@@ -1,0 +1,3 @@
+A||N||1||KRMFiero||What I thought was a rod knock?||||1||
+Z||000000||KRMFiero||11-21-2000||04:19 PM||||Hmm Interesting.. .this just might save me some cash... I talked to a mechanic about that sounds my Fiero makes (I thoiught it was a rod knock) but he thinks it is a cam knock, i never herd of  a cam knock???    Okay anyways i cheaked this out.. I turn my key to run - oil pressure goes right up to the max but then when it runs it does not even messure on the guage? does that mean bad oil pump?   coould just rplacing the oil pump solve my probelms?||||reg||1
+Z||000001||88formula||11-21-2000||04:48 PM||||Put a real mechanical gauge on it to find out the actual oil pressure.||||reg||1

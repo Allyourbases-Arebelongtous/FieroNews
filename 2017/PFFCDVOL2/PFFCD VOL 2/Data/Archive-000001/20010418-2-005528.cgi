@@ -1,0 +1,6 @@
+A||||4||WisconsinGT||Auto tranny shift question||||1||
+Z||000000||WisconsinGT||09-02-2000||10:34 PM||||Fiero log 348: While driving, I notice (Only sometimes) that my 88GT Auto tranny will not shift into the last gear. (around 55) If I let off the gas a little it will shift. Anyone know what may be the problem? Many thanks!||||reg||1
+Z||000001||Haze_Performance||09-02-2000||11:22 PM||||Hey Guys!!! Im not sure but.... does the Fiero have an ajustable kick down cable?<P>Thats the same problem I was having with one of my Mustangs. At about 60mph (sometimes) it would hang up in 3rd. I found the adjuster on the cable was broke. I replaced it and it never happened again.   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P><p>[This message has been edited by Haze_Performance (edited 09-03-2000).]||||reg||5
+Z||000002||Uaana||09-03-2000||12:14 AM||||When was the last time you replaced your tranny filter? If it's starting to get clogged.. could be the prob.||||reg||1
+Z||000003||theogre||09-03-2000||11:59 AM||||You already checked fluid level. right?<P>The adjustment procedure for the transmissions Throttle Valve cable is in the Haynes book. Do that and see if it still acts up.||||reg||1
+Z||000004||WisconsinGT||09-03-2000||10:17 PM||||Thanks folks!<P>I will try the Throttle Valve cable thing. I replaced the filter about three months ago. So fluid is good.||||reg||1

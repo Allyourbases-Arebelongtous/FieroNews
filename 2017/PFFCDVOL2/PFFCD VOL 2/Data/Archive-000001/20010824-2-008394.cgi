@@ -1,0 +1,6 @@
+A||||4||151 in. of love||MAT||||1||
+Z||000000||151 in. of love||02-09-2001||08:28 PM||||Does my 85 2.5 auto have one?<BR>If so where is it located.<BR>How do I test it?<BR>||||reg||1
+Z||000001||Jake||02-10-2001||07:47 AM||||does it have what? <BR>A MAT? <BR>It could, check underneath your feet next time you get in the car  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>Do you mean MAP? like a MAP sensor?<BR>it's got one of them. It's mounted on the side of your air cleaner. It's got an electrical connection and a vaccum line running into it.<P>If your refering to somethin else, I'm not sure what you mean. ||||reg||1
+Z||000002||Rodrv6||02-10-2001||10:35 AM||||If you mean a Manifold Air Temp sensor, than no, your 2.5 doesn't have one.  The V-6's do have one, it's screwed into the side of the air cleaner can.<P>------------------<BR>Rod Schneider, Woodstock, Ga.  84 SE, 330,000 miles and counting, 88 GT, not nearly as many miles :)||||reg||1
+Z||000003||151 in. of love||02-10-2001||12:46 PM||||Thanx Rod.<P>Sometimes the pearls of wisdom that stream from people is just amazing..<P>If you're ignorant of something don't insult yourself, and try not to waste a post.<BR>Ha. <BR>||||reg||1
+Z||000004||theogre||02-10-2001||01:34 PM||||Actually it depends what year 4 cyl. 87-88 DO have MAT. In the manifold to the right of the TBI.||||reg||1

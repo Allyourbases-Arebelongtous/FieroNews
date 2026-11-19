@@ -1,0 +1,4 @@
+A||||2||Flash Box||Pix's Scanned/Need Help Posting||||7||
+Z||000000||Flash Box||06-23-2000||07:35 PM||||I was going through some old issues of "Car-Toons" magazine and I scanned some pictures of some Fieros but I don't know how to post them. Could someone please post them for me? E-mail me and I will send them to you.<BR>Thanks <BR>CC_HotRod@HotMail.Com||||reg||7
+Z||000001||BAM-BAM||06-23-2000||08:10 PM|||| Flash Box, at the bottom of the page is a blue and red ICON with Pennocks Image Poster on it. Click and go, just remember that when you name your file, use no spaces or, under score the spaces with a line ie...rear_view, or all you'll post is the file address. Also, be  sure to double space between images.<P> Late, BAM OUT!   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><p>[This message has been edited by BAM-BAM (edited 06-23-2000).]||||reg||1
+Z||000002||Flash Box||06-23-2000||10:23 PM||||Thanks Bam-Bam I will check it out.||||reg||14

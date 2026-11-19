@@ -1,0 +1,3 @@
+A||||1||DXR_DAD||ATTN. Mr. DaRkLoRD!!||||1||
+Z||000000||DXR_DAD||03-25-2001||12:59 PM||||The package has landed. Got here yesterday<BR>FedX 2nd day?? <IMG SRC="http://www.fiero.nl/forum/smile.gif"> It will be on it's way to ya ASAP.<P>DXR_DAD||||reg||1
+Z||000001||DaRkLoRD||03-25-2001||05:42 PM||||WOOHOO!!<BR>Looks like I'll be busy over easter.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Thanks!!!<P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||14

@@ -1,0 +1,3 @@
+A||||1||GT Bastard||305 injectors...||||1||
+Z||000000||GT Bastard||05-13-2000||09:03 PM||||What exactly would be the result of using 305 injectors with the stock fuel pump and regulator?  Would it flow the same as the stock injectors with the stock fuel pump being used?  I want to add them while I have my intake in pieces because I plan to do some heavy mods in the future that could benefit from more fuel.  I just don't want to cause problems with driveability in the mean time.  any ideas?||||reg||1
+Z||000001||mwbackus||05-13-2000||09:28 PM||||This should explain what is required:<BR> <A HREF="http://www.autospeed.com/A_0008/P_1/article.html" TARGET=_blank>http://www.autospeed.com/A_0008/P_1/article.html</A> <P><BR>Mike B.||||reg||1

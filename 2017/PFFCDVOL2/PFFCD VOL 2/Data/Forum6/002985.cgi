@@ -1,0 +1,5 @@
+A||||3||Cheever3000||What's black and white and...||||5||
+Z||000000||Cheever3000||08-15-2001||08:35 PM||||What's black & white and cannot go through a revolving door?<P>A nun with a spear through her head.<BR>||||reg||5
+Z||000001||FieroLisa||08-15-2001||08:36 PM||||and d@mn I really hate it when that happens!||||reg||1
+Z||000002||hugh||08-15-2001||09:04 PM||||A police car,a Zebra.<BR>Cheev,Can't you keep your post count when you change you username?||||reg||1
+Z||000003||Cheever3000||08-15-2001||09:16 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Can't you keep your post count when you change you username?<HR></BLOCKQUOTE><BR>What on earth do you mean?  You're confusing me with that Cheever2 fella, I bet.<P>But seriously, I'm fairly certain someone asked Cliff that question once and the answer was no.  No biggie.  <IMG SRC="http://www.fiero.nl/forum/smiley_zz.gif"> I was getting tired of that old name anyway.<P>"I'm a brand new man" - <I>Brooks & Dunn</I><P><BR>||||reg||1

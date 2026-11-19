@@ -1,0 +1,4 @@
+A||||2||JohnnyK||Clutch getting spongy again!!||||1||
+Z||000000||JohnnyK||04-11-2001||08:04 PM||||New line, master not leaking, slave not leaking (from what I can tell), fluid level isn't going down, but a week ago, the clutch was great, engaging a few inches up, perfect. Now, it's down to less than an inch off the floor and it starts to engage. I heard something about the master plunger or something being faulty? Refresh me||||reg||1
+Z||000001||Bluebottlejunky||04-11-2001||09:33 PM||||hmm on my 85 gt 4sp we have to push the clutch to the floor...is that normal? if not, what can I do to fix it?<BR><P>------------------<BR>BBJ<BR>85' GT 4sp||||reg||1
+Z||000002||Fierowrecker||04-11-2001||10:42 PM||||One more time...<BR>Pull back your carpet and look for fluid...<BR>The piston can leak into the interior of the car...<BR>If it is leaking, rebuild or replace the master...<BR>Check the boot of the slave, if it leaks, fluid will be in the boot...<BR>crash...||||reg||1

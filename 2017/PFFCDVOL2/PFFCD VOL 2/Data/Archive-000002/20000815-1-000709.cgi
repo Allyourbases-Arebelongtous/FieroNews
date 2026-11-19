@@ -1,0 +1,6 @@
+A||N||4||Monkeyman||Cliff--||||1||
+Z||000000||Monkeyman||12-08-1999||02:27 PM||||Cliff--Did you delete the "New Messages Since Last Visit" icon?  It didn't come up this visit.  Last time I checked in was about 8 or 9 hours ago.  I wondered if it was you because I also noticed a new icon for closed threads (although I've never seen this icon used.).||||reg||1
+Z||000001||Cliff Pennock||12-08-1999||03:11 PM||||Nope, didn't change a thing... Maybe your cookies are all messed up - that sometimes happens. If you are still experiencing this problem, click on <I>Preferences</I> at the top of this page, than choose "<I>Click here to delete all cookies set by this forum!</I>". Maybe that will get the icons back.||||reg||1
+Z||000002||Monkeyman||12-08-1999||11:18 PM||||Thanx, Cliff.  I did what you said to do.  I'll see if it makes a difference.  BTW-did you receive my email from (?) yesterday?  It was pretty long (sorry), but I'm in dire need of some help.||||reg||1
+Z||000003||Cliff Pennock||12-09-1999||04:42 AM||||Yes I did receive that email, and I needed to check something first in my workshop manual before I would send you an answer - and I forgot to check...  <IMG SRC="http://www.fiero.nl/forum/frown.gif"> Sorry 'bout that.<P>I'll send you a reply today.||||reg||1
+Z||000004||Monkeyman||12-09-1999||09:22 AM||||No prob, Cliff.  Just checking.  Thanx.||||reg||1

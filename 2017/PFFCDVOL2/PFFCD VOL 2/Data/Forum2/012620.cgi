@@ -1,0 +1,4 @@
+A||||2||Shiner||Rivets Galore!  ||||1||
+Z||000000||Shiner||08-08-2001||10:00 PM||||The GT will be getting back from the painter's next week, and all the ground effects, aero trim, door skins, quarter panels, and fenders will need to be put on when I get her back!  I have a very good source for rivets, I just need to know which ones I need.  If anyone has any GM part numbers for these, I can look them right up.  If not, rivet type, diameter, and grip range would be helpfull.  <P> TIA!<P>------------------<BR>-Shiner-<BR>'84 Sport Coupe<BR>'87 GT<BR>'86 SE 2M6 (parts car)||||reg||1
+Z||000001||Shiner||08-09-2001||03:39 PM||||*bump*||||reg||1
+Z||000002||EdsB52||08-09-2001||04:20 PM||||Sweet, what color is it? What kind of paint? Sorry, I'm not one of the Fiero Gods in here as far as info, but be sure to post pics of it.||||reg||1

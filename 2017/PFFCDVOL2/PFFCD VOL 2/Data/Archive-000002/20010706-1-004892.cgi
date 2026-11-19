@@ -1,0 +1,4 @@
+A||N||2||FIERO1985||ANYONE PUT NEONS ON FIERO??||||5||
+Z||000000||FIERO1985||12-20-2000||08:02 PM||||anyone put neons under a fiero if so where did you locate and how do they look and do they hold up under a low car such as a fiero??<P><BR>thanks<BR>Dan<P><P>------------------<BR>1985 GT V6 <BR>"LETS RACE"||||reg||5
+Z||000001||Bob Englert||12-20-2000||08:51 PM||||I remember seeing a blue 87 coupe with blue neon light trim under the door sills at the 1999 FOCOA show in Columbus.  I believe the owner was from Minnesota.  Sorry I don't remember his name.  It was a beautifully detailed car as I remember.<P>------------------<BR>Bob<BR>2 - 87 GT's<BR>85 SE 4 cyl||||reg||1
+Z||000002||Seanh||12-20-2000||10:03 PM||||I have Aqua neon under my Silver 86GT. It is mounted behind where the ground f/x trim mounts. I think it look pretty good.||||reg||1

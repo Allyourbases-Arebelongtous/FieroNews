@@ -1,0 +1,4 @@
+A||||2||FieroMaster88||Fiero Shows||||5||
+Z||000000||FieroMaster88||12-07-2000||06:10 PM||||Ok, I live in Michigan and want to attend A LOT of Fiero shows this year.  I am already planning on going to Carlisle, but would like to know where more shows are around here and the east side of the country.  Does anyone know good ones??  Let me know. <P>James||||reg||5
+Z||000001||Old Lar||12-07-2000||07:00 PM|||| Daytona  March 23-24<BR>Carlisle May 19<BR>Dells Run 2001 May 31-June 3<BR>Michigan show  June 16(?)<BR>FOCOA National Willaimsburg Aug 2-5<P>Cliff used to have a calendar of events on the forum, a handy item to consolidate Fiero shows....||||reg||1
+Z||000002||Tigger||12-07-2000||08:57 PM||||Double posted thread, go here for this thread<P> <A HREF="http://www.fiero.nl/forum/Forum1/HTML/004713.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/004713.html</A> ||||reg||1

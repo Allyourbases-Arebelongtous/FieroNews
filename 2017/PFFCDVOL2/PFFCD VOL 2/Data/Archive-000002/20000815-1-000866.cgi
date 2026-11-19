@@ -1,0 +1,5 @@
+A||N||3||Monkeyman||Is it 2000 yet??||||5||
+Z||000000||Monkeyman||12-31-1999||01:03 PM||||Cliff--Since you have the New Years banner up (VERY cool! <IMG SRC="http://www.fiero.nl/forum/smile.gif">), can we assume that it's already 2000 in the Netherlands?  Maybe this means that there won't be any problems with Y2K on our beloved forum?  Please tell me it's true?!  Happy New Year!! <IMG SRC="http://www.fiero.nl/forum/smile.gif">!! <IMG SRC="http://www.fiero.nl/forum/smile.gif">!! <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||5
+Z||000001||Cliff Pennock||12-31-1999||03:16 PM||||No, it isn't 2000 here just yet (4 more hours to go!) but it was already 2000 in some other parts of the world!||||reg||1
+Z||000002||87GTBro||12-31-1999||06:49 PM||||I've been watching CNN's coverage of the New Year's cellebrations all over the world.  There has not been any problems anywhere so far.<P>Whewww!!!  I was never worried...  Really I wasn't!<P>7 hours of 1999 left here....||||reg||4
+Z||000003||batboy||01-01-2000||03:08 AM||||Happy New year! I haven't had to fight off any looters after my beer stash yet.||||reg||1

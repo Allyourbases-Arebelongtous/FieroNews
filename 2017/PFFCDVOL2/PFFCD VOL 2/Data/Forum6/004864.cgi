@@ -1,0 +1,3 @@
+A||||1||avengador1||How many people are from Connecticut?||||1||
+Z||000000||avengador1||12-17-2001||06:40 PM||||I'm trying to find out how many forum members are from Connecticut. I would like to try and plan a get together this spring for all Connecticut members. Post a reply and let me know if you are interested.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1
+Z||000001||malacite||12-17-2001||10:10 PM||||i'm from connecticut, but i missed my plane and had to stay here.<P><P>------------------<BR>Malacite<P>Grendel-88 Fiero RIP<BR>'94 Saturn SW2 RallySport<BR>'95 Saturn SL1 Touring||||reg||10

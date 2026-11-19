@@ -1,0 +1,4 @@
+A||||2||RossT||got my new plates on!||||10||
+Z||000000||RossT||11-04-2001||12:23 AM||||Finally got my new plates on.  All the good ones were taken, but I cleaverly came up with this:<P> <IMG SRC="http://www.fiero.nl/uploads/Image026.jpg"> ||||reg||10
+Z||000001||FieroMontreal||11-04-2001||12:27 AM||||Nice choice man!<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sigfieromontreal_1.gif"> <BR>1986 Fiero GT, STOCK Wingless, <BR>-Alex President of FieroMontreal... <A HREF="http://www.fieromontreal.com" TARGET=_blank>www.fieromontreal.com</A> ||||reg||1
+Z||000002||sloth85GT||11-04-2001||05:42 PM||||Hey RossT, you ever come up here to Winnipeg? If so, next time you do, let myself, Mach10, ICEfiero, or baldlobo know. We'd like to see a new ride around here.<P>------------------<BR>     <IMG SRC="http://www.mts.net/~kuzma/fieronl.gif">     <BR>Dan<BR>1985 Silver GT||||reg||1

@@ -1,0 +1,3 @@
+A||||1||Smoooooth GT||fast question||||5||
+Z||000000||Smoooooth GT||07-31-2001||09:03 AM||||Does anyone know what the link is for the identification of the *service part's list*<BR>That's the tag under the front decklid on driver's side wheelwell???<BR>I would like to start doing some of the upgrades...  Steve<P>------------------<BR>NEW EMAIL..  Smooth_gt@k.st<BR>Future add's.. 2" drop, 17" wheel's, finish the turbo T-3watercooled project, ViperYellow        <IMG SRC="http://www.fiero.nl/uploads/smooth_sig2_3.JPG">     <BR>  with a 100-125HP shot of NOS...||||reg||5
+Z||000001||Indiana_resto_guy||07-31-2001||09:45 AM|||| <A HREF="http://www.mindspring.com/~fierosketch/osg/options.html" TARGET=_blank>http://www.mindspring.com/~fierosketch/osg/options.html</A> ||||reg||1

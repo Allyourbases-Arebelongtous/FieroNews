@@ -1,0 +1,4 @@
+A||||2||88formula||Best place to find 88 rear caliper||||1||
+Z||000000||88formula||10-06-2001||01:45 PM||||The rear caliper sheared off the rear knuckle and shattered the rotor into three pieces last week (was all over the road). I have found a rear knuckle and rotor but I still need a caliper. What is the best place I can find one, money is an issue.<P>1988 Fiero Formula<P>Thanks<BR><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/88formula_logo_1.JPG"> ||||reg||1
+Z||000001||Formula88||10-06-2001||05:55 PM||||New, AutoZone for about $45 + core charge.  Used?  Try Doni Hagan?  KickHill Farms?||||reg||1
+Z||000002||rogergarrison||10-06-2001||06:07 PM||||when it comes to brakes, i recommend replacing only in pairs. (both front or both rear) You could end up with a swerving problem under braking.||||reg||1

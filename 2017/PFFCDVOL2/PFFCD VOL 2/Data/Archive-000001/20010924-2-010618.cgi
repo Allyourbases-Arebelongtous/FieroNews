@@ -1,0 +1,5 @@
+A||||3||Ken Wittlief||can anyone verify egr part number||||1||
+Z||000000||Ken Wittlief||05-21-2001||11:12 AM||||I searched the archives and found two part numbers listed for 85 V6 egr tube kits.<P>I want to get one from the gmsupply website ($47) but there is now way to verify the number at that site is for my year motor.<P>anyone have the resources to find the proper part number - i dont want to spend $50 + shipping and end up with the wrong part.||||reg||1
+Z||000001||tgowens||05-21-2001||11:32 AM||||#10137017 for an '85-'87 V6||||reg||1
+Z||000002||Ken Wittlief||05-21-2001||01:55 PM||||thanks||||reg||1
+Z||000003||Ken Wittlief||05-22-2001||10:16 AM||||Just to let you all know - i fixed my old erg tube, used Map gas and a swirl port torch, and a bernzomatic brazing rod from home depot, and brazed all the way around the 1st ripple from the top end where it was cracked.<P>  then i threw away the abspestes covering, wrapped it in fiberglass cloth, and covered that with metal tape (alum).<P>   No leaks - works great - didnt have to pay $80 locally or $47 from gmparts or wait for shipping.||||reg||1

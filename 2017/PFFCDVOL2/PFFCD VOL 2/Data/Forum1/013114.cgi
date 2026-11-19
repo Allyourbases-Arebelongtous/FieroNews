@@ -1,0 +1,6 @@
+A||N||4||javier_altube||see my car and help with the name||||10||
+Z||000000||javier_altube||12-31-2001||04:19 PM||||i upload a pic on the web site, i wasn;t gonna do it, couse i didn;t pay the car yet, but i want a name for it, and i know some of you can give me good ideas<BR>thanks<BR> <A HREF="http://www.myfiero.50megs.com" TARGET=_blank>www.myfiero.50megs.com</A> <P>other thing, i don't have that decal on the windshield no more, i'm planning to put a new one up, like my car's name<p>[This message has been edited by javier_altube (edited 12-31-2001).]||||reg||10
+Z||000001||avengador1||12-31-2001||09:57 PM||||Here's your car. <IMG SRC="http://www.fiero.nl/uploads/front_of_fiero.jpg"> ||||reg||1
+Z||000002||84Bill||01-01-2002||03:33 AM||||Moose  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||12
+Z||000003||DR650SE||01-01-2002||04:23 AM||||Mine are named Goose and Maverick, there twins<P>------------------<BR>AIM:  DR650SE<BR>2 Black 86 SE's V-6 4-SPD<BR>  <IMG SRC="http://www.fiero.nl/uploads/DR650SEsig.gif"> ||||reg||1
+Z||000004||Screwie||01-01-2002||05:52 AM||||How 'bout Aragorn? (Oops, I just saw Lord of the Rings, man that's a great movie  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">)||||reg||1

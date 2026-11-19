@@ -1,0 +1,5 @@
+A||||3||johnmac||Ignition connector Inquiry||||1||
+Z||000000||johnmac||12-18-2001||11:11 AM||||Dumb question from a dummy doing a total Fiero rebuild!<P>How many connectors are ontop the steering wheel post were the ignition connector is?<P>I have found the ignitor connector which is a 5 post connector which matches.<P>There is another side of the connector which is missing - has 6 posts empty.<P>Is there another connector?||||reg||1
+Z||000001||StuGood||12-18-2001||05:49 PM||||Not sure I understand your question.  But I seem to recall there are two connectors on the top of the column. ||||reg||5
+Z||000002||theogre||12-18-2001||08:28 PM||||Yes. there are 2 connectors to the ignition switch.||||reg||1
+Z||000003||johnmac||12-19-2001||02:20 PM||||Found the bloody other connector.<P>When I placed my new dashboard on the car I hid the 2nd connector.<P>Had to remove dashboard to gain access.<P>Thanks for your responses.<P><BR>BOY - IS ME A DUMMY!!!!!<P><P>------------------<BR>John MacHaffie<BR>86GT "Yellowbird"<BR>12+ month project car<BR>johnmac@mpinet.net<BR>Winter Springs, Florida||||reg||1

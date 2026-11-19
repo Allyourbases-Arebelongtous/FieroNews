@@ -1,0 +1,3 @@
+A||N||1||87ECO5||Shipping question||||6||
+Z||000000||87ECO5||01-08-2001||01:49 PM||||Anyone planning to make a trip from Saratoga, California to Southern Ohio in the next few weeks?  I'm wondering if I could pay you to bring a V6 and Getrag (both on cradle) from FieroDave's place to mine?    <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||6
+Z||000001||Philphine||01-08-2001||06:49 PM||||don't know if they do parts, but i bought a car from dave that should be picked up in the next couple of days by a-z affordable transport. see what they tell you if you can contact them before they get there.||||reg||1

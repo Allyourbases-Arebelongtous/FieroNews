@@ -1,0 +1,3 @@
+A||N||1||gmata||"P O N T I A C"  Tail Lights||||5||
+Z||000000||gmata||05-13-2000||05:15 PM||||I was going to replace the bulbs that light up the PONTIAC lettering and noticed that the sockets were melting.  I notice that the bulb socket was 8917345, but I couldn't find a socket at the auto store.  What product numbers is comparable to 8917345?  Also, I noticed that the new sockets have brown and black wires, but the original wiring had both wires black.  It did have them labeled as "A" and "B".  Is "B" the ground wire???<P>||||reg||5
+Z||000001||Standard||05-13-2000||07:43 PM||||See here - <A HREF="http://members.xoom.com/fierov6/OSG/mod.PONTIAC-lights.html" TARGET=_blank>http://members.xoom.com/fierov6/OSG/mod.PONTIAC-lights.html</A> ||||reg||1

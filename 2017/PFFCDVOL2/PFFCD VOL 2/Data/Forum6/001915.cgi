@@ -1,0 +1,5 @@
+A||||3||JohnnyK||A strange request.. Any one a cottage they rent? :)||||1||
+Z||000000||JohnnyK||04-24-2001||02:18 PM||||Me and a few of my buddies are looking for a run down scary cabin in the woods (hence, not right beside a road  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> Anyone own one they would rent out for a weekend (Hey, it's worth a shot!)||||reg||1
+Z||000001||BC-GT||04-24-2001||02:39 PM||||Pirated software, scarey cabins, whats next? <BR>you want to borrow someones chainsaw!! <IMG SRC="http://www.fiero.nl/forum/eek.gif">||||reg||1
+Z||000002||JohnnyK||04-24-2001||02:51 PM||||Oh shaddup..  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> Btw, the pirated software is too see if it will stop the floods, since another didn't. (Well, it kepts trying to stop it over and over, until i got shutdown)||||reg||1
+Z||000003||loafer87gt||04-24-2001||07:49 PM||||Go out to Grey Owls cabin in Waskesiu, Saskatchewan. We did the hike up there and its pretty creepy at night. Its about an hour north of Prince Albert.||||reg||1

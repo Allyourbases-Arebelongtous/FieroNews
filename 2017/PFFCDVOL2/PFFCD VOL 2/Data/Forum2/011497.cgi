@@ -1,0 +1,6 @@
+A||||4||Wannabe||Exhaust Manifold Replacement||||1||
+Z||000000||Wannabe||06-22-2001||11:31 PM||||I'm planning to replace my cracked front exhaust manifold and rear manifold with a welded and ported set. How much time should I budget for the job? I have the tools needed and lots of mechanical experience, including replacing broken manifold studs...just wondering about tilting the cradle forward and a few of the other steps people usually groan about.||||reg||1
+Z||000001||rogergarrison||06-23-2001||01:48 AM||||A couple of hours if everything goes perfect. Which with a Fiero , you know wont happen. Plan on at least a few studs breaking off, and hope that there the ez to reach ones. Time will be in direct proportion to how many break - I had 6 broken||||reg||1
+Z||000002||cadaver||06-23-2001||02:45 PM||||Can I buy your old forward one?||||reg||1
+Z||000003||Wannabe||06-24-2001||07:32 PM||||I want to see what comes out first. I'm not completely satisfied with the wels job on the replacement set and mine are relatively low mileage, so I may end up using welding the originals. Either way, whatever is left will be up for grabs.||||reg||1
+Z||000004||cadaver||06-25-2001||02:23 AM||||Thanks I have a ported and welded one on the rear but a stock one on the front. I need the extra to work on it and not have my car down for that long.||||reg||1

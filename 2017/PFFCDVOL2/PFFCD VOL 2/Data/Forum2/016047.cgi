@@ -1,0 +1,2 @@
+A||||0||lowfierogt||auto V8||||1||
+Z||000000||lowfierogt||12-04-2001||04:38 PM||||How hard is it to do a v8 swap with auto tranny?   Cost?  Does the auto tranny last long?<P><P>------------------<BR>    <IMG SRC="http://lowfierogt.no-ip.com/lowfierogtsig.gif">         <BR>http://lowfierogt.no-ip.com<BR>86 1/2 GT<BR>85 GT Project, fastback V8<BR>87 coupe Getting V6 daily driver over 300k miles||||reg||1

@@ -1,0 +1,10 @@
+A||||8||yo_sweet||Any System of a Down fans?||||1||
+Z||000000||yo_sweet||10-14-2001||06:42 PM||||they totally rule ,a great russian metal hardcore band !! if your into that kind of music i suggest you check'em out they rule!<P> <A HREF="http://www.systemofadown.com" TARGET=_blank>www.systemofadown.com</A> <P>------------------<BR>1986 Fiero SE<BR>customized tail light's,american raceing rim's,k&n air filter,pioneer cd player.. more to come<P>kill's: 1990 Honda CRX,93 ACURA integra, 85 mr2,94 pontiac grand am<P>loses: 1996 camero Z28||||reg||1
+Z||000001||Pheagey||10-14-2001||09:49 PM||||Yo, Im a S.o.a.d. fan. russian metal? I dunno about that||||reg||4
+Z||000002||Sleeper||10-14-2001||10:05 PM||||they are Armenian, mean-ass hateful dudes and yes they are cool.||||reg||1
+Z||000003||yo_sweet||10-14-2001||10:52 PM||||WELL THE LIVE IN AMERICA BUT ARE RUSSIAN THERE WEBSITE WILL TELL YOU MORE<P>you can tell by the way he sings||||reg||1
+Z||000004||72vinman||10-14-2001||11:14 PM||||Yo Sweet, I checked out the website like you said. In there Bio it says they are from Armenia not Russia. <BR>I have only heard a couple of songs, pretty cool stuff.||||reg||1
+Z||000005||Areakon||10-15-2001||12:50 AM||||Bounce pogo pogo pogo...||||reg||1
+Z||000006||Urchin||10-15-2001||02:49 AM||||I like a lot of the heavier stuff myself.  System of a Down, well they have a couple o.k. songs, but I am not a big fan of theirs.  For heavier bands I like Powerman 5000, Static-X, Luxt, Strife, Dope etc.  <P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/final.jpg"> <BR>If you can read this, I'm parked.||||reg||1
+Z||000007||btoth||10-15-2001||10:12 AM||||Just got the new Sevendust cd myself... (yes, I know it's not out yet... but I got it.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">)  Pretty darned good I think.<P>System of a Down is cool... not my favorite though, he sounds awesome when he actually sings.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000008||My7Fieros||10-15-2001||08:26 PM||||S O T D is pretty good. Speaking of "Russian bands", does anybody remember Gorky Park?||||reg||1

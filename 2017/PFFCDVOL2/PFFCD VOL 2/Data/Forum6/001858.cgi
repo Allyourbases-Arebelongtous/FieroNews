@@ -1,0 +1,3 @@
+A||N||1||Monkeyman||LED third brake lights||||5||
+Z||000000||Monkeyman||04-15-2001||07:58 AM||||I've seen some small LED third brake lights that are also turn signals (one side flashes for each turn signal).  Anyone know of a source for these?  I want to use one on my bike.<P>MM||||reg||5
+Z||000001||hugh||05-05-2001||07:03 PM||||MM,I got off the Pa.turnpike a few weeks ago behind a Honda (I think).The toll collector was into bikes and said it was a 2001.It had a small wing with a 3rd.brake light.I thought it might look good on any bike,even on a Fiero. <P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/hugh_sig.gif"> ||||reg||1

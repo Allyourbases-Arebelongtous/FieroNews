@@ -1,0 +1,2 @@
+A||||0||sluppy123||Sub box site||||1||
+Z||000000||sluppy123||05-07-2000||01:31 AM||||I was surfing the net and ran across this site, <A HREF="http://www.ferrari.com/Automobili/index.asp?display=Models%2F550Maranello%2FMenu%2Easp" TARGET=_blank>http://www.ferrari.com/Automobili/index.asp?display=Models%2F550Maranello%2FMenu%2Easp</A> <P>They sell a sub box that fits up front, and ported into the passenger compartment.<P>-Brian<BR>||||reg||1

@@ -1,0 +1,3 @@
+A||||1||Pyric||Where to find Enkei wheels||||5||
+Z||000000||Pyric||11-21-2001||03:09 PM||||Does anyone know who carries Enkei wheels?  Specifically I'm looking for the Shogun style.  Here is a pic:<P><A HREF="http://www.enkei.com/images/15c_1.jpg" TARGET=_blank>http://www.enkei.com/images/15c_1.jpg</A>  <P><BR>Or some that look like these would be fine, I just like this style.<p>[This message has been edited by Pyric (edited 11-21-2001).]||||reg||5
+Z||000001||fieroX||11-21-2001||03:22 PM|||| <A HREF="http://www.tires.com" TARGET=_blank>www.tires.com</A> <BR><P>------------------<BR>  <IMG SRC="http://www.fierox.com/logo2small.gif"> ||||reg||1

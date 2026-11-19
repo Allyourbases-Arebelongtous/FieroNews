@@ -1,0 +1,6 @@
+A||N||4||Haze_Performance||A must for any Fiero owner||||10||
+Z||000000||Haze_Performance||12-05-2000||05:13 AM||||LOL  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>I found this on Ebay<P> <A HREF="http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=517862906" TARGET=_blank>http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=517862906</A> <P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/goodlogo1_1.gif">    <BR><B>"AHHHHH!!! All Fiero's don't start on fire you BONEHEAD!!"</B>||||reg||10
+Z||000001||2xsess||12-05-2000||07:05 AM||||The things people try to make money off of is crazy.<BR><P>------------------<BR>Jeff<BR> <IMG SRC="http://www.fiero.nl/uploads/My_car_(large)sig_1.JPG"> ||||reg||1
+Z||000002||Phil||12-05-2000||07:46 AM||||At most big car shows there are always vendors selling old plates. going rate is about $20 ||||reg||1
+Z||000003||btoth||12-05-2000||10:18 AM||||Hmmm... I aquired a stack of old plates from the 50s and 60s... wonder what those would go for on ebay.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> And I was just going to throw them out..... what was I thinking!?||||reg||3
+Z||000004||Phil||12-05-2000||02:57 PM||||People like to put a plate with the car's year on it. i.e. 57 plates on a 57 Chev||||reg||1

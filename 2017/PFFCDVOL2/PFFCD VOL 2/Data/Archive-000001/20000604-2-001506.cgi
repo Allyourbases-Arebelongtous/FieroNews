@@ -1,0 +1,4 @@
+A||||2||fiero56||bench bleeding||||5
+Z||000000||fiero56||11-24-1999||05:54 PM||||The day is coming when I will be putting my new master and slave cylinders in my Fiero. They are still in their plastic bags so I assume I have to "bench bleed" one or both? What is bench bleeding, how do I do it? I've heard of it, but don't really know the applications for it.||||reg||5
+Z||000001||Sage||11-24-1999||08:51 PM||||The Haynes manual has fairly detailed instructions on bleeding the master cyl. both before it is in car and after installed. They are about $11.00 and available at most parts houses, Autozone, Advance Auto etc. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||6
+Z||000002||kong||11-26-1999||03:23 AM||||I invested in a vacuum brake bleeder. It works great on clutch system too! Iused it on mine and did it in five mins. Alone.||||reg||1

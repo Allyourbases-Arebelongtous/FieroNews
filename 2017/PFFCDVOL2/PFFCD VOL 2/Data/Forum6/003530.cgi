@@ -1,0 +1,2 @@
+A||||0||isthiswhereiputausername?||remember space invaders?||||1||
+Z||000000||isthiswhereiputausername?||09-22-2001||06:43 PM|||| <A HREF="http://www.huntandpunish.com" TARGET=_blank>http://www.huntandpunish.com</A>   enjoy   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P> <IMG SRC="http://www.fiero.nl/uploads/spacebinladen.jpg"> <p>[This message has been edited by isthiswhereiputausername? (edited 09-22-2001).]||||reg||1

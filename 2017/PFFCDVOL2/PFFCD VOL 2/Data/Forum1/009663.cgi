@@ -1,0 +1,4 @@
+A||||2||NIFE [PaulV]||88GT Raffle tickets a sell-out!||||1||
+Z||000000||NIFE [PaulV]||08-20-2001||10:01 PM||||As of 8/20, all 600 of the NIFE raffle tickets for the 88GT T-Top/Mr Mikes package/Fiero store certificate, have been sold. Drawing at 5PM on Sunday Sept 9th at the "Fierorama 2001" in Oak Brook, IL (Chicago area). We will call winners from the show. Thanks to all the participants! If you are close, join us at Fierorama!||||reg||1
+Z||000001||Old Lar||08-21-2001||06:20 AM||||Paul, What is the address for Fierorama? Host hotel, reccomendations?  I gotta get the Fiero trips in before the weather turns nasty and the cars go into storage. <P> Hmmmm how will I get that GT home?||||reg||1
+Z||000002||mrfixit58||08-21-2001||07:51 AM||||Remember, it area code 813....  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P><P>------------------<BR>Roy :D<BR>87 GT   <IMG SRC="http://www.fiero.nl/uploads/pennocksize.JPG"> ||||reg||6

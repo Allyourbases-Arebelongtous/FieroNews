@@ -1,0 +1,4 @@
+A||N||2||whamel||Radiator question||||1||
+Z||000000||whamel||08-29-2000||08:28 AM||||Was the same radiator used in all models and engine styles of the Fiero?  I don't have my parts fiche here (couldn't read it anyway) and I need to get a radiator ordered.  <BR>Thanks,<BR>Wade||||reg||1
+Z||000001||mrfiero||08-29-2000||11:44 AM||||V-6 radiators are 2 row and 4 cyl. only a single row.......you can put the 2 row in a 4 banger, but I wouldn't put the single row in a V-6 (may not be able to cool the V-6 properly).  Also, the transmission cooler is integrated in the radiator tank on auto. Fieros, so you need to make sure the new one has this (if you have an auto).  You can use an auto. radiator in a manual, but not vice versa.    ||||reg||10
+Z||000002||whamel||08-29-2000||12:05 PM||||Got it - thanks!  <BR>Wade||||reg||1

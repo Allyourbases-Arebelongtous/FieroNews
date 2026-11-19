@@ -1,0 +1,5 @@
+A||||3||DRH||Just curious - question for V8 guys.||||5||
+Z||000000||DRH||04-07-2000||06:43 PM||||OK, the engine and transaxle are connected using an adapter plate maybe 1/4" to 1/2" or so thick. How is this extra distance between the crankshaft and tranny input shaft compensated for? Special flywheel?<P>||||reg||5
+Z||000001||pherder||04-07-2000||08:05 PM||||Actually, Archie's adapter is approx. 1" thick.<P>The flywheel is specially built for the kit by CenterForce.<P>Paul||||reg||1
+Z||000002||TheFiero64||04-09-2000||10:03 AM||||Another Question for v8ers. Is there anyway to get away from having the pulleys in the wheel well? electric water pumps? anything?<BR>If I was to go into the v8 plunge I would like my engine to fit in my engine compartment with a couple of inches to spare.<BR>||||reg||5
+Z||000003||Oreif||04-09-2000||10:35 AM||||As for the pulley's I think it's the LT1 (not sure) but some of the chevy V-8's use a cam driven waterpump. It has a flat front and the drive goes into the camshaft So there are no pulley's in the wheel well.<BR>You can check with V-8 Archies site for the engines that have this. ||||reg||1

@@ -1,0 +1,5 @@
+A||||3||Joe Torma||Hey Cliff what's that?!||||1||
+Z||000000||Joe Torma||12-11-2001||11:28 AM||||Seems like an Ebay ad has snuck onto the forum!  Is this supposed to be there?!  Just wondering.<P> <IMG SRC="http://www.fiero.nl/uploads/screenshot.gif"> <P>------------------<BR>Its never going to be finished...<BR> <IMG SRC="http://www.fiero.nl/uploads/sig2_2.gif"> ||||reg||1
+Z||000001||Cliff Pennock||12-11-2001||11:57 AM||||No, it's always there. I use a hidden search box for the Fiero search on eBay (in the menu at the top of the screen). But on some pages it appears because of an HTML bug.||||reg||1
+Z||000002||My7Fieros||12-11-2001||01:52 PM||||Hey, thats my post! (when I finished my GT back in April). Cool!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>As far as the ebay thing, I noticed that to...I never get it on my desktop, but its always there when I log onto my OLD laptop.||||reg||10
+Z||000003||FieroJoe||12-11-2001||09:27 PM||||So thats why I always see an image loading from some ebay server at the bottom of my browser.<P>Ahhhhh, <I>now</I> I get it!||||reg||1

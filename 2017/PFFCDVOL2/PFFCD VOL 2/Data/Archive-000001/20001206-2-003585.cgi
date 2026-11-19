@@ -1,0 +1,2 @@
+A||||0||sully5||yet another brake question||||5||
+Z||000000||sully5||05-06-2000||07:21 PM||||Here's the deal. Just replaced pads all the way around, calipers and rotors in the rear. Replace all the fluid in the system. Bled the thing 2 or 3 times. Still lacking a bit. Pedal doesn't fade or anything, just feels too soft. What do yall think? Master cylinder? Hoses? Thanks for your help, as always. Sully||||reg||5

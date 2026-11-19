@@ -1,0 +1,11 @@
+A||||9||GT Bastard||Pictures of the my new baby...||||1||
+Z||000000||GT Bastard||02-22-2001||06:43 PM|||| <IMG SRC="http://www.fiero.nl/uploads/Gold1.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/Gold2.jpg"> <P><BR>She's got no sunroof and no wing.  Blown 2.8 will be replaced after I get it to my apartment.  It's an automatic with tan interior.<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/gtbastard.gif">   <P>In my dreams I'm dying all the time...||||reg||1
+Z||000001||2xsess||02-22-2001||07:14 PM||||<BR>Looks like a great project.<P>------------------<BR>Jeff<BR>AOL IM : Only2xsess<BR>          <IMG SRC="http://www.fiero.nl/uploads/2xsess.gif">         <BR> <A HREF="http://kresgeus.homestead.com/FieroPage.html" TARGET=_blank>Visit My Website</A><P><p>[This message has been edited by 2xsess (edited 02-22-2001).]||||reg||1
+Z||000002||87GT||02-22-2001||07:21 PM||||Keep us posted as to how it comes along.. I wish I had tan interior.  Grey is just so boring. ||||reg||1
+Z||000003||Fformula88||02-22-2001||07:53 PM||||Sounds like a big project!  Good luck!!  When done, its going to be a sweet GT!||||reg||1
+Z||000004||TwisT||02-22-2001||08:46 PM||||You just KNOW where to find Fieros,  don't you???<P>Nice catch!||||reg||1
+Z||000005||bHooper||02-22-2001||08:57 PM||||good deal!  so how many does that make, now?  also, is that a black GT behind it?<P>------------------<BR>hoop<BR>Red '86 GT<BR>KYB's, Eibach's,<BR>Poly Bushings||||reg||1
+Z||000006||GT Bastard||02-23-2001||07:49 AM||||This is my third right now...  I'm trying to sell my 4cyl though.  I just haven't got any space for it at my apartment.  That black GT in the background has a widebody kit, but the car is pretty well trashed.  Tranny and motor are removed.||||reg||1
+Z||000007||Tigger||02-23-2001||08:40 AM||||*shivering*<P>Looks good GTB!<P>Now let's go inside for some hot cocoa.||||reg||14
+Z||000008||bHooper||02-23-2001||09:00 AM||||wide body kit?  is the the Gt "IMSA" kit?  when you say trashed, how bad is this "wide body" kit?||||reg||5
+Z||000009||GT Bastard||02-23-2001||06:36 PM||||I don't know if the kit itself is trashed, just the rest of the car.  Fierogod could prolly be more specific as far as that goes.  I never really paid much attention to it.  I don't think the owner is willing to sell it anyways.    ||||reg||1

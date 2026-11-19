@@ -1,0 +1,6 @@
+A||N||4||MontanaFiero||3.4L guys >>> changing the dipstick tube??||||5||
+Z||000000||MontanaFiero||09-21-2001||04:15 PM||||Hey all you guys with the 3.4L conversion... How did you get the 2.8L dipstick tube to stay in the 3.4L block? The diameter of  both my Fiero tubes is smaller than the hole in the block.<P>------------------<BR>     <IMG SRC="http://members.home.net/blee291/fiero/mtfieroplate.jpg"> ||||reg||5
+Z||000001||MontanaFiero||09-22-2001||03:39 AM||||--bump--||||reg||1
+Z||000002||tgowens||09-22-2001||03:44 AM||||it should "snap" in fairly well, if not, put a small amount of RTV around it where it fits into the block, then when you mount it on the bracket with the 8mm bolt it will be nice and tight.||||reg||1
+Z||000003||MontanaFiero||09-22-2001||04:11 AM||||the fiero tube is actually a size smaller than the camaro tube, so it is quite loose. I am worried about the toll that time will have on this minor detail...||||reg||1
+Z||000004||88formula||09-22-2001||11:06 AM||||I put a thicker newer o-ring in mine I think and it fit snug. Just get an assorted o-ring set from the auto parts store.   <P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/88formula_logo_1.JPG"> ||||reg||1

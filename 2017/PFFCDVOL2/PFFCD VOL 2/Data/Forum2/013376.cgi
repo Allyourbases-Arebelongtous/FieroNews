@@ -1,0 +1,4 @@
+A||||2||Sootah||Glass scratches||||1||
+Z||000000||Sootah||09-03-2001||01:18 PM||||Any way to remove them? I've got some on my windshield right in the drivers area and on a sunroof that I salvaged off of another Fiero. The windshield is what I am the most worried about, since it dirties easily with the scratches on it and then at night it is really hard to see sometimes.<P>I've heard that there was some wipe-on stuff the you can use.. But I have no idea. Suggestions?||||reg||1
+Z||000001||rogergarrison||09-03-2001||06:49 PM||||most of the glass shops can remove minor ones. the general rule is run your fingernail across it, if it catches they cant fix it.||||reg||1
+Z||000002||Mickey_Moose||09-03-2001||11:04 PM||||You can pick up some Cerium Oxide from just about any auto body supplier and buff the scratches out yourself. As meantioned above, if your finger nail gets caught, you are not too likely to get them out.<P>Tim||||reg||1

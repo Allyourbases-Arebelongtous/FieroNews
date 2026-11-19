@@ -1,0 +1,4 @@
+A||||2||JohnnyK||Racing Harness?||||1||
+Z||000000||JohnnyK||01-03-2001||05:53 PM||||For future reference, who makes a good, yet cheap, 5 point harness for old muscle cars?||||reg||1
+Z||000001||BBBAD GT||01-03-2001||06:40 PM||||A 5pt harness is only required on the dragstrip if you venture below 12.00.  Also, you will need a 6pt rollbar, scattershield, driveshaft loop, etc etc etc....<BR>The harnesses are dated, and are only good for two years per NHRA.  You could pick up a cheap one that is out of date from just about any racer (mine is outta date).  They usually run $60 or so, depending on how fancy you get.  <P>Don't get rid of your seatbelt, because you wouldn't want to put this thing on everyday, trust me.<P><BR>||||reg||1
+Z||000002||Greg Piet||01-03-2001||08:55 PM||||look in the back of Road and Track, or better yet get a copy of Sportscar magazine...  there are lots of places that have cheap harnesses there.||||reg||1

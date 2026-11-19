@@ -1,0 +1,4 @@
+A||||2||Psychosis39||Tabs31: I see in the back of your fiero your lights are clear, how?||||1||
+Z||000000||Psychosis39||12-31-2001||02:58 PM||||I think that looks cool with the blue bulbs down there with the clear cover. where did you find the kit or are all of those custom?<BR>||||reg||1
+Z||000001||yo_sweet||12-31-2001||03:06 PM||||ive done the same thing , take out your lenses replace the white bulbs with "red" or "blue bulbs and your on your way, btw you might want to paint the center silver it looks better then the black center of the two tail lights  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||Tabs31||12-31-2001||05:02 PM||||I just pulled out the colour and put in red LED bulbs.  The blue bulbs look blue , there really ice white.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/tabs31_1.jpg"> ||||reg||1

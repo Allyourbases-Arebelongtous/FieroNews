@@ -1,0 +1,7 @@
+A||N||5||Haze_Performance||Will they fit my 2M4?||||5||
+Z||000000||Haze_Performance||03-29-2000||06:28 AM||||Will these wheels fit my 85 fiero? 5 x 100mm bolt pattern (I know the bolt pattern will fit). Offset is +42mm (stock is 35mm), backspacing is 5-7/8" wheel size is 17 x 7.5. Please let me know.....Thanks  <IMG SRC="http://www.fiero.nl/forum/confused.gif"> ||||reg||5
+Z||000001||batboy||03-29-2000||11:54 AM||||Probably depends on the tires, but it sounds like there might be interference problems.||||reg||1
+Z||000002||1FST2M6||03-29-2000||02:49 PM||||Yes they will! I had the same offset on my 17s  <A HREF="http://www.freeyellow.com/members/fiero/travis.html" TARGET=_blank>http://www.freeyellow.com/members/fiero/travis.html</A>   actually mine were 7.5 in the from and 8" in the rear.. and you can cram up to a 255 in the fender well. but a 245-40 looks the best and doesn't flake when you push it hard into a corner... oh had 215s on the front. ||||reg||1
+Z||000003||batboy||03-29-2000||05:37 PM||||Oh guano, I hate being proved wrong...lol.||||reg||1
+Z||000004||Haze_Performance||03-29-2000||05:52 PM||||Thanks Guys   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <BR>||||reg||6
+Z||000005||88 Fiero||03-29-2000||07:41 PM||||I would question cramming a 255 tires in a Fiero... The only way you can shove 255's is that if your running coils over in the rear and a series of 35 profile. I doubted very much if you can fit that size and not hit the knuckle of the struts... been there...done that...:-)||||reg||1

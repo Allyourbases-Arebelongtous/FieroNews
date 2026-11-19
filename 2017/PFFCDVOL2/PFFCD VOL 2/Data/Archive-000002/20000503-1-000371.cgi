@@ -1,0 +1,12 @@
+A||N||10||fastonpumpgas||Fiero's and Women??||||1
+Z||000000||fastonpumpgas||10-01-1999||10:05 PM||||I never see and ladies driving fiero's, are there any out there .. better yet in the ohio area .. hehe   <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000001||kel||10-02-1999||12:01 AM||||Keep lookin' because we're out there!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||fiero56||10-02-1999||12:18 AM||||I never see any Fiero's out on the road.  I have driven between columbus and Dayton every week-end both ways for three months, and have only seen two Fieros.  But I did see a nice maroon Formula last Saturday on Lyons road in Centerville (sorry faston, it was a guy).  You do have a point there though, when I DO see a Fiero, there's never a woman driving it, always guys, kinda the same with 'vettes.||||reg||6
+Z||000003||Greg Piet||10-02-1999||04:29 AM||||When they were in production the only people i knew who owned them were women.  Now that they have aged like a fine wine, I predominantly see men.  Most of the females out there i see driving them have their boyfriend/husband in the passenger seat looking like they just got done rebuilding an engine.||||reg||1
+Z||000004||Cliff Pennock||10-02-1999||04:31 AM||||My girlfriend loves driving my Fiero and she loves all the attention she gets when she does even more!  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000005||Dan||10-03-1999||06:58 AM|||| Hey Cliff, is your wife ok with that?||||reg||10
+Z||000006||Cliff Pennock||10-03-1999||08:45 AM||||Ooooops! Caught!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000007||2M4 Dale||10-07-1999||01:15 PM||||Last Time I seen a woman driving a Fiero she (my wife) backed it into the side of my garage. Nuf said!||||reg||1
+Z||000008||fastonpumpgas||10-07-1999||09:29 PM||||yeah she woul dhave to be a pretty specail chic !!!!||||reg||1
+Z||000009||DJRice||10-08-1999||08:36 AM||||My girlfriend likes the car, but cant stand the fact that it does not have power steering.  She decided on her own that she really wasnt all that interested in driving it after the first time.  <P>Whew.....Umm, I mean, thats a shame.<P> <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||12
+Z||000010||fieroshop||10-08-1999||10:18 AM||||My wife liked my 88 GT so much she decided she wanted one so I got her an 86 GT Auto, Since she can not drive a stick. Lucky me I don't have to worry about her wreckng mine.||||reg||10

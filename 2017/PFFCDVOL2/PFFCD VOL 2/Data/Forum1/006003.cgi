@@ -1,0 +1,10 @@
+A||||8||gabriel||Whats this Zaino stuff?||||1||
+Z||000000||gabriel||03-02-2001||11:11 AM||||Yeah, what IS this Zaino stuff, anyway?<BR>It looks like another polish to me, but I've never used the stuff.<P> Anybody use this product?||||reg||1
+Z||000001||FieroMike||03-02-2001||02:07 PM||||It's good stuff... Makes your car look REALLY nice.  It's kind of a show polish/wax and it leaves and incredible shine.  I use it.  <IMG SRC="http://www.fiero.nl/forum/wink.gif">  Their website is <A HREF="http://www.zainobros.com" TARGET=_blank>www.zainobros.com</A> <P>Mike||||reg||4
+Z||000002||Alex4mula||03-02-2001||02:19 PM||||Guys in Corvette forums kill for that product. Guess gotta be good. Never used it thou.||||reg||1
+Z||000003||Hartz||03-02-2001||03:07 PM||||I'll second that.  Zaino is awesome.  When used correctly, you won't find better results.  It isn't cheap, but it's good.  Also, the f-body boards swear by the stuff.<P>Hartz<BR>'85 SE V6 Turbo ||||reg||14
+Z||000004||85seNUT||03-02-2001||05:40 PM||||oh man my dad doesnt trust his 2000 camaro super sport(white) to anthing else but zaino.  I would us it on my car but 1. it really doesnt have much paint left and 2. its too dang expensive to waste on a no paint car.  hehe||||reg||1
+Z||000005||RossT||03-02-2001||09:30 PM||||I use it on my fiero and my daily driver, well worth it!!!!!!!!!!!!!!||||reg||1
+Z||000006||85ZainoGT||08-09-2001||11:55 PM||||w0000000h000000!!! SOMEONE ELSE KNOWS ABOUT ZAINO!!!! THE BEST EVER!!!! BUY IT, WELL WELL WORTH IT!!!!||||reg||1
+Z||000007||LT1 Chop Top||08-09-2001||11:59 PM||||Where can you find it easily??||||reg||5
+Z||000008||85ZainoGT||08-10-2001||12:01 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by LT1 Chop Top:<BR><B>Where can you find it easily??</B><HR></BLOCKQUOTE><P>goto <A HREF="http://www.zainobros.com," TARGET=_blank>www.zainobros.com,</A>  if you dont want to order it, call Sal(the number is on the webpage) and ask him for the dealer in your area, he will give you one, call the dealer set it up.. its awesome stuff.. ||||reg||12

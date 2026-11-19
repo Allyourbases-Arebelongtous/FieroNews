@@ -1,0 +1,4 @@
+A||||2||88formula||Who was the guy in the maroon fiero that lost to the MR2 in a race?||||1||
+Z||000000||88formula||05-23-2001||09:28 PM||||He lives or drives in Boston MA. <P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/88formula_logo_1.JPG"> ||||reg||1
+Z||000001||sjp777||05-23-2001||09:44 PM||||I don't think anybody would want to fess up to that<P>------------------<BR>     <IMG SRC="http://www.fiero.nl/uploads/890sm_2.jpg">    <BR><A HREF="http://www.geocities.com/fiero88gt1/" TARGET=_blank>http://www.geocities.com/fiero88gt1/</A><p>[This message has been edited by sjp777 (edited 05-23-2001).]||||reg||10
+Z||000002||Jefrysuko||05-23-2001||09:46 PM||||Did you witness this event?<P>Ohhh the horror  <IMG SRC="http://www.fiero.nl/forum/redface.gif"><P>------------------<BR>Jeffrey D Suckow<BR>88 GT<BR>  <A HREF="mailto:Jefrysuko@aol.com">Jefrysuko@aol.com</A> ||||reg||1

@@ -1,0 +1,5 @@
+A||||3||wilburt||Decklid shuffle...||||5||
+Z||000000||wilburt||08-21-2000||10:53 PM||||Just bought an '84 with a crunched engine cover. Will a decklid from '86,'87 bolt in?<BR>(The '84 has the center grill with solid side covers.)<BR>Thanks!<P>------------------<BR>||||reg||5
+Z||000001||Indiana_resto_guy||08-21-2000||11:07 PM||||It will bolt up and you need to get the vents for it too.||||reg||1
+Z||000002||Xtreme Fiero's||08-21-2000||11:22 PM||||I have a 85' GT decklid on my 84' SE I also have the 85' vents. You will need to trim the plastic ring from the outer front vent suport stud on each side to get the vents in there, You will also need to remove the rubber strip from the front of the decklid. I have tried running the car with the 84 covers on and it will run hot and may over heat.||||reg||1
+Z||000003||wilburt||08-22-2000||01:00 PM||||Thank-you fellas. It's alot easier pullin' parts I know will fit. Now, if I can only keep my fingers when I replace the broken decklid springs!||||reg||1

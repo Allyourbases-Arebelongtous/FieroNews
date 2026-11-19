@@ -1,0 +1,4 @@
+A||||2||loafer87gt||Looking for 87-88 fastback decklid||||1||
+Z||000000||loafer87gt||05-27-2000||02:49 PM||||Does anyone have a decklid from an 86.5-88 fastback GT? I called Fiero parts and Appraisals and they are wanting $350 for the part, which is a too pricey for me. I checked around all the wrecking yards up here in Canada and they have none available. Drop me a line at loafer@sk.sympatico.ca if have one of know of one for sale. Thanks <BR>||||reg||1
+Z||000001||tgowens||05-27-2000||08:31 PM||||try the Fiero Shop  <A HREF="http://www.fieroshop.net/" TARGET=_blank>www.fieroshop.net/</A>  I think George has a few (I was up there last week and saw a couple)||||reg||1
+Z||000002||JAMIE||05-29-2000||12:11 PM||||80's boy is parting out 87 GT. Did you try him? I just bought a bunch of parts from him.<BR>||||reg||1

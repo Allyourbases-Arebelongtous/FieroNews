@@ -1,0 +1,7 @@
+A||||5||Spiff||Bump||||1||
+Z||000000||Spiff||09-13-2001||01:45 AM||||I am kind of new to Pennocks and was curious about alot of posts that just say "BUMP".<BR>What does that mean?||||reg||1
+Z||000001||Ferrari_cdn||09-13-2001||01:48 AM||||When there is a new message in a thread, the link to that thread goes to the top of the list of subjects.  When there are new replies at other threads this one will be pushed down.  When someone wants THIS thread to be at the top, he/she writes "bump".   <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||Urchin||09-13-2001||01:48 AM||||"bumps" the thread back to the top of the list.<BR>Welcome by the way <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/final.jpg"> <BR>If you can read this, I'm parked.||||reg||1
+Z||000003||My7Fieros||09-13-2001||01:58 AM||||*bump*||||reg||1
+Z||000004||MsBeth||09-13-2001||08:10 AM||||Welcome aboard.<P>MSBeth||||reg||1
+Z||000005||FieroMaster88||09-13-2001||08:39 PM||||BUMP!!!<P>------------------<BR>             <IMG SRC="http://www.fiero.nl/uploads/FieroMaster88.gif">   <IMG SRC="http://www.fiero.nl/forum/halfpole.gif">            <BR>James Essar<BR>AOL IM Name: FieroMaster88<BR>88 Coupe With a new V6<BR>5 speed Isuzu trans<BR>AcCel 8mm wires<BR>rapid fire plugs<BR>custom intake with K&N filter.<BR>Soon to be 2" closer to the ground and have a turbo||||reg||6

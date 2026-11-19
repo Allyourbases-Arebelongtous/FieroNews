@@ -1,0 +1,4 @@
+A||N||2||3fifty||1/2 Of A Lowering Kit||||5||
+Z||000000||3fifty||07-19-2001||02:45 AM||||I started my 1.5 drop springs today. I got the rears on, but ran out of time. I plan to do the fronts tomorrow. On the way home the rear end was real squirly. Is this because the rear is now out of alignment, or because the front end is higher at the moment? I am<BR>sure all bolts are tight. I didn't use spring compressors. I took the shock towers loose, took the tires off,took the 2 bolts connected to the a-arms off and pulled the whole unit out. Thanks,3fifty one day!!!!!!||||reg||5
+Z||000001||starfighter007@msn.com||07-19-2001||04:55 PM||||yes your rear end is now out of alignment.I assume every time you hit a small bump the rear end looses traction||||reg||1
+Z||000002||Mark||07-20-2001||04:25 PM||||Small changes in rear camber make big changes in rear toe.  I wouldn't drive it much 'til you get it aligned.||||reg||1

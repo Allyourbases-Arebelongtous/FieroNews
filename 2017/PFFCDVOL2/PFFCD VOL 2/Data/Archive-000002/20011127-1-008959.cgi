@@ -1,0 +1,4 @@
+A||N||2||Driven Visions||Dumb Question||||1||
+Z||000000||Driven Visions||07-21-2001||07:30 PM||||WHere do I go ir how do I sent up the little quotes with pictures that follow on the botton of the posts <BR>I want to add one to my messages but I dont know how||||reg||1
+Z||000001||DecadenceR||07-21-2001||07:35 PM||||Step one - Click Profile above the posts<BR>Step two - enter your username and password, then click submit identification<BR>Step three - where it says signature enter whatever you wish, then click submit changes at the bottom.<P>Then, when you post, before you click sbmit, click the box next to Show Signature in the option box below.<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/SigPic.jpg">  <BR>AIM - DecadenceR<BR>"For though I cannot fly, I'm not content to crawl..."||||reg||1
+Z||000002||rogergarrison||07-21-2001||07:42 PM||||go to your profile. the info goes into the box marked 'signature'||||reg||1

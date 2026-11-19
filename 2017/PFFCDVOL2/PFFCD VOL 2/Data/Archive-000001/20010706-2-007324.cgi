@@ -1,0 +1,3 @@
+A||N||1||jazer||Tranny Clairification||||5||
+Z||000000||jazer||12-14-2000||02:17 AM||||Hey Everyone, <P>  I know there has been alot of these questions lately and I'm sorry but I'm still not clear.  Is there any year or make of car that I can get a 5-speed Getrag out of that won't need any modifications, something that will bolt on and go?  If possible, could I get the model and years?  I've looked on Rodney's site but I'm still not clear.  Thanks, Jay<BR>||||reg||5
+Z||000001||Rodney||12-14-2000||09:14 AM||||You need one out of a V-6 Fiero. All the rest of the Getrag FWD units need some changes and/or parts to make them fit in the Fiero.<P><BR> Any FWD V-6 5 speed (which are all Getrags) will fit in a Fiero with some mods and some conversion parts.||||reg||1

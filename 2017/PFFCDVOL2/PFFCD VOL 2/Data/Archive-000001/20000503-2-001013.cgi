@@ -1,0 +1,2 @@
+A||||0||SCCA FIERO||Changing FD in transaxle||||6||
+Z||000000||SCCA FIERO||10-03-1999||11:08 PM||||I have an Isuzu 5spd in my 88 Coupe with an 86 2.8 V6. I like the shifting of the Isuzu but I think it needs to be a lower FD. How hard would it be to take the 4:10 from a 4spd tranny and install this in an Isuzu, Getrag, or an 86 4spd? (I have a Getrag and 4spd, but I need the cable brackets for the Getrag. Any out there?) Is it possible to change  FD's in these transaxles?||||reg||6

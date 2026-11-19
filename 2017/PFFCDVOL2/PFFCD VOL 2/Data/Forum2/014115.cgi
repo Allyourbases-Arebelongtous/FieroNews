@@ -1,0 +1,2 @@
+A||N||0||Seanh||Prep work for painting finally!||||1||
+Z||000000||Seanh||10-03-2001||12:39 AM||||Well, I finally have the money put away for painting my car, but haven't decided on the color yet...<P>I'm going to do all the prep work myself, and have a friend's brother do the painting. So what all do I need to do, and what do I need to do it? Does the car need to be sanded all the way down to the plastic or just ruffed up?<P>------------------<BR>Sean Heberly<BR>Silver 86 GT 4spd Auto, getting ready to install T-6 turbo.||||reg||1

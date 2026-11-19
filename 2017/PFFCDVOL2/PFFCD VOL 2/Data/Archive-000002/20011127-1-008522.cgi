@@ -1,0 +1,2 @@
+A||||0||JohnnyK||Throwing my For Sale in here too..||||1||
+Z||000000||JohnnyK||07-01-2001||12:49 PM||||pics at <A HREF="http://members.home.net/gkrikorian" TARGET=_blank>http://members.home.net/gkrikorian</A>  Asking $1000 CANADIAN... I need it out of here quickly, but honestly can not let it go for less than that. I bought it for $1100 and put over $1500 into it (I have receipts).. I will drive it within reasonable distance for you to have a look at it (if you are serious) 85 SE 5spd, silver<BR>||||reg||1

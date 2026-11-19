@@ -1,0 +1,6 @@
+A||||4||maryjane||part # for rubber grommets||||1||
+Z||000000||maryjane||07-07-2001||10:05 PM||||Anyone know the part#'s for the rubber grommets that go in the valve cover for the pcv valve & the one that goes into the valvecover and air cleaner housing? Or where to get them? I've tried taking them to autozone and matching them in the help section and off the wall racks-no luck.<BR>Fiero store carry these? 84 se 2.5||||reg||1
+Z||000001||deceler8||07-08-2001||09:51 AM||||I found mine at Advance Auto in the "Help" section.<P>My guess is most stores who carry the Motormite "Help" stuff don't always carry the same items, so just keep checking.<P>There's always NAPA...they can get anything. If they don't have it in stock, they'll get it for you.||||reg||1
+Z||000002||fierosound||07-08-2001||06:13 PM||||Is this another "discontinued" GM item for the Fiero?  Have you checked with a GM dealer?||||reg||1
+Z||000003||ka4nkf||07-08-2001||10:41 PM||||If you have a advance auto, then try them I know they have the pcv grommet, but I think they will special order the valve cover grommet. If you don't have advance then try napa.<BR>don||||reg||1
+Z||000004||maryjane||07-08-2001||11:36 PM||||Thanks. The GM dealer here is closed on weekends and I wanted to get this done while Jane had the car at home for a change. NAPA's ordering em for me. Be here monday afternoon.||||reg||1

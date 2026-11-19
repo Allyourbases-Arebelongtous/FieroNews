@@ -1,0 +1,5 @@
+A||||3||sloth85GT||My motor is FUBAR!!!||||9||
+Z||000000||sloth85GT||11-26-2001||08:09 PM||||So it's official, probably a spun rod bearing, but definately would need a rebuild. Boy am I pissed! On the other token, I could put a Vette LT1 in with Archies kit for just under $6000 Cdn. So I might have to visit the bank about that one. This all just REALLY sucks!<P>------------------<BR>     <IMG SRC="http://www.mts.net/~kuzma/fieronl.gif">     <BR>Dan<BR>1985 Silver GT||||reg||9
+Z||000001||REDHOTT88||11-26-2001||08:34 PM||||<BR>OUCH.... sorry dude!<P><P>------------------<BR>Steve<BR>1988 Formula 2.8L <BR><FONT COLOR="ffoooo"> (red & shiny all over!)</FONT>||||reg||9
+Z||000002||REDHOTT88||11-26-2001||08:36 PM||||<BR>Hey at least its not SUMMER!!!!  <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif">||||reg||1
+Z||000003||sloth85GT||11-26-2001||11:49 PM||||I'm SOOOOOOOOO pissed right now! Anyone wanna donate to the "Dan needs an LT1 Foundation"?<P>------------------<BR>     <IMG SRC="http://www.mts.net/~kuzma/fieronl.gif">     <BR>Dan<BR>1985 Silver GT||||reg||1

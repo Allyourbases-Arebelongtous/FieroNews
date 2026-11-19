@@ -1,0 +1,8 @@
+A||N||6||Dave85||Cradle bush help||||1
+Z||000000||Dave85||11-07-1999||08:57 PM||||OK, on the front bushings;<BR>Does the metal sleeve that goes on the outside of the rubber need to come out too. When the new bushing go back, do they use the sleeve or do they just go naked?<BR>Thanks mucho,<BR>Dave ||||reg||1
+Z||000001||RICK||11-08-1999||09:09 AM||||It stays in there.  Make sure you lube the new bushings real well to make life a lot better for you when your putting the new ones in.||||reg||1
+Z||000002||theogre||11-08-1999||12:43 PM||||the new urethane bushings use the old outer shell. if you put them in w/o the shell they will be destroyed in short order.||||reg||1
+Z||000003||Dave85||11-08-1999||05:29 PM||||HELP!!!!<BR>I can't get the old ones out!!!<BR>Does the graduated end go to the outside? Any ideas how to get them out? <BR>Thanks<BR>Dave||||reg||1
+Z||000004||Dan||11-09-1999||09:29 AM||||Some burn them,some drill them.There is a proceedure on replacement at <A HREF="http://www.suspension.com/tips.htm" TARGET=_blank>http://www.suspension.com/tips.htm</A>  .Useful info there.||||reg||1
+Z||000005||fastonpumpgas||11-09-1999||01:37 PM||||Maybe I did it wrong, but I tok the sleeve and everything out. mine were just to bad I think.  So now there is just 2 big holes.<P>I ended up using a carbide saw zaw blade to cut them out !!!!||||reg||1
+Z||000006||Dave85||11-09-1999||09:39 PM||||I guess I'll try drilling them out. I went through all the trouble of fighting to get the bolts out and drop it down enough to get to them only to put it back without changing<BR>the bushings. I needed the car. I guess I'll try again another day.<P>Thanks for the input! <BR>Dave||||reg||1

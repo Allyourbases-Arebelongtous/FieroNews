@@ -1,0 +1,6 @@
+A||||4||sdm1964||Windows go down all way down?||||4||
+Z||000000||sdm1964||01-05-2000||11:34 PM||||I have an 85 GT with power windows, are they suppose to go all the way down? All the way down about 1/2 an inch sticks up. Both sides do it so i guess the y are but want to make sure or do i need to adjust?<P>TIA,<BR>Stephen||||reg||4
+Z||000001||fiero56||01-05-2000||11:54 PM||||This is a stock Fiero "problem". We discissed a fix several weeks ago, I'd have to look for the thread though.||||reg||1
+Z||000002||Phaeton||01-06-2000||12:18 AM||||My 88GT windows have same half inch up, figured it was normal.  If there is a fix in that thread I am willing to spend the time to find it, anybody have a rough date for the thread?||||reg||1
+Z||000003||fiero56||01-06-2000||12:30 AM||||I found it, here's the link: <A HREF="http://www.fiero.nl/forum/Forum2/HTML/001335.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/001335.html</A> ||||reg||1
+Z||000004||william_thorniii||01-06-2000||01:56 PM||||I guess the real question is.. could one remove that stop completely and replace it with another slightly lower.  I don't feel comfortable with the idea that my windows hit a positive stop when they are down.  Any ideas?<P>William T. Thorn, III||||reg||1

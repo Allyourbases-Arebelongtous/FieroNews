@@ -1,0 +1,5 @@
+A||||3||rogergarrison||Todays Taliban Bombing ||||10||
+Z||000000||rogergarrison||11-07-2001||04:53 PM||||anyone see the gun camera of the guy getting out of one vehicle and getting into another just as a missile hit them, LOL. Bet he didnt see that one coming. Got a quick trip ticket to allah.||||reg||10
+Z||000001||Raydar||11-07-2001||08:14 PM||||"...and the quarterback <I>is toast</I>."<P>------------------<BR>Raydar<BR><FONT SIZE="1"><BR>From the Department of Redundancy Department.</FONT>||||reg||1
+Z||000002||GT Bastard||11-08-2001||04:32 AM||||I try not to take pleasure in the demise of others, but I saw that on TV this morning and just about shot milk through my nose laughing.  Poor dumb bastard...  I'll bet he didn't even have time to say, "OH F*UCK ME! I wish we hadn't blown up the World Trade Center."<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/icare.jpg"> ||||reg||1
+Z||000003||thomas_l||11-08-2001||10:01 AM||||That's what you get for valet parking  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

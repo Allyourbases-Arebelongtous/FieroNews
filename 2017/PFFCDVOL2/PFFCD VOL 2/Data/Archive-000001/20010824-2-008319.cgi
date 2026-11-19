@@ -1,0 +1,3 @@
+A||||1||Johnson's85SE||For Sale ||||1||
+Z||000000||Johnson's85SE||02-06-2001||05:41 PM||||Just wondering if anyone would be interested in a 1985 V6 4 Spd. Black, PW, PL, New Clutch, New used engine roughly 120,000KMs. 205,000KMS total on the car. Tinted windows. Needs minor TLC, I love it, but its time to get something with a back seat. Make me an offer? <BR>Chris <BR>Calgary AB<P>------------------<BR>If it isn't broke, it's not my car.||||reg||1
+Z||000001||PAUL88GT||02-06-2001||05:50 PM||||I am not interested in the car. Its a little too far for me.  You may get more interest if you repeat this post in The Mall section.||||reg||1

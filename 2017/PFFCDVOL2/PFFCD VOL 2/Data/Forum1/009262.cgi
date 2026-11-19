@@ -1,0 +1,3 @@
+A||N||1||AusFiero||STAGE 2 Body Kit - Lower Skirts PRICES and ORDER DETAILS||||1||
+Z||000000||AusFiero||08-05-2001||07:45 AM||||<A HREF="http://www.fiero.nl/forum/Forum4/HTML/004326.html" TARGET=_blank>Click Here</A> to go to the mall for the latest update and a link to all details.<P>------------------<BR>  <IMG SRC="http://www.jadeweb.com.au/fiero/ausfiero1.gif"> <BR><A HREF="http://www.jadeweb.com.au/fiero" TARGET=_blank>My Fiero</A> | <A HREF="http://www.auto-alley.com" TARGET=_blank>Fiero Accessories</A>||202.139.20.3||reg||1
+Z||000001||87FieroGTx||08-05-2001||12:08 PM|||| That's the coolest body kit I've seen yet.<P> I think I might just have to git me one!||||reg||1

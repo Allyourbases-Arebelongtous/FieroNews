@@ -1,0 +1,3 @@
+A||||1||gtsonly||gtsonly and kickhill||||9||
+Z||000000||gtsonly||08-25-2000||07:25 AM||||heys fellas, i am going to have to back out on the rally ride to kickhill this weekend. my wife has become very ill and in the hospital and my time needs to be spent with her. i hope you all have a great time!!!<BR>   chris hatch<BR>   1986.5 gt with t-tops||||reg||9
+Z||000001||Gokart||08-25-2000||06:16 PM||||I'll be thinking of and missing you both Chris. Glad we got to see you to today. The only thing that'll make my weekend is hearing Pandora is coming home soon. Will call you Sunday. You are both in our prayers. This from Gokart'sgirl too!||||reg||9

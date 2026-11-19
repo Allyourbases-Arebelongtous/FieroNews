@@ -1,0 +1,3 @@
+A||N||1||Dan87GT||V6 Only sputters when at wide open throttle||||1||
+Z||000000||Dan87GT||09-29-2001||02:26 PM||||I just installed a rebuit V6 into my 86SE and cannot get it to start. I have 40+ psi at the fuel rail, it is getting a good spark. I double checked the firing order and TDC. When I go to start it I only get firing when the throttle is mashed to the floor and nothing if it is released. What could this be?? I am thinking it may be the ignition module not signaling the ECM to fire the injectors, any thoughts???||||reg||1
+Z||000001||samoht||09-29-2001||06:35 PM||||it sounds funny, but try to keep spinning your distibutor, a 2.8 needs to be indexed, and dont forget to cross the A/B teminals in your OBD terminal||||reg||1

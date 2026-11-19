@@ -1,0 +1,5 @@
+A||N||3||BlackDragon||how do you put a 350 in a toyota? is there a kit?||||1||
+Z||000000||BlackDragon||10-10-2001||08:00 PM||||that about says it. im looking for a kit to put a 350 sbc in an 88 toyota truck. it is a 4x4, and i need to keep that. so it has to be a decent kit. anyone out there know where i can get one? prices? <P>btw, archie: could you help me??<P>------------------<BR>We are all different for a reason.....<BR>you can read a persons soul through there eyes.....<BR>he who argues with a fool is probably one himself.....<BR>big cars may be fast, but i can corner.....<P>BlackDragonsEmail@yahoo.com||||reg||1
+Z||000001||FieroSTETZ||10-11-2001||01:43 PM||||not sure, but i wonder if the same method would apply to putting one in a 70's toyota celica?||||reg||1
+Z||000002||JohnnyK||10-11-2001||01:55 PM||||Your just going to have to rig up some mounts.||||reg||1
+Z||000003||GOLDSE||10-11-2001||01:59 PM||||Check out the back of any 4 Wheel Drive or Off Road magazine.  There are plenty of companies offering just the thing you are looking for.  The one that comes to mind is Adaptec(?).  ||||reg||1

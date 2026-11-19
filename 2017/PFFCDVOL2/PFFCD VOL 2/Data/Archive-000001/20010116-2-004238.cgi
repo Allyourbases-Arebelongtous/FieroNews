@@ -1,0 +1,4 @@
+A||||2||SibERThuG||suspension||||5||
+Z||000000||SibERThuG||06-11-2000||11:57 PM||||If I use air shocks to jack up the back end, will it effect my handling? How high can it be raised without affecting it? Also, which fuse controls my gauge lights?? Either post reply or e-mail me at siberthug7@hotmail.com ||||reg||5
+Z||000001||batboy||06-12-2000||12:32 AM||||WHAT??? Air shocks??? I thought those went out with the 70's. First off, why in the world would you want to jack up the rear? Handling would suffer big time. Second, the rear "shocks" on a Fiero are actually struts and I'm fairly sure there's no such thing as air struts. Jeez! Most of us want to lower the suspension...after all, the Fiero is a sports car. Go with coil-overs in the rear if you want to be able to adjust the height.||||reg||1
+Z||000002||GT Bastard||06-12-2000||12:34 AM||||I'll guess on the air shocks.... YES!!!!!!||||reg||1

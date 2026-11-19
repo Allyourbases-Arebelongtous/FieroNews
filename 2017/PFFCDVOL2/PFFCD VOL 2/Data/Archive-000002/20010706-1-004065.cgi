@@ -1,0 +1,2 @@
+A||||0||contra||witnessed something awsome!||||10||
+Z||000000||contra||10-21-2000||01:37 PM||||I was just out at lunch<BR>then on my way back i saw a GT fastback all tinted, black, and lowered, racing a new transam V8 black and all tinted down dundas st west here in toronto.<P>I think the fiero had a V8 cause it sounded NICE! and it was kicking ass compared to the transam.<P>just thought you'd all like to know  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>||||reg||10

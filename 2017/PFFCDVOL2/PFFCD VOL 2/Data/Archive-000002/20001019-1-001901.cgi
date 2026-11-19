@@ -1,0 +1,6 @@
+A||||4||Fformula88||Fiero on UPS calender||||1||
+Z||000000||Fformula88||04-21-2000||02:37 AM||||Has anyone takn a close look at this years UPS calendar March picture?  Its of Savanah Harbor in Puerto Rico... looking down a street to the harbor.  Its hard to tell, but it looks like the second car down, parked on the street may be a white Fiero.  Most of the back of the car is behind the other car, but it looks like it may be a Fiero by what can be seen.||||reg||1
+Z||000001||Gokart||04-21-2000||06:21 AM||||I never gave myself a calender when I handed them out to customers back in Dec. I'm going to find one today and take a look!||||reg||1
+Z||000002||TheFiero64||04-21-2000||05:49 PM||||I will have to check it out when I go to work. I had a copy here but I must have lost it <IMG SRC="http://www.fiero.nl/forum/frown.gif">||||reg||6
+Z||000003||Robert||04-21-2000||07:02 PM||||Nice spot Fformula88,  I grabbed the calendar off the wall at work and scanned it.  Looks like a Fiero  to me.<P><BR> <IMG SRC="http://www.fiero.nl/uploads/Ups.jpg"> <P>||||reg||1
+Z||000004||DXR_DAD||04-21-2000||08:00 PM||||Yes it's a Fiero,  It's mine I was on vacation??  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  (lol) ||||reg||1

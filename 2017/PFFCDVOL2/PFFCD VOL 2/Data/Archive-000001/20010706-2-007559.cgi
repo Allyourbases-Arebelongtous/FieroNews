@@ -1,0 +1,6 @@
+A||||4||Songman||Chevrolet 4.3 V6.. will it fit?||||5||
+Z||000000||Songman||12-29-2000||09:11 PM||||A buddy of mine offered me this engine today and I was wondering if it will fit into a Fiero. I would probably guess that it will not since it came out of a full size van and mounts longitudinally in the front of a rear wheel drive vehicle.<P>Anyone know anything about this engine?||||reg||5
+Z||000001||dman||12-29-2000||09:23 PM||||Search on the forum for 4.3. Squid was doing this conversion. He made some progress but I think school is preventing him from doing further work.||||reg||1
+Z||000002||Philphine||12-29-2000||11:02 PM||||i think it's supposed to be like a 5.7l v8 with two cyls. lopped off. a v8 conversion kit is needed.||||reg||1
+Z||000003||Monkeyman||12-30-2000||10:40 PM||||What Philphine said.  It's a 90* motor (as opposed to ours which is 60*) and it will not just drop in.  Nice motor, though.  If I ever get around to downloading some of my pics and decide to load PIP on my laptop, I'll post a pic of a nice 4.3.  ||||reg||1
+Z||000004||RedOktober||01-02-2001||09:49 PM||||YES!!!!!<P>Now all you need is Archie's V-8 kit (the Best On the Market)IMO or similar...<P>Lots can be done to that motor, but it aint as cheap as a good old 350V8, buut it is lighter and shorter.<P>keep us posted. <BR>||||reg||1

@@ -1,0 +1,22 @@
+A||||20||Neverfinished||R.I.P||||1||
+Z||000000||Neverfinished||09-05-2001||01:47 AM||||I've been pretty upset today...<BR>My friend got killed yesterday while he was riding his bmx bike home from a party...<BR>I've had too many friends die and just want to say that he didn't deserve to die and I miss him alot.<BR>Its really hard to lose a friend and i just keep all my feelings inside...<BR>FUK!<BR>to everyone on the forum...<BR>Treat your friends always with respect and care because sometimes they might take a holiday and never come back...<P><BR>RIP ----------   Troy Metz ----- 1982-2001---||||reg||1
+Z||000001||JohnnyK||09-05-2001||02:16 AM||||Yup yup.. Happens to the best of us. know what your going through.||||reg||1
+Z||000002||Raydar||09-05-2001||07:06 AM||||Sorry to hear that. It's always difficult. My condolences.<P>Raydar||||reg||1
+Z||000003||hugh||09-05-2001||07:25 AM||||Sorry for your loss.||||reg||9
+Z||000004||Brian87egotrip||09-05-2001||07:45 AM||||truly sorry to hear of your loss.<P>------------------<BR>Brian                    87GT||||reg||9
+Z||000005||Cliff Pennock||09-05-2001||07:59 AM||||...||||reg||9
+Z||000006||84Bill||09-05-2001||08:28 AM||||I know your pain, I lost 3 friends in one night almost 15 years ago august. It still gets to me.||||reg||9
+Z||000007||DRH||09-05-2001||09:46 AM||||...||||reg||9
+Z||000008||Butter||09-05-2001||11:25 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Neverfinished:<BR><B>Treat your friends always with respect and care because sometimes they might take a holiday and never come back...<P><BR>RIP ----------   Troy Metz ----- 1982-2001---</B><HR></BLOCKQUOTE><P>Yep, There's people dying every day that ain't never died before.  My condolences to you.<BR>||||reg||9
+Z||000009||Urchin||09-05-2001||11:27 AM||||...<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/side_cut_sig_4.jpg">  <BR>If you can read this, I'm parked.||||reg||1
+Z||000010||Fierochic88||09-05-2001||08:04 PM||||I'm sorry to hear about your loss.  My little sis (who is your age) has lost about 7 friend s in the last year or so and I've seen how it broke her up first hand.  Make sure you talk to people about what is on your mind.  Believe me it will help.<P>Jennifer<P>------------------<BR>IM Username:  FieroChic88<BR>Silver 1988 GT<BR>Silver 1986 2m4<BR>Cobalt Blue 85 GT<P>   <IMG SRC="http://www.webjolt.f2s.com/pictures/jenscar-sig1.jpg"> ||||reg||1
+Z||000011||KRMFiero||09-05-2001||08:26 PM||||man that sucks, i have had so many friends that have died, seriously reason was they dont wear seat belts..... I actually got hit by a car today on my Bike, i didnt get hert except for a little road rash, some @$$ Hole ran a stop sign and hit my back rim/back fort bent all up..... people need to watch the road more||||reg||1
+Z||000012||Formula88||09-05-2001||08:33 PM||||My thoughts and prayers are with you and your family (and your friend's).||||reg||9
+Z||000013||tomanyfieros||09-05-2001||08:39 PM||||i have had 2 very close friends dye, one, doing 60 on the back roads, over the middle of the line, lost control, rolled it over 3 times, and tossed him out of the car, and the car landed on top of him, my other friend was hunting, his friend shot at a bird, and he thought he was done shooting, stepped rihgt in the line of fire at the 2nd shot, killed him, went right to his head.... all in one year, i dont want to see anymore go like that, not at all, Jason<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/dreamer.gif">    <BR><B>We all have dreams, but not everyone gets them...</B>||||reg||9
+Z||000014||California Kid||09-05-2001||09:13 PM||||...||||reg||9
+Z||000015||MsBeth||09-05-2001||11:04 PM||||Gosh I am so very sorry for your loss.<P><BR>MsBeth||||reg||9
+Z||000016||Mach10||09-05-2001||11:05 PM||||Sorry...||||reg||9
+Z||000017||Mach10||09-05-2001||11:06 PM||||Sorry...<BR>Give my condolences to his family.||||reg||9
+Z||000018||Jaygee79||09-05-2001||11:41 PM||||That's awful.  My condolences to you and to his family.  I'm sorry for your loss.||||reg||1
+Z||000019||starfighter007@msn.com||09-06-2001||12:54 AM||||...||||reg||9
+Z||000020||Neverfinished||09-06-2001||12:55 AM||||Thanks everyone for your support...<BR>Even though I don't really know anyone here in person your words mean alot.<BR>Everyone on the forum... Try to stay in one piece and keep the shiny side up.||||reg||1

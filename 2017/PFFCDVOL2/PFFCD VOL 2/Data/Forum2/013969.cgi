@@ -1,0 +1,6 @@
+A||||4||Adrift||Chromed shifter nob||||1||
+Z||000000||Adrift||09-27-2001||09:37 AM||||I know its possible to buy aftermarket chrobe shifter knobs but what about the actually shifter? If not, could I go about getting my shifter chromed? How much would it cost?<BR>Thanks,<BR>ari<BR>||||reg||1
+Z||000001||FieroBUZZ||09-27-2001||11:07 AM||||For the amount of the lever that can be seen between the knob and boot, I would either polish it up or paint it with one of the 'chrome' paints available.<BR>Gary||||reg||1
+Z||000002||DXR_DAD||09-27-2001||12:55 PM||||This may be what your looking for:<P> <IMG SRC="http://albums.photopoint.com/j/View?u=99075&a=11225628&p=42240741&Sequence=4&res=high"> <P> <IMG SRC="http://albums.photopoint.com/j/View?u=99075&a=11225628&p=21451564&Sequence=1&res=high"> <P> <IMG SRC="http://albums.photopoint.com/j/View?u=99075&a=11225628&p=54486246&Sequence=0&res=high"> <P> <IMG SRC="http://albums.photopoint.com/j/View?u=99075&a=5080942&p=53693916&Sequence=0&res=high"> <P>Email me, or PM!<P>DXR_DAD||||reg||10
+Z||000003||DXR_DAD||09-27-2001||01:00 PM||||Sorry for the BIG pic but I wanted you to get the shine!!!!!<P>DXR_DAD||||reg||1
+Z||000004||JayUSA77||10-06-2001||11:53 PM||||i have the shift knob on the bottom right and its bad A$$ so everyone knows.<BR>J<P>------------------<BR>86' Black Fiero GT||||reg||1

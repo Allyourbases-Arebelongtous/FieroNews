@@ -1,0 +1,6 @@
+A||||4||fiero56||120 to 85 guage||||5||
+Z||000000||fiero56||10-14-2000||08:24 PM||||Wondering about the possibility of swapping out my backlit 120mph speedo guage and changing it to backlit 85mph unit. Seems to me there wouldn't be any compatibility or calibration issues, but I have overlooked possible problems before. Any problems, or is it straight p&p?<P>------------------<BR>     <IMG SRC="http://www.fiero.nl/uploads/pffsig1.jpg"> ||||reg||5
+Z||000001||Monkeyman||10-14-2000||09:20 PM||||Why go from the 120 to the 85?  Is there something wrong with the 120?||||reg||1
+Z||000002||2xsess||10-14-2000||10:34 PM||||I've been wondering, which years have the backlit? If there isn't anything wrong with your 120 and mine is backlit, I'd be willing to trade.<P>Let me know<BR><P>------------------<BR>Jeff<BR>85GT||||reg||1
+Z||000003||mrfiero||10-15-2000||12:06 AM||||Drew.....it's just plug and play.  You should have no problems swapping gauges.  <P>All '86 and newer V-6 gauges are backlit, make sure not to use them from an '85 (hard to see at night).<P>||||reg||1
+Z||000004||2xsess||10-15-2000||12:11 AM||||Ok, I thought so. Yes mine are very dim.<P>SDM1964 just put a tach out of an 86GT in his and it is alot brighter than his stock 85 speedo.<P><P>------------------<BR>Jeff<BR>85GT||||reg||1

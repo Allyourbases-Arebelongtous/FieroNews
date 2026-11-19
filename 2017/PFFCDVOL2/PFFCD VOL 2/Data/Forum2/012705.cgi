@@ -1,0 +1,5 @@
+A||||3||ferrari328||ontario fiero owners please read...||||1||
+Z||000000||ferrari328||08-11-2001||04:29 PM||||Hi,<P>I need a clutch slave cylinder for a 4spd<BR>fiero asap.  Will pick it up.  Call me on<BR>my cell : 416-737-1494 to discuss the price.<P>Julian||||reg||1
+Z||000001||PBJ||08-11-2001||07:03 PM||||Did you try a parts retailer, I bought mine last year from Battery supply store, was not much money-less than $100.00,  For the hassle feiro clutches give I would not want to put on a used one.  OR you could rebuilt yours if you can get the bleeder screw out.||||reg||1
+Z||000002||roadwarrior||08-14-2001||10:12 PM||||hey man, I've got two parts cars one is complete and the other no front end or engine, but I know for a fact that I have two slave cylindres? where in relation to toronto are you? and my number is <BR>(705) 776-1393<BR>Mitch<p>[This message has been edited by roadwarrior (edited 08-14-2001).]||||reg||1
+Z||000003||grinthock||08-14-2001||10:32 PM||||I forget how much they are but FieroShop stocks them 416-747-5728 I think they are like 75 bucks or something||||reg||1

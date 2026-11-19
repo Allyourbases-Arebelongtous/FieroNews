@@ -1,0 +1,5 @@
+A||||3||pollock||ECM replacement- ripoff?||||5||
+Z||000000||pollock||06-11-2001||04:22 PM||||My buddy took his car in for diagnostics and repairs.  He was told it needed a new ECM and was quoted a price.  Later he got a call and was told that when they took the old ECM out, the eprom "lost its memory," and would also have to be replaced. <P>Is he getting screwed?||||reg||5
+Z||000001||isthiswhereiputausername?||06-11-2001||05:30 PM||||As far as I know, removing the battery cable should reset the chip and reset the codes..<BR>I dont think they would need to replace anything but what the code tells him. (he should test it himself first)<P>||||reg||1
+Z||000002||PBJ||06-11-2001||05:57 PM||||The ECM is the same for many vehicles and is not reprogramable.  The prom that you remove from your old ecm plugs into your new ecm, and is not reprogramable.  Sounds like a scam to me.||||reg||1
+Z||000003||theogre||06-11-2001||06:45 PM||||you didn't say what kind of car... it makes a difference.||||reg||1

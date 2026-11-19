@@ -1,0 +1,6 @@
+A||||4||Dale||Very rough idle
+Z||000000||Dale||07-14-99||09:40 PM||||Aloha,<p>Sounds like I am not the only one with idle problems.  I have an 84 fiero that has a hard time at idle and very part throttle.  It feals and sounds like the timing is very advanced.  I did check and set the timing to specs and replaced the MAP sensor.  If I disconect the MAP the computer goes to default and idles fine.  Does the TPS or the idle control have anything to do with the timing. If you have any suggestions please let me know.<p>Mahalo,  Dale
+Z||000001||PaUL||07-14-99||10:44 PM||||hey you in Hawaii too? I live on the big island.
+Z||000002||Dale||07-15-99||11:03 AM||||Paul,<br>I do live in HI on Kauai just outside of Koloa.  Funny thing is I found some paperwork in the car and it came from the big Isl.
+Z||000003||vurbanson||07-15-99||04:47 PM||||I had a similar problem with my '85 4cyl.  The computer indicated the IAC sensor.  I bought one from the wreckers, but it didn't work (go figure) and the problem stayed until I sold the car.  Try it!
+Z||000004||Dale||07-17-99||12:12 AM||||I hope your car wasn't red and from Hawaii.  but then again mine is an 84.  I did notice something else the last couple of days driving the car.  It seems to be surging under accleration, weak but noticable.  It is a very rythmic surge about every second or less.  Hmmmmm!!! Im stumped. 

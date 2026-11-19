@@ -1,0 +1,11 @@
+A||||9||isthiswhereiputausername?||someone was bored||||12||
+Z||000000||isthiswhereiputausername?||09-25-2001||08:03 PM||||make sure your speakers are turned up  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR> <A HREF="http://www.main.gadclan.de/flash/dengdeng.swf" TARGET=_blank>http://www.main.gadclan.de/flash/dengdeng.swf</A>  ||||reg||12
+Z||000001||Cliff Pennock||09-25-2001||08:19 PM||||Something about time and having way too much of it comes to mind.  <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif">||||reg||1
+Z||000002||Oreif||09-25-2001||08:21 PM||||LMAOROTF!!!<BR>That is very funny!||||reg||10
+Z||000003||Sage||09-25-2001||09:25 PM||||Ovaltrack??????<P> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||10
+Z||000004||Fiero*101||09-25-2001||11:04 PM||||hahah i about pissed my self who did that?<BR>the voice is what got me  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>just had to put my 2 cents in  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P><P>------------------<BR>Fiero*101<BR>Gold 86 SE 2M6||||reg||1
+Z||000005||FieroHeather||09-25-2001||11:15 PM||||It didnt work for me.  I probably dont have the right Flash installed yet (I had to begin again on this computer due to a stinkin virus).  <P>Too bad I didnt get to enjoy it--we all need amusment in our lives  <IMG SRC="http://www.fiero.nl/forum/tongue.gif">||||reg||1
+Z||000006||Leadfoot||09-26-2001||10:43 AM||||That is way to funny!!!  I was laughing laughing so hard that my eyes were tearing <IMG SRC="http://www.contrabandent.com/pez1/otn/laughing/yelrotflmao.gif"> ||||reg||1
+Z||000007||California Kid||09-26-2001||04:23 PM||||It's a classic soundtrack!! Can anybody convert it to MP3 or Wave format and post??||||reg||1
+Z||000008||Formula||09-26-2001||06:07 PM||||you can save it from the link in this post lol..<BR> <A HREF="http://www.fiero.nl/forum/Forum1/HTML/009564.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/009564.html</A> <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Formulasigs.JPG"> ||||reg||1
+Z||000009||Monkeyman||09-26-2001||08:26 PM||||I still can't decide between that and the dancing hamsters.  I think I'll listen to the rodents for a minute.  I need a good laugh.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

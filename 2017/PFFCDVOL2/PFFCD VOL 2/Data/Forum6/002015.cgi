@@ -1,0 +1,10 @@
+A||||8||Oreif||Here is a funny photo I got today in my Email.||||10||
+Z||000000||Oreif||05-11-2001||06:53 PM|||| <IMG SRC="http://www.fiero.nl/uploads/petrol1.jpg"> ||||reg||10
+Z||000001||2xsess||05-11-2001||07:09 PM||||Sorry Orief, The OMG thread contains the same pic.<P>Still freakin hilarious though!||||reg||1
+Z||000002||KRMFiero||05-11-2001||11:35 PM||||Hmm  ::Prints out:: now i have a mothers day present for my mom  <IMG SRC="http://www.fiero.nl/forum/tongue.gif">||||reg||1
+Z||000003||Tweek||05-12-2001||09:15 PM||||wow things travel fast, I think I received it in my email on that day as well...||||reg||1
+Z||000004||sqoach||05-13-2001||02:02 AM||||Haha!<BR>A friend took off once from the gas station without taking the pump out. But he stopped right as he pulled the hose out. I laughed my a$$ off!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>sqoach@yahoo.com<P>            <IMG SRC="http://www.fiero.nl/uploads/sqoach2.JPG">   <BR>84 SE (project car?)<BR>85 Coupe (parts car)<BR>86 SC (daily driver)||||reg||10
+Z||000005||Tina||05-13-2001||09:07 AM||||LOL<BR>Would be hilarious if that pic made it some how back to the owner of the car.<BR>Talk about embarassment.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>||||reg||1
+Z||000006||TheFiero64||05-13-2001||04:04 PM||||LMAO, that made my day.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>Josh<BR>  <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg"> <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||7
+Z||000007||DJRice||05-14-2001||10:33 PM||||She's on her cell phone in that pic.  <P>"Honey, the Beamer is making that funny noise again.  This car is embarrasing.  People are looking at me.  I told you we should have gotten the Mercedes Benz....Tomorrow, I'm driving the Navigator."<P>------------------<BR>Dillon<BR>Black '87 SE V6<BR> <IMG SRC="http://www.fiero.nl/uploads/djr_signature.jpg"> ||||reg||1
+Z||000008||Bugsy||05-15-2001||03:31 AM||||LOL<P>------------------<BR>86 SE I'm addicted and proud of it<BR>Kevin||||reg||1

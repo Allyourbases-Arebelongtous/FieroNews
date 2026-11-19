@@ -1,0 +1,4 @@
+A||N||2||burdell1||Brake light||||1
+Z||000000||burdell1||11-03-1999||12:44 AM||||I recently bought a used rear window brake light and had two questions on it. One, do they make more than one shade of grey for the outside housing. Two, how is it supposed to be connected with the red lens and the rest of the assembly? Mine had some residue of some glue, but doesn't stay together.||||reg||1
+Z||000001||TOM||11-03-1999||10:41 AM||||I think there is two greys. one light and one dark.||||reg||1
+Z||000002||dogtired||11-03-1999||01:44 PM||||If I remember correctly there are 2 screws that hold it to the roof? The one I pulled out of a parts car a couple weeks ago just kind-of fell apart after removing the screws, so I believe it is the rubber gasket against the window, then the red lens and then the housing, and all that holds it together is the pressure against the back glass? Maybe there is a little glue to keep it form vibrating? (I could be wrong)||||reg||7

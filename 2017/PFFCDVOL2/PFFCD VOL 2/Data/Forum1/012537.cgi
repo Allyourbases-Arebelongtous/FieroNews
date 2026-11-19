@@ -1,0 +1,3 @@
+A||||1||hobbitt||i really hate the holidays||||8||
+Z||000000||hobbitt||12-08-2001||08:03 PM||||boy i'm glad i didn't get that paint job done yet!!!! <IMG SRC="http://www.fiero.nl/uploads/ihxm.jpg"> ||||reg||8
+Z||000001||banditbalz||12-08-2001||08:14 PM||||And who says Fieros arn't practical? I'm feeling kinda bummed out, my GT went into storage 1 week ago tonight. The weather has been warm and sunny here in Ontario (highs of 17C this week) and I'm missing out on cruising. The thought of waking her up in April is all that keeps me going through the winter months! <p>[This message has been edited by banditbalz (edited 12-08-2001).]||||reg||1

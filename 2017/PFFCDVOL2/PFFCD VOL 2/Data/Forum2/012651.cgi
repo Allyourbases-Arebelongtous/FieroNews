@@ -1,0 +1,3 @@
+A||||1||Mickey_Moose||EGR Pipe||||1||
+Z||000000||Mickey_Moose||08-09-2001||10:09 PM||||Have a 88 GT V6 - going to replace the pipe and have noticed in the bag that the pipe came in a couple of set of gaskets - one with a restriction. There is a restriction at the plenum end of the original. Question is why? What would happen if one just puts a 'standard' gasket in without the restriction?<P>thanks<BR>Tim||||reg||1
+Z||000001||Bluebottlejunky||08-09-2001||11:00 PM||||Bumpero,<P>I am wondering about this too, lol I have one normal looking gasket and one funny looking one lol<P>------------------<BR>Hello, My name is Mike and I am addicted too fiero's...PLEASE dont help me.<BR>85'GT 4sp<BR>AIM: Fierofanatic2001||||reg||1

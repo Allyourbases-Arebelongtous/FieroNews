@@ -1,0 +1,8 @@
+A||||6||WisconsinGT||Headers
+Z||000000||WisconsinGT||07-24-99||04:26 PM||||Has anyone put headers on their 2.8? I am at a point where I need to remove the exhaust manafolds.(Broken bolts, leaks) Who sells them? What is your opinion of them?<p>Cheers
+Z||000001||Patrick||07-24-99||05:08 PM||||<br>There's a ton of stuff that's been posted here about this. Scroll down in this forum and maybe also in the General Fiero Chat and have a looksee.<p><p> 
+Z||000002||WisconsinGT||07-24-99||05:25 PM||||Thanks Patrick! I did aas you said, and found the info. I was looking for.<p>
+Z||000003||batboy||07-24-99||07:48 PM||||Fiero headers are kind of expensive, but it's a great way to increase horsepower, torque, and mileage.
+Z||000004||DXR_DAD||07-24-99||10:42 PM||||WisconsinGT,<p>I have the same problem with leaks. The price of headers is a little much for me right now, so Iam going to try welding and porting the stock manifolds. Sand the flanges flat on belt sander after all welding and porting is complete. I have got lots of info on this in the last few days. Iam looking over all of it right now to when aI will take on this project.   Just a thought!!
+Z||000005||DXR_DAD||07-24-99||11:10 PM||||Check out this Tech-Tip.<p>V6 exhaust manifold repair & porting....<p>www.<br>xnet.com/~nife/techtips/tt-exhaustmanifold
+Z||000006||WisconsinGT||07-24-99||11:43 PM||||Yeah DXR...I am thinking of staying with the stock exhaust. But, if they are prone to crack, I would rather just buy new headers. Which I hear are far better in all areas. Except price! Plus, I am no mechanic. Nor do I have the tools. I have my eye on the Fiero store sprint manifolds. Has anyone put them in? What can you say about them? <p>Cheers

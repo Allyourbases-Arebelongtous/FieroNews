@@ -1,0 +1,5 @@
+A||||3||AL||fan?||||1||
+Z||000000||AL||12-04-2000||09:03 PM||||<BR>it won't come on at all , i turned the ac and the blower works but not the fan,i put a hot wire direct to the fan and it works,but not when it;s hot or when i turn the ac.fan switch or relay or what,to tired to try to figure it out,help is appreciated,thanks AL<B>AL</B> <IMG SRC="http://www.fiero.nl/uploads/AL_sig.gif"> <P>------------------<BR> ||||reg||1
+Z||000001||Tom88gt||12-04-2000||09:42 PM||||I'd look at the relay under the left headlight first.  If neither the AC controls or the temp switch on the block turn the fan on.  It's unlikely they both failed.  The relay is the only switch that must work.  There is no way around it.  You hot wired the fan so you know the fan is good.  ||||reg||1
+Z||000002||theogre||12-04-2000||11:19 PM||||The fan relay coil and control circuit is fused in the box under the dash. 20 amp job in the corner marked elec/fan. If that fuse quits the fan won't work.||||reg||1
+Z||000003||AL||12-05-2000||12:21 AM||||you hit it on the head tom,thanks,AL.||||reg||14

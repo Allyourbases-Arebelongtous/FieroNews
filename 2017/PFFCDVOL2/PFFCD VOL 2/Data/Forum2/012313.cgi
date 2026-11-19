@@ -1,0 +1,3 @@
+A||N||1||tinuvin||timing gear||||5||
+Z||000000||tinuvin||07-26-2001||01:40 AM||||how do i check to see if my timing gear teeth are sheared? is this an easy job? what does it involve? it is an 84 indy, and it is down.<BR>thanks||||reg||5
+Z||000001||862M4inCA||07-26-2001||08:12 AM||||well, the most guaranteed way to determine if you have a timing gear issue (where no movement is being tranfered to the cam, does not apply if gear being ou tof time) is to open the oil fill cap on the top of the motor, and while someone turns the engine, check to see if you see valve movement, or if the valves are stationary. if they move, then chances are your gear is fine, otherwise you've sheared a few teeth and the crank gear isn't meshing with the cam gear.||||reg||1

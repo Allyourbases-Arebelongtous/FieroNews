@@ -1,0 +1,4 @@
+A||||2||XDrewX||leaking trunk,  can't find leak,  ||||1||
+Z||000000||XDrewX||06-10-2001||10:55 AM||||i noticed today that my trunk has been leaking when it rains.....the weather stripping is fine and intact, it is not leaking from the spoiler mounts.  Is there a typical problem with this, any ideas?||||reg||1
+Z||000001||KRMFiero||06-10-2001||11:54 AM||||The most common Area in a fiero's truck to rot are on the upper sides (normaly the left) if it is rotted there rain MIGHT be leaking but it would br pretty tough for it to get in there, 98% chance that that area is rotted though<P>Kyle||||reg||1
+Z||000002||btoth||06-10-2001||12:06 PM||||Yeah, I have a nice hole under my carpet on the top left side (above the wheel well).  I wish I had thought of looking there before I changed my spoiler gaskets and glued my weather stripping down.  <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif">||||reg||1

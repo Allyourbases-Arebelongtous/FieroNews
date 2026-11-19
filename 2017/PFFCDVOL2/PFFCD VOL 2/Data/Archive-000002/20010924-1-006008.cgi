@@ -1,0 +1,6 @@
+A||||4||Orville||Held Motorsports||||14||
+Z||000000||Orville||03-02-2001||05:22 PM||||Want to tell the forum that I just ordered<BR>a coilover kit with springs from Dave and<BR>that the order was correctly filled and<BR>promptly shipped. Nice that the Ryanne line<BR>of after-market Fiero parts continues to be<BR>available.<P> ||||reg||14
+Z||000001||gabriel||03-03-2001||12:06 AM||||I'll tell ya, Held/Ryaane is  one premier fabricator of high quality components.  I'm using a component or two in a somewhat exotic swap, and it is all *top* quality.  You pay for it, but it's worth it.<P>Pics on demand ....||||reg||1
+Z||000002||onfire||03-03-2001||02:24 AM||||I demand to see some pics. Please.||||reg||1
+Z||000003||gabriel||03-03-2001||02:22 PM||||Okay, I've never done the UBB picture thing, so here goes:<P> <IMG SRC="http://albums.photopoint.com/j/View?u=1564671&a=11882275&p=42579171"> <P><BR> <IMG SRC="http://albums.photopoint.com/j/View?u=1564671&a=11882275&p=42579169"> <BR>||||reg||1
+Z||000004||danny boy||03-04-2001||04:00 AM|||| Yep, love my coilovers. I bought them when it was Ryanes show. In a few weeks I'll be ordering the '88 strut tower adapters from Mr. Held. I was estatic when I heard he was going to continue this line. Ahh, so many plans, so little money...<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/stealth_feb2.jpg"> ||||reg||1

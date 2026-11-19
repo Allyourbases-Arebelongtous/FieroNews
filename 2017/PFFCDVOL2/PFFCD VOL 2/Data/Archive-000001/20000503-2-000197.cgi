@@ -1,0 +1,3 @@
+A||||1||Eric||Koni vs. KYB
+Z||000000||Eric||05-19-99||05:27 PM||||My setup includes KYB front shocks and Monroe rear struts on an 88 suspension.  The shocks are about 40,000 miles old and I am thinking of replacing them with Konis all around.  I autocross, and it seems like all other Fiero autocrossers are running with Konis.  I like the KYBs for thier price but I want the Konis if there is a huge difference.  If someone who autocrosses or road races could give me some input, I would appreciate it.
+Z||000001||Hock||05-25-99||12:01 PM||||i don't do either legally, but i do know that the koni's would be a big improvement.  they are fully adjustable for road and race conditions.  the number of aplications and types so make your pick.

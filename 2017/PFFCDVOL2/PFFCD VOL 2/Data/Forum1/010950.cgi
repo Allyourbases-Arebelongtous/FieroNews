@@ -1,0 +1,5 @@
+A||||3||lildevil||Want to get your car in High Performance Pontiac?||||1||
+Z||000000||lildevil||10-12-2001||09:28 PM||||You can start by sending you photos to thier website and get it on there photo album. Go to <A HREF="http://www.highperforamancepontiac.com" TARGET=_blank>www.highperforamancepontiac.com</A>  and click onto Showroom. Follow the instrustions from there. No Fieros there from what i can see. What  a shame.  <P>------------------<BR>Earl Sessions<BR>1985 Fiero w/ 1998 Supercharged 3.8 V-6<BR>Best ET: 13.232 @ 101.24 mph<BR>  <IMG SRC="http://www.fiero.nl/uploads/water3quarterthumb.jpg"> ||||reg||1
+Z||000001||Oreif||10-12-2001||09:31 PM||||link didn't work for me.||||reg||5
+Z||000002||mbramble||10-12-2001||09:39 PM||||That's just cause he spelled it wrong... <IMG SRC="http://www.fiero.nl/forum/smile.gif"> (performance spelled perfor<B>a</B>mance)<P>Try <A HREF="http://www.highperformancepontiac.com/" TARGET=_blank>http://www.highperformancepontiac.com/</A> ||||reg||1
+Z||000003||Oreif||10-12-2001||09:42 PM||||OK I submitted my pic.||||reg||1

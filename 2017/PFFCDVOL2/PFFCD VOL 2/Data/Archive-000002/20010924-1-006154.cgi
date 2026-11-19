@@ -1,0 +1,5 @@
+A||N||3||rockcrawl||CM West, How long for delivery?||||1||
+Z||000000||rockcrawl||03-11-2001||07:53 AM||||I'm in need of polyurethane trans and engine mounts and aluminum cradle bushings ASAP, If I order will I have them in a few days? <P>Thanks<P>------------------<BR>Jon Lagler<BR>'87 GT<BR>4.9 liter V8 Testarossa Spyder (under construction)<BR> <IMG SRC="http://www.fiero.nl/uploads/rockcrawlsig.jpg"> ||||reg||1
+Z||000001||c m west||03-11-2001||03:56 PM||||at present our supply of urathane has been depleted, we are going to recieve a new shippment this upcoming week, however, the rear aluminum bushings are all ready made, and I have the material for the 2 front - with the delay of the poly I would expect shippment in a week and a half||||reg||1
+Z||000002||rockcrawl||03-11-2001||04:18 PM||||Thanks. I'm doing a conversion for someone else. I'm not sure which way we're going to go yet.<BR>||||reg||1
+Z||000003||c m west||03-11-2001||04:46 PM||||no worries, we'll be here to help you out, call us if you have any questions<P>Eric - West Coast Fiero <A HREF="http://www.cwestco.com" TARGET=_blank>www.cwestco.com</A> <BR>310-305-4111||||reg||1

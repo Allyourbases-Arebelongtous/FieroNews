@@ -1,0 +1,2 @@
+A||||0||AL||installing my 72 dollar flowmaster||||1||
+Z||000000||AL||06-07-2000||01:30 AM||||<BR>well i recieved my flowmaster today, i proceeded on taking my exhuast out(from the cat back) on further examining the muffler it will fit perfectly, the only thing i have to do is cut the ends off a little bit(which flowmaster recomends) and cut my pipes a little and it will fit perfectly,if i have time tomarrow i will do it and maybe install it.if possible i wil try to put up pics of the new muffler, if only i knew how to put a sound wave i would let you hear it also.||||reg||1

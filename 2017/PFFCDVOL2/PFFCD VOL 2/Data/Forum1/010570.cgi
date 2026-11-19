@@ -1,0 +1,3 @@
+A||N||1||jlruiz67||CARFAX  Please ||||1||
+Z||000000||jlruiz67||09-27-2001||08:35 AM||||Hello all<P>Could some one run me a carfax report? Please<P>1G2WJ52KXVF246937<P>Thank you very much.||||reg||1
+Z||000001||jlruiz67||09-27-2001||10:45 AM||||Anyone??<P>Please, if you could, I'm going to check the car out today and like to get some info before I get there. Thank you much..<P> <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by jlruiz67:<BR><B>Hello all<P>Could some one run me a carfax report? Please<P>1G2WJ52KXVF246937<P>Thank you very much.</B><HR></BLOCKQUOTE><P>||||reg||4

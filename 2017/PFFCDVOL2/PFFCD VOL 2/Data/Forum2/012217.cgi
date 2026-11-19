@@ -1,0 +1,8 @@
+A||||6||Kwez||headlights don't go down||||1||
+Z||000000||Kwez||07-22-2001||12:03 AM||||ok, I read the post about the headlights not going UP, mine won't go down ...<BR>(88GT.)<P>common prob ?<BR>anybody knows what I should try to replace ?<P>thx||||reg||1
+Z||000001||Fierowrecker||07-22-2001||06:22 AM||||Hey Kwez!<BR>What year...<BR>Is it only one or both?<BR>If it is both, then the big relay on the left front...<BR>If it is one, the relay at the motor...<BR>Kinda general I know, but year makes a diff...<BR>crash...<P>||||reg||1
+Z||000002||Kwez||07-22-2001||11:28 PM||||hey wrecker, both lights, thx I'll have a look at the relay.<P>(nb: look at my 1st post again ... <BR>'(88GT)' on the second line, I put that there to indicate that's it's an 88  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> )<P>thanks||||reg||1
+Z||000003||88formula||07-22-2001||11:35 PM||||Mine does that. I just push harder on the switch in a certain way and they eventually go down. I have a new switch but I've been too busy to replace it yet. Try moving and pushing on your switch!<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/88formula_logo_1.JPG"> ||||reg||1
+Z||000004||Kwez||07-23-2001||07:28 PM||||hehehe, is that what people mean by 'quirky'  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>thx I'll try that !!||||reg||12
+Z||000005||PBJ||07-23-2001||08:14 PM||||Maybe this will help (this is for 87/88 only):<P>  <IMG SRC="http://www.fiero.nl/uploads/headlightmotor.jpg">  <P><p>[This message has been edited by PBJ (edited 07-23-2001).]||||reg||1
+Z||000006||Kwez||07-24-2001||10:29 PM||||thank you .<P>||||reg||1

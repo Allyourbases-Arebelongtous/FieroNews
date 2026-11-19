@@ -1,0 +1,3 @@
+A||N||1||Rumor||Idle Unhappiness||||5||
+Z||000000||Rumor||11-27-2001||02:28 AM||||I recently bought an 85 Fiero GT.  It is an automatic,  has 95,000 miles on it, and is in pretty good shape. One annoying thing is that when I start it up, It idles between 800-1000 rpm. I replaced the idle sensor, and the swinging lessened, but it still does not have a steady idle. Any ideas?||||reg||5
+Z||000001||My7Fieros||11-27-2001||02:33 AM||||The 2.8's arent know for their steady idles.<BR>It should fluxuate between around 900-950, (give or take) in park/neutral..and flux between around 700-750 in gear. You prob dont have too much to worry about if you got it steadied alittle better like you said.||||reg||1

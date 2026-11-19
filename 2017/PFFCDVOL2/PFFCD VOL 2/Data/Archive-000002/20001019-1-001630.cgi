@@ -1,0 +1,5 @@
+A||||3||TOM||Fiberglass headliner||||1||
+Z||000000||TOM||03-24-2000||10:21 AM||||Has any one used MR.MIKES fiberglass headliner backer? How was it? What was the cost?||||reg||1
+Z||000001||pherder||03-24-2000||06:58 PM||||Tom,<P>I will let you know as soon as I put it in the car!   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Purchased one from Doug (fiero warehouse) thru eBay.<P>Top notch quality with extras like velco to hold up the front of the headliner to the frame.<P>Paul<BR>||||reg||1
+Z||000002||Spidy||03-25-2000||03:59 PM||||Sure, The install was not to tough, just be very careful of the rear window sealant. Make sure and clean it off of your interior side panels when you remove them. If you are working around a sun roof I found that a regular spatula with rounded corners worked well. ||||reg||12
+Z||000003||Oreif||03-25-2000||09:26 PM||||Haven't ordered one...Yet, But I plan on getting one. The cost is $150.00 per the Mr.Mikes price guide sent to me in December.||||reg||1

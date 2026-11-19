@@ -1,0 +1,11 @@
+A||||9||Oreif||Fiero Caravan to Fiero Fest 2000 on 6 May!!!||||4||
+Z||000000||Oreif||05-01-2000||12:57 AM||||For those of you in northern ILL and southern WIS who are going to the FieroFest in Paxton IL on 6 May, A few clubs and groups are meeting at the Hinsdale Oasis on highway 294. We will meet at 8:30-9:00 am  then travel down to Twin Lakes Fiero as one long Fiero caravan. Come on and join to see how many Fiero's we can get in a line!   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||4
+Z||000001||Oreif||05-01-2000||02:10 PM||||Who is all going?||||reg||5
+Z||000002||coyote||05-03-2000||11:57 AM||||Well, you will be riding with me, so thats the 2 of us.||||reg||1
+Z||000003||Haze_Performance||05-03-2000||01:39 PM||||.<p>[This message has been edited by Haze_Performance (edited 05-04-2000).]||||reg||1
+Z||000004||WisconsinGT||05-03-2000||10:42 PM||||Oreif, Where is the Hinsdale Oasis? I am in Madison. I was thinking of heading down by myself. Since Milwaukee is a bit out of the way. Anyway, if the Oasis is not to far out of the way I can join in.||||reg||1
+Z||000005||Haze_Performance||05-03-2000||11:50 PM||||. <BR><p>[This message has been edited by Haze_Performance (edited 05-04-2000).]||||reg||1
+Z||000006||SloPonti||05-03-2000||11:54 PM||||hey i will be there-got the car running good today and i will already be traveling with about 7 or 8 other fieros-can't wait to see ya guys!!!<BR>Rob||||reg||1
+Z||000007||Oreif||05-04-2000||09:57 AM||||WI-GT, You'll most likely be taking 90 east to 294 south to get there. The Oasis is about 8-10 miles south of where you pick up 294. For those of you looking for other members, I'll be riding in coyote's maroon 87 GT. ||||reg||1
+Z||000008||fotofrank||05-04-2000||01:24 PM||||I,the fotofrank, will also be at the oasis.<BR>My car is the '84 with a '87 front fascia.<BR>Oreif, Ill see you there since I have a stop to make along the way. I'm looking foreward to putting faces to the "handles" on the forum. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||6
+Z||000009||SloPonti||05-05-2000||12:14 AM||||how are we gonna now who everyone is! my license is PACO 55 and my car will be an 84 coupe with the biggest exhaust tips there-4 and a half inch on each side! it is also red!<P>Rob||||reg||1

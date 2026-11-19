@@ -1,0 +1,3 @@
+A||||1||Phil||Inside Winston Cup||||1||
+Z||000000||Phil||02-21-2001||07:25 PM||||Anybody know the story on the Speedvision program Inside Winston Cup? I heard that Alan Beswick went to a different network and they might ressurect the program. ||||reg||1
+Z||000001||rogergarrison||02-22-2001||02:52 PM||||all the good Nascar shows went to Fox and Fox Sports, and FX (fox cable). They have a show all nascar at 6pm eastern everynite. Sundays an hour show before the race. Also Fox Sports also carries repeats of the cup races. I only watch TNN now for the ASA races, ESPN for the trucks. Speedvision will carry all sports car racing, and Hooters Pro Cup. also, Fox has a 1 hour show after Cup races called Victory Circle.||||reg||1

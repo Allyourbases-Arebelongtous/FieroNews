@@ -1,0 +1,3 @@
+A||||1||BC-GT||What was this recall (campaign) for?||||1||
+Z||000000||BC-GT||04-16-2001||09:24 PM||||This is on my rear deck lid but can not find any references to it and would like to know if I need any more recall work.<BR> <IMG SRC="http://www.zing.com/picture/pad74d4d55eafb2bab080e206e66067e2/fea1fc08.jpg.orig.jpg"> ||||reg||1
+Z||000001||85Josh||04-16-2001||09:51 PM||||Check out this article in theogre's cave. <A HREF="http://home.sprynet.com/~theogre/tunnel6/recall0.htm" TARGET=_blank>http://home.sprynet.com/~theogre/tunnel6/recall0.htm</A> <BR>It covers pretty much everything.<P>------------------<BR>85 2M4(Lil' Bit)||||reg||1

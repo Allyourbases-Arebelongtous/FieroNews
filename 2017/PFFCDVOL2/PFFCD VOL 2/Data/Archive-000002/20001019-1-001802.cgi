@@ -1,0 +1,5 @@
+A||||3||grizco||Headlight Motors||||5||
+Z||000000||grizco||04-12-2000||02:23 AM||||The right side headlight motor on my 84 SE keeps spinning after I shut off the headlights. It will bring the headlight down fine but won't raise it. Any idea's on what the problem could be and if the motor is rebuildable or do I need to get a new headlight motor.||||reg||5
+Z||000001||Monkeyman||04-12-2000||09:35 AM||||You probably need a new nylon gear.  That's the part that always wears out.  I think Rodney Dickman (a fellow forum member, I might add!) has the rebuild kits for $20/each??  You might as well do both.  You'll have to eventually.||||reg||1
+Z||000002||Rodney||04-12-2000||11:32 AM||||I have the OEM parts on my web page.<BR> <A HREF="http://www.execpc.com/~rodney1/8486headlight.html" TARGET=_blank>http://www.execpc.com/~rodney1/8486headlight.html</A> <P>Rodney Dickman||||reg||1
+Z||000003||grizco||04-13-2000||12:15 AM||||Thanks for the info. Now all I got to do is decide if I want to get one of Tom's headlight kits or keep them stock.||||reg||1

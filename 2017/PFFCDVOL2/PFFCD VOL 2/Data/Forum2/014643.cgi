@@ -1,0 +1,3 @@
+A||||1||gt boy||brake pedal goes to floor||||5||
+Z||000000||gt boy||10-21-2001||07:51 PM||||what does it mean when your brake pedal goes to the floor with very little resistance?<P>the pads and rotors are new and so are the drums and shoes...this is in my ford e-150 van.<P>i am stumped.<P>------------------<BR>"it's too bad he had to run out of talent half way through the corner..."||||reg||5
+Z||000001||Mach10||10-21-2001||09:09 PM||||Master cylinder, massive leak, or MASSIVE air pocket in system. If you aren't leaking fluid all over the place, top up, and try bleeding the system. Otherwise, time to go shopping for a master cylinder...<P>Oh, and find a different vehicle to shop for parts in  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||10

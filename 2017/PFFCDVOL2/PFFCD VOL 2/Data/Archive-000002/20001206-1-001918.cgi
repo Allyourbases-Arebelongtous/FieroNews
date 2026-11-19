@@ -1,0 +1,2 @@
+A||||0||ibcruzn||tail lights||||5||
+Z||000000||ibcruzn||04-23-2000||12:10 AM||||Could anyone tell me if pisa's gt lights are a complete housing or just a new lens cover.I want to get them,but i've already ordered the 355 nose and mecham scoops,so i'm kinda of straped for cash and would have to sell my stock lights to offset the price.                                                   Thanks for any info ||||reg||5

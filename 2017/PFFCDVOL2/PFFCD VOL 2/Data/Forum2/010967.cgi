@@ -1,0 +1,4 @@
+A||||2||Songman||Indy Update||||14||
+Z||000000||Songman||06-03-2001||01:19 PM||||Gotta say thanks to Keith (ironhedno3) for coming over yesterday and helping me get my Indy back on the road. Even though it was a rainy day in Nashville, he came over and helped me trace wires till he found the wire that had broken and left me stranded on the side of the road and cost me a $60 tow bill.<P>What a guy! Thanks buddy...<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||14
+Z||000001||FieroJoe||06-04-2001||09:25 AM||||I guess I missed that one, what wire killed your car while driving?<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/joesig_1.jpg"> <BR>'87 Coupe 5spd.<BR>AIM:FieroJoe87||||reg||1
+Z||000002||87GTZ34||06-04-2001||09:35 AM||||Yes were are all dying of curiosity... Please tell.||||reg||1

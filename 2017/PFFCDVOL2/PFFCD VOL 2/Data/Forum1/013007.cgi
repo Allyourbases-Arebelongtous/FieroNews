@@ -1,0 +1,4 @@
+A||||2||Dough19||Fiero spotters guide||||1||
+Z||000000||Dough19||12-27-2001||09:57 PM||||I am want to buy a spotters guide and I need to know where I can get them/order one?<BR>Thanks||||reg||1
+Z||000001||Ronnie||12-27-2001||10:05 PM||||Hey Dough, got one right here in front of me.<P>FIERO SPOTTERS GUIDE<BR>5474 S.R.19<BR>Galion,OH 44833<P>MAKE CHECKS PAYABLE TO MARK CORBIN<BR>$4.00 PLUS $1.00 SHIPPING & HANDLING<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/new_sig_w_stripes_1_2.jpg"> ||||reg||6
+Z||000002||TRiAD||12-28-2001||11:30 AM||||Do you have more? Can you post a pic?<BR>Thanks!<BR><P>------------------<BR>      <IMG SRC="http://centralillinoisimports.org/uploads/files/SigRear4.gif">  <BR><B><I><FONT COLOR="blue">Project MR1 ~ triadtuning@hotmail.com</B><BR>AIM ~ Michael Blue 72</I></FONT>||||reg||1

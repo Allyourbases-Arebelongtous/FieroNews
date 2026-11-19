@@ -1,0 +1,2 @@
+A||N||0||Daleford||rear coil-over strut mount location||||5||
+Z||000000||Daleford||12-08-2001||11:59 AM||||To widen the rear track of an 86 Fiero I need to move the top of my coilover strut out. To have strength I would like to mount the top of the strut directly under the Fiero upper rail. This would be about 5 inches lower than stock. With the shorter springs and sleeves available with some kits, is this workable?<BR>What is the shortest uninstalled heigth of a coil-over assembly?<P>------------------<BR>||||reg||5

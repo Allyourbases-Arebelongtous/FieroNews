@@ -1,0 +1,6 @@
+A||||4||Greg Piet||cutting apart one||||1||
+Z||000000||Greg Piet||10-07-2000||03:44 PM||||I got myself an acetlyene torch, and i am cutting apart a Frame for disposal (why not the whole frame to a boneyard is another story).   I am going from the back to front...<BR>Any hints on where to cut in the front??<p>[This message has been edited by Greg Piet (edited 10-08-2000).]||||reg||1
+Z||000001||Indiana_resto_guy||10-08-2000||09:26 AM||||Have a HOSE handy! They burn well once they get going.<BR>Cut any where you want watch for brake lines, automatic cooling lines and fuel.<BR>Be careful and have fun!||||reg||1
+Z||000002||TheFiero64||10-08-2000||09:51 AM||||Like Indiana_resto_guy said, Have a hose ready & make sure you are wearing protective clothing. Watch for where the hot sparks land. Just cut the spot that looks the easiest to cut through.<P><B>Good Luck</B><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif"> ||||reg||1
+Z||000003||JetroGT||10-09-2000||03:49 AM||||When I cut the front off of my 86 GT parts car, the hardest thing to cut through was the frame rails. <P> <IMG SRC="http://www.fiero.nl/uploads/Cut_it.jpg"> ||||reg||1
+Z||000004||Greg Piet||10-09-2000||04:28 AM||||It is done!   AND YES THOSE FRAME RAILS WERE A PAIN!!!!!||||reg||1

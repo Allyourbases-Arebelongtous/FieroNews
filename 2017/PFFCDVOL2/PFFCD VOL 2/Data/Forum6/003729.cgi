@@ -1,0 +1,7 @@
+A||||5||maryjane||new cop on the road||||1||
+Z||000000||maryjane||10-10-2001||01:50 AM||||nuff said <IMG SRC="http://www.fiero.nl/uploads/objects.jpg"> ||||reg||1
+Z||000001||My7Fieros||10-10-2001||01:58 AM||||I like! Afghanistan would make a great parking lot. (Sorry, my heart doesn't bleed).<P>------------------<BR><FONT SIZE="3"><FONT COLOR="blue"><B><I>My 7 Fieros</FONT></FONT></B></I>||||reg||14
+Z||000002||California Kid||10-10-2001||02:04 AM||||Wouldn't you just love to see some film footage of a mini gun tearing Bin Laden's Rolls Royce to pieces!!!||||reg||1
+Z||000003||Galen||10-10-2001||09:07 AM||||Or just tearing him up... I'm with My7 <P>------------------<BR><B>Ray</B> Webmaster of <A HREF="http://www.fierolinks.f2s.com/" TARGET=_blank>Fierolinks</A><BR>"The price of love is tragedy"||||reg||1
+Z||000004||FieroMaster88||10-10-2001||10:31 AM||||Me  too...I am with My7 <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/jamessig.jpg">              <BR>James Essar<BR>AOL IM Name: FieroMaster88<BR>Not your ordinary 88 coupe!||||reg||1
+Z||000005||Raydar||10-10-2001||11:01 AM|||| <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Raydar - aka Steve<BR><FONT SIZE="1"><BR>Black 88 Formula.<BR>Red 88 Duke coupe. "The Project" <BR>88 Formula parts car. "The Donor"<BR></FONT>||||reg||14

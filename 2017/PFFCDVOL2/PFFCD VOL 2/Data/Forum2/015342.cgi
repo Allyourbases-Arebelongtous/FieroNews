@@ -1,0 +1,5 @@
+A||N||3||FieroSTETZ||whats this part? where do i get it?||||1||
+Z||000000||FieroSTETZ||11-13-2001||01:59 AM||||the thing that goes from the coil and plugs into the distributor, down on the side? mine broke, and cant figure out what its called to go buy more.. is there a way to get baggies of these connectors?||||reg||1
+Z||000001||watts||11-13-2001||02:24 AM||||Looking at the tach filter maybe?  Small can, couple of wires?<BR>||||reg||1
+Z||000002||Indiana_resto_guy||11-13-2001||10:10 AM||||Is the wire your talking about a 4 pin connector?<BR>If it is it's the high/low ignition wire that revieves signals from the ignition module to the coil. <BR>Best shot. got a pic?||||reg||1
+Z||000003||avengador1||11-13-2001||07:02 PM||||The fiero store has some of these connectors, if that is what you need. I had to replace one of the interlocking connectors on mine because the clip that held it on broke and it would pop off.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1

@@ -1,0 +1,5 @@
+A||N||3||gokartjr||I miss my Fiero||||9||
+Z||000000||gokartjr||11-15-2001||12:51 PM||||My Dad and I used to have a 1987 Pontiac Fiero GT and I loved it. My dad and I used to work on it all the time and we had to sell it a while ago and it makes me sad to think about it.We had painted the rims black and had red fiero logos in the middle.We also had a Mecham side scoop and a real cool air horn.We are currently looking for a 1988 GT that runs good but still needs a little work.||||reg||9
+Z||000001||JohnF||11-15-2001||01:05 PM||||If you had to work on it all the time, no wonder you sold it!||||reg||12
+Z||000002||Ambush||11-15-2001||01:08 PM||||Did you miss the Fiero or the time spent with pops?||||reg||1
+Z||000003||gokartjr||11-15-2001||01:32 PM||||There is a picture in the gallery under cars.It is diagnolly down right of the first picture and the plate is  8336 DL  .I miss the car, the pops are just to show that we worked hard and that it was a really nice car and  it ran really good.||||reg||9

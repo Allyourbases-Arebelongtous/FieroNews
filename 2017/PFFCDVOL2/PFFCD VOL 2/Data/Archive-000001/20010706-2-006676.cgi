@@ -1,0 +1,2 @@
+A||||0||rodmcneill||Distributor cap corrosionI||||1||
+Z||000000||rodmcneill||11-08-2000||11:55 PM||||Is there anything (spray?) available for the inside of V6 distributor caps to cut down on terminal corrosion? I use Accel caps but even the brass terminals seem to corrode fairly quickly compared to other vehicles I have owned. Is there something about the design of the Fiero dist. that causes this?||||reg||1

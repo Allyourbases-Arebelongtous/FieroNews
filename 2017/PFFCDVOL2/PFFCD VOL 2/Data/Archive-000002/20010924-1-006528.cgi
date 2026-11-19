@@ -1,0 +1,3 @@
+A||N||1||FieroFanaticus2||LT1 Chop top||||1||
+Z||000000||FieroFanaticus2||03-30-2001||09:22 PM||||Ok, I probably posted this in the wrong section, but if you look for the other posting about LT1 Chop Top pics.  I asked the owner of that vehicle about the rear spoiler on it, he said that it is a stck spoiler with 4" Risers.  Anyone here know where I could get some of those for my spoiler?  Any help would be appreciated!  Thanks --- M.R.||||reg||1
+Z||000001||RNGCRSH||03-30-2001||10:51 PM||||F.O.C.O.A has them  <A HREF="http://www.fieroowners.com" TARGET=_blank>www.fieroowners.com</A> <BR> ||||reg||1

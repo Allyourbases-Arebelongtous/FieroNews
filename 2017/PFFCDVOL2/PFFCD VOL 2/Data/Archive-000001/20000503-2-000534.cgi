@@ -1,0 +1,7 @@
+A||||5||burdell1||transmission thump
+Z||000000||burdell1||08-02-99||02:13 PM||||I'm having a problem with my '85 GT automatic.  When I go from a dead stop, my car jerks a little bit when going from first to second gear. It also does it when I slow down as well. I replaced the transmission fluid filter, and I assume the fluid too (i can't remember.)<br>
+Z||000001||Speadraser||08-02-99||05:00 PM||||Try this site the guy seems knowlegeable and it was passed on from someone else on the forum.  Speady.<p>http://www.thegrid.net/thedrivetrainpage/<br>
+Z||000002||theogre||08-03-99||07:37 AM||||sounds like the control pistons, or a band, is getting old.<p>Unless you "pump down" the trany, only 3 quarts or so of fluid was replaced when the filter was done. Allot of the fluid is held up in the Torq converter. The converter usually can't be drained, it has no plug.
+Z||000003||burdell1||08-11-99||06:31 PM||||What are the control pistons or bands? are they hard to replace? does anyone else outthere have a similar problem?<br>
+Z||000004||theogre||08-11-99||07:22 PM||||that type work is best left to a tranny shop. The adjustment of internal parts is fairly critical, and very easy to screw up.
+Z||000005||4Banger Bandit||08-18-99||10:34 PM||||Hey, I dunno if these cars have tranny mounts, but I know it's a fairly common problem with F-bods.  I've replaced 3 tranny mounts for the exact same thump.

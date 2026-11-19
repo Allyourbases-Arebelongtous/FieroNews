@@ -1,0 +1,11 @@
+A||||9||Greg Piet||OMG||||1||
+Z||000000||Greg Piet||05-11-2001||01:34 AM|||| <IMG SRC="http://www.fiero.nl/uploads/Pr5901gashole.jpg"> ||||reg||1
+Z||000001||fiero56||05-11-2001||02:28 AM||||That is GREAT! I love it.||||reg||1
+Z||000002||Wolfhound||05-11-2001||07:40 AM||||The Vandals stole the Handles!<BR>Bob Dylan  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> ||||reg||1
+Z||000003||ChadMan||05-11-2001||09:06 AM||||Good one, Wolfhound!||||reg||10
+Z||000004||FieroLisa||05-11-2001||09:31 AM||||No Joke, my MOM did that one day:  we were driving to a horse show in our van with the horse and trailer behind us, stop at a gas station, fill up, and my mom pays... Then she just starts driving away...As soon as she broke the hose off, she stopped though  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  The funny thing is, that particular gas station had just changed their hoses to the safety ones the weekend before (otherwise I guess gas would have been spraying everywhere)<BR>||||reg||1
+Z||000005||frontal lobe||05-11-2001||01:58 PM||||She thought everyone was honking because of her "Honk if you love Bimmers" bumper sticker.<P>Prices being what they are, guess she thought she deserved more than just gas.||||reg||1
+Z||000006||JohnnyK||05-11-2001||02:27 PM||||I don't believe that. I find it hard that she hadn't noticed by the time someone with a camera pulled up behind her. I think it was just some peoples joke to stick that in and take a picture.||||reg||1
+Z||000007||fiero56||05-11-2001||04:00 PM||||JohnnyK,<BR>You overestimate peoples intelligence. I have just the opposite problem. Almost everyone I see, I imagine they are complete morons incapable of even feeding themselves. I have to meet them in order to think otherwise. Some people think I don't give the human race enough credit.<P>BTW: you can see the driver in the car <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">. I love it.<p>[This message has been edited by fiero56 (edited 05-11-2001).]||||reg||1
+Z||000008||JohnnyK||05-11-2001||07:12 PM||||I don't doubt that the car is driving, I just think it was set up.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000009||beer_stud_21||05-11-2001||09:35 PM||||BMW: The ultimate gas pump destroying machine!<P> <IMG SRC="http://www.fiero.nl/forum/smile.gif"> -Marlin||||reg||1

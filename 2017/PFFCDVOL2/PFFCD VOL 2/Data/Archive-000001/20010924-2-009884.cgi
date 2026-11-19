@@ -1,0 +1,4 @@
+A||N||2||SloPonti||Attention ORIEF: need your help!!||||5||
+Z||000000||SloPonti||04-23-2001||08:19 PM||||hey orief i just got my car lowered and now it is off to the alignment shop-you gave me the specs a couple of months ago and now i need them again! thanks in advance!!<BR>Rob<P> <IMG SRC="http://members.aol.com/my55ride/fiero5.jpg"> ||||reg||5
+Z||000001||Oreif||04-23-2001||11:54 PM||||Here's a link to the spec's from when you originally asked.<BR> <A HREF="http://www.fiero.nl/forum/Archives/Archive-000001/HTML/20001206-2-003498.html" TARGET=_blank>http://www.fiero.nl/forum/Archives/Archive-000001/HTML/20001206-2-003498.html</A> <P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/LOGO3.jpg"> ||||reg||1
+Z||000002||SloPonti||04-24-2001||12:05 AM||||thanks orief and my car thanks you to!!!!!<BR>LOL<BR>ROb||||reg||1

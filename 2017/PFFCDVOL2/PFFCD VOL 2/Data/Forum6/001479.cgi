@@ -1,0 +1,4 @@
+A||||2||sqoach||151 in. of love???||||5||
+Z||000000||sqoach||02-19-2001||07:11 PM||||hey man, what's your e-mail address? i've e-mailed you a couple of times with no response. what's up??<P>------------------<BR>sqoach@yahoo.com<P>   <IMG SRC="http://www.fiero.nl/uploads/mysig2.JPG"> <BR>84 SE (project car?)<BR>85 Coupe (parts car)<BR>86 SC (daily driver)||||reg||5
+Z||000001||151 in. of love||02-20-2001||02:29 AM||||Read the General Fiero Chat....<BR>I won't be needing anything that isn't directly related to counseling of some sort.||||reg||1
+Z||000002||sqoach||02-20-2001||12:19 PM||||yeah, just read it. sorry to hear that. i would be pissed at the fire dept. even though it's volunteer.<P>you should definately get something back. i would fight back. it seems as though this so-called fire dept. came and made the fire worse, then took off.||||reg||11

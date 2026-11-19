@@ -1,0 +1,5 @@
+A||||3||SpeedPhreak||i kinda like it.. but not really.. kind of a waste...||||1||
+Z||000000||SpeedPhreak||07-21-2000||02:00 PM||||maybe there was already a discussion but i missed it.. <A HREF="http://www.cybercars.com/mnfr/fierohq/jalapeno.html" TARGET=_blank>http://www.cybercars.com/mnfr/fierohq/jalapeno.html</A> <P>||||reg||1
+Z||000001||b lo 0||07-21-2000||02:09 PM||||Interesting, but still stupid.  Is it just me or is the only thing PISA is really good at anymore is the Finale and the wrap-around dash kit?<P>------------------<BR>'85 GT (in progress)  <BR>titled ICE-plates B LO 0 <BR>GAWD I love this car||||reg||1
+Z||000002||Raydar||07-21-2000||09:27 PM||||Personally, I think it's a waste of a Fiero.<BR>But, I'll bet they sell tons of 'em.<P>------------------<BR><BR>Raydar<BR>88 Formula T-Top <BR>88 Coupe (ISO 3800)<P>"Some mornings, it just isn't worth<BR>chewing through the restraints."||||reg||1
+Z||000003||Gokart||07-21-2000||09:31 PM||||YUK! Don't forget they do make Mecham side scoops though <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR> Marc                     87GT||||reg||13

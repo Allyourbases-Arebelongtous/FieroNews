@@ -1,0 +1,2 @@
+A||N||0||Zman302||transmission problem||||1||
+Z||000000||Zman302||04-09-2000||12:26 AM||||I changed the tv cable on my 84 Fiero and the car wont shift.  I adjusted it with no luck and even disconnected it and have same problem.  The car will only shift manually into 2nd and then when put in drive there is nothing.  If anyone could help me out with any suggestions i would greatly appreciate it.||||reg||1

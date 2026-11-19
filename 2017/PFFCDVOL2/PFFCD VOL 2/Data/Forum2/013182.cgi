@@ -1,0 +1,6 @@
+A||||4||enslaved||paint problems||||1||
+Z||000000||enslaved||08-27-2001||11:44 PM||||Hey guys, i got a problem with my paint. The whole body looks glossy as hell.. EXCEPT the very front nose cone and the rear bumper. Is there any way to bring it back? Its dull.. I've tried to wax it, but it stays dull!!!! Is there anyway i can repair this before it gets too bad? I cant afford a whole paint at the moment... any ideas?||||reg||1
+Z||000001||rogergarrison||08-28-2001||04:19 AM||||use rubbing compound on it first to take off all the dead paint. wax only protects it, doesnt shine it.||||reg||1
+Z||000002||Old Lar||08-28-2001||08:06 AM||||Sounds like the clear coat is gone.||||reg||1
+Z||000003||KnightRyder31||08-28-2001||11:36 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Old Lar:<BR><B>Sounds like the clear coat is gone.</B><HR></BLOCKQUOTE><BR>Hehe... sounds like you ARE going to have to re-paint the front!<BR>At least it's not as bad as my red beast!<P>||||reg||1
+Z||000004||DXR_DAD||08-28-2001||04:34 PM|||| <A HREF="http://www.fiero.nl/forum/Forum1/HTML/008496.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/008496.html</A> ||||reg||1

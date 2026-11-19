@@ -1,0 +1,4 @@
+A||||2||Raydar||Bumper Sticker Idea?||||5||
+Z||000000||Raydar||08-12-2000||12:37 PM||||For anyone with the means to produce bumper stickers...<BR>For those of us who *have* to drive something else, for work or whatever. <BR>How about "My Other Car Is A Fiero" ? Maybe with some cool graphics (or not).<BR>Admittedly not very original, but I've never seen one for a Fiero.||||reg||5
+Z||000001||contra||08-12-2000||12:47 PM||||heh<BR>my father has a bumper sticker on his lumina that says "I'd rather be driving my corvette!"<P>i guess you could make one for the fiero, but i personally dislike any sort of stickers on my car unless they're out of sight under the hood.<BR>||||reg||1
+Z||000002||Cooter||08-12-2000||08:41 PM||||My friend used to make custom decals so I had him make me two sets of small window stickers that said "My other car is a red Fiero". At the time I had an 85SE and an 88GT, both red of course.||||reg||1

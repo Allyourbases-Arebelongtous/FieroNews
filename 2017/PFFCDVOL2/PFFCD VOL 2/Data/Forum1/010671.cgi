@@ -1,0 +1,2 @@
+A||||0||Dumba$$|| ~~~E-RAM~~~||||11||
+Z||000000||Dumba$$||10-02-2001||12:18 AM||||i came across this a while back & forget the website but does anyone actually have one of these on their fiero?<BR>pics?<BR>personally i think its cheesy and i'd rather strap a leaf blower to my throttle body!!<P><P>------------------<BR>Rich<BR>Sioux Falls SD<BR>Red 84 SE<BR>Gold 86 SE <BR>98 acura cl 3.0<P>4.9 caddy engine for sale 30,000 miles complete with bubba joes mounts!!  $850<P>if it dont go, put a fart can, and clear taillights on it!!||||reg||11

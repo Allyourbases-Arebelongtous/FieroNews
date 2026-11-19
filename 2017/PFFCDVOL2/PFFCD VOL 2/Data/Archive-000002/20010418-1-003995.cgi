@@ -1,0 +1,4 @@
+A||N||2||2xsess||Having a great clutch week!!||||14||
+Z||000000||2xsess||10-16-2000||11:40 AM||||Well, about two weeks ago I was having trouble with my 85GT 4spd not shifting very smoothly but, (knock on wood) it seems to have cured itself.<P>I haven't enjoyed a car this much since I sold my 88GT in 1998. Yeah the Prelude was fun for a short time but there's nothing that compares to driving a piece of Pontiac vision.<P><BR><P>------------------<BR>Jeff<BR>85GT||||reg||14
+Z||000001||JohnnyK||10-16-2000||03:06 PM||||Yeah, except NOT driving a piece of American half-assed engineering (oh wait, they all are)  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||2xsess||10-16-2000||04:58 PM|||| <IMG SRC="http://www.fiero.nl/forum/confused.gif"> What are you trying to say Johnny?<P>------------------<BR>Jeff<BR>85GT<p>[This message has been edited by 2xsess (edited 10-16-2000).]||||reg||1

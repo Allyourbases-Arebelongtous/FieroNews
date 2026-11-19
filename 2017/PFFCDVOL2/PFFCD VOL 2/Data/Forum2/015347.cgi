@@ -1,0 +1,2 @@
+A||||0||Pheagey||WTF! Man....||||1||
+Z||000000||Pheagey||11-13-2001||08:29 AM||||Ok, so I went and got my 'parts car' last night. I'm going to replace the head gasket ASAP and see how it runs then. Anyone in mid florida looking ofr a 1/2 decent '87 Gran Am w/ 130,000?(More info in the Mall section).<P>------------------<BR>'88 coupe, 5 speed.<BR>"The car formerly know as Dj's Fiero."<p>[This message has been edited by Pheagey (edited 11-13-2001).]||||reg||1

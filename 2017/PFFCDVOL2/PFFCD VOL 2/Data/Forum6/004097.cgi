@@ -1,0 +1,3 @@
+A||||1||Spektrum-87GT||sig test||||1||
+Z||000000||Spektrum-87GT||11-04-2001||02:33 PM||||another test<P>------------------<BR>restoration/modification on hold until who knows when<BR><A HREF="http://www.geocities.com/spektrum_87gt/" TARGET=_blank>87 Fiero GT</A><BR>1991 Jeep Cherokee<BR> <IMG SRC="http://www.geocities.com/spektrum_87gt/sig.jpg"> ||||reg||1
+Z||000001||Spektrum-87GT||11-04-2001||04:05 PM||||stupid geocities<P>------------------<BR>restoration/modification on hold until who knows when<BR><A HREF="http://www.geocities.com/spektrum_87gt/" TARGET=_blank>87 Fiero GT</A><BR>1991 Jeep Cherokee<BR>  <IMG SRC="http://members.home.com/bspracklin1/sig2.jpg"> ||||reg||1

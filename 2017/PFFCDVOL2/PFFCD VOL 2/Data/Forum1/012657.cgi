@@ -1,0 +1,4 @@
+A||||2||Rare87GT||Original Pontiac Design Side Scoops||||1||
+Z||000000||Rare87GT||12-13-2001||10:41 AM||||Anyone know where to buy or even order those side scoops.  The ones that are on California Kid's car and I believe LT1 Chop Top's red 88 GT.  Let me know guys.  Thanks.<P>------------------<BR>1987 GT (Maroon)*5 Speed*<BR>(Canadian Car)<BR>2.8L Mods--No Cat, K&N||||reg||1
+Z||000001||ChopTop||12-13-2001||11:33 AM|||| <A HREF="http://www.thefibersmith.com" TARGET=_blank>www.thefibersmith.com</A>  <BR>Try that site, belongs to PFF member Ferrari_Momo||||reg||1
+Z||000002||MinnGreenGT||12-13-2001||12:43 PM||||I don't think Pat (Fibersmith) actually makes the pontiac scoops?  But these come highly recommended: <A HREF="http://www.geocities.com/fierowarehouse/fullpanel.html" TARGET=_blank>http://www.geocities.com/fierowarehouse/fullpanel.html</A> <P>------------------<BR>              <IMG SRC="http://www.fiero.nl/uploads/GreenGT6.gif"> ||||reg||1

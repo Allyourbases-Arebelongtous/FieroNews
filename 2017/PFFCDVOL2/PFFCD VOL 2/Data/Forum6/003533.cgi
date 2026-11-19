@@ -1,0 +1,3 @@
+A||||1||Shaun41178||Paging Fieroburton at leastes dats how i thenk it is spalld||||5||
+Z||000000||Shaun41178||09-22-2001||08:38 PM||||Dude wear heve u bean?  Havnet sean you hear in awhiel. we all mis yuo daerley. plese com bak to us.<P>seaing you tipe macke me glad to be born in a northarn Ohio(sp?) city.<P>I knead some comic releive<P>Peace, and word to the homies in cinci dog.||||reg||5
+Z||000001||Kasdan||09-22-2001||11:58 PM||||Whut are yous guys sayings?  I arent understanding what you being typings.<P>------------------<BR>Tyler Morgan, 1986 GT<BR> <IMG SRC="http://www.fiero.nl/uploads/Fiero21.jpg">         <BR>Power Steering, Holley Scoop<BR>Aim=FieroDriver1986||||reg||1

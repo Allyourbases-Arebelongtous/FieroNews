@@ -1,0 +1,4 @@
+A||N||2||MP5Na3||IRM's phone #?||||5||
+Z||000000||MP5Na3||10-05-2001||03:55 PM||||Would love to have a set of the integrated rocker panels like on the blue chop top.  Heard that IRM sold these, but I don't have access to them.  thanks in advance||||reg||5
+Z||000001||California Kid||10-05-2001||04:03 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by MP5Na3:<BR><B>Would love to have a set of the integrated rocker panels like on the blue chop top.  Heard that IRM sold these, but I don't have access to them.  thanks in advance</B><HR></BLOCKQUOTE><P>go to bottom of page and click on page 2, your answer is there.<BR>||||reg||1
+Z||000002||Oreif||10-05-2001||05:39 PM||||All the info is here: <A HREF="http://www.fiero.nl/forum/Forum1/HTML/010693.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/010693.html</A> <P>||||reg||1

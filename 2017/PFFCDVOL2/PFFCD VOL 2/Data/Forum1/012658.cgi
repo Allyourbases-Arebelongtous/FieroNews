@@ -1,0 +1,7 @@
+A||||5||Turbo88||Rice insanity check||||1||
+Z||000000||Turbo88||12-13-2001||10:59 AM||||Ever wonder what will happen if ricers take over the world?<BR> <A HREF="http://iqx.ionichost.com/other/instest.html" TARGET=_blank>http://iqx.ionichost.com/other/instest.html</A> ||||reg||1
+Z||000001||Cheever3000||12-13-2001||11:12 AM|||| <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>Is anybody else curious to know who does that voice, how old he/she is, and what they look like?  Even better, it would be fun to see the mental picture each of you have for whoever it is.<BR>||||reg||5
+Z||000002||Mr.Frosty||12-13-2001||11:27 AM||||It sounds like the mix was sped up quite a bit.<P>------------------<BR>85 GT Turbo intercooled||||reg||1
+Z||000003||GTMike||12-13-2001||12:09 PM||||oh wow i laughed my ass of   i sent that out to all my car friends.   haha ha||||reg||1
+Z||000004||fldevel||12-13-2001||01:06 PM||||i dont get it ...what a F1 car have to do wiht rice ??? i guess im insane ||||reg||1
+Z||000005||AusFiero||12-13-2001||07:38 PM||||They have stole that sound off how to cook rice. See <A HREF="http://www.fiero.nl/forum/Forum1/HTML/009589.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/009589.html</A> <BR>But unfortunately the link doesn't work anymore. It was hilarious.<P>------------------<BR>         <IMG SRC="http://www.jadeweb.com.au/fiero/auschristmas.gif">        <BR><A HREF="http://www.jadeweb.com.au/fiero" TARGET=_blank>My Fiero</A> | <A HREF="http://www.fieroshop.com.au" TARGET=_blank>Fiero Accessories</A>||202.139.20.3||reg||1

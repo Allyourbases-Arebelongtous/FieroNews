@@ -1,0 +1,8 @@
+A||||6||fogglethorpe||Road Trip Soundtrack||||1||
+Z||000000||fogglethorpe||08-24-2001||05:37 PM||||If you were embarking on a lengthy road trip, and could only take 5 tapes or CDs,<BR>what would they be?<BR>My list would probably change depending on my mood, where I was headed, etc. But, if I was leaving now to take a 7 hr. ride to Greater Greenbrier County WV, I would take:<P>1)"Just South of Nowhere" by the Gin Blossoms<P>2)"Car Wheels on a Gravel Road" by Lucinda Williams<P>3)"Much Afraid" by Jars of Clay<P>4)"Nevermind" by Nirvana<P>5)"Insomniac" by Radiohead<P><BR>..........<BR>"There's no such thing as the real world; just a lie we've got to rise above." John Mayer||||reg||1
+Z||000001||Urchin||08-24-2001||05:38 PM||||can't go wrong with radiohead||||reg||1
+Z||000002||Cheever3000||08-24-2001||06:01 PM||||Steely Dan<BR>The Rippingtons<BR>Fourplay<BR>Yellowjackets<BR>Pat Metheny<BR>Bruce Hornsby<BR>Sting<P>Oops, sorry, got carried away.<P>There are 3 recent topics about this in the General section.  Just do a search with "music" in subject only.<BR>||||reg||1
+Z||000003||JSocha||08-24-2001||06:12 PM||||Any TITLE from the artist of my CD collection, just as long as I can jam and head bang!<P>AC/DC<BR>Headpins (Greatest Hits)<BR>Slaughter<BR>White Snake<BR>Van Halen<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> ||||reg||1
+Z||000004||loafer87gt||08-24-2001||06:42 PM||||I'm riding with JSocha! My kind of music!||||reg||6
+Z||000005||baldlobo||08-24-2001||06:44 PM||||1)Mudmen<BR>2)AC/DC<BR>3)G'n'R<BR>4)Nickleback<BR>5)ugly kid joe||||reg||1
+Z||000006||starfighter007@msn.com||08-24-2001||07:04 PM||||Radio just a plain ol radio that I could flip thru the stations with ||||reg||1

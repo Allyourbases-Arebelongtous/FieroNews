@@ -1,0 +1,3 @@
+A||||1||RiceCooker||Hey, Orief||||5||
+Z||000000||RiceCooker||05-06-2000||11:01 PM||||I just bought sweet TSW blades and put pirelli 225/40's on and they are awesome but I saved some room in the wheelwells so I could lower it. I was thinking of 1.5" in front and 1" in the back. Could you e-mail me some pics too and let me know?<BR>Thanks much.<P>Anybody else have lowering advice?||||reg||5
+Z||000001||Oreif||05-07-2000||11:21 PM||||I would suggest lowering it evenly. Mine looks really good sitting low. I should have pics up by Wednesday of my car lowered. Right now I have 235/60HR14's on it now but will be going to 245/50HR15's by summers end.<BR>Right now as a quick reference I can barely fit 2 fingers between tire and wheel well edge.||||reg||1

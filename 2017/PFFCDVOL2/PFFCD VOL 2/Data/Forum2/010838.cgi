@@ -1,0 +1,2 @@
+A||||0||William Federle||Spyder - did you stretch your fiero?||||1||
+Z||000000||William Federle||05-29-2001||01:46 PM||||Spyder,<BR>      There's a guy on a Fiero list that I read who put a V10 into his fiero longitudinally and is looking for ideas on a body kit. He stretched his car about 10" I think. <BR>      Didn't you once say that you had stretched your V8 fiero? If so could you tell me what body kit you used to re-body it?<P>Thanks in advance.<P>||||reg||1

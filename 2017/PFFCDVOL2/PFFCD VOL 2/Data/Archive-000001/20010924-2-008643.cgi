@@ -1,0 +1,3 @@
+A||N||1||88V8||Brakes||||1||
+Z||000000||88V8||02-26-2001||05:58 PM||||Hello all:<BR>I have an 88 Formula.  When the brake pedal went to the floor, i purchased a remanufactured master cylinder, bench bled it, installed it and bled the system.<BR>I have a firm pedal when the engine is off.  When the engine is started, the pedal goes to the floor again.  Is the master cylinder still faulty, is the booster shot or what??<BR>Thanks for any experience or expertise.<P>88V8||||reg||1
+Z||000001||theogre||02-26-2001||06:47 PM||||Usually if the booster is dead the pedal won't go down. Either you don't have it as well bled as you think ot the new MC is bad.<P>the brake article in my cave may help you get it bled better.||||reg||1

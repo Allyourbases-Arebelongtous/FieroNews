@@ -1,0 +1,3 @@
+A||N||1||ZZ4||88 couple auto -- Won't Start!!||||5||
+Z||000000||ZZ4||09-02-2000||11:08 AM||||To the list,<P>Car cranks over but will not start unless I disconnect the MAP.<P>Replaced MAP with known good one or two and the car still would not unless I<BR>disconnected the MAP.<P>Car has a new fuel pump: 10 - 13psi.<P>MAP does have a five volt reference signal.<P>Update:<P>   Tracked problem back to the ECM.  Replaced<BR> <BR>   the ECM and the car now works fine.<P>Thanks in advance.<P><BR>Bruce<P><p>[This message has been edited by ZZ4 (edited 09-02-2000).]||||reg||5
+Z||000001||theogre||09-02-2000||01:34 PM||||what codes are in the ECM?||||reg||1

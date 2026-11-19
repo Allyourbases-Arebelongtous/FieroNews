@@ -1,0 +1,5 @@
+A||N||3||superXmotorsports||CARLISLE 2000||||1||
+Z||000000||superXmotorsports||05-15-2000||07:50 PM||||Hi everyone.  Our location has changed slightly for Carlisle 2000.  They screwed up and sold 2 of our spaces to someone else.  We will be in sections IA41, IA42, and IA43.<P>Come by and say hello.  We will have blowout prices on body panels, hoods, doors, facias and all that heavy stuff that's hard to ship!<BR>We will also have all the colors of the SuperSport gauges on hand as well as our show cars.<P>Thanks!<BR>Greg / SXM<BR> <A HREF="http://users.supernet.com/superx/estore" TARGET=_blank>http://users.supernet.com/superx/estore</A> <P>superx@supernet.com<BR>||||reg||1
+Z||000001||Pretender||05-16-2000||01:25 AM||||And lets not forget about that bikini model!...||||reg||5
+Z||000002||CUTTER||05-16-2000||03:17 AM||||I will be there the 20th, what would be a good time to get there? Its my first time going to carlisle. Live about 45 mins away from it. FOCOA is going to be there right?||||reg||1
+Z||000003||Pretender||05-16-2000||11:42 PM||||i'm leaving at around 12 <IMG SRC="http://www.fiero.nl/forum/tongue.gif">m, eta of about 1pm. ||||reg||6

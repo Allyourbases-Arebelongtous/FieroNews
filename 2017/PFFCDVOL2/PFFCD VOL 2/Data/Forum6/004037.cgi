@@ -1,0 +1,3 @@
+A||||1||Fiero5||Thanksgiving images test||||5||
+Z||000000||Fiero5||11-01-2001||01:16 PM|||| <IMG SRC="http://images.animfactory.com/animations/holiday_events/thanksgiving/gords_falling_leaves_md_wht.gif"> <P> <IMG SRC="http://images.animfactory.com/animations/holiday_events/thanksgiving/pilgram_pumpkin_md_wht.gif"> <P> <IMG SRC="http://images.animfactory.com/animations/holiday_events/thanksgiving/pilgrim_sittindown_md_wht.gif"> <P> <IMG SRC="http://images.animfactory.com/animations/holiday_events/thanksgiving/turkey_season_md_wht.gif"> <P>||||reg||5
+Z||000001||avengador1||11-01-2001||04:54 PM||||Nice images<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1

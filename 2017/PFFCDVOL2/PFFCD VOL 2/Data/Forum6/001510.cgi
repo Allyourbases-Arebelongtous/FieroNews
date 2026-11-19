@@ -1,0 +1,7 @@
+A||||5||JohnnyK||What movie is this?||||1||
+Z||000000||JohnnyK||02-23-2001||12:30 PM||||I remember watching this in Florida when I was a kid (I'd say about 13-14 years ago) and this is all I can remember. A train goes barelling through some walls before it either derails or comes to a stop. I remember it being a shopping center, but I could be wrong after 14 years  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> It was also really, really dusty and grey... This has been bugging me. Anyone know? I was thinking "Runaway Train" just from the name, but with my luck, theres not even a train in it.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000001||Cheever2||02-23-2001||01:54 PM||||Sounds like the end of the Silver Streak movie.  <BR>||||reg||6
+Z||000002||Raydar||02-23-2001||02:14 PM||||Yup.||||reg||1
+Z||000003||87ECO5||02-23-2001||02:35 PM||||Is this the same movie that, after the train comes to a halt, Richard Pryor hops in a Fiat X1/9 that's on display in the terminal and drives off?||||reg||14
+Z||000004||JohnnyK||02-23-2001||02:53 PM||||Silver Streak eh? Whats runaway train about? Any trains derailling through buildings?||||reg||1
+Z||000005||WampusCat||02-23-2001||03:35 PM||||Runaway Train is two escaped convicts and a female railroad employee on a runaway train through a frozen wilderness.  John Voigt and Eric Roberts.  No trains crashing through buildings but a really good movie IMHO.||||reg||1

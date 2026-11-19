@@ -1,0 +1,3 @@
+A||N||1||Seanh||What to do about broken sway bar mount bolts?||||1||
+Z||000000||Seanh||06-19-2001||11:53 AM||||I took my front sway bar off the car last night. Well, broke it off more or less. I had a hell of a time getting the bolts out, so I sprayed some oil on them, and got a big ol braker handle on my wrench and took em out. 3 of the 4 broke off. Whats the best way to get them out? I was think about an EZ-out thing, but what size? Thanks||||reg||1
+Z||000001||cadaver||06-19-2001||05:09 PM||||An ez out wont usually work if they were corroded enough to break off. You will probably need to drill then and retap or use a helicoil. They are probably metric but I would tap to a standard size.||||reg||1

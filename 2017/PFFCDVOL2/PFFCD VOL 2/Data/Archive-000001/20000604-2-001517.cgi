@@ -1,0 +1,4 @@
+A||N||2||Splash||Clutch problems||||5
+Z||000000||Splash||11-25-1999||12:26 PM||||Ed parks at the fiero factory say's I <BR>need to get into it also. <BR>The squealling nioise happes any time <BR>the clutch pedal is depressed in the <BR>slightest, the tranny is hot also, <BR>could low differential fluid cuase <BR>this?  <p>[This message has been edited by Splash (edited 11-25-1999).]||||reg||5
+Z||000001||Phil||11-25-1999||02:20 PM||||If it's bad there are no options other than replacing it||||reg||1
+Z||000002||Sage||11-25-1999||05:44 PM||||Unfortunatly, if its bad, I would second Phils' motion.   <IMG SRC="http://www.fiero.nl/forum/frown.gif">    Footnote: check to make sure your dust cover is not loose or bent and hitting or rubbing something(flywheel) shot in the dark, cause it sounds like it "needs to come outa there"<p>[This message has been edited by Sage (edited 11-25-1999).]||||reg||1

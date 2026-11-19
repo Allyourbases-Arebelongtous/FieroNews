@@ -1,0 +1,3 @@
+A||||1||Fiero*101||I posted and no body replyed :(||||1||
+Z||000000||Fiero*101||11-27-2001||06:49 PM||||I posted a problem yesterday about my car running crappy in warm weather if any body wants to look at the post from yesterday it would be greatly appricated(sp?)<P>Fiero*101<P>------------------<BR>Fiero*101<BR>Gold 86 SE 2M6<BR>  <IMG SRC="http://www.fiero.nl/uploads/mycar101.jpg"> ||||reg||1
+Z||000001||avengador1||11-27-2001||07:21 PM||||I replied to your post, would like some more information to try and solve problem.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1

@@ -1,0 +1,2 @@
+A||||0||fieroshop||Posted on my Website||||7||
+Z||000000||fieroshop||02-03-2000||11:37 AM||||Looking at my website and looking in the classified section I saw an 88GT for sale with 3200 miles on it. I have seen this car and let me tell you it is beautiful. I just don't have the money to buy it. A little steep for my blood.My web page is  <A HREF="http://www.fieroshop.net" TARGET=_blank>http://www.fieroshop.net</A> ||||reg||7

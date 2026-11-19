@@ -1,0 +1,6 @@
+A||||4||Loki||Sail panel question||||1||
+Z||000000||Loki||04-26-2001||02:32 PM||||How are the chevrons held on? I need to replace mine and cant figure it out<BR><P>------------------<BR>Loki<BR>ICQ# 16477998<BR>www.cox-internet.com/fiero  !!!UPDATED!!!||||reg||1
+Z||000001||Oreif||04-26-2001||02:37 PM||||The red/silver insert is just glued on. I used an Xacto knife to pop mine off when I installed the new ones. I used "Devcon" Epoxy to hold in the new ones.<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/LOGO3.jpg"> ||||reg||1
+Z||000002||Loki||04-26-2001||07:11 PM||||OK cool, nothing to intensive then   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Thanx<BR><P>------------------<BR>Loki<BR>ICQ# 16477998<BR>www.cox-internet.com/fiero  !!!UPDATED!!!||||reg||1
+Z||000003||Formula88||04-26-2001||07:34 PM||||BTW, they're arrowheads, not chevrons. Not that it matters.  Pontiac is an American Indian Cheif's name, hence, the arrowhead emblem.||||reg||10
+Z||000004||Fformula88||04-26-2001||10:46 PM||||Epoxy works great on holding them in... just be careful if any squirts out.  If you don't clean it off right away, I doubt your going to get it off  (from experience, but on a different part  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">).  ||||reg||1

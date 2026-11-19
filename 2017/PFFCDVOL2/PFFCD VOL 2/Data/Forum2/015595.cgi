@@ -1,0 +1,4 @@
+A||||2||Dslice||alternator info needed||||1||
+Z||000000||Dslice||11-19-2001||05:37 PM||||Hey does anyone out there have a good pic of the in side of a alternator showing the diode regululator ect, I rebult mine but now it isnt putting a any juice out and I want to make sure I put it together right.<BR>can e-mail it to me or post it.<BR>Thanx<P>Dslice@mn.rr.com<P>------------------<BR>Rick<P>86GT<BR>84COUP<BR>http://home.mn.rr.com/gmfierogt||||reg||1
+Z||000001||CanadianGT||11-19-2001||06:52 PM||||I am not sure if it is possible, but maybe you put the diode trio in the wrong way.  This will not allow any charging to occur.<BR>PeAcE<BR>Kyle||||reg||1
+Z||000002||thomas_l||11-20-2001||05:26 AM||||If memory serves... I think the diode pack is a 1-way fit due to the ground screw location. You might have an open or short in the armature or stator, assuming the brushes are new and hitting the (freshly cleaned) contact rings in the right spot.||||reg||1

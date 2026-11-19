@@ -1,0 +1,4 @@
+A||N||2||KEV||DAMIT!!!!!!!!!!!!!!! WHEN I  THOUGHT EVERYTHINK WORKED!||||1||
+Z||000000||KEV||05-22-2001||10:18 AM||||Well after i posted that everything worked on my 85gt 3800 v6 the darn trans started to slip going into second gear. On the way home from are show,Well next time don't use a used trans and don't trust the person that got it for you when they say it works just fine, NOT! Well got a new trans and it's beening installed for FREE, I pays to be in a club and have some great friends also.||||reg||1
+Z||000001||elfiero||05-22-2001||01:12 PM||||KEV: I didnt go to the show on sunday because<BR>of our "differences"...I heard from 2 different guys that you said you "wished we<BR>could get beyond our problems and be friends"<BR>Do you mean it?.....let me know.Bruce.||||reg||6
+Z||000002||KEV||05-22-2001||04:06 PM||||YES I WOULD LIKE TO END THIS, WE ACTING LIKE LITTLE KIDS. E-MAIL ME IF YOU WOULD. KEV||||reg||1

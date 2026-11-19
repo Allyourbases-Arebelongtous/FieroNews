@@ -1,0 +1,5 @@
+A||||3||ROB MAC||Emblem Bummer||||1||
+Z||000000||ROB MAC||04-02-2000||09:37 PM||||I was driving in heavy traffic on a stretch of road that was being repaired.  I glanced out the side window for a second, and when I looked forward, traffic had stopped. I hit the brakes and the car slid on gravel.  I bumped the car in front of me and my Fiero emblem popped off and flew about 15 feet in the air and landed in the lane beside me.  I ran out to grab it just as a truck ran over it!  One more battle scar.||||reg||1
+Z||000001||Cooter||04-02-2000||10:11 PM||||I hate it when that happens! What kind of Fiero- someone may donate you a new emblem. I think I have one for a GT around here somewhere.||||reg||1
+Z||000002||terryk||04-02-2000||10:24 PM||||They are only $18 at the dealer.||||reg||1
+Z||000003||ROB MAC||04-03-2000||12:09 AM||||I hammered it back in shape and glued it ('84) back on but when you look close you can see the wrinkles( painful reminder)If I paint it this year I'm definitely gonna get a new one.||||reg||1

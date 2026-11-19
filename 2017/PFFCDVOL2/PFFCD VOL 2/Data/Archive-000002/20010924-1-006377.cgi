@@ -1,0 +1,2 @@
+A||||0||saleenfiero||Here we go again...||||3||
+Z||000000||saleenfiero||03-24-2001||04:16 PM||||Everybody always compares the fiero to 1st and 2nd gen MR2's right?  Well it seems as though Toyota is really hyping up the handling characteristics of the new MR.  Anybody got any specs on this new thing?<P>------------------<BR>'86 SE - My car is actually a MacLaren F1 with a Fiero body kit; or not.||||reg||3

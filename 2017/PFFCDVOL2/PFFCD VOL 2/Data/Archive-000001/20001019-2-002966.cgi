@@ -1,0 +1,7 @@
+A||||5||N_Man||injectors||||5||
+Z||000000||N_Man||03-31-2000||12:17 AM||||does anybody know what the max output of the stock fuel injectors is?||||reg||5
+Z||000003||terryk||03-31-2000||01:52 AM||||Which engine?<P>V6's are 3.8 gms/sec<P>I think that works out to 15.8lbs<p>[This message has been edited by terryk (edited 03-31-2000).]||||reg||1
+Z||000004||FIEROCIOUS||03-31-2000||02:22 AM||||2.8 and 3.1 are 15 lbs/hr.<BR>3.1 use a rotary disc type.<BR>2.8 except 88 use pintle type injectors.<P>I belive they are made by Multec (Rochester).<P>The rotary injectors are the same that are offered by MSD. They resist clogging FAR better than the pintle type and are FAR more accurate and provide a better spray pattern.<BR>If posible use the 3.1 injectors.  ||||reg||1
+Z||000005||Oreif||03-31-2000||02:31 AM||||My 86 service manual shows the stock 2.8L injectors at 14.9lbs/hour. I know the Fiero store sells Tomco performance Injectors (disk type) and they advertise 15.9lbs/hour.<BR>They cost $380 for a set.||||reg||1
+Z||000006||FIEROCIOUS||03-31-2000||03:14 AM||||Hmmm, .1 lb/hr differant? Thats like 75 HP differance! (LOL) 14.9, 15 just had to put your 2 cents in! (LOL) Quite the statistition Oreif!<P>P.S. I'm jokeing! (LOL) <BR>||||reg||10
+Z||000007||fieroshop||04-01-2000||06:45 PM||||I don't know the value on the injectors I use but I have been installing Lucas injectors which are the rotary disc type and have been getting really good performance from them. Cost $60.00 ea.||||reg||6

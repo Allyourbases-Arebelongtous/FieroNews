@@ -1,0 +1,5 @@
+A||||3||Tabs31||GT Muffler question & Tip Question||||5||
+Z||000000||Tabs31||12-18-2001||06:52 PM||||I was wondering if the fiero v6 muffler can be put on the iron duke??? and how does it sound??<P>Also does anyone have one for sale around the gta area at a reasonable price thats in good shape.<P>Does anybody know were I can get some great looking dual tips in the gta area. I want Bigs tips!!!!! <IMG SRC="http://www.fiero.nl/forum/smile.gif">3 inch or 4<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/tabs31_1.jpg"> ||||reg||5
+Z||000001||avengador1||12-18-2001||06:58 PM||||For tips, check out <A HREF="http://www.cwestco.com" TARGET=_blank>www.cwestco.com</A>  they have a nice pair of stainless tips for $99 US.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1
+Z||000002||Tabs31||12-19-2001||12:01 AM||||Bump<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/tabs31_1.jpg"> ||||reg||1
+Z||000003||yo_sweet||12-19-2001||12:14 AM||||i pulled a v6 exausht off of a 4cyl at a scrap yard it was 4cyl motified , the i had to motify itr back to a 6cyl , very easy just cut AND BANDAGE<BR>||||reg||1

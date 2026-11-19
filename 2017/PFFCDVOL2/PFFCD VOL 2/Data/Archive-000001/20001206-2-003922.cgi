@@ -1,0 +1,4 @@
+A||||2||N_Man||flywheel counterweight removal?||||5||
+Z||000000||N_Man||05-24-2000||06:20 PM||||Everyone talks about getting a new flywheel when going to the 3.2 or 3.4, why not have the counterbalance shaved off and get your engine balanced?<P>Can it be done or am I better off finding a new flywheel.  <P>I can get the weight shaved off for free and was planning to balance the engine anyways.||||reg||5
+Z||000001||lowCG||05-24-2000||09:54 PM||||I did just as you mentioned for my 3.4, the Fiero flywheel was nearly perfectly balanced with the counterweight ground flush/flat.<BR>I had the flywheel ground and balanced after grinding for $70.<BR>I believe the Fiero flywheel may be lighter than the factory 3.4 flywheel,but I'm not positive.||||reg||1
+Z||000002||Cooter||05-24-2000||10:14 PM||||I have a new 3.4 flywheel for sale: $90||||reg||1

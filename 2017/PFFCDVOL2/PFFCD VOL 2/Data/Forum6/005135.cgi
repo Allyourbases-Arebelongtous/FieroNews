@@ -1,0 +1,3 @@
+A||||1||84fierotrevor||where to buy a hand gun ?||||1||
+Z||000000||84fierotrevor||12-31-2001||11:30 PM||||ur right oh well.<BR>it was funny on the simpsons. lol<BR>i'm so bored<p>[This message has been edited by 84fierotrevor (edited 12-31-2001).]||||reg||1
+Z||000001||sqoach||12-31-2001||11:36 PM||||Hey man, that's not funny. You can get arrested for saying ****  like that. Do you want to go to jail? Stuff like that isn't taken lightly anymore.<P>------------------<BR>-Adam<BR><FONT COLOR="BLUE">sqoach@yahoo.com</FONT><BR>                  <IMG SRC="http://www.fiero.nl/uploads/sigsqoach2.gif">   <BR><B>86 SE V6 - daily driver</B>||||reg||13

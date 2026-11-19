@@ -1,0 +1,2 @@
+A||||0||Galen||I copied..||||1||
+Z||000000||Galen||08-27-2001||11:40 PM||||Fiero.net's parts listing..  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> on my site.. go to  <A HREF="http://www.fierolinks.f2s.com/ads.html" TARGET=_blank>http://www.fierolinks.f2s.com/ads.html</A>  to get to it  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>Ray -      <A HREF="mailto:galen@ezrpg.com">galen@ezrpg.com</A>      - <A HREF="http://www.fierolinks.f2s.com/" TARGET=_blank>www.FieroLinks.f2s.com</A> - AIM: GalenRPG - ICQ: 98668558||||reg||1

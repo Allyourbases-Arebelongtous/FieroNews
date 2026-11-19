@@ -1,0 +1,8 @@
+A||||6||DXR_DAD||A good tip And good product!!||||14||
+Z||000000||DXR_DAD||07-23-2001||09:27 PM||||Again, Thanks Roger for the tip on the 3M Super Duty Compound. This stuff works!!!!<P> <IMG SRC="http://albums.photopoint.com/j/View?u=99075&a=13270947&p=52062866&Sequence=1&res=high"> <P> <IMG SRC="http://albums.photopoint.com/j/View?u=99075&a=13270947&p=52062261&Sequence=1&res=high"> <P>It looked bad!!!  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> but this is 100 times better. One more time and I think it will be ok. If you need to buff that fadded paint or clear coat this is the stuff!!!!<P><BR>DXR_DAD||||reg||14
+Z||000001||Urchin||07-23-2001||09:31 PM||||Wow, looks great.  I wonder if that stuff is available in Canada.  I'm sure it is, I'll have to try it out. ||||reg||1
+Z||000002||DXR_DAD||07-23-2001||09:36 PM||||Roger said It's only at paint supply stores<BR>so that's were I got it!!! Didn't look too hard, it was right on the shelf.<P>DXR_DAD||||reg||12
+Z||000003||rodmcneill||07-24-2001||02:10 AM||||Nice and shiny.||||reg||1
+Z||000004||FieroGTguy||07-24-2001||05:28 AM||||Did you use an electric buffer, or just elbow grease?   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Greg||||reg||1
+Z||000005||DXR_DAD||07-24-2001||10:41 AM||||Elect. with wool pad. DeWalt # DW849<P>Here's some other pics and info: <A HREF="http://www.fiero.nl/forum/Forum1/HTML/008496.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/008496.html</A> <P><BR>DXR_DAD<p>[This message has been edited by DXR_DAD (edited 07-24-2001).]||||reg||3
+Z||000006||rogergarrison||07-24-2001||11:40 AM||||Looks great. glad to be of help.||||reg||1

@@ -1,0 +1,10 @@
+A||||8||842m4||newbie||||1||
+Z||000000||842m4||04-10-2001||10:12 PM||||I just recently rescued an 84 se from a salvage yard.  The car is getting spark, has goos compression, and is has fuel flow, but it still will not start||||reg||1
+Z||000001||Bluebottlejunky||04-10-2001||10:15 PM||||Well I'm not good at that stuff but im sure some of the other guys can help you!  Welcome to the Forum!<P>------------------<BR>BBJ<BR>85' GT 4sp||||reg||6
+Z||000002||Taijiguy||04-10-2001||10:17 PM||||Did you check for spark at the plugs, or at the coil? Also timing could be off. ||||reg||1
+Z||000003||daved||04-10-2001||10:23 PM||||Sent you a chart that might help; check your email.  Good Luck, Dave||||reg||1
+Z||000004||842m4||04-10-2001||10:24 PM||||I put new plugs in.  I have spark at the plugs and the timing is approximately at 0 btdc.  I'm thinking that there may net be enough fuel flow.  ||||reg||1
+Z||000005||842m4||04-10-2001||10:26 PM||||thanks Daved.  I'll see if this helps.||||reg||1
+Z||000006||85Josh||04-10-2001||10:27 PM||||The timing is supposed to be 8-10 degrees BTDC. That might be just off enough to cause your trouble. Welcome to the Forum!<P>------------------<BR>85 2M4(Lil' Bit)||||reg||1
+Z||000007||RacinRob||04-11-2001||01:46 AM||||If you think that it is not getting enough fuel shoot a little starting fluid in there and that is generally enough to get it to run for a second or two.  that helps to narrow it down a bit... I've found two bad fuel pumps doing this. just don't over do it or you will flood it, or blow the head off. P.S. DO NOT USE STARTING FLUID IN A SPUD GUN!||||reg||1
+Z||000008||Formula88||04-11-2001||09:02 AM||||You said you're getting fuel flow.  How did you check?  Are you getting fuel pressure, or do you know the injectors are firing?  My Formula wouldn't start, and it had full fuel pressure and good spark and timing, but the ECM wasn't getting power, so the injectors never fired.  On my car, the most obvious symptom was no Service Engine Soon light when I turned the key on.  Also, the fuel pump didn't come on until I cranked the engine enough for oil pressure to come up.  ||||reg||1

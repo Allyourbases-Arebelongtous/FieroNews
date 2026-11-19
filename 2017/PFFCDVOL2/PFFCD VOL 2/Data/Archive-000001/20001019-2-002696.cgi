@@ -1,0 +1,3 @@
+A||||1||zebrex||replaced both rear callipers on my 88 formula||||1||
+Z||000000||zebrex||03-13-2000||10:16 PM||||Man do I have bad luck I replaced both rear callipers on my 88 formula but then while bleeding the system I broke off the bleeder screw on the right front so its back to advance auto for another calliper unless any one knows how to get it out without destroying the calliper or filling the bleeder hole full of metal with the drill???||||reg||1
+Z||000001||Mark||03-13-2000||10:37 PM||||Try an EZ-out screw extractor.  You shouldn't need to drill a pilot hole since the bleeder already has a hole in the center.||||reg||1

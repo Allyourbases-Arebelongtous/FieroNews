@@ -1,0 +1,15 @@
+A||||13||FieroGTGirl||Now THIS is what you call a PAIR !||||1||
+Z||000000||FieroGTGirl||06-13-2000||07:22 PM|||| <IMG SRC="http://www.fiero.nl/uploads/FieroShoes.JPG"> <P>Found this in an ad for a sporting goods store.  Anybody want a pair?||||reg||1
+Z||000001||Sage||06-13-2000||11:57 PM||||Can't really tell from the pic, is the word "Fiero" actually on the shoe anywhere?||||reg||5
+Z||000002||Shiner||06-14-2000||12:41 AM||||I thought you were talking about a pair of something else.....  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000003||BN Boomer||06-14-2000||12:49 AM||||I'll try to stop by Big 5 and check those out.||||reg||1
+Z||000004||tgowens||06-14-2000||02:13 AM||||ok GTGirl, let's see how many of the guys you hook with <B>that</B> topic headline!!! (ya got <I>me</I> didn't ya????!!!!||||reg||1
+Z||000005||FieroGTGirl||06-14-2000||02:21 AM||||Sage~~I can't tell by the original ad if it says "Fiero" on it...I will have to go check it out.<P><B>I knew that would get all of your attention</B> <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||12
+Z||000006||Spyder||06-14-2000||02:45 AM||||Sure, pick on me for finding a bra to fit every ones nose.<BR>I mean, Fiero noses, <BR>No, I mean no noses.<BR>UH, Oh Never Mind.||||reg||1
+Z||000007||Cliff Pennock||06-14-2000||06:03 AM||||FieroGTGirl, ever considered a career in marketing? You got my attention almost immediately.  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000008||Sage||06-14-2000||07:47 AM||||FGTG;  Don't go out of your way to check these out,  I primarily responded, only cause I hate it when no one responds to a post.  No one had to this one, so just asked an innocent question.  Not interested in shoes, Fiero or otherwise.<P>Stupid?...I don't know, this is a forum right?  That means two way communication, Just didn't want you to think nobody read your post!<P>Have a good one!   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000009||Monkeyman||06-14-2000||10:29 AM||||If you happen to be checking out the shoes anyway, see if they are leather (in addition to seeing if they have the word "FIERO" on them).  If they are/do, LMK.  I'd wear them just to show my allegiance to the Plastic Fantastic.||||reg||1
+Z||000010||phillip||06-15-2000||02:00 AM||||i noticed the post title, but since it was fiero girl i was sure it would be two fieros. so....is my mind in the gutter or in the drivers seat?||||reg||1
+Z||000011||007DOUG||06-15-2000||11:50 AM||||There's something (or some product) in the sport of snow sking called "fiero".<P>I've never skied a day in my life, but have seen fiero related ski items on ebay before.<P>Probably what these are, but sign me up for a pair if they say fiero.||||reg||1
+Z||000012||stsmithgt||06-15-2000||04:30 PM||||FISH ON!  I was hooked to look! oh well, that's a nice pair too. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000013||dogtired||06-15-2000||04:43 PM||||Really didn't figure it was a pair like I expected  <IMG SRC="http://www.fiero.nl/forum/redface.gif"> But it did make me look   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||6

@@ -1,0 +1,3 @@
+A||N||1||shawnster69||Rear alignment problems||||6||
+Z||000000||shawnster69||08-10-2001||07:47 PM||||I just replaced my rear struts on my 84 and bought the camber bolts from Napa because the fiero never came with them...anyhow..the rear wheels seem to have major toe out..the rear wheels do not steer! has anyone had this problem and how did you fix it..Thanks!||||reg||6
+Z||000001||Mark||08-10-2001||08:21 PM||||Get a 4-wheel alignment!  When you replced the struts, the rear camber changed.  Small changes in rear camber make big changes in rear toe.  The fix: Drive (slowly) to a nearby alignment shop.||||reg||1

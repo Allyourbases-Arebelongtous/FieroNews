@@ -1,0 +1,3 @@
+A||||1||fierodude||NEEED HELPP!!!!!||||1||
+Z||000000||fierodude||06-28-2001||12:03 AM||||i went o go pick up my new se 6cly that has been sitting since 97 now in the winter the motor ran good but now when we try to start it the fuel pump dosen't sound! now is there some kind of fuel; fuse or desending unit?? were should i look??<P>------------------<BR>slice the rice! it dosen't pay to drive jap - crap!||||reg||1
+Z||000001||Doni Hagan||06-29-2001||05:47 PM||||The first thing I'd check is the fuel pump relay...It's behind the air cleaner can on the firewall. No, scratch that...Try the fuse first, THEN the relay. The pump itself is in the tank. With any luck, it's the relay. Easy to replace. ||||reg||6

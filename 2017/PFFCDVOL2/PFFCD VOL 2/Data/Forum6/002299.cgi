@@ -1,0 +1,4 @@
+A||||2||loafer87gt||Another Ebay Must see||||1||
+Z||000000||loafer87gt||06-13-2001||02:49 AM||||Check out quick b4 the Ebay federalies shut the link down.<BR> <A HREF="http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=1155441413" TARGET=_blank>http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=1155441413</A> <P>Who the heck comes up with this stuff? LOL||||reg||1
+Z||000001||grizco||06-13-2001||03:15 AM||||"OOPS I DID IT AGAIN"  <IMG SRC="http://www.fiero.nl/uploads/rotflmao.gif"> <P><BR>josh||||reg||1
+Z||000002||AusFiero||06-13-2001||07:50 AM||||lol. What will they sell next  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>To continue the song from grizco.<P>I ate a currrry... before filming a cliiiip <P>------------------<BR>   <IMG SRC="http://www.jadeweb.com.au/fiero/fiero5.gif">   <BR><A HREF="http://www.jadeweb.com.au/fiero" TARGET=_blank>My Fiero</A><BR>Need a Subwoofer Console or Speaker Door Pods?||||reg||10

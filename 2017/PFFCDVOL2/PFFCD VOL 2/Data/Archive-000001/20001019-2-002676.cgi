@@ -1,0 +1,2 @@
+A||||0||Eric||Broken Y-Pipe||||11||
+Z||000000||Eric||03-12-2000||03:30 PM||||My y-pipe has created a few holes around the flange for the forward header.  It seems to have closed off, almost completely, the exhaust flow from the manifold.  I think the bolt tension on the already bent and partially closed off flange caused it to crush.  Any ideas on how much power I could be losing by having 1/3 or less of the original diameter in the y pipe to the forward bank of cylinders?||||reg||11

@@ -1,0 +1,2 @@
+A||||0||Raydar||T-Top Weatherstrip Removal||||5||
+Z||000000||Raydar||11-05-1999||01:32 AM||||Anyone with a T-Top car... <BR>My headliner is in serious need of replacement. In order to do this, I will need to remove the rubber weather stripping that surrounds the opening. Does anyone know what the preferred solvent is to dissolve the glue that holds these weatherstrips on? Also, what is the best adhesive to use to reattach them? I don't want to take any chances on ruining these things. Any help is greatly appreciated.||||reg||5

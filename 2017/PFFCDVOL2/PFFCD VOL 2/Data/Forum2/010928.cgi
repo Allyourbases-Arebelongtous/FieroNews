@@ -1,0 +1,5 @@
+A||||3||BV MotorSports||oversized t/b's for 4 and v6 fieros||||14||
+Z||000000||BV MotorSports||06-01-2001||04:23 PM||||This may be old news but I am just getting back to the fiero community after a 1 yr break.<BR>ELP MotorSports offer 3.0 and 4.5mm overbored throttle bodies for Fieros, yes 4 cyl and v6.<BR>Contact info for ELP on my web page.<P>Steven<P>------------------<BR>87 Fiero GT 14.9/ 93mph<BR>94 Formula WS6 w/ NOS 12.4 /118mph<BR>87 Conquest TSi <BR>85.5 Starion ESi||||reg||14
+Z||000001||Neal||06-01-2001||05:45 PM||||Does ELP have a website?<BR>How much do they charge?<BR>is there anything else special about the throttle bodies?<P>You know the usual questions, throttle bodies have generally been covered but if ELP is a cheap source then that is exelent||||reg||14
+Z||000002||bcwawright||06-03-2001||03:32 PM||||Steven<BR>What is your web page address?<P>Bruce<BR>88GT<P>||||reg||5
+Z||000003||stimpy||06-03-2001||04:35 PM||||Here it is. You can usually find this kinda stuff on the profile... <A HREF="http://home.talkcity.com/speedwaydr/vinc1/" TARGET=_blank>http://home.talkcity.com/speedwaydr/vinc1/</A> ||||reg||1

@@ -1,0 +1,5 @@
+A||||3||pollock||HFC134 evaporator||||5
+Z||000000||pollock||10-22-1999||02:48 PM||||Anybody know of an a/c evaporator for Fieros that was designed for use with 134 refrigerant?  ||||reg||5
+Z||000001||theogre||10-22-1999||02:52 PM||||A number of people here have found that the stock one works just fine with 134. The Fiero AC system has so much extra capacity it's probly capable of chilling a conversion van.||||reg||1
+Z||000002||DJRice||10-22-1999||04:28 PM||||As I recall, my mechanic said that all that was needed for the r134 conversion is just some new gaskets and seals.  All the hardware stayed the same.  However, if your AC compressor just went bad and you decided to go ahead and upgrade, then you do want to replace that because little metal shavings tend to get thrown into the system when the compressor dies.||||reg||1
+Z||000003||theogre||10-22-1999||07:13 PM||||in the case of a blown compressor......<P>you replace the compressor, orifice tube, and Accumulator/Dryer. You flush the rest with an approved cleaner.||||reg||1

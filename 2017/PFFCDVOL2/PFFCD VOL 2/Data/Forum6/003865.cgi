@@ -1,0 +1,4 @@
+A||||2||rogergarrison||MAN SHOW SOCK PUPPETS AGAIN TONITE||||1||
+Z||000000||rogergarrison||10-21-2001||07:21 PM||||In case you havent seen them you have to chk out the Manshow tonite at 10pm. This is absolutely the funniest thing you ever seen!!<BR>(well next to a total Ricer getting smoked by a Fiero) <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000001||Nashco||10-21-2001||09:36 PM||||Damn I hate having no cable at times like these!!!!  I forgot several times when I did have it, and now that you remind me in time, I have no cable..aaaahhhh! lol<P>If you haven't seen the Man Show before, WATCH IT.  Even if you're a female, you'll laugh your ass off!<P>Bryce<BR>88 GT||||reg||1
+Z||000002||Brian87egotrip||10-21-2001||09:38 PM||||Thanks Roger, That is some of the funniest **** I've ever seen.<P>------------------<BR>Brian                    87GT||||reg||1

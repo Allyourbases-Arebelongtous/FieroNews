@@ -1,0 +1,8 @@
+A||N||6||Springtyme||PIP||||5||
+Z||000000||Springtyme||08-27-2001||09:32 AM||||Where can I download PIP from?? I gotta figure out how to get my signature on here =(<P>------------------<BR>            ~Springtyme~||||reg||5
+Z||000001||Springtyme||08-27-2001||09:38 AM||||Never mind I think I got it....<P>------------------<BR> <IMG SRC="http://us.f1.yahoofs.com/users/ab42e0a3/bc/My+Folder/Springtyme.jpg?bccdr27AuMWO0y7y"> <P>            ~Springtyme~||||reg||1
+Z||000002||Songman||08-27-2001||09:43 AM||||Click the big blue box at the bottom of any page that says Pennock's Image Poster..<P>That is where you download PIP, and also has all the instructions you need on how to use it..<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1
+Z||000003||Springtyme||08-27-2001||09:50 AM||||*DUH* thank you  <IMG SRC="http://www.fiero.nl/forum/redface.gif">||||reg||1
+Z||000004||Springtyme||08-27-2001||10:19 AM||||testing testing<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Springtyme.jpg"> <P>            ~Springtyme~||||reg||1
+Z||000005||JSocha||08-27-2001||12:42 PM||||Nice computerized Grafittie on the side!  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> ||||reg||12
+Z||000006||Springtyme||08-27-2001||12:45 PM||||Thank you  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Springtyme.jpg"> <P>            ~Springtyme~||||reg||7

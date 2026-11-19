@@ -1,0 +1,22 @@
+A||||20||ChopTop||Finally have pics of my whaletail/choptop||||1||
+Z||000000||ChopTop||03-22-2001||06:18 PM||||I finally got around to taking pics of my IRM whaletale, I'd post them,  but unfortunately I'm Pennock Image Poster challenged, and a puter dummy.   But if anyone wants to see pics of it I can email em to you.  My workplace digital camera isn't the best but they turned out decent enough.||||reg||1
+Z||000001||Philphine||03-22-2001||06:54 PM||||i don't really have a right to ask since i never have pics but i'd love to see it. i have the choptop fierodave had and am after any ideas i can get for it. <P>Philphine@webtv.net||||reg||1
+Z||000002||ChopTop||03-22-2001||07:55 PM||||Twist is going to help me out by posting the pics  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||TwisT||03-22-2001||08:17 PM|||| <IMG SRC="http://www.fiero.nl/uploads/chop1.JPG"> <P> <IMG SRC="http://www.fiero.nl/uploads/chop2.JPG"> <P> <IMG SRC="http://www.fiero.nl/uploads/chop3.JPG"> <P> <IMG SRC="http://www.fiero.nl/uploads/chop4.JPG"> <P> <IMG SRC="http://www.fiero.nl/uploads/chop5.JPG"> <P>||||reg||1
+Z||000004||KevinP||03-22-2001||08:28 PM||||Wow.   That's all that needs to be said.<P>Kevin<BR>'84 SE bumping 800 watts||||reg||10
+Z||000005||Cheever2||03-22-2001||08:30 PM||||Impressive!<P>||||reg||6
+Z||000006||MrPBody||03-22-2001||08:35 PM||||Ooooh, nice work!<BR>||||reg||1
+Z||000007||DXR_DAD||03-22-2001||08:39 PM||||That is BAAAAAAAAAAD!!!!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000008||loafer87gt||03-22-2001||09:13 PM||||Lord Vader your car is ready...  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||6
+Z||000009||Philphine||03-22-2001||09:21 PM||||i like it. looks good and the fiberglass work is impressive.||||reg||1
+Z||000010||FieroJoe||03-22-2001||09:48 PM||||Sweet!  I'll be able to recognize ya if I ever see you driving around here, very unique!<P>If you ever see a guy in a blue coupe honkin at ya in about a month or so, it's me!<P>------------------<BR>AIM: Snowboarder0311<BR>87 Coupe 5sp. - big resto in progress<BR>  <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1
+Z||000011||Bluebottlejunky||03-22-2001||10:08 PM||||Um....DROOOLLLL..!! Sweet man I would love to take a ride in that beast!<BR><P>------------------<BR>Mike<BR>85' GT 4sp||||reg||1
+Z||000012||DXR_DAD||03-22-2001||10:29 PM||||I had to look again!!  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>But I just don't know what to say.........So<P>DANG THAT IS BAAAAAAAAAAD!!!<P><BR>DXR_DAD||||reg||1
+Z||000013||Cheever2||03-22-2001||10:47 PM|||| <IMG SRC="http://www.fiero.nl/forum/smile.gif">  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR> <IMG SRC="http://www.fiero.nl/forum/smile.gif">  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P><BR>||||reg||1
+Z||000014||ChopTop||03-22-2001||10:58 PM||||Thanks folks, that was the first and only car I've painted, can you say B*tch. The color coat/clear coat method was a disaster for me so I used laquer.  Even though it looks nice in the pics it does need to be repainted.  Bonding the whaletail on was easy, but that too needs to be refinished due to some settling of body filler.  Maybe I'll get ambitious and tackle that this summer.  Later folks, and thanks to Twist for postings these pics too.||||reg||1
+Z||000015||TwisT||03-22-2001||11:02 PM||||No problem man.  What a nice ride...  =)<P>Brett||||reg||1
+Z||000016||Standard||03-22-2001||11:29 PM||||Awesome lookin' car, man!  ||||reg||14
+Z||000017||Tigger||03-23-2001||01:50 AM||||Wow, Very Nice work on the tail!||||reg||14
+Z||000018||Dan86gt3.8||03-23-2001||04:13 PM||||Pretty sweet, were they going for a "saleen" type spoiler?  I was actually linked in here from ls1, I am sad to say I have not checked this board in forever.  But anywyas lookin good, I like the t-tops and the glossy black, nice!<P>------------------<BR>86 gt fiero<BR>3.8/4speed auto<BR>ace conversion kit<BR>1/4- 15.3@90mph||||reg||1
+Z||000019||Predator||03-24-2001||05:23 PM||||Very nice looking. Have you had any problems with water collecting back there after it rains?<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Fiero4_1.jpg"> ||||reg||7
+Z||000020||Pontiaddict||03-25-2001||03:01 AM||||Wow, has the flood of drool rolled into lansing yet? In mile deep black even. WOW!||||reg||1

@@ -1,0 +1,3 @@
+A||||1||1988LRC||O2 sensor/mileage question||||1||
+Z||000000||1988LRC||04-03-2001||10:23 AM||||bought this 88 2m4 with a bad head gasket after replacing gasket car runs fine but only about 22 mpg not setting any codes if the sensor was ruined by coolant when the head gasket went would it set any codes? any other ideas||||reg||1
+Z||000001||theogre||04-03-2001||08:11 PM||||replace the O2. It's not expencive. No it won't always set code if it's screwed up.<P>Also check MAT in the intake mainfod right of the TBI. If that's crapped up replace it. make sure the new one is the plastic caged type. (As opposed to the metal cage.) Borg Warner is a good source. This sensor will cause a number of odd ball problems if it's goofing up.||||reg||1

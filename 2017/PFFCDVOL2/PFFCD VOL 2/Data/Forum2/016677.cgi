@@ -1,0 +1,5 @@
+A||||3||fierodoug5||Delco Radio Repair??||||1||
+Z||000000||fierodoug5||12-25-2001||07:07 PM||||Anyone know anywhere I can send my Delco radio for repair? One of my Pushbutton EQ radio's has issues. The tape deck just clicks back and forth, and the radio tuner cuts in and out when I hit bumps. I really would like to get it fixed! I put my knob Delco radio back in for now. Thanx for any info! <BR>Doug Venner    NJ<BR>85 GT, 86 SE, 86 GT, 87 SE||||reg||1
+Z||000001||topcat||12-25-2001||07:21 PM||||I purchased a replacement Delco Bose CD Changer for my Catera, and getting ready to upgrade the Cassette to a newer model Delco CD in my Fiero.  They do repair work as well.<P>Check the link out <A HREF="http://mnrelectronics.com/" TARGET=_blank>http://mnrelectronics.com/</A> <P><BR>||||reg||1
+Z||000002||Devotshka||12-25-2001||07:57 PM||||fierodoug5 - I sent you a PM.||||reg||1
+Z||000003||fierodoug5||12-25-2001||08:16 PM||||Thanx a lot! I emailed ya a couple more questions! Can't wait to have my pushbutton back!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

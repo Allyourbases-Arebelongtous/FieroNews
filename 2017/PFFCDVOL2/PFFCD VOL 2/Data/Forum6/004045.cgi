@@ -1,0 +1,8 @@
+A||||6||Kasdan||500 Posts!||||1||
+Z||000000||Kasdan||11-01-2001||09:11 PM||||woot, im halfway to 1000!<BR> <IMG SRC="http://www.fiero.nl/uploads/KasdanDriver.JPG"> <BR>So here, have a nice picture of my new interior!<BR>------------------<BR>Tyler Morgan, 1986 GT<BR>       <IMG SRC="http://www.fiero.nl/uploads/Fiero21.jpg">               <BR>Aftermarket Power Steering, Rebuilt motor with &gt;100 miles, Double wiper blades(12hp), Red LED's(10hp), Dragon sticker(15hp), yellow calipers (7 hp), Grant wheel(30hp), pine tree(75hp)<BR>Aim=FieroDriver1986<p>[This message has been edited by Kasdan (edited 11-01-2001).]||||reg||1
+Z||000001||grinthock||11-01-2001||09:11 PM||||yeah, I just hit 1K sometime ago, don't remember when....  Have fun on the way to 1K.<P>------------------<BR> <A HREF="http://www.fieroworld.com" TARGET=_blank>www.fieroworld.com</A>  The place to go for Fiero INFO! <BR>Home of my 87 GT and 85 GT<BR>Justin C.<BR>Engineer, Designer and<BR>Technical Trainer for Nortel Networks Business Products.||||reg||1
+Z||000002||Screwie||11-02-2001||09:28 AM||||Well, I just hit 100 yesterday as well, so we can celebrate together  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Nice interior btw, I like the steering wheel!||||reg||1
+Z||000003||Fformula88||11-02-2001||02:28 PM||||Interior is looking great!  Very nice job, and nice selection for a wheel! <P>Also, congrats on the 500 post mark!||||reg||1
+Z||000004||fogglethorpe||11-02-2001||06:46 PM||||Woohoo!<BR>&lt;tossing confetti&gt;||||reg||1
+Z||000005||hugh||11-02-2001||07:26 PM||||What the hell is WOOT?||||reg||1
+Z||000006||Reality||11-02-2001||07:49 PM||||I broke 100 today. Does that count for anything?||||reg||1

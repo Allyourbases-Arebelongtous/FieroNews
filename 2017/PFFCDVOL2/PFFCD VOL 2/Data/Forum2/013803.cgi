@@ -1,0 +1,3 @@
+A||||1||Viper'sVenom||Front Fascia||||1||
+Z||000000||Viper'sVenom||09-20-2001||02:53 PM||||Hey is it possible to change my 86 front bumper on my 2M4 to the nice ones of the latter models?  the ones that have the more sloped nose.  Do I have to buy the fenders from the donor car?  By the way I need to replace my fenders, so does anyone have some that they don't want.  I don't care about color or paint quaility, just as long as they are not cracked or broken.||||reg||1
+Z||000001||Old Lar||09-20-2001||03:24 PM||||Just about any body part for any year Fiero can be exchanged.  The side moldings would be different and fastback deck lids are different from coupe decklids.||||reg||1

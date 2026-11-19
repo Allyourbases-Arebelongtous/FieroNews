@@ -1,0 +1,5 @@
+A||N||3||anthony_86gt||top mount battery??||||5||
+Z||000000||anthony_86gt||04-22-2001||05:36 PM||||i need someone to give me info on a top mount battery setup.  will it work, cause i hate the side mount. <P><BR>||||reg||5
+Z||000001||c m west||04-22-2001||06:56 PM||||try locating the battery to the front compartment - we sell a kit to do this<P>West Coast Fiero <A HREF="http://www.cwestco.com" TARGET=_blank>www.cwestco.com</A> ||||reg||1
+Z||000002||stimpy||04-22-2001||07:14 PM||||What's to know? Take off the sidepost terminals and crimp on some toppost terminals. There is clearance under the vent (at least on my 86 GT).  I bought an Exide Orbital battery that has side terminal plus posts on the top. There is a good 1-2" clearance. I'd recommend getting them little rubber booties for the clamps, though.||||reg||1
+Z||000003||theogre||04-22-2001||10:45 PM||||This is easy..... like he said above. I had mine that way for awhile when the only battery I had was a top post. Make sure you use terminal covers of some type. It keeps the terminals dryer and prevents a short of you drop the grate on it.||||reg||1

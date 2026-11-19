@@ -1,0 +1,3 @@
+A||||1||loafer87gt||Anyone tried Chris West's Intake manifold?||||1||
+Z||000000||loafer87gt||10-01-2000||11:38 PM||||I was just checking out Chris West Fieros page and saw that he has a dual TB intake manifold for the V6. Sounds pretty wild, especially if you have a lot fo headwork or a cam that needs better breathing than the stock intake can provide.<P>Check it out at <BR> <A HREF="http://www.cwestco.com/Engine_hardware/Engine_hardware.html" TARGET=_blank>http://www.cwestco.com/Engine_hardware/Engine_hardware.html</A> ||||reg||1
+Z||000001||Black88GT||10-02-2000||10:17 AM||||It says COMING SOON in big red letters right next to it.||||reg||1

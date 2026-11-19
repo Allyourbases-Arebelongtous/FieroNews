@@ -1,0 +1,8 @@
+A||||6||Rodney||Lumbar seat parts||||1||
+Z||000000||Rodney||07-24-2001||08:37 AM||||I am making some progress on replacement lumbar seat parts. I'm pretty sure I'll be able to get new bladders. Also most likley the pumps. I'm also looking to see if I can get the complete set up to retrofit non lumbar seats and make them into lumbar seats. That may not happen but I'm trying. Would be way cool if I can get that done!!<P>Rodney Dickman||||reg||1
+Z||000001||PBJ||07-24-2001||10:55 AM||||We installed manual crank lumbar-I have had to fix many bladder/pump design but have never seen a manual crank lumbar fail.<P>And isn't lumbar great-especially in a fiero.  <P>my thoughts.||||reg||1
+Z||000002||Scott||07-24-2001||11:17 AM||||Hey Rodney,<BR>  I hope you can make a conversion work, I ve always wanted lumbar seats.||||reg||1
+Z||000003||Will||07-24-2001||10:00 PM||||Lack of lumbar support is my second biggest complaint against the Fiero seats.<P>Lack of lateral support is the biggest.||||reg||1
+Z||000004||cadaver||07-25-2001||12:06 AM||||I adapted lumbar stuff from a different car line. They look factory. And havent had any problems.||||reg||1
+Z||000005||Scott||07-25-2001||12:19 AM||||Hey cadaver,<BR>  Wanna tell us what you did?  PLEASE?!?   ||||reg||6
+Z||000006||Will||07-25-2001||03:58 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by cadaver:<BR><B>I adapted lumbar stuff from a different car line. They look factory. And havent had any problems.</B><HR></BLOCKQUOTE><P>What car line?<BR>I've been wondering about C5 seats, but they're expen$ive.<P>||||reg||1

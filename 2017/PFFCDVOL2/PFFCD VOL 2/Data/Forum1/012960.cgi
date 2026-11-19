@@ -1,0 +1,4 @@
+A||||2||Denny||Evolving into a fun get-together in PA . . .||||1||
+Z||000000||Denny||12-25-2001||11:38 AM||||Another one!<P>We need to settle on a date, but anyone interested . . .<P> <A HREF="http://www.fiero.nl/forum/Forum1/HTML/012896.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/012896.html</A> <P> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000001||Spiff||12-25-2001||01:40 PM||||I live 2 minutes from Domino's. I have off till the 1st of the year. Do I hear Pizza Party? <P> <IMG SRC="http://www.fiero.nl/uploads/spiffsig2_18.gif"> ||||reg||1
+Z||000002||skitime||12-25-2001||04:00 PM||||You know I am in.  Gentlemen, Start you Fieros!  Give us a date.<P>------------------<BR><UL TYPE=SQUARE><BR><LI>Red 88 GT T-TOP<BR><LI>Red 86 GT<BR></UL>  <IMG SRC="http://www.fiero.nl/uploads/signature-2.JPG"> ||||reg||1

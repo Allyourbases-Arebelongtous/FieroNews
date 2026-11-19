@@ -1,0 +1,6 @@
+A||||4||sqoach||R/C Car for sale||||10||
+Z||000000||sqoach||04-05-2001||03:08 PM||||Anyone interested in this? I bought it over a year ago at Radio Shack. I've only driven it about a dozen times. It got flipped a few times, so it's scratched up a little bit. Still works perfectly. I paid $89 for it. So just throw me some offers. Thanks.<P> <IMG SRC="http://www.fiero.nl/uploads/rc_car1.JPG"> <P>------------------<BR>sqoach@yahoo.com<P>           <IMG SRC="http://www.fiero.nl/uploads/sqoach2.JPG">  <BR>84 SE (project car?)<BR>85 Coupe (parts car)<BR>86 SC (daily overheating)||||reg||10
+Z||000001||sqoach||04-06-2001||12:22 PM||||It includes the rechargeable battery pack. Any offers? How about $50 includes s/h???||||reg||1
+Z||000002||sqoach||04-07-2001||12:57 PM||||*bump*||||reg||11
+Z||000003||sqoach||04-07-2001||11:17 PM||||Someone wants this, don't they?||||reg||1
+Z||000004||sqoach||04-16-2001||12:59 AM||||I'm sure your kid is just begging you for a toy like this. Buy it! Anyone want to make me some offers? It's doing no good just sitting in my room. I'd rather have a little extra money in my pocket   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Forgot to mention. This thing handles better than a Fiero. And it gets from 0 to top speed in about 3 or 4 seconds! Wow!<p>[This message has been edited by sqoach (edited 04-16-2001).]||||reg||1

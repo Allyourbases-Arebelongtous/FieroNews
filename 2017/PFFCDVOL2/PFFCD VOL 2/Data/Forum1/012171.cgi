@@ -1,0 +1,3 @@
+A||||1||DaRkLoRD||ATTN: DXR_DAD||||4||
+Z||000000||DaRkLoRD||11-26-2001||09:25 AM||||Oops, I forgot to bring your address to work.. can you PM me the address you want the package sent to? I haven't got access to my email here...<P>thanks!<P>------------------<BR>    <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>    <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||4
+Z||000001||DaRkLoRD||11-26-2001||11:48 AM||||Thanks to Oreif for sending me the address, the package has been sent!<P>------------------<BR>    <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>    <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||14

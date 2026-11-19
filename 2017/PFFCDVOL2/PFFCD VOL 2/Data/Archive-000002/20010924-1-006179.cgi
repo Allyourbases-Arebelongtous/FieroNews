@@ -1,0 +1,4 @@
+A||||2||Jay||1/4 MILE TIMES||||1||
+Z||000000||Jay||03-12-2001||04:54 PM||||Okay, I figured since spring is fast approaching, I'd ask what everyone is doing in the 1/4 mile times and with what car/engine combo you're doing it with.  thought it would be good to compare with what others are doing with similar cars.||||reg||1
+Z||000001||Jay||03-12-2001||04:55 PM||||86GT with a 4.6l Northstar<BR>13.7 @100mph <A HREF="http://www.members.home.net/jaygrande" TARGET=_blank>www.members.home.net/jaygrande</A> ||||reg||1
+Z||000002||87FieroGT||03-12-2001||06:38 PM||||It wasn't my Fiero, but I was at the track a couple months ago and there was a silver 87 GT there.  The owner swapped in a 3800 and put a turbo on it.  He was running 12.9 at 106 in the 1/4 mile.  I told myself I have to get one of those some day.  The owner said he had invested about 3,000 in the engine and turbo.  I can't wait until the day I can do this conversion.||||reg||1

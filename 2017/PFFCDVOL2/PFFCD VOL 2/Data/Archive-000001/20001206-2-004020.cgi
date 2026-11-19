@@ -1,0 +1,5 @@
+A||||3||GT Bastard||Important ? on torquing headbolts....||||5||
+Z||000000||GT Bastard||05-30-2000||09:01 PM||||I don't know what I was smoking, but....  When I was putting my cylinder heads back on, I followed the wrong procedure for the first 20lbs.  According to Chiltons, you're suppose to torque them in 3 stages.  The next TWO stages I did correctly.  Do you think I'm ok?    ||||reg||5
+Z||000001||88formula||05-30-2000||09:23 PM||||If you only torque them to 20 ft lb.’s and then followed the procedure correctly for the rest than chances are you are OK especially with cast iron heads.||||reg||1
+Z||000002||terryk||05-30-2000||11:59 PM||||As long as you did the right pattern and was reasonbly close to bring them up at the same rate, you're fine. Pretty forgiving. Sounds like you brought them up to max torque evenly even if you were off at the lower torques.<BR>||||reg||1
+Z||000003||GT Bastard||05-31-2000||01:44 AM||||Ok, I didn't think it was going to be a problem, but like I said before..... I'm paranoid.  thanks guys.  ||||reg||1

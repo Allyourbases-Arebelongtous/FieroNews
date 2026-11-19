@@ -1,0 +1,8 @@
+A||||6||LAMBO||seat switch?||||1||
+Z||000000||LAMBO||05-08-2000||02:13 PM||||When I bought my 85 project Fiero, it came with alot of extra interior stuff the guy had stripped from some salvage cars. This included a near perfect passenger seat. Has anyone ever tried pulling the material off of one seat and put it on the opposite side. (my driver's side seat is torn to shreds)? Are the opposing seats identical other than the adjustment mechanisms and tilting latches. Could I change the mechanisms (bolt holes line up)? Is the tilting latch riveted in place?||||reg||1
+Z||000001||Oreif||05-08-2000||02:24 PM||||The top half is interchangable. Direct swap. The bottom has the holes different but I have seen people cover the holes and swap bottoms. You cannot swap the tilting because the bottoms are different and the tilt lever has to be on the door side.||||reg||1
+Z||000002||LAMBO||05-08-2000||02:44 PM||||Thanks Orief! I'm still amazed at how quickly questions get answered on this forum. I'm hoping that with a little experience on my SE, I'll be able to answer some of this tech stuff as well.||||reg||1
+Z||000003||LAMBO||05-08-2000||02:46 PM||||Oreif, sorry! I never was any good with that i before E thing.||||reg||1
+Z||000004||Oreif||05-08-2000||04:20 PM||||If you have problems with the I and E just look at the top of the page and spell it backwards.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||12
+Z||000005||theogre||05-08-2000||07:09 PM||||The bottom seat covers are interchangable. The old holes will be hidden by the tunnel and the seat hardware.||||reg||1
+Z||000006||Monkeyman||05-09-2000||10:42 AM||||I before E, except after C or sounding like A as in "neighbor" and "Weigh".||||reg||1

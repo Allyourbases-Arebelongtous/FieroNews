@@ -1,0 +1,7 @@
+A||||5||LAMBO||What's it worth?||||5||
+Z||000000||LAMBO||10-11-2001||01:40 PM||||I've come across an 88 coupe 5sp with 8100 miles. As you might expect, it's in perfect condition and has been started and run to keep everything working (been in storage since 89). Only options are AC and rear defrost. I know, I know, its worth as much as I want to give. But I really want a gauge before I go over and talk money with the guy after work. I'd appreciate any of your thoughts.<P>Thanks, Todd ||||reg||5
+Z||000001||88CoupeV6||10-11-2001||02:26 PM||||Wow, I wish I had the money <IMG SRC="http://www.fiero.nl/forum/smile.gif"> <P>Sorry, I have no Idea how much it is worth. <P>------------------<BR>Josh<BR>   <IMG SRC="http://www.fiero.nl/uploads/newsig.jpg">    <BR>:D  <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||1
+Z||000002||Oreif||10-11-2001||02:40 PM||||I would guess $3000-$4000. Taking into account it's just a coupe but excellent shape and low miles. The Fiero Price guide prices it out at $3100.00||||reg||1
+Z||000003||LAMBO||10-11-2001||02:48 PM||||Thanks Oreif, thats what I needed to know.<BR>Todd<p>[This message has been edited by LAMBO (edited 10-11-2001).]||||reg||14
+Z||000004||88CoupeV6||10-11-2001||02:52 PM||||oh, I was thinking more like $5000 I was thinking I was on the low side. If you did say 8,000 miles. <P>I don't know though.||||reg||1
+Z||000005||falconhulk||10-11-2001||03:01 PM||||88 coupe you are right man!  You are on the low side.  But hey whatever you can get right?||||reg||1

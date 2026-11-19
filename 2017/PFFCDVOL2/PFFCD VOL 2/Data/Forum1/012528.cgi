@@ -1,0 +1,4 @@
+A||||2||85ZainoGT||oval or circle fog lamps?||||4||
+Z||000000||85ZainoGT||12-08-2001||04:23 PM||||fiero store fogs. which would you rather have?  and why are the oval ones $10 more?  whats the diff besides shape? thanks!<P>------------------<BR>Paul Ventimiglia<BR>1987 GT all the options :)<BR>     <IMG SRC="http://www.fiero.nl/uploads/sigpicNEW3bsmall2.gif"> ||||reg||4
+Z||000001||85 gt fiero||12-08-2001||05:02 PM||||the best ones are the ovals they look better and they have a wider light pattern.  Randy<P>------------------<BR>RALLY CAR, FULL ROLL CAGE, SKID PLATES, LIGHT BARS, SCS SUSPENSION, KONI ADJUSTERS,HIGH POINT CUTOFFS, AND BRIGHT YELLOW||||reg||1
+Z||000002||JohnF||12-08-2001||06:17 PM||||The best looking ones are built in like this:<P> <IMG SRC="http://albums.photopoint.com/j/View?u=1578096&a=12001112&p=56100346&Sequence=0"> <P><P>------------------<BR> <IMG SRC="http://albums.photopoint.com/j/View?u=1578096&a=12001112&p=56509969&Sequence=0"> ||||reg||6

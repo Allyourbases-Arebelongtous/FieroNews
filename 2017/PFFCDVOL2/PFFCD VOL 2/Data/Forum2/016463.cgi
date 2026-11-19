@@ -1,0 +1,3 @@
+A||N||1||Ronnie||Pegged Tach needle||||6||
+Z||000000||Ronnie||12-17-2001||09:25 PM||||Just off idle, my tach needle pegs to 5500rpm. I have swapped the Tach filter with a known good one from my other car , but that didn't fix the problem. Any suggestions?I've even thought about replacing the tach gage itself , but looks to be a booger to do.Any help would be appreciated.||||reg||6
+Z||000001||ray b||12-17-2001||10:23 PM||||try a cheap fix first WD-40 bath for all conections and clips on the wires and check your many grounds too. bad connections are hard to find but cheap too fix.<P>------------------<BR>Question wonder and be wierd||||reg||6

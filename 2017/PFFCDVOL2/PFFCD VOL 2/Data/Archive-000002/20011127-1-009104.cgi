@@ -1,0 +1,2 @@
+A||||0||new fiero||Close to the Springs||||6||
+Z||000000||new fiero||07-29-2001||01:26 AM||||Hey, I live just east of the Springs.  Been here since 97 and have seen multiple Fieros.  See 2 others everyday on my way into work.  Let me know about starting a club in the springs area....Im in!<P>Andy<P>------------------<BR>newfiero<BR>(swapping 88 L4 to 86 and having fun!)<BR>Yahoo! Messenger id: newfiero||||reg||6

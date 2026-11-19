@@ -1,0 +1,5 @@
+A||||3||wkayl||Cheap oil leak repair||||1||
+Z||000000||wkayl||03-23-2000||10:12 AM||||When we got my son's 86GT it had a bad rear oil leak (part of reason we got a good deal on the car).  After further review, the oil looked like it was coming from the top.  A $1.45 distibuter o-ring and no more leak.||||reg||1
+Z||000001||dogtired||03-23-2000||11:40 AM||||Great Score  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>Have replaced that O-ring on both my V6s and both were like hard plastic when I pulled them out.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><BR>Would recommend anyone with a 6 to do it, if there is a hint of oil on the top side  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||6
+Z||000002||Standard||03-24-2000||01:26 AM||||I need to do this on my GT.. what size O-ring do you need?  I'm also planning on replacing all the intake manifold gaskets and the valve cover gaskets.  any tips/tricks that I should know?  thanks!||||reg||14
+Z||000003||Standard||03-30-2000||04:29 AM||||so nobody has any advice?||||reg||11

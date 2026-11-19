@@ -1,0 +1,2 @@
+A||||0||ggarsk||Thank You All !!!!!||||7||
+Z||000000||ggarsk||02-12-2000||04:07 PM||||I just wanted to thank all the members for all the help they have given me in keeping me Fiero in running shape. I put in 2 new drive axles(no more clunking when I shift....so smooth),got both my headlights to go up and down(I get to retire my cordless drill now) and got my rally gauges and 120 speedo in place. I'm sure I'll be asking for more advise...it's a never ending battle,but well worth it! Thanks All!!!||||reg||7

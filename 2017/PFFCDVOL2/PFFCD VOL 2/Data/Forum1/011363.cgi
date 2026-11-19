@@ -1,0 +1,2 @@
+A||N||0||85 gt fiero||87 fiero in michigan f/s $500||||10||
+Z||000000||85 gt fiero||10-28-2001||09:39 AM||||in the local grand rapids paper there is a 87 fiero 4 cylinder, notchback, auto runs but got a little front fender bender,there is sales paending right now he said call back tommorw, this is not my car i just thought i would let you guys know.   Randy if youre interested i can give you the number. <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>RALLY CAR, FULL ROLL CAGE, SKID PLATES AND SOON TO BE BRIGHT YELLOW||||reg||10

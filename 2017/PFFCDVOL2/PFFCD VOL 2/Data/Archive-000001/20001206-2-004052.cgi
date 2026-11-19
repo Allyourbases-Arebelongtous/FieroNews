@@ -1,0 +1,2 @@
+A||N||0||contra||EGR Questions =)||||5||
+Z||000000||contra||06-01-2000||01:18 PM||||Yeah yah, my EGR tube had a leak in it, i have a replacement but i'm too lazy to put it on yet<P>what's gonna happen if i just disconnect the whole egr system and block it off?<P>will my gas consumption be more or less?<P>i already know the legalities of the matter, so save me time and dont post the info on that  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||5

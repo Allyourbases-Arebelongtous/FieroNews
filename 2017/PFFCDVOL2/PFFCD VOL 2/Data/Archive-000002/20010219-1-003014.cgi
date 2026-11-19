@@ -1,0 +1,4 @@
+A||N||2||Monkeyman||Odd Problem||||1||
+Z||000000||Monkeyman||07-21-2000||09:16 PM||||I can't get into the forum through the front door.  I get some kind of error message about Active X.  I can, however, get into the forum easily through another site.  I'm currently using Steve's FieroProject site.  This just happened today.  Any ideas?  My computer maybe?  <P>Help.<P>------------------<BR>Dave-<BR>Grape Ape ('85GT)||||reg||1
+Z||000001||Raydar||07-21-2000||09:31 PM||||Dave,<BR>See the "error message" thread in O/T. <BR>Seems that Cliff's homepage was... ummm... inadvertantly deleted. <BR>Had something to do with "waaaayyyyy after dark" computer maintenance.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><BR>||||reg||1
+Z||000002||Monkeyman||07-22-2000||11:23 AM||||I noticed that but thanx.  Only problem is that I'm having the same problem today.  We'll have to see what Monkday (err...I mean Monday) brings.  Maybe Cliff doesn't go to the office on weekends.||||reg||1

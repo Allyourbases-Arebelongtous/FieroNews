@@ -1,0 +1,5 @@
+A||||3||v8fieroGT||decklid scoop||||1||
+Z||000000||v8fieroGT||06-04-2001||09:21 PM||||Does anyone know wher i can get a decklid scoop for a descent price. The fiero store sells them for 180. I think that a bit much.||||reg||1
+Z||000001||V8Fiero||06-04-2001||09:33 PM||||Just sold mine.<P>Heres where I got it from <A HREF="http://www.mpmotorsports.net" TARGET=_blank>http://www.mpmotorsports.net</A> <P>------------------<BR>86 SE Gold<BR>84 SE V8 (FS or trade)<BR> <IMG SRC="http://www.fiero.nl/uploads/Pffsig_1.jpg"> ||||reg||1
+Z||000002||qwikgta||06-04-2001||09:43 PM||||I also got mine from MP Motorsports.  They have several at their site.<P>Rob<P>------------------<BR>qwikgta@yahoo.com<BR>88 T-Top coupe, 65K, Header, 16" GTZ rims, short shifter, swaybar.<BR>http://robsfieroproject.homestead.com/index.html<BR>http://vafiero.com||||reg||1
+Z||000003||v8fieroGT||06-04-2001||09:47 PM||||Thanks a lot 2 both of you. They are $55. I'm ordering it tomorow. That is a lot cheper than paying 180.||||reg||1

@@ -1,0 +1,4 @@
+A||||2||curtis||SANDING QUESTION||||5||
+Z||000000||curtis||07-07-2000||10:54 PM||||Has anyone found an easy way to sand the Pontiac on the drivers side headlight cover?||||reg||5
+Z||000001||tgowens||07-07-2000||11:21 PM||||curtis, try the rounded point, fine grit sanding bit for the Dremel tool........LIGHTLY!!<P>------------------<BR>  <IMG SRC="http://www.tgowens.com/my_fiero_sig.gif">   <BR>'87 Fiero GT -  <A HREF="http://www.tgowens.com/fiero/" TARGET=_blank>www.tgowens.com/fiero</A>||||reg||1
+Z||000002||Cooter||07-07-2000||11:29 PM||||Red 3m scotchbrite, dishwashing detergent and water. Use this if the original finish is in good condition. Also, after water sanding the panels, you can wash them with the scotchbrite and soap to remove sanding residue and as a final sanding to make sure all the gloss is removed from the surfaces.||||reg||1

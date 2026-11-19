@@ -1,0 +1,4 @@
+A||||2||fropuff||F.Y.I.||||10||
+Z||000000||fropuff||05-02-2000||07:42 PM||||I've got some F.Y.I. for all of you out there.  Did you know that WD-40 isn't clear-coat safe?  Imagine how disgusted I was when I see my clear coat on the rear bumper bubbling and peeling.  Thought I'd let you know before it happened to you.||||reg||10
+Z||000001||Fret Naught||05-02-2000||09:24 PM||||Hum, thats funny, I use it all of the time to remove tar bug guts etc.. never had any problem. Is that original clear coat? was it already cracked and checked? allowing some WD-40 to seep under it? Just a thought||||reg||1
+Z||000002||Oreif||05-03-2000||01:23 AM||||I've use WD40 to remove bugs and tar on 3 different vehicles. Including my Fiero and I have never seen it bubble or craze the clear coat. The factory paint is an enamel type. I would suspect you do not have original paint on the area you were cleaning.||||reg||1

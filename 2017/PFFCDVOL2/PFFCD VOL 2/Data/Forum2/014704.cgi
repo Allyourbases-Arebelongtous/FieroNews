@@ -1,0 +1,4 @@
+A||N||2||ssalyers||Clutch Problems........HELP!!!!||||8||
+Z||000000||ssalyers||10-23-2001||03:02 PM||||I have an '87 GT.  I recently (6 months or so) replace the clutch.  I also replaced the master and slave.  Now something is wrong.  I have rebled the system (modified Archie method) and I get a GOOD pedal and it seems fine.  After the car sits for an hour or two, I lose most of the pedal.  Where is my problem?  No obvious fluid loss, but I'm getting air in there somewhere.  Slave?  Master?  They're both under warranty, so I don't care if I have to replace them, but I just need to fix it!!!!<P>Thanks,<P>Shawn||||reg||8
+Z||000001||88CoupeV6||10-23-2001||03:06 PM||||I had a bad slave do that to me.||||reg||4
+Z||000002||WampusCat||10-23-2001||03:08 PM||||Damn! with this many clutch problems in one week, it must be related to the terrorists or anthrax or something.  Has anybody tried the rebuild kit from Fiero Store?  Does GM sell a rebuild kit?||||reg||1

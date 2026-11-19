@@ -1,0 +1,5 @@
+A||N||3||count_iblis||1998 Pontiac Grand Prix  supercharger||||1||
+Z||000000||count_iblis||12-17-2000||09:34 AM||||Can you put a supercharger from a grand prix on a 3.1?  What all would be needed to do this? <P>Chris <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/count-sig.gif"> ||||reg||1
+Z||000001||bubbajoexx||12-17-2000||09:43 AM||||not with out expensive machine work to manufacture the intake manifold and fuel system better off to bye a magnacharger they sell blowers for the 2.8 Z24's that will also fit the 3.1.||||reg||1
+Z||000002||count_iblis||12-17-2000||11:04 AM||||Do you have a link, or more information?  <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/count-sig.gif"> ||||reg||1
+Z||000003||terryk||12-17-2000||12:29 PM||||You would have to mount it to the side of the engine. It won't fit on top.  This is the M-45 on a 3400 SFI. That's about your only option. The M-90 is VERY BIG. <P> <IMG SRC="http://www.fiero.nl/uploads/34SC.jpg"> <p>[This message has been edited by terryk (edited 12-17-2000).]||||reg||1

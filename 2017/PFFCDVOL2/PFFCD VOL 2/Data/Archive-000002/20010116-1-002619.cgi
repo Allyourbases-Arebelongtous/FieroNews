@@ -1,0 +1,4 @@
+A||||2||BAM-BAM||Mr. Haze Please?||||12||
+Z||000000||BAM-BAM||06-20-2000||12:34 AM||||  Haze, went to Target and asked about the pictures, they said it would be Wednsday after 4:30pm PST. As soon as I get them, it's back to the computor and I won't leave till I have successfully uploaded the pics. So, be patient, pics are on the way.<P> Late BAM OUT!   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><p>[This message has been edited by BAM-BAM (edited 06-20-2000).]||||reg||12
+Z||000001||Haze_Performance||06-20-2000||02:09 AM||||Mr. Bam, I thank You  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||14
+Z||000002||BN Boomer||06-20-2000||03:31 AM||||Time to leave the 19th century behind and step into the 20th. Get a digital camera, man!  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||6

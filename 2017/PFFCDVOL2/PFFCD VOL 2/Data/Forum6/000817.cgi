@@ -1,0 +1,3 @@
+A||||1||Cheever2||Almost 1500 members... who will it be?||||1||
+Z||000000||Cheever2||10-22-2000||12:44 AM||||So I see we're at 1499 members.  <BR>Cliff: are you able to know when members haven't posted in so long they have probably "dropped out"?  Are some of those 1499 the same people but with nickname changes?  What I'm really trying to ask, I guess, is - are there really 1499 members?<BR>Do you have all their email addy's, like if you ever wanted to contact all of them at once?  Just a hypothetical question.||||reg||1
+Z||000001||Pontiaddict||10-22-2000||02:30 PM||||A few of the people here have at least 2 names. (Hugrrrr Fiero and Tigger come to mind) I'd take 1500 if I could think of a good one.||||reg||1

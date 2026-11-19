@@ -1,0 +1,6 @@
+A||||4||Philphine||big wheels||||1||
+Z||000000||Philphine||09-20-2000||02:04 AM||||<BR>i got a couple of sets of big wheels that i'm not really planning to put on my fiero, but i do consider it. one set is 17x8.5 the other is 2-18x8.5 and 2 18x10. i got them for other projects, used. the 18" set came with tires small enough in dia. to fit the fiero, but plenty wide. just wondering if any body else has wheels about this size and what considerations came up.<P>------------------<BR>Phil T<P>'87 coupe (feral)<BR>'84 indy<BR>'84 coupe (cheap thrill)||||reg||1
+Z||000001||HYPTNOTiSE||09-20-2000||01:10 PM||||here's a pic of my car with 18x7.5 konig monsoons.  <IMG SRC="http://members.aol.com/_ht_a/hyptnotise/graphics/entire.jpg"> <P>------------------<BR>       Mike LeCompte<BR>86 Fiero GT 3.2L w/ Nitrous<BR>  <IMG SRC="http://www.tcac.net/~daddyg/hypsig.gif"> ||||reg||1
+Z||000002||Shiner||09-20-2000||01:14 PM||||Hypno,<BR> I have been in love with those rims for months!  How much did they cost, and where did you get them?||||reg||1
+Z||000003||stsmithgt||09-20-2000||06:50 PM||||SHARP!!!!!!||||reg||14
+Z||000004||2xsess||09-20-2000||07:06 PM||||There is a black fastback around here with 17" wheels on it and it looks sharp!<P>Hypno those are some awesome wheels!!!!||||reg||1

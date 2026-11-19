@@ -1,0 +1,3 @@
+A||||1||JSocha||Another Parts dealer in Minnesota...||||1||
+Z||000000||JSocha||05-18-2001||06:02 PM||||Thought I would pass this along to those interested looking for Fiero Parts.<P>Strege Auto<BR>US Hwy 12 West<BR>RR 1, Box 443<BR>Ortonville, MN  56278<P>Phone: (320) 839-2579<P>Jim Strege, Owner<BR>Dean, Assistant<P>Dean says he has a friend with several Fiero's on his lot available for parts or parts car.<P>Very good source for finding parts and we have always been happy with them.<P>------------------<BR>     <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> ||||reg||1
+Z||000001||Standard||05-19-2001||02:30 AM||||cool!  Finally somebody that's kinda close.  Thanks for the info!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

@@ -1,0 +1,3 @@
+A||N||1||Bill Osmer||5-spd question||||3||
+Z||000000||Bill Osmer||03-08-2000||10:56 PM||||I don't remember seeing this clearly in a previous post - can a 5-spd tranny (from a 4 cyl) be "transplanted" into a 4-spd (6 cyl) vehicle??? If it can, is it difficult??||||reg||3
+Z||000002||SCCA FIERO||03-08-2000||11:35 PM||||Yes it can I have done it. I have the Isuzu 5 speed in my 88 Coupe with a 2.8 V6 from an 86 Fiero. Is it hard? I documented the process on my website,  <A HREF="http://msnhomepages.talkcity.com/RallyRd/scca_fiero/" TARGET=_blank>http://msnhomepages.talkcity.com/RallyRd/scca_fiero/</A> ||||reg||1

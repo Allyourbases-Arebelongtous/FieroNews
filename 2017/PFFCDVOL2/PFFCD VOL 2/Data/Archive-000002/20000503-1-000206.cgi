@@ -1,0 +1,5 @@
+A||||3||Cliff Pennock||Good to drive my Fiero again!
+Z||000000||Cliff Pennock||08-09-99||06:51 AM||||Oooooo it was good to drive my Fiero again today after three weeks without it (due to holiday)! There really isn't anything like it...
+Z||000001||DXR_DAD||08-09-99||07:15 PM||||Cliff,<br>Glad somebody is happy, my car has been down now for two weeks, that darn exhaust leak! Manifolds just got in from machine shop. welds and port job look good. had to wait on the pont. dealer to get new ones. But any day I too will know what you know, and feel what you feel, FIERO FEVER!!<p>Any way hope is all good. 
+Z||000002||Harry||08-09-99||08:11 PM||||Cliff,<br>I drive mine every day, in the last two years the wife and I have logged almost 50k....<br>221,000+ and still cranks up the juice like new!<br>Gotta love a good car.
+Z||000003||Silver Bullet||08-28-99||10:39 PM||||I believe we all know that feeling.  I can't stand going on a day trip in my girlfriends car (bcz mines a 2 seater).  Ain't nothing like FIERO FEVER!!!!!!<p><br>                       Team Fiero

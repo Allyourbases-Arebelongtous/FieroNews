@@ -1,0 +1,4 @@
+A||||2||TRiAD||eBay QUICK!||||1||
+Z||000000||TRiAD||10-24-2001||06:36 PM|||| <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=596760323&r=0&t=0" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=596760323&r=0&t=0</A> <BR><P>------------------<BR><B><I>Michael ~ triadtuning@hotmail.com</I></B><BR>-----------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/88FieroGTwhitefscustomcroppedmini.jpg"> <BR><I>Photoshop rendering of planned exterior modifications.</I>||||reg||1
+Z||000001||Reality||10-24-2001||06:39 PM||||I was there first do i win something???  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><p>[This message has been edited by Reality (edited 10-24-2001).]||||reg||1
+Z||000002||Master_Sushi||10-24-2001||09:22 PM||||Thats a good deal. If It was on ebay a few months ago I probbaly would have bought it. Not to far from me. HaHa, then I would have had 3 fieros!||||reg||6

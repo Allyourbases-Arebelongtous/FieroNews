@@ -1,0 +1,7 @@
+A||||5||deceler8||Question about laptop hard drive...||||1||
+Z||000000||deceler8||02-22-2001||12:02 PM||||I just got my hands on (really cheap) a Panasonic CF-41 Pentium laptop (gov't auction). Apparently to prevent sensitive information from being recovered, this laptop has no hard drive (damn those folks in Los Alamos).<P>Anyone know what kind of drive this thing takes ? I'm hoping Panasonic just used a generic type drive so I can pick one up on EBAY or something like that.<P>Anyone know what drive I need or where to find out what drive I need ?<P>And thanks in advance for whatever help you can provide.||||reg||1
+Z||000001||baldlobo||02-22-2001||03:04 PM||||look on panasonics site.||||reg||1
+Z||000002||deceler8||02-22-2001||03:15 PM||||There isn't any info on the Panasonic site about this laptop...probably because it's a 1996 or 1997 model.||||reg||1
+Z||000003||theogre||02-22-2001||08:44 PM||||The drives are standard but the laptop socket may not be. many of the laptops put the drives in little cariers. w/o the carier you can't plug in the drive. W/o seeing it I can't tell you if you could get away without the carier or not.||||reg||1
+Z||000004||deceler8||02-23-2001||09:04 AM||||The hard drive is a small removeable one that fits in the battery bay...doesn't appear to need a caddy like many I've seen.<P>Probably had some damning evidence regarding the Clinton pardons on it or something...probably why it was removed.||||reg||1
+Z||000005||Raydar||02-23-2001||02:18 PM||||Naaaahhhh. Prolly had Monica's e-mails.||||reg||1

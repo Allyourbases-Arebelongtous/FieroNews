@@ -1,0 +1,5 @@
+A||||3||V8Fiero||Sail Panels||||5||
+Z||000000||V8Fiero||10-15-2000||06:34 PM||||<BR> Was wondering what is the easiest way to remove the sail panels on a notchback? <P>Scott||||reg||5
+Z||000001||Bob Englert||10-15-2000||07:08 PM||||Paul McKibbin has an excellent writeup on his web site at <A HREF="http://www.angelfire.com/biz/fierosails/" TARGET=_blank>http://www.angelfire.com/biz/fierosails/</A> <P>He makes excellent replacement sail panels for the notchback cars as well.<BR>||||reg||1
+Z||000002||HugGRRRFiero||10-15-2000||09:19 PM||||Here's a thread about sail panels I wrote in from not too long ago.  Hope this helps.<P><A HREF="http://www.fiero.nl/forum/Forum2/HTML/005929.html" TARGET=_blank>84 Fiero Sail Panels</A><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/huggrrr.gif">          <BR>  <A HREF="mailto:HugGRRRFiero@hotmail.com">HugGRRRFiero@hotmail.com</A> ||||reg||1
+Z||000003||V8Fiero||10-15-2000||10:01 PM||||Thanks alot. Trying to salvage these to sell. They are in great shape except for the pontiac symbol. <P>Scott||||reg||14

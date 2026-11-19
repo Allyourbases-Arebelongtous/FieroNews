@@ -1,0 +1,2 @@
+A||N||0||grinthock||Toronto Fiero Sighting||||3||
+Z||000000||grinthock||04-21-2001||09:04 AM||||Saw a nice 86 GT Gold and Grey (gold body grey GFX)<P>The guy was probably about 45, nice guy, we talked while driving down Lakeshore (not easy!)  he had 260K on it and is planning a engine rebuild, asked me where I got mine done.  <P>Didn't ask him if he reads pennocks, and he wasn't in the GTA club.||||reg||3

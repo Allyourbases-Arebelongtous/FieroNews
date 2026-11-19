@@ -1,0 +1,4 @@
+A||||2||RossT||simple internet explorer 5.0 question||||1||
+Z||000000||RossT||01-22-2001||12:42 AM||||whats it called, and how do I disable the following in IE 5.0 When ever you start to type into a search window such as ebay the computer will remeber everything that you typed in before and bring it up in a window for you to choose.  I want to turn this off.<P>exampe:  Ebay search.  I will type F for fiero and IE brings up all versions of F*** that I have used before to choose from:<P>Fiero<BR>Fiero t-top<BR>Fiero 88<BR>etc etc etc.................<P>I hate this and want to turn it off!!<P>Thanks  Ross||||reg||1
+Z||000001||RaeQwan||01-22-2001||01:51 AM||||its called autocomplete its under Tools-Internet Options-Content..<P>------------------<BR>       <IMG SRC="http://www.fiero.nl/uploads/raeqwansig.gif"> ||||reg||1
+Z||000002||RossT||01-23-2001||12:30 AM||||Thanks Rae, found it and fixed/changed it!!||||reg||1

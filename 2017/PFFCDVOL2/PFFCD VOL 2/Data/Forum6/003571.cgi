@@ -1,0 +1,8 @@
+A||||6||dennis_6||Scorpions - Wind of change||||1||
+Z||000000||dennis_6||09-25-2001||03:20 AM||||Has anyone realized how appropiate this song is right now?||||reg||1
+Z||000001||Jaygee79||09-25-2001||12:20 PM||||I love that song.||||reg||1
+Z||000002||dennis_6||09-25-2001||12:43 PM||||It is an awesome song that is all the more relavent now.  ||||reg||1
+Z||000003||rodmcneill||09-25-2001||01:53 PM||||I think that song was played at some ceremony after the Berlin Wall came down.||||reg||1
+Z||000004||The Fieromaster||09-25-2001||02:53 PM||||I love that song.... reminds me of my best freind...  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/forum/smiley_damon.gif">       <FONT COLOR="red">"Raced That, Wrecked Better"</FONT>     <IMG SRC="http://www.fiero.nl/forum/smiley_damon.gif">    <BR>  <IMG SRC="http://www.askfelons.com/fieromaster/fieromastergif1.gif"">               <BR><B>~In Memory Of Jesse Cesek~ 1980-2000</B><BR><FONT COLOR="blue"><B>AIM: Fieromaster</B></FONT><BR><B><FONT COLOR="purple">1985 GT ~ Purple, Black and Yellow Interior(Fastback Converted)</FONT><BR><FONT COLOR="maroon">1997 Mitsu Eclipse GSX ~ Maroon w/ Hella Balls!(GSX = AWD, Turbo) DOA on 12/10/2000</FONT></B>||||reg||10
+Z||000005||dennis_6||09-25-2001||03:52 PM||||rodmcneill - very cool.<P>The Fieromaster - sorry to hear that.||||reg||1
+Z||000006||artherd||09-27-2001||06:34 PM||||I love this song.<P>------------------<BR>  <IMG SRC="http://www.cartsys.com/fiero/88ttop.jpg">  <BR>Ben Cannon<BR>88 Formula, T-top Metalic Red<BR>88 Formula, Silver<BR>87 Coupe, Metalic Red<BR>"Every Man Dies, not every man really Lives"<BR>                -Mel Gibson, "Braveheart"||||reg||1

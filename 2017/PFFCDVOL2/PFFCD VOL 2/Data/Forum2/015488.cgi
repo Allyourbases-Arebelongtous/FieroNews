@@ -1,0 +1,6 @@
+A||||4||fldevel||TPS screws wont loosten ||||8||
+Z||000000||fldevel||11-16-2001||03:25 PM||||argh .. i cant get the damn things off i dont want to strip the torx screws nor break them off ..any suggestions ??  oh its a v-6 2.8 ||||reg||8
+Z||000001||johnt671||11-16-2001||03:45 PM||||I don't know if your's is the same as a duke but I got mine out with a pair of needle nose vise grips.  The head of the screw is knurled so it's easy to get a good grip on them.||||reg||1
+Z||000002||fldevel||11-16-2001||03:48 PM||||naa it seems like the previous owner cross threaded them or something .. there coming out but HARD!!! if i can get away with leaving it in there and still remove the IAC i will be happy .. but i dont want to risk busting the TPS when trying to remove it .. GRR||||reg||1
+Z||000003||avengador1||11-16-2001||05:06 PM||||Try some penetrating oil like kroil or similar. Once you get them out, DO NOT REUSE them because they WILL break. I know this from personal experience.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1
+Z||000004||rogergarrison||11-16-2001||06:00 PM||||there tough. May even have to drill them out. a quality new TPS comes with new screws. If not, get stainless steel ones and use a dab of antisieze compound on them.||||reg||1

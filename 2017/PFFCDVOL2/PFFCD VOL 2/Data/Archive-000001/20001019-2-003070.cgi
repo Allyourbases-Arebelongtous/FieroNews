@@ -1,0 +1,7 @@
+A||||5||Loki||Red carbon fiber||||5||
+Z||000000||Loki||04-07-2000||01:59 PM||||Does anyone make a red carbon fiber kit for an 85 GT? Not a sticker type but the real thing?<P>Loki||||reg||5
+Z||000001||mwbackus||04-07-2000||04:28 PM|||| <A HREF="http://www.autodash.com/" TARGET=_blank>http://www.autodash.com/</A> ||||reg||1
+Z||000002||gixxer||04-08-2000||11:18 PM||||Actually Loki, I don't think there is such a thing as red carbon fiber. Altho my only exposure to the stuff is aircraft related (work), and motorcycle bodywork. The strands are a blackish color, and the epoxy that it is embedded in is clear. I suppose you could dye the epoxy while laying it up....<BR>I don't think I would like thin sheets of it inside a car unless the edges were CAREFULLY sealed, to prevent splinters.  ||||reg||1
+Z||000003||TOM||04-09-2000||12:08 AM||||I work with it too and by default it is black/grey. The colored stuff is dyed fiberglass cloth.||||reg||1
+Z||000004||Loki||04-09-2000||02:30 AM||||Thanx for the help...I found  that the autodash.com site has exactly what I want...Thanx again..<P><BR>Loki||||reg||1
+Z||000005||lowCG||04-09-2000||08:52 AM||||Looked like C-glass,with a reddish tint in the resin or something.<BR>The yellow,Kevlar-look looked like it might be alright,but afraid that might be a little too much even.<BR>I might go for the aircraft style,all black  panel scheme after giving it some thought.<BR>Body color might be neat,huh?||||reg||1

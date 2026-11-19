@@ -1,0 +1,3 @@
+A||||1||p-man||racing question?????????????????for the Pro,s||||1||
+Z||000000||p-man||03-22-2001||06:42 PM||||how much boost can the 95 series 2 natural aspirated motor take with only 15,672 miles on it if i add a turbo and still run pump gas.the motor is in the 88 gt and i want to be different and take advantage of a adjustable waste gate for those days at the track . when i can run race gas. and ripp up on imports.and has anyone on this site ever added a turbo to a 3.8 natural aspirated series 2 motor before||||reg||1
+Z||000001||Sleeper||03-22-2001||07:50 PM||||from what i know, i think 14 or 15lbs. is the max boost for a car without running a intercooler and you can go well beyond that with one, though 20lbs. would be the max for a stock motor.||||reg||1

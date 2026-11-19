@@ -1,0 +1,3 @@
+A||N||1||bilbo||Poly Bushing Install Question??||||5||
+Z||000000||bilbo||01-17-2001||11:14 AM||||I did a search on this subject and came to the conclusion that instead of changing just the dog bone bushing I should change all of them in the rear engine section.Can anyone tell me what it cost for complete replacement for the rear and how difficult a job this is.Can you change all of them with the cradle still in the car??!!! Thanks||||reg||5
+Z||000001||bHooper||01-17-2001||12:33 PM||||search under poly bushings, and NOPI.  you will find <B>all</B> the part numbers and prices, there.<P><BR>hoop||||reg||1

@@ -1,0 +1,2 @@
+A||||0||JohnF||North Richland Hills Fiero||||5||
+Z||000000||JohnF||12-10-2001||06:36 PM||||Who is the proud owner of a black aero nose coupe with wing and Harley Davidson graphics?  Car is usually parked on Rufe Snow Drive.<P>Yeah!  That's right.  Large Harley Davidson gold graphics!<P>------------------<BR>  <IMG SRC="http://albums.photopoint.com/j/View?u=1578096&a=12001107&p=57211671&Sequence=0"> ||||reg||5

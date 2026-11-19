@@ -1,0 +1,6 @@
+A||||4||Shaun41178||Where is CountIblis???||||1||
+Z||000000||Shaun41178||11-05-2001||03:09 PM||||Looking for him.  I know he put a gen 2 engine in his Fiero.  I would like to see pics of the install and see what was done about the dogbone setup.  If anyone knows where he is at that would be great<P>------------------<BR>Shaun 85 GT with nitrous<BR>0-60 in 5.6 seconds<BR>Shaun41178@hotmail.com<BR>PORN FOREVER!||||reg||1
+Z||000001||Cheever3000||11-05-2001||08:27 PM||||Last post I can find by him (using the new search) is July 23.  I dunno.<BR>||||reg||1
+Z||000002||Shaun41178||11-05-2001||10:26 PM||||yea I used the search too and I found him posting in the beginning and middle of august but that was it.  none sine.  Found him posting about aus fieros side scoops and body mods.<P>Maybe by keeping this near the top if he still visits he will see it.||||reg||1
+Z||000003||Philphine||11-05-2001||10:35 PM||||last i remember he had gotten rid of his fiero. i see it in the back lot of the place where he got it. he was talking about another he was looking at but thats the last i heard.||||reg||1
+Z||000004||Cheever3000||11-06-2001||11:49 AM||||"I've got a bad feeling about this" - Harrison Ford, Carrie Fisher <I>and</I> Mark Hamill, <I>Star Wars</I><BR>||||reg||1

@@ -1,0 +1,3 @@
+A||||1||LoW_KeY||Being its the holiday...||||1||
+Z||000000||LoW_KeY||12-10-2001||05:48 PM||||Anyone wanna lend me 20k?? so I can buy a V8 fiero from Archie  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>hehe.. I go there and drool, I'm beginning to think that 10k won't be enough to buy a V8/Northstar.<P>I plan in 2002 for a V8 to come strolling in my driveway, just have to make sacrifices and save! grr.. <P>-KC<P>------------------<BR>AIM: FierFormula88   <P>   <IMG SRC="http://www.fiero.nl/uploads/low_keysig.gif"> ||||reg||1
+Z||000001||MooCow||12-11-2001||12:38 AM||||When you get it can I have a ride  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>Thanks Ken<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/forum_pic.jpg"> ||||reg||6

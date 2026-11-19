@@ -1,0 +1,2 @@
+A||||0||RossT||NOS  88 Forumula found||||1||
+Z||000000||RossT||11-18-1999||12:24 AM||||Doing a search for 1988 fiero on classifieds2000.com, I found a yellow 88 formula,sunfroof car, for sale in the boston area with only 19 miles on it.  And I thought that my fiero had low miles on it.  BTW they want $14,950 for it.  When you think about what a new compact car goes for these days, its not such a bad price.<P>Ross||||reg||1

@@ -1,0 +1,4 @@
+A||||2||mbramble||Question About Headlight Assembly||||1||
+Z||000000||mbramble||04-05-2001||07:54 AM||||I have a set of headlight assemblies that were in the trunk of my 85 GT project car.  How can I tell if they are the older style, or the newer style??  There is no guarantee that they came from this car originally, in fact I doubt it  -- so I'm wondering if they are the new, improved units....<P>Thanks,<BR>Mike<BR>||||reg||1
+Z||000001||StuGood||04-05-2001||10:24 AM||||One way to tell is, the old style had one 2-pin connector, plus a separate blue wire with white stripe.  <P>The new style has just one two-pin connector, but no blue wire.<BR>||||reg||1
+Z||000002||theogre||04-05-2001||07:22 PM||||I don't beleive there is any diferance in the assembly except the motor used. <P>If the wires confuse you... The new motors don't have the rectangular limit switch on the side of the motor shell.||||reg||1

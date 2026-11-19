@@ -1,0 +1,3 @@
+A||||1||Smokey||interesting Fiero story||||6||
+Z||000000||Smokey||03-06-2000||09:15 PM||||i was was talking to my friends boss the other day and he was telling me about a pontiac dealer he was at here in PA where they still had a 1984 fiero sitting in the showroom with only .7 miles on it. The thing of it is after being in there for so long the paint is all faded from the sun comming thru the showroom glass and beating down on the car....but still rather interesting||||reg||6
+Z||000001||Gokart||03-07-2000||08:48 PM||||Is it still there now for keepsake or is it still for sale? If so, I wonder how much!||||reg||5

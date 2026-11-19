@@ -1,0 +1,3 @@
+A||||1||formula2||My first problem........||||9||
+Z||000000||formula2||07-24-2001||09:13 PM||||I have a 86 Fiero GT .  Both hinges of my rear deck lid are broken and now it is kind of loose...How can i fix this or do I have to get my car to a body-shop??????<BR>Can I drive it there???<BR>it is attached to the car by some torque rod only..<p>[This message has been edited by formula2 (edited 07-24-2001).]||||reg||9
+Z||000001||theogre||07-24-2001||11:26 PM||||you need new hinges or a skilled welder. not a body shop. (the hinges need to be off to be repaired.... It's really better to get "new" ones.)<P>as long as you can get it latched it won't go anywhere...||||reg||1

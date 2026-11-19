@@ -1,0 +1,4 @@
+A||||2||FieroHarry||Testing 1 2 3||||1||
+Z||000000||FieroHarry||05-22-2001||05:28 PM||||Just testing if its crooked its because im being yelled at to go eat dinner!<P>------------------<BR><B>Harry Waggoner</B><BR>1985 GT 263K+ <I>"TEMPTATION"</I><BR><B>"Im not driving to fast, Im flying to low!"</B>||||reg||1
+Z||000001||FieroHarry||05-22-2001||06:39 PM||||Maybe this time it will work for me.<BR>Im not to compsmart <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR> <IMG SRC="http://www.fiero.nl/uploads/Harrys85.jpg"> <P>------------------<BR><B>Harry Waggoner</B><BR>1985 GT 263K+ <I>"TEMPTATION"</I><BR><B>"Im not driving to fast, Im flying to low!"</B>||||reg||12
+Z||000002||Urchin||05-22-2001||07:16 PM||||Wow!  That looks really sharp.  That scoop looks a little different than the typical ones I see (smoother).  Where'd you get it?<P>------------------<BR>If you can read this, I'm parked.<BR> <IMG SRC="http://www.fiero.nl/uploads/signature_8.jpg"> ||||reg||1

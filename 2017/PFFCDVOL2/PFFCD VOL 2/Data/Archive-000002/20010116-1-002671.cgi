@@ -1,0 +1,5 @@
+A||||3||ChadMan||Mid-Ohio - last minute inquiry||||5||
+Z||000000||ChadMan||06-23-2000||02:27 PM||||Let's get a last-minute head count here!  Remember it's only $22/person to participate, the event will take place rain or shine, and because the Cleveland guys have already reserved a corral, you can still take part even if we haven't sent your name in - just show up and sign the waiver!<P>So who's in?||||reg||5
+Z||000001||87ECO5||06-23-2000||03:58 PM||||Everybody must have replied at the same time which caused the server to crash!    <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>I'm in, ChadMan!  See you at 7:45 Sunday morning.<P>2M4 Dale - we'll see you at Wendy's on 97 between 8:30 and 9:00.||||reg||14
+Z||000002||Monkeyman||06-23-2000||04:51 PM||||Wish I was going! <IMG SRC="http://www.fiero.nl/forum/frown.gif">  Hope you guys have fun.  I'll see everyone at the August FOG bash.<P>Dave||||reg||1
+Z||000003||2M4 Dale||06-24-2000||12:11 AM||||See Ya Sunday...Rain or Shine <IMG SRC="http://www.fiero.nl/uploads/biggrin.gif"> ||||reg||14

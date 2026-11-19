@@ -1,0 +1,3 @@
+A||||1||Jonathan||Automobile Magazine Fiero Response||||1||
+Z||000000||Jonathan||12-08-2000||08:35 AM||||(Oops, a little behind on that one  <IMG SRC="http://www.fiero.nl/forum/redface.gif">)<BR>PS.  Read the last paragraph of the article.   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/Fierotag2.jpg">  <p>[This message has been edited by Jonathan (edited 12-08-2000).]||||reg||1
+Z||000001||87ECO5||12-08-2000||09:08 AM|||| <A HREF="http://www.fiero.nl/forum/Forum1/HTML/004674.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/004674.html</A> ||||reg||1

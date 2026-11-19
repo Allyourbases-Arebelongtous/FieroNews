@@ -1,0 +1,7 @@
+A||||5||speed racer||blinkers dont work||||13||
+Z||000000||speed racer||07-04-2000||07:29 PM||||My blinkers don't blink they just stay on when i flip the switch? Please help.||||reg||13
+Z||000001||Old Lar||07-04-2000||09:26 PM||||Blown fuse, flasher unit, turn signal bulb. pick one.||||reg||3
+Z||000002||fropuff||07-04-2000||11:53 PM||||If the indicator light is on and continues to stay on, it is probably the bulb(?)  That's what happened on my '80 Olds.  ||||reg||1
+Z||000003||WGraffiKs||07-05-2000||03:54 PM||||After checking ALL the turn indicator lamps, and replacing any that are burned-out, do you happen to have an alarm installed?  The diodes connecting from the alarm to the turn signals (blink when the alarm is armed/disarmed) can go bad, causing the same symptoms you describe.||||reg||1
+Z||000004||StuGood||07-06-2000||06:18 PM||||One more thing to try  - see if ground wire from turn signal socket is connected to a good ground.  Especially true if there's any evidence of collision damage on the affected side.    Good luck  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> !||||reg||3
+Z||000005||bHooper||07-06-2000||07:43 PM||||and if <B>all that</B> didnt work, check the flasher.  it is located to the right of the steering colum (under dash).  it is a round metal "can".  swap it with the "emergency flasher" from under the dash on the pasenger side, for testing (Ogre taught me that!)... which brings me to a question.<P>is it just your turn signals, or does your hazards not work either?<P>------------------<BR>hoop||||reg||4

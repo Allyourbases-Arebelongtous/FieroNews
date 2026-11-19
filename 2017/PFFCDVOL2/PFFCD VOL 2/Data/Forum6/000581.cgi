@@ -1,0 +1,3 @@
+A||||1||SN1PERVII||Isuzu e-brake problem||||1||
+Z||000000||SN1PERVII||08-10-2000||11:11 AM||||Hi. I just bought an Isuzu TrooperII with rear disc brakes. the truck stops fine but the e-brake will not hold on even a slight slope. In neutral I cant push the truck so i figure that they just need adjustment any ideas on how that can be done?<BR>||||reg||1
+Z||000001||Oreif||08-10-2000||11:18 AM||||You could try a few things. First get in the vehicle and apply the brakes, then pump the E-brake pedal a few times. This is how you adjust them on the old F bodies. Second, take a look at the rear pads they could just be worn.||||reg||1

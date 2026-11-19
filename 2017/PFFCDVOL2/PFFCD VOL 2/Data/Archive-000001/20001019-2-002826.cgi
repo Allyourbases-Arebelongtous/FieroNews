@@ -1,0 +1,3 @@
+A||N||1||Haze_Performance||Flush Headlight Kit?||||5||
+Z||000000||Haze_Performance||03-21-2000||08:03 PM||||Anyone know if there is a flush plastic/glass covered headlight kit with 4 round headlights for my 85 2M4? Im looking for a complete kit. ||||reg||5
+Z||000001||TOM||03-22-2000||12:09 AM||||Gary has them for $329.95 at <A HREF="http://www.gscustom.com/fiero.html" TARGET=_blank>http://www.gscustom.com/fiero.html</A>  I have them with square lights for $200 <A HREF="http://www.digitalfusion.on.cahttp://albums.photopoint.com/j/View?u=141908&a=1039804&p=15308105&Sequence=0/tomfiero/" TARGET=_blank>http://www.digitalfusion.on.cahttp://albums.photopoint.com/j/View?u=141908&a=1039804&p=15308105&Sequence=0/tomfiero/</A>  ||||reg||1

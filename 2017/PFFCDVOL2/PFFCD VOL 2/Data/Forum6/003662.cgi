@@ -1,0 +1,4 @@
+A||||2||GTMike||testing out my sig picture||||6||
+Z||000000||GTMike||10-03-2001||06:45 PM||||testy testy<P>------------------<BR>87GT mostly stock, cold air intake, no cat. <IMG SRC="http://www.fiero.nl/uploads/Fiero_Front_Rightsmall.jpg"> ||||reg||6
+Z||000001||GTMike||10-03-2001||06:46 PM||||cool it worked   i should have a new updated pic with my black strip painted white and my new raised whing.  ||||reg||1
+Z||000002||wkayl||10-03-2001||07:17 PM||||I think I saw your car yesterday. Were you in a driveway on the north side of Prospect just east of Shields?<P>------------------<BR>     <IMG SRC="http://www.fiero.nl/uploads/sig_2.jpg">    <IMG SRC="http://www.fiero.nl/uploads/usa1017[1].gif">   <BR>Dnyee's 88 Formula, Casey's 86GT, Wayne's 86GT.  <BR>We consider my wife as being "Fiero Challenged"||||reg||1

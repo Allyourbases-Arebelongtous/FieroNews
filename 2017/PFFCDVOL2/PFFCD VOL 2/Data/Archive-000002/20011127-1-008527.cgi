@@ -1,0 +1,3 @@
+A||N||1||JohnAC||VIN Question||||1||
+Z||000000||JohnAC||07-01-2001||11:10 PM||||I recently took a look at my '88 Coupe's VIN# and compared it to the information in the Haynes Repair Manual.  Everything matched up except the Body Types positions.  In the body types positions I have an '11'.  According to the Haynes manual 11 doesn't exist and 27 is the Coupe-2 door Notchback.  Can anybody help me w/ this one?||||reg||1
+Z||000001||V8Fiero||07-01-2001||11:14 PM||||Are you sure the 11 isnt a 77? That shows a coupe model. Run your vin through the Vin decoder at <BR> <A HREF="http://www.fiero.net" TARGET=_blank>http://www.fiero.net</A> ||||reg||1

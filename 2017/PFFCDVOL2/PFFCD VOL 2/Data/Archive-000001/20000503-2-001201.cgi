@@ -1,0 +1,2 @@
+A||N||0||SloPonti||someone help my fiero again||||9||
+Z||000000||SloPonti||10-24-1999||02:06 PM||||i replaced the timing gear this weekend and got it all back together today and now the car runs decent but the oil pressure light comes on when i hit high rpms and then it goes back off and also i have a little gear chatter now-does this go away or not or did i do something wrong? i did make sure i got the gears on the right way and i did make sure to line up the timing marks on the gears! someone help me again and thanks abunch in advance!<BR>Rob||||reg||9

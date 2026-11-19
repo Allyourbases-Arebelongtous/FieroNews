@@ -1,0 +1,2 @@
+A||N||0||85ZainoGT||SKITIME||||1||
+Z||000000||85ZainoGT||10-14-2001||09:38 PM||||I dont think the PMs are working right now, so I will respond here, are there any problems with your car?  if so, let me know, but other than that, im all for the trade..<P>------------------<BR>Paul Ventimiglia<BR>1985 White/Silver GT <BR>2.8L 4 Speed LOADED :)<BR>    <IMG SRC="http://www.fiero.nl/uploads/Sigpic2529_1.jpg"> ||||reg||1

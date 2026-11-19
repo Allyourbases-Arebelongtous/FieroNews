@@ -1,0 +1,7 @@
+A||N||5||AusFiero||Just testing my signature file. No other content.||||7||
+Z||000000||AusFiero||10-12-2001||08:31 PM||||Well ok some content. Shall I babble useless stuff now to fill up a few lines or just leave it at this. Hmmm maybe I should not write anymore so I can go chase my 2 year old son and steal his doughnut  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>     <IMG SRC="http://www.jadeweb.com.au/fiero/ausfiero2.gif">    <BR><A HREF="http://www.jadeweb.com.au/fiero" TARGET=_blank>My Fiero</A> | <A HREF="http://www.fieroshop.com.au" TARGET=_blank>Fiero Accessories</A>||202.139.20.3||reg||7
+Z||000001||maryjane||10-12-2001||10:02 PM||||a donut! a donut thread? are we gonna leave it to rest? We can blame it on the Aussie, yeah, that's the ticket. It's his fault.||||reg||1
+Z||000002||rodmcneill||10-13-2001||01:19 AM||||Donuts in Australia? I did not know that! Is there some kind of special down-under donut that we should know about?||||reg||12
+Z||000003||Brian87egotrip||10-13-2001||06:53 PM||||I'll take a dozen Aussie donuts.  How much with shipping.  They don't break easy do they?<P>------------------<BR>Brian                    87GT||||reg||1
+Z||000004||AusFiero||10-13-2001||07:22 PM||||LOL. Yes we have donuts and policeman. The former isn't associated with the first. Our police eat McDonalds, because they get it free.||||reg||1
+Z||000005||California Kid||10-13-2001||07:27 PM||||Hey Aus..........Nice Signature!<P>You must have a lot of fat Cops down there!!!||||reg||1

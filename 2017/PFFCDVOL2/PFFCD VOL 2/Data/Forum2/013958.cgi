@@ -1,0 +1,4 @@
+A||||2||gt boy||different 2.8 blocks||||1||
+Z||000000||gt boy||09-26-2001||10:30 PM||||is it true that some 2.8l blocks can not be used to rebuild a wore out fiero block?<P>i heard that some are a different config.<P>------------------<BR>"it's too bad he had to run out of talent half way through the corner..."||||reg||1
+Z||000001||FieroBUZZ||09-27-2001||11:09 AM||||As far as I know, the RWD blocks are different, having the starter on the wrong side.  Some of the heads are as well.<BR>Gary||||reg||1
+Z||000002||terryk||09-27-2001||11:15 AM||||You don't want to use a pre-85 block. Those are the smaller journal cranks (63mm). In mid-year 85, GM made the switch. All Fiero's got the 67mm, but the other cars switched as stock ran out.<P>Either use a Fiero V6 block or any 86+ FWD block.<P>TK<p>[This message has been edited by terryk (edited 09-27-2001).]||||reg||1

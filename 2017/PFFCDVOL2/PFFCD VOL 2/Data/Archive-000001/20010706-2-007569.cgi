@@ -1,0 +1,4 @@
+A||||2||martin1875||tire size help||||4||
+Z||000000||martin1875||12-30-2000||04:06 PM||||i just brought a 85 se;. i need some new tires.. the tires on it now are 205/70/14. is this a good size. i have a 86 se and it has 215/6014. i have not driven either car yet. i was wondering if any body can offer me any help on the tire size. i don't know much about tires size  and performance. i just want to get some good tires for now until i get better rims||||reg||4
+Z||000001||Greg Piet||12-30-2000||04:21 PM||||on the door of my 85 SE it says I am supposed to use 215/60/14.||||reg||1
+Z||000002||Philphine||12-30-2000||04:24 PM||||2 of my 4cyl coupes came with 215/60-14's. seems to be most common for the 14" wheels.<P>------------------<BR>Phil T<P>'87 coupe (feral)<BR>'84 indy<BR>'84 coupe (cheap thrill)||||reg||1

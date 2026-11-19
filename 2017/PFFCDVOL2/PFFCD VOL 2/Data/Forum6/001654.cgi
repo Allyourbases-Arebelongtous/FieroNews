@@ -1,0 +1,4 @@
+A||||2||rodmcneill||Panasonic camcorder battery for sale||||1||
+Z||000000||rodmcneill||03-16-2001||12:29 AM||||I have a couple of camcorder batteries for sale They are brand new, still in the package. They fit the Mini-DV camcorder, they are good for up to 2hr 50min, Panasonic part# CGR-D220. They normally sell locally for $99.00, I have seen them on the web as low as $79.00. I am selling them for $60.00 plus shipping. This is a Lithium-ion battery. E-mail me if interested. ||||reg||1
+Z||000001||frontal lobe||03-17-2001||12:40 AM||||Will that work in a jvc dvl 505 do you think?  I thought jvc and panasonic co-marketed a lot of the same stuff.  The jvc dvl 505 is a mini-dv.||||reg||1
+Z||000002||rodmcneill||03-17-2001||01:41 AM||||Frontal lobe, I am not sure what other models this will fit, the package says, replaces part# CGR-D120 and part #PV-DBP8. There is probably a site on the net with cross references to other brands.||||reg||1

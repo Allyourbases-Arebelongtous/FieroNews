@@ -1,0 +1,5 @@
+A||||3||Double07||computer chip||||1||
+Z||000000||Double07||10-25-2000||04:19 PM||||does anyone know where i can get a stock computer chip for my 86 6cyl 4sp  for a good price?||||reg||1
+Z||000001||Seanh||10-25-2000||05:52 PM||||Not sure about a factory chip, but <A HREF="http://www.fierostore.com" TARGET=_blank>The Fiero Store</A> sells aftermarket performance chips. Check it out, might be cheaper.<P>------------------<BR>Sean Heberly<BR>Silver 86 GT 2.8<BR>Killer Stereo System<p>[This message has been edited by Seanh (edited 10-25-2000).]||||reg||1
+Z||000002||Old Lar||10-25-2000||06:02 PM||||You could try Kick Hill Farm, Twin Lakes Fiero, The Fiero Factory and other Fiero dismantelers.||||reg||1
+Z||000003||Seanh||10-25-2000||07:34 PM||||You also might check this out: <A HREF="http://www.geocities.com/MotorCity/1930/fiero.html" TARGET=_blank>Worldwide Fiero Links</A> You might find a site there that sells them. Also, check out <A HREF="http://www.kickhill.com/fiero.html" TARGET=_blank>Kick Hill Farms</A> I didnt see any on the web site, but you might call them and ask.<P>------------------<BR>Sean Heberly<BR>Silver 86 GT 2.8<BR>Killer Stereo System||||reg||1

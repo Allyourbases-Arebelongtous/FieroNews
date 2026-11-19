@@ -1,0 +1,2 @@
+A||||0||BAM-BAM||Thanks again Rodney!||||12||
+Z||000000||BAM-BAM||04-11-2000||12:09 AM||||    Got the new headlight(right) gear installed in the 85GT this weekend. Works great! <IMG SRC="http://www.fiero.nl/forum/smile.gif"> I was going to replace the left one, but instead I think I'll just tear it apart and grease it. Maybe replace the bumpers. If I could get a couple more of the bumpers I would appriciate it. Wasn't sure if you sold them seperate. Let me know.<P> Thanx, BAM-BAM  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||12

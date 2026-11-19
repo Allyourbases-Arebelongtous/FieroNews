@@ -1,0 +1,5 @@
+A||||3||Scott||Poly engine/trans mount questions||||1||
+Z||000000||Scott||10-18-2001||12:10 AM||||Does anybody have poly engine/trans mounts.  I'm considering them (from WCF).  Also, who makes the best fitting aluminum craddle mounts?<BR>TIA<BR>Scott||||reg||1
+Z||000001||Joe Torma||10-18-2001||12:48 AM||||I made my own.  Lots of vibration through the cradle!  It isn't that bad...its reassuring that the drivetrain is securely fastened! Dunno about the aluminum...I used poly.||||reg||1
+Z||000002||Scott||10-18-2001||01:23 AM||||How did you make your own?  Are they copies of the OEM rubber in poly, or something else?<BR>Scott ||||reg||1
+Z||000003||Joe Torma||10-18-2001||01:37 AM||||I used GM transmission mounts.  They have a safty interlock.  I engineered the front mount for my 3400...but I'm sure I could fabricate something for stock.<P>The poly mounts cost about $25 each.  I used the stock mounts minus the rubber.  I could make them for you(or whoever) if you want, but I would need your old mounts.<P>I'll see if I can find my pics.<p>[This message has been edited by Joe Torma (edited 10-18-2001).]||||reg||1

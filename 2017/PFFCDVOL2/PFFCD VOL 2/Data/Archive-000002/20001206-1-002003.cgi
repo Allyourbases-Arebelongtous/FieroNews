@@ -1,0 +1,7 @@
+A||||5||TOM||Hey all you t-top guys||||1||
+Z||000000||TOM||04-29-2000||12:11 AM||||I will post it here since I cant get technical to work. I have lock pin bushings. To fix those broken corner cap sleeves. <A HREF="http://albums.photopoint.com/j/View?u=141908&a=1039804&p=20337841&Sequence=0" TARGET=_blank>http://albums.photopoint.com/j/View?u=141908&a=1039804&p=20337841&Sequence=0</A> ||||reg||1
+Z||000001||turbo86se||04-29-2000||01:13 AM||||TOM, I need a set of those bad!!!  Maybe these will take care of that squeak squeak squeak!!!!<BR>Can I start a tab?   <IMG SRC="http://www.fiero.nl/forum/smile.gif">  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||10
+Z||000002||RobertVol||04-29-2000||01:36 AM||||I could use some to. I think it may take car of the squeek//// how much do you want ? Let me know ||||reg||1
+Z||000003||TOM||04-29-2000||11:49 AM||||For you two guys I will send a set free of charge. Kind of as a test to make sure they are right. Just send me an address and I will get them off. I will also need to know of how they fit and work so I can change them if needed. Do we have a deal?||||reg||1
+Z||000004||RobertVol||04-29-2000||08:31 PM||||You got it Tom !<P>You got mail comin! ||||reg||1
+Z||000005||turbo86se||04-30-2000||10:49 AM||||TOM, you're the man!!!<BR>Thanks a million!!!!    <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

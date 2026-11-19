@@ -1,0 +1,4 @@
+A||||2||GTFiero1||anyone from south jersey?¿?¿?¿||||1||
+Z||000000||GTFiero1||10-21-2001||03:45 PM||||is anyone here from souther jersey,particularly Camden County area. i see fieros around here. about a month ago i seen my first fastback in person. first a 86-87 red/silver GT went by then an 88 white GT in oaklyn, then there ia a black 86 se in audabon, i saw a maroon GT in oakly, there is an 84 2M4 silver at CVS in audabon, and finally i saw a 86-87 GT maroon red in Brooklawn are any of yous here?<P>------------------<BR>Adam J. B.||||reg||1
+Z||000001||fierodoug5||10-22-2001||09:50 AM||||I live in Burlington County NJ. <BR>Doug Venner    Browns Mills, NJ<BR>85 GT, 86 SE, 86 SE, 86 GT, 87 SE||||reg||1
+Z||000002||hugh||10-22-2001||07:42 PM||||I live in Clementon and have an 88GT with a ZZ3 engine(345hp) that's coming out for a 3800SC. <P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/hugh_sig.gif"> ||||reg||1

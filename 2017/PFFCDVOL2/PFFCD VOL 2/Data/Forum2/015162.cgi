@@ -1,0 +1,2 @@
+A||N||0||MR2KLR||FERRARI MOMO!! (PLEASE READ)||||1||
+Z||000000||MR2KLR||11-06-2001||08:14 PM||||<BR>Could you please post the info no your Euro Notchback tail light with out pics, my web tv won't load  your other post on the euro lights. I did "strip" your pics from th post though and put the here  <A HREF="http://community-2.webtv.net/TOMTOM81/JPG/" TARGET=_blank>http://community-2.webtv.net/TOMTOM81/JPG/</A> <BR>thanks,<BR>   Tom<BR>||||reg||1

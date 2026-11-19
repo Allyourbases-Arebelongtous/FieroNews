@@ -1,0 +1,8 @@
+A||||6||rprevo||5 SPD Muncie||||6||
+Z||000000||rprevo||09-06-2000||10:55 PM||||<BR> What is the final drive gear in the<BR>Muncie 5 spd in an 88 GT with a 2.8?<P>Many thanks in advance.<P>Ray||||reg||6
+Z||000001||Shiner||09-06-2000||11:13 PM||||3.61||||reg||1
+Z||000002||lou_dias||09-07-2000||07:20 AM||||i THOUGHT the v6 4speed was 3.61 and the 5 speed was 3.65<P>||||reg||1
+Z||000003||rockcrawl||09-07-2000||08:42 PM||||OK, here's another question. Does the Beretta Muncie/Getrag have the same ratio as the Fiero Muncie/Getrag? <P>------------------<BR>Jon Lagler<BR>'86 GT 3800 (for sale)<BR>'87 GT (noisey 2.8)<BR>4.9 liter V8 Testarossa Spyder (under construction)||||reg||5
+Z||000004||bHooper||09-07-2000||08:53 PM||||i have a getrag out of a 87 corsica... runs just fine... seems to work better than my old fiero getrag!  i do not know what the gear ratio's are, however.<P>------------------<BR>hoop<BR>Red '86 GT||||reg||1
+Z||000005||PJ||09-07-2000||09:32 PM||||Around '93-'94 the final drive ratio was shortened to 3.94 on the A bodies (Beretta, Achieva & Grand Am) with the Quad Four. Also, fourth was shortened to 1.03 and fifth to .81. GM called this gearbox "New Venture." The case is different and the throwout bearing is hydraulic but except for one or two parts the internals fit right into a Fiero case. Since doing this conversion I can now reach 5,500 RPM in fifth with 225/50 15's. The hard part is finding one of these gearboxes. I paid $400 for one about three years ago.<P>PJ<BR>ITA #66 Black<BR>||||reg||1
+Z||000006||rprevo||09-08-2000||05:46 AM|||| Thanks!<P><BR> Ray<P>------------------<BR><p>[This message has been edited by rprevo (edited 09-08-2000).]||||reg||1

@@ -1,0 +1,2 @@
+A||N||0||Haze_Performance||ATTN: Mope||||14||
+Z||000000||Haze_Performance||09-26-2001||03:41 AM||||Hey bud... did you ever get my payment?  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/smallindysig_copy.jpg">     .     <IMG SRC="http://www.fiero.nl/uploads/smallredsig.jpg">     .     <IMG SRC="http://www.fiero.nl/uploads/fullstaff_1.gif"> <BR><I><B><FONT COLOR="red">Classic Fiero Owners</B></I></FONT> - <FONT COLOR="red"><A HREF="http://www.WS6Fiero.com" TARGET=_blank>Click Here</A></FONT>||||reg||14

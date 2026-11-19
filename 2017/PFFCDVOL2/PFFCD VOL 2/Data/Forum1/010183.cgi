@@ -1,0 +1,2 @@
+A||||0||Fiero_24||Fierorama||||1||
+Z||000000||Fiero_24||09-09-2001||10:31 PM||||Well aside from the rain it was fun to hang out with the fellow Fiero owners, and meet some of the Forum members too.  Congrats to Monkeyman for winning the $500 gift certificate!!<P>Craig<P>------------------<BR>  [<A HREF="http://www.geocities.com/fiero_24" TARGET=_blank>http://www.geocities.com/fiero_24</A> <BR>1987 GT||||reg||1

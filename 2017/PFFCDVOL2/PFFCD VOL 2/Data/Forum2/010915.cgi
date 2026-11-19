@@ -1,0 +1,2 @@
+A||||0||TRiAD||Rolling Stock info needed...||||5||
+Z||000000||TRiAD||05-31-2001||09:57 PM||||OK, wheel/tire sizes and offsets that would work for the following car...<BR>'88 GT, V8 swap, lowered. <P>I'm told 17x7.5s will fit, with +35 offset, and 215/40s up front, and 235/40s in the rear. <P>THANKS!<P>------------------<BR><B><I>Looking for a white '88 GT 5 sp...<BR>...Could it be...Found?<BR>Stay tuned!</I></B>||||reg||5

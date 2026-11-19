@@ -1,0 +1,14 @@
+A||N||12||87GTjoe||Kerri's pic page||||11||
+Z||000000||87GTjoe||05-22-2001||09:27 AM||||My wife and I were looking at the site that Kerri has put together and it was pointed out to me that"cadaver"forgot to put his "sword"in its sheath.I think you know what I mean... ||||reg||11
+Z||000001||FieroJoe||05-22-2001||09:40 AM||||Hmm, I just saw that..I sure hope it is something else, maybe a piece of leather of his armor reflecting wierdly??  Hopefully!<BR><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/joesig_1.jpg"> <BR>'87 Coupe 5spd.<BR>AIM:FieroJoe87||||reg||1
+Z||000002||sqoach||05-22-2001||11:24 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by 87GTjoe:<BR><B>My wife and I were looking at the site that Kerri has put together and it was pointed out to me that"cadaver"forgot to put his "sword"in its sheath.I think you know what I mean... </B><HR></BLOCKQUOTE><P>LMAO!||||reg||11
+Z||000003||84Bill||05-22-2001||12:49 PM||||LOL I didnt see that till NOW!!||||reg||10
+Z||000004||87ECO5||05-22-2001||01:01 PM||||Why the secret URL?||||reg||5
+Z||000005||Ken Wittlief||05-22-2001||01:02 PM||||now you know why the URL is not public (c:||||reg||1
+Z||000006||bzzzted||05-22-2001||02:35 PM||||Either I am stupid or missing something here? or am I just not getting the joke, who is Kerri?, what page, help please !!!   explain this to me, what is the punch line?||||reg||9
+Z||000007||84Bill||05-22-2001||03:04 PM||||This might clear things up a bit<BR> <A HREF="http://www.fiero.nl/forum/Forum2/HTML/009756.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/009756.html</A> ||||reg||14
+Z||000008||JSocha||05-22-2001||03:19 PM|||| <IMG SRC="http://www.fiero.nl/forum/confused.gif">  I don't get it  <IMG SRC="http://www.fiero.nl/forum/confused.gif"><P>84Bill, what is the URL to the site everyone is talking about?  Is someone afraid the government is going to be out numbered by Fiero owners or what?<P>------------------<BR>     <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> ||||reg||1
+Z||000009||mrfixit58||05-22-2001||03:29 PM||||<BR>Kerri started a web page to show pictures of those who participate in Pennock's Fiero Forum. The site show the cars AND their owners. To get the URL to the site, simply send Kerri a picture of your car AND yourself. No participate-y no look-y.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P><P>------------------<BR>Roy :D<BR>87 GT  <IMG SRC="http://www.fiero.nl/uploads/pennocksize.JPG"> ||||reg||6
+Z||000010||84Bill||05-22-2001||03:45 PM||||MrFixit summed it up for you. ||||reg||6
+Z||000011||Voytek||05-22-2001||05:19 PM||||Burp.||||reg||1
+Z||000012||cadaver||05-22-2001||10:23 PM||||Lol I have an even better pic I should send in. And yes that was the tail of a belt.||||reg||1

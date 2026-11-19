@@ -1,0 +1,3 @@
+A||||1||ezsurf||Portable Wheel Balancer||||5||
+Z||000000||ezsurf||05-22-2000||08:37 PM||||Does anyone have any experience using a portable wheel balancer?  I have seen these priced for around $70.00.  I already rotate my own tires, it would be nice to be able to balance them as well.  I'm wondering if spin balancing is a lot better, or if they're both about the same?  Anyone ever used one?||||reg||5
+Z||000001||Phaeton||05-22-2000||10:52 PM||||The wider the rim the more it needs spin balanced.<BR>Static balance takes out the up and down for the entire wheel assembly.<BR>Spin balance separates inner and outer rims to cancel diagonal imbalance as well.<BR>Skinny wheels don't really care at all, wide wheels don't care very much unless going very fast.||||reg||12

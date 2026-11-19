@@ -1,0 +1,3 @@
+A||N||1||Ozzy||Odd Stereo ???||||5||
+Z||000000||Ozzy||04-05-2000||12:06 AM||||hi Gang...<P>My nw GT came with an aftermarket stereo but the dealership I bought it from said it was a repo and where not able to redeem the faceplate...  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>It is an Alpine CDM 7834. Does anyone know of other sources than Alpine for this? They want $95.00. This isn't bad for a $220.00 stereo but if I can get it for less I'm all over it! <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Ozzy||||reg||5
+Z||000001||SloPonti||04-05-2000||12:23 AM||||check ebay for a junk or cheap one-then just use the face and you'll have a new radio!||||reg||1

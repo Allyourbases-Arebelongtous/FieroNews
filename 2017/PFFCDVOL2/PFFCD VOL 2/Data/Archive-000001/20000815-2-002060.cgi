@@ -1,0 +1,6 @@
+A||||4||curtis||are all the hoods the same?||||6||
+Z||000000||curtis||01-19-2000||09:20 PM||||I am new to the Fiero world. I just bought an 86 GT with 88000 and put in a new clutch.<BR>the previous owner went through a parking lot and caught the right head light on a cable and ripped off the brace. It tore up the underside of the hood and I need to know if any year will work.    thank you<p>[This message has been edited by curtis (edited 01-19-2000).]||||reg||6
+Z||000001||TOM||01-19-2000||09:36 PM||||All years are the same for most all the body parts. I can get you the headlight pieces you need but I dont ship hoods||||reg||1
+Z||000002||curtis||01-19-2000||10:15 PM||||Thanks Tom but I know some one who owns a junkyard and I am going this weekend. I just wanted to make sure they are the same.<BR>Thanks anyway||||reg||10
+Z||000003||GT Bastard||01-20-2000||03:24 AM||||they are.||||reg||1
+Z||000004||Monkeyman||01-20-2000||08:42 PM||||Assuming all you need to replace is the hood, you're OK.  Remember that the fascias and mouldings are different on some cars.  Fascias are the same on the following: 84-86 coupes, 87 and 88 coupes, '84 Indy, '86 SE and all GTs (did the Formula have a special fascia?  It didn't, did it?)  The mouldings on 86 GTs and all 87s and 88s are different than the earlier models.||||reg||1

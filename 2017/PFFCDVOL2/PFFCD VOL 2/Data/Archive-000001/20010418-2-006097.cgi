@@ -1,0 +1,3 @@
+A||||1||Steven||Clutch Info for 3.2 Conversion||||5||
+Z||000000||Steven||10-06-2000||05:29 PM||||The crank that I have is from the 3.1 liter Firebird/Camaro. As I have started to put things togather, I have found notes starting that I have to use a pilot bearing GM #476574. Now the 2.8 crank did not use a pilot bearing. Has anyone who has done the conversion used the pilot bearing or is it not needed with our transaxles. Fyi I have an 85 GT w/4sp trans.<p>[This message has been edited by Steven (edited 10-06-2000).]||||reg||5
+Z||000001||88formula||10-06-2000||11:16 PM||||Check the fit with your transmission input shaft. That should tell you what you need right.||||reg||1

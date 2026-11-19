@@ -1,0 +1,4 @@
+A||||2||LuDog||Speedometer Problems
+Z||000000||LuDog||04-05-99||08:47 AM||||I have no Speedometer. The thing quite working the other day and is now stuck on 50 mph. any ideas?
+Z||000001||theogre||04-06-99||10:54 PM||||pull the sender and check the gears. theres a gear that is driven by the tranny, and a gear reduction in the sender assembly. 3 gears total, any of witch could quit.<p>put a meter across the sender terminals, spin the sender, and see if the needle jumps on the meter. (you may need a pretty low scale.)if it doesn't get another sender from a scrap yard. (it's easier to get to than the dash.)<p>other wise it's probly the speedo assembly in the dash.<p>not much to that system. 
+Z||000002||FieroMike||04-08-99||01:10 PM||||Just in case.... does your radio work? If not, the speedo is on the same circuit so check the fuse in the radio block and see if it is blown.

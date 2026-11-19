@@ -1,0 +1,8 @@
+A||N||6||donny||cavalier 2.8 in fiero gt???||||5||
+Z||000000||donny||11-05-2001||07:34 PM||||I am looking for an engine for my 86 gt and came across a 2.8l cavalier v6 out of a z24.<BR>I'm wondering what it will entail to install this engine?Any help is appreciated.<BR>I forgot to mention that the cavalier is an 86 also.||||reg||5
+Z||000001||Kasdan||11-05-2001||07:55 PM||||Use the fiero heads and intake, pretty much everything off the fiero block, basicly plug&play.<P>------------------<BR>Tyler Morgan, 1986 GT<BR>       <IMG SRC="http://www.fiero.nl/uploads/Fiero21.jpg">               <BR>Aftermarket Power Steering, Rebuilt motor with &gt;100 miles, Aim=FieroDriver1986||||reg||1
+Z||000002||donny||11-05-2001||09:42 PM||||Thanks that's what I thougt.Just wanted to verify it.||||reg||1
+Z||000003||Cooter||11-05-2001||09:45 PM||||The 86 Cavalier has the iron head/distributer system like the Fiero uses, so you should be able to make it a drop in replacement. The 87+ 2.8's in the J-bodies are aluminum head/DIS engines and require the donor car's ECM and engine management system. ||||reg||1
+Z||000004||Kasdan||11-05-2001||09:53 PM||||Exactly, like i said, bolt-in.||||reg||1
+Z||000005||Cooter||11-05-2001||10:59 PM||||My point was the heads are already the same so why bother changing them to the identical Fiero head, unless you just run out of things to bolt in? ||||reg||1
+Z||000006||fiero_nightmare||11-06-2001||05:31 AM||||when i put the 86 olds ciera engine in my 85 GT i used the heads that came on the ciera engine and there were no problems at all. almost everything else had to be changed though.<P>------------------<BR>my 85 GT pics <P>http://communities.msn.com/russcars/85fierogt.msnw||||reg||1

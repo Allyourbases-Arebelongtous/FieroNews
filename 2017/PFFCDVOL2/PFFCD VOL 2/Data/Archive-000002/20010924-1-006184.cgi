@@ -1,0 +1,4 @@
+A||||2||Ralfy9862||airdam||||1||
+Z||000000||Ralfy9862||03-12-2001||10:29 PM||||Where can you get an air dam that extends just like 2 inches lowerer than the factory but still retain the factory look. i see one on her once .||||reg||1
+Z||000001||FieroJoe||03-13-2001||10:44 AM||||I think that it is actually the bottom part of a GT nose cut and turned upside down.  Try a search (I havent done it myself) , I bet you'll find more pics and info about it.<P>------------------<BR>AIM: Snowboarder0311<BR>87 Coupe 5sp. - big resto in progress<BR>  <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1
+Z||000002||Monkeyman||03-13-2001||12:19 PM||||FieroJoe is talking about Lawrences' home made air dam (www.webelectric.com or something like that).  Really nice if you ask me.  He should make molds and sell them.||||reg||1

@@ -1,0 +1,5 @@
+A||||3||Fiero*101||Belt problem||||1||
+Z||000000||Fiero*101||08-28-2001||10:26 PM||||Well my belt just started squeaking<BR>but me and my friend Doug fixed it already and it was tight like a month ago. any body know why it would be loose now?<P>any info is good info  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>thanks <P>Fiero*101||||reg||1
+Z||000001||HummelHund||08-28-2001||10:37 PM||||What engine is it, V6 or I-4?<BR>||||reg||1
+Z||000002||sqoach||08-29-2001||12:06 AM||||May have to re-tighten it again. Belts tend to stretch. How many times have you tightened it? How old/new is it?<P>------------------<BR><FONT COLOR="BLUE">sqoach@yahoo.com</FONT><BR>   <IMG SRC="http://www.fiero.nl/uploads/sqoach.gif">   <P>84 SE (FOR SALE)*sale pending*<BR>85 Coupe (parts car)($50)*sale pending*<BR>86 SC (FOR SALE)<BR>86 SE V6 (new project)||||reg||1
+Z||000003||starfighter007@msn.com||08-29-2001||11:30 AM||||you should replace the belt. before it breaks on you when you least expect it that should cure your problem unless the bolt is coming loose be careful though if thats the case you dont break it ||||reg||1

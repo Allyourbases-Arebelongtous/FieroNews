@@ -1,0 +1,2 @@
+A||||0||theogre||I found the other heat control motor.||||1||
+Z||000000||theogre||05-15-2000||11:44 AM||||It is located under the dash and MVAC ductwork. It hangs from a mettal bracket on the bottom of the duct.<P>It's linkage and clip are accessable from the drivers side. I think the mounting screws are accessable from there as well. It's really hard to see. Even with the dash fully out it was hard to see.<P>It's going to be really hard to work on just because of where it is. The clip is actually the easy part with this one. ||||reg||1

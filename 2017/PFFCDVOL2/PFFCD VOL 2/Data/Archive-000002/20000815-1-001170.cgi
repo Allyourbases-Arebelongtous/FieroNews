@@ -1,0 +1,15 @@
+A||||13||wkayl||My 86GT and my bio||||1||
+Z||000000||wkayl||02-05-2000||11:50 PM|||| <A HREF="http://www.geocities.com/MotorCity/Garage/5845/wayne.html" TARGET=_blank>http://www.geocities.com/MotorCity/Garage/5845/wayne.html</A> <P>More  pics of my car:<BR> <A HREF="http://www.homestead.com/wkayl/cars.html" TARGET=_blank>http://www.homestead.com/wkayl/cars.html</A> <P>||||reg||1
+Z||000001||86SE||02-06-2000||12:17 AM||||How can you tell if a Fiero was born in the secont half of 86?? My SE was the 80869th born in '86, would that make it an '86.5??||||reg||5
+Z||000002||Shiner||02-06-2000||01:16 AM||||When refering to a car as an "86.5" model, it is usually to show that it is a fastback GT, as opposed to a notchback GT ('85 model).  Now, this is a highly controversial subject, but the consensus seems to be that notchback GTs were only made in '85, so the only "86 GT" is a fastback.  ||||reg||1
+Z||000003||Gokart||02-06-2000||07:06 AM||||Nice GT wkayl! Betcha wish you still had some of those classic rides!||||reg||14
+Z||000004||wkayl||02-06-2000||09:38 AM||||This is not a story: I got this car from my little brother's mother-in-law.  Her husband passed away and the GT sat in a garage for 4 years.  I think he was the 2nd owner.<BR>Lets see if I figured out this PIP thing.<BR>  <IMG SRC="http://www.fiero.nl/uploads/Fierofront_2.jpg">  <p>[This message has been edited by wkayl (edited 02-06-2000).]||||reg||1
+Z||000005||wkayl||02-06-2000||09:43 AM||||Hey it worked. Boy are you guys in trouble now!! <IMG SRC="http://www.fiero.nl/uploads/Fieroengtrunktwo.jpg"> ||||reg||1
+Z||000006||wkayl||02-06-2000||09:47 AM||||The cup holder is a little cheesy but i gotta have my Diet Coke. <IMG SRC="http://www.fiero.nl/uploads/Fierointtwo.jpg"> ||||reg||1
+Z||000007||wkayl||02-06-2000||09:52 AM||||The only thing done to this car to make it look like this other than stereo and the previous owner installing aftermarket sun roof was to wash, wax, detail. <IMG SRC="http://www.fiero.nl/uploads/Fierohoodthree.jpg"> ||||reg||1
+Z||000008||wkayl||02-06-2000||09:59 AM||||Another view. <IMG SRC="http://www.fiero.nl/uploads/Fierortrear.jpg"> ||||reg||1
+Z||000009||billfredmike24||02-06-2000||12:31 PM||||wkayl, whered you get the bra and what make is it?||||reg||1
+Z||000010||Old Lar||02-06-2000||03:34 PM||||The 86.5 designation was for the fast back models built after June 86 that came with a 5 speed manual transmission, replacing the 4 speed manual transmission.  ||||reg||1
+Z||000011||AL||02-06-2000||10:27 PM||||nice car, it looks like mine, even the same bra, except mine is all red, no grey at the bottom, if i could post pics with web tv i would send you a pic. welcome, AL.||||reg||1
+Z||000012||wkayl||02-06-2000||11:57 PM||||The bra came with the car.  When I went to pick up the car, she said "This thing that goes on the front is here also.  Would you like it to?"||||reg||1
+Z||000013||bHooper||02-16-2000||09:28 AM||||alass, my poor '86 1/2 Gt use to look so good!<P>now she set's, naked and broken... awaiting a  new transmision to roar back to life....||||reg||9

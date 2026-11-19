@@ -1,0 +1,4 @@
+A||||2||87FieroGTx||What's this 85 GT worth?||||5||
+Z||000000||87FieroGTx||06-17-2001||11:38 AM|||| I'm looking at an 85 GT it has 65,000 miles mint body, very clean inside and out, auto trans;( power windows,locks NO sunroof or rear wing. The dealer wants $1,800 for it.<P> What would you pay?||||reg||5
+Z||000001||AusFiero||06-17-2001||11:50 AM||||Sounds like a fair deal to me from what I see around on the net. Request a roadworthy check from the dealer perhaps?<P>------------------<BR>   <IMG SRC="http://www.jadeweb.com.au/fiero/fiero5.gif">   <BR><A HREF="http://www.jadeweb.com.au/fiero" TARGET=_blank>My Fiero</A><BR>Need a Subwoofer Console or Speaker Door Pods?||||reg||1
+Z||000002||Tweek||06-17-2001||12:38 PM||||Well, as long as there aren't any serious problems with it, sounds like a good deal to me.. esp. from a dealer. They jack the prices right up cause they are "rare" and exotic looking, then they refuse to work on them when you need help.||||reg||1

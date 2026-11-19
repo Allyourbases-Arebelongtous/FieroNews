@@ -1,0 +1,4 @@
+A||||2||Leadfoot||My baby is back on the road!!!!!||||10||
+Z||000000||Leadfoot||07-05-2001||10:16 AM||||O Yah!  Drove my 85se to work for the first time in 2 months!  Finally finished installing the new engine and fixing all the odds and ends.  Man does it feel good to sit low on the road agian.||||reg||10
+Z||000001||ChadMan||07-05-2001||10:58 AM||||Congratulations!  Is your SE a V6 or Duke?  Gotta love the good old bumper-pad cars.<P>I know what you mean about sitting low.  Drove my wife's new Saturn SL2 for about 32 hours last week, and it's a nice little car...but it sure feels good to be 4" off the ground, banging gears and not leaning in turns again.<P>The Duke sure feels weak after the 124-hp Saturn, though...  <IMG SRC="http://www.fiero.nl/forum/frown.gif">||||reg||10
+Z||000002||Leadfoot||07-05-2001||11:15 AM||||I have the v6.  Seems like the car has more power than before.  That rebuild sure helped alot!||||reg||1

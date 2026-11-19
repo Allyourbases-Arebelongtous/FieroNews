@@ -1,0 +1,6 @@
+A||||4||danny boy||Just tryin somethin||||1||
+Z||000000||danny boy||04-15-2001||10:14 PM||||..................................<p>[This message has been edited by danny boy (edited 04-15-2001).]||||reg||1
+Z||000001||Formula||04-16-2001||09:51 AM||||that is a horizontal line!<BR>try this one<BR>.<BR>.<BR>.<BR>.<BR>.<BR>.<BR>.<BR>||||reg||1
+Z||000002||TheFiero64||04-16-2001||12:07 PM||||Here is a diagonal one.   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>.<BR>. .<BR>.  .<BR>.   . <BR>.    .<BR>.     .<P>------------------<BR>Josh<BR>   <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg">  <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A><p>[This message has been edited by TheFiero64 (edited 04-16-2001).]||||reg||12
+Z||000003||TheFiero64||04-16-2001||12:08 PM||||Won't work.  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>------------------<BR>Josh<BR>  <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg"> <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||1
+Z||000004||onfire||04-16-2001||12:47 PM||||ooops.<p>[This message has been edited by onfire (edited 04-16-2001).]||||reg||1

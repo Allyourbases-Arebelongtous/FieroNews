@@ -1,0 +1,4 @@
+A||N||2||DisfourDan||Can someone Carfax for me, Please||||1||
+Z||000000||DisfourDan||07-08-2001||03:41 PM||||1g2pe11rxhp222359 <P>Thank you very much in advance.||||reg||1
+Z||000001||Songman||07-08-2001||03:43 PM||||Dan,<P>Check out this thread. I think you will find it very helpful...<BR> <A HREF="http://www.fiero.nl/forum/Forum6/HTML/002594.html" TARGET=_blank>http://www.fiero.nl/forum/Forum6/HTML/002594.html</A> <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1
+Z||000002||DisfourDan||07-08-2001||03:57 PM||||Thanks Songman, The car showed up alright, it failed a bunch of times on its smog, but passed after words, thats about it.  Ill check that car out after i get more information on it from the owner.||||reg||1

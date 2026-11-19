@@ -1,0 +1,6 @@
+A||N||4||Fiero Jon||S-10 headers on Fieros||||5||
+Z||000000||Fiero Jon||05-04-2000||04:10 PM||||I heard on another list that S-10 headers will work on the 2.8 Fieros.  However a custom y-pipe must be fabricated to make it work.  I have some questions concerning this swap, has anyone out there done this swap?  If so, which make of headers did you use?||||reg||5
+Z||000001||Tom88gt||05-04-2000||04:58 PM||||I answered this one before.  I had a 2.8 S-10 once and put headers on it.  The headers are very long and will not fit.  The collector would stick out into the wheel well, assuming there is nothing to block it.  Maybe some one makes "shorty" or "block hugger" type headers for the 2.8 but I've never seen or heard of any.||||reg||13
+Z||000002||Cooter||05-04-2000||09:38 PM||||Try looking at some 95 camaro 3.4 headers.||||reg||1
+Z||000003||87PegasusGT||05-05-2000||03:26 PM||||Already did. Won't fit. I have not looked into modifying them though.||||reg||1
+Z||000004||lennyb4||05-05-2000||03:43 PM||||Someone (maybe summit)does make block huggers for 2.8's. i seen them not to long ago. Im sure someone here will know about them. But i know that they do exsist. Ill see if i cant dig up where i saw them before.||||reg||1

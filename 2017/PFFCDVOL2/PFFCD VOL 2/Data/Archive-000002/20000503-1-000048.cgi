@@ -1,0 +1,5 @@
+A||||3||Pretender||Import/Kitcar Replicar Nationals
+Z||000000||Pretender||04-21-99||11:13 PM||||So who can i count in on the "famous" Carlise (PA) car show?....lots of fieros and kitcars!...May 14th-16th.....or go to www.carsatcarlise.com for more info...hope to see ya there!<br>
+Z||000001||theogre||04-26-99||07:51 PM||||I have someone with a medical problem up in the air right now. I was going to preregister and even show the car in it's ichy condition, but now I'm not sure I can even go..... nuts.<p>MAFOA tries to do a couple events like that a year. maybe the next one.
+Z||000002||Pretender||04-27-99||03:03 AM||||your a member of the mafoa?...i was intill i didn't pay the dues.Bob shlag is the man in chage right?...i hope your feeling better, wouln't mind meeting "THE-OGRE"...i'll be there bright and early(not showing my car though)...i seen an interior there last year that i am very interested in buying. not much on the parts situation, i think one guy was selling fiero parts, but none the less it was cool.
+Z||000003||theogre||04-27-99||07:31 PM||||no not a member,,, just noticed they seem to try 2 shows....

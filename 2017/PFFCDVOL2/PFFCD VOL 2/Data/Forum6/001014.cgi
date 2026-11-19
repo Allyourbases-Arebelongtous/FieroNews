@@ -1,0 +1,7 @@
+A||||5||zeusrekning||Anyone near Rosamond Calif.?||||1||
+Z||000000||zeusrekning||11-29-2000||08:08 PM||||Justwondering since there are alot of california guys here.<BR>Have family there.||||reg||1
+Z||000001||FieroSTETZ||11-30-2000||09:03 PM||||wheres rosamond? I am in oceanside, between san diego and los angeles- great place, love the weather! <P>------------------<BR> <IMG SRC="http://albums.photopoint.com/j/View?u=1012904&a=7460599&p=25516673"> ||||reg||1
+Z||000002||zeusrekning||11-30-2000||09:20 PM||||Don't know?<BR>Never been there. <BR>I have an uncle and aut there and i think my Grandfather is living with them.<BR>Only met my grandad once, never met my uncle.||||reg||1
+Z||000003||AL||11-30-2000||11:25 PM||||are you sure it is rosamond or rosemead<B>AL</B>  <IMG SRC="http://www.fiero.nl/uploads/AL_sig.gif">  <P>------------------<BR> <p>[This message has been edited by AL (edited 11-30-2000).]||||reg||1
+Z||000004||zeusrekning||12-06-2000||06:53 PM||||rosamond||||reg||1
+Z||000005||Robert||12-06-2000||07:05 PM|||| <A HREF="http://maps.excite.com/zoom/?orig_lat=&orig_lon=&lat=34.860184&lon=-118.199499&label=Rosamond+CA+%3CBR%3EUSA+&a=&cn=USA&apcode=&brp=&adv=0&csz=rosamond%2Cca&level=8" TARGET=_blank>http://maps.excite.com/zoom/?orig_lat=&orig_lon=&lat=34.860184&lon=-118.199499&label=Rosamond+CA+%3CBR%3EUSA+&a=&cn=USA&apcode=&brp=&adv=0&csz=rosamond%2Cca&level=8</A> ||||reg||1

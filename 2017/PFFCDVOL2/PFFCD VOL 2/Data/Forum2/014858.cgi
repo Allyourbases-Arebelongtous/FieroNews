@@ -1,0 +1,6 @@
+A||||4||gtsonly||manifolds- can another gm car donate?||||5||
+Z||000000||gtsonly||10-28-2001||08:43 PM||||Are there any others gm engines that have the same exhaust manifolds as the fiero V6? What about the distributer?<P>------------------<BR>Chris Hatch <BR>1986 GT w/T-TOPs||||reg||5
+Z||000001||gtsonly||10-29-2001||10:05 AM||||Anyone????????????????????<P>------------------<BR>Chris Hatch <BR>1986 GT w/T-TOPs||||reg||5
+Z||000002||FieroJoe||10-29-2001||10:39 AM||||The distributor is probably the same as any other GM MPFI 2.8L engine, there were a few other cars that had them.  The main difference I think was just that the upper intake plenum was very different.||||reg||1
+Z||000003||DRH||10-29-2001||11:15 AM||||Exhaust manifolds are unique to the Fiero. There are others that will fit the engine but they won't match the Fiero exhaust.<P>I'm not sure about distributors but I think most (maybe all?) other fuel injected 2.8 engines were DIS (no distributor). The carbed 2.8s had a distributor but I doubt it would work with the ECM.||||reg||1
+Z||000004||ka4nkf||10-29-2001||09:02 PM||||I found this site very handy, They have a place where you put in the AC number and it will tell you what other cars uses this part.<BR> <A HREF="http://www.acdelco.com" TARGET=_blank>www.acdelco.com</A> <BR>||||reg||1

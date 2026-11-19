@@ -1,0 +1,15 @@
+A||||13||JohnnyK||Backside to the future||||1||
+Z||000000||JohnnyK||09-01-2001||06:08 PM||||Well, to make funds for a DeLorean, I have to do what most others do. Sell Backside To the Future videos (A porno video based on Back to the future/deloreans). But, before I invest money, would anyone actually be interested in it? You can email me at jkrikorian@home.com if you don't want to come off as a pervert..  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000001||fogglethorpe||09-01-2001||06:16 PM||||Damn! I thought I erased that video...||||reg||1
+Z||000002||Mach10||09-01-2001||06:38 PM|||| <IMG SRC="http://www.fiero.nl/forum/smiley_wtf.gif"><P>Well, it beats cutting your feet off for charity  <IMG SRC="http://www.fiero.nl/forum/tongue.gif"><P>||||reg||1
+Z||000003||JohnnyK||09-01-2001||06:41 PM||||mach: So, you in?||||reg||1
+Z||000004||Shaun41178||09-01-2001||06:42 PM||||I am not ashamed to post here that I will take a copy.  In fact I think I will invest too and try to sell some too.  Sell them all to ME!!  Mwwuhahahaaa.<P>Ever thought of making your own porn?  ||||reg||14
+Z||000005||JSocha||09-01-2001||07:35 PM||||Men don't get paid as much as the women do in korn movies!  Therefore poor ole Jonny would end up signing a contract for 100 pennies. j/k!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> ||||reg||10
+Z||000006||Pontiaddict||09-01-2001||10:49 PM||||HAHAHAHAHAHAHAHAHAHHAHAHHAHAHAHAHAHAHAHAHAHA!<BR>A word of advice, keep your, uhm, <I>self</I> away from Mr.Fusion. Or else you might have to go back in time to stop yourself from doing so. And you know that meeting yourself while time traveling can dirupt the space time contunuum. So you would have to have someone else do it for you. Or, have someone else, do it for you.||||reg||1
+Z||000007||JohnnyK||09-02-2001||02:23 AM||||Pontiaddict: That made.. NO sense?||||reg||1
+Z||000008||JohnnyK||09-02-2001||02:24 AM||||Shaun: Still haven't got word from the guy yet. maybe they aren't even available anymore... Hopefully this guy still checks his email every now and then.||||reg||1
+Z||000009||Pontiaddict||09-02-2001||02:49 AM||||Johnny, wasn't that a line from the movie?||||reg||6
+Z||000010||Urchin||09-02-2001||02:54 AM||||"Calvin Klein is sooooo dreamy..."<BR><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/side_cut_sig_4.jpg">  <BR>If you can read this, I'm parked.||||reg||1
+Z||000011||Mach10||09-02-2001||04:18 AM||||Nah, I don't go in for that stuff, m'self...||||reg||6
+Z||000012||firstfiero||09-02-2001||10:25 PM||||   That my friend is a quality movie!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> I myself would like a copy because .....Yes I like the porn.<P>------------------<BR><BR>   <IMG SRC="http://www.fiero.nl/uploads/firstfiero.gif"> ||||reg||1
+Z||000013||Spektrum-87GT||09-03-2001||08:03 PM||||i'd try and find a new name... sounds like a gay porn!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

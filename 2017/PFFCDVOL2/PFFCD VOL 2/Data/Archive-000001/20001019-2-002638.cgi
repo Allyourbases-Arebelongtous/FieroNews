@@ -1,0 +1,3 @@
+A||N||1||d825077||spark plug||||5||
+Z||000000||d825077||03-10-2000||02:56 PM||||Today when I was looking at the motor of my 4 cylinder 1988 fiero I noticed that the second spark plug wire from the left was shaking.  It does not seem loose.  When I touched it, felt like something was hitting it.  It was even worse when I reved the engine.  The car runs great, but I was just worndering why it was doing this.||||reg||5
+Z||000001||theogre||03-10-2000||07:16 PM||||the wire, not the plug?<P>couldn't say w/o seeing it. likely nothing. trace the legnth of the wire till you get to something.<P>you can also pull & inspect the plug just to make sure.||||reg||1

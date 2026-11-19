@@ -1,0 +1,3 @@
+A||||1||sinoloa||diagnostic terminal||||5
+Z||000000||sinoloa||11-02-1999||05:57 PM||||On my 88 automatic 4 cylandar, I'm trying to get my trouble codes.  There's 5 terminals on the bottom, and two terminals on the top: one on the passenger side, and one on the driver side.   We're trying to stick a paper clip in them to get the diagnostic to work. Which terminal is the ground, and which is the hot? Which one is terminal A and which one is terminal B?||||reg||5
+Z||000001||Voyd||11-02-1999||06:35 PM||||when u take off the cigarette lighter cover, there is a terminal to the left. now, the 2 correct holes to stick in are the 2 on the bottom left.<p>[This message has been edited by Voyd (edited 11-02-1999).]||||reg||14

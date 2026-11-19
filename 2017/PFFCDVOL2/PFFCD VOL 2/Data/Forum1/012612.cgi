@@ -1,0 +1,4 @@
+A||N||2||C00LFLoYD||web site, -fiero-tech-zone -  by Frans Godschalk||||1||
+Z||000000||C00LFLoYD||12-11-2001||02:42 PM||||does anyone know what happened to the site in subject? i got the url, but the one i have doesnt work anymore? need to get some info from there. does anyone know what happened to the site? moved? mirrored elseware? please help! thanx<P>------------------<BR>Rob||||reg||1
+Z||000001||conductor||12-12-2001||10:04 AM||||I mailed him on a Dutch mailinglist, but had no response yet. As soon as I get it I forward it to this forum.<BR>Grtx Richard.||||reg||1
+Z||000002||C00LFLoYD||12-12-2001||02:06 PM||||finally late last nite i was able to get into his site... i dont know what was wrong, perhaps it was down for the day? i asked a few friends to load the page just to verifiy it wasnt sumthing with my puter, but they also could not get in... seems to be ok now.. thanx for the help..<P>------------------<BR>Rob||||reg||1

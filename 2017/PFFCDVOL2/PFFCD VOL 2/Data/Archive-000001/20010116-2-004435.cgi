@@ -1,0 +1,5 @@
+A||||3||SibERThuG||websites||||9||
+Z||000000||SibERThuG||06-24-2000||01:43 AM||||Anyone know the websitesfor any of these companies???---SuperX, IRM, or Focoa||||reg||9
+Z||000001||batboy||06-24-2000||02:23 AM|||| <A HREF="http://users.desupernet.com/superX" TARGET=_blank>http://users.desupernet.com/superX</A> <P> <A HREF="http://www.geocities.com/MotorCity/Lane/1588/quickcat.html" TARGET=_blank>http://www.geocities.com/MotorCity/Lane/1588/quickcat.html</A> <P> <A HREF="http://www.fieroowners.com/index.html" TARGET=_blank>http://www.fieroowners.com/index.html</A> ||||reg||1
+Z||000002||olympic||06-24-2000||03:18 AM||||  I really think we need a type of "FAQ" page for all of these Fiero websites.  It's a pretty common question.||||reg||1
+Z||000003||fierosound||06-24-2000||09:03 AM||||Go to this website  - World Wide Fiero Links<P>Just about every Fiero website is here - and it's been updated...<BR> <A HREF="http://www.geocities.com/MotorCity/1930/frame.html" TARGET=_blank>http://www.geocities.com/MotorCity/1930/frame.html</A> ||||reg||1

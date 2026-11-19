@@ -1,0 +1,2 @@
+A||||0||007DOUG||How do I disconnect/bypass DRL's?||||5||
+Z||000000||007DOUG||04-21-2000||05:22 PM||||On my '99 Chevy Suburban, How do I unhook those stupid daytime running Lights?<P>I've got headlight covers on, and hate to paint the inside of these too. (I had to do the same on previous suburban)<P>I thought about jumping the terminals on the parking brake switch (applying it will turn them off) but then I'd have to look at the brake light warning  on the dash all day.<P>Doug<BR>||||reg||5

@@ -1,0 +1,5 @@
+A||||3||GT-AutoX||diagnosis for suddenly fouled spark plugs||||5||
+Z||000000||GT-AutoX||06-05-2001||08:48 PM||||Here's the problem: My car ran fine for a few days until it decided not to start one night.  Looked at the plugs and they were fine (new).  Started up fine the next day and then completely died 1 mile later while driving a steady 30mph.  Had a real hard time restarting/running the car after this but managed to limp it home.  Now the plugs are completely fouled in dry, black soot.  Also no error codes to report.  Any ideas?  This is the second time now I have seen the suddenly fouled plugs.  The ignition system should be fine as it was completely replaced last week.||||reg||5
+Z||000001||fierosound||06-05-2001||10:02 PM||||What engine??||||reg||10
+Z||000002||Ken Wittlief||06-05-2001||11:19 PM||||My car ran incredibly rich like that when the vacuum line to the Map sensor had a big leak - only gave me a map sensor error once in a while.<P> your car sounds like its sucking raw gas in though, mine at least ran somewhat ok.||||reg||1
+Z||000003||GT-AutoX||06-06-2001||12:57 AM||||v6, sorry||||reg||1

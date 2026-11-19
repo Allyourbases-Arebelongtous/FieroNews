@@ -1,0 +1,4 @@
+A||||2||Groot||Electrical wiring diagrams
+Z||000000||Groot||08-20-99||05:52 AM||||Hi,<p>I wonder if someone has a good manual on<br>a 84 2.5L Fiero. I have some strange problems<br>with the alternator and the two wires from<br>the A/C compressor are not connected.<p>I haven't got a clue where these loose wires<br>should be connected and my battery voltage<br>is approx. 16 Volts all the time.<p>Could someone please scan a diagram and<br>send it to me ?<p>Regards<br>Egbert The Netherlands<br>( egroot@casema.net )
+Z||000001||JetroGT||08-20-99||11:28 PM||||It sounds like your voltage regulator on the alternator is bad. As for the wires hanging off of the compressor, it shoulden't affect your voltage level. Your compressor just won't work.
+Z||000002||Groot||08-22-99||06:25 AM||||Hi,<p>Is the regulator internal or external to<br>the alternator ?<p>Egbert

@@ -1,0 +1,9 @@
+A||||7||KnightRyder31||DON'T READ THIS THREAD!!!! DO NOT READ THIS THREAD!!!!||||1||
+Z||000000||KnightRyder31||03-18-2001||10:47 AM||||Just wanted to ssee how many read this thread!<BR>LOL.||||reg||1
+Z||000001||rodmcneill||03-18-2001||10:53 AM||||Was'nt me.||||reg||1
+Z||000002||Formula||03-18-2001||11:27 AM||||it was the guy next door||||reg||1
+Z||000003||JohnnyK||03-18-2001||12:12 PM||||This is getting old..||||reg||1
+Z||000004||KRMFiero||03-18-2001||12:20 PM||||Well obviusly people will look,   people have been doing this alot, Cliff will start getting mad if this is all people do, waste of space||||reg||1
+Z||000005||TheFiero64||03-18-2001||03:05 PM||||How many posts about nothing are on PFF?<P>Lets count them.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Josh<BR>  <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg"> <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||1
+Z||000006||Cheever2||03-18-2001||03:21 PM||||This is Cheever2's "F.I.E.R.O." - <BR><B>F</B>rivolous and<BR><B>I</B>gnorant <BR><B>E</B>ntry <BR><B>R</B>eply<BR><B>O</B>peration<P>I am programmed to reply automatically to unnecessary topics. If this has appeared on your topic, send $10 to the PFF benefit fund of your choice. Note: this has not (yet) been sanctioned in any way by Pennock Productions. <BR>||||reg||6
+Z||000007||KnightRyder31||03-18-2001||07:12 PM||||HAHAHAHAHA!<BR>Sorry about that guys...didn't know that it would offend all of you this much.<BR>I just see a lot of people doing this, and from what I see...a lot of you guys get a laugh. Again, sorry for wasting your space, <BR>Cliff, if you read this, please kill this thread, I don't want any more people getting pissed off at me.<P>PS. I did tell you guys not to read this...<BR>j/k.||||reg||1

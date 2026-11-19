@@ -1,0 +1,4 @@
+A||N||2||WhiteFieroBlur||Carpeting the front compartment||||1||
+Z||000000||WhiteFieroBlur||06-02-2000||11:54 PM||||I was wondering whats the best way to clean out the front compartment and carpet it. Is this a really good idea? It does look nice, but does it get dirty real easily?||||reg||1
+Z||000001||Monkeyman||06-03-2000||10:53 AM||||Both of my Fieros were purchased in "well worn" condition.  The only thing in the front trunk was a little bit of dusty dirt.  I don't think there's really any way for a ton a road grime, etc to get in there.  At least I hope not as I might put an amp and CD changer up there.||||reg||1
+Z||000002||stimpy||06-03-2000||10:25 PM||||I don't know how one would go about getting the carpet to match all the contours of the spare tire area, but be aware that there is a drainhole down at the bottom. Must be there for a reason. I just Armor-All mine for shows. But if you can make the carpet thing work then rock on dude! ||||reg||1

@@ -1,0 +1,3 @@
+A||N||1||DisfourDan||Need some help||||1||
+Z||000000||DisfourDan||05-21-2001||09:44 PM||||Hey guys, here is the problem,<BR>I have this volvo (1986 740GL good condition), and my father said I have to sell it before i can get my Fiero.  He said lowest I can sell it for is 2200$.  I need some tips on how to sell this car quick.  I am going to post it on yahoo, ebay, autotrader, classifieds2000, and some other places too.  <P>So to help me get my first Fiero, I need some tips on how to make people want the Volvo.  Its a good car, its just, i want my FIERO!<P>Thanks guys<P>------------------<BR>Nothing good can come from good.||||reg||1
+Z||000001||DisfourDan||05-21-2001||10:39 PM||||BUMP<BR>||||reg||6

@@ -1,0 +1,4 @@
+A||N||2||shaolin||Tranny Trade||||10||
+Z||000000||shaolin||02-02-2000||11:02 PM||||I ma buying a 1987 GT in the morning. I wanna trade out the A/T for a 5 speed. Any ideas? Anyone done one?<BR>All replies will be appreciated!<BR>Thanks,<BR>Dustin||||reg||10
+Z||000001||batboy||02-02-2000||11:41 PM||||It's a lot of work, you might be better off buying a Fiero with a 5 speed already in it. Trying to find a 5 speed Getrag tranny will also be a challenge.||||reg||1
+Z||000002||Raydar||02-03-2000||09:53 AM||||Several folks have put the smaller 5-speed Isuzu (4-cyl) trans behind the V-6. Although it's supposed to be weaker than the Getrag, I have never heard of one being broken by the V-6. Clutch drop starts should be avoided, though. <BR>The swap from the automatic will still be as much of a pain in the a$$. ||||reg||1

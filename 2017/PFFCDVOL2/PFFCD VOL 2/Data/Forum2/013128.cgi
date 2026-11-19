@@ -1,0 +1,5 @@
+A||||3||FieroSoul||Headrest speakers||||6||
+Z||000000||FieroSoul||08-26-2001||03:22 PM||||  I am about to put some Mr. Mikes covers on my seats and am wondering about the condition of my headrest speakers but I have never seen them before.  Does anybody know what size they are and what their max output is?  What about good or better replacements for them?  TIA,||||reg||6
+Z||000001||flyntus||08-26-2001||05:27 PM||||I got 4-3 1/2" Infinity (model 3012cf) from Crutchfield to replaced my headrest speakers. I also had to get the gm speaker wire adapters.  They sound great. You might want to punch out the holes in the Mr Mike's leather seats prior to installation for better/clearer sound.<BR>||||reg||1
+Z||000002||Lar||08-26-2001||06:03 PM||||I believe the stock headrest speakers were 3", but a set of 3 and a halfs will fit easily.  If you buy a new set (my old ones were just fine) you might consider a bass blocker for them.  Those headrest speakers were not designed for much in the way of bass.  Check out Mr. Mike's website as he has details on howto||||reg||1
+Z||000003||FieroSoul||08-27-2001||08:20 AM||||  Thanks guys.||||reg||6

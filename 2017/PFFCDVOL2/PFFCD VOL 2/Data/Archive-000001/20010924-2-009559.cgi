@@ -1,0 +1,6 @@
+A||||4||BigTurbo87GT||Fuel line fitting size?||||1||
+Z||000000||BigTurbo87GT||04-10-2001||04:48 PM||||Does anybody know the fuel line fitting size. The ones I'm concerned with are the fittings that connect to the Hard lines not the hard lines that connect to the Fuel rail.<BR>Thanks!<BR>Oh, 1987 GT 5 speed btw.||||reg||1
+Z||000001||theogre||04-10-2001||07:00 PM||||Get a whole set of flare nut wrenches. make sure the set includes the 16/18mm wrench. that will cover nearly every flair on the car. The only on you won't cover is the fuel filter body fittings but you can usually use and standard wrench. You can also try a pait of those self adjusting robo whats from sears or something along that line.||||reg||1
+Z||000002||BigTurbo87GT||04-10-2001||08:49 PM||||Thanks, but that's not exactly what I was looking for. I need to swap hard lines for Steel Braided ones so I'm looking for the size fitting I need to mate with flexible rubber portion of fuel line.<BR>||||reg||1
+Z||000003||theogre||04-10-2001||11:14 PM||||well that wasn't what you asked....  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> <P><BR>You're best bet is run the fittings thru a metric thread/screw gauge. The gauges are relativly easy to come by.||||reg||1
+Z||000004||BigTurbo87GT||04-11-2001||03:49 PM||||Cool, thanks.<BR>||||reg||1

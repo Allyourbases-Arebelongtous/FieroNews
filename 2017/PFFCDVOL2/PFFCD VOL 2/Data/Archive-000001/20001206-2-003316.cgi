@@ -1,0 +1,7 @@
+A||||5||Brian84SE||sunroof leakage||||1||
+Z||000000||Brian84SE||04-22-2000||07:35 PM||||I read in a post that the newer sunroofs have 1/4" holes drilled in them  (somewhere in the channel i believe) to aid in drainage.  Where are these holes supposed to be put? The  inside or the outside of the weatherstrip? All four corners?||||reg||1
+Z||000001||TOM||04-22-2000||08:37 PM|||| inside the moulding right in the corners. ||||reg||1
+Z||000002||Monkeyman||04-22-2000||10:47 PM||||The holes I drilled in the Grape Ape are a little smaller (couldn't find a 1/4" bit) and they work just fine.  It poured down rain the other night and the interior is still dry as a bone.  Those little holes make all the difference in the world.  (thanx, TOM)||||reg||1
+Z||000003||Brian84SE||04-22-2000||11:22 PM||||Thanx Tom.  Is it all 4 corners?  Is it right next to the weatherstrip?<BR>Question 2:  Where does this water go?  It seems kinda scary to drill holes to let water  drain.  I figured it would drain right on your head! Sort of like screen doors in a submarine.||||reg||1
+Z||000004||Brian84SE||04-23-2000||07:40 AM||||I went out this morning and drilled the holes.  Supposed to have drizzle today so we'll see how it works!||||reg||1
+Z||000005||TOM||04-23-2000||02:07 PM||||It drains down between the fiberglass panel and the steel space frame which is sealed from the passenger compartment and is wet on the outside anyway.||||reg||1

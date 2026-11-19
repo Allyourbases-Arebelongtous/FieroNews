@@ -1,0 +1,5 @@
+A||||3||Joe4x4||Cruise Control||||1||
+Z||000000||Joe4x4||08-12-2001||02:46 PM||||OK  ...yea I know that most don`t work.<BR>I like it on long trips , so what are the most commen things that go . I`m thinking vacume leak...any tips ||||reg||1
+Z||000001||theogre||08-12-2001||02:52 PM||||vac leak is the big one. start there. check all lines and the reserve can. make sure check valves actually flow only one way and are installed correctly.<P>bad controls are a problem. Bad/dirty solenoids or holed servo are also a problem. Start with the vac system and once you've eliminated that move on from there.<p>[This message has been edited by theogre (edited 08-12-2001).]||||reg||1
+Z||000002||JohnF||08-12-2001||05:02 PM||||#1 is stalk switch<BR>#2 is Brake mounted switch.<P>Contact Rodney Dickman for all parts and troubleshooting sheets.||||reg||11
+Z||000003||MooCow||08-12-2001||05:31 PM||||Mine just went out on me too.  So how do you check for a vacoom leak??<P>Thanks Ken<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sig_7.jpg"> <BR>87 GT, 3.4 engine with a 4:10 tranny, and Viper Yellow!||||reg||5

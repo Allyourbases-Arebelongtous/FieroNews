@@ -1,0 +1,5 @@
+A||N||3||zeusrekning||please help before engine blows||||5||
+Z||000000||zeusrekning||04-09-2000||09:39 PM||||My 87 fiero has the 2.5 5-speed in it with 216,000+ miles. yes 216,000+.I Want to swap it out in 2 months when I graduate. I would like to have a little more power but mostly need reliability. Where can I get a V6 that will bolt right in? What about transmission? What else would need to be change on my car to get a v6 in? Thanks. <BR>||||reg||5
+Z||000001||BroCar 87||04-09-2000||09:52 PM||||hey   man i am in the same situation, i have a 1987 fiero 2.5 automatic. These great people of this forum lead me to the upgrade that has everything you need to do the swap. Take a look at the website of Kick Hill. let me find the website ....||||reg||1
+Z||000002||BroCar 87||04-09-2000||09:56 PM|||| <A HREF="http://www.kickhill.com/mechelec.html" TARGET=_blank>www.kickhill.com/mechelec.html</A> ||||reg||1
+Z||000003||zeusrekning||04-09-2000||10:13 PM||||Yeah people in this forum are a lot more helpfull and friendlier than some other forums i've been in||||reg||7

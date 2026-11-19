@@ -1,0 +1,6 @@
+A||||4||88formula||Pilot bushing, need to know it there is one. ||||1||
+Z||000000||88formula||06-21-2001||10:11 PM||||It's been a year now since I removed my engine and I cannot remember if there was a pilot bushing in the crankshaft of my 2.8, which is gone now. I can't find any information about it in my manuals. I need to know if there is a pilot bushing in the crankshaft and if so where do I get one? The Fierostore doesn’t sell them. <P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/88formula_logo_1.JPG"> ||||reg||1
+Z||000001||Phil||06-22-2001||05:58 AM||||none in the V6||||reg||1
+Z||000002||Archie||06-22-2001||07:31 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Phil:<BR><B>none in the V6</B><HR></BLOCKQUOTE><P>None in any stick shift Fiero or any other stick shift FWD GM car.||||reg||1
+Z||000003||Steven||06-22-2001||09:52 AM||||But if you by a clutch kit, it may have one in the kit. Mine did, but I can't remember the brand of clutch I bought. I think it was a Borg & Beck. Blue and black box. Had pressure plate, driven plate (friction disc), throw out bearing, pilot bearing (bushing), and clutch alignment tool. Cost $139.||||reg||1
+Z||000004||88formula||06-22-2001||05:19 PM||||O, <P>Thanks guys. ||||reg||1

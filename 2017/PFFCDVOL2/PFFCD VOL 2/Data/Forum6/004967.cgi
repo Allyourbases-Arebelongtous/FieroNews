@@ -1,0 +1,4 @@
+A||||2||fierobaby||any of you watch that popstars show?||||1||
+Z||000000||fierobaby||12-22-2001||08:31 PM||||yeah so I do! OK GOSH! why ya'll gotta be hatin' on me like dat yo!? <P>J/K<P>but seriously any of you actually watch it? what do you think?||||reg||1
+Z||000001||DaRkLoRD||12-22-2001||10:15 PM||||I saw a few minutes of the show last year.. damn, gotta love a show with so many cute girls..  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>I don't watch much tv though, so I didn't watch the rest of it.<P>------------------<BR>    <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>    <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||1
+Z||000002||72vinman||12-23-2001||12:08 AM||||I hate to admit it , but if I do happen to be scanning the channels and it is on I do watch it.<BR><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sigvin2_1.gif"> ||||reg||1

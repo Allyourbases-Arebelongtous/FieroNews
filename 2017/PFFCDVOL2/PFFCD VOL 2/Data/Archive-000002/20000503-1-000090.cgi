@@ -1,0 +1,4 @@
+A||||2||Pretender||TUBBED FIERO!
+Z||000000||Pretender||05-23-99||08:53 PM||||this weekend was "Crusin Ocean-City" (Maryland, U.S.A), and when i looked out over our deck from the hotel a tubbed fiero with wheelie bars drove by!., the engine(blown big block chevy) was up front!..my friend got a pic of it while it was at the car show and i will post it as soon as it gets developed!....although i think it defeats the purpose of having a fiero in the first place it's still an eye catcher...it's got to be the fastest fiero ever!....:o)<br>
+Z||000001||PaUL||05-25-99||07:42 PM||||That tubbed fiero could have been an old GTP or GTU race car from the 80s. 
+Z||000002||Pretender||05-25-99||08:21 PM||||a gtp/gtu???...gtu's were berettas and the gtp's a grand prix??...i know it wasn't one of these....it was an front engined 86+ fiero gt, a giant big block up front(429)....i'll scan the pic as soon as it gets back from the film place..:o)

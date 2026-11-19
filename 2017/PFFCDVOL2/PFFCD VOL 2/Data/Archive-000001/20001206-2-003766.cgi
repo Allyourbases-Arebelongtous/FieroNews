@@ -1,0 +1,2 @@
+A||N||0||wxxo||i should have been in that movie 8 seconds.||||5||
+Z||000000||wxxo||05-15-2000||03:47 PM||||i got the biggest buckin bronco in the land. every time my 86 v6 4 spd sits for a while it does this. when i get into it to go somewhere wham foreward then it starts to think that its el diablo. ive got to tie my wrist to the thing to stay on. keep getting a code 32 even though ive changed the egr. cant figure this one out. maybe one of you guys knows something. tia||||reg||5

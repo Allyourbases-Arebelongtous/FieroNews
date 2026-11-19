@@ -1,0 +1,4 @@
+A||||2||Loki||Redoing webpage||||1||
+Z||000000||Loki||07-04-2001||10:43 AM||||Lemme know what ya think so far.... <A HREF="http://members.home.net/loki-mg/" TARGET=_blank>http://members.home.net/loki-mg/</A>    Theres not alot to it right now..But Hey I just started   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P><P>------------------<BR>Loki<BR>ICQ# 16477998||||reg||1
+Z||000001||Urchin||07-04-2001||11:37 AM||||Looks good so far Loki.  Nice interior work too.  You'll have to post some pics when you've got it all done.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/signature2_3.jpg">   <P>If you can read this, I'm parked.||||reg||1
+Z||000002||Loki||07-04-2001||11:48 AM||||Hehe Thanx... As for the interior  Hmm..I think im going with different colors  ehhe<BR><P>------------------<BR>Loki<BR>ICQ# 16477998||||reg||1

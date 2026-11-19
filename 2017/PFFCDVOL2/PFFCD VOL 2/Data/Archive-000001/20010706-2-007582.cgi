@@ -1,0 +1,4 @@
+A||||2||GT Bastard||Advice on aftermarket t/o bearings to buy?||||5||
+Z||000000||GT Bastard||12-31-2000||11:14 AM||||I've heard a couple times before that you should always stick with GM t/o bearings because of the quality, has anyone had bad luck with certain aftermarket brands? I'd hate to waste 75 bucks for something I could get for 1/2 that.||||reg||5
+Z||000001||Will||12-31-2000||11:23 AM||||I'm thinking of using a Tilton or Macleod hydraulic T/O (combines slave cylinder and T/O bearing, gets rid of T/O arm and associated linkage), but that won't be cheaper than a new GM bearing.||||reg||1
+Z||000002||Oreif||12-31-2000||01:15 PM||||If you have a Getreg, Don't use the B&M bearing. I know many people who bought it and had problems. It seems the size of the inside sleeve is a hair off and after a month or so of driving can push itself over the lip. Causing shifting problems.||||reg||1

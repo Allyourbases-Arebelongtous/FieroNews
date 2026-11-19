@@ -1,0 +1,5 @@
+A||||3||RedRavenGT||Anyone have a ford probe parts car? ||||1||
+Z||000000||RedRavenGT||12-17-2001||07:12 PM||||Hi, <P>Im looking for a part for a friend..Need a mass air flow sensor.......Anyone have a probe parts car sitting around? would appreciat any help you can give me....thanks.<P>Scott||||reg||1
+Z||000001||FieroMontreal||12-17-2001||07:20 PM||||humm...might wanna take a peek at the Ford Prob msg boards?||||reg||1
+Z||000002||FieroMaster88||12-17-2001||10:17 PM|||| <A HREF="http://www.probetalk.com" TARGET=_blank>www.probetalk.com</A> <P>------------------<BR>         <IMG SRC="http://www.fiero.nl/uploads/fieromaster88sig.gif">  <BR>James Essar<BR>AOL IM Name: FieroMaster88<BR>Not your ordinary 88 coupe!||||reg||1
+Z||000003||Fformula88||12-18-2001||12:10 PM||||Last time I checked it Probetalk was still down for repairs.  You can also try  <A HREF="http://www.fordforums.com" TARGET=_blank>www.fordforums.com</A>   and go to the Probe section there.  A lot of the Probetalk people are also on that board, and they hang around a lot when PT is down.  Also try some salvage yards, they are not hard to find n yards now that they are getting older.  ||||reg||1

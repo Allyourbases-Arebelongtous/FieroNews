@@ -1,0 +1,2 @@
+A||||0||Cliff D.||Found my exhaust leak on my "AS-IS" GT||||12||
+Z||000000||Cliff D.||11-13-1999||09:40 PM||||First of all, to justify posting this on the tech board, do I have to drop my motor to replace my exhaust from the motor through and including the cat?<BR>Alright now, face up, who is the genius that genius-rigged my manifold to my headpipe with a C-clamp instead of using those non-adjustable bolts? Pretty cool, I can make that VW ticking noise as loud or soft as I want with the twist of a wrist.||||reg||12

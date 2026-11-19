@@ -1,0 +1,5 @@
+A||||3||SCCA FIERO||Bad Vibrations....
+Z||000000||SCCA FIERO||07-21-99||08:01 PM||||My 88 coupe/V6 has developed a vibration. It is more pronounced when the car is tached and down-shifting(like in second at 4 grand and letting off the gas) It's not a terrible vibration, but it has me worried.
+Z||000001||theogre||07-22-99||01:32 PM||||might have a half shaft or hub failing. have them carefully checked.<p>Could be a worn bushing or 2 oscilating. Those are always a joy to find.<p>could also be worn gears in the tranny or Dif.... to much play in the gears can do some pretty queer things.<p>Could be something stupid, like a sensor on the motor....<p>hard to guess w/o seeing it.
+Z||000002||Patrick||07-22-99||11:21 PM||||<br>Bad vibrations...<p>...wasn't that a song by the Beach Boys back in the '40s? <IMG SRC="http://www.compucheap.com/ubb/smile.gif"> <p>
+Z||000003||lowCG||07-23-99||01:15 AM||||You probably already did,but have you double checked all of the different mounting hardware?<br>(engine mounts,suspension,subframe,etc.)

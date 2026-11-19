@@ -1,0 +1,4 @@
+A||N||2||chris6878||Parts swap?||||5||
+Z||000000||chris6878||05-06-2000||04:23 AM||||Well...   before i blew the engine in my 84 4-banger, i put new struts, hub assemblies, and new axels on it.    Since i am parting it now,  all these will swap onto my 85 SE v6 right?       parts werent used 2 months before #1 piston decides to disconnect istelf from its rod and crack my block.. lol  and i was still running.. (sounded like $#!t though...)         <P>Will everything interchange?||||reg||5
+Z||000001||chris6878||05-06-2000||01:01 PM||||¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿||||reg||5
+Z||000002||Raydar||05-06-2000||08:13 PM||||Chris,<P>I believe that all that stuff is interchangeable. I am assuming that both trannys are the same. Automatic and stick axles are different. My only question would be the rear hubs. I have heard that after 84, they were redesigned. Anybody?<p>[This message has been edited by Raydar (edited 05-06-2000).]||||reg||1

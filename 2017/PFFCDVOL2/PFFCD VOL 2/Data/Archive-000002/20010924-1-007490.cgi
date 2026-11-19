@@ -1,0 +1,3 @@
+A||||1||FieroHarry||Oreif are you selling those emblems?||||14||
+Z||000000||FieroHarry||05-17-2001||06:48 PM||||If so I want a pair  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR><B>Harry Waggoner</B><BR>1985 GT 263K+ <I>"TEMPTATION"</I><BR><B>"Im not driving to fast, Im flying to low!"</B>||||reg||14
+Z||000001||Oreif||05-17-2001||08:26 PM||||Follow the link for all the info.<BR> <A HREF="http://www.fiero.nl/forum/Forum1/HTML/007487.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/007487.html</A> <P>------------------<BR>      <IMG SRC="http://www.fiero.nl/uploads/LOGO3.jpg">    <BR><B><I>Got Emblems?</I></B>||||reg||1

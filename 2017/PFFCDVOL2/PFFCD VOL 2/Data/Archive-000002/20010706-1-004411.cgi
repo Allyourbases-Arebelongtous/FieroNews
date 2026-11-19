@@ -1,0 +1,3 @@
+A||||1||strdream||What is a parts car worth?||||1||
+Z||000000||strdream||11-18-2000||06:59 PM||||I don't even own a Fiero. All I have is a Fiero based kit car.  I looked at couple Fieros out in the weeds. One is an 84 SE 2.5  The other is an 85 SE 2.5. They say one runs and one does not.  They didn't know which was which.  Both are pretty tough shape.  What is a good price to offer for both?<BR>Ross||||reg||1
+Z||000001||theogre||11-18-2000||09:11 PM||||depends what is in them that's good that you or anyone can use. I have one 84 near me the guy want's 400us for. The engine is fried and the rest isn't worth 400. Maybe to someone that needs a tan interior and a 4 speed it's worth it.||||reg||1

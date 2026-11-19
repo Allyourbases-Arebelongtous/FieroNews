@@ -1,0 +1,3 @@
+A||N||1||VISCERAL||Hey 88 FIERO any new photo updates?||||1||
+Z||000000||VISCERAL||04-23-2000||03:40 PM||||Would like to see your new mod photos of your car.||||reg||1
+Z||000001||88 Fiero||04-23-2000||09:15 PM||||Visceral...I've been talking to my GF about my project car and have decided to go with the full blown kit car...A '355 convertible. I am so grateful that I have an understanding GF. I tried to tell her that I'd sell the car, but she doesnt want to...she wants me to finished it and enjoy it...Boy..am I lucky to have her...Also, I found a F355 manufacturer that will sell me the convertible kit by pieces....||||reg||1

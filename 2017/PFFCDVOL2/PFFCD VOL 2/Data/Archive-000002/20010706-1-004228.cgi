@@ -1,0 +1,5 @@
+A||||3||btoth||FOCOA scoop question||||1||
+Z||000000||btoth||11-02-2000||09:08 PM||||do the holley style scoops that FOCOA sells look just like the original minus the word "holley"?  there isn't a pic on the site.||||reg||1
+Z||000001||Sleeper||11-02-2000||09:12 PM||||yes they do, but they may not have them now cuz Fiero Motorsports went out of business, Chris West told me he got all of their stuff, but maybe...||||reg||1
+Z||000002||WKDFIRO||11-03-2000||08:34 PM||||Fiero Motorsports has retired and Chris West got a huge amount of equipment and parts from Keith Huff. <P>FOCOA is different from Fiero Motorsports. <P>You are correct. The scoops in question are like the Holleys except or the name.||||reg||1
+Z||000003||DaRkLoRD||11-05-2000||06:20 PM||||Tom also makes Holley style scoops with no name on them.<P> <A HREF="http://www.fieroproject.com/tom/" TARGET=_blank>http://www.fieroproject.com/tom/</A> <P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||3

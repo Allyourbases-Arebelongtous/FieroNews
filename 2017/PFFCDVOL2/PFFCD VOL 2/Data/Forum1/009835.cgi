@@ -1,0 +1,3 @@
+A||N||1||Springtyme||Alternate route||||5||
+Z||000000||Springtyme||08-27-2001||09:46 AM||||Does anyone know an Alternate route up to the Marshfield, MA show other than 95 through NY? I hear the roads are horrible, especially for a Fiero. 1 foot deep potholes and stuff... I don't know if it's true, but I don't want to take the chance! If anyone could get me around that section, I'd greatly appreciate it!<P><BR>~Springtyme~||||reg||5
+Z||000001||Old Lar||08-27-2001||10:43 AM||||Unfortunately I 95 is the most direct route.  Rt 1 is a slow, senic route along the coast.  I don't know where I95 has the big potholes, I stay away from the city.<P>Rt 15 to I84 to the mass pike I90, then back down I95 around Boston (trffic nightmare) is a long round about way.||||reg||1

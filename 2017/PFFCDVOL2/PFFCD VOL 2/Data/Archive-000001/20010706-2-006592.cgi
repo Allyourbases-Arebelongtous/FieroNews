@@ -1,0 +1,4 @@
+A||||2||rodmcneill||Interior colorI||||1||
+Z||000000||rodmcneill||11-05-2000||12:44 AM||||I need an interior trim piece for my 88gt, I was wondering what years had the light grey and what years had the dark grey interior?||||reg||1
+Z||000001||mrfiero||11-05-2000||01:47 AM||||All '86-'88 Fieros have the darker gray interior (identical), so any interior parts from any '86-'88 Fiero will work in your '88 GT. ||||reg||1
+Z||000002||BroCar 87||11-05-2000||03:28 AM||||Actually MrFiero, my 84 SE has darker gray interior pieces than my 87 coupe. <BR>87 light gray<BR>84 dark gray<P>I believe my interior pieces ARE stock too.<P>Just pointing that out for ya  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/Signature2.jpg">  <BR>87 Coupe "IRON BEAST"<BR>   Custom dual side exit exhaust!||||reg||4

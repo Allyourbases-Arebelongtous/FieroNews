@@ -1,0 +1,3 @@
+A||||1||Phil||Another clutch thread
+Z||000000||Phil||08-20-99||12:31 PM||||I have an 88 V6 5sp.Everything was fine UNTIL  the clutch used to grab after about 1" from the top then one  day my pedal had to be on the floor. The clutch arm starts to move as soon as I push the pedal and I have a strong inch of slave push rod travel. The car starts to move at about 1" from the floor but the clutch will start to slip  if I push the pedal in about 1" from the top. Only 3k on the clutch and all this happened from one stoplight to another. Any ideas? I have one but I hope I'm wrong (bent/broken forks).
+Z||000001||Phil||08-20-99||06:31 PM||||Before anyone even starts I was not racing or lighting the tires just normal driving.

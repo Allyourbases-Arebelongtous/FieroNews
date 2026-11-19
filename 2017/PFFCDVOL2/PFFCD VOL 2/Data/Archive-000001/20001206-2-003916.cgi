@@ -1,0 +1,6 @@
+A||N||4||bHooper||How to align and gap body panels...||||5||
+Z||000000||bHooper||05-24-2000||01:28 PM||||Does anyone have any good tricks for this?  When I get my car back, I need to spend a little time aligning the panels and getting the gaps right.  The hoods and bumpers are the major problems that I have.<P>Also, does anyone have a good solution for attaching the fenders and quater panels to the frame, under the door (and qtr's to the rear clip)?<P>thanks,<BR>hoop||||reg||5
+Z||000001||rogergarrison||05-24-2000||08:48 PM||||all the body mounting holes are elongated. just loosen all the bolts on each panel and move them around till the gaps satisfy you. You may have to use a drill or die grinder to make them larger if you cant move them enough.<P>rg<P><BR>||||reg||1
+Z||000002||GT Bastard||05-24-2000||10:28 PM||||A good tip for the hood.... Remove both headlight covers from the hood.  This way you can tighten and loosen the adjusting bolts for the hood bracket while the hood is shut.  Makes it tons easier, and it's only 4 bolts to get them both off.||||reg||1
+Z||000003||bHooper||05-24-2000||10:38 PM||||Thanks, guys!  That sounds like a couple of good tips.  <P>||||reg||1
+Z||000004||JAMIE||05-25-2000||08:33 AM||||I was trying to figure this out just a couple of days ago.Yeah, thanks guys - this is just what i need to know.||||reg||1

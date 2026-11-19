@@ -1,0 +1,5 @@
+A||N||3||Smokin87||Ignition timing for an 87 GT||||5||
+Z||000000||Smokin87||01-11-2001||08:51 AM||||I am tring to do the ignition timing because it is off alot.  but in the fixer manual it says to see the owners manual.  and the owners manual says to see the sticker on the engine hatch.  the problem is that the sticker has fallen off.  i need the information so i can continue my work.  I have a 1987 GT, that is the 2.8 litre engine.<BR>||||reg||5
+Z||000001||StuGood||01-11-2001||12:39 PM||||10 degrees BTDC.  Use the average of the  readings you obtain with timing light hooked on plugs no.1 and no.4. ||||reg||1
+Z||000002||Tom Philips||01-11-2001||12:40 PM||||You have to put a jumper onthe aldl connector on the inside of the car (next to cig lighter) this puts engine into base timing then set timing to 10 Degrees BTDC this is the procedure on my 86 and i think they all use this method<P>------------------<BR>||||reg||1
+Z||000003||Smokin87||01-13-2001||11:29 AM||||thanks for the ignition timing, but during the process of doing the ignition, i have run into a different problem.  which is the 1st and 4th wire.  thanks||||reg||1

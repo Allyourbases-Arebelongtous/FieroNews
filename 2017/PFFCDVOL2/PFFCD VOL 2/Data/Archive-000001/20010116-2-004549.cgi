@@ -1,0 +1,4 @@
+A||||2||Wolfhound||2.8 Timing chain and sprockets||||1||
+Z||000000||Wolfhound||07-01-2000||01:26 PM||||The black 86 Gt refered to in another post has lost valve timing. Starter will turn the distributer rotor, but if I turn the crank with the balancer nut the rotor will not turn. guess the starter gets enough kick to grab the chain and by hand slips over the cranks sprocket teeth.<BR> Am I correct in assuming that the 2.8 should not have valve interference with loss of valve timing??<BR> Suposedly the chain and sprockets can be replaced with out pulling the motor. Is this the best route or is it actually easier to drop the engine??<BR>TIA ||||reg||1
+Z||000001||terryk||07-01-2000||03:15 PM||||If your timing chain broken or spun, your valves are likely bent.<P>Terry<BR>||||reg||1
+Z||000002||Wolfhound||07-01-2000||09:34 PM||||If that,s the case, why would I not have valve interference when I turned it over with the starter ??||||reg||1

@@ -1,0 +1,2 @@
+A||||0||Philphine||stero experiments||||1||
+Z||000000||Philphine||07-16-2000||12:40 AM||||<BR>done some preliminary work on 8" door speakers. gone far enough that i think i'll be able to pull it off and still look pretty good. we'll see. <P>also got the speakers for my '84 out of layaway. 8" infinity triaxials i'm gonna try to put in the dead pedal area. the '87 is actually playing guinea pig for my indy. if i can put door 8's in my '87 clean the indy will get them too, giving me 4 8's in it.<P>might as well dream big.||||reg||1

@@ -1,0 +1,2 @@
+A||N||0||Neandrtal||A/C Relays||||5||
+Z||000000||Neandrtal||05-25-2000||10:59 AM||||I just purchased an '87 Coupe with the DIS 4 banger. I have an A/C problem, no power to the compressor. I think that the A/C Relay is the culprit, but do not know where it is located. TheOgre's post says that it is tied to the ECM. What should I be careful of? Can I remove it and replace it using the standard electrical safety procedures.||||reg||5

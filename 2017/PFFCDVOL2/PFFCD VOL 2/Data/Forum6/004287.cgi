@@ -1,0 +1,7 @@
+A||N||5||burdell1||Real Player Save?||||1||
+Z||000000||burdell1||11-15-2001||09:40 AM||||Does anyone know a way around saving something that is a RealPlayer video file? I know of a way with Quicktime files, but wasn't sure about Realplayer ones....||||reg||1
+Z||000001||Oreif||11-15-2001||10:17 AM||||If it is on a website and when you click the link it plays thru Real Audio, Just right click the link and select "Save Target As"||||reg||1
+Z||000002||burdell1||11-15-2001||10:19 AM||||When I do that it saves a link to the website where it is at. However, I want to save the entire file onto my hard drive.||||reg||1
+Z||000003||isthiswhereiputausername?||11-15-2001||10:56 AM||||Find the hidden url for a streaming Real Audio, ASF audio/video file. Freeware.<BR> <A HREF="http://www.geocities.com/streamgen/streambox.htm" TARGET=_blank>http://www.geocities.com/streamgen/streambox.htm</A> <P>or direct link to the mirror<BR> <A HREF="http://www.geocities.com/us6mirror2/" TARGET=_blank>http://www.geocities.com/us6mirror2/</A> <p>[This message has been edited by isthiswhereiputausername? (edited 11-15-2001).]||||reg||1
+Z||000004||burdell1||11-15-2001||11:36 AM||||I couldn't get it to work....is there any other sites that have it? ||||reg||1
+Z||000005||isthiswhereiputausername?||11-15-2001||11:39 AM||||you could also try streambox vcr<BR> <A HREF="http://www.geocities.com/streamgen/streambox.htm" TARGET=_blank>http://www.geocities.com/streamgen/streambox.htm</A> <P><BR>also search on yahoo for url snooper<P><BR>||||reg||1

@@ -1,0 +1,4 @@
+A||N||2||polomeno||Clutch problem , need opinions||||1||
+Z||000000||polomeno||10-17-2000||12:29 PM||||Hey guys.. my clutch does not change gears when the car is started.. it will change fine when car is turned off.. this summer i changed the slave and master cylinders.. do you think this is just problem with air in lines or something else??<P>thanks<P>John||||reg||1
+Z||000001||2xsess||10-17-2000||12:33 PM||||Do a searc on clutch, you should find a thread titled something like <B>clutch problem uncovered</B> it tells all about these clutch troubles.<P>Good Luck!<P>------------------<BR>Jeff<BR>85GT||||reg||1
+Z||000002||JohnnyK||10-17-2000||03:36 PM||||Hopefully it's with your air lines, but I bled and bled and bled, and everyone said keep bleeding, but I took my clutch apart, and it looks like the release bearing is wearing through the pressure plate (only about 1/16", but I think that 1/16" is enough to cause it not to disengage properly.)||||reg||1

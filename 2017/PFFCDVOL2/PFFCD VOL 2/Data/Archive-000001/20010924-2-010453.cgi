@@ -1,0 +1,3 @@
+A||||1||Robert G., Frank||3800 S/C oil||||1||
+Z||000000||Robert G., Frank||05-15-2001||08:48 AM||||I have a problem with severe oil leak from a 3800..but only when driving..anybody ever hear of this condition?  Its coming from the S/C belt end||||reg||1
+Z||000001||terryk||05-15-2001||11:39 AM||||Severe? The front nose drive seal leaks (seeps is a better word) by design. It's normal. Belt fuzzy sticks to it and makes it look like a major leak, but you don't see liquid.<P>If it's really leaking, the nose drive will need replacement. Magnusen Products is the only source. About $400 last time I checked.||||reg||1

@@ -1,0 +1,8 @@
+A||N||6||firstfiero||anybodys sub woofer still work?||||12||
+Z||000000||firstfiero||12-16-2000||11:23 AM||||    just waundering if anybodys sub woofer still works? Should I fix mine or our they as crappy as what I've read they are?  86se||||reg||12
+Z||000001||T-top Fiero||12-16-2000||11:42 AM||||Mine works just fine. The original speaker was shot in mine. I bought a replacement speaker from Rodney Dickman at <A HREF="http://www.rodneydickman.com." TARGET=_blank>www.rodneydickman.com.</A>  It definately has some "thump" to it. I would say it is better than nothing.<P>Pat<BR>84 SE w/ T tops<BR>||||reg||1
+Z||000002||firstfiero||12-16-2000||01:00 PM||||They definitly have good stereos for a 14 year old car...I just didn't know if the amp they built into the 86 made it any better. 86se||||reg||1
+Z||000003||AL||12-16-2000||02:15 PM||||bought mine at the shack(radioshack)for 15 bucks and it soundsgood to me.<B>AL</B> <IMG SRC="http://www.fiero.nl/uploads/AL_sig.gif"> <P>------------------<BR> ||||reg||14
+Z||000004||tgowens||12-16-2000||03:26 PM||||mine sounds excellent - especially with that little stock 15W amp being pushed by the Pontiac am/fm/cd w/ 7-band equalizer I have - Radio Shack sub speaker fits and sounds good and with that combination I rarely turn the Performance Sound slide control all the way up........||||reg||1
+Z||000005||WampusCat||12-16-2000||04:00 PM||||Anybody got a part # for the RadioShack sub?  Mine sounds a little raspy/busted.||||reg||1
+Z||000006||AL||12-16-2000||05:54 PM||||take your speaker off and take it there they will match you up.<B>AL</B>  <IMG SRC="http://www.fiero.nl/uploads/AL_sig.gif">  <P>------------------<BR> <p>[This message has been edited by AL (edited 12-16-2000).]||||reg||1

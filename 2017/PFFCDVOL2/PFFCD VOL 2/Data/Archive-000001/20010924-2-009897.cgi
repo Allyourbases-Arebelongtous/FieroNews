@@ -1,0 +1,2 @@
+A||||0||kitcar||zz4 question??||||3||
+Z||000000||kitcar||04-24-2001||01:04 AM||||Ok, right now i have a 3.8 supercharged engine about to go in the car.  I was reading about the zz4 crate motor, and i have heard more good storys about them.  I am in this for speed, so would the zz4 be lots faster?  Like i said in my later post, my car only weighs 2,300lbs.  I was wondering will the zz4 bolt right into the fiero?  Also, how much do they cost?<P>Thanks once again...I want my replica lamborghini to be in the 11's!!<P>so 3.8sc or zz4? ||||reg||3

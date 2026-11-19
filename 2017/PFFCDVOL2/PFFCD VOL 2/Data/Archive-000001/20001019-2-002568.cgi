@@ -1,0 +1,3 @@
+A||||1||Big O||Speedo Hop||||8||
+Z||000000||Big O||03-05-2000||10:37 AM||||Took my ride to the car wash the other day and the guide rails felt like they were coming in contact (lightly) with something on the underside.  When I got out I noticed that the speedo cable was going wild. It was bouncing from 5 - 80 mph when the car was stopped.  It did this for a while and then stopped.  It started again the next day but was intermittant.  It seems to be the worst after I've had the car in reverse.  Any ideas out there as to where to start looking?||||reg||8
+Z||000001||theogre||03-05-2000||10:43 AM||||water in the speed sender or a sender drive grear is failing. These cars don't have a cable.||||reg||1

@@ -1,0 +1,7 @@
+A||||5||sloGT||tying the knot||||14||
+Z||000000||sloGT||06-24-2000||04:20 PM||||Guys girls,just had to tell everyone I have 2 more hours of being a free man!oh well better get off here before she finds me <IMG SRC="http://www.fiero.nl/forum/frown.gif"> atleast tonight will be fun <IMG SRC="http://www.fiero.nl/forum/wink.gif"> ||||reg||14
+Z||000001||Cliff Pennock||06-24-2000||07:36 PM||||Congratulations man! Hope you have a wonderful day!||||reg||14
+Z||000002||Eric||06-25-2000||12:14 AM||||It's all over now.  Well let me check my watch.  Yep.  The faint sound of Cliff marking off another day on the calender can be heard by married men all over the world.<P>It's bout time for my single ass to head out.  I'll be thinking of you guys  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000003||2FAST4U||06-25-2000||02:01 AM||||A man is not complete until he's married...  THEN HE'S FINISHED||||reg||1
+Z||000004||Monkeyman||06-25-2000||10:46 AM||||If you find/found the right girl, you're life will be complete.  If you've found one that isn't right, you're life will be hell.  (I know this from experience.  I have 2 ex wives and one current wife that I wouldn't trade for the world!)||||reg||1
+Z||000005||dogtired||06-26-2000||06:10 AM||||Well sloGT Good for U.<BR>I made the same mistake er I mean decision  30+ years ago.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>It really is easier to restore a FIERO on 2 incomes  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>All kidding aside, Hope the BEST for you both.||||reg||6

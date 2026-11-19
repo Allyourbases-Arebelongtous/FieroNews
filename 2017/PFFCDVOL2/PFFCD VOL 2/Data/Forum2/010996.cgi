@@ -1,0 +1,2 @@
+A||||0||Wannabe||'88 Wheel offset - Again!||||5||
+Z||000000||Wannabe||06-04-2001||05:35 PM||||There is a page accessable through the OSG that lists detailed dimensional information about the wheels on various years of the Fiero. According to that page, the offest on the 15x7 wheels on the back of the '88 GTs and Formulas is 41mm. Recently, someone posted hear that that is not correct and that in fact, the offset is 35mm, same as the 15x7 wheels on the '86 & 87 GTs. Anybody know for sure which is right?? TIA.||||reg||5

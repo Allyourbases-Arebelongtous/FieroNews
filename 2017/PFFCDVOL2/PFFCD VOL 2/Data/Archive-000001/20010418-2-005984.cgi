@@ -1,0 +1,2 @@
+A||N||0||beachbomb||1984 Indy Fiero (white wheels)||||5||
+Z||000000||beachbomb||09-30-2000||07:34 PM||||Hi all, i have a 1984 Indy fiero with the usual white rim wheels, is there anything i can use that will bring back the nice white rims that it originally looked like. mine are still white but kinda grungy and will not clean up with normal cleaners. Also the car idles too fast, any suggestions on what to do about it?..plmk, thanks..jim||||reg||5

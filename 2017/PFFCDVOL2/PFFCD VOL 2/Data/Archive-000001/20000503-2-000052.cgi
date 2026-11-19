@@ -1,0 +1,6 @@
+A||||4||burdell1||Cruise Control
+Z||000000||burdell1||04-09-99||02:06 PM||||I am having a problem with my cruise control. it is not working at all.  however, the wiring harness that goes directly to the car was removed at one time. there are five wires, but two of the grey ones have only one grey counterpart.  what does these wire(s) do?  there is no electricity going through it when ever i use anything on the cruise control.
+Z||000001||burdell1||04-10-99||09:17 AM||||Does anyone out there have a working cruise control that could look for me how there wires are hooked up?  I just need to know how the grey wires from the cruise control wiring harness (not from the signal lever) are hooked up.   Help!!
+Z||000002||Cliff Pennock||04-10-99||05:19 PM||||I'll look it up in the Haynes manual. Unless somebody else beats me to it...
+Z||000003||burdell1||04-11-99||03:47 PM||||Doesn't anyone out there have a cruise control they could look at? Please help! I would REALLY appreciate it!<br>
+Z||000004||theogre||04-11-99||10:34 PM||||cruise on fiero actually isn't that common, at least not around here. I've only seen one so far and and it's not mine to fool with.<p>If we knew we'd tell you. calm down. it's not like not having it will kill you.

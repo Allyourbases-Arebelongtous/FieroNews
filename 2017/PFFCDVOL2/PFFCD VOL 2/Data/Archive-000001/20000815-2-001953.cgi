@@ -1,0 +1,2 @@
+A||N||0||2FAST4U||STRANDED - Need a part fast||||4||
+Z||000000||2FAST4U||01-11-2000||08:03 PM||||Help, my poor GT is broke down far from home and I need a part to fix it and bring it home.<P>I need a rear transmission mount bracket to fit a 1985 GT V6 5-Speed. Not the transmission mount but the bracket that the mount bolts to.<P>I'll pay priority handling and overnight shipping if someone has this part for sale. <P>Thanks Much<P>Joe<BR>2FAST4U||||reg||4

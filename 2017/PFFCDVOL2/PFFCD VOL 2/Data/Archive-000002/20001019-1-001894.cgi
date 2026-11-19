@@ -1,0 +1,2 @@
+A||||0||Homicidal||What is THIS part called?????? ||||1||
+Z||000000||Homicidal||04-20-2000||06:21 PM||||It's attatched to the slave cylinder. The S.C. has a little metal rod which pushes against this peice of metal which<BR>                          in turn pushes my fork and shifts my car. Well, that little metal peice broke off so now the little rod just goes right<BR>                          through the fork.<P>                          What is that little metal peice called?<BR>||||reg||1

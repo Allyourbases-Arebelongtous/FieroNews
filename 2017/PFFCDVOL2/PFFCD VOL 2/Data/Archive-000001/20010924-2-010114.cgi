@@ -1,0 +1,6 @@
+A||||4||3fifty||Tire sizes||||5||
+Z||000000||3fifty||05-02-2001||03:46 AM||||I have a 85 Gt Kit Car that I bought already<BR>built (somewhat). It has 245/50 16 on the rear & 205/55 16 on the front. I haven't checked the seedometer against anyone yet. What size tires on 16 rims will keep the<BR>factory speedo settings?<P>Thanks,<BR>350 one day!!!!!!!||||reg||5
+Z||000001||RossT||05-02-2001||03:53 AM||||Check out: <A HREF="http://www.secret-secret.com/turbo/DIY/tirecalc/turbotire.html" TARGET=_blank>http://www.secret-secret.com/turbo/DIY/tirecalc/turbotire.html</A> <P>plug in stock tire size, then you can figure out what size on a 16 inch rim will be close!||||reg||1
+Z||000002||RossT||05-02-2001||03:55 AM||||85 gt stock tire size= 215-60 14in  ||||reg||1
+Z||000003||Oreif||05-02-2001||09:19 AM||||Remember it is only the rear size that affects the speedo. (Sensor attached to rear wheels)||||reg||1
+Z||000004||RossT||05-02-2001||10:04 AM||||this is 3fifty's car:<BR> <IMG SRC="http://www.fiero.nl/uploads/Testarossa4.jpg"> <P>I hope he doesn't mind that I posted it, but that is one nice fiero I mean car!!<P>That tire link above is oreif's <BR>He is the one that posted that earlier.||||reg||1

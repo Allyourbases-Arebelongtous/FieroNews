@@ -1,0 +1,2 @@
+A||N||0||fierodave||need to contact  TED B from greenbay||||1||
+Z||000000||fierodave||03-23-2000||04:24 AM||||<BR>any list member know how to contact TED B from Greenbay?<BR>I fronted the money for an engine for his Fiero when he was short cash!( I paid for the engine he picked it up from the seller!  I made no money on the deal! and it was a great deal) better deal it looks like now lol  and now no contact!<BR>his email is dead, and the phone number is too!  any help would be Great,  I will have to re-think my credit policy now!<BR>thanks for the space<BR>FD||||reg||1

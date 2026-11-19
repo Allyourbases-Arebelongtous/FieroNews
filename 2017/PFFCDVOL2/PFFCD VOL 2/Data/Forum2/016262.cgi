@@ -1,0 +1,6 @@
+A||||4||stingant0||CARFAX GUY!!!!!!!||||1||
+Z||000000||stingant0||12-11-2001||02:47 PM||||I need you to look up the history in 2G1WX12XXT9289610  if SHOULD be a 96 Monte Carlo||||reg||1
+Z||000001||My7Fieros||12-11-2001||03:33 PM||||Here ya go........<BR>1996 Chevy Monte Carlo Z34<BR>2dr coupe 3.4 V6<P><FONT COLOR="red">SALVAGE/JUNK TITLE</FONT><P>07/30/96 Odometer 44 miles<BR>10/27/97 Odometer 11,844 miles<BR>06/15/98 Odometer 24,130 <FONT COLOR="red">sold at salvage auction</FONT><P>Hope that helped!||||reg||11
+Z||000002||DKOV||12-11-2001||04:43 PM||||Looks like someone is sourcing a 3.4L DOHC for a Fiero Conversion  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>What tranny was in it?  Manual or Auto?  HOPE FOR MANUAL!!!<P>DKOV -||||reg||1
+Z||000003||stingant0||12-11-2001||06:23 PM||||It is a automatic and THANKS A LOT GUYS FOR THE INFO!!! The guy has a manual getrag with an engine, he ONLY wants $1000 for both including the cradle with suspension!!I would buy it but dont hav that kind of money,||||reg||1
+Z||000004||DKOV||12-11-2001||07:25 PM||||To bad you couldn't work something out.  I guarentee, in the future, you will wish you had that 5-speed!!!<P>Still, great engine!   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>DKOV -||||reg||1

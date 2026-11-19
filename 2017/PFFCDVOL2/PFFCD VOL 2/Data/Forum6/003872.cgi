@@ -1,0 +1,13 @@
+A||||11||GT Bastard||Burning inside...||||14||
+Z||000000||GT Bastard||10-22-2001||05:02 AM||||Hi, I have a new signature... Instead of devoting my efforts to saving small children, I decided to change my signature.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/icare.jpg"> ||||reg||14
+Z||000001||btoth||10-22-2001||09:40 AM||||That's kinda creepy.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||Nashco||10-22-2001||09:57 AM||||Yeah..just a little...spooky.||||reg||1
+Z||000003||JSocha||10-22-2001||10:11 AM||||<B>SAVE THE CHILDREN!<BR>SAVE THE CHILDREN!<P>RUN!<BR>RUN!<BR>RUN FOR YOUR LIVES I SAY! </B><P> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Sorry...couldn't resist!<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> ||||reg||1
+Z||000004||Fformula88||10-22-2001||10:19 AM|||| <IMG SRC="http://www.fiero.nl/forum/eek.gif"><P>Please, a better warning in the topic heading next time!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  Reconsider saving children, for everyone's sake!   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  ||||reg||1
+Z||000005||bHooper||10-22-2001||10:50 AM||||thats a bit strange!  by the topic of the thread, i was going to suggest that you go get a shot of penicillin!   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>hoop<BR><FONT SIZE="3"><FONT COLOR="red"><B>Red</B></FONT></FONT> 86 GT 5 speed<BR><FONT SIZE="3"><B>Black</B></FONT> <u>86 SE Automatic</u>||||reg||1
+Z||000006||GT Bastard||10-22-2001||02:16 PM||||LOL!||||reg||1
+Z||000007||FieroFanaticus2||10-22-2001||05:24 PM||||Hey, I kind of Like it.  Different is always good.  Here's Mine, I don't use it often.<BR>If you've never seen it, or really looked at it, it's a devil on the toilet.<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/dump_1.jpg"> ||||reg||1
+Z||000008||LT1 Chop Top||10-22-2001||05:42 PM||||Woah...I thought this was in reference to my posting in the POO thread....my mistake.||||reg||1
+Z||000009||Heretic||10-23-2001||08:58 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by LT1 Chop Top:<BR><B>Woah...I thought this was in reference to my posting in the POO thread....my mistake.</B><HR></BLOCKQUOTE><P>Those Jalepenos are goooood!<P><BR><P>------------------<BR> <IMG SRC="http://shopping.yimg.com/images/muze/album/390/399801_th.jpg">    <BR>TOOL OWNS j00!||||reg||1
+Z||000010||Jake_Dragon||10-23-2001||09:33 PM|||| <IMG SRC="http://www.fiero.nl/uploads/wtf.gif"> ||||reg||1
+Z||000011||Cheever3000||10-23-2001||10:09 PM||||~ ~ ~ Yes, Master? ~ ~ ~<BR>||||reg||1

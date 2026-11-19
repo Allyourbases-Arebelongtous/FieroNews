@@ -1,0 +1,2 @@
+A||N||0||Haze_Performance||11,000 mile 1986 Fiero GT FOR SALE||||1||
+Z||000000||Haze_Performance||05-03-2000||02:09 AM||||I was driving around and I passed by a Toyota dealer...Guess what I saw. A 86 Fiero GT with just over 11,000 miles (Was a showcar, it had a few trophies in it) its Red/w Silver GFX, Loaded,Auto,Sub System,Leather seats,Mint Dash and Sunroof it even had the Fiero logo spare tire cover still on. They were asking $11,000 for it..It is in Oak Lawn Illinois..If anyone is interested let me know ill get the phone number..   ||||reg||1

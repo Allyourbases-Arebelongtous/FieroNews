@@ -1,0 +1,2 @@
+A||||0||zeusrekning||madrox's car(long loader)||||1||
+Z||000000||zeusrekning||11-07-2000||08:32 PM||||Chris sorry it took so long.<BR> <IMG SRC="http://www.fiero.nl/uploads/brokehoses.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/floorboard.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/framedam.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/frontend_1.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/hole.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/sideview.jpg"> <P><BR> <IMG SRC="http://www.fiero.nl/uploads/seat_1.jpg"> <P>||||reg||1

@@ -1,0 +1,3 @@
+A||N||1||LoW_KeY||Good Michigan shops for rebuilds and turbos||||10||
+Z||000000||LoW_KeY||11-07-2001||03:31 AM||||Ok I'm just curious anyone know of any shops around the MI area or even other states close by? I have the 3.4 and wanted to get it rebuilt and turboed.. yeah sure it'll cost some bucks, but I don't have tools to do this work and I'm not all that car intelligant  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> <P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/kc.jpg"> ||||reg||10
+Z||000001||1FST2M6||11-07-2001||09:45 AM||||try Blue Water customs and hot rods.. not sure if it's in Fort Gratiot or Port Huron.. but up that way.. they build my uncles 11.30 street 67 Camaro 350.||||reg||1

@@ -1,0 +1,6 @@
+A||||4||burdell1||TRUNK ALIGNMENT
+Z||000000||burdell1||05-26-99||12:42 PM||||Recently my trunk got misaligned. I'm not sure how it happened, but I think that a gust of wind pulled the trunk back a little too far when I had it open.  Now the driver's side of the trunk won't shut without me moving the trunk a little to the right (it also is rubbing the paint off too.) is there anything that I can tighten or loosen to realign it back to normal?<br>
+Z||000001||Carrolles||05-26-99||04:38 PM||||If this is on an 85 or later remove the engine grills on either side of the lid (I'm not sure if the solid covers on either side of the center grill is removable on an 84).  Then loosen the bolts that secure the lid to the hinges slightly and close the lid.  Move the lid until it is aligned properly and then reach under the lid through the openings where the grills were and tighten the bolts. 
+Z||000002||theogre||05-26-99||06:48 PM||||all the pannels are removable, even the 84's.
+Z||000003||theogre||05-26-99||06:49 PM||||too bad adjusting all hood and deck lids isn't this easy.
+Z||000004||burdell1||05-27-99||07:34 AM||||Carrolles,<p>It is official, you are a genius! Thanks, that trick worked in less than five minutes.

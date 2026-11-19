@@ -1,0 +1,4 @@
+A||||2||Philphine||chop top a pillar guages?||||1||
+Z||000000||Philphine||10-24-2001||11:15 AM||||<BR>just wondering if archie or the couple of chop top owners have tried them. if the angle had changed enought to tilt them funny or make them hard to read. refering to the fiero shop ones. those are the only ones i know of beyond home brews.||||reg||1
+Z||000001||ChopTop||10-24-2001||12:59 PM||||Never tried, don't see why they wouldn't work, the pillar is simply laid back, you might have to shim them a little and place them lower down since the pillar is closer to your face.  Not sure I'd want them though because the pillars obstruct my vision as it is.  ||||reg||1
+Z||000002||FieroRacer||10-24-2001||06:08 PM||||Just a suggestion for additional guages.  Fabricate a hood mounted guage package to be sort of a Heads Up Guage Package.  I saw this on a 2nd gen camaro that came through the drive thru once day.  Plan on doing it to Demon||||reg||1

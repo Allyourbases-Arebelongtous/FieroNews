@@ -1,0 +1,3 @@
+A||||1||Gokart||F.O.C.O.A.?
+Z||000000||Gokart||05-30-99||05:25 AM||||When I had a coupe back in 92-95 I joined the FOCOA and remember it only took about 2 weeks to get the stuff for joining. When I got my GT over a month ago I rejoined right away with much enthusiasm, but still haven't recieved anything! Anyone else had this prob with them or am I not being patient enough? I was told it is run by volunteers and to wait, but I think over a month is enough time!?
+Z||000001||Racer 1||06-01-99||10:11 AM||||Yeah I had the same experience back in  97-98.Took the focoa along time to send out the mags sometimes I would wait 3/4 of a year then get 3 mags all at once!Plus when ever I had ordered stuff from them the guy wasnt really friendly but the lady was friendly..GOOD LUCK

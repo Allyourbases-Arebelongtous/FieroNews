@@ -1,0 +1,4 @@
+A||||2||Homicidal||Found the culprit of my locked clutch pedal!||||1||
+Z||000000||Homicidal||04-20-2000||05:47 PM||||A little peice of metal attatched to the slave cylinder which pushed the fork.  Now I just need to find that d@mn peice!!!!!!!||||reg||1
+Z||000001||clayell||04-22-2000||03:23 AM||||hey, i had some slave cylinder problems when i first got frieda (my fiero). if your slave cylinder is stock or if you haven't replaced it in a long time you might want to do so. i got mine from autozone for somewhere close to $35.00. the only bad thing about doing it is having to bleed the clutch, that sucks!||||reg||1
+Z||000002||fiero56||04-22-2000||10:17 AM||||Are you talking about the rod that extends from the slave through the rubber boot? If so I can send you one free of charge. Or, I can just mail a slave cylinder to you, just pay shipping. The cylinder needs rebuilding, but worked when I took it off my Formula. Let me know.||||reg||1

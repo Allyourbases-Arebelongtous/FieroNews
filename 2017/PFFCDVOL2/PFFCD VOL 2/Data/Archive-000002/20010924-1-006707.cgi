@@ -1,0 +1,6 @@
+A||||4||BAM-BAM||Hauling a 3800SC???||||5||
+Z||000000||BAM-BAM||04-07-2001||09:15 PM||||  Can a half ton pickup handle a 3800sc and 4T60E tranny on a palette? I was told that they were to heavy. Is this true? I need to know quickly.<P>TIA!!!<P>Peace, B2 OUT!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||5
+Z||000001||Chris Schaefer||04-07-2001||09:40 PM||||I wouldn't think that that combination would weigh any more than 1000 Lbs.<p>[This message has been edited by Chris Schaefer (edited 04-07-2001).]||||reg||1
+Z||000002||Songman||04-07-2001||10:03 PM||||Any 1/2 ton truck will handle that easily... even a spare tranny if you need one! heheh<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1
+Z||000003||BAM-BAM||04-07-2001||10:37 PM||||   That's what I was thinking. I plan on placing it forward of the rear wheels, as far forward as I can. I believe the combo weighs in at 800lbs. or there about. Thanks for the reassurance, I appriciate it alot!<P>Peace, B2 OUT!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Knowledge is POWER!<BR>That is why the ignorant remain Weak!||||reg||12
+Z||000004||terryk||04-07-2001||11:37 PM||||Sounds like you scored!||||reg||14

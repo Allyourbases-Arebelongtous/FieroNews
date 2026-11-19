@@ -1,0 +1,4 @@
+A||N||2||Lewis||Car will not start hot.......||||9||
+Z||000000||Lewis||02-20-2000||09:51 AM||||After I drive the car for more than 1/2 hour and I turn it off it will not start again for about 1/2 hour to 45 minutes.  I can hear the fuel pump but I get nothing when I turn the key.  The proper lights come on in the dash but it's as if the battery is not even connected..thanks fiero56 for the help..lewis..85 GT automatic is what I have...||||reg||9
+Z||000001||wkayl||02-20-2000||10:33 AM||||Sounds like a starter problem (brushes or solenoid)||||reg||1
+Z||000002||Oreif||02-20-2000||11:01 AM||||It's the starter solenoid. When it gets hot it doesn't work, cools down it works. You could change the starter or see if they sell just the solenoid. Lots of GM vehicles have this problem especially if the starter is above or near an exhaust pipe. ||||reg||1

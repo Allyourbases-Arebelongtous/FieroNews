@@ -1,0 +1,3 @@
+A||||1||Hank is Here||Keyless entry||||1||
+Z||000000||Hank is Here||01-09-2001||11:49 PM||||I am thinking about a keyless entry system for my car and would like the following features<BR>1)Keyless door entry<BR>2)Keyless trunk entry<BR>3)Window control<P>I do not want the remote start.  <P>Does any company make a system like this?||||reg||1
+Z||000001||Oreif||01-10-2001||12:37 AM||||Most alarm systems can do the above, plus you get the added protection of the alarm. I have installed Code Alarm, Viper, Chapman, and Alpine systems into many cars. I know that the above brands have window control units (sold seperatly) and the doors and trunk are part of the basic alarm package.<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/LOGO3.jpg"> ||||reg||1

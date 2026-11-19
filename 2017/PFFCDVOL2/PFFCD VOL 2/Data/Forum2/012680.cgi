@@ -1,0 +1,6 @@
+A||||4||Kasdan||Explain to me how i manade to do this...||||1||
+Z||000000||Kasdan||08-10-2001||07:57 PM||||Occasonally, during high speed turning (aka drifting around a pole in a parkinglot) my automatic 86 GT stalls....||||reg||1
+Z||000001||Fatal Error||08-10-2001||08:48 PM||||ummmm .. low on gas?  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> weak fuel pump? Try drifting the other direction and see if it does the same thing. Also, on occasion yell obscenities really loud. I've heard that helps.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>-Fatal||||reg||1
+Z||000002||Formula88||08-10-2001||08:58 PM||||right hand or left hand turn?  If it's left hand, I'm betting low oil pressure is killing the fuel pump.<BR>||||reg||1
+Z||000003||x-thumpr-x||08-10-2001||10:22 PM||||does your take a few seconds to start up right away? (build up oil pressure) If so, you might have a faulty fuel pump relay. The cars back-up is the oil pressure sensor. When under 5psi, It will turn off the fuel pump. Have the same problem in my car. Have an external switch to turn it on or off when I have to. ||||reg||3
+Z||000004||Kasdan||08-10-2001||10:40 PM||||Yep, that sensor is bad, i took her into the shop monday, and they told me that today, lol.  Yep, lefthand drift.  thanks guys, i knew youd know  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1

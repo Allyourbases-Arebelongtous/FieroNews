@@ -1,0 +1,6 @@
+A||||4||DXR_DAD||Good day to all !!!||||1
+Z||000000||DXR_DAD||11-25-1999||02:36 PM||||It's a nice day here, the sun is out not to hot, just right. Well, to all fiero owners.<P>Wash it, Wax it, and then CRUZ IT!!<P>HAPPY THANKSGIVING||||reg||1
+Z||000001||olympic||11-25-1999||02:50 PM||||We just got our first major snowfall here(Saskatchewan) today. Looks like 4-5 inches. It's fender bender time so I won't be cruzn it. I love snow though, we call it white gold in the taxi business.||||reg||10
+Z||000002||Patrick||11-25-1999||03:01 PM||||<BR>Up here in Canada, we had our Thanksgiving Day a month ago. I hope you Americans appreciate the fact that we saved a few scrawny turkeys for you. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||14
+Z||000003||turbo86se||11-25-1999||04:02 PM||||Happy Thanksgiving everyone! I just got off the golf course. The weather here in Myrtle Beach is beautiful! Just a minute ago my Fiero-maniac mechanic stopped by and let me drive the Formula/Pisa Scorpion, he just got done installing a 3800 in it. Sure is fast! Not as fast as my turbo 2.8! <p>[This message has been edited by turbo86se (edited 11-25-1999).]||||reg||1
+Z||000004||SpeedPhreak||11-25-1999||04:27 PM||||TURKEY DAY...YAY!!!  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>||||reg||1

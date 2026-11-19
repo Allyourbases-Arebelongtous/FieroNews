@@ -1,0 +1,2 @@
+A||N||0||KitKar||longitude 3.8 s/c||||1||
+Z||000000||KitKar||08-23-2000||05:46 PM||||I was just searching through the archives for info on engine conversions and came across a post asking if you could do a longitudinal conversion with a 3.8. Well, according to Joe Wynman's manual you can due a that conversion with a toronado tranny and any GM engine.<P>------------------<BR>Rick Lord<BR>Webmaster<BR>http://www.KitKar.com||||reg||1

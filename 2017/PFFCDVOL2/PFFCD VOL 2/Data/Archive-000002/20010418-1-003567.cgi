@@ -1,0 +1,2 @@
+A||||0||RossT||standard||||1||
+Z||000000||RossT||09-07-2000||02:41 AM||||The guy from "Golden Valley" that I was telling you about, is coming out here Saturday to check out my white 88gt. Looks like you are about to have a new fiero running around town.  He intends to drive it on a daily basis. So much for that new car smell!! <P>He is a real nice guy.  He ownes two fieros, I am unsure about the colors or years.  As soon as he says its ok, I will get him on the forum.  He is new to computers.<BR>Ross<p>[This message has been edited by RossT (edited 09-07-2000).]||||reg||1

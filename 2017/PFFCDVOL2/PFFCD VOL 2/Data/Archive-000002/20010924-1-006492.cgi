@@ -1,0 +1,6 @@
+A||||4||LT1 Chop Top||posting pictures||||1||
+Z||000000||LT1 Chop Top||03-29-2001||02:00 AM||||How do you post pictures here??<P>||||reg||1
+Z||000001||RossT||03-29-2001||02:12 AM||||click on the link below to download the program.<P>also check out <A HREF="http://www.fiero.nl/forum/Forum1/HTML/006241.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/006241.html</A> <P>Thats you car??||||reg||1
+Z||000002||HAGS||03-29-2001||02:49 AM||||I usually upload them to my webpage server and then link to that with the [/IMG][IMG] commands<P>I didnt see you at the San Antonio meeting! Did the auto show run too late?  Did you place?<P>I went and joined the club....I live back in Floresville, TX again and the Austin club doesnt really exist anyway...||||reg||1
+Z||000003||LT1 Chop Top||03-29-2001||06:08 PM||||Hell, Hagues!<P>Sorry I missed you!  Yes, the car show ran a bit too long.  I was tired and quite a bit sunburned.  I placed 1st in the Fiero division with my 88 GT.  Let me know if you are attending the next meeting...Ill be sure to bring the Chop Top for you to drool over.<BR>||||reg||1
+Z||000004||LT1 Chop Top||03-29-2001||06:09 PM||||RossT<P>Yes the the Archie Blue Chop Top is mine!!<P>J||||reg||1

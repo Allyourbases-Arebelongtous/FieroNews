@@ -1,0 +1,3 @@
+A||||1||Fierowrecker||Lowell, Michigan Fieros||||1||
+Z||000000||Fierowrecker||06-30-2001||07:34 AM||||Hey!<BR>Any one interested in a little get together and possible cruse through Lowell?<BR>If you are interested, drop me a line.<BR>crash...<BR>||||reg||1
+Z||000001||FieroKyle||07-04-2001||12:09 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Fierowrecker:<BR><B>Hey!<BR>Any one interested in a little get together and possible cruse through Lowell?<BR>If you are interested, drop me a line.<BR>crash...</B><HR></BLOCKQUOTE><P><BR>Yeah I am interested, I know a friend who would do it too. <P><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sign_1.jpg"> <BR>My Fast 'n Black Car<P>Kyle - 85' GT||||reg||1

@@ -1,0 +1,4 @@
+A||||2||TOM||ECM question||||1||
+Z||000000||TOM||06-11-2000||02:33 PM||||Is a 86GT ecm any different than a 86SE 6 or is it the same. both are auto and a/c and cruise.||||reg||1
+Z||000001||Oreif||06-11-2000||03:20 PM||||They are the same for 86 and 87 GT and SE (with V-6). I know these 2 for sure. I don't know about the 85 GT or the V-6 88's||||reg||1
+Z||000002||terryk||06-11-2000||03:35 PM||||85 V6 is a 1226869<BR>86-88 V6 is a 1227170<P>Only the calibration prom changes from year to year or for manual or automatic transmission. An 85 calibration will not work in a 86-88 ECM and vice-versa.<P>Both support 2 BAR maps for boost applications but only the 1226869 has provisions for wastegate control (a few components must be soldered to the board). It was dropped in the 7170.<P>Terry||||reg||1

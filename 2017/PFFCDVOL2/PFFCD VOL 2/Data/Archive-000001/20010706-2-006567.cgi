@@ -1,0 +1,2 @@
+A||||0||Standard||Brake bleeder screw size||||1||
+Z||000000||Standard||11-02-2000||10:10 PM||||What size are the brake bleeder screws for 84-87 Fiero's, front and rear?<P>TIA<P>------------------<BR>Mike -<BR>Black 86.5 GT 5 Spd, 151,000 miles and counting!         <IMG SRC="http://www.fiero.nl/uploads/BURNOUT.gif">      <BR>Red 84 Sport Coupe - winter donut maker   <IMG SRC="http://www.fiero.nl/uploads/asthanos.gif"> ||||reg||1

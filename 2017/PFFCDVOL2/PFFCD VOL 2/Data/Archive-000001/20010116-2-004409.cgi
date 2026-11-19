@@ -1,0 +1,5 @@
+A||||3||Dan87GT||Another V6 Hot start problem||||1||
+Z||000000||Dan87GT||06-22-2000||12:54 PM||||After I run my 86Se for awhile it will not restart, it starts right up when cold. I have replaced the fuel pump, filter, wires, plugs, cap, rotor, timing is dead on, and rebuilt the distributor. It is getting spark when hot. I am thinking maybe its the fuel pressure regulator? Any thoughts??????<BR>||||reg||1
+Z||000001||StuGood||06-22-2000||01:18 PM||||Cold start switch?  Just a thought... ||||reg||3
+Z||000002||Patrick||06-22-2000||03:43 PM||||<BR>Although this may seem like an overly simplified solution, and I'm sure it won't work for everybody, but I solved my hot start problems by replacing the 195 thermostat with a 180 unit.<P> <A HREF="http://www.fiero.nl/forum/Forum2/HTML/004378.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/004378.html</A> ||||reg||1
+Z||000003||Dan87GT||06-22-2000||04:01 PM||||I also hooked up a fuel pressure gage, after I turn the engine off the pressure drops from 39 psi to 10 psi in about an hour, is this normal or could I possibly have a leaky injector?||||reg||1

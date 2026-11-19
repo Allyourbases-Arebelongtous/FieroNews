@@ -1,0 +1,5 @@
+A||||3||Uaana||Finally pics of my 85||||1||
+Z||000000||Uaana||06-20-2001||12:58 PM||||My sleeper waiting for springs and 3.4 transplant.<P>   <A HREF="http://albums.photopoint.com/j/ViewPhoto?u=1315468&a=13322377&p=50636842&f=0" TARGET=_blank>http://albums.photopoint.com/j/ViewPhoto?u=1315468&a=13322377&p=50636842&f=0</A> <P><BR>It don't get more plain jane than this.<P>Fine tried like 5 times to get this to work. click the link!<p>[This message has been edited by Uaana (edited 06-20-2001).]||||reg||1
+Z||000001||Standard||06-20-2001||02:36 PM||||Nice lookin ride, man!  She'll make a nice sleeper  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000002||Tina||06-20-2001||10:34 PM|||| <IMG SRC="http://albums.photopoint.com/j/View?u=1315468&a=13322377&p=50636842"> ||||reg||1
+Z||000003||Uaana||06-21-2001||12:18 AM||||Not sure what the problem is....<BR>For some reason I can't get Photopoint to load at home. <BR>Guess I'll DL the pics at work and email them to myself. then just use good ole pip||||reg||1

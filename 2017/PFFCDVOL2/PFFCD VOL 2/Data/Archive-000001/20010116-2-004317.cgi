@@ -1,0 +1,4 @@
+A||||2||David Gamache||ECM/ Prom question||||5||
+Z||000000||David Gamache||06-16-2000||09:55 PM||||You know your getting old when... I am switching my 5-speed fiero to an automatic tranny. <BR>I have acquired all the parts to complete the switch on my 88 Fiero (cradle, trans lines , radiator , cables,etc...), but have a question on whether it is necessary to change the prom chip or the entire ECM and chip or if the switching trannys will make no difference to the computer?||||reg||5
+Z||000001||terryk||06-17-2000||01:48 AM||||Yep. I'm doing a DOHC swap and decided on the 4T60E trans in my automatic 86 SE. I love my manual trans 86 SE, but decided I wanted the power in the crusier, not the gear banger.   ||||reg||1
+Z||000002||David Gamache||06-18-2000||05:15 PM||||i will swap out the prom and hopefully all will perform as planned,<BR>Thanks!||||reg||1

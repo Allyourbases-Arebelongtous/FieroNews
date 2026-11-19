@@ -1,0 +1,6 @@
+A||N||4||DaRkLoRD||looking for a supply of brass powder||||5||
+Z||000000||DaRkLoRD||05-09-2000||05:41 PM||||I require a small amount of relatively fine brass powder, but I haven't been able to locate any. I'm not even sure what it's used for, one person suggested I check at a gun supply store..<P>Anyone have any suggestions of where I might find approx. 2 cups of brass powder?<P>thanks..||||reg||5
+Z||000001||zeusrekning||05-09-2000||11:13 PM||||why?||||reg||1
+Z||000002||fierospeeder||05-10-2000||12:03 AM||||You can try a science/chemistry store, or i would take a grinder and get the dust from grinding a brass rod.||||reg||1
+Z||000003||DaRkLoRD||05-10-2000||12:55 AM||||it's for part of a special dielectric mixture for an invention.. it's part of a larger device which I hope to patent, so I'm not going to be too specific about the details..  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000004||BigBoyToys||05-10-2000||06:36 PM||||Try contacting some machine shops, possibly those that do marine equipment since they often use brass since it does not corrode. Also if it is contaminated with other materials you should be able to use a magnet to remove the conductive parts. Just a thought. <BR>BBTs||||reg||3

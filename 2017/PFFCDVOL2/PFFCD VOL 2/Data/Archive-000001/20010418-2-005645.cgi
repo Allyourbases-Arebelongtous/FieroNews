@@ -1,0 +1,9 @@
+A||||7||overlord||baby needs to be spoiled!||||1||
+Z||000000||overlord||09-10-2000||07:17 AM||||on my 84 sport coupe, it has the luggage rack.  And i really want to add a spoiler.<BR>Do i have to get another deck lid?  <BR>Im just guessing theere would be holes in the deck lid from the luggage rack??<P>p.s.   Is there somewhere in CANADA, like the fierostore?||||reg||1
+Z||000001||Oreif||09-10-2000||07:33 AM||||If you want to fill the rack holes and drill the wing holes you could do it. If you decide to buy a decklid that has a wing on it make sure you get the decklid torsion arms too. They are different. The wing torsion arms are stonger to hold the weight of the wing. You will need to change them if you do the fill and drill method also.||||reg||1
+Z||000002||Gold87SE||09-10-2000||02:02 PM||||Mine has a luggage rack and a spoiler and I like it better that way.||||reg||1
+Z||000003||My7Fieros||09-10-2000||03:32 PM||||Luggage rack AND a spoiler? ehh......ok||||reg||5
+Z||000004||Gold87SE||09-10-2000||04:34 PM||||Yeah, that's how it was when I bought it, I like it like that.||||reg||1
+Z||000005||Gold87SE||09-10-2000||04:37 PM||||If I knew how to post a picture I would.||||reg||1
+Z||000006||baldlobo||09-10-2000||05:50 PM||||  <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by overlord:<BR><B>on my 84 sport coupe, it has the luggage rack.  And i really want to add a spoiler.<BR>Do i have to get another deck lid?  <BR>Im just guessing theere would be holes in the deck lid from the luggage rack??<P>p.s.   Is there somewhere in CANADA, like the fierostore?</B><HR></BLOCKQUOTE><P>if your in winnipeg some time there is a guy located on henderson I think, I can give you his phone number if you want it? E-mail me at minasnen@iname.com<p>[This message has been edited by baldlobo (edited 09-10-2000).]||||reg||1
+Z||000007||baldlobo||09-12-2000||10:17 PM||||overlord are you here?<P>||||reg||1

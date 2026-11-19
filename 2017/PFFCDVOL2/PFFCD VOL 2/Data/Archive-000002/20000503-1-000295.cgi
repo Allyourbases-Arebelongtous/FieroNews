@@ -1,0 +1,7 @@
+A||||5||DXR_DAD||Here`s the "SCOOP"
+Z||000000||DXR_DAD||09-03-99||09:15 PM||||Let me start by giving Tom a plug, we all know who he is. That rear deck lid scoop I got from him is MONSTER, I love the look of it. I just cut a nice chunk out of the lid, mounted it, had to have some brackets made to  mount to the rear studs. It was a nice fit and looks like its factory, next is to the paint shop to get that smooth black paint on it. Anyone who has ever thought of getting one of these scoops please get it from Tom.<p>Thanks Tom for the fast delivery and the tips on installation, it went smooth!
+Z||000001||DaRkLoRD||09-03-99||11:19 PM||||I've been reading about the decklid scoops, and I think they're really cool.. could you take a picture when it's been painted?
+Z||000002||CUTTER||09-04-99||06:28 AM||||Yeah I would like one too, do they help performance at all or just for looks?
+Z||000003||DXR_DAD||09-04-99||10:04 AM||||I took pics. of every step, will try to post when done. From what I know any thing that you do to get cool air in and the hot air out is a plus, and yes they look real cool the sound is not bad either. O ya, by the way I mounted the EMI plate on the under side of the scoop.
+Z||000004||DaRkLoRD||09-04-99||12:46 PM||||cool!<p>when you get the pics developed, would I be able to put them on my web site?<p>it'd be perfect for the exterior modifications section.<br>
+Z||000005||Gokart||09-05-99||02:29 AM||||Told the wife it's the only thing I want for Christmas right now! Hope he gets the new mold by then!

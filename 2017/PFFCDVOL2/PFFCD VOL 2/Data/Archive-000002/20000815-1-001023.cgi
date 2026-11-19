@@ -1,0 +1,3 @@
+A||||1||RZURCTN||Hey Cooooooooooter!...........||||10||
+Z||000000||RZURCTN||01-18-2000||10:32 AM||||I tried to e-mail you, but haven't gotten a reply.  do you still have those vented panels to go with my new decklid?  If so, I'm still interested!  LMK!!  Thanks!! <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||10
+Z||000001||Cooter||01-18-2000||04:05 PM||||I have not forgot, I just lost your address! Send it to me again and I will check my email when I get home tonight. Sorry about the slow response but the workplace is funny about using the 'Net for personal use. How is that baby?||||reg||1

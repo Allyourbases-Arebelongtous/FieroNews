@@ -1,0 +1,3 @@
+A||||1||Eric||Coolant tube||||5
+Z||000000||Eric||10-04-1999||07:59 PM||||Does anybody know where I can get a new coolant tube that goes across the front of the engine.  Mine is looking pretty bad and a mounting bracket broke off it.  I don't want this thing to explode on me.  GM stopped stocking this part a few years ago.  What can I expect to pay for this if it is available.||||reg||5
+Z||000001||Carrolles||10-05-1999||06:58 AM||||You could get one out of any V-6 model in a junk yard or call Ed Parks at the Fiero Factory (256) 420-5391.<BR>I don/t know what to tell you about the price, but at a You-Pull-It type of junk yard I wouldn't imagine that it would cost more than about $5.00.||||reg||1

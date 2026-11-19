@@ -1,0 +1,3 @@
+A||N||1||fieroparts.com||fiero show  in maine||||7||
+Z||000000||fieroparts.com||06-15-2000||09:10 PM||||Just to let all fiero owner's know we will be having our 5th annual fiero showin<BR>Old Orchard Beach, Maine on June 23,24,25<BR>2000 for more info call 207-934-0103<BR>from 5pm to 10pm et<P>thanks tim<P>ps   goto  <A HREF="http://www.fieroparts.com/2000show" TARGET=_blank>www.fieroparts.com/2000show</A> <BR>for directions||||reg||7
+Z||000001||Old Lar||06-16-2000||04:42 PM||||Tim, I wish I knew sooner..  The last time I spoke with you you didn't know if the show was on or off.<P>This forum has a spot for show events... I'll have to keep an eye peeled.<P>Too late for me to make the trip...<p>[This message has been edited by Old Lar (edited 06-16-2000).]||||reg||11

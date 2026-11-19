@@ -1,0 +1,4 @@
+A||N||2||Rob Durham||Engine help||||1||
+Z||000000||Rob Durham||05-12-2001||08:33 PM||||I am looking for aftermarket parts for my 87 2.8ltr V6, I need to find part numbers for an aluminum intake for a 4bbl carb and a vacuum advance electronic ignition distributor. Iam wanting to bypass the computer when I rebuild my engine.<P>Has anyone here done this? I did this to my 85 IROC but most parts for the V8 are interchangable.<P>Rob<P>[This message has been edited by Rob Durham (edited 05-12-2001).]<p>[This message has been edited by Rob Durham (edited 05-14-2001).]||||reg||1
+Z||000001||Taijiguy||05-13-2001||11:13 AM||||I did it. I'm running an Edelbrock intake and a Holley 390 4bbl.<BR>Email me if you want, and I'll give you as much info as I can. Or you can get me on MSN messenger-(taijiguy@hotmail.com) or ICQ #26209980.<BR>~Taiji||||reg||1
+Z||000002||Rob Durham||05-14-2001||09:01 AM||||Do you have part #'s?||||reg||1

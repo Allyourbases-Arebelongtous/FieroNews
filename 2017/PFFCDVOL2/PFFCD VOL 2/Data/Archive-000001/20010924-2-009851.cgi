@@ -1,0 +1,4 @@
+A||||2||fldevel||e-brake ajust ||||1||
+Z||000000||fldevel||04-22-2001||06:31 PM||||erm .. wich way is tighter?? lol ..  setup is kinda confusing ||||reg||1
+Z||000001||FieroJoe||04-22-2001||09:47 PM||||Yes I agree the setup is confusing.  I still dont know how it works.<P>Anyway, make the equalizer nut go to the left will tighten up the ebrake cables.<P>------------------<BR>AIM: Fiero87311<BR>87 Coupe 5sp. - big resto near completion!<BR>    <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1
+Z||000002||fldevel||04-23-2001||10:34 AM|||| thanks joe ..spent about 20 min moving the nut back and fourth trying to figure out wich way made it tighter ..the e-brake lever works and the cables seem to tighten but there is still a lil bit of slack when the e-brake is all the way down just want to get teh slack out ..thanks for the help <BR>||||reg||1

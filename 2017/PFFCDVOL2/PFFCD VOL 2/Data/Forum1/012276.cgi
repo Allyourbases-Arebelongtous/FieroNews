@@ -1,0 +1,2 @@
+A||N||0||Toogy||Good site for Fiero specs and reviews||||5||
+Z||000000||Toogy||11-28-2001||10:23 PM||||I'm looking for a site that lists specs for the different years of the Fiero. Like 1/4 mile times and Lateral G forces in the slalom test and road test reviews, that sort of thing.  I can't seem to find much using google.<P>Thanks<P>------------------<BR><B>Soon to be: 1987 GT 5-speed</B>||||reg||5

@@ -1,0 +1,2 @@
+A||||0||87 Pegasus||Matt from Springfield are you on this Forum????||||5||
+Z||000000||87 Pegasus||06-26-2001||11:42 PM||||Is this Matt from Springfield who drive a black 88 GT???  is this the one who likes to be tickled by a Security gaurd from Pirates Cove in the Dells..  If so respond to this...  the gang wants to know...<P>------------------<BR>Friends don't let friends drive Corvettes!!||||reg||5

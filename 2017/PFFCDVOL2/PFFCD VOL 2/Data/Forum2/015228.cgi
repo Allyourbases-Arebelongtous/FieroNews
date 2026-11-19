@@ -1,0 +1,4 @@
+A||||2||gt boy||fixing leaky taillights.||||1||
+Z||000000||gt boy||11-08-2001||07:32 PM||||what is the best method of resealing the taillights after they are taken apart?<P>I want to clean them and fix the leak.<P>what sealant does the forum clan recommend??<P>------------------<BR>"it's too bad he had to run out of talent half way through the corner..."||||reg||1
+Z||000001||MinnGreenGT||11-09-2001||10:24 AM||||After replacing my taillights, I used a clear silicone sealer (small quantity) around the lens to seal it. I didn't want to use too much, otherwise it would be nearly impossible the next time I need to clean it!||||reg||1
+Z||000002||Leadfoot||11-09-2001||10:35 AM||||I used calk tape/string that I found a Menards.  It is about the same diameter as the factory tar tape/string.||||reg||1

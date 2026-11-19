@@ -1,0 +1,8 @@
+A||||6||RZURCTN||Why a do you need jumper wire to set the timing?||||5||
+Z||000000||RZURCTN||01-07-2000||12:57 AM||||Just out of morbid curiosity!  Why do you have to ground the diagnostic terminal when you set the timing?  I haven't found an explanation for this in the Haynes manual.  ||||reg||5
+Z||000001||Standard||01-07-2000||01:47 AM||||last I heard, it stopped the ecm from advancing the timing, so you can set the base timing. ||||reg||1
+Z||000002||Carrolles||01-07-2000||08:25 AM||||If not disarmed the ECM tries to correct the timing as you are trying to set it.||||reg||1
+Z||000003||RZURCTN||01-07-2000||09:19 AM||||Oh!  I guess that makes a lot of sense!  I forgot all about the EST!  Thanks guys!||||reg||3
+Z||000004||terryk||01-07-2000||12:55 PM||||Specifically, the jumper forces the ECM to lock the timing at a fixed value "ALDL ADVANCE". If also forces the RPM's to a specific value "ALDL RPM".<P>It doesn't stop timing changes, it locks the timing to a fixed value.<P>TK||||reg||1
+Z||000005||penetrator||01-07-2000||09:23 PM||||I have done a timing change on my car (twisted the distributor). Must i make the diagnostic grounding after this ? <BR>Because my cars idle goes down to zero and then dies after about 10 minutes driving.<P>Thanks<BR>Magnus||||reg||1
+Z||000006||Gokart||01-07-2000||10:39 PM||||No, WHILE your doing it! With the car off, connect a and b terminals (2 bottom ones closest to passengers side). Start car. Set timing. Then shut the car off and then remove wire connecting a and b terminals. I know cause it was trying to set my timing last week without connecting the terminals and got alot of help here!||||reg||1

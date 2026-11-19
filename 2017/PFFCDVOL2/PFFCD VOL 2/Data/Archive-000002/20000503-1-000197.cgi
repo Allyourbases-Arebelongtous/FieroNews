@@ -1,0 +1,3 @@
+A||||1||Formula||Formula vs. early 90's subaru station wagon
+Z||000000||Formula||08-03-99||11:38 AM||||I pulled up at a stop light next to a subaru station wagon. I had a big grin in my face because I knew I would blow him away. Well, I'm guessing he had some mods on his car because he burnt the front tires and stayed with me. I cut off at 40 mph because its a 25 zone. He did give me a lesson in watching the stop light though. 
+Z||000001||sid1200||08-03-99||12:11 PM||||that guy had to have heavy mods, my friend has one of those which is FWD, while most are 4wd, which makes her's faster.  still pretty slow though.  

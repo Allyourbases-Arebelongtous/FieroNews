@@ -1,0 +1,4 @@
+A||N||2||Vlad||Bad shifting into Drive.||||1||
+Z||000000||Vlad||01-18-2001||03:37 AM||||Hello all,<P>Time to ask some questions......<P>Well. Almost every time I put selector into Drive position form Neutral, I hear very loud metal crank from (I assume) tranny and car erratically moves forward. After I start moving, no problem of any kind. <BR>This is not  engine mountings problem. ATF level is normal. Normal colour and smell.The problem does not exist when shift into Reverse.<P>What could it be? Differential?<P>Thanks<P>85GT Auto||||reg||1
+Z||000001||RaeQwan||01-18-2001||05:22 AM||||same problem with a 88Auto... dogbone? I dun know. someone help us uknowing souls  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>       <IMG SRC="http://www.fiero.nl/uploads/raeqwansig.gif"> ||||reg||1
+Z||000002||theogre||01-18-2001||08:46 AM||||check all the mounts||||reg||1

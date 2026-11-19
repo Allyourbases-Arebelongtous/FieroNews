@@ -1,0 +1,5 @@
+A||||3||GTMike||trying to find a specific fiero web page please help||||1||
+Z||000000||GTMike||09-01-2001||07:34 PM||||ok i saw a web page a guy made up and it compared the fiero to a bunch of other cars. it had 0-60 times   and 1/4 times.  it also had skid pad and slalom stuff. i'm intrested it in the slalom and handeling info <P>any one know what page i'm talking about||||reg||1
+Z||000001||BC-GT||09-01-2001||08:00 PM|||| <A HREF="http://www.angelfire.com/mt/fierotech/v800/" TARGET=_blank>http://www.angelfire.com/mt/fierotech/v800/</A> <P>------------------<BR>Darryl Martin<BR>1985 GT <BR>   <IMG SRC="http://www.imagestation.com/picture/pf251a969c96964ef15691e97e7ac4489/feb64e3a.jpg.orig.jpg"> ||||reg||1
+Z||000002||Oreif||09-01-2001||09:20 PM||||Was it this one? <A HREF="http://members.aol.com/topfiero/fiero/fiero.htm" TARGET=_blank>http://members.aol.com/topfiero/fiero/fiero.htm</A>  ||||reg||1
+Z||000003||GTMike||09-02-2001||04:27 AM||||thats not the exact site but it will do thanks. ||||reg||1

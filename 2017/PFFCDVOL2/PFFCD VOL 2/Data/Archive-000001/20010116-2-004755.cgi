@@ -1,0 +1,8 @@
+A||||6||GT Bastard||Roller timing chain question.... ||||1||
+Z||000000||GT Bastard||07-14-2000||05:10 PM||||The other day, I ran into a guy who builds motors on the side.  We started discussing my 3.2 build-up and he advised against using a roller timing chain.  When I ask why, he said that they tend to put too much tension on the cam and can cause early failures.  This sounds like BS to me, but has anyone heard anything negative about roller timing chains?  TIA||||reg||1
+Z||000001||terryk||07-14-2000||07:22 PM||||200k+ on a Cloyes. They also tend to make the engine sound more like a machine.||||reg||14
+Z||000002||GT Bastard||07-14-2000||08:23 PM||||Thanks Terry, what do the Cloyes go for price-wise?||||reg||1
+Z||000003||88formula||07-14-2000||08:46 PM||||Hey Bastard, the part you say about the roller chain wearing out your cam bearings is total bull sh*t. They cost about $80 and Cloyes is the only one that I know of that makes them for the 60-degree v6. The part number is 9-2137. A roller timing chain is good for 1-2 HP. ||||reg||1
+Z||000004||PJ||07-14-2000||08:48 PM||||I've got a Cloyes too, about 40,000 on it. No problems. Two extra keyways on the crank gear, so you can advance it or retard it. Kinda pricey tho, I think I paid around $90.||||reg||1
+Z||000005||GT Bastard||07-14-2000||09:46 PM||||I'm really just after the accuracy and the durability rather than the hp increase.  Thanks for the info guys.||||reg||1
+Z||000006||terryk||07-14-2000||11:24 PM||||Around $80-90 as they said. No tensioner is used.<P>I guess it's possible that rollers cause problems in some engines but heck, that could be a Chrysler Slant 6 for all we know. I'd certainly use a Cloyes again.||||reg||1

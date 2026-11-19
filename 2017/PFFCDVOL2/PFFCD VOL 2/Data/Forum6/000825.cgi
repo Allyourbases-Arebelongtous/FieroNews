@@ -1,0 +1,3 @@
+A||||1||JohnnyK||Anyone know about treadmills? :)||||1||
+Z||000000||JohnnyK||10-23-2000||05:47 PM||||I am trying to fix this damn treadmill that broke about 5-6 years ago and never got around to it. The company doesn't seem to be to helpful. I don't suppose anyone has ever owned one of these, but it is a Proform and the error code it flashes is PO.. Any ideas?  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000001||Patrick's Dad||10-23-2000||08:58 PM||||I think that George Jetson had some difficulties with treadmills....<P>Does the treadmill do (or not) anything else besides this code?<P>------------------<BR>This should work until my site comes online....   <IMG SRC="http://homestead.deja.com/user.rshuman/files/Tmh.jpg"> ||||reg||1

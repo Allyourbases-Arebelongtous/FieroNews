@@ -1,0 +1,3 @@
+A||||1||Ronnie||Gt tail light lens||||6||
+Z||000000||Ronnie||02-07-2001||09:42 AM||||Has anyone ever refinished the blacked out portion of the lens cover? Mine is showing signs of de-lamination? or whatever it is , on the backside. Can that be repaired? Or , re-painted? maybe?<P>------------------<BR>Black '86GT 4spd / Silver '87GT 5spd<BR> <IMG SRC="http://www.fiero.nl/uploads/BOTHGTS_1.jpg"> ||||reg||6
+Z||000001||Ronnie||02-07-2001||08:02 PM||||BTTT.....Come on guys, surely someone has tried this.<P>------------------<BR>Black '86GT 4spd / Silver '87GT 5spd<BR> <IMG SRC="http://www.fiero.nl/uploads/BOTHGTS_1.jpg"> ||||reg||6

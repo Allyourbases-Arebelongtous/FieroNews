@@ -1,0 +1,5 @@
+A||||3||Alex4mula||Sealed sunroof??||||1||
+Z||000000||Alex4mula||05-21-2001||01:32 PM||||Went to se an 86SE for sale in a lot here and it had the sunroof sealed with silicon or something similar. I guess it was leaking and the owner did that.<BR>Would it be hard to take that out and fix it? Are new sunroof gaskets still available? The car is in pretty good shape other than that. Thanks.||||reg||1
+Z||000001||Ken Wittlief||05-21-2001||02:01 PM||||maybe its one of those James Bond cars that car run under 100ft of water?<P> Silicon sealant should come off the glass easy enough, and if the weatherstrip already needs to be replaced it doesnt really matter if you ruin it taking the sunroof out.||||reg||1
+Z||000002||Alex4mula||05-21-2001||02:39 PM||||Fiero Store sells a sun roof weathersrtip. Is that the only required? How difficult is it to replace? Tks.||||reg||5
+Z||000003||87GTZ34||05-21-2001||05:28 PM||||Alex,<P>  Just try to make sure it is only the gasket.  Les over on the NG had one that he thought needed a new gasket but the roof was actually rusted out and had a hole that was leaking.||||reg||1

@@ -1,0 +1,3 @@
+A||||1||DreXteR||How hard is to swap a 3800 II?||||1||
+Z||000000||DreXteR||06-22-2001||11:45 AM||||What are the changes to be made for a 3800 II n/a?  I believe it makes 200/275.  What kind of ignition use DIS or Distributor? I can use my ECM, I think not but-just 2 be sure. Chassis mods or something else?<P>Thanx<P><BR>DreX||||reg||1
+Z||000001||c m west||06-22-2001||03:07 PM|||| <A HREF="http://clubs.hemmings.com/fieroswest/WCF%20page01.htm" TARGET=_blank>http://clubs.hemmings.com/fieroswest/WCF%20page01.htm</A> <P>see also<BR> <A HREF="http://www.cwestco.com" TARGET=_blank>www.cwestco.com</A> <P>we can answer any questions you may have<P>Eric - West Coast Fiero <A HREF="http://www.cwestco.com" TARGET=_blank>www.cwestco.com</A> <BR>310-305-4111<P>||||reg||1

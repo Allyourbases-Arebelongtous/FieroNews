@@ -1,0 +1,5 @@
+A||||3||AL||gt sighting on 91 frwy||||1||
+Z||000000||AL||04-09-2001||10:53 PM||||<BR>saw a burgandy gt today on the 91 frwy,was wondering if he's here in our little forum.the license plate said,fiero gt.anyone here own this car?||||reg||1
+Z||000001||WKDFIRO||04-09-2001||11:21 PM||||Sounds like one of mine...my club members that is!<P>It was probably Bob Yorke's GT...the other GT he has is the turbo intercooled. He lives out this way. Hes not on the Forum...not yet I think.<P>If it was Bob than it would have had a primer spot on the driver's side near the quarter window.<p>[This message has been edited by WKDFIRO (edited 04-09-2001).]||||reg||14
+Z||000002||AL||04-10-2001||12:21 AM||||does he have a mustage?also car had gold rims,at first i thought it was you wkd,i was right behind him in my gta.drivers side roof looked like peeling paint. ||||reg||1
+Z||000003||WKDFIRO||04-10-2001||05:51 AM||||Yeah that might be him...thats his everyday Fiero. <P>I drive a Black 85 GT with Formula nose and tail.||||reg||6

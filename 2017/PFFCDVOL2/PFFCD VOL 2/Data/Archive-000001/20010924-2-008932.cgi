@@ -1,0 +1,2 @@
+A||||0||William||Entire suspension kit from Suspention.com?||||1||
+Z||000000||William||03-14-2001||01:47 PM||||Wow! I just added up the difference between the entire suspension "KIT", and the separate parts and the difference is huge! Like almost a $200.00 savings. Am I adding this up right? My question is about the price of their ball joints and tie rod ends (EXPENSIVE!). Are these cheaper at the local parts store or are they about right? If these prices are inline with what they would cost else where, then I'm ordering the entire kit today.<P>Thanks... william||||reg||1

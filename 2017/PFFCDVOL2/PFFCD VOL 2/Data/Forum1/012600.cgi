@@ -1,0 +1,2 @@
+A||||0||Doni Hagan||HEY, MONKEYMAN!!||||1||
+Z||000000||Doni Hagan||12-11-2001||12:19 AM||||If Culver isn't that far from you, I'll be playing there with some friends on Saturday, December 22nd. The location is the Edgewater Inn/Restaurant on Lake Maxinkuchie (sic). I think we start about 8:30. <P>You're more than welcome to come. It'll give me a chance for a face-to-face with you.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>RSVP by e-mail.  ||||reg||1

@@ -1,0 +1,7 @@
+A||||5||ichifiero||honeycomb||||1||
+Z||000000||ichifiero||08-12-2001||12:56 AM||||Anyone know where I can get a sheet or two of the honeycomb material found on the underside of the aft deck vents? I am making custom hood venting, and the honeycome would look very good.<BR>thanks||||reg||1
+Z||000001||qwikgta||08-12-2001||05:29 PM||||If you find some 85's in the yards you can get a piece or two, thats what I did.<P>Rob||||reg||1
+Z||000002||Formula88||08-13-2001||12:23 AM||||Was the honeycomb only on the 85 vents?  I want to replace the vents in my Formula with the honeycombed ones. The stamped louvers under the vents in 88 don't flow near as much air.||||reg||1
+Z||000003||Monkeyman||08-13-2001||02:01 AM||||I'm pretty sure it was in the '85s only, possibly in the '85 GTs only.  It's not in either of my '86s or an acquaintances '87.<P>------------------<BR>'Consciousness:  That annoying time between naps.'<P>MM||||reg||1
+Z||000004||artherd||08-13-2001||08:27 AM||||any 'import' (read: ricer :P) shop should have suitable honycomb mesh to choose from.<P>Best!<BR>Ben<P>------------------<BR>  <IMG SRC="http://www.cartsys.com/fiero/88ttop.jpg">  <BR>Ben Cannon<BR>88 Formula, T-top Metalic Red<BR>88 Formula, Silver<BR>87 Coupe, Metalic Red<BR>"Every Man Dies, not every man really Lives"<BR>                -Mel Gibson, "Braveheart"||||reg||3
+Z||000005||qwikgta||08-13-2001||10:23 PM||||Formula88 - I got mine off an 85 GT so it may only be the GT's that have it.  Not sure, I have a guy in the club who has an 85 coupe, ill see if he has it as well.<P>Rob||||reg||1

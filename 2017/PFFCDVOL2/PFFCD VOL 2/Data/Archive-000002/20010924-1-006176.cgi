@@ -1,0 +1,14 @@
+A||||12||stimpy||I want one!!!||||14||
+Z||000000||stimpy||03-12-2001||01:41 PM||||Just saw a commercial for the new Lexus Cabriolet. LUST!<P>Folding hardtop like the Benz SLK. Gotta have a V8. Anyone know more about it?  As if I could afford one, hehe.<BR>||||reg||14
+Z||000001||1FST2M6||03-12-2001||01:43 PM||||uum for the 60k they want for it.. you can have a TT-Northstar and money for insurance and gas!||||reg||1
+Z||000002||Tigger||03-12-2001||02:13 PM||||1FST is right, I just checked, couldn't resist.<P>Wow, $60,000, talk about sticker shock.   <IMG SRC="http://www.fiero.nl/forum/eek.gif"><P>The base price for the SLK 350 is around $44,000.<P>I like the SLK better, however $16,000 isn't that much more if ya just gota have the Lexus.   <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif"><p>[This message has been edited by Tigger (edited 03-12-2001).]||||reg||1
+Z||000003||beer_stud_21||03-12-2001||04:11 PM||||Lexus Shmexsus    <IMG SRC="http://www.fiero.nl/forum/smile.gif">  You can do a lot with 60k, don't waste it on a lexus.||||reg||1
+Z||000004||stimpy||03-12-2001||04:20 PM||||Oh, I don't think there is much danger of me writing any checks for 60 large any time soon. That'll buy a new house down here! I just think it is a slick looking ride.||||reg||1
+Z||000005||tgowens||03-12-2001||05:14 PM||||yep - it's around $60K - it does have a V8 in it too but, I can think of a LOT of things I would rather pay $60K for!!||||reg||1
+Z||000006||Pontiaddict||03-12-2001||06:19 PM||||Gee, it looks alot like an Audi TT for some reason. Except for the folding hardtop.||||reg||1
+Z||000007||Tigger||03-13-2001||09:53 AM||||and the folding hardtop looks like it's from a...  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>After thinking about this some more, I'd rather get a new Ford Thunderbird (to fullfill my removable hardtop fetish if I had one).  Those are just a wee bit more than half the cost for the Lexus, at about 36k.||||reg||1
+Z||000008||87ECO5||03-13-2001||12:06 PM||||Why didn't this go in the "Totally O/T" section!?<P>j/k, Stimp.  A little forum humor!    <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||10
+Z||000009||stimpy||03-13-2001||12:13 PM||||And if I'd done a search, it probably has been discussed before.||||reg||1
+Z||000010||Cliff Pennock||03-13-2001||12:22 PM||||Not only that, the Lexus probably uses the "bad" spark-plugs too.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000011||tgowens||03-13-2001||05:01 PM||||oooooohhhhh Cliff!! trying to start a new thread are ya??  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000012||firstfiero||03-13-2001||06:06 PM||||     slk's are good looking but their blvd. cars. Look like sports cars but very slow and heavy and handle like **** . Every time they do a test of expensive roadsters it finishes dead last. but that hard top is cool as **** . ||||reg||13

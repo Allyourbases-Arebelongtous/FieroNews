@@ -1,0 +1,6 @@
+A||||4||Voytek||Can't you MEN READ???!!!||||1||
+Z||000000||Voytek||06-22-2001||02:17 PM||||Songman posted the ladies only topic.  Are some of you guys blind or just ignorant??!  Go start your OWN topic if you have an opinion on this.  Gee...  show the man (and the topic) some respect!<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/voyteks_sig2.gif"> ||||reg||1
+Z||000001||JSocha||06-22-2001||02:18 PM||||  <IMG SRC="http://a828.g.akamai.net/7/828/1392/1dcf6501c8f9fb/images.ucomics.com/comics/ch/1986/ch860130.gif"> <BR> <IMG SRC="http://a828.g.akamai.net/7/828/1392/1dcf6501c8f9fb/images.ucomics.com/comics/ch/1986/ch860131.gif">  <p>[This message has been edited by JSocha (edited 06-22-2001).]||||reg||1
+Z||000002||Voytek||06-22-2001||02:19 PM||||Ooops, posted twice.  Go answer in the other one if you have any comments (please).<BR>Sorry.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/voyteks_sig2.gif"> ||||reg||1
+Z||000003||Steve Normington||06-22-2001||05:03 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Voytek:<BR><B>Ooops, posted twice.  Go answer in the other one if you have any comments (please).<BR>Sorry.</B><HR></BLOCKQUOTE><P>I guess not.<P>||||reg||1
+Z||000004||Monkeyman||06-22-2001||05:21 PM||||<B>Now</B> I'm really confused.<P>MM||||reg||1

@@ -1,0 +1,2 @@
+A||||0||Alex2004||could someone run a carfax for me (Intrepid)||||5||
+Z||000000||Alex2004||10-26-2001||06:35 PM||||Could someone run a carfax for me on our old Intrepid we had, i don't think carfax was around when we bought it and it's strange that it had been repainted and it was only 2 years old!?!?! I'm just curious to know now.  The Vin is:1B3ED56F8RF237706<BR>My e-mail address is  <A HREF="mailto:Abercrombiealex15@hotmail.com">Abercrombiealex15@hotmail.com</A> <BR>Thanks!<P>Alex...||||reg||5

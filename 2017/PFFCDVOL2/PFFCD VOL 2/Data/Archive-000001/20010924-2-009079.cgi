@@ -1,0 +1,5 @@
+A||N||3||Fiero_Freak||Crunched trunk pan- replacable?||||1||
+Z||000000||Fiero_Freak||03-21-2001||12:13 AM||||   My car had been rearended before I purchased it.  The rear of the frame rails is bent a bit...but mostly the trunk pan in crumpled in.  Does that part come out or does it need to be cut out?  Is this even possible?<P><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Fiero_Left_01.jpg"> <BR>Two '87 GT's...<BR>   ...Double Trouble||||reg||1
+Z||000001||rockcrawl||03-21-2001||04:09 PM||||It's all welded in there. I've straightened one using a porta-power and a large hammer. The only other option is to cut it out and weld in a new one from another car.||||reg||1
+Z||000002||rogergarrison||03-21-2001||04:13 PM||||ya, thats all part of the substructure. Ud have to cut it out, lots of stuff attached to it too. Id beat it out, use porta-power best I could. its covered by the inside mat, so it wouldnt be that obvious.||||reg||1
+Z||000003||Fiero_Freak||03-21-2001||05:09 PM||||Thanks... I really need to head to the votech college and take an autobody class or two.||||reg||1

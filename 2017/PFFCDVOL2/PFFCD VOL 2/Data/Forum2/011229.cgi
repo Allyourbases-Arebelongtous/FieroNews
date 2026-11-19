@@ -1,0 +1,3 @@
+A||||1||Wannabe||Adding Cruise Control||||1||
+Z||000000||Wannabe||06-13-2001||04:04 PM||||Some of the treks out to the track involve up to a 3 hour long drive in the highway, so it would be nice to have cruise control, especially after a hard day at the track or when part of the trip is spent in traffic it's nice to relax when the road opens up. My Formula 5sp did not come with cruise though. Has anybody done a retrofit? How hard would it be to do? THX!<p>[This message has been edited by Wannabe (edited 06-13-2001).]||||reg||1
+Z||000001||Wannabe||06-13-2001||04:15 PM||||Nevermind - it's amazing what you can find out with the search function!||||reg||1

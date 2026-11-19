@@ -1,0 +1,3 @@
+A||N||1||MCG||Electrical Nightmare!!!||||8
+Z||000000||MCG||10-26-1999||10:39 PM||||I have an 84 Fiero with a 4 cylinder engine.  Anyhow I love my car to death, but for some reasons the injectors are not realising fuel into the engine.  Is this a common problem??  Mechanics are saying that it is electrical (but Fiero's are rare in Oklahoma).  Please!, Help me get my baby up and running again!!!||||reg||8
+Z||000001||theogre||10-27-1999||09:18 AM||||check fuel pressure.<P>then get a noid and check to see if the injector is getting fired. noids, injector test lights, plug in to the injector connector. get them at any parts store.<P>if the noid is showing injector pulses, then the injector is likely shot.||||reg||1

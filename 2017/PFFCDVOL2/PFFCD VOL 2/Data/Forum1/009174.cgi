@@ -1,0 +1,3 @@
+A||N||1||b lo 0||Ummm... Cliff?||||1||
+Z||000000||b lo 0||08-01-2001||12:53 AM||||The Email Notify feature hadn't been working for me lately, then all the sudden I got 11 notifications of the same post.  WTF?<P>------------------<BR><FONT SIZE="1">'85 GT (in progress)<BR>      <IMG SRC="http://www.angelfire.com/ga3/audioimagery/ice.gif">      <BR>White Lightnin!  (NOT moonshine, for all you hillbillies!)</FONT>||||reg||1
+Z||000001||Cliff Pennock||08-01-2001||08:04 AM||||Could be because they were stuck in the mail queue on my mail server. I just noticed the mail server flushed its cache monday.||||reg||1

@@ -1,0 +1,3 @@
+A||||1||Tom88gt||plastic trim restoration/preservation???||||5||
+Z||000000||Tom88gt||01-12-2000||09:49 AM||||What is the best way to care for the hard plastic interior pieces, weatherstripping, vinyl, etc???<P>I have always used silicon spray for everything.  Silicon is the primary ingredient of Armorall.  Is there something better?  Does pure silicon pose any problems without the extra stuff in Armorall?   ||||reg||5
+Z||000001||Outkast||01-11-2000||05:25 PM||||Go to <A HREF="http://www.knipps.com" TARGET=_blank>www.knipps.com</A>  They have a large variety of detailing products. Of good quality from what I have used.||||reg||1

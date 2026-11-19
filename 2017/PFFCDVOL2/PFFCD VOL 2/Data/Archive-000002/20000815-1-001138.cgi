@@ -1,0 +1,5 @@
+A||||3||curtis||crash test results||||1||
+Z||000000||curtis||02-01-2000||11:54 PM||||I get all the same crap about Fieros being unsafe is there any sites with crash test results on the Fieros?||||reg||1
+Z||000001||fierospeeder||02-02-2000||12:49 AM||||check out the forum thats going on right now about the comments people give about fieros.  Fieros are very good cars in a crash and check out the forum in a search of fiero safety.  Ill try to find some links.||||reg||1
+Z||000002||fierospeeder||02-02-2000||01:25 AM|||| <A HREF="http://members.xoom.com/_XOOM/rick71/html/crash.html" TARGET=_blank>http://members.xoom.com/_XOOM/rick71/html/crash.html</A> <BR> <A HREF="http://albums.photopoint.com/j/AlbumList?u=29019" TARGET=_blank>http://albums.photopoint.com/j/AlbumList?u=29019</A> <P>both of these has pics of fiero crashes,<BR>i cant find the link to the article saying the fiero is second safest while the volvo came in first.||||reg||1
+Z||000003||Monkeyman||02-02-2000||06:37 PM||||It used to be on NHTSAs site, but I can't find it there anymore.  They have archives, but I can't find them, either.||||reg||1

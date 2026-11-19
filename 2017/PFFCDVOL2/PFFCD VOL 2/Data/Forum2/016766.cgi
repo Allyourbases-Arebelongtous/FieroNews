@@ -1,0 +1,7 @@
+A||N||5||turbo time||Wheel||||1||
+Z||000000||turbo time||12-29-2001||03:41 AM||||What's the bolt pattern and hub size for a 85 4m2? I've been looking for a while but nobody seems to have the info posted in FAQ's........<P>Thanks!||||reg||1
+Z||000001||rogergarrison||12-29-2001||06:38 AM||||5/100mm for all years.||||reg||1
+Z||000002||turbo time||12-29-2001||11:53 AM||||Anyone know the hubcentric hole size?<P>I.E. the cavalier is 5X100 with a 57.0 hubcentric hole.<P>The reason I'm asking is some fool put really expensive wheels on the Cavalier I just bought and I'd love to use them on the Fiero. <P>I know there's sites out there saying that they'll fit but I need to know if I need a spacer ring for the hubcentric hole.||||reg||1
+Z||000003||avengador1||12-29-2001||05:55 PM||||Not to state the obvious, but why don't you just try to put one wheel on and see what happens. <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1
+Z||000004||Formula88||12-29-2001||05:58 PM||||All the GM 5x100 wheels are interchangeable (offsets not withstanding)||||reg||1
+Z||000005||turbo time||12-29-2001||06:03 PM||||I don't have the Fiero in my possesion yet, I'm still working on the engine in the garage before I pick up the car. The hubcentric part of the wheel is the most important part since it centers the wheel, not the studs. It's a little hard to measure too since it has a taper.||||reg||1

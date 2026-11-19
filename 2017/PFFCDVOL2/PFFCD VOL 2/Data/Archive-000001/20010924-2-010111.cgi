@@ -1,0 +1,3 @@
+A||N||1||nickalousg||overheating problem on 87 2.5 ||||8||
+Z||000000||nickalousg||05-01-2001||11:04 PM||||i have an 87 2.5 auto fiero with 110,000 miles on & a new water pump last march 2000.  didnt drive much in winter.  this spring temp would rise then fall constantly.  I removed the thermostat so coolant would move freely.  nothing changed still happens.   temp light comes on now,  i dont know what is wrong. there is plenty of coolant in the system. Are the coolant lines clogged?  is radiator cap bad? please email me if you can help.  thanks||||reg||8
+Z||000001||Indiana_resto_guy||05-01-2001||11:16 PM||||Try a new thermostat, I did the exact same thing, new stat last year and now the darn thing won't work right!<BR>New one worked and fixed the problem.||||reg||1

@@ -1,0 +1,5 @@
+A||N||3||SeanyD||quick question bout the electric fan||||1||
+Z||000000||SeanyD||05-07-2001||08:15 PM||||it's turned on thermotatically (the rad fan) when working right..but wheres the sensor located?||||reg||1
+Z||000001||starfighter007@msn.com||05-07-2001||08:21 PM||||I think it depends what motor you have but on my 85 v-6 I thinthink it is located on passenger side of the motor on the manifold above the water pump and I believe it is atemperture switch that screws in good luck||||reg||5
+Z||000002||BlackARROW||05-07-2001||08:34 PM||||On my '85 4-cylinder, it's located on the rear of the motor, driver side, close to the manifold.  If you look under the first splug, you should see it. The wire is white and green I think.  If it's like mine, probably the plastic melted, and the wire is hanging loose. If it's your case, just ground that wire somewhere else if you want it to work constantly.<BR><P>------------------<BR>BA-&gt;<BR>Gadgeteered Fiero 2M4 '85||||reg||1
+Z||000003||mrgone||05-08-2001||08:32 AM||||which wire to ground?||||reg||1

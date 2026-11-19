@@ -1,0 +1,2 @@
+A||||0||lennyb4||FREE FIERO!!:D||||14||
+Z||000000||lennyb4||04-11-2000||01:40 PM||||Hey anyone from california.  <IMG SRC="http://www.fiero.nl/forum/eek.gif"> Check the post in the mall section..<P><BR>P.S. The only reason i placed this here and not in General Discussions is because i know more people will see it here..Hope one of you guys get it.<p>[This message has been edited by lennyb4 (edited 04-11-2000).]||||reg||14

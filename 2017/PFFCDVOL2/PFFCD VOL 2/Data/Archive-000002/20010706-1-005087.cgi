@@ -1,0 +1,3 @@
+A||||1||1FieroGTRacingInc||Door Panel...||||5||
+Z||000000||1FieroGTRacingInc||01-04-2001||08:04 PM||||Does anyone make aftermarket door panel's that look like the Testerossa??  I've seen a Fiero awhile back with something simular???<P>Thank's   Steve<P>------------------<BR>1FieroGTRacingInc.||||reg||5
+Z||000001||rogergarrison||01-05-2001||02:01 PM||||I dont think anything like TestaRossa would work unless u did major qtr panel work too, TestaRossa kit is a foot wider than Fiero behind the door. You could make a sort of scoop at rear of door and use plastic strakes down side to look a little like it.||||reg||1

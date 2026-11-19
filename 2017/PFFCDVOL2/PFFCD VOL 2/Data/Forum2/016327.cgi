@@ -1,0 +1,6 @@
+A||||4||grnmonkey6||Fiero Interior Question||||5||
+Z||000000||grnmonkey6||12-13-2001||01:08 PM||||Can anyone tell me if Pontiac offered a saddle (tan) interior on the 1988 Fiero Formula?<P>I have been looking for one for months with no luck.<P>Has anyone seen one?/own one?||||reg||5
+Z||000001||FieroJoe||12-13-2001||01:18 PM||||I think so, I have seen a 88GT t-top with tan interior, so I would imagine that there would be a formula available too...||||reg||1
+Z||000002||Phil||12-13-2001||01:54 PM||||For 88 the "tan" color was changed to Beechwood. It's a slightly different tan color and was available in all models.||||reg||1
+Z||000003||LZeitgeist||12-13-2001||07:02 PM||||Yup, I have seen a red Formula with a Beechwood interior. They exist. I've only ever seen that one, though. Lots of GT's with tan/beechwood interiors, though...||||reg||1
+Z||000004||Nashco||12-13-2001||07:05 PM||||There is a "tan" of sorts, but the 88 is actually "beachwood"....beachwood is different than the saddle brown/tan offered in earlier years.  I've never done a direct comparison, but there is a difference.  So, yes, there is a tan...but it's not tan per se <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>Bryce<BR>88 GT||||reg||1

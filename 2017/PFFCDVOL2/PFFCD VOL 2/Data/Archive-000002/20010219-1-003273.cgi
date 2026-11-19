@@ -1,0 +1,5 @@
+A||||3||BAM-BAM||Monkeyman, weren't you looking for these?||||1||
+Z||000000||BAM-BAM||08-14-2000||12:11 AM||||   Dave, thought you might be interested. <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=408787620" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=408787620</A> <P>Later, BAM OUT! D:<P>------------------<BR>Don B. <BR>85GT||||reg||1
+Z||000001||Monkeyman||08-14-2000||01:58 AM||||Yup.  I just bid.  I'm sure I'll be outbid before the auction is over, but I'm about at my limit right now (just spent $450 for brakes).  Thanx for thinking of me.||||reg||1
+Z||000002||87ECO5||08-14-2000||07:31 AM||||Good luck, capt.ober!    <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||6
+Z||000003||Monkeyman||08-14-2000||01:07 PM||||Just got out bid.  Maybe next time.  Or maybe I can find some better seats from something else.  I looked at some Recaros last night.  (expletive deleted) me!!  Those are expensive.  $550 for the "cheap" ones and all the way up to $1700/<B>each</B> for the top of the line ones.  There isn't any car seat in the world worth that much.||||reg||1

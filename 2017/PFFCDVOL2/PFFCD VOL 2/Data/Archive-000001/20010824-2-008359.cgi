@@ -1,0 +1,6 @@
+A||||4||MontanaFiero||V6 Distributor||||5||
+Z||000000||MontanaFiero||02-08-2001||12:50 PM||||Does anyone out there know what is different about V6 distributors from 1985 that makes them "incompatible" with '86 thru '88? I'm thinking connectors?<P>I need one for my '86 SE||||reg||5
+Z||000001||Randy Chavis||02-08-2001||01:34 PM|||| I do not see any difference in them..I have a 87 that had a bad dist. and took one out of the 85 se and it worked..the engine was not good but it did start..all plugs were the same....<P> Randy<BR><P>------------------<BR>85 SE V6 4 speed<BR>85 SE V6 auto<BR>86 GT V6 4 speed<BR>86 GT V6  auto<BR>87 GT V6 5 speed||||reg||1
+Z||000002||Oreif||02-08-2001||01:40 PM||||There is no difference. I checked with 2 auto parts stores and the Fiero store. All 2.8L V-6 Distributors are the same. Are you sure that one of them isn't an aftermarket ignition system? <p>[This message has been edited by Oreif (edited 02-08-2001).]||||reg||1
+Z||000003||MontanaFiero||02-08-2001||02:00 PM||||No, I just had some information that the Hollander Interchange manual for '80 to '89 cars said that it was only compatible with the '86-'88 Fieros. <P>Thanks for your info.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000004||MontanaFiero||02-09-2001||12:24 PM||||.<p>[This message has been edited by MontanaFiero (edited 02-09-2001).]||||reg||5

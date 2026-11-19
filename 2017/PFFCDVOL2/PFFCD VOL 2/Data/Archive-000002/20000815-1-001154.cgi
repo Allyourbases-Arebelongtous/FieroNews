@@ -1,0 +1,3 @@
+A||||1||HF6582||16 valve SD4 located||||14||
+Z||000000||HF6582||02-03-2000||07:18 PM||||Searching the web today and found 3 16 valve SD4 for sale at $15000 apiece.<P>http:race-cars.com/engsales?othereng/pc4v01/pc4v01pc.htm<BR>||||reg||14
+Z||000001||DRH||02-03-2000||07:55 PM||||"Fixed" your link:<BR> <A HREF="http://race-cars.com/engsales/othereng/pc4v01/pc4v01ss.htm" TARGET=_blank>http://race-cars.com/engsales/othereng/pc4v01/pc4v01ss.htm</A> <P><BR>Or get this one and spend the $4K savings on a V8 kit:<BR> <A HREF="http://race-cars.com/engsales/chevyeng/c573x1/c573x1ss.htm" TARGET=_blank>http://race-cars.com/engsales/chevyeng/c573x1/c573x1ss.htm</A> <P><p>[This message has been edited by DRH (edited 02-03-2000).]||||reg||12

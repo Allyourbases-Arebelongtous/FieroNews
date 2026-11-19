@@ -1,0 +1,4 @@
+A||||2||Scott_M||EGR Valve, bolt size????||||5||
+Z||000000||Scott_M||12-04-2000||08:39 PM||||For a 87 se 4 cyl, Does anyone have the dimensions for the bolts (2) holding the EGR valve onto the engine? <BR>Thanks <BR>P.S. Of the two on right now, one is broke almost in half, and the second is a replacement bolt I found in the tool box for the original one that fell out. Thats why I ask.||||reg||5
+Z||000001||WKDFIRO||12-04-2000||09:42 PM||||Im pretty sure they are either 10 mm or 13 mm...I'll check tomorrow if no one else has the answer.<p>[This message has been edited by WKDFIRO (edited 12-04-2000).]||||reg||1
+Z||000002||Scott_M||12-04-2000||10:36 PM||||I actually found in in another post.<BR> <A HREF="http://www.fiero.nl/forum/Forum2/HTML/003836.html" TARGET=_blank>www.fiero.nl/forum/Forum2/HTML/003836.html</A> <BR>||||reg||1

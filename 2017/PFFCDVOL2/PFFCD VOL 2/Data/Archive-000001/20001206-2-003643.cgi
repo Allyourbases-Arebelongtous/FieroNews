@@ -1,0 +1,2 @@
+A||N||0||Fiero Jon||4.0 litre 60* V6||||5||
+Z||000000||Fiero Jon||05-08-2000||10:54 PM||||Always on the look out for odd things done to our engines (or class of engine) I found an article in the May/June 1998 issue of Pontiac Enthusiast.  Had a story on the concept vehicle Pontiac Montana Thunder.  It boasted a 4.0 litre version of the 60* engine.  It was based on the 3400 series engine, and boasted 225 hp/ 235 ft/lb.  Does anyone have more info. than what was in that article?||||reg||5

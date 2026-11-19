@@ -1,0 +1,5 @@
+A||N||3||kornholio||testing voltmeter gauge||||1
+Z||000000||kornholio||10-22-1999||05:16 PM||||Is there a way to test the voltmeter gauge?  Can I hook up a digital voltmeter to see how accurate my gauge is?  Here's my problem.  When I turn the key to the ON position without starting the car, the gauge reads 12 volts.  When I start the car and while driving the gauge reads 16-17 volts all the time.  I check the voltage of the battery when the car is running and I get 14.6 volts, which is normal, so it's not being overcharged.  I just don't like seeing that needle so close to red.  Anyone else have this problem?  Thanks.||||reg||1
+Z||000001||Cliff Pennock||10-23-1999||04:23 AM||||My voltmeter also always reads around 18V. But if I measure it using a digital voltmeter, I measure 13.8V...||||reg||1
+Z||000002||kornholio||10-23-1999||10:30 AM||||Hey Cliff,<BR>What does your gauge say when you just turn it to the ON position with the car off?||||reg||1
+Z||000003||Cliff Pennock||10-23-1999||04:02 PM||||I'm not sure exactly (have to check in the morning) but I'm pretty sure it reads somewhere around 10V-11V or so.||||reg||1

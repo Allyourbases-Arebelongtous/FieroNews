@@ -1,0 +1,7 @@
+A||N||5||pollock||stiffer NON-lowering springs available?||||5||
+Z||000000||pollock||03-09-2000||01:07 PM||||Anybody know where you can get stiffer factory-height springs? how much, etc..||||reg||5
+Z||000001||william_thorniii||03-09-2000||06:46 PM||||I believe that they are available at Ryanne Motorsports.  Although you should be able to call Eibach and ask for their distributors.  They will be much cheaper through the Eibach channels than with Ryanne.  With springs you can usually find anything that you could want or need. <P>William T. Thorn, III||||reg||3
+Z||000002||theogre||03-09-2000||10:43 PM||||Moog has after market springs for most things. try them. Most Moog ones are vari rate springs. they get stiffer as you squash them more.||||reg||1
+Z||000003||FIEROCIOUS||03-10-2000||01:24 AM||||What springs do you have now? Normal or WS6 suspention package? I have a (set) of stock hieght WS6 springs that I will sell, they came off a 87 GT stiffest rear springs and medium stiff front springs. look up fiero online service guide for details on stock spring rates and codes! Also springs are in mint shape only 70,000 miles on them.<p>[This message has been edited by FIEROCIOUS (edited 03-10-2000).]||||reg||1
+Z||000004||FIEROCIOUS||03-11-2000||06:31 PM||||Well? Pollock?||||reg||1
+Z||000005||pollock||03-13-2000||02:32 PM||||Hell, i don't know.....<P>Let me check on it tonight.  I was up to my ears in Mustang work all weekend... did'nt have time to do anything to the fiero except move it out of the way, hehe||||reg||6

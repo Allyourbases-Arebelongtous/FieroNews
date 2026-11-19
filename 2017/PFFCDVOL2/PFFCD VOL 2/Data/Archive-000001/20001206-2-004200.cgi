@@ -1,0 +1,3 @@
+A||||1||BAM-BAM||A/C question?||||5||
+Z||000000||BAM-BAM||06-08-2000||11:19 PM||||  Is there an available kit to upgrade the fiero R12 A/C system? How much and how difficult? Just to damn hot here in the valley of the sun. TIA!!!!<P> Late, BAM OUT!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||5
+Z||000001||redfiero||06-09-2000||07:06 AM||||Bam,<P>Local to Cincinnati, there is an R12 to R134 conversion kit for about $30 at Kmart.  It comes will 8.5 oz. of oil, (3) cans of 134 and the necessary fittings and fillers.  It only takes 15 minutes or so to install.  The only problem is that you need to have the R12 system evacuated.  I did the conversion about two weeks ago and don't have anything negative to say.<BR>matt||||reg||1

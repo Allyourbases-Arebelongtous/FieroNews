@@ -1,0 +1,2 @@
+A||||0||Taijiguy||Ahhh..I LOVE that sound!! (MP3'S)||||10||
+Z||000000||Taijiguy||04-09-2001||12:12 AM||||Made a couple of MP3's of my carbed GT. Just finished them, and I'm still grinning like an idiot. If you want to give them a listen they're at <A HREF="http://members.core.com/~taijiguy/" TARGET=_blank>http://members.core.com/~taijiguy/</A> <P>Enjoy.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||10

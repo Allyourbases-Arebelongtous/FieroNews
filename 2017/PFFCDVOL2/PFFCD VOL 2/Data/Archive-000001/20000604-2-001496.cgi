@@ -1,0 +1,3 @@
+A||||1||billfredmike24||Manuals||||5
+Z||000000||billfredmike24||11-23-1999||02:15 PM||||Does anyone know of an instructional manual i can buy that tells how to replace the clutch on an 85 gt?||||reg||5
+Z||000001||theogre||11-23-1999||07:23 PM||||there are the off the shelf books from Haynes and Chilton. <P>There is also the "factory" book from Helms. The Helms books are what Fiero Store has. You can also order directly from Helms. You can also order the original owners manual from them. I don't have their direct number. I believe if you call 1800PMCARES you can get it from them. I seem to rember that pontiac referes you to helms for the books.<BR>||||reg||1

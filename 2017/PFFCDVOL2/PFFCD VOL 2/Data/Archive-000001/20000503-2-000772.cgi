@@ -1,0 +1,4 @@
+A||||2||Greg Piet||headliner
+Z||000000||Greg Piet||09-02-99||09:01 PM||||http://www.geocities.com/MotorCity/Garage/5007/fiero_osg/headliner.html<br>has a description to redo ones headliner with a foam backed nylon tricot headliner by the yard.<br>I am curious what people have used as the adhesive when securing the headliner.
+Z||000001||theogre||09-03-99||02:10 PM||||I forget who makes it, but there is a spray adhesive made specifically for this use.<p>practically any spray adhesive that can take the heat and not bleed would work I think.
+Z||000002||Dave85||09-03-99||09:20 PM||||I used 3M Super Trim Adhesive #08090. I did not use this on the regular foam back head liner material but I'm sure it will work.  If/when you do your head liner, lightly sand all of the old foam off the board and then do the 3 coats thing. Redoing your head liner is VERY easy. I can't believe they get so much $$$ for these.

@@ -1,0 +1,6 @@
+A||N||4||Zorba||What do you think of this for the fiero?||||1||
+Z||000000||Zorba||11-20-2000||12:45 PM|||| <A HREF="http://www.iserv.net/~strdream/dropspindles.html" TARGET=_blank>http://www.iserv.net/~strdream/dropspindles.html</A> ||||reg||1
+Z||000001||william_thorniii||11-20-2000||01:08 PM||||Zorba,<P>I have a set.  The castings are beefier so they appear to be more solid than factory.  The mounting points are the same (except the spindle location).  Ross (at Street Dreams) is a great guy to deal with too.  I do not have any pictures of before/after yet.  My car is undergoing an complete suspension upgrade through the winter and will not hit the ground until spring (hopefully).  <P>William T. Thorn, III||||reg||14
+Z||000002||Raydar||11-20-2000||02:58 PM||||Sure wish they'd do a set for 88s.  <IMG SRC="http://www.fiero.nl/forum/frown.gif">||||reg||1
+Z||000003||william_thorniii||11-20-2000||05:02 PM||||Raydar,<P>Ross is supposedly working on getting a variation made for the 88.  It shouldn't take too long, the front spindles are VERY similar.  E-mail Ross and it will help him convince himself there is a market out there.   <P>William T. Thorn, III||||reg||14
+Z||000004||87GTZ34||11-20-2000||10:05 PM||||Anyone know if those babies work with RCC's vette brake setup? Inquiring upgraders want to know.||||reg||1

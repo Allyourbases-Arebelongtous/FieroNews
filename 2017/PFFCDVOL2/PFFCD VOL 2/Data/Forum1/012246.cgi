@@ -1,0 +1,10 @@
+A||N||8||terryk||Anyone in Whittier, CA that can check out a car for me?||||5||
+Z||000000||terryk||11-28-2001||12:20 AM||||I'm looking for someone that can check out a Turbo Regal in Whittier. Mainly interested in the overall cosmetics and if it seems to run right.<P>Anyone?<P>||||reg||5
+Z||000001||West Coast Fiero||11-28-2001||12:58 AM||||Mr Owens - just give us a call and I can see about possibly sending someone out to check it out<P>------------------<BR>Technician, West Coast Fiero<BR>www.cwestco.com<BR>310-305-4111||||reg||1
+Z||000002||terryk||11-28-2001||01:11 AM||||Hi Eric,<P>I'm not Terry Owens. Terry Kelley.||||reg||1
+Z||000003||Standard||11-28-2001||02:37 AM||||one of my ex-g/f's first name was Kelley.. spelled the same way.. freaky.  ok i'm leaving now  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>      <IMG SRC="http://www.fiero.nl/uploads/sig_pic_full.jpg">          <BR><FONT COLOR="red">1988 Quad 4 Coupe 5 speed</FONT><BR><FONT SIZE="1"><FONT COLOR="white">1986 GT 5 speed, 1984 SC Auto</FONT><BR><FONT COLOR="blue">AOL: LastMinuteBastrd  AIM: SavedbyJebus</FONT></FONT>||||reg||1
+Z||000004||West Coast Fiero||11-28-2001||02:57 AM||||oops =-) , thought you were Terry at Fiero Shop, anyways - give us a mission and we will go check it out for you - see if it worthy for a Fiero owner<P>------------------<BR>Technician, West Coast Fiero<BR>www.cwestco.com<BR>310-305-4111||||reg||1
+Z||000005||terryk||11-28-2001||11:36 AM||||Hi Eric,<P>Thanks, but you are 35 miles from the car. I don't expect anyone to travel that far.<P>Terry<BR>||||reg||7
+Z||000006||terryk||11-28-2001||06:27 PM||||ttt||||reg||1
+Z||000007||Sleeper||11-28-2001||10:01 PM||||Whittier? regal? its probably a gangster...and 35 miles isn't that far from west coast fiero, its still in LA county. ||||reg||1
+Z||000008||terryk||11-28-2001||11:05 PM||||I talked to the guy. Might be a gangster, but he knows his Regal!<p>[This message has been edited by terryk (edited 11-29-2001).]||||reg||1

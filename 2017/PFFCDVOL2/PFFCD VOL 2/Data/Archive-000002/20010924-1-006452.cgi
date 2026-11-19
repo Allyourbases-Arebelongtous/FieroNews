@@ -1,0 +1,3 @@
+A||N||1||fropuff||Attention STROKER........||||1||
+Z||000000||fropuff||03-27-2001||06:22 PM||||Hey, Stroker, I was wondering if you could send me your email address.  I was hoping to ask you on the turbo kit that you said you were going to make.  Thanks a lot!<P>-If anyone else knows Stroker's email address, please send it to me.  Thanks a lot!!!<P>------------------<BR>Fuzz busters are for those who are worried about being caught.||||reg||1
+Z||000001||fropuff||03-28-2001||12:14 AM||||Anyone know where I can contact Stroker???  I've GOTTA talk to him.  Thanks.   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

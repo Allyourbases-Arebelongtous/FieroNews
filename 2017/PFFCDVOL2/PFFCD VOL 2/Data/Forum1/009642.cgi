@@ -1,0 +1,2 @@
+A||||0||TRiAD||Central Illinois Members...||||1||
+Z||000000||TRiAD||08-20-2001||01:59 PM|||| <A HREF="http://www.centralillinoisimports.org" TARGET=_blank>www.centralillinoisimports.org</A>  <P>Central Illinois' place to meet up with local tuners, enthusiasts, and friends. <P>Just getting off the ground...<P>See you there!<P>------------------<BR><B><I>Michael ~ triadtuning@hotmail.com</I></B><BR>-----------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/88FieroGTwhitefscustomcroppedmini.jpg"> <BR><I>Photoshop rendering of planned exterior modifications.</I>||||reg||1

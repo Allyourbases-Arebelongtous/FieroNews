@@ -1,0 +1,5 @@
+A||N||3||FIERO1985||Chrome Acsessories||||1||
+Z||000000||FIERO1985||01-22-2001||08:32 PM||||Who sells chromed or polished dress up items for the 2.8??<P><BR>Thanks<P>------------------<BR>1985 GT V6 <BR>"LETS RACE"||||reg||1
+Z||000001||Haze_Performance||01-22-2001||08:40 PM||||Nolan Concept<BR>1238 Granite Lane<BR>Toledo, OH. 43615<BR>(419)385-1708<P>If it can be chromed, They sell it. I saw there products at a NIFE event. They looked VERY nice.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/ws6fierobanner.gif"> <BR><B>"AHHHHH!!!!!!!!!!! All Fiero's don't start on fire you BONEHEAD!!!!"</B>||||reg||10
+Z||000002||rogergarrison||01-23-2001||12:59 PM||||they have a great looking chrome intake!!!<P> <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by FIERO1985:<BR><B>Who sells chromed or polished dress up items for the 2.8??<P><BR>Thanks<P></B><HR></BLOCKQUOTE><P>||||reg||1
+Z||000003||Bill Osmer||01-23-2001||12:59 PM||||Haze -<P>What happened to your website with the various projects listed on it??<P>LMK @ wosmer@ae.ctscorp.com||||reg||1

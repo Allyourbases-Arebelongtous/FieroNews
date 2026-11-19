@@ -1,0 +1,9 @@
+A||N||7||Haze_Performance||.... Lets do a group purchase on something exciting.||||7||
+Z||000000||Haze_Performance||06-04-2000||02:39 PM|||| <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> GAS  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> ||||reg||7
+Z||000001||GT Bastard||06-04-2000||03:05 PM||||Gas isn't exactly exciting either... It's similar to taking a dump.  You need to do it, but it's not something that most people would consider to be exciting.   <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000002||DaRkLoRD||06-04-2000||03:30 PM||||How about a group purchase on 3800 SC V6 conversions?  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000003||Haze_Performance||06-04-2000||03:53 PM||||Hey anything cheaper that $2.00 a gal. would be exciting||||reg||12
+Z||000004||GT Bastard||06-04-2000||04:06 PM||||Just be glad you drive a Fiero with the Iron Puke. ||||reg||1
+Z||000005||Shiner||06-04-2000||10:58 PM||||How about a group purchase on CB radios? BWHAHAHAHAH!!||||reg||1
+Z||000006||frontal lobe||06-05-2000||12:46 AM||||Yeah, 10-4 good buddy.  Then we can all do a Fiero run and re-enact some of the great movies such as Convoy or Smokey and the Bandit.||||reg||1
+Z||000007||Monkeyman||06-05-2000||10:26 AM||||Doc--I know you didn't mean anything, but for future reference (in case there are any truckers here--you know how things have been lately <IMG SRC="http://www.fiero.nl/forum/frown.gif">) "good buddy" currently refers to a homosexual.  Just thought you (or whomever) might want to know. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

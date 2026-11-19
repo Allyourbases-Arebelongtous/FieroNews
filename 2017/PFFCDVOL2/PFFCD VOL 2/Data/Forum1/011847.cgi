@@ -1,0 +1,3 @@
+A||||1||fiero_nightmare||radio lights||||5||
+Z||000000||fiero_nightmare||11-14-2001||10:57 AM||||i just got a 85 S10 that i am going to use as a winter beater. it HAD a nice GM radio with orange lights. my fiero had a aftermarket radio so i switched radio's between the S10 and fiero. 1 thing i noticed is that the graphic equalizer(SP?) doesn't light up on the GM radio. is the equalizer part supposed to light up on the radio or not?  <P>here is a pic so you know which radio i am talking about.  <BR> <IMG SRC="http://www.fiero.nl/uploads/radio_3.jpg"> <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/fiero_1.jpg"> <P>85 GT pics <BR>http://communities.msn.com/russcars/85fierogt.msnw||||reg||5
+Z||000001||Indiana_resto_guy||11-14-2001||01:28 PM||||No.||||reg||1

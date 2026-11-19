@@ -1,0 +1,5 @@
+A||||3||ponya||arm rests||||1||
+Z||000000||ponya||06-30-2000||09:38 PM||||I realize that this is not exactly a tech. question but I need some restoration advice. The arm rests in my car are worn out. Looking for advice as to what kind of paint I could use to re-spray them with. Is there something that is commonly used for this type of item?<BR>Any information greatly appreciated.  Thanks, Bob||||reg||1
+Z||000001||TOM||06-30-2000||10:21 PM||||Get some other one from a local junkyard. Around here the like $5 each. Or is this an Indy we are talking about?||||reg||1
+Z||000002||fiero56||07-01-2000||11:28 PM||||William T. III just repainted the entire interior of his GT. I don't know what paint he used, but it looks VERY good. Can't even tell it was painted, doesn't look or feel like it. He has been away from his computer lately, but if you e-mail him, he will return your email eventually.||||reg||1
+Z||000003||Monkeyman||07-02-2000||10:18 AM||||Drew--What's up with WTIII?  "Been away from his computer for a while?"  Email me.<P>------------------<BR>Dave-<BR>Grape Ape ('85GT)||||reg||1

@@ -1,0 +1,5 @@
+A||||3||WampusCat||cassette player doesn't like tapes||||1||
+Z||000000||WampusCat||10-06-2001||06:29 PM||||The factory tape player in my 88GT won't accept tapes.  When I push a cassette in, it just pops right back out again.  Anybody know the cure for this?||||reg||1
+Z||000001||Old Lar||10-06-2001||09:26 PM||||Sounds like the eject" button is stuck.  Other than a rebuild, I don't know of a fix.||||reg||1
+Z||000002||roadwarrior||10-06-2001||09:44 PM||||set the tape in it like if you had just ejected it, go pick up the sledge hammer, go back to your car, and give one swift hit right on the tape, even if it does come back out you'll have to replace your deck anyways, on a more serious note, is it the one with the 5 band eq? if so, I've got one I might be wiling to sell.||||reg||1
+Z||000003||WampusCat||10-06-2001||10:08 PM||||Yeah, it's the one with the equalizer, but if I were to replace it with something, I would get a CD player.  What I'll most likely do is just leave it like it is and use the radio.  That part still works fine.||||reg||1

@@ -1,0 +1,9 @@
+A||||7||JayLT1||JayUSA77=JayLT1||||1||
+Z||000000||JayLT1||12-28-2001||12:53 AM||||just to let everyone know, because its seems like no one answers my post anymore<P>------------------<BR>86 Black GT (95LT1 on the way)||||reg||1
+Z||000001||Devotshka||12-28-2001||01:10 AM||||Well i'll respond to this one to make sure ya don't get a complex  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>||||reg||1
+Z||000002||JayLT1||12-28-2001||01:11 AM|||| <IMG SRC="http://www.fiero.nl/forum/smile.gif"> thats all i ask Thanks||||reg||1
+Z||000003||avengador1||12-28-2001||09:34 AM||||What the heck, I'll reply also so you don't feel neglected. <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1
+Z||000004||rodmcneill||12-28-2001||09:50 AM||||What was the question?||||reg||10
+Z||000005||85 gt fiero||12-28-2001||11:05 AM||||he must be new <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  j/k<P>------------------<BR>17 YEAR OLD WITH A RALLY CAR, FULL ROLL CAGE, SKID PLATES, LIGHT BARS, SCS SUSPENSION, KONI ADJUSTERS,HIGH POINT CUTOFFS,||||reg||1
+Z||000006||artherd||12-29-2001||01:30 AM||||Well, DID YOU GET AN LT1 FOR YOUR FIERO?!<P>Or what?!  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>Best!<BR>Ben.<P>------------------<BR> <IMG SRC="http://www.cartsys.com/fiero/sig1.jpeg">      <BR>Ben Cannon<BR>88 Formula, T-top, Metalic Red.                     "Every Man Dies, not every man really Lives"<BR>88 Formula, Northstar, Silver, In-Progreess.                                        -Mel Gibson, "Braveheart"||||reg||3
+Z||000007||JayLT1||12-29-2001||01:56 AM||||hey ben i got a LT1 in my garage with the LT4 intake,chrome oil pan, msd 6al box, MSD ignition coil, optispark, bosch 4 plugs, MSD wires, alternator, waterpump, and thats about it, but its geting there.<BR>J<P>------------------<BR>86 Black GT (95LT1 on the way)||||reg||1

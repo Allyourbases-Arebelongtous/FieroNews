@@ -1,0 +1,3 @@
+A||||1||ChadMan||Arnett Howard's Fiero in the paper||||10||
+Z||000000||ChadMan||07-13-2000||10:07 AM||||Those of you who were at Mid-Ohio probably remember Arnett Howard and the black 87 GT that he bought after a six-year search.  He and his Fiero were in today's Columbus Dispatch in a "fluffy" piece on local personalities and their cars.  Check it out:<BR> <A HREF="http://www.dispatch.com/news/newsfea00/jul00/346916.html" TARGET=_blank>http://www.dispatch.com/news/newsfea00/jul00/346916.html</A> ||||reg||10
+Z||000001||87ECO5||07-13-2000||10:56 AM||||Great article, Chad.  Thanks for posting it.<P>I didn't get to talk with this gentleman at the Mid-Ohio event.  Did you convince him to join PFF?||||reg||1

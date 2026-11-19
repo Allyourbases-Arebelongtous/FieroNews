@@ -1,0 +1,2 @@
+A||||0||William Federle||Battery Relocation||||5||
+Z||000000||William Federle||10-01-2000||01:05 PM||||I ordered the battery relocation kit from  Summit. I know some members have used that kit and I was just wondering - how do you connect the positive cable once you get it to the engine compartment? <P>Do you fabricate some sort insulated terminal stud assembly or just hook it up to the starter?<P>||||reg||5

@@ -1,0 +1,5 @@
+A||||3||DL10||Just checking my new signature file||||1||
+Z||000000||DL10||02-12-2001||09:07 PM||||What do you think........<P>------------------<BR>    <IMG SRC="http://chicagolandreplicar.tripod.com/images/lc_db1.gif"> ||||reg||1
+Z||000001||FieroJoe||02-12-2001||09:53 PM||||Looks pretty cool!  Neat car too.  Try sizing it down so you can make the file smaller (quicker to load for us non-cable bandwidth users  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> )and still keep the animation, that adds a nice touch!<P>------------------<BR>FieroJoe<BR>c311t@yahoo.com<BR>AIM: Fiero87311, Snowboarder0311<BR>  <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||6
+Z||000002||Mi Junk||02-12-2001||10:28 PM||||Very Cool<BR>What kind of rebody is that?||||reg||6
+Z||000003||DL10||02-13-2001||06:56 AM||||It's not really a one off becuase there were 3 cars built, but the kit was never put into production. It's a replica of a The Predator is a Prototype of a DeTomaso Nuevo Pantera. <A HREF="http://chicagolandreplicar.tripod.com/dave&.htm" TARGET=_blank>http://chicagolandreplicar.tripod.com/dave&.htm</A> <P><BR>||||reg||1

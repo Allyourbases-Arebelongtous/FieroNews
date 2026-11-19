@@ -1,0 +1,3 @@
+A||||1||fierospeeder||Great deal on ebay for someone in indiana||||1||
+Z||000000||fierospeeder||10-25-2001||11:04 PM||||like monkeyman,<P>the guys selling 2 bodys, a 2.8 rebuilt engine, a 2.5 car , another engine on the cradle.  <P> <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=597154669&r=0&t=0" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=597154669&r=0&t=0</A> <P><BR>ill buy one of the 2.5l motors for 50 bucks if someone from here bids on it.  ||||reg||1
+Z||000001||Philphine||10-26-2001||06:54 PM||||hmmm...wonder where lowell is? nah, i got too much junk already.||||reg||1

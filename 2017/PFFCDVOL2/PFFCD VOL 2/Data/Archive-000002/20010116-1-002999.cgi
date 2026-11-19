@@ -1,0 +1,2 @@
+A||||0||Richard Parnell||White GT near Sitzer, Wisconsin||||6||
+Z||000000||Richard Parnell||07-20-2000||02:50 PM||||I don't know if this fellow is a forum member, but on the chance he is---I was recently in Wisconsin for a funeral (sad time) and spotted your white GT parked out on your front lawn as we drove by near Sitzer on our way to Lancaster.  I wanted to swing by and say hello and admire your car up close, but didn't have time.  Beautiful looking car.||||reg||6

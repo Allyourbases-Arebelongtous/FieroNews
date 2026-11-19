@@ -1,0 +1,2 @@
+A||N||0||bHooper||anybody had a problem with wrenchead lately?||||5||
+Z||000000||bHooper||05-15-2001||09:26 PM||||since they formed this new "alliance" with napa, i can't get through to the darned order screen.<P>i want ot order the cheap raybestos brake cables from them, but cant get to the parts screen!<P>argghhh!<P>------------------<BR>hoop<BR>Red '86 GT<BR>KYB's, Eibach's<BR>and spellcheck crash's windows<BR>Poly Bushings<BR>Accel Coil||||reg||5

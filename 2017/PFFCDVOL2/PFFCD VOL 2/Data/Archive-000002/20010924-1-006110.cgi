@@ -1,0 +1,5 @@
+A||||3||Neverfinished||Help..............?/?????????????||||1||
+Z||000000||Neverfinished||03-08-2001||04:55 PM||||My power door locks and interior lights wont work. I know it is the circuit breaker but can you reset these or do you have to replace them????<BR>Someone pleez help.<BR>sorry I know this should be in technical discussion but I hoped this would get more coverage this way.<BR>thnx||||reg||1
+Z||000001||c m west||03-08-2001||04:57 PM||||go under the dash and replace the fuse - done deal<P>Eric - West Coast Fiero <A HREF="http://www.cwestco.com" TARGET=_blank>www.cwestco.com</A> ||||reg||1
+Z||000002||Neverfinished||03-08-2001||05:00 PM||||do i have to replace the circuit breaker?<BR>Isn't the purpose of a circuit breaker to cut out and be able to reset????????????<BR>why wouldn't they just use a fuse then?????<BR>thnx||||reg||1
+Z||000003||286SE'S||03-08-2001||05:41 PM||||Those circuit breakers are for the power windows and are self-resetting. The locks are fused and always hot. If your fuse keeps blowing you have a short. Check the wires that go into the doors; that is the most likely place for the wires to get worn or pinched.||||reg||1

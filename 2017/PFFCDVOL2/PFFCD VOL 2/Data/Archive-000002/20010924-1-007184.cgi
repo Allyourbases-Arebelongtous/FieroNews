@@ -1,0 +1,5 @@
+A||||3||Bluemagic||Anyone has temperature gauge needle||||1||
+Z||000000||Bluemagic||05-02-2001||04:44 AM||||I got a speedo cluster from a 88 gt and took it home and after installing it I discovered the temp gauge needle was missing, the older indicator will not work so if any one has a gauge needle and willing to selling it let me know. <P>------------------<BR>Keith||||reg||1
+Z||000001||WKDFIRO||05-02-2001||02:52 PM||||I won't be going to the parts yard for a week or so, but if you are still looking for the needle then let me know! I'll keep an eye out for it.<P>Probably could mail it you in an envelope with no further charges!||||reg||7
+Z||000002||Bluemagic||05-02-2001||06:25 PM||||Thanks keep me in mind||||reg||6
+Z||000003||Nashco||05-02-2001||11:01 PM||||I'm trying to get a new guage right now.  If I do get it, I will have a spare guage assembly that I could pull it off of.  I'll let you know if I get a new one, and once I know it works I could send you the needle.<P>Bryce<BR>88 GT||||reg||1

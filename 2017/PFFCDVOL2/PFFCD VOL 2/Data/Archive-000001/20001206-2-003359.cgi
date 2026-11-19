@@ -1,0 +1,11 @@
+A||N||9||Capt Fiero||What tools do you use.||||10||
+Z||000000||Capt Fiero||04-25-2000||01:51 PM||||I figure this is a good one, as I have found some tools that are so handy when working on Fiero's.  For me there are 4 tools that I need to have.  1/2 drive Duwalt impact gun, 14.4 volt cordless drill, long ratchet with swivel head (awsome for doing the back V6 spark plugs) and a 4foot crow bar.  Some one mentiond cradle bolts are hard to get out, I have had a hard time with them before, but with an impact gun and an extension, it is just buzz buzz clack clack and they are out in a snap.  All the bolts on top of a V6 intake come out in a hurry with the cordless drill.  Oh and one last tool that I love are panel popers, kinda of like a cross between a claw hammer and a mini crow bar, Awsome for removing the little plastic rivits.||||reg||10
+Z||000001||2M4 Dale||04-26-2000||01:40 AM||||My CREDIT CARD...lol||||reg||14
+Z||000002||CUTTER||04-26-2000||02:19 AM||||There is only one true tool....and that is......well.....I dont know but i will get back to you when I find out!!!   <IMG SRC="http://www.fiero.nl/forum/wink.gif">  LOL||||reg||1
+Z||000003||batboy||04-26-2000||11:08 AM||||Don't forget the vice-grips, heavy hammer, penetrating oil and duct tape.||||reg||1
+Z||000004||80's BOY||04-26-2000||01:43 PM||||a torch and a welding machine.....ENDLESS opportunities!!!!!!!!!!!!!!!!!!||||reg||14
+Z||000005||Standard||04-26-2000||01:52 PM||||The BFH!   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000006||Fret Naught||04-27-2000||06:17 PM||||by the time I am done usually every tool in my roll around!!!!!||||reg||1
+Z||000007||87PegasusGT||04-27-2000||06:25 PM||||Cap'n :<BR>How's your 3.4 swap coming? At this rate, yours will be done before mine?||||reg||1
+Z||000008||Capt Fiero||04-27-2000||06:34 PM||||My 3.4 is going slower than you can imagine, I have put it aside and am going to swap out the motor in my 84 and drive it while I do a really good build up on my 3.4 as my car is going to become a real hot rod not just a simple 3.4 swap.  I am going to use a few high performace Goodies.  It should be fun.||||reg||1
+Z||000009||zeusrekning||04-27-2000||09:21 PM||||DUCKTAPE <IMG SRC="http://www.fiero.nl/forum/smile.gif">  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||10

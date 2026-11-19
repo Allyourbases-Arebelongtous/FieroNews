@@ -1,0 +1,4 @@
+A||||2||DJRice||Cant hold my cookies?||||1
+Z||000000||DJRice||10-20-1999||09:12 AM||||Ok so Everything was working fine for a while with my open and closed books and red and green lights.  Then they started intermittently dissappearing again.   <P>Im wondering about the URL that I see on my location bar now because the last part of it looks like this:  Ultimate.cgi?action=intro&bypasscookie=true<P>Why did this bypass cookie suddenly appear and is it telling Netscape (4.7) to ignore the cookie?<P>Help.<BR> ||||reg||1
+Z||000001||Cliff Pennock||10-20-1999||11:50 AM||||I've been testing myself with IE and have seen the same results every now and then.<P>The last part of the URL should be: Ultimate.cgi?action=intro (without the "bypasscookie" part). I really still have no idea why IE has so much difficulties with cookies...||||reg||1
+Z||000002||DJRice||10-21-1999||08:25 AM||||Well the books and lights are back this morning so well see how long it lasts....<P>||||reg||1

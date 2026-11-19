@@ -1,0 +1,2 @@
+A||||0||fix||cyberdyne gauge question||||1||
+Z||000000||fix||08-10-2001||08:58 PM||||I'm looking to replace my gauges with digital ones from cyberdyne or intellitronix.  I question, however, if the stock fiero speedometer sender will work with these gauges.  Does anyone know if it will?  I think the sender that you can buy with the digital gauges won't work on a fiero tranny so that's why I ask.  ||||reg||1

@@ -1,0 +1,4 @@
+A||||2||fierodude||sunroof question?||||1||
+Z||000000||fierodude||06-22-2001||12:55 PM||||how do i stop my sunroof from leaking a friend told me to put vaseline on the rubber<BR>will this work?<P>------------------<BR>slice the rice! it dosen't pay to drive jap - crap!||||reg||1
+Z||000001||84Bill||06-22-2001||01:08 PM||||This should help<BR> <A HREF="http://www.fiero.nl/forum/Forum2/HTML/010923.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/010923.html</A>  <BR>And <A HREF="http://www.fiero.nl/forum/Forum2/HTML/011472.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/011472.html</A> <BR>||||reg||14
+Z||000002||cadaver||06-22-2001||09:40 PM||||I sure would not put vasaline on it. It will attatck the rubber and not to mention get all over everything. Like when you remove it or it sits inb the sun abd gets luqid and runs down onto the seats. But if you really want to.||||reg||1

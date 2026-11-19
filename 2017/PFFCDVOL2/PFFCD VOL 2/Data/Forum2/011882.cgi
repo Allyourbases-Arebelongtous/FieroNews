@@ -1,0 +1,3 @@
+A||||1||FieroBUZZ||1984 cabin fresh air vents????||||5||
+Z||000000||FieroBUZZ||07-07-2001||09:04 PM||||I have an 86 SE w/o air and would like to know if the fresh air vents in 84 (by driver's knee) bring in enough outside air to try fitting a set to the 86.  The actual setup looks pretty straight forward but I assume they were discontinued for a reason.<BR>Opinions?<BR>Gary||||reg||5
+Z||000001||maryjane||07-07-2001||09:48 PM||||Don't know the answer to your question BUT, Vents may help up in Canada, but here in W. Texas they just blow hot air right on the wrong place in the summertime<P>------------------<BR>84 SE 2.5<BR>not slow not fast-just halfast||||reg||1

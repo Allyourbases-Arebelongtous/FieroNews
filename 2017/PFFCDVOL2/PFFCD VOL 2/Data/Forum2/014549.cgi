@@ -1,0 +1,5 @@
+A||||3||K2m4||popping noise ||||1||
+Z||000000||K2m4||10-18-2001||06:26 PM||||Hey every one i get a very noticeable popping noise under near the front driver side when i drive sort of slow...suspension maybe?? anyone have an idea??? On my GT BTW<P>thanks <P>Kerm<BR>86 2M4<BR>86 GT<BR>88 2m6||||reg||1
+Z||000001||Joe Torma||10-18-2001||07:52 PM||||Probably suspension... jack that side up  under the A arm...yank on the wheel in all directions...see if you can find any play any component. ||||reg||1
+Z||000002||GT GT 87||10-18-2001||10:11 PM||||To check upper a-arms bushings , jack up front with the jack under the lower a-arm. Then rock upper a-arm forward and back , if there is any play , you will see it . The tire has to be removed for this.If you jack it up and let the suspension drop , the upper a-arm is being pulled down by the spring and you won't see any play in the upper a-arm bushings.||||reg||1
+Z||000003||Rick 88||10-18-2001||10:21 PM||||Try checking out your shock mounts with a jack under the A-arm. <P>Rick 88||||reg||1

@@ -1,0 +1,4 @@
+A||||2||contra||Subwoofer questions....?||||5||
+Z||000000||contra||06-05-2000||06:25 PM||||I am working on a 2x10 subwoofer cabinet for the front spare tire compartment<BR>but it's going to take a while for me to finish it until the summer time comes around<P>Anyways, i went out to a pawn shop and bought one of those boom-tubes or bass-bazookas or whatever you want to call them, and i got it for like $35 and just dumped it in the front spare tire well, and close the lid. Man does this thing make a NICE bass sound. problem is my whole car rattles, mostly just the radiator and the headlight covers. Any ideas how i can prevent this so that it doesn't get worse when i get my 2x10 cabinet in it?<P>thanx<BR>||||reg||5
+Z||000001||stimpy||06-05-2000||07:35 PM||||Dynamat and lots of it! ||||reg||1
+Z||000002||GT Bastard||06-05-2000||08:05 PM||||Oh god....||||reg||1

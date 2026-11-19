@@ -1,0 +1,3 @@
+A||N||1||cscougar||Not reving right||||1||
+Z||000000||cscougar||07-15-2000||05:17 PM||||Just put an engine in my son's 86 2m6.  The engine had sat a while along with the transmission.  It starts fine after adjusting the timing and all.  It has a problem with being sluggish.  You press on the accelerator and it is slow to respond.  We are running carb cleaner through the intake to try to clean out the phenum.  Any other suggestions.  This is the only problem I think that it has.   Thanks.   Ted||||reg||1
+Z||000001||hugh||07-15-2000||05:41 PM||||What happened to the original engine?If it was burning oil or had some other problem related to polluting the exhaust,it could be your catalytic converter.||||reg||1

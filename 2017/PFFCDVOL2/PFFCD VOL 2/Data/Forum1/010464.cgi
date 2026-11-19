@@ -1,0 +1,3 @@
+A||||1||Tabs||nice aftermarket rims for a notchback||||1||
+Z||000000||Tabs||09-23-2001||01:18 PM||||I need helping lookings for aftermarket rims for my notchback I'm looking into getting a set of deepdish rims but I've only seen thoses on Fastback Could Forum members give me some ideas at what kinda rims should I buy.<BR>17 inches I don't want any smaller<P>thankz||||reg||1
+Z||000001||Formula||09-23-2001||02:18 PM||||I have these, they arent deep dsh and they arent 17s though but I like them<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/Formulasigs.JPG"> <BR><p>[This message has been edited by Formula (edited 09-23-2001).]||||reg||1

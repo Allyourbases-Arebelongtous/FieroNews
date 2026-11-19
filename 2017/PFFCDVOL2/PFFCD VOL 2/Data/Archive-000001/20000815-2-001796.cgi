@@ -1,0 +1,3 @@
+A||||1||dodger||Heater control light out...||||5||
+Z||000000||dodger||12-25-1999||02:17 PM||||Anyone help in replacing light in heater-A/C<BR>control panel? I took off the faceplate but could not remove control unit or find any bulb...thanks!||||reg||5
+Z||000001||theogre||12-25-1999||03:03 PM||||the controls come out as an assembly and are held in by 3 screws. The lamp loads from the back of the face plate opposite end from the fan speed knob.<P>the mini lamp is held in a twist lock socket. same as dash or parking lamps. It has a nasty habbit of melting and sticking to the mounting hole and/or the lamp.<p>[This message has been edited by theogre (edited 12-25-1999).]||||reg||1

@@ -1,0 +1,7 @@
+A||N||5||fryecar||Recalls||||1||
+Z||000000||fryecar||01-31-2000||12:23 PM||||I've had my 85 2m4 since new and have had many recalls in the past, where can I find a list of all recalls for my car?||||reg||1
+Z||000001||Monkeyman||01-31-2000||05:11 PM||||I don't remember off hand, but if you go to batboys site and then to his "Secrets" page, he has some links that will help you. <A HREF="http://sites.netscape.net/batboybain/batmobile" TARGET=_blank>http://sites.netscape.net/batboybain/batmobile</A> ||||reg||1
+Z||000002||Bruce||01-31-2000||11:20 PM||||Try the web site for: alldata||||reg||1
+Z||000003||batboy||02-01-2000||12:46 AM||||Actually, I think Monkey meant go to my Favorite Fiero links page, then go to the Fiero Secrets link, then look up the recall links, etc... Here this is easier, Alldata shows only one recall notice for that year:<P>Bulletins for 1985 Pontiac Fiero 4-151 2.5L<P>Safety Recalls<P>TSB Number---Issue Date---TSB Title<BR>1. 88C23-----JUN 90-------Potential For Engine Fires<p>[This message has been edited by batboy (edited 02-01-2000).]||||reg||1
+Z||000004||MrFeeArrow||02-01-2000||06:02 AM||||Thanks Batboy,<BR>I had the head gasket changed out somewhere back in 1987? I couldn't remeber if it was under warranty or it was a recall.||||reg||1
+Z||000005||Monkeyman||02-01-2000||06:02 PM||||batboy--Thanx.  That was what I meant.  I have your address memorized but apparently not the order of your pages.  A thousand pardons.||||reg||1

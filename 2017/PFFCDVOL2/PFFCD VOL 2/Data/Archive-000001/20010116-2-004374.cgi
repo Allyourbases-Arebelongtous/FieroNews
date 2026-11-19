@@ -1,0 +1,6 @@
+A||||4||Wannabe||Paint Codes||||5||
+Z||000000||Wannabe||06-20-2000||10:32 AM||||Anybody know the paint codes for the '87 Bright Blue Metallic and the silver color that goes on the lower body?||||reg||5
+Z||000001||My7Fieros||06-20-2000||07:11 PM||||I actually just bought some paint that color..to paint my (very faded) 87 GT. However, the can is at my friends garage w/ the car...Ill go over there later tonight, and get the code and let you know.<BR>As far as the silver on the bottom...good luck! I have a friend who works at an automotive paint store...no luck. He called Dupont, again no luck...next, he called GM..guess what? No luck! The only listing they show for GM "trim" color is the black (k-79). Anyway, I'll let you know the code soon.||||reg||1
+Z||000002||Old Lar||06-20-2000||09:12 PM||||The Fiero Spotter's Guide by Mark Corbin lists Blue paint as bright blue metallic (1987) code 21, while  the medium gray (1984-87) metallic is code 18.||||reg||1
+Z||000003||Wannabe||06-21-2000||08:14 AM||||Thanks guys||||reg||1
+Z||000004||rogergarrison||06-21-2000||11:27 AM||||there is a white label either on the console locking lid, or under the front hood on top of the drivers side wheelwell. the numbers at bottom beginning with WA_______ are the paint codes for your particular car.||||reg||1

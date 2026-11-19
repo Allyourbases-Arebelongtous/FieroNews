@@ -1,0 +1,5 @@
+A||||3||Tweek||idea for engine swap||||1||
+Z||000000||Tweek||06-09-2001||12:05 AM||||My parents have a 91 ciera wagon with a 3.3l v6 in it. That car is actually pretty quick. Has anyone thought of this swap? from that info I can find it seems to have 160 hp, and 185 ft/lbs of torque...||||reg||1
+Z||000001||mrfiero||06-09-2001||12:08 AM||||I thought about this a year or so ago, but found out that it is a 90* V-6......just like a 3800.  It would make more sense to just install a 3800 since it would require the same amount of work as the 3300.<P>Of course that doesn't mean you can't do it.....if you want it go for it!   <IMG SRC="http://www.fiero.nl/forum/smile.gif">  ||||reg||1
+Z||000002||danny boy||06-09-2001||03:53 AM|||| Buy a kit for a 3800 swap-most of the stuff will work.||||reg||1
+Z||000003||PBJ||06-09-2001||10:02 AM||||TweeK,  I would agree with others if your going to swap go with the big brother, the 3800.  my opinion of the 3300 is very poor, but they do let you know when they are running cause you can feel them shaking.||||reg||1

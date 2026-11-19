@@ -1,0 +1,14 @@
+A||||12||Screwie||Pontiac Fiero Performance Portfolio||||1||
+Z||000000||Screwie||10-27-2001||01:33 PM||||Anybody know the book Pontiac Fiero Performance Portfolio by Brooklands Books? Is it any good?||||reg||1
+Z||000001||Screwie||10-27-2001||02:07 PM||||This one<P> <IMG SRC="http://www.fiero.nl/uploads/Fierobook.jpg"> <P>Hope it works, first time PiP  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000002||Screwie||10-27-2001||02:35 PM||||And since nobody's answering, here's a try at my new signature! <P>I got my own little thread here  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Wish I had this one<BR> <IMG SRC="http://www.fiero.nl/uploads/fieroautotrader.jpg"> ||||reg||1
+Z||000003||CoolBlue87GT||10-27-2001||08:20 PM||||No, I've never seen it, but looks good.<P>Hope someone can tell us about it. <p>[This message has been edited by CoolBlue87GT (edited 10-27-2001).]||||reg||6
+Z||000004||FieroMaster88||10-27-2001||08:40 PM||||I like the car on the cover  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000005||Screwie||10-28-2001||06:10 AM||||*bump* Anybody?||||reg||1
+Z||000006||Monkeyman||10-28-2001||06:12 AM||||I have it right here in front of me.  I enjoy it.  What did you want to know?||||reg||1
+Z||000007||Mickey_Moose||10-28-2001||08:43 AM||||I also have it...any other questions?<P>It does have some interesting articles in it - mostly it is reprints of articles that were printed in the car mags  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>Tim<BR>||||reg||1
+Z||000008||Screwie||10-28-2001||08:55 AM||||So it isn't a book? Just magazine articles put together? And does it have a lot of technical information in it? Or is it mainly basic stuff? Basically, what kind of info do I find in there? Is it worth US$30?||||reg||1
+Z||000009||Monkeyman||10-28-2001||01:12 PM||||Lots of magazine opinions (not all good but not completely against the Plastic Fantastic, either) and lots of facts (0-60 times, etc).  There's some good tech info, but it's not what you'd call a technical book.  I think it's worth the money, but others may not.||||reg||1
+Z||000010||Mickey_Moose||10-28-2001||03:28 PM||||I personally think it is worth it as well, there are some good technical write ups in there - I like the one that starts on page 56 that kind of explains why adding a free flow air intake would not help the Fiero that much - very good read over all  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Tim<BR>||||reg||12
+Z||000011||Screwie||10-29-2001||10:13 AM||||Thanks guys! Well, I'll be ordering it soon  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000012||Gerald||10-29-2001||06:02 PM||||what was some of the reported test numbers for the 87 4 cyl coupe. I would really like to know. <P>Thanx ||||reg||1

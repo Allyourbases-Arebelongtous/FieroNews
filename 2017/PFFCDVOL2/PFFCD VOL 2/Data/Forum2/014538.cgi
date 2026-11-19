@@ -1,0 +1,5 @@
+A||N||3||rnoswal||85 duke running rich||||1||
+Z||000000||rnoswal||10-18-2001||11:01 AM||||I have a new O2 sensor, but I can smell the exhaust and it is running rich. Not enough to cause the plugs to foul out, but I can smell it. I am not getting any code lights or anything either. Is there something that regulates the fuel mixture and can I replace or adjust anything to help this condition. the air filter is new and the car runs great overall, but I don't like smelling the exhaust, especially at a stop light.<P>Thanks||||reg||1
+Z||000001||rnoswal||10-19-2001||12:06 AM||||bump!||||reg||1
+Z||000002||rnoswal||10-21-2001||11:49 PM||||bump again. come on someone!!!!||||reg||1
+Z||000003||fierospeeder||10-22-2001||12:07 AM||||the oxygen sensor adjusts the fuel ratio on the car, when the vehicle is warmed up when the coolant temp sensor informs the computer when that happens.<P>Check your plug wires if they are cracked.  I have to change my plug wires all the time due to the heat.  Its probably an ignition problem if your running to much fuel, or a sensor like the coolant temp sensor thinking the engine is cold and making it rich.||||reg||1

@@ -1,0 +1,5 @@
+A||N||3||Monkeyman||Patriotic T shirts for sale!!!||||4||
+Z||000000||Monkeyman||09-17-2001||06:00 PM||||Done by a local t shirt shop (these guys are professionals).  $10 shipped to anywhere in the USA or Canada.  (Overseas shipping may be more.)  Click <A HREF="http://www.fiero.nl/forum/Forum4/HTML/004892.html" TARGET=_blank>here</A> for more information.<P>I have to order these 1st thing tomorrow so you must place your order by 6am Indiana time!<P>------------------<BR>In memory of those that died on 11 Sept 2001.<BR>  <IMG SRC="http://www.fiero.nl/uploads/1367.gif">  <BR>Monkeyman||||reg||4
+Z||000001||Monkeyman||09-17-2001||09:47 PM||||bump||||reg||1
+Z||000002||pontiacs4me||09-22-2001||02:21 PM||||can you still get these?||||reg||1
+Z||000003||Fiero5||09-22-2001||10:53 PM||||I never saw this before.<BR>I will take one large white and one large black if still available.<P>Steve<P>------------------<BR>                                <IMG SRC="http://a1040.g.akamai.net/f/1040/759/1h/206.29.192.139/info/pics/sept11.jpg">                             <BR>http://www.kelleyfamilyfieros.homestead.com/index.html||||reg||5

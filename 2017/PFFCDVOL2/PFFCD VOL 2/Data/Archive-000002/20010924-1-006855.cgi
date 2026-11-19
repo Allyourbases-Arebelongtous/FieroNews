@@ -1,0 +1,2 @@
+A||||0||JohnnyK||I had to take it to ebay. :(||||1||
+Z||000000||JohnnyK||04-14-2001||01:43 AM||||No one around here wanted a Fiero for $2500 (canadian.. it sounded fair to me) so i threw it up on ebay.. It's in us dollars. <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=579752670&r=0&t=0" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=579752670&r=0&t=0</A> ||||reg||1

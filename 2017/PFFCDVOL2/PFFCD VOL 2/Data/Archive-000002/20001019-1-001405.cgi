@@ -1,0 +1,6 @@
+A||N||4||SloPonti||2.5 throttle body-any modifications out there??||||5||
+Z||000000||SloPonti||02-29-2000||11:54 PM||||you guys all know about my hopped up iron duck but i did not do anything to the throttle body! the holley aftermarket one at the fiero store for about 360.00 is nuts! way to much money-is there anything to do to help out the stock one! i have heard of a toni ryan that has a webpage that has some info on modifying the stock tbi! any thougths or suggestions?<BR>thanks<BR>Rob||||reg||5
+Z||000001||Cooter||03-01-2000||12:16 AM||||Go to the Holley website and get the part number for the throttle body. Then call Summit or Jegs and give them the part #### and they will have a much better price than the Fiero Store.||||reg||1
+Z||000002||SloPonti||03-01-2000||12:19 AM||||it will still be to much money than what i want to spend right now! just thought i could do something to the stock one for now until i can afford the aftermarket holley unit!<BR>thanks<BR>Rob||||reg||1
+Z||000003||fotofrank||03-01-2000||01:24 PM||||The Holley body P/N is 500-1 and the price at <A HREF="http://www.wrenchhead.com" TARGET=_blank>www.wrenchhead.com</A>  is about $298.00.It only fits the '84-? 4 bangerwith the tbi P/N 300 Rochester.||||reg||14
+Z||000004||theogre||03-01-2000||01:37 PM||||The holley will work only for 84-86.||||reg||1

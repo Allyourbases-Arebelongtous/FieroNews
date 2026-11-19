@@ -1,0 +1,4 @@
+A||||2||William Federle||ALDL||||5
+Z||000000||William Federle||11-11-1999||02:45 PM||||I read (maybe in a posting in this forum) that there is a way to use the check engine<BR>light to tell if the ECM is in closed loop<BR>mode while it's running. It flashes at one rate in closed loop mode and at another in open loop mode. I think that the method is <BR>to put a 10K resistor from the diagnostic <BR>terminal to ground in the socket (A to B)<BR>Does anybody know if that's right?||||reg||5
+Z||000001||Greg Piet||11-11-1999||04:24 PM||||In the official service manual it describes it, but i dont remember it exactly(and the book isnt at my fingertips).<BR>if it flashes at one flash per sec it is in normal operation, but if it flashes really fast i think it is in default settings mode (whether that is closed or open loop i dont know).<BR>hope this helps||||reg||1
+Z||000002||William Federle||11-11-1999||04:34 PM||||Thanks. ||||reg||1

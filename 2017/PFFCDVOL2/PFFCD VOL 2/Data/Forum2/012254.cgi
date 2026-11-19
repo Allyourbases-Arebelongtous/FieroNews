@@ -1,0 +1,5 @@
+A||N||3||sjaswal||clutch fork remeval?||||1||
+Z||000000||sjaswal||07-23-2001||01:35 PM||||how can I remove the clutch fork '84 4speed,<BR>transaxle is out<P>the fork is bent and one side is broken also<P>||||reg||1
+Z||000001||rogergarrison||07-23-2001||03:32 PM||||you have to drive out the pin/pivot. replace it with the forged one piece available from Pontiac if yours is the welded together piece of crap. Youll also need the matching pivot. I pretty sure its pressed in not threaded. make sure you lube it with permanent lube, cant get to it once its in. Think the 2 parts were about $125.||||reg||1
+Z||000002||sjaswal||07-23-2001||03:49 PM||||So I have the welded fork onto shaft in the transaxle.  Will this need to be cut out?<P>||||reg||1
+Z||000003||rogergarrison||07-23-2001||08:32 PM||||you have to work out the shaft. WD40, pipe wrench or whatever it takes. You have to use new fork and shaft anyway so damaging its no prob. just be careful you dont damage case. maybe someone else has replaced it has a few tricks of their own. check back||||reg||1

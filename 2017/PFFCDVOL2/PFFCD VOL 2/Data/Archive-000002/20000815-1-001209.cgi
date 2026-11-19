@@ -1,0 +1,4 @@
+A||||2||fieroshop||Need Pictures||||10||
+Z||000000||fieroshop||02-10-2000||02:36 PM||||I need pictures of your Fieros for my web page. My son is putiing them on and he needs all the help he can get.<BR>Go to my web site at <A HREF="http://www.fieroshop.net" TARGET=_blank>http://www.fieroshop.net</A>  and go to fiero photos button. There you will see where you can submit your pictures of your Fieros. Thanks I appreciate the help.||||reg||10
+Z||000001||DaRkLoRD||02-10-2000||06:07 PM||||Let me know if there's any photos on my site you'd like, I probably still have the original images (before I resized them and added the black fade around the edges)<P>||||reg||1
+Z||000002||fierosound||02-10-2000||07:34 PM||||An excellent selection of Fiero pictures can be found at the website below:<BR> <A HREF="http://albums.photopoint.com/j/AlbumList?u=29019" TARGET=_blank>http://albums.photopoint.com/j/AlbumList?u=29019</A> <P>||||reg||10

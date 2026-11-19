@@ -1,0 +1,4 @@
+A||N||2||count_iblis||97 16 inch grand prix wheels||||10||
+Z||000000||count_iblis||11-03-2000||04:39 PM||||will 1997 grand prix wheels fit a fiero?  <P>also what do you all think?  are these worth 200.00?  <BR>These arent the actual rims but look just like them.<P><BR> <IMG SRC="http://www.fiero.nl/uploads/rims.jpg"> <P><BR><P>------------------<BR>COUNTIBLIS <BR>"HUG YOUR KIDS SPANK THE SOUND BARRIER"||||reg||10
+Z||000001||Raydar||11-03-2000||04:58 PM||||Don't I wish...<BR>The Fiero uses a 5 x 100 mm bolt circle.<BR>I think the GP, and a lot of other cars with cool wheels, use 5 x 115.  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>Raydar||||reg||1
+Z||000002||Philphine||11-03-2000||07:05 PM||||count, '95-'99 cavalier z24 wheels fit and look similar if you can find a set cheap. they're 16" also.||||reg||1

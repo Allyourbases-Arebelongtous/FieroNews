@@ -1,0 +1,2 @@
+A||N||0||wxxo||fuel capacity||||1||
+Z||000000||wxxo||04-26-2000||01:12 PM||||ok heres one for all of you learned ones. every reference ive seen (including this forum) says that 86 fieros have a 10.3 gallon gas tank. when the needle says empty i fill up again but can never get more than about 8 gallons in. ive even ran it till its empty and coasted into the gas station and still no more that 8 gallons. is there 2 gallons of unusable fuel in the tank like on airplanes??? this ones had me baffled for some time now. tia for the replys||||reg||1

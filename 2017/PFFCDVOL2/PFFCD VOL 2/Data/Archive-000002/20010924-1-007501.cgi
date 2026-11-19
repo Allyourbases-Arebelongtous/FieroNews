@@ -1,0 +1,3 @@
+A||N||1||FieroGTguy||New Fiero Website!  www.FieroStuff.com||||1||
+Z||000000||FieroGTguy||05-18-2001||01:38 AM||||It will soon become the #1 Fiero modification site on the net.  I have many very cool unseen mods that won't be released until the show.  (unless you buy something from site, then I'll tell you a few)   <IMG SRC="http://www.fiero.nl/forum/wink.gif">  Bookmark (ctr + D), and check back throughout the summer.  <P>I'm using it now to sell a few things to fund the site.  All input is appreciated.<P>Greg||||reg||1
+Z||000001||gt2437||05-18-2001||11:18 AM||||awesome, keep us posted  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||14

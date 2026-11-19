@@ -1,0 +1,5 @@
+A||||3||TOM||LINK TO MY SITE||||1
+Z||000000||TOM||11-14-1999||05:43 PM||||It is small but it is coming along. <A HREF="http://www.digitalfusion.on.ca/tomfiero/" TARGET=_blank>http://www.digitalfusion.on.ca/tomfiero/</A> <BR>||||reg||1
+Z||000001||Gokart||11-14-1999||07:06 PM||||Looking good Tom! Didn't waste anytime adding your page to my favorites! Ever need a referral you know you can use me. Your products are second to none!!||||reg||14
+Z||000002||87GT||11-14-1999||09:12 PM||||I noticed the light kits, did you by chance try and sell those on a ebay auction recently?  If it was you, I saw it.  Just wonderin||||reg||1
+Z||000003||fiero56||11-14-1999||09:18 PM||||I saw that E-Bay auction also.  The thing is, the next time I checked my e-mail there was an ad for them in there. Scary. Thought they looked better than stock.  I've never really taken a liking to the way a Fiero looks when the lights are on a night.  I wonder what the Fiero light setup would look like if Pontiac had used their trademark driving lights on it back then. I love the driving lights on the Tans-am and such.||||reg||1

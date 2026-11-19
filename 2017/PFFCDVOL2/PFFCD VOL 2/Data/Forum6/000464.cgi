@@ -1,0 +1,4 @@
+A||||2||SibERThuG||anyone collect baseball/hockey/football/basketball memorabilia||||4||
+Z||000000||SibERThuG||07-03-2000||01:40 AM||||I am selling well over 1 million assorted cards, kits, and boxes as well as some autographs; signed hats and jerseys and stuff. I know that I've got a couple of $100-$400 cards. I also have Drew Bledsoe's actual Patriots hat autographed, Bobby Orr's Jersey, Nomar's actual playing glove, etc. I am selling whole lot all together. I will not break up stuff. Make offer if interested. Please don't make dumb offers. Stuff is worth some serious money.||||reg||4
+Z||000001||doughboySE||07-03-2000||10:59 PM||||how about any toronto maple leafs stuff?||||reg||1
+Z||000002||SibERThuG||07-15-2000||12:54 AM||||Yep. I got any team of any sport. Not sure exact players/cards, but I can almost guarantee all teams.||||reg||7

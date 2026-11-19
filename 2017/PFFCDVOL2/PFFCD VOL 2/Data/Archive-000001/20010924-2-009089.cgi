@@ -1,0 +1,3 @@
+A||N||1||johnt671||msd coil 8207 ?horseman or anyone||||5||
+Z||000000||johnt671||03-21-2001||11:31 AM||||Just went to the parts store to check on this coil for my 84 4cyl.  Was afraid to buy because of the diff. between the stock coil wiring.  Found the old posting with wiring hook up and wanted to double check first.  The coil has two connecters and i'm guessing that the two wires for the pos side go into the pos side and the two neg go into one.  Maybe a dumb ? put I don't want to fry anything.  How is yours working?  Thanks.<P>------------------<BR>||||reg||5
+Z||000001||johnt671||03-22-2001||07:36 AM||||bump<P>------------------<BR>||||reg||1

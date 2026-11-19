@@ -1,0 +1,4 @@
+A||||2||MooCow||Space Coast Fiero Club??||||5||
+Z||000000||MooCow||04-12-2001||05:21 PM||||I was driving downtown muskegon today going to get my hair cut when I seen a silver 85 GT parked.  As I drove by it had "Space Coast Fiero's" in the back window.  Isn't this a Fiero Club somewhere??  If you are on this forum Hi.<P>                             Thanks Ken<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sig.jpg"> <BR>87 GT, 3.4 engine with a 4:10 tranny, and Viper Yellow!||||reg||5
+Z||000001||87GT||04-12-2001||05:59 PM||||Im pretty sure that Space Coast fieros is on the east side of Florida around Titusville I think.||||reg||1
+Z||000002||Formula88||04-12-2001||08:44 PM||||That would be true.  The Space Coast is around Titusville, Cocoa, down towards Melbourne.  Probably a little larger than that, but you get the idea.<P>God, I miss the sunrise over LC39.   <IMG SRC="http://www.fiero.nl/forum/frown.gif">||||reg||1

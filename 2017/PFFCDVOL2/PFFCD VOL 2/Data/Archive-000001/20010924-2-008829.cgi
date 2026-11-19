@@ -1,0 +1,4 @@
+A||||2||Formula 18||Spark Plugs--- Turbo guys please respond||||5||
+Z||000000||Formula 18||03-08-2001||10:38 PM||||I did a search but couldn't find a good answer. I don't want to start anymore wars here either. <P>I don't care really what brand of plug but want to know what <B>heat reange and gap</B> everyone is using espically you turbo guys. ||||reg||5
+Z||000001||gixxer||03-08-2001||11:30 PM||||The manufacturer of my turbo kit recommends Bosch HR6BP platinums, gapped at .032"-.035".<BR>Good luck finding these.<BR>I run Champion RV12YCs, gapped at .040".<BR>The extended tip probably isn't optimum, but there you are.  ||||reg||1
+Z||000002||turbo86se||03-09-2001||01:14 AM||||A/C Delco<P>I've always used them.<P>Oh yeah, lets not get started in the old vinney-spark-plug debate! LOL<P>------------------<BR> <IMG SRC="http://albums.photopoint.com/j/View?u=226077&a=1676320&p=20236791"> ||||reg||1

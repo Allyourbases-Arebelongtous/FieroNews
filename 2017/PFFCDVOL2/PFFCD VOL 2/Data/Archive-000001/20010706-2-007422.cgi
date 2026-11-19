@@ -1,0 +1,7 @@
+A||N||5||kinboyatuwo||Replacing heads||||5||
+Z||000000||kinboyatuwo||12-19-2000||06:33 PM||||Okay the time has come and i cannot find a new feiro, so i think i will fix mine.  Still not for sure but probibly<BR>just want to know how hard it is to replace the head unit with a rebuilt one.  Looks from  the haynes manual to not be too hard.  <BR>Is there any real problems or special tools needed?<P>Also is there any performance stuff that can be done while it is apart, or extra maintence (i will replace the head gasket, the bolts, the head unit, the rocker arm cover exaust and intake gaskets).  <P>Any help is appreciated, the search for what i want is hard and long so i might just do the work anyways,<P>thanks<P>------------------<BR>"Friends don't let friends drive four doors."||||reg||5
+Z||000001||88formula||12-19-2000||06:41 PM||||4 or 6?||||reg||1
+Z||000002||kinboyatuwo||12-19-2000||07:04 PM||||SORRY<BR>87 2.5<P><P>------------------<BR>"Friends don't let friends drive four doors."||||reg||1
+Z||000003||theogre||12-19-2000||07:10 PM||||Replace all the head bolts. Read the fire recall in my cave.<P>It's not very hard. You need a torque wrench and a torque angle gage. The bolts have to be turned X degrees after reaching specified torque. It's pretty much all in the haynes book.||||reg||1
+Z||000004||kinboyatuwo||12-19-2000||07:17 PM||||I have heard about the cave but where?????||||reg||1
+Z||000005||theogre||12-19-2000||07:18 PM||||<A HREF="http://fierocave.shorturl.com" TARGET=_blank>The Fiero Cave</A> or at the bootom of every forum page.||||reg||1

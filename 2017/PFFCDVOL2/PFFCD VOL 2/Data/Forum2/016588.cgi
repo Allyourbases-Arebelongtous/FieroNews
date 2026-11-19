@@ -1,0 +1,8 @@
+A||||6||theogre||Cave Update||||6||
+Z||000000||theogre||12-21-2001||07:34 PM||||The cave was updated again over the last few days.<P>redid the page with the links... has stuff besides safety data.<BR>Added some stuff for people doing control arms.<BR>added the exterior skin adjustment info to the door article.<P>A whole bunch of other odd bits to many to list....<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/forum/fullstaff.gif">  <FONT COLOR="blue"><I><B>11-Sept-01, The day the world as we knew it ended.</B></I></FONT>||||reg||6
+Z||000001||87GTZ34||12-21-2001||09:16 PM||||Thank-you sir.  I will check it out.  That TY was for everyone on the forum too BTW as I was speaking on their behalf as well as mine.||||reg||1
+Z||000002||Dan010||12-21-2001||09:28 PM||||Thank You, Look forward to reviewing the info!!!!!||||reg||1
+Z||000003||theogre||12-21-2001||11:37 PM||||Those are likely the last major updates for the year. Depends how bored I am next week.   <IMG SRC="http://www.fiero.nl/forum/smile.gif"> <BR><p>[This message has been edited by theogre (edited 12-21-2001).]||||reg||2
+Z||000004||fierospeeder||12-22-2001||12:19 AM||||theorge are you really batman?<P>and if you are, where did you build the batplane?||||reg||1
+Z||000005||theogre||12-22-2001||12:11 PM||||Not batman.... but he contracted it out to Elbonia. took weeks to get the mud off.||||reg||1
+Z||000006||Fierokid87||12-22-2001||03:33 PM||||Thanks Orge.  Your a great help to the Fiero family.<P>Scott<P>------------------<BR><FONT COLOR="red"> Fierokid's  Web site:</FONT><BR><FONT COLOR="white">http://www.angelfire.com/sports/sfiero</FONT><P><FONT COLOR="blue">AIM: Fierokid87<BR>ICQ: Fierokid</FONT><P>  <IMG SRC="http://www.fiero.nl/uploads/fierokid.gif"> ||||reg||1

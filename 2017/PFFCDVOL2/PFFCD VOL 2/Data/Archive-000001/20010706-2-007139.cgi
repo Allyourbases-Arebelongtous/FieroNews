@@ -1,0 +1,6 @@
+A||||4||Master_Sushi||Speedometer||||5||
+Z||000000||Master_Sushi||12-04-2000||03:32 PM||||I have an 88 Coupe. Is my 85MPH speedometer the reflective type or backlit? I would really like to get rid of the 85 and put in a 120, but I want it to match. What type/model fiero has the one I need? Thanks||||reg||5
+Z||000001||Indiana_resto_guy||12-04-2000||10:34 PM||||Actually, none will 'match'. You'll need to put in a set of gauges from a GT or a v-6 SE (ALL of them!). Unless you can find an '85 (I can't remember if they go up to 120) with the cluster in it.||||reg||1
+Z||000002||Carrolles||12-05-2000||06:37 AM||||All 1985 Fiero speedometers are 85mph and are reflective lit.||||reg||1
+Z||000003||Master_Sushi||12-05-2000||08:56 PM||||What would be the best way to upgrade to a 120mph speedo then? Is there any way I can convert backlit to reflective?||||reg||5
+Z||000004||Carrolles||12-06-2000||06:32 AM||||You'd want to convert from reflective to backlit for better visability.<P>I believe the switch from the reflective 85 mph cluster to the backlit 120 mph cluster is mostly plug and play.  The 120 mph cluster will not have the oil pressure gauge that you find in most 85mph clusters.  The 120 uses the aux gauge set for the oil pressure.<P>I'm putting a backlit 85mph setup with aux gauges from an 86SE in my 85SE.||||reg||1

@@ -1,0 +1,8 @@
+A||||6||fierocd||dumb question||||5||
+Z||000000||fierocd||03-22-2001||05:59 PM||||I have an 86gt v-6 and I was wondering if anyone could tell me where the oil pressure sending unit is and where the tach filter is.  Thanks||||reg||5
+Z||000001||skitime||03-22-2001||06:12 PM||||I had sent this to someone else so you might as well use it too. This is the oil sending unit near the battery<BR> <IMG SRC="http://www.fiero.nl/uploads/P3200003_2.jpg"> ||||reg||1
+Z||000002||tgowens||03-22-2001||06:16 PM||||skitime shot a good picture!! -- the tach filter is mounted next to the distributor - small silver canister looking thing (like my technical description?).....||||reg||1
+Z||000003||WKDFIRO||03-22-2001||06:17 PM||||In an 86 its in the same place just a bigger sensor body. <P>That picture is of an 88 Fiero or at least of a Oil sending unit commonly used on 88s.<P>And if you can't find it still maybe skitime can send a BIGGER PICTURE! LOL<P>Hey can anyone tell me where the thermastat housing cap is? LOL <P>I laugh with the mocking knowledge that I can't even figure out how to post a picture yet!||||reg||1
+Z||000004||Jay||03-22-2001||06:20 PM||||Yes the tach filter is by the distributer and is white or silver.  I believe the wiring is also white on it.  It looks like a small AAA battery.||||reg||1
+Z||000005||skitime||03-22-2001||06:57 PM||||Sorry about the size of the picture. How do I make them smaller?  ||||reg||1
+Z||000006||skitime||03-22-2001||07:08 PM||||Well I sure this is too big also. This is the tach filter.  I will work on the size thing.<P> <IMG SRC="http://www.fiero.nl/uploads/P3220004.jpg"> ||||reg||1

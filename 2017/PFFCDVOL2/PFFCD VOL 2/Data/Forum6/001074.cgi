@@ -1,0 +1,2 @@
+A||||0||GeeDee86GT||Vehicle Maintenance Software||||14||
+Z||000000||GeeDee86GT||12-10-2000||09:46 PM||||Found a small freeware program to keep track of costs, repairs, etc.  Haven't really tried it out but it looks OK. Free is good. <A HREF="http://www.angelfire.com/rock/starcastle/" TARGET=_blank>http://www.angelfire.com/rock/starcastle/</A> <P>------------------<BR> <IMG SRC="http://www.geocities.com/garby_d/siggy.jpg"> ||||reg||14

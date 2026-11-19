@@ -1,0 +1,3 @@
+A||||1||V8Dreamer||sloppy shifter....need replacement bushings||||1||
+Z||000000||V8Dreamer||06-04-2001||11:02 PM||||I was hoping somebody could tell me where I can find replacement bushings for my shifter, the present ones are pretty worn out and it sometimes makes it hard to shift smoothly.  I heard Rodney Dickman sold them but looked all over his site and couldn't find em.  Thanks a lot,<P>Ryan<P>oh, btw, it's an isuzu 5 spd.||||reg||1
+Z||000001||Rodney||06-05-2001||08:31 AM||||Tell me which bushings you need and I'll look at it. I have not seen anyone looking for the bushings you mention yet. ||||reg||1

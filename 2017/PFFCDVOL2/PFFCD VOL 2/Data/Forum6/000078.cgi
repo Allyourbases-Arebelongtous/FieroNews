@@ -1,0 +1,2 @@
+A||N||0||superXmotorsports||anyone live in SoCal from Irvine south?||||5||
+Z||000000||superXmotorsports||02-10-2000||09:51 PM||||I'm thinking of moving to southern California after August this year.  Anyone live there now?  I lived in Laguna Hills back in 1990.  I loved the weather (I'm in PA now  <IMG SRC="http://www.fiero.nl/forum/frown.gif">  )  Anyone in San Diego?  What's it like?  I saw that the homes there were big $$.  Thanks!! SXM.||||reg||5

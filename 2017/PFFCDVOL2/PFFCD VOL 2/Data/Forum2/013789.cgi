@@ -1,0 +1,5 @@
+A||N||3||BlackDragon||what is my engines displacement?||||1||
+Z||000000||BlackDragon||09-19-2001||11:08 PM||||bare bone stock 4 cyl with one mod. bore 30 over. so what would that make the displacement? not 2.5 any more, so what? <P>------------------<BR>We are all different for a reason<P><BR>BlackDragon||||reg||1
+Z||000001||baldlobo||09-19-2001||11:29 PM||||it would make it closer to the 2.5L mark; the 2.5L engine actually 2471cc or something like that.||||reg||1
+Z||000002||Turbo88||09-20-2001||12:08 AM||||The stock 4 banger displaces 151 (150.8)cid or 2.5lt. It have a bore of 4.00in and a stroke of 3.00in. If you have it bored 30 over (.030in) that increases your bore to 4.03in for a new displacement of 153.1cid or 2.54lt. <P>||||reg||1
+Z||000003||BlackDragon||09-20-2001||12:10 AM||||so in other words it is prety useless. would it add any power at all? he he he 1/2 horse  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> every little bit helps   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> oh well. it had to be done whether it adds anything or not. thanx for the input<P>------------------<BR>We are all different for a reason<P><BR>BlackDragon||||reg||1

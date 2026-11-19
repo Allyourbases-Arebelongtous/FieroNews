@@ -1,0 +1,3 @@
+A||N||1||GT-maniac||Engine keeps dieing||||1||
+Z||000000||GT-maniac||05-19-2001||06:40 PM||||My 87 GT won't keep running. It starts up fine, after a few seconds seems to idle normally. But it only runs for about 5 minutes or so then starts to stumble then just dies and won't start again. I can crank it over forever and it won't fire at least not until cools down again. IS this a sensor problem ? The temperature gauge shows a normal operating temperature when it dies.<BR>Anyone have any ideas ?||||reg||1
+Z||000001||starfighter007@msn.com||05-19-2001||06:47 PM||||It sounds like a fuel pump problem you should check your fue presure first .then we go from there||||reg||1

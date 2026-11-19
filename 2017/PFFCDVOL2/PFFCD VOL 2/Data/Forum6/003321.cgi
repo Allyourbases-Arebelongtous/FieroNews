@@ -1,0 +1,6 @@
+A||||4||Cheever3000||I feel like a number||||2||
+Z||000000||Cheever3000||09-10-2001||11:25 PM||||All the talk about Fieros outselling Corvettes every year they were produced... hard for me to believe, when only 370,000 Fieros were ever made.  So, does anybody have the numbers of Vettes made from 84 to 88?  I wanna see em, before I go shooting my mouth off to people.<BR>||||reg||2
+Z||000001||85GTP||09-11-2001||12:21 AM||||Here you go, <BR>1984-coupe 51,547<BR>1985-coupe 39,729<BR>1986-coupe 27,794 convertible 7,315 <BR>total 35,109 <BR>1987-coupe 20,007 convertible 10,625 <BR>total 30,632<BR>1988-coupe 15,382 convertible 7, 407<BR>total 22,789<BR>Grand total= 179,806||||reg||1
+Z||000002||Cheever3000||09-11-2001||12:30 AM||||Excellent!  Thanks.  Might I also inquire as to your source?<BR>||||reg||1
+Z||000003||Black88GT||09-11-2001||12:39 AM||||Also keep in mind, those were the early C4 years.  84s had the infamous Cross fire injection (mine jarring 205hp!).  Thanks to the gas crunch those vettes were slow.||||reg||1
+Z||000004||85GTP||09-11-2001||01:26 AM||||I downloaded a corvette program(VetteSet) that give the specs for all year corvettes from <A HREF="http://www.corvettemuseum.com." TARGET=_blank>www.corvettemuseum.com.</A> ||||reg||1

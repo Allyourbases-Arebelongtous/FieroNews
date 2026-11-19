@@ -1,0 +1,2 @@
+A||||0||rockcrawl||Exit 29, PA Turnpike, Yellow GT||||7||
+Z||000000||rockcrawl||11-05-2000||08:18 AM||||There is a Yellow 88 GT with T-tops that sits at the toll booth in Bristol PA. It looks like it just rolled out of the dealer showroom! I was wondering if it is someone here who owns that baby. If so, shame on you for wanting to strike!!<P>------------------<BR>Jon Lagler<BR>'87 GT (awaiting new engine)<BR>4.9 liter V8 Testarossa Spyder (under construction)<P>"Confidence is the feeling you have before you fully understand the situation"||||reg||7

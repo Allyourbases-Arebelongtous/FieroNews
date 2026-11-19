@@ -1,0 +1,4 @@
+A||||2||tyruss||Exterior Colors
+Z||000000||tyruss||05-17-99||09:12 PM||||Where can I find out how many fiero's were painted which color? Example: 300,250 cars made, 100,000 were red, 75,000 were black, ect. 
+Z||000001||Carrolles||05-17-99||10:16 PM||||FOCOA ran this info in several issues of their magazine. Write to fieroowners.com (I believe this is the address) or do a search for FOCOA.
+Z||000002||ChadMan||05-18-99||07:01 AM||||Your best bet is to order the Fiero Spotter's Guide.  It's a great pocket-sized reference with all sorts of facts and production figures, option codes, etc.  Just send five bucks to:<p>Mark Corbin<br>5474 SR 19<br>Galion, OH 44833<p>I bought a Spotter's Guide from Mark at the 1997 FOCOA National meet, but lost it when I moved.  (Otherwise I could have answered Cliff's paint-code question.)

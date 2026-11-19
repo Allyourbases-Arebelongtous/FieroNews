@@ -1,0 +1,6 @@
+A||N||4||Seanh||How to prep car for painting?||||1||
+Z||000000||Seanh||10-07-2001||12:23 AM||||What all do I need to do to prep the car for its painting 2nd week of November? I'm going to remove all trim and ground f/x, spoiler, and stuff, but I need to start sanding it and don't know how much I need to sand and what else to do...||||reg||1
+Z||000001||sloth85GT||10-07-2001||12:37 PM||||*bump* <BR>I'd like to know the same.<P>------------------<BR>     <IMG SRC="http://www.mts.net/~kuzma/fieronl.gif">     <BR>Dan<BR>1985 Silver GT||||reg||1
+Z||000002||Cooter||10-07-2001||01:28 PM||||You might not get many responses to your question because it has beaten like a dead horse and some of the guys who are professional painters are tired of answering the same question. Please use the search function and hopefully all your questions will be answered.||||reg||1
+Z||000003||sloth85GT||10-07-2001||02:44 PM||||oh yeah, DUH!!! I'm sorry people. Off searching I go.......||||reg||1
+Z||000004||Kasdan||10-07-2001||10:02 PM||||Sand with progressivly finer grit paper, starting with 800 and going to about 2000.  Then theres a product that you use on plastic parts to clean it....kinda like a thinner but not quite...forgot what its called, id have to look, im too lazy.||||reg||1

@@ -1,0 +1,4 @@
+A||||2||MooCow||I'm going to Alabama||||6||
+Z||000000||MooCow||10-14-2000||09:46 PM||||Yes I am so hoappy that I get to go t Alabam on November 3,4, and 5.  I'm going down there to trade my Fiero 4-speed for the same Fiero only it will be an auto from Ed Parks.  I am so happy my paents are actually letting me go.  Hopefully the drive won't kill me.  About 13 hours of driving but hey its gonn be worth it. Then on my spring break I think I'm going back down there again to do the 3.4 swap from Ed Parks.<BR>Sorry just had to share the news.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>                                Thanks Ken||||reg||6
+Z||000001||terryk||10-15-2000||10:43 PM||||With a banjo on your knee?||||reg||12
+Z||000002||Carrolles||10-16-2000||10:08 AM||||Welcome to Alabama.  You will enjoy Ed and Rosie, they are great people.||||reg||1

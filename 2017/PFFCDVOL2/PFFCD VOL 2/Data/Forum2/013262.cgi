@@ -1,0 +1,4 @@
+A||||2||sailordude||Blinker light problems||||8||
+Z||000000||sailordude||08-30-2001||05:30 PM||||I'm having problems with my paserger side front blinker.  I replaced the bulb with the exact one that the auto parts store said to, however the blinker still isn't working.  The light does work when I turn the parking lights on, but it lights up twice as bright as the drivers side.<P>Any ideas on how to fix this?<P>Thanks in advance,<P>Darren||||reg||8
+Z||000001||Phil||08-30-2001||06:07 PM||||Sounds like you might have forced the bulb in 180 degrees out of wack. Try taking it out and try to put it back after giving it a half turn - should go in easily.||||reg||1
+Z||000002||DRH||08-30-2001||06:22 PM||||Check the ground wire. I'm guessing it is loose either at the socket or where it grounds to the frame.||||reg||3

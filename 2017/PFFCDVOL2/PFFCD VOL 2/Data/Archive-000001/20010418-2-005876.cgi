@@ -1,0 +1,5 @@
+A||||3||zeusrekning||align/line boring||||1||
+Z||000000||zeusrekning||09-24-2000||05:18 PM||||It is called align boring right?<BR>My story: My mechanic-g/f's dad says it is expensive and i should not worry about getting my 455 align bored. But it seems like it would be worth it. I was wondering if his built sbc350 not being align bored would be the reason he doesn't turn the rpm's he should<P>news about my 455. It looks great (just finished tearing it down). Last crank journal needs to be polished it was not perfectly smooth.||||reg||1
+Z||000001||Cooter||09-24-2000||06:48 PM||||I've had every motor I ever built align honed and the rotating assembly balanced. The align honing is especially a good idea if you have to replace main caps. ||||reg||1
+Z||000002||webbee||09-24-2000||06:54 PM||||It aligns the bearing saddles in a streight line. Very important if you want the engine to last. I always have it done when rebuilding. ||||reg||1
+Z||000003||zeusrekning||09-24-2000||07:51 PM||||any one give me a guesstimate on price difference?<p>[This message has been edited by zeusrekning (edited 09-24-2000).]||||reg||1

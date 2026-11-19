@@ -1,0 +1,8 @@
+A||||6||Luperman||tach filter||||5||
+Z||000000||Luperman||01-15-2000||12:22 AM||||can anyone tell me where the tach filter is and what it looks like on a 86 se v-6||||reg||5
+Z||000001||DXR_DAD||01-15-2000||01:17 AM||||Under/back of the distributor. On the block down by the dist. shaft.||||reg||1
+Z||000002||Cliff Pennock||01-15-2000||01:50 AM||||It's a small (about 2") cylindrical thing with a wire coming out of it from both ends. These two wores are connected to the ignition coil. The housing is bolted to the engine.||||reg||3
+Z||000003||Luperman||01-15-2000||01:57 AM||||can you buy that from any parts house?||||reg||14
+Z||000004||deceler8||01-15-2000||10:33 AM||||Apparently GM doesn't make them anymore...so you're stuck with 3 sources...salvage yard, Rodney Dickman (about $18 for $.50 worth of parts), or search this forum for "tach filter" and look for the message where Cliff illustrates how to make your own.<P>I suppose one of these days the "Things you can Build" section of the <A HREF="http://www.fiero.nl" TARGET=_blank>www.fiero.nl</A>  site will have the instructions. They may be there already...Cliff ?||||reg||9
+Z||000005||Old Lar||01-15-2000||11:09 AM||||Joe Wyman Associated Auto has Tach Filters that look like the original.||||reg||1
+Z||000006||Old Lar||01-15-2000||11:16 AM||||Speaking of Tach Filters, I had replace mine with an Associated Auto filter and a Rodney Dickman filter and both worked for a while.  It turned out I had a loose battery cable that gave the same problems as a faulty tach filter: jumpy tachometer reading. So now I have a spare Tach filter.<P>You can't have enough spare parts.||||reg||1

@@ -1,0 +1,2 @@
+A||||0||Pontiaddict||Anyone see one of these?||||1||
+Z||000000||Pontiaddict||02-27-2001||01:27 AM||||I was just looking around and seen that the fiero was on the cover of book of 1985 pontiac service bullitins for some reason.   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P><A HREF="http://www.autobooksbishko.com/pontiacmenu/pontiac.htm" TARGET=_blank>http://www.autobooksbishko.com/pontiacmenu/pontiac.htm</A> <BR>--------------------<BR>Yes I am bored.<p>[This message has been edited by Pontiaddict (edited 02-27-2001).]||||reg||1

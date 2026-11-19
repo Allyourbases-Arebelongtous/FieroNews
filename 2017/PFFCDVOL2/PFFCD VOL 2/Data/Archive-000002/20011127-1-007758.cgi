@@ -1,0 +1,7 @@
+A||||5||Hank is Here||HEHE..Dew wipes.||||1||
+Z||000000||Hank is Here||05-29-2001||05:46 PM||||Well today I went to my Chevy dealer to order  parts for my and my fathers Fiero.  One thing that I ordered was the outer dew wipes, only $23.85 per side! I was happy this is the lowest price I have heard.  The parts fellow didn't even look wierd when I said Fiero.  I think the guy had an open mind when he mentioned a car that a mutaul friend of ours built from scratch, and 1986 Snyder <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000001||AL||05-29-2001||08:25 PM||||part numbers please.<B>AL</B>  <IMG SRC="http://www.fiero.nl/uploads/AL_sig.gif">  <BR>84 indy 4  speed<BR>86gt <BR>89gta<P>------------------<BR> <p>[This message has been edited by AL (edited 05-29-2001).]||||reg||1
+Z||000002||turbo86se||05-29-2001||08:47 PM||||Good deal! Guess where I'm going tomorrow! <BR>Nice meeting you in Carlisle! <BR>"Hank is not here!"  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR> <IMG SRC="http://albums.photopoint.com/j/View?u=226077&a=1676320&p=20236791"> ||||reg||1
+Z||000003||rockcrawl||05-29-2001||08:52 PM||||1984-88 SEALING STRIP, window inner RH 20320534 <BR>1984-88 SEALING STRIP, window inner LH 20320535 <P>1985-88 SEALING STRIP, window outer RH 20606220 <BR>1985-88 SEALING STRIP, window outer LH 20606221 ||||reg||14
+Z||000004||pontiacs4me||05-29-2001||09:00 PM||||Theyre only 19.08 each on gmpartsdirect.com.||||reg||1
+Z||000005||Eric||05-30-2001||12:31 AM||||...  Or about $55 with shipping for both.||||reg||1

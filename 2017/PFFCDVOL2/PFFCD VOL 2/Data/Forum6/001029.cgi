@@ -1,0 +1,5 @@
+A||||3||KRMFiero||Just testing signature - ignore this||||1||
+Z||000000||KRMFiero||12-03-2000||11:25 AM||||testing||||reg||1
+Z||000001||KRMFiero||12-03-2000||11:26 AM||||testing again<P>------------------<BR>1984 Pontiac Fiero 2M4 SE<BR>Front - AudioBahn 4 x 10<BR>Headrest - AudioBahn 3 1/2<P> <IMG SRC="http://members.aol.com/~Physcokyle/fiero.jpg"> ||||reg||1
+Z||000002||sqoach||12-03-2000||02:20 PM||||testing mine too    <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>sQoaCh<BR>fiero7@hotmail.com<BR>   <IMG SRC="http://www.fiero.nl/uploads/mysig.JPG">   <P>yay!   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P> <IMG SRC="http://www.fiero.nl/uploads/mysig_1.JPG"> <BR>[This message has been edited by sqoach (edited 12-03-2000).]<p>[This message has been edited by sqoach (edited 12-03-2000).]||||reg||1
+Z||000003||My7Fieros||12-03-2000||03:54 PM||||Hey guys please tell me how to use signitures...Ive got one w/a pic, but I dont know how to use it. Please explain..THANX!||||reg||5

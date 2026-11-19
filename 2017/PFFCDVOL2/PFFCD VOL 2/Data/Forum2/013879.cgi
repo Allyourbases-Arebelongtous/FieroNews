@@ -1,0 +1,3 @@
+A||N||1||tomcat06085||88 GT power steering???||||1||
+Z||000000||tomcat06085||09-23-2001||06:45 PM||||Hey folks...anybody know if the 88 GT's had power steering as an option or is there an aftermarket kit for it.<P>------------------<BR>tomcat<BR>Help me go fast!||||reg||1
+Z||000001||Rodrv6||09-23-2001||07:13 PM||||There have been a lot of questions about this.  The short story is that Pontiac was going to offer electricly driven power steering as an option in 88.  Only 12 cars were built, but none were delivered to customers.  There have been some other systems adapted to the Fiero by some folks, but I don't have any details.<P>------------------<BR>Rod Schneider, Woodstock, Ga.  84 SE, 330,000 miles and counting, 88 GT, not nearly as many miles :)||||reg||1

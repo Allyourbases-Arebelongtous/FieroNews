@@ -1,0 +1,10 @@
+A||N||8||COUNTIBLIS||160 degree  thermostat||||1||
+Z||000000||COUNTIBLIS||02-04-2001||12:33 PM||||Where can you pick one of this up at?  <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/count3.gif"> ||||reg||1
+Z||000001||Old Lar||02-04-2001||12:57 PM||||<BR>Fiero Store  <A HREF="http://www.fierostore.com" TARGET=_blank>www.fierostore.com</A> <P>Hypertech Low Temp 160 degree $16.95.<P>It seems they recommed 176 degree fan switch at a mere $44.95.||||reg||3
+Z||000002||COUNTIBLIS||02-04-2001||01:01 PM||||Thanks, I  already found it cheaper at Summitracing.com.   <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/count3.gif"> ||||reg||1
+Z||000003||rogergarrison||02-04-2001||06:51 PM||||i have both. on a 95* summer day in traffic with ac on, it still never goes over 1/2 way up, V6 w/turbo||||reg||1
+Z||000004||ka4nkf||02-04-2001||07:54 PM||||Buy it from rodney, he helps us out.||||reg||1
+Z||000005||COUNTIBLIS||02-04-2001||08:12 PM||||Paducah eh?  Where abouts?<BR><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/count3.gif"> ||||reg||1
+Z||000006||sqoach||02-05-2001||12:50 AM||||i got one. but not using it. it made my car too cold and somehow caused overheating problems  <IMG SRC="http://www.fiero.nl/forum/confused.gif"> go figure.<P>you want it? it should still work. i only used it for a little while. unless i threw it away...<P>------------------<BR>sqoach@yahoo.com<P>  <IMG SRC="http://www.fiero.nl/uploads/mysig2.JPG"> ||||reg||1
+Z||000007||COUNTIBLIS||02-05-2001||01:04 AM||||Ill give you five for it.   <IMG SRC="http://www.fiero.nl/forum/smile.gif">  If serious send me some email on where to send you some money for it and shipping<BR><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/count3.gif"> ||||reg||1
+Z||000008||sqoach||02-05-2001||07:43 PM||||found it  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>only five bucks? what about shipping and that sh!t? might want to go with a new one anyway. it's a little bent and the o-ring is stretched from when i pulled it out. cheap piece of #$%@!!! i've taken this new one i have out a few times and it didn't bend.||||reg||1

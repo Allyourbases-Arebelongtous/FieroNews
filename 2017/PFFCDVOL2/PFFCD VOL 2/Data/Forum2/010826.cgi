@@ -1,0 +1,8 @@
+A||N||6||cpetersen||Help with starting||||5||
+Z||000000||cpetersen||05-29-2001||12:39 AM||||I have an 86 SE V6 and it has the hardest time starting.  i have to crank it about 3 times to get it started.  i have looked at the oil gauge and it almost seems that it has to pump up the oil before it will start.  any help with this would be great. thanks||||reg||5
+Z||000001||Indiana_resto_guy||05-29-2001||12:44 AM||||Must have a bad fuel pump relay. Can you hear the pump activate when you turn on the key (not trying to start, just on)?||||reg||1
+Z||000002||cpetersen||05-29-2001||12:51 AM||||Yes, i hear somting click, righ tbehind my head that i think is the fuel pump.||||reg||1
+Z||000003||Indiana_resto_guy||05-29-2001||08:50 AM||||The fuel pump hums and is located between the seats in the tank. The relay is behind your head, try relieving the fuel pressure off the fuel rail and see if it builds just by turning the key to on (no try start!)||||reg||1
+Z||000004||cpetersen||05-29-2001||10:28 AM||||Yes, the pressure will bulid by turning the key on, so I don't think that it is the relay.  could it be the Oil Pressure Sending switch?  Where would I find it and how could I tell if it is bad?<BR><p>[This message has been edited by cpetersen (edited 05-29-2001).]||||reg||1
+Z||000005||Indiana_resto_guy||05-29-2001||11:08 AM||||The oil pressure switch takes over if the relay goes kaput!<BR>When it starts, do you have high idle? Might be cold start injector problems.||||reg||1
+Z||000006||cpetersen||05-29-2001||07:55 PM||||No, once it starts its fine.  It will do this every time but after running it for a while it seems to start faster.  it can be any tempuare cold or hot and it takes a lot of craking.||||reg||1

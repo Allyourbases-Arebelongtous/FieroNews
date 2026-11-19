@@ -1,0 +1,11 @@
+A||||9||87 Steve GT||Very, Very Strange...||||5||
+Z||000000||87 Steve GT||02-15-2000||08:20 PM||||When I'm idiling at a turn signal, with my turn signal on... my Tach tick's up 100 rpm's when my blinker blink's.. why??? any comment's welcome....  Steve||||reg||5
+Z||000001||GT Bastard||02-15-2000||08:27 PM||||Mine does the same with the volt meter at idle!!!!!!!!!!!!!!!!!! WEIRD!!!!!!!!!!  Mine is an '87 Gt as well.||||reg||1
+Z||000002||Cooter||02-15-2000||08:33 PM||||Weak alternator will do this. Check it with another volt meter under load.||||reg||1
+Z||000003||87 Steve GT||02-15-2000||08:35 PM||||Thank's Ya'll .... I will check on the alt..<BR>                        Steve...||||reg||1
+Z||000004||WKDFIRO||02-15-2000||09:04 PM||||Same here. Both on the V6 and on the 4. Do it soon or not only will the tach "tick" but you will notice that your headlights will dim with the blinker in the advanced stages.||||reg||14
+Z||000005||87GTBro||02-16-2000||12:13 AM||||My alternator just died yesterday.  I was driving at night and I first noticed it when my dash lights started getting weaker and weaker.  I had the A/C running at the time too.  Then I turned the A/C off and the dash brightened up a bit.<P>I decided to shorten my Valentines date and head home to get my other car and by the time I got within a few blocks of my house, the engine was having trouble running.  It died.<P>But I replaced the alternator today.  Cost me $112, but now I have the right system voltage.  I had Pep Boys test the old alternator.  It was only dishing out 10 Volts.<P>Now, when my car is idling, I get 15 volts (as opposed to 8 with the old one)||||reg||8
+Z||000006||theogre||02-16-2000||09:19 AM||||ALternator problems, bad grounds, and bad battery connectors/wires can all cause floating voltages like described above. Make especially sure the thin wires from the battery are good. If either of those wires is damaged you Will have problems. ||||reg||1
+Z||000007||Monkeyman||02-16-2000||06:06 PM||||87GTBro--"I had the A/C running at the time."  Sorry, dude, but I feel no sympathy for you <IMG SRC="http://www.fiero.nl/forum/smile.gif">!||||reg||1
+Z||000008||87 Steve GT||02-16-2000||09:05 PM||||Thank's Guy's....  I will check..||||reg||1
+Z||000009||87 Steve GT||02-16-2000||09:10 PM||||By the way.... WELCOME BACK MONKEYMAN......||||reg||1

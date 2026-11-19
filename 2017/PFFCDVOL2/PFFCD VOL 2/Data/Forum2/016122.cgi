@@ -1,0 +1,2 @@
+A||||0||Tommy2M4||1985 Positive Battery Cable||||1||
+Z||000000||Tommy2M4||12-06-2001||08:02 PM||||I have been replacing the battery, tray and cables.  The new positive cable that I got from the fierostore is coded 4SX30.  It seems to be too short.  Is this the correct size, or am I routing it wrong?  I have tried several paths, but it comes up short.  Does anyone know the path for the pos. cable to the starter on a 85 4 cyl?||||reg||1

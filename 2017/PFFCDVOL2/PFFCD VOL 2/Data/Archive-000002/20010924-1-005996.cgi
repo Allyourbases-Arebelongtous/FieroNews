@@ -1,0 +1,3 @@
+A||N||1||kornholio||traffic ticket with an error in ONTARIO||||13||
+Z||000000||kornholio||03-01-2001||11:44 PM||||Hi,<BR>I just got a ticket today in Ontario for an illegal turn.  But the cop wrote the wrong year of my car on the ticket.  Anyone ever experience a mistake on their ticket?  I know some people who have been let off because of such small errors on their tickets.  I was just wondering if I have a chance to fight it.  Any advice would be appreciated.  Thanks.||||reg||13
+Z||000001||RNGCRSH||03-01-2001||11:50 PM||||did you make an illegal turn?, does he have your sinature? did he write down you tag number? If yes the you probably wont get off.<p>[This message has been edited by RNGCRSH (edited 03-01-2001).]||||reg||1

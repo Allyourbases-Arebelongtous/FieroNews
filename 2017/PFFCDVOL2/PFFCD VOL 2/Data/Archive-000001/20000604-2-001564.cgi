@@ -1,0 +1,4 @@
+A||N||2||BRIAN CORNELIUS||BUILDING SEQUENTIAL TURN SIGNALS||||5
+Z||000000||BRIAN CORNELIUS||11-30-1999||11:57 AM||||With all the interest in the Fiero sequential<BR>turn signal about a month ago I was wondering<BR>if anyone has actually built the PC board and<BR>installed the units? ||||reg||5
+Z||000001||lennyb4||11-30-1999||12:11 PM||||I just ordered a set for my 87 coupe. I helped a friend install them on his 97 camaro. There pretty simple to install, as for building them i know i saw a discussion on them here about a week and 1/2 ago. I know a guy who you can get them from (complete kits) for about $50. Thats alot cheaper than alot of other people.||||reg||6
+Z||000002||Phil||11-30-1999||01:17 PM||||I built a set but didn't use Greg's plans, I used the plans shown in the thread- works fine. $50 is not out of line for  assembled units.||||reg||1

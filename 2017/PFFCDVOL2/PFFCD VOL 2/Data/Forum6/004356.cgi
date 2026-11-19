@@ -1,0 +1,7 @@
+A||||5||Jake_Dragon||Oh!! Canada||||1||
+Z||000000||Jake_Dragon||11-18-2001||06:43 PM|||| <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>Link removed to keep Mach10 from getting fired. <BR> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>uploads/canada.jpg<BR>You can still get to it if you know how.<p>[This message has been edited by Jake_Dragon (edited 11-18-2001).]||||reg||1
+Z||000001||Mach10||11-18-2001||06:46 PM||||**** man! my supervisor was walking right by me when i opened that!!! almost crapped my pants in fear then almost wet them laughing!||||reg||10
+Z||000002||maryjane||11-18-2001||06:57 PM||||You'll have to change that to: Ohh  Ohh  Canada. Many more 'ohh's & you need to take a cold shower.||||reg||1
+Z||000003||Neal||11-18-2001||07:05 PM||||gotta love canadian girls  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000004||Jake_Dragon||11-18-2001||08:05 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Mach10:<BR><B>**** man! my supervisor was walking right by me when i opened that!!! almost crapped my pants in fear then almost wet them laughing!</B><HR></BLOCKQUOTE><P>Sorry should have warned you.||||reg||1
+Z||000005||avengador1||11-19-2001||06:26 PM||||I would have like to do that painting with my fingers on a cold day. <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1

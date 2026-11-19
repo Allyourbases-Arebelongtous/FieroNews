@@ -1,0 +1,9 @@
+A||||7||JohnnyK||How does a flare seal? (Pictures)||||1||
+Z||000000||JohnnyK||09-10-2000||03:23 PM||||Well, lets see if my crude picture comes up (I'm an artist, I know.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> In case it's not legible, the words are Fitting, Line, FLare, and Cylinder.... It's a beaut...  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR> <IMG SRC="http://members.home.net/gkrikorian/flare.jpg">  <BR>Hope that worked..||||reg||1
+Z||000001||JohnnyK||09-10-2000||03:25 PM||||Screw it, I'll just add it to the bottom of my website (please take the time to just check out this photo. This is confusing me  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> <A HREF="http://members.home.com/gkrikorian" TARGET=_blank>http://members.home.com/gkrikorian</A> ||||reg||1
+Z||000002||JohnnyK||09-10-2000||06:18 PM||||Nevermind, I looked inside the master and figured it out..  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||hugh||09-10-2000||06:49 PM||||Do you always talk to yourself?||||reg||1
+Z||000004||Patrick||09-10-2000||07:58 PM||||<BR>Working on Fieros does it to the best of us.||||reg||12
+Z||000005||JohnnyK||09-10-2000||08:33 PM||||Actually, I was talking to you guys..  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000006||fierospeeder||09-11-2000||12:32 AM||||its sort of like plumbing<P>when you start tightening the flare nut, it pulls closer to the other fitting making it seal.<P>once you play around with trans and brake  lines and make your own flares youll catch on.  ||||reg||1
+Z||000007||JohnnyK||09-11-2000||03:40 PM||||i do make my own flares, I just couldn't tell if it was like my drawing a, or drawing b. But then I looked inside the slave. Thats when I realized it was part a and part b..  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

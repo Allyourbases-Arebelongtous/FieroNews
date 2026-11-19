@@ -1,0 +1,2 @@
+A||||0||kiteman||Cause of Low Idle on Startup||||1||
+Z||000000||kiteman||08-14-2001||10:30 PM||||What can cause a low (500rpm) idle on startup?  I've changed all vacuum hoses, and checked around the throttle body and EGR for leaks. Also retensioned the alternator belt. It started when I changed the TPS after it went bad. After about a minute of operation everythings fine.  Car ('84) runs fine otherwise, except the normal idle is a little high at ~1100 rpm.||||reg||1

@@ -1,0 +1,12 @@
+A||N||10||Will||Ummm.... Wow.||||1||
+Z||000000||Will||03-06-2001||10:20 AM|||| <A HREF="http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=566827966" TARGET=_blank>http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=566827966</A> <P>Does anyone want a <I>REALLY</I> ambitious project for their Fiero?||||reg||1
+Z||000001||Monkeyman||03-06-2001||10:23 AM||||What the hell was that guy thinking?!?||||reg||1
+Z||000002||Oreif||03-06-2001||10:42 AM||||See thread in O/T section.||||reg||1
+Z||000003||StuGood||03-06-2001||11:20 AM||||I like the part where he says "I've had the car to 85 mph and in order to take it any faster, it needs high speed tires...."  <P>Hehehe ...for some reason, I'm visualizing in my head this gee-whiz, high-tech, gas-turbine-powered thing with a GPS unit - and old, bald, bias-ply retreads.  Kind of a funny picture  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">. ||||reg||10
+Z||000004||Carrolles||03-06-2001||01:56 PM||||Can we say<P>"Back to the Future IV"||||reg||1
+Z||000005||My7Fieros||03-06-2001||01:58 PM||||Ummmmmm...lol.....ok.<BR>Hey why were you looking up MR2s anyway? <BR>BTW, I can get my car up to and past 85 mph <B>W/O</B> 3 turbines and <B>WITH</B> my stock tires!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR> <IMG SRC="http://tgowens.com/My7Fieros_sig.gif"> ||||reg||5
+Z||000006||My7Fieros||03-06-2001||01:59 PM||||DOH!! Double post......<p>[This message has been edited by My7Fieros (edited 03-06-2001).]||||reg||5
+Z||000007||MikeSchaefer||03-06-2001||03:46 PM||||Where can I get a few turbines for my Fiero?  Seems like a simple enough project||||reg||12
+Z||000008||Will||03-06-2001||11:36 PM||||It's actually not that impressive. 190 lbs of force is about what someone makes pushing on the car, and is only good for 1/10th of a g or so.<BR>A 100 ftlb engine working through a 4.29 final drive would put down 400 ftlb at the wheels in 4th gear, which is good for 400 lbs of thrust on 24" diameter tires.<BR>||||reg||1
+Z||000009||Jake_Dragon||03-07-2001||07:38 AM||||Junk Yard Wars?<BR> <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif"> <P>------------------<BR> <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif">   <BR> <IMG SRC="http://home1.gte.net/rebel33/fiero.jpg"> ||||reg||13
+Z||000010||FieroLisa||03-07-2001||09:52 AM||||well I'm pretty impressed that the same e bay entry has managed to get 3 seperate posts of the forum in one day  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

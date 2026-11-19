@@ -1,0 +1,2 @@
+A||||0||California Kid||Paging "Koz", please answer.||||1||
+Z||000000||California Kid||10-14-2001||11:24 PM||||I would very much like to know some details about your car (very nice!). If you don't want to post in this string, please send me a private message with an e-mail address I can reach you on, I won't be a pest, just have two questions.<BR>Thanks,<BR>Tom<BR><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Signature_7.jpg"> ||||reg||1

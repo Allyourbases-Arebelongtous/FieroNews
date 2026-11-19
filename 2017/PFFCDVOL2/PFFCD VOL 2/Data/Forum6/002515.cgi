@@ -1,0 +1,9 @@
+A||||7||kinboyatuwo||sig frustration||||8||
+Z||000000||kinboyatuwo||07-03-2001||03:29 AM||||try 1<BR><P>------------------<BR> [img]URL=http://www.fiero.nl/fieroforum.pip<BR>[/IMG]http://www.fiero.nl/fieroforum.pip<BR>[/URL]   <BR>"Friends don't let friends drive four doors."<P>87 Duke, 235,000km||||reg||8
+Z||000001||kinboyatuwo||07-03-2001||03:30 AM||||2<P>------------------<BR> <IMG SRC="http://www.fiero.nl/fieroforum.pip<BR>">    <BR>"Friends don't let friends drive four doors."<P>87 Duke, 235,000km||||reg||8
+Z||000002||kinboyatuwo||07-03-2001||03:32 AM||||HELP ME<BR>want a pic in my sig!!!!!!!!!!!!!!!!<P>------------------<BR> <IMG SRC="http://www.fiero.nl/fieroforum.pip<BR>">    <BR>"Friends don't let friends drive four doors."<P>87 Duke, 235,000km||||reg||1
+Z||000003||mblackwell||07-03-2001||05:43 AM||||You're using the wrong address.<P>Open PIP and click on history.  Then click on the button below the pic you want.  Then cut and paste the address that appears in the box at the bottom of the PIP window.  It already has the IMG tags around it for you.||||reg||1
+Z||000004||kinboyatuwo||07-04-2001||12:58 AM||||If this works i love ya mrblackwell<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/b4lower.jpg"> <BR>"Friends don't let friends drive four doors."<P>87 Duke, 235,000km||||reg||1
+Z||000005||kinboyatuwo||07-04-2001||12:59 AM||||now have to work on size!!!!!||||reg||1
+Z||000006||kinboyatuwo||07-04-2001||01:03 AM||||lets see if it works<BR><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/b4lower50.jpg"> <BR>"Friends don't let friends drive four doors."<P>87 Duke, 235,000km||||reg||1
+Z||000007||kinboyatuwo||07-04-2001||01:04 AM||||im good!!!!!!!!!!!!!!!!!!!!!<BR>:-p<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/b4lower50.jpg"> <BR>"Friends don't let friends drive four doors."<P>87 Duke, 235,000km||||reg||1

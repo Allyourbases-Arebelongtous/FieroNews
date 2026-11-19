@@ -1,0 +1,11 @@
+A||N||9||Haze_Performance||Pick One Please||||14||
+Z||000000||Haze_Performance||08-21-2000||04:39 AM||||Im redoing my sites homepage.<P>Tell me what one you like better.<P><BR>#1. <A HREF="http://www.geocities.com/WS6_Fiero/index1.html" TARGET=_blank>http://www.geocities.com/WS6_Fiero/index1.html</A> <P>#2. <A HREF="http://www.geocities.com/WS6_Fiero/index.html" TARGET=_blank>http://www.geocities.com/WS6_Fiero/index.html</A> <P><BR>Thanks.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/mycarsig.jpg"> My 1985 2M4 Sport Coupe<P><BR>My Website's  <A HREF="http://www.drive.to/WS6_Fiero.com" TARGET=_blank>WS6 Fiero</A> &                  <A HREF="http://www.drive.to/HMP" TARGET=_blank>H.M.P. </A>||||reg||14
+Z||000001||fropuff||08-21-2000||09:05 AM||||I like the look of the first one; the background and the pic of your car.  I like that all the links and stuff are running vertically on the second.  Looks more neat and organized.  If these two could be combined, the page would look great!  I've seen a site that was almost identical to the second one.  Don't know where though.  ||||reg||1
+Z||000002||TheFiero64||08-21-2000||10:25 AM||||I like #1.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif"> ||||reg||1
+Z||000003||1FST2M6||08-21-2000||10:36 AM||||#1  very sharp looking intro page!||||reg||1
+Z||000004||Bill Osmer||08-21-2000||11:03 AM||||Haze -<P>Number one does it for me.<P>------------------<BR>Bill Osmer<BR> <IMG SRC="http://www.fiero.nl/uploads/forumcardsig2.jpg"> ||||reg||14
+Z||000005||Oreif||08-21-2000||01:23 PM||||I'll have to go with everyone else that #1 looks the best!<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/LOGO3.jpg"> ||||reg||1
+Z||000006||webbee||08-21-2000||10:44 PM||||#1 is nice BUT I like #2.||||reg||1
+Z||000007||2M4 Dale||08-22-2000||02:14 AM||||I like #1. Says a little more about you and your ride up-front.||||reg||14
+Z||000008||fldevel||08-22-2000||12:52 PM||||il have to go with #1 stands out more the the second ||||reg||14
+Z||000009||bHooper||08-22-2000||04:34 PM||||#2!... it fully loaded, and didnt bog down the work PC!  Although, it needs to be adjusted a little, from right to left (too big for the screen).||||reg||1

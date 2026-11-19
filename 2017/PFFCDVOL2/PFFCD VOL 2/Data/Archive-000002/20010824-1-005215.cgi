@@ -1,0 +1,5 @@
+A||N||3||Bigfieroman||I will finally upgrade my car's suspension....deal of the century!||||1||
+Z||000000||Bigfieroman||01-13-2001||10:33 AM||||Poly engine mounts, arms with the bushings already in, front lowering springs, ground control coilovers, bump steer kit from RCC, KYB shocks all around, and a front converted rear sway bar: all for $660! woo hoo! you have no idea how much shopping this one took.<P>------------------<BR>I once got a warning from a Police officer because he couldn't keep up with me around some twisties.  the prerequisite for a warning instead of a ticket was that I must let him drive it back and forth the way we had come.  Burned a quater tank of my gas!||||reg||1
+Z||000001||Mi Junk||01-13-2001||02:00 PM||||Nice find. I wish I had luck like that.||||reg||12
+Z||000002||DXR_DAD||01-13-2001||05:38 PM||||Nice price Bigfiero,  Now you know we need PICS!!!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||5
+Z||000003||stimpy||01-13-2001||11:28 PM||||Long time members know, there is only 1 deal of the century... Wal-Mart oil changes!||||reg||1

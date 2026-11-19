@@ -1,0 +1,4 @@
+A||||2||GT Bastard||hood primer question..... Anybody???||||1
+Z||000000||GT Bastard||09-14-1999||05:43 PM||||I've sanded down my hood and proceeded to put primer on it.  Everyone that I talked to said the primer in the aerosol can is the same as the professionals use(for the most part.)  I wasn't sure whether to use the sandable automotive primer or the flexible primer/filler stuff, but I ended up going with the flexible stuff, and it seem fine, but now this guy said you can just use the regular sandable primer on the hood because it's fiberglass.  I got the flexible crap because the hood flexes just a little bit.  What do you think, am I ok?||||reg||1
+Z||000001||theogre||09-14-1999||08:17 PM||||a properly applied primer coat of either type will work fine. Metal panels like hoods and deck lids flex just as much as fiberglass in many cases more.||||reg||1
+Z||000002||GT Bastard||09-15-1999||01:05 AM||||Thanks Ogre, you da man!||||reg||1

@@ -1,0 +1,3 @@
+A||N||1||peterh||airconditioning retrofit||||5
+Z||000000||peterh||10-01-1999||08:28 AM||||I purchased Fiero Stores airconditioning retrofit kit and new drier for my 86SE V6. I am unsure if I have to remove the old oil from the compressor and if nescessary how do I remove and add the oil. I have seen some flush kits on the internet and wonder are they worth the money.||||reg||5
+Z||000001||theogre||10-01-1999||08:11 PM||||you remove the compressor and pour out the old oil. let it drain awhile. pour in the new oil in the low side fitting. about 2-3 ounces. pour the rest in the acc/dryer.||||reg||1

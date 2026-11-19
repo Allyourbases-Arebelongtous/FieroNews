@@ -1,0 +1,8 @@
+A||||6||85gted||isuzu/muncie||||5||
+Z||000000||85gted||10-28-2001||11:24 PM||||Do any body now for shur ? did the isusu have a trans dip stick or just the munsie in 1988 ?||||reg||5
+Z||000001||mrfiero||10-28-2001||11:43 PM||||The only 5-sp. with a dipstick in 1988 was the Muncie/Getrag......none of the Isuzu 5-speeds ever had one.<P>I don't think any of the 4-speed Muncies had them either.  I know '87 Muncie/Getrag 5-speeds also have a dipstick (different design than the '88s), but I'm not sure about the '86 Muncie/Getrags......I'm assuming that they are identical to the '87s, but I'm not 100% sure.<P>At any rate.....if you have an '88 Fiero 5-sp. with a dipstick then it is a Muncie/Getrag and you have either a Formula or GT (if everything is stock).||||reg||1
+Z||000002||85gted||10-29-2001||12:09 AM||||The opt. code says issusu but may have been changed out , there is a tag on the trans that shows ZF5 and some other #'s any suggestions to be shur it is a munsie ?||||reg||4
+Z||000003||Indiana_resto_guy||10-29-2001||08:31 AM||||Just an answer to the original question.<BR>The Isuzu 5-speed NEVER had a dip stick! Only the Muncie/Getrag 86-88 in the Fiero has one.<BR>This is all you need to identify it.||||reg||1
+Z||000004||Butter||10-29-2001||11:30 AM||||Yall Folks,<BR>I have a 4 speed muncie in an 84 with a dip stick in it.  Can yall explain? I can.||||reg||12
+Z||000005||85gted||10-29-2001||09:10 PM||||are the axle half shafts the same for the muncie and the isuzu. just double checking..<BR>Thanks||||reg||5
+Z||000006||CW85T-Type||10-30-2001||02:21 AM||||My 5-spd izuzu has a dipstick...<P>tranny is like from a 86 I think (got it at a junk yard)<p>[This message has been edited by CW85T-Type (edited 10-30-2001).]||||reg||1

@@ -1,0 +1,8 @@
+A||||6||Neverfinished||happy b day !!||||1||
+Z||000000||Neverfinished||10-05-2001||03:24 PM||||its my birthday<BR>the big 1 -------- 8<P>ye ha<P>------------------<BR>To Be Old And Wise, You First Must Be Young And Stupid.-----------------<BR>It's not a waste of time... If you are wasted at the time||||reg||1
+Z||000001||frontal lobe||10-05-2001||04:06 PM||||Happy birthday.<P>Does this confer you with any new rights?||||reg||1
+Z||000002||My7Fieros||10-05-2001||04:09 PM||||Happy b'day dude!<P>------------------<BR><FONT SIZE="3"><FONT COLOR="blue"><B><I>My 7 Fieros</FONT></FONT></B></I>||||reg||1
+Z||000003||Jaygee79||10-05-2001||04:19 PM||||Hppy Birthday  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  So what can you do in Canada when you're 18?  I mean legally  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000004||Simple Fiero||10-05-2001||06:43 PM||||Hey Happy B day dude. You can go to the Alberta border and go drinking now. Or try to get into Rio( I did it at 17.) If you have an older sister or brother get one of the female friends to help you in, make sure she is all over you. And you will slip in unnoticed and have your cover in your pocket and not in your wallet. LOL, I am naughty.||||reg||1
+Z||000005||Cheever3000||10-06-2001||12:36 AM||||No wonder your Forum name is 'neverfinished'.  Heck, you're just getting started!<P>Happy birthday!<BR>||||reg||1
+Z||000006||Neverfinished||10-06-2001||04:42 AM||||well simple, I would hit up rio but its closed now... what a shame.<BR>I'm now 18 years old and I can't buy a gun, or somkes, or booze but hey ... at least i can buy smut .............. what a rip off<BR>British Columbia RULES<BR>except for the rules......||||reg||1

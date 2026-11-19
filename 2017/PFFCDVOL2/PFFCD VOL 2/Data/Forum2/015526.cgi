@@ -1,0 +1,5 @@
+A||||3||Zoom88||V6 Heads..............are they the same ?||||5||
+Z||000000||Zoom88||11-17-2001||08:12 PM||||<FONT COLOR="blue">I have an 85 GT parts car, my question is are the heads the same as the ones on my 88 Formula. I would like to pull the ones off the 85 and have them rebuilt ported polished etc; and anything else anyone might suggest. That way I will have very little down time on my car.</FONT>||||reg||5
+Z||000001||mrfiero||11-17-2001||08:19 PM||||They are the same, so go for it!||||reg||1
+Z||000002||Zoom88||11-17-2001||08:31 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by mrfiero:<BR><B>They are the same, so go for it!</B><HR></BLOCKQUOTE><BR> <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>They are the same, so go for it!<HR></BLOCKQUOTE> <P><FONT COLOR="blue">Finally something good going my way !!! Thanks for the response</FONT>||||reg||1
+Z||000003||mrfiero||11-17-2001||08:34 PM||||No problem.<BR>||||reg||1

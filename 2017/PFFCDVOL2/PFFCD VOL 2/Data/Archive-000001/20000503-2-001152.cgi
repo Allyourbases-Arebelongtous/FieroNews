@@ -1,0 +1,5 @@
+A||||3||Eddie||CLICK CLICK||||11
+Z||000000||Eddie||10-19-1999||05:45 PM||||Thats what I got today when I went to start (THE DAMN FIERO) thats what my wife calls it.  But it did start would that mean my starter is on its last leg ?? Whats next this damn car is lucky I love it !||||reg||11
+Z||000001||Cliff Pennock||10-19-1999||06:00 PM||||Could be that the battery wires needs cleaning. That happened to me a few weeks ago, the car wouldn't start. I was ready to buy a new battery but I chose to clean the connections first. No problems after that anymore!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||Eddie||10-19-1999||06:28 PM||||ILL CHECK THAT OUT THANKS<BR>			EDDIE||||reg||14
+Z||000003||BENGAL4||10-19-1999||11:36 PM||||Eddie,<P>Go and buy a Haynes manual and a set of Metwrench tools and start doing your own auto repairs. I know you told me you were all thumbs, but once you start, you will see how easy it is. And when you get stuck, you have all of this great advice from your Fiero brothers and sisters. Check out how much money you save and I bet your wife quits calling your car"THAT DAMN FIERO".||||reg||10

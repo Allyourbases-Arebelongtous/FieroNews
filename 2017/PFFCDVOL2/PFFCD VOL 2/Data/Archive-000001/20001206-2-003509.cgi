@@ -1,0 +1,3 @@
+A||||1||DJRice||question to anyone who has a subwoofer wiring harness loose...||||5||
+Z||000000||DJRice||05-02-2000||09:03 PM|||| <IMG SRC="http://www.fiero.nl/uploads/subwires.jpg"> <P>I have rescued a subwoofer system and the wiring harness has been a hacked up.  It is obvious where all of the wires hook up except for the two red wires that are twisted together.<P>Do those two wires belong twisted together?<P>If not, where do they go?<P>Thanks in advance for the help.||||reg||5
+Z||000001||TOM||05-02-2000||10:17 PM||||Yes but they both gpo to a plug. If you email me I will send you a picture of a hacked one and the proper fix for it.||||reg||1

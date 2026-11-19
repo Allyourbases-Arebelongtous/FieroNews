@@ -1,0 +1,3 @@
+A||||1||mikabika||One Cool Rebody Kit!||||14||
+Z||000000||mikabika||08-31-2001||09:09 AM||||Anyone know what happened to the company that produced the Aldino rebody kit for the Fiero? That was one cool looking ride!!!||||reg||14
+Z||000001||MinnGreenGT||08-31-2001||09:11 AM||||This is the address I had, but it doesn't appear to be working....?<BR><A HREF="http://www.sit.wisc.edu/~ahbucha/" TARGET=_blank>http://www.sit.wisc.edu/~ahbucha/</A><P>------------------<BR>      <IMG SRC="http://www.fiero.nl/uploads/grngtsig3.jpg"> <BR>Medium Metallic Green 87 GT<BR>3.1L High Output<BR>4 Spd OD Tranny<BR>Open (read: Loud) Exhaust<BR>and More!<BR>-Rob Bartlett||||reg||1

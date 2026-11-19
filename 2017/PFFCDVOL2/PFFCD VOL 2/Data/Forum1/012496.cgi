@@ -1,0 +1,4 @@
+A||N||2||87ECO5||Cliff - need your address so I can ship you a 2002 calendar||||14||
+Z||000000||87ECO5||12-07-2001||07:40 AM||||Email me, OK?   <A HREF="mailto:Fiero87EC5@aol.com">Fiero87EC5@aol.com</A> ||||reg||14
+Z||000001||Haze_Performance||12-07-2001||07:59 AM||||Sorry cliff...  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR> <P><BR>------------------<BR>      <IMG SRC="http://www.fiero.nl/uploads/goodlife.gif">        <BR><FONT SIZE="1"><FONT COLOR="red">1984 Indy For Sale ~ <A HREF="http://www.ClassicFiero.com" TARGET=_blank>Click Here</A> </FONT></FONT><BR><p>[This message has been edited by Haze_Performance (edited 12-07-2001).]||||reg||14
+Z||000002||Cliff Pennock||12-07-2001||12:10 PM||||That's my old office address, <B>don't use that</B> (I know, I still have to change my website).<P>I'll email you with my private mail address.<P>Oh and of course, <B>thanks</B>!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

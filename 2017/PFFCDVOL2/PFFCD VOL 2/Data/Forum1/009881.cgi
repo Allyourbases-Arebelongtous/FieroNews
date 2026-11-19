@@ -1,0 +1,5 @@
+A||N||3||Slapnutz2000||Red Fiero in Pittsburgh?||||1||
+Z||000000||Slapnutz2000||08-28-2001||06:17 PM||||Who was driving the red SE with a spolier near Shadyside Hospital about 3:00-3:30pm this afternoon?  It had things dangling from the rearviewmirror.||||reg||1
+Z||000001||Leadfoot||08-28-2001||06:27 PM||||Wasn't me.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000002||Formula||08-28-2001||09:34 PM||||are you sure it wasnt a formula?<P>I wasnt in pittsburgh since a week ago anyways.... wasnt me<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sigformulagt.jpg"> ||||reg||1
+Z||000003||kslish||08-28-2001||11:02 PM||||It wasn't me.....<P>Unless someone is driving my car around without me knowing it!   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> <BR><P>------------------<BR>Ken S.<BR>'87GT and '86SC<BR>See them at <A HREF="http://homepage.mac.com/kjslish/Fiero.html" TARGET=_blank>http://homepage.mac.com/kjslish/Fiero.html</A><BR>Western PA Fiero Club - <A HREF="http://www.westpennfiero.org" TARGET=_blank>www.westpennfiero.org</A>||||reg||1

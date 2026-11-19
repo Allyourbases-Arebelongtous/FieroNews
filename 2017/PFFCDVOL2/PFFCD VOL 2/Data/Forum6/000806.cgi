@@ -1,0 +1,5 @@
+A||||3||Cheever2||For ROSST regarding DishNetwork ||||1||
+Z||000000||Cheever2||10-17-2000||01:58 PM||||Hey, ROSST...<BR>Check your email.  I'm signing up for DishNetwork because of your answers to my Forum questions.  I'm going to try to get you the $50 for referring me.<BR>Least I can do for a fellow Fiero fanatic.<BR>||||reg||1
+Z||000001||Cheever2||10-18-2000||01:39 AM||||Putting this back at the top because it's been 12 hours and I don't think he has seen it yet.  Hasn't responded to my email either.<BR>||||reg||1
+Z||000002||RossT||10-18-2000||01:42 AM||||Charles, I just sent you a couple of e-mails.<P>Glad your up late...<BR>I work all night and sleep all day...<BR>Ross<p>[This message has been edited by RossT (edited 10-18-2000).]||||reg||1
+Z||000003||Cheever2||10-18-2000||02:19 AM||||Got the emails.  Forum folks can rest easy knowing we hooked up and my man ROSST will be getting 50 bucks for the help he gave here.  See what the PFF can do for ya?<P>I LOVE this place!!!    <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P> ||||reg||1

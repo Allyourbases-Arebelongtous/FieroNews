@@ -1,0 +1,5 @@
+A||N||3||Fiero5||Testing sig||||7||
+Z||000000||Fiero5||09-05-2001||05:14 PM||||Fiero1 at Spindles<P>------------------<BR>                                        <IMG SRC="http://www.fiero.nl/uploads/Fiero1sig.jpg">             <BR>http://www.kelleyfamilyfieros.homestead.com/index.html||||reg||7
+Z||000001||Fiero5||09-06-2001||01:08 PM||||Test #2<BR><P>------------------<BR>                               <IMG SRC="http://www.fiero.nl/uploads/pegasuswarriersSig.jpg">                            <BR>http://www.kelleyfamilyfieros.homestead.com/index.html||||reg||12
+Z||000002||Fiero5||09-06-2001||01:13 PM||||Let's try this for comparison..<BR> <IMG SRC="http://www.fiero.nl/uploads/pegasuswarriersFiero1.jpg"> <P>------------------<BR>                               <IMG SRC="http://www.fiero.nl/uploads/pegasuswarriersSig.jpg">                            <BR>http://www.kelleyfamilyfieros.homestead.com/index.html||||reg||12
+Z||000003||JSocha||09-06-2001||02:50 PM||||Let the sig wars begin!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> ||||reg||10

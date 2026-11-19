@@ -1,0 +1,2 @@
+A||||0||RossT||FOCOA back issues||||1||
+Z||000000||RossT||10-20-2000||12:16 AM||||Well I finally got around to joining FOCOA. I ordered all the back issues for $75. They go all the way back to 1987!! Its interesting to read the excitement about 88 changes then the disappointment in cancellation of the fiero.  Best of all the early issues have some of the original Pontiac Fiero advertisements!!  Also its great to read about many of you guys.  They also talk about PFF in the new issue, and what a great site it is!!  ||||reg||1

@@ -1,0 +1,3 @@
+A||||1||fiero56||parts compatability||||5||
+Z||000000||fiero56||09-14-2000||09:25 AM||||Will be ordering 3.4L from a '95 Camaro soon. This will be a complete engine, minus acessories like: steering pump, a/c compressor, etc.<BR>Is there any difference in the Camaro heads from the Fiero heads? I know either will bolt on, but is there any advantage to the Camaro heads?||||reg||5
+Z||000001||mrfixit58||09-14-2000||01:33 PM||||From my Chevy parts man... the 2.8 Fiero and the Camaro 3.4 heads are the same except for the valve springs. The 3.4 uses stronger springs. <P>Roy  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

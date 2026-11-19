@@ -1,0 +1,5 @@
+A||||3||ROB MAC||Flickering lights/ electrical||||8||
+Z||000000||ROB MAC||05-25-2001||10:21 PM||||Just got new clutch in my '84 and tonight I noticed the headlights,dashlights,radio lights etc. are pulsing or flickering. Before this I noticed the alt. guage reading higher than norm. ( above 15 volts). Is it in the regulator , the alternator mechanism or external? Car seems to function O.K. otherwise. Car was out of commission for close to 2 weeks while clutch work was done.||||reg||8
+Z||000001||87GTZ34||05-26-2001||03:05 PM||||The regulator is integrated with the alternator.  If your mechanically inclined, you can replace just that and save $$.  If not, get a remanufactured AC-Delco(I'm biased) alternator. I would have the alt checked 1st as you could have battery problems (shorted internally). GL||||reg||3
+Z||000002||Indiana_resto_guy||05-26-2001||03:34 PM||||Check all the grounding points that were disconnected for the new clutch. If it wasn't doing this before, chances are there may not be one hooked up.||||reg||1
+Z||000003||ROB MAC||05-29-2001||02:14 PM||||It was the voltage regulator. Rebuild kit solved the problem.||||reg||6

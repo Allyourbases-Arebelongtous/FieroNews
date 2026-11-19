@@ -1,0 +1,6 @@
+A||||4||slick||rear console repair||||1
+Z||000000||slick||10-16-1999||01:19 PM||||the rear console on my '88 coupe has started splitting- right about where my right elbow rests. it's now about 2 inches wide. the pad is in excellent condition otherwise. does anybody know how to repair this or if a new ( gray color ) replacement is available? ||||reg||1
+Z||000001||ggarsk||10-16-1999||01:37 PM||||Just check your local boneyards. You can probally pick up a center console in good shape. It beats trying to patch your old one.<p>[This message has been edited by ggarsk (edited 10-16-1999).]||||reg||1
+Z||000002||TOM||10-16-1999||10:06 PM||||I see the alot in my local boneyards if you cant find one.||||reg||1
+Z||000003||Lynx||10-18-1999||03:27 AM||||Like they sadi go to the wrecking yard. There is a couple of them in a wrecking yard by me. If you cant find one at your local one, I suppose i could pick up one for you. You would have to pay for it and shipping, but nothing else.||||reg||12
+Z||000004||TooLowFiero||10-18-1999||10:47 AM||||you can also purchase new ones at <A HREF="http://www.fierostore.com/product/products.html" TARGET=_blank>http://www.fierostore.com/product/products.html</A> <BR> they offer a wide range of fiero parts<BR>||||reg||1

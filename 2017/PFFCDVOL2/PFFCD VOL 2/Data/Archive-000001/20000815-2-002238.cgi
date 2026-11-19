@@ -1,0 +1,8 @@
+A||||6||WisconsinGT||Wackey Tach||||1||
+Z||000000||WisconsinGT||02-04-2000||01:23 PM||||I am experiencing a jumpy tach while the engine is cold. But once it is at normal operating temp., all is well. Is this a sign that I may need a new tach filter in the near future? Thanks||||reg||1
+Z||000001||Carrolles||02-04-2000||01:27 PM||||Is just the Tach jumping or are the RPMs also jumping?||||reg||1
+Z||000002||WKDFIRO||02-04-2000||02:00 PM||||My wife's 87 4 cyl is doing that now too. Just the needle is jumping the engine is fine. Where would the tach filter be on an 87 with DIS packs? <p>[This message has been edited by WKDFIRO (edited 02-04-2000).]||||reg||5
+Z||000003||WisconsinGT||02-04-2000||03:14 PM||||It is the needle only that is jumping.||||reg||1
+Z||000004||wkayl||02-05-2000||01:42 AM||||My son's 86 GT tach reads too high.  What is the story about a tach filter?||||reg||1
+Z||000005||JetroGT||02-05-2000||01:49 AM||||After reassembling the top half of my GT's engine the tach jumped around too. I had forgot to bolt it down tight. I don't know why that worked, but it did.||||reg||1
+Z||000006||theogre||02-05-2000||01:21 PM||||That I can tell. DIS motors do not use the "Tach Filter" device. This is built into the coil controller. check all the conections on the coil controller and everything else in the engine compartment. Make sure you check all grounds good. there are about 12 of them connected to the block, head, and bell housing bolts on the DIS 4 cyls.<P>on the motors with the filter, check the filter wires and the anchor bolt. all must be clean and tight.<p>[This message has been edited by theogre (edited 02-05-2000).]||||reg||1

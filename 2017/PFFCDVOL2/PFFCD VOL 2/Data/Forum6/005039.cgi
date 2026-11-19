@@ -1,0 +1,17 @@
+A||N||15||fierobaby||wanna hear something cool?||||1||
+Z||000000||fierobaby||12-26-2001||09:51 PM||||ok not cool...well maybe thats for you to judge <BR> <A HREF="http://angelfire.com/fl3/PopstarCorinne/likedbest.wav" TARGET=_blank>http://angelfire.com/fl3/PopstarCorinne/likedbest.wav</A> <P>thats me singin cyndi thompsons I always liked that best <P>let me knwo what ya think... I'm bored can you tell?<P>------------------<BR> <FONT COLOR="LETTER">   <IMG SRC="http://www.stopstart.fsnet.co.uk/smilie/fish.gif">   AIM: Fierobaby87   <IMG SRC="http://www.stopstart.fsnet.co.uk/smilie/fish.gif">  <BR>http://angelfire.com/sports/sfiero </FONT><BR>               <IMG SRC="http://www.fiero.nl/uploads/fierobaby.gif"> ||||reg||1
+Z||000001||Jaygee79||12-26-2001||10:05 PM||||it wont play..says something like angelfire doesn't allow direct links from outside sites.||||reg||1
+Z||000002||fierobaby||12-26-2001||10:06 PM||||grrr stupid SITE I HATE IT :-(<BR>here I'll put it on its own page.... <BR> <A HREF="http://angelfire.com/fl3/PopstarCorinne/like.html" TARGET=_blank>http://angelfire.com/fl3/PopstarCorinne/like.html</A> ||||reg||1
+Z||000003||fierobaby||12-26-2001||11:25 PM||||BUMP BEEP BOOP BOP||||reg||1
+Z||000004||JSocha||12-26-2001||11:42 PM||||OH NO!  It finally happened! I've finally gone totally deaf!  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>I can't hear anything...<P> <IMG SRC="http://www.fiero.nl/forum/confused.gif"><P>Oh.... <IMG SRC="http://www.fiero.nl/forum/redface.gif"> ....Never mind. I forgot.  I don't have speakers hooked up to my computer.<P>Whew!  You don't know what a relief that is, especially at my age!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>     <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> <BR><B><I>"The PRE10DR"</I></B>||||reg||12
+Z||000005||Smoooooth GT||12-26-2001||11:45 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by fierobaby:<BR><B>BUMP BEEP BOOP BOP</B><HR></BLOCKQUOTE><P>I like...  Sound's good..  :P||||reg||1
+Z||000006||fierobaby||12-26-2001||11:47 PM||||did you listen to the sound or the beep boop part :-)||||reg||1
+Z||000007||Smoooooth GT||12-27-2001||12:31 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by fierobaby:<BR><B>did you listen to the sound or the beep boop part :-)</B><HR></BLOCKQUOTE><P>I listened to umm.. you singing.. That was you right??||||reg||1
+Z||000008||fierobaby||12-27-2001||12:35 AM||||yeah its me<BR>||||reg||1
+Z||000009||fierospeeder||12-27-2001||01:12 AM||||i thought you were gonna say<BR>You had a secret crush on me||||reg||1
+Z||000010||FieroRacer||12-27-2001||01:40 AM||||Nice, a beautiful voice.||||reg||1
+Z||000011||fierobaby||12-27-2001||09:41 AM||||thank you fieroracer<P>I have a secret srush on everyone on this forum don't cha know||||reg||1
+Z||000012||Mach10||12-27-2001||12:19 PM||||*Blushes, giggles, and waves shyly*  <IMG SRC="http://www.fiero.nl/forum/redface.gif">  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Sounds good!||||reg||11
+Z||000013||fierobaby||12-27-2001||12:43 PM||||lol thanks mach||||reg||1
+Z||000014||84fierotrevor||12-27-2001||07:59 PM||||You almost sound hot.||||reg||1
+Z||000015||rogergarrison||12-27-2001||11:22 PM||||not too bad, now do <BR>'Oops, I did it again'  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||14

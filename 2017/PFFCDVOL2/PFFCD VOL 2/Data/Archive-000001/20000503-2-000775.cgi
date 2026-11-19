@@ -1,0 +1,3 @@
+A||||1||K9||Where dose this pipe go?
+Z||000000||K9||09-03-99||05:58 AM||||while changing the spark plug wires in my 85 GT, I came accross a pipe about 1" dimater. The pipe is located by the inner valve cover (towards the front of the car) and is not hooked to anything. The pipe has an open end and looks like it should be pluged into something. I can't tell where it is to plug into.  The pipe leads in towards the air cleaner. Can anyone help? Note: It is not the metalpipe that goes from the valve cover to the intake.
+Z||000001||TOM||09-03-99||09:20 AM||||Its what left after one of the recalls was done at the dealer. Now the pipe does nothing and you can remove it if you like

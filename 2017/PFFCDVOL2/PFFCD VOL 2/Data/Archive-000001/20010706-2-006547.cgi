@@ -1,0 +1,4 @@
+A||||2||My7Fieros||???Huh???||||11||
+Z||000000||My7Fieros||11-01-2000||10:40 PM||||Well the Formula is running like a champ. But lately its been having a hard time starting. It cranks for about 5 seconds (which really is a long time to just crank) before it "catches" on...then it kinda sputters at a low rpm for a few seconds, the itll "jump" to its regular rpms...hot or cold start dosnt matter.<BR>Plugs, wires, cap, rotor, pick up coil, ignition control, all brand new...whats the deal w/ the long starts? TIA, Brian||||reg||11
+Z||000001||Cooter||11-01-2000||10:53 PM||||Does your fuel pump run for a couple of seconds when you first turn the switch on? If not, one of the fuel pump relays might be bad and not starting the pump until after the engine builds oil pressure.||||reg||1
+Z||000002||StuGood||11-02-2000||12:13 AM||||Think I read somewhere that the ECM can set a code for failed fuel pump relay.  Might want to try reading out any trouble codes.<P>||||reg||5

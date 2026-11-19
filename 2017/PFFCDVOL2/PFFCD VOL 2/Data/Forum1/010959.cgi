@@ -1,0 +1,4 @@
+A||||2||California Kid||?? Alloy Wheels, ? Brand Name, ? Who carries/or can Order ||||1||
+Z||000000||California Kid||10-13-2001||09:51 AM||||Pictures of Kazumasa Okayama's Car were posted recently, does anyone know who these wheels can be purchased from, price, etc. Can any NIFE Members track this person down?<BR>Replies would be appreciated.<BR>   <IMG SRC="http://www.fiero.nl/uploads/kozwheels_1.jpg">   <P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/Signature_7.jpg">   <P>[This message has been edited by California Kid (edited 10-13-2001).]<p>[This message has been edited by California Kid (edited 10-13-2001).]||||reg||1
+Z||000001||California Kid||10-13-2001||09:07 PM||||bump||||reg||1
+Z||000002||FieroRyan||10-13-2001||09:28 PM||||I'm interested in those as well...||||reg||1

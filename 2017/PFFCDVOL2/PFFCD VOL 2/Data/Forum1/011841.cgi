@@ -1,0 +1,2 @@
+A||||0||fieroX||quick update on project fieroX||||1||
+Z||000000||fieroX||11-14-2001||04:37 AM||||Just to keep everyone updated to my project, since I havent had the time to update my site from coming soon yet, Tomorrow im assembling the bottom end of my engine.  Ill be sure and take alot of pictures along the way.  Hopefully within a week Ill have the homepage assembled and up and running.<P>------------------<BR>  <IMG SRC="http://www.fierox.com/logo2small.gif"> ||||reg||1

@@ -1,0 +1,3 @@
+A||N||1||bcibob670||86 2.5 se  my tack wont go above 2500 ||||5||
+Z||000000||bcibob670||07-19-2000||01:19 AM||||the action of the tach is not consistent with the revving of the motor  <P>any ideas ???<P>also the tach needal jumps when i use my directional . ||||reg||5
+Z||000001||StuGood||07-19-2000||02:52 AM||||Well, here are a couple of brilliant suggestions for what they're worth (and it ain't much):<P>First: Is it possible your tach is from a 6-cylinder car ? <BR>Next: Check connections at the coil terminals and tach filter (should be clean and tight); then check the instrument panel connectors.  ||||reg||3

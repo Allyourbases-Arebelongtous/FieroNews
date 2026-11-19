@@ -1,0 +1,7 @@
+A||||5||ChadMan||A chance to race your Fiero?
+Z||000000||ChadMan||08-31-99||09:31 AM||||Please give me your opinion on this...would you pay $300 to take a 3-day high performance driving class in your Fiero?<p>Nelson Ledges Road Course near Cleveland offers a 3-day "Fun Dayz" program in which you spend a day in class, then two days lapping the course at speed.  Cost is $100 per day, per person.  I'm considering trying to round up about 20 Fiero nuts to take the course together sometime next spring.<p>I'd like to test reactions to this idea before I suggest it to our club and other Midwestern Fiero clubs. What do you think?  A good deal, or a frivolous waste of money?
+Z||000001||RICK||08-31-99||09:38 AM||||That sounds like fun, it's a little hard on the wallet but hey, why not.  Do they have a web site or do you have some more information that you can e-mail?
+Z||000002||ChadMan||08-31-99||10:53 AM||||Check out this URL:  www.fastone.com/Nelson99/dayz9.html
+Z||000003||Greg Piet||08-31-99||12:36 PM||||I would love to.  Unfortunately it seems unlikely I will be able to trek out to Cleveland (time constraints).  It isnt ruled out by me, but the i'd put my name on the maybe list
+Z||000004||lowCG||08-31-99||12:40 PM||||Should probably start out with a one day deal;racing's brutal,and you'd probably be tired after the first day.Have been looking into something like that around the Pacific Northwest,my sister got a Miata,and wants to race me when I get my suspension in place.
+Z||000005||Dave85||08-31-99||01:06 PM||||Count me in!!!!

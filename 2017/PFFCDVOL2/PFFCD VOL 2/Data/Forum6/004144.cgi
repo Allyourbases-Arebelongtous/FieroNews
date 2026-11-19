@@ -1,0 +1,2 @@
+A||||0||filthyscarecrow||new engine for swaps||||1||
+Z||000000||filthyscarecrow||11-07-2001||01:26 AM||||just got the latest SAE magazine. inside is the GM XV12. it's a V-12 that fits in the space of their new 8.1 liter V-8. 750hp. now if i could only get my hands on one, i wuold shoehorn that thing in the back in a second. i'll post more when i have time to look it up, but i think it would fit. so write to em and get em to make it a production engine. a v-12 fiero. [insert evil laugh here]||||reg||1

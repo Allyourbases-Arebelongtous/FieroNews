@@ -1,0 +1,3 @@
+A||||1||yo_sweet||Last call for the Panasonic 3DO!||||4||
+Z||000000||yo_sweet||11-04-2001||10:52 AM||||ive got one more ive sold 2 this one is a front loading version fz-1 looks kinda and has the feel of a dvd player $50 cnd all hood ups and 2 games<P>||||reg||4
+Z||000001||FieroMontreal||11-04-2001||01:49 PM||||Oh man, sorry.. I'd buy it but I don't have the money now.. I should get a job eh.. damn.. oh well.. unless you'd like to trade it for something else... heh<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sigfieromontreal_1.gif"> <BR>1986 Fiero GT, STOCK Wingless, <BR>-Alex President of FieroMontreal... <A HREF="http://www.fieromontreal.com" TARGET=_blank>www.fieromontreal.com</A> ||||reg||1

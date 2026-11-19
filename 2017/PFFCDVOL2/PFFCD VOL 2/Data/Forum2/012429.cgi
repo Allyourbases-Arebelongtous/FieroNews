@@ -1,0 +1,4 @@
+A||N||2||DreXteR||Doors Info...  Needed and Gived....||||1||
+Z||000000||DreXteR||07-31-2001||01:02 PM||||2 Tings<P>1. I change the doors pins and bushings, but how da F**k I place back the spring?????!!!<P>2. Each door weigths 80 FULL POUNDS!!!! Thats a lot!!<P>Thanx<P><BR>DreX<P>------------------<BR>  <IMG SRC="http://users.centennialpr.net/drexter/Fiero/Fiero1.jpg">  <BR>86 GT Turbo Intercooler Project - Total Restoration.||||reg||1
+Z||000001||mbramble||07-31-2001||01:08 PM||||See if there is anything in Ogre's Cave about how to do it (see link at top of page).  There is a special tool you can buy.  How I do it is described in this link: <A HREF="http://www.fiero.nl/forum/Forum2/HTML/010245.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/010245.html</A> <BR>||||reg||1
+Z||000002||theogre||07-31-2001||08:50 PM||||Check local parts stores. You may be able to sign out the tool with a deposit. One source of buying the tool is in my cave.||||reg||1

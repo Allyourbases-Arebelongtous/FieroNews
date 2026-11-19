@@ -1,0 +1,5 @@
+A||||3||Terrybogin||Trunk idea||||1||
+Z||000000||Terrybogin||06-15-2000||11:26 PM||||After trying for a while to clean spilled oil from the carpet in the back of my GT, I just pulled the carpet and tossed it in the dumpster. A good cleaning of the trunk pan and a coat of that "spray can bed-liner" for trucks and it looks great! Now, if anything gets spilled, it will just be a little mess instead of another ruined carpet.||||reg||1
+Z||000001||DXR_DAD||06-16-2000||12:39 AM||||Terry the carpet in my 87 coupe was bad!<BR>I took it out, soaked it good with spray<BR>& wash and then took it to the u-spray-it<BR>car wash hung it up and blasted the heck<BR>out of it. Starting from the top and washing it down, as I was doing this I could see all the dirt and stuff running down. I did this for about 15min and it came clean as new<P>I think some of the other members have also<BR>done it this way.<P><BR>DXR_DAD||||reg||14
+Z||000002||tgowens||06-16-2000||12:44 AM||||was that your carbon fiber carpet??||||reg||1
+Z||000003||Fret Naught||06-16-2000||01:53 AM||||DXR_DAD<BR>good Idea, do you think that would work well for the interior carpet?||||reg||5

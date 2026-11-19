@@ -1,0 +1,3 @@
+A||||1||Jim_Sprang||Brake Pads?||||1||
+Z||000000||Jim_Sprang||11-05-2001||04:44 PM||||Anyone have a recommendation for pads for 88 brakes.  I'm not too worried about long life, but I'm looking for something that stops better than straight Carbon Metallics? <P>------------------<BR>86 SE, 88 suspension<BR>6.6 Liter SBC, Subframe Connectors, Poly Bushings,17X8 MHTs  with 235 45 17 front, 245 45 rears, Lots more!||||reg||1
+Z||000001||Cooter||11-05-2001||07:14 PM||||I have a set of "copper-top" pads that a friend bought for me to try. I have pushed them pretty hard and so far, they are still grabbing pretty hard.||||reg||1

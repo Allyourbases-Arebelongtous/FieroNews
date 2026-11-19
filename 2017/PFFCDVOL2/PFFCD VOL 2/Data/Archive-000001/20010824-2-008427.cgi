@@ -1,0 +1,4 @@
+A||||2||DrRodey||STS... Anyone have them? what do you think?||||1||
+Z||000000||DrRodey||02-12-2001||02:25 PM||||Since i have to rewire 3/4 of my 85 EC anyway i was thinking of getting some of these, thought they looked preaty cool.  Anyone here have them, know how they work and all that fun Jazz.  If so are you pleased with them ect ect ect.<P>TIA<P>Here's the website if you don't know what i'm talking about<BR><A HREF="http://members.nccw.net/webe/sts/stsad.htm" TARGET=_blank>Sequential Turn Signals</A><BR><p>[This message has been edited by DrRodey (edited 02-12-2001).]||||reg||1
+Z||000001||rogergarrison||02-12-2001||05:22 PM||||those r really cool Rodney, cheap too. Id do it but I have only one lite per side anyway. Seems like a LOT of Fieros there.||||reg||1
+Z||000002||Phil||02-12-2001||05:53 PM||||I have some and they work just fine, no problems - I'm using them with my Pisa euro notchback tail light setup.||||reg||1

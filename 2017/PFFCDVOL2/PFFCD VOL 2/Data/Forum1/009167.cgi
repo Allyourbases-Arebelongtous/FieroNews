@@ -1,0 +1,5 @@
+A||||3||Galen||mmm.. the fun and joys of driving||||1||
+Z||000000||Galen||07-31-2001||09:02 PM||||Took my 88 out for a spin today,nearly forgotten how much fun my wiggly arse 88 can be at 70-75-80mph.. didn't see not one box of kittens or lil old lady.. depressed me a lil.. but the tunes were jammin.. I was zooming along through the curvy roads, enjoying myself.. bridge came up.. *bump* damned wicked bump.. knocked my gas filler door open hehe.. twas fun though<P>------------------<BR><FONT COLOR="purple">Ray</FONT> <FONT COLOR="gray">-</FONT> <FONT COLOR="purple">"With one swift kick the door was off its hinges, and there he saw a god, but it was only a mirror"</FONT>||||reg||1
+Z||000001||Cheever2||07-31-2001||09:15 PM||||"You sure said somethin' there, pardner" - John Goodman, <I>Raising Arizona</I><BR>||||reg||1
+Z||000002||California Kid||07-31-2001||10:14 PM||||Just got in myself, couldn't resist taking the car out for a run tonight, finally cooled down a little.<P>Scratch one Viper<BR>Scratch one Mustang Cobra<P>Hey...........they pushed me into it!!!!||||reg||6
+Z||000003||rogergarrison||07-31-2001||10:17 PM||||Im with ya 100% galen.||||reg||1

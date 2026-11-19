@@ -1,0 +1,4 @@
+A||N||2||CAB||3.4 FWD engine replace 2.8 V6 ?||||5||
+Z||000000||CAB||11-25-2001||10:41 PM||||Can we install a 3.4 FWD engine out of a Grand Am in place of the 2.8.  My car is an Auto. Would I have to replace the Tran.?  The engine I am looking at has the Auto. included with it. ||||reg||5
+Z||000001||ray b||11-26-2001||12:17 AM||||LOTTA WIRES PLUS COMPUTER TO SWAP<BR>no place to fit dist. car 3.4 use cranktriger and needs new computer from GA<BR>motor fits fine to trans<BR>GA auto will work but may need  new mounts made or moved and shifter changes.<P>------------------<BR>Question wonder and be wierd||||reg||11
+Z||000002||DKOV||11-26-2001||02:00 AM||||check this thread:<BR> <A HREF="http://www.fiero.nl/forum/Forum2/HTML/015775.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/015775.html</A> <P>DKOV -||||reg||1

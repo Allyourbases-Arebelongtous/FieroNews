@@ -1,0 +1,2 @@
+A||||0||Raydar||Targa Roof Kit no longer available from PISA||||1||
+Z||000000||Raydar||01-06-2000||11:29 PM||||Several folks (Chad and Monkeyman?) were discussing Targa conversions a while back. Sent e-mail to PISA, yesterday, regarding the Targa roof conversion. Dan (PISA) sent me a note saying that the company that manufactured these had gone out of business about two years ago. I saw a Targa roof assembly in Ed Parks' showroom, last spring. He may still have it.||||reg||1

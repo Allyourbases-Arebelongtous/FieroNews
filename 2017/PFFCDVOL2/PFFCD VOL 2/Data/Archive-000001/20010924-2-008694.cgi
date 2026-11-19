@@ -1,0 +1,4 @@
+A||||2||loren||diagnostic connector v6||||1||
+Z||000000||loren||02-28-2001||05:57 PM||||when grounding the diagnostic connector in preparation for timing should the engine be running or shut off.<BR>also what would the symptoms be if the distributor drive gear was one tooth off.<BR>i just replaced the pickup coil and am having a real bad time getting this hunk of plunder running to suit me <P>thanks  loren||||reg||1
+Z||000001||fierocd||02-28-2001||09:54 PM||||I always grounded it out then started the car.  That seems to work fine.  I'm not sure if there is any difference though.||||reg||1
+Z||000002||strdream||02-28-2001||09:56 PM||||Always make or brake service connections with the key off.  <BR>As for the tooth off, if you can turn the dist. enough to get it timed right the engine shouldn't know the difference<BR>Ross ||||reg||1

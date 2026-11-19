@@ -1,0 +1,4 @@
+A||||2||Ralfy9862||Fog light air dam ||||1||
+Z||000000||Ralfy9862||01-11-2001||08:18 PM||||Check out these pics and tell me if they make one like this and if they do where do you get it. <A HREF="http://www.geocities.com/ralfy9862/foglights.html" TARGET=_blank>www.geocities.com/ralfy9862/foglights.html</A> ||||reg||1
+Z||000001||Mi Junk||01-11-2001||08:23 PM||||I've seen that before. COOl.<BR>Oreif says it's the lower piece of a GT nose flipped upside down.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/mi_junk_sig_2_1.jpg"> ||||reg||6
+Z||000002||lawrence||01-11-2001||11:10 PM||||That's my car, and yes, it is an upside down nose.  I have a small write-up on my website:<BR> <A HREF="http://www.webelectricmagazine.com/99/1/we.htm" TARGET=_blank>http://www.webelectricmagazine.com/99/1/we.htm</A> <P>then click on the Letters section.<P>-L<BR> <A HREF="http://www.webelectricmagazine.com" TARGET=_blank>http://www.webelectricmagazine.com</A> ||||reg||1

@@ -1,0 +1,10 @@
+A||||8||HAGS||Who sells these? Archie?||||1||
+Z||000000||HAGS||01-23-2001||10:33 AM||||Who sells these ground effects/rocker panels?<P> <IMG SRC="http://www.v8archie.com/8-7-2.jpg">  ||||reg||1
+Z||000001||HAGS||01-23-2001||10:34 AM||||I havent seen him around San Antonio Archie...he must not get down to the south side to race the wannabes.||||reg||1
+Z||000002||Oreif||01-23-2001||10:51 AM||||Archie is in Illinois. He sold the Blue Chop Top to someone in Texas. As for parts, IRM sells the side panels. I'm not sure who else sells them.||||reg||1
+Z||000003||Philphine||01-23-2001||12:19 PM|||| <A HREF="http://www.geocities.com/kento/F335.html" TARGET=_blank>http://www.geocities.com/kento/F335.html</A> <P>hope i did that right(it'd be a first) someone posted this before. similar style but a couple hundred dollars less. i have the irm ones (still haven't painted them or anything) and going by the picture i think i like irm's better, but for the price i think i'd try a pair of these next time.<P>||||reg||1
+Z||000004||Philphine||01-23-2001||12:25 PM||||tried it. dosen't work. i've got it on my favs page but i guess the addy has changed or i'm not copying it right. have to figure it out 'cause i want a setif i get another project going.||||reg||1
+Z||000005||HAGS||01-23-2001||07:00 PM||||change the address to F355 and it will work...for some reason it sends you to their homepage after a few seconds so you have to stop it when you get there.||||reg||1
+Z||000006||jerpro||01-23-2001||08:08 PM||||they have a lot of good stuff<BR>I will be ordering the front nose and I am sure I will be pleased.||||reg||1
+Z||000007||HAGS||01-24-2001||09:38 AM||||Excuse my ignorance but what is IRM?||||reg||1
+Z||000008||Oreif||01-24-2001||10:15 AM||||IRM = International Research Motorsports.<BR>They are a company in Maryland the sells Fiero Accessories and Parts. You can Email them at:<BR>IRMFIERO@aol.com or call 301-948-3301 to attain a catalog from them.<P>They bought Diversified Glass's Body mold's  many years ago. DG was the original company to make the Fiero IMSA bodies for the racecars. (SD4 and IMSA)||||reg||1

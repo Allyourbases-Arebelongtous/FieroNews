@@ -1,0 +1,7 @@
+A||||5||Oreif||This is just a test.||||1||
+Z||000000||Oreif||07-07-2000||11:24 AM||||Test completed.<BR><p>[This message has been edited by Oreif (edited 07-07-2000).]||||reg||1
+Z||000001||tgowens||07-07-2000||11:38 AM||||Hey!!! It worked!!! -- guess you passed the test, huh??<P>------------------<BR> <IMG SRC="http://www.tgowens.com/my_fiero_sig.gif">  <BR>'87 Fiero GT -  <A HREF="http://www.tgowens.com/fiero/" TARGET=_blank>www.tgowens.com/fiero/</A>||||reg||1
+Z||000002||stimpy||07-07-2000||10:32 PM||||Now put your pencils down and pass them to the front.<P>------------------<BR>   <IMG SRC="http://gifs123.tripod.com/page15/renstimpy2.gif"> ||||reg||1
+Z||000003||tgowens||07-07-2000||11:14 PM||||yes ma'am...........(sorry Stimpy, i couldn't resist!! ya see, I was a good little kid in school, then I grew up and bought a FIERO!!)<P>------------------<BR>  <IMG SRC="http://www.tgowens.com/my_fiero_sig.gif">   <BR>'87 Fiero GT -  <A HREF="http://www.tgowens.com/fiero/" TARGET=_blank>www.tgowens.com/fiero</A>||||reg||1
+Z||000004||Cooter||07-07-2000||11:48 PM||||Hey! No talking during a test! You know the rules. Now come to the front of the room and let me smack your palms with my yard stick. Here, put on this dunce hat and stand in the corner.||||reg||1
+Z||000005||DJRice||07-08-2000||12:45 PM||||I have to go the bathroom......<P><BR>When's Lunch?<P>------------------<BR>Dillon - Titusville, FL<BR>Black '87 SE V6<BR>"Matched Perfect and Staggered Special"||||reg||1

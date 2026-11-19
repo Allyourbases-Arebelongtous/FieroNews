@@ -1,0 +1,3 @@
+A||||1||Phantom Rage||A/C Heater||||7
+Z||000000||Phantom Rage||09-13-1999||10:15 AM||||First thankyou to the guys who replyed on my heater core question a while back.  I have replaced it.(once again thankyou).  My other problem is now, when I slide my a/c switch over to heat it still blows out cold air.  I pressed all the different settings(round button).  The 3 on the left don't seem as cool.  I did notice that the flap door, just behind the heater core was not moving.  Is there a motor or rod which controls this?  Thx ||||reg||7
+Z||000001||theogre||09-13-1999||11:41 AM||||the actuall temperature output controlled by the slide is a push wire. The other dampers are all servo controlled by the bush buttons.||||reg||2

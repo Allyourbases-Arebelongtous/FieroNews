@@ -1,0 +1,5 @@
+A||||3||rodmcneill||Purple Pavement Eater info?||||5||
+Z||000000||rodmcneill||08-20-2001||04:27 PM||||Is there a web site for the Purple Pavement Eater? I found a small one but not much info. Are there interior mods, brake, suspension? This is the vehicle for sale on Ebay right now.||||reg||5
+Z||000001||Bluebottlejunky||08-20-2001||04:53 PM|||| <A HREF="http://www.v8archie.com" TARGET=_blank>www.v8archie.com</A>  has info on that sweet machine!<P>------------------<BR>Mike<BR>85'GT 4sp<BR>AIM: <B>KilleRedGT</B>||||reg||1
+Z||000002||fix||08-20-2001||08:22 PM||||All I know is I would give my right arm for that car.  It would make shifting kind of difficult, but it's worth it.  In my eyes it's the best fiero out there.  ||||reg||1
+Z||000003||Old Lar||08-20-2001||08:57 PM||||The buy right now price on Ebay for the car was $16,500  which is much less that any riced out Honda on the market today.  So plunk down the $16.5 K and buy the car.  You can't beat the price.<p>[This message has been edited by Old Lar (edited 08-20-2001).]||||reg||1

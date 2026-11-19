@@ -1,0 +1,3 @@
+A||||1||David DeVoe||Fuel injector question||||5||
+Z||000000||David DeVoe||12-09-2001||07:24 PM||||While clean the fuel rail and other parts I took the injectors out to replace the o rings and noticed that the plastic tips on some were chipped and very loose fitting. They are just a push fit on the injector. What do they do and do they HAVE to be there??<BR>Dave||||reg||5
+Z||000001||GTDude||12-10-2001||04:34 PM||||David, these are part of the fuel injector, if cracked or extremely loose the injectors need replacing.  I'd try to find some old ones.  They should snap on and off...with a little force.<P>------------------<BR>||||reg||4

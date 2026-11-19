@@ -1,0 +1,3 @@
+A||||1||88/2.8||timing problem  PLEASE HELP||||4||
+Z||000000||88/2.8||02-05-2001||10:46 AM||||Well, first, my ignition module went bad, so i changed it, but now i have a timing problem. When i took the cap off to change the module i think i messed up the timing because the car is not as responsive as it used to be. i tried turning the cap and advancing the timing but it gets to a certain point and then starts to hit a tube and wont turn anymore.the car is still more sluggish than is used to be and it idles kind of rough PLEASE HELP!!!||||reg||4
+Z||000001||WKDFIRO||02-06-2001||01:46 AM||||Check the manual and make sure that you are timing it correctly.<P>Have you grounded out the computer?<P>||||reg||1

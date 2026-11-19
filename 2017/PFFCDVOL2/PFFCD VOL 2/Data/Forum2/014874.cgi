@@ -1,0 +1,2 @@
+A||||0||cid_colada||Tranny swap||||5||
+Z||000000||cid_colada||10-29-2001||02:04 PM||||Wich is easier when changing a transaxle,<P>  dropping the whole cradle,or<BR>  lowering the cradle and removing the tranny from the side as described on  <A HREF="http://www.angelfire.com/on/fierofactory/start.html#trany" TARGET=_blank>http://www.angelfire.com/on/fierofactory/start.html#trany</A> <P>    any info would be great||||reg||5

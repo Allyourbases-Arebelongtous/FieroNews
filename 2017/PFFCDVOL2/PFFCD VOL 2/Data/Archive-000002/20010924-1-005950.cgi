@@ -1,0 +1,3 @@
+A||||1||99BlackZ||Interiors||||5||
+Z||000000||99BlackZ||02-26-2001||10:17 PM||||I have seen some cool interiors in pictures and such.  Complete new dashes and consoles.<BR>Besides PISA, where can you get some of these.  Some in the photo gallery on this site I really like, but I don't know where you would get them or how much they would cost.  Any ideas?||||reg||5
+Z||000001||rogergarrison||02-27-2001||04:42 PM||||heres some pics of my car. a few interior shots<BR> <A HREF="http://albums.photopoint.com/j/AlbumIndex?u=1234884&a=9116379" TARGET=_blank>http://albums.photopoint.com/j/AlbumIndex?u=1234884&a=9116379</A> <P>mine is all completely homemade, except started with PISA Z upper door panels, modified them.||||reg||1

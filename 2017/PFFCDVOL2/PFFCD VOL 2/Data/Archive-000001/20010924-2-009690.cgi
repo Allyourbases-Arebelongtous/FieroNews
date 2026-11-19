@@ -1,0 +1,7 @@
+A||||5||mrgone||winshield wiper size||||3||
+Z||000000||mrgone||04-15-2001||11:14 PM||||whats the largest wipers the winshiled can take without lapping over the edge? <P>i like to see.||||reg||3
+Z||000001||Phil||04-15-2001||11:21 PM||||19" I believe||||reg||1
+Z||000002||mrgone||04-16-2001||03:54 AM||||wow, both driver and passenger?||||reg||1
+Z||000003||Cameron||04-16-2001||04:43 AM||||I wonder if we can mess up another one of your posts  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> Did you hear about ... and ... yah! But really they said that.  No way!  <P>hehe sorry I just had too...  <IMG SRC="http://www.fiero.nl/forum/tongue.gif"><P>------------------<BR>Cameron<BR> <A HREF="http://Fiero.NetMARC.com" TARGET=_blank>http://Fiero.NetMARC.com</A> ||||reg||1
+Z||000004||Formula88||04-16-2001||08:32 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by mrgone:<BR><B>wow, both driver and passenger?</B><HR></BLOCKQUOTE><P>Well, the factory size is 18", so 19" isn't too unreasonable.  On my Formula, there's enough room at the top of the windshield for 19" blades, but it would probably go over the side moulding on the driver's side of the windshield.  It goes almost all the way to the moulding with the 18" blades I'm using.||||reg||6
+Z||000005||rogergarrison||04-16-2001||02:19 PM||||im using stock on pass side, 18 inch on driver, doesnt hit anything.||||reg||1

@@ -1,0 +1,4 @@
+A||||2||gt boy||2.8 with headers.||||4||
+Z||000000||gt boy||08-01-2001||11:38 PM||||do headers really make a difference on a 2.8?<P>i am thinking about putting a set on...but i want to justify the price first.<BR>||||reg||4
+Z||000001||GT GT 87||08-02-2001||12:20 AM||||It is the first thing to do. But on the Fiero, being a rare car , few people make them.  I just rec'd my new stainless steel headers from West coast Fiero. Did I mention they will be hard to install , especially if the front bolts break when removing the front manifold.....||||reg||1
+Z||000002||sloth85GT||08-02-2001||12:59 AM||||What can be done when the front bolts break? 2 of them broke off on mine and now my car sounds like **** , almost as bad at an I4!<P>------------------<BR> <IMG SRC="http://www.mts.net/~kuzma/fieronl.gif"> <BR>Dan<BR>1985 Silver GT||||reg||5

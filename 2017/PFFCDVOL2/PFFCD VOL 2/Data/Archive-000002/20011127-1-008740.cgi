@@ -1,0 +1,3 @@
+A||||1||Adrift||How I did a vin lookup in Ontario...||||1||
+Z||000000||Adrift||07-11-2001||08:12 PM||||Just thought I'd let everyone knwo that "service Ontario" kiosks (Found at malls and other public areas across ontario, I went to Lawerence Square in Toronto) Let's you do VIN lookups (and printouts) for $8 I believe on Cars which were purchased in Ontario.<BR>||||reg||1
+Z||000001||grinthock||07-11-2001||08:28 PM||||Let's see on the kisok you can do<P>VIN OWner History<BR>Vin Registration History<BR>Driver History<BR>Driver Abstract<BR>CVOR For Truckers<BR>Print Stickers.<P>Lots of stuff||||reg||1

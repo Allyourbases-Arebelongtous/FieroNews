@@ -1,0 +1,3 @@
+A||||1||tgowens||Cliff, this one's for you......||||1||
+Z||000000||tgowens||08-05-2000||12:35 AM||||Hey, I suddenly thought to myself (I do that a lot!!), I've been making all these "signatures" and I haven't made one for the Forum Founder!! -- congratulations on approaching almost 1300 members!! Here is a little something I made for you....... <IMG SRC="http://www.fiero.nl/uploads/Cliff_sig.gif"> ||||reg||1
+Z||000001||Cliff Pennock||08-05-2000||02:49 AM||||Thanks, that looks great! I do prefer a text-only signature however, but I'll save it just in case I change my mind!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR><I>"Auntie Em. Hate you, hate Kansas, taking the dog. Dorothy."</I>||||reg||14

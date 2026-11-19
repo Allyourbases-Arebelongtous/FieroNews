@@ -1,0 +1,6 @@
+A||N||4||SloPonti||MY NEW TOY-TAKE A LOOK AT THE PICTURES!!!||||6||
+Z||000000||SloPonti||10-29-2000||06:08 PM||||here is my new toy i got on saturday! a 1998 honda 300ex! i rode it on saturday and man is it fun!!!!!!!!! <A HREF="http://members.aol.com/sloponti/300ex.jpg" TARGET=_blank>http://members.aol.com/sloponti/300ex.jpg</A>  <A HREF="http://members.aol.com/sloponti/300ex2.jpg" TARGET=_blank>http://members.aol.com/sloponti/300ex2.jpg</A> <P><BR>||||reg||6
+Z||000001||Cliff Pennock||10-29-2000||06:24 PM||||Nice! I want one of those! Actually, I go for anything motorized on wheels.  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||14
+Z||000002||2M4 Dale||10-29-2000||10:13 PM||||That looks too cool SloPonti !!! I love ATV's. I've been riding them since I got my first ATC 90 in 1971...Kinda dates me huh ... lol.<P>I currently own a 1997 Yamaha Wolverine 350 4X4 and a 1981 Honda ATC 185 and a 1979 Honda ATC 110||||reg||14
+Z||000003||fiero56||10-29-2000||10:36 PM||||Seeing that picture makes me want to make a run to Michigan(I hate Michigan, but all my cool toys are up there)and spend a weekend out playing in the woods. Can't wait for opening day either. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||10
+Z||000004||SloPonti||10-31-2000||12:06 AM||||thanks guys! this toy sure is fun!!!!!!!!||||reg||1

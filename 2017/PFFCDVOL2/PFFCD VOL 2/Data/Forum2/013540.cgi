@@ -1,0 +1,3 @@
+A||||1||gt boy||GTA show...who's going??||||5||
+Z||000000||gt boy||09-09-2001||04:19 PM||||i am interested on who is going to the toronto fiero show next weekend?  i am planning on going to check out some of these cars that i see and hear about posted here on pennocks.<P>if anyone is going ...let me know or post a pic of your fiero so i know who i am looking for when i get there.  i am interested to put faces(and fieros) to the names i see on the forum.||||reg||5
+Z||000001||gt boy||09-09-2001||04:26 PM||||..sorry people....i put this post in the wrong topic...i will repost it in general diss.<P>------------------<BR>"it's too bad he had to run out of talent half way through the corner..."||||reg||1

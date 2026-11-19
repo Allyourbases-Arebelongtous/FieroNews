@@ -1,0 +1,3 @@
+A||||1||Roy||Emergency Brake Problems.
+Z||000000||Roy||04-24-99||08:52 PM||||I just bougth a 84SE Coupe. The emergency brake seems to be broken I think, when you pull it up it feels like its just a handle on a hinge. When you push the button it does nothing. Could the cable be broken? If so how much does it cost to fix and how much work is it?<p>Roy
+Z||000001||theogre||04-26-99||07:34 AM||||first you have to find just what broke. could be the handle, a cable, or adjuster arm. could be disconected because someone was to lazy to get the recall done. could be disconected becuase someone put front calipers on the rear.

@@ -1,0 +1,3 @@
+A||||1||Philphine||just checking||||1||
+Z||000000||Philphine||10-10-2001||11:40 AM||||<BR>i posted to the vette forum thread twice and neither showed up. i thought i didn't submit the first time so i replied again and it didn't show up either. so i'm just checking to see if this inputs and if both posts show up later in the other thread let me say that i don't value my opinion so much that i need to give it twice. <P>------------------<BR>Phil T.<P>start where you are,<BR>use what you have,<BR>do what you can.||||reg||1
+Z||000001||falconhulk||10-10-2001||11:48 AM||||Sometimes I have that problem also but it always appears 5 sec later.||||reg||1

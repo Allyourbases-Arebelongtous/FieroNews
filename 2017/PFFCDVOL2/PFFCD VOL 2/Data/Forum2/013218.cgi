@@ -1,0 +1,5 @@
+A||||3||dizmon_85GT||Different headlight woes||||9||
+Z||000000||dizmon_85GT||08-29-2001||08:42 AM||||I replaced the gear in my passenger side headlight motor and everything worked great for a couple days.  Now the drivers side light will go up but the pass. side will not unless I open the deck lid and give the motor knob about a 1/4-1/2 turn by hand and it will take off(PITA).  Sometimes both will stay down, sometimes they both work, but most of the time it's the pass. side that just sits there!!!<BR>Help!!!   Any answers????<P>------------------<BR>Pete Disbennett||||reg||9
+Z||000001||theogre||08-29-2001||06:47 PM||||sounds like it needs lubing someplace. Probably need to tear it down clean and grease the motors.||||reg||1
+Z||000002||dizmon_85GT||08-29-2001||07:31 PM||||Thanks ogre, I'll tear it apart and give it a good cleaning and a lube job.||||reg||11
+Z||000003||theogre||08-29-2001||07:43 PM||||lube all the shafts. especially the motor shaft at the top and bottom of the worm gear. I like a light weight, preferably teflon loaded, oil for that shaft. <P>don't get oil on the brushes! Oil there will burn up and kill the motor untill it's cleaned.||||reg||1

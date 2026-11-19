@@ -1,0 +1,7 @@
+A||||5||Mr. P-body||Brake line clips||||5||
+Z||000000||Mr. P-body||08-06-2001||04:12 PM||||  Put new brake lies on but the clips that hold them to the frame are rusted. Anybody  know where i can get some new ones?<P>------------------<BR>Every dog should have a boy||||reg||5
+Z||000001||fierobaby||08-06-2001||06:13 PM||||Dad, even I can tell you that give either the Fierostore a ring or call up a pontiac dealer... hello DUH! :-) anyways guys this is my dad... yes my dad EWWWWWW I know creepable!!!||||reg||1
+Z||000002||Steve Normington||08-06-2001||06:40 PM||||Or go to your local hardware store with one of the old brake lines and look at their selection of circlips (e-clips).||||reg||1
+Z||000003||fierobaby||08-07-2001||11:15 AM||||good idea steve... I guess he already tried my ideas... but oh well whatever.. :-) your idea may work :-) and since we have half a brake line it won't be so long to walk into the hardware store with :-)||||reg||1
+Z||000004||SteveJ||08-07-2001||01:38 PM||||If it's just a daily driver use those plastic zip ties.||||reg||1
+Z||000005||starfighter007@msn.com||08-07-2001||03:15 PM||||Mr.P-Body I like your name.go to the dealer Ill bet that is a common part.If it is discontinued.Well I just cant help my self,hehe. cant we just use the way back machine? Mr.P-Body and if so I'll go with ya as I need some dicontinued parts.And Shermen if you see see ths Cool you jets!remember your only Mr.P-Bodys Girl!<p>[This message has been edited by starfighter007@msn.com (edited 08-07-2001).]||||reg||10

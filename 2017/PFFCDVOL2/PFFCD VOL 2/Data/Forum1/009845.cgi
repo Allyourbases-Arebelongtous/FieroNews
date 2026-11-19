@@ -1,0 +1,4 @@
+A||||2||LT1 Chop Top||Alamo Area Fiero Owners meeting pics||||1||
+Z||000000||LT1 Chop Top||08-27-2001||05:11 PM||||Pics from the last meeting of the AAFO.<BR> <A HREF="http://communities.msn.com/AlamoAreaFieroOwners/augustmeetingpics.msnw" TARGET=_blank>http://communities.msn.com/AlamoAreaFieroOwners/augustmeetingpics.msnw</A> ||||reg||1
+Z||000001||LT1 Chop Top||08-27-2001||05:14 PM||||Check out the other pics in the 'photo album' section.||||reg||14
+Z||000002||Urchin||08-27-2001||11:01 PM||||Nice pics.  A lot of nice cars.<BR>I was checking out some of the other photos (past meets)... God I love this car!<P> <IMG SRC="http://www.fiero.nl/uploads/beauty_gt.jpg"> <P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/side_cut_sig_4.jpg">  <BR>If you can read this, I'm parked.||||reg||1

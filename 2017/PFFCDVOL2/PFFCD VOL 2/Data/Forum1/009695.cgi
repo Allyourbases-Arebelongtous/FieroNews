@@ -1,0 +1,3 @@
+A||N||1||FieroKyle||Fiero Cruise....Grand Rapids area, Kent County||||1||
+Z||000000||FieroKyle||08-21-2001||10:56 PM||||Hey does anybody that live in the area want to go for a Fiero cruise sometime???? If so post some information or what ya think about it the idea. E-mail me too at YaktyYak@aol.com. The ony people I know that live in the Area is Fierowrecker and MooCow.||||reg||1
+Z||000001||FieroKyle||08-21-2001||11:04 PM||||IGNORE IGNORE IGNORE, I created this post before I read Tigger's Lansing meet so just cancel to this one. So if interested, look for Tigger's post before the 25th of August.||||reg||1

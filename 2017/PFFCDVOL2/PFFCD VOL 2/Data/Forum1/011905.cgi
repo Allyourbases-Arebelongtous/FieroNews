@@ -1,0 +1,3 @@
+A||||1||FieroHarry||007DOUG AND SAGE!||||14||
+Z||000000||FieroHarry||11-16-2001||03:46 PM||||YOU ARE THE MAN'S He He He<P>These scoops are freaking awsome.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Thanks a bazillion time over!<P>------------------<BR><BR><B>"If you want to blend in, take the bus!"</B>||||reg||14
+Z||000001||Sage||11-16-2001||04:03 PM||||Harry:<P>Very glad you like them!  I really want to see some pics after you get the honeycomb grilles in.   That should be really sweet being as how they are original Fiero equipment. Whaterver grilles you end up using, let's see some pics after your install.<P><P>------------------<BR>Have a good one!||||reg||1

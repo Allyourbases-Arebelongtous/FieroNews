@@ -1,0 +1,3 @@
+A||||1||Fret Naught||HEY ORIEF||||5||
+Z||000000||Fret Naught||07-06-2000||12:36 PM||||Say Orief,<BR>How long did you have to wait to get your seats from Mr. Mikes? it has been like 5 weeks for me, I am getting just a bit axious, know what I mean?||||reg||5
+Z||000001||Oreif||07-06-2000||02:16 PM||||It took 3 weeks for mine last Xmas. A friend here is doing his seats and ordered them a few days ago. Mr. Mike says he's swamped at the moment and he is about 2 weeks behind. I know it's normally a 2-3 week wait so maybe yours is on it's way. Just Email him or call him and ask what the estimated shipping date is.||||reg||1

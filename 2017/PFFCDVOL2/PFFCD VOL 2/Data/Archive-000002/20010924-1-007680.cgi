@@ -1,0 +1,3 @@
+A||||1||Bluebottlejunky||Dells Run forcast||||3||
+Z||000000||Bluebottlejunky||05-25-2001||10:38 PM||||Well it could be good or bad...check it out <A HREF="http://www.weather.com/weather/local/USWI0046lets" TARGET=_blank>http://www.weather.com/weather/local/USWI0046lets</A>  pray it dosen't rain..we still have alot of time for the weather to leave.  I got lucky for Fiero Fest 2000 in Michigan last year no rain!<P>------------------<BR>Hello, My name is Mike and I am addicted too fiero's...PLEASE dont help me.<BR>85'GT 4sp<BR>AIM: Fierofanatic2001||||reg||3
+Z||000001||RossT||05-26-2001||12:23 AM||||bluebottle.. Is there a forcast for YELLOW PINE POLLEN YET!!!!!!!!!!!!<P>btw. you have mail||||reg||1

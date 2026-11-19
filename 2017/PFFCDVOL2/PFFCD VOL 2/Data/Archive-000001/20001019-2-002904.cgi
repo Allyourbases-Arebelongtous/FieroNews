@@ -1,0 +1,2 @@
+A||N||0||bHooper||Speedometer sending unit...||||1||
+Z||000000||bHooper||03-26-2000||09:56 PM||||After cleaning up my "new" tranny, today, I pulled the speedometer sending unit was the same as the one from my fiero (the tranny came from a '87 corsica)... after pulling it,  I noticed that it had a magnetic "thing" on the end of it... I was tipped off to this by the metal shavings hanging off of it.<P>Does this mean that I cant use this tranny in the fiero?  I have emailed Rodney, but I thought I would post here to see what other people thought.<P>thanks,<BR>hoop||||reg||1

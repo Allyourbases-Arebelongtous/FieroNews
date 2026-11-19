@@ -1,0 +1,5 @@
+A||||3||gunnerdd972||Subbox.com||||1||
+Z||000000||gunnerdd972||12-05-2001||08:20 PM||||I am vevy intersested in that sub box that goes up front.  That website changed in the last few months.  I can't find how much the price is for them to build me a box and ship it to me as well.  Does anybody know the person that builds that box or have the dimensions for the box. Thanks||||reg||1
+Z||000001||2farnorth||12-06-2001||05:54 AM||||I know him.  He lives about 50 miles South of me.  I'll try to get a hold of him. <P>Dave||||reg||1
+Z||000002||2farnorth||12-08-2001||07:50 AM||||I emailed him a couple of days ago, but have gotten no response yet.  Sometimes it takes him a few days.<P>Dave||||reg||9
+Z||000003||Speedyfiero||12-09-2001||04:13 PM||||I know of a place that sells that sub box on the web, here is a link to the sub box that you want,<P> <A HREF="http://www.fieroshop.com.au/shop/ezistore.cgi?page=AF001&type=&frame=&cart_id=4915392_56853" TARGET=_blank>http://www.fieroshop.com.au/shop/ezistore.cgi?page=AF001&type=&frame=&cart_id=4915392_56853</A> ||||reg||1

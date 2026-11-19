@@ -1,0 +1,9 @@
+A||||7||2M4 Dale||main menu||||1
+Z||000000||2M4 Dale||10-20-1999||12:28 AM||||Why can't I get anywhere but the forum from the main menu? I would like to see Ogre's tunnel, thinks you can make yourself, etc...When click on any of these things I get a different picture for a minute then it goes back to the original main menu. The forum option is the only thing that seems to work.  Also whats the difference between member and junior member?||||reg||1
+Z||000001||DJRice||10-20-1999||08:31 AM||||Im thinking that Cliff might not have all that extra stuff up yet. <P>Maybe Cliff will shed some light.||||reg||1
+Z||000002||BOILERMAKER||10-20-1999||08:51 AM||||I got into the tunnels the other day (haven't tried today) and Ogre has a lot of good stuff in there.||||reg||1
+Z||000003||mrfixit58||10-20-1999||10:43 AM||||Tunnels?? Thing to make yourself?? This is the first I've heard of this. What are these tunnels and were do I find them?<BR>||||reg||4
+Z||000004||2M4 Dale||10-20-1999||10:53 AM|||| Got into the cave today. Lots of good stuff in there. Hey Ogre... I totally agree with you on the gun control issues...I'm a licensed firearms dealer. What do you think about Colt bailing out?...I'm going to use info I found in the cave to install trunk realease option. Thanks||||reg||1
+Z||000005||2M4 Dale||10-20-1999||10:55 AM||||Mrfixit58 go to the bottom of this page and click on Back To Main Menu.||||reg||1
+Z||000006||Cliff Pennock||10-20-1999||11:48 AM||||Yes, you're right... Only the links to the forum and to Ogre's Cave work yet. I'm still working on all the other pages but I'm a bit short in my time. <B>And</B> I was hoping people would send me some stuff to put up...  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><BR>||||reg||1
+Z||000007||mrfixit58||10-20-1999||04:34 PM||||WOW!!! I can't wait until you finish the Main Menu. Ogar, your stuff is great too. Thanks for your posting. I'm sure to use it.||||reg||14

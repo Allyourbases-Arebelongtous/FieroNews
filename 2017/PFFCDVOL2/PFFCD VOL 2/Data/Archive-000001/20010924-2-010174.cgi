@@ -1,0 +1,6 @@
+A||||4||owenslee||AutoZone Shift Cables?||||5||
+Z||000000||owenslee||05-04-2001||04:30 PM||||Has anyone had good or bad experiences with the AutoZone supplied shift cables for the 5 spd Getrag?<P>NAPA and AC Delco can no longer get them...<P>Any experience with the AutoZone brand would be appreciated...<P>$55 for selector cable<BR>$75 for shift cable<P>90 day warranty||||reg||5
+Z||000001||Wolfhound||05-04-2001||07:12 PM||||It,s still a dealer item. I bought a selector cable a few months ago. It was a little more than 90.00, I forget the exact figure. never considered Autozone might have them. Thats a fairly large difference in price. <BR>Coy ||||reg||1
+Z||000002||Philphine||05-04-2001||11:20 PM||||got one from a dealer also last summer. auto zone originaly said they could get it but it kept backordering and they finaly gave up.||||reg||1
+Z||000003||owenslee||05-05-2001||10:56 PM||||I have a local AutoZone that has at least one pair in stock.<P>I may go ahead and pick them up as spares.<P>I just wasn't going to pursue them if others have had poor service from them.||||reg||1
+Z||000004||Fiero-Tex||05-09-2001||02:01 PM||||If you have the GM part numbers could you post them for me.  I would like to see if I can find a better price.  I have an 87GT that is in need of shifter cables.||||reg||1

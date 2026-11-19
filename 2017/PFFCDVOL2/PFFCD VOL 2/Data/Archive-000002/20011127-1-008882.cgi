@@ -1,0 +1,10 @@
+A||N||8||AusFiero||Does this look any good ?||||5||
+Z||000000||AusFiero||07-18-2001||02:27 PM||||Ok it is just a new sig test but at 5K I thought I might as well have a change for a while.<P>Oh yeah, post more subjects people, I have run out of things to read  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR> <P>------------------<BR>     <IMG SRC="http://www.jadeweb.com.au/fiero/ausfiero1.gif">   <A HREF="http://www.jadeweb.com.au/fiero" TARGET=_blank>My Fiero</A><BR>Need a Subwoofer Console or Speaker Door Pods?<p>[This message has been edited by AusFiero (edited 07-18-2001).]||||reg||5
+Z||000001||Cheever2||07-18-2001||02:38 PM||||Sure, I think it looks pretty good.<BR>Okay, I'll post about my score on a GT taillight.<BR><P>------------------<BR>- <I>Chuck Hodges</I> -<BR><A HREF="http://home.houston.rr.com/fieropartsrelay" TARGET=_blank> Fiero Parts Relay</A> administrator||||reg||6
+Z||000002||DRH||07-18-2001||02:39 PM||||I like it!<P>I don't care for the animated ones like your old one. They remind me too much of those annoying banner ads.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>||||reg||14
+Z||000003||Pontiaddict||07-18-2001||04:09 PM||||Not bad.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>||||reg||14
+Z||000004||StuGood||07-18-2001||04:29 PM||||I like it - it is distinctive, unobtrusive...  and we'll know it's you, at a glance!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>My first impression was that it looked like a flag billowing out of the back of the car, or a drag chute beginning to open...  didn't recognize the map until I looked at it for a moment.  <P>Oh, well, that just says I'd probably flunk a geography or a Rorsach test.... <IMG SRC="http://www.fiero.nl/forum/wink.gif">  ||||reg||6
+Z||000005||Stage-2GT||07-18-2001||07:38 PM||||  Looks nice Aus. I like the way you incorporated your national flag, country, color and car. Kudo's!<P>S2GT||||reg||1
+Z||000006||rogergarrison||07-18-2001||07:40 PM||||cool !!!!!||||reg||14
+Z||000007||CoolBlue87GT||07-18-2001||08:27 PM||||It's a winner !!!!||||reg||6
+Z||000008||Formula88||07-18-2001||10:00 PM||||Nice!||||reg||14

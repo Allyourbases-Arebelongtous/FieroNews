@@ -1,0 +1,4 @@
+A||||2||T-top Fiero||IMSA GTP Spice Fiero body on Ebay||||1||
+Z||000000||T-top Fiero||08-24-2001||07:31 PM||||I don't know any one else has seen this or not, but there is an IMSA GTP Spice Fiero body for sale on eBay right now. Check it out. Pretty neat.<BR> <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=594454042&r=0&t=0" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=594454042&r=0&t=0</A> ||||reg||1
+Z||000001||ray b||08-24-2001||07:55 PM||||good spot but thats a spice body  for a spice frame race car that used a gm motor not a kit for a fiero !!!<P>------------------<BR>Question wonder and be wierd||||reg||1
+Z||000002||T-top Fiero||08-24-2001||08:05 PM||||I know that body is for the old Spice Fiero race car. I never said it was a kit for our cars.||||reg||1

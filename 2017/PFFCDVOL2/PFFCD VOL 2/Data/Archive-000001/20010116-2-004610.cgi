@@ -1,0 +1,2 @@
+A||||0||FieroJon||Sticky Tach||||9||
+Z||000000||FieroJon||07-05-2000||01:24 PM||||I've been reading the forum for a while, and thought that someone would be able to help me with this small problem.  The problem is that on occasion the tach will stick a 2,000 rpm.   The tach eventually comes unstuck, but is annoying.  Any suggestions?<P>If it helps I drive an '86 with a 4 cyl. 5 speed.<p>[This message has been edited by FieroJon (edited 07-05-2000).]||||reg||9

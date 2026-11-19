@@ -1,0 +1,4 @@
+A||||2||STUK'N'80s||Hypertech Chip||||5||
+Z||000000||STUK'N'80s||08-29-2001||10:34 PM||||Am planning on stalling a hypertech chip into my 85 GT which is basically a stock 2.8 V6 except for an upgraded exhaust system (Flowmaster 40 series), free flow cat, fan switch & cold air intake.  Will I see any power gains or smoother performance with this addition or should I stick with the stock chip...YOUR THOUGHTS APPRECIATED!!||||reg||5
+Z||000001||Cooter||08-29-2001||10:51 PM||||Keep the hundred bucks and spend it on something else later- the factory chip is good.||||reg||1
+Z||000002||Leadfoot||08-29-2001||11:09 PM||||Spend the money on something else.  I have the hypertech chip in my 85se and I don't notice a difference.  Anyone want to by a chip for $50?  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>||||reg||1

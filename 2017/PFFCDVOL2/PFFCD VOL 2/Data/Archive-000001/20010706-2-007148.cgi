@@ -1,0 +1,3 @@
+A||||1||bubbajoexx||Fiero V8 Caddy 4.5 or 350 Chevy||||1||
+Z||000000||bubbajoexx||12-04-2000||08:21 PM||||I have looked at about 20 V8 conversions all of them 350 chev they were all to expencive or did to much body mods and I don't like cutting the frame or fender wells so iImade my own I put a 4.5 caddy aluminium V8 in mine it is great it may not have 300 foot pounds of torque but 220 is fine by me and 240 hp works just fine and it don't sound like awounded duck 6 so has any one elts tried it bubbajoexx||||reg||1
+Z||000001||Sndfr||12-08-2000||06:29 AM||||Hey big BubJoeBob, I'm done pretending i know everything.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><p>[This message has been edited by Sndfr (edited 12-08-2000).]||||reg||3

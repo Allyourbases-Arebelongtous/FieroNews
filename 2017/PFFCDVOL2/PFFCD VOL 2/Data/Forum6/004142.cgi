@@ -1,0 +1,4 @@
+A||||2||TRiAD||Need PIP help||||1||
+Z||000000||TRiAD||11-07-2001||12:13 AM||||Can someone PLEASE PIP this sig pic for me?<P>MSN SUCKS!  <IMG SRC="http://www.fiero.nl/forum/mad.gif"><P>------------------<BR> <IMG SRC="http://communities.msn.com/_Secure/0OAB0cA0SYNWUPTvE4cNXuKEOF6RDX3eJl9YyFA7XY5h04u1up4JPKIT3evpoOjgByKPUFHobfre9t5XUrPCpmnQAcAA6AC8A/85-Sig-2.gif">             <BR><B><I><u><FONT COLOR="red">TRiAD Motorsports</FONT></u></B> \\\\ <B>triadtuning@hotmail.com</B> //// Michael ~ 85 GT 4sp</I>||||reg||1
+Z||000001||Pontiaddict||11-07-2001||12:34 AM|||| <A HREF="http://www.fiero.nl/uploads/85-Sig-2.gif" TARGET=_blank>http://www.fiero.nl/uploads/85-Sig-2.gif</A> <BR> <IMG SRC="http://www.fiero.nl/uploads/85-Sig-2.gif"> ||||reg||1
+Z||000002||TRiAD||11-07-2001||10:11 AM||||THANKS!||||reg||1

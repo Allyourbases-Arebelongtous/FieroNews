@@ -1,0 +1,2 @@
+A||||0||Wolfhound||What a way to wake up!||||10||
+Z||000000||Wolfhound||10-22-2001||07:31 AM||||Last night I managed to go to sleep with the TV on. They sign off on Sunday night and play The Star Spangled Banner when they sign on in the morning. I awoke to the strangest rendition I,ve ever heard. Shadow my Schiperkee was on the foot of the bed, head held high singing perfect harmony.<BR>Like to have never stopped laughing. She was pretty good, better than I could have done. <BR>She's such a little patriot.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> ||||reg||10

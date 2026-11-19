@@ -1,0 +1,8 @@
+A||||6||GtProject||can some one tell me what its worth?||||1||
+Z||000000||GtProject||05-02-2000||12:23 AM|||| <IMG SRC="http://www.fiero.nl/uploads/980531-003_3.jpg"> <P>86 Gt Auto new brakes(rotors also)<BR>new shocks and struts all the way around new tires all power options and sun roof. daily driver for the past 3 months looking for some help ,on coming up with a fair price.||||reg||1
+Z||000001||Raydar||05-02-2000||03:40 PM||||Nice car! Are you trying to sell it, or trying to buy it? ||||reg||1
+Z||000002||Monkeyman||05-02-2000||05:45 PM||||WoW!  Actual size pic.  If you're trying to buy it, the headlight motors look like they need to be rebuilt.  If you're trying to sell it, could you accidentally on purpose lose those scoops?  Just let them fall in my yard.  I'll be sure to pick them up for you! <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||TOM||05-02-2000||10:28 PM||||I was getting a set of those scoops to mold and make them afordable to all that wanted but the deal fell through||||reg||1
+Z||000004||SCCA FIERO||05-02-2000||11:42 PM||||Somebody send TOM a set of them to reproduce!<BR>I gotta have some. How much you think you <BR>can sell them for TOM?||||reg||1
+Z||000005||GtProject||05-03-2000||07:40 PM||||You guys could have um if you buy the car||||reg||3
+Z||000006||DXR_DAD||05-03-2000||08:08 PM||||It's only worth what the buyer will pay or what the buyer has. I have 1,000 and it looks like what I want, can we make a deal <IMG SRC="http://www.fiero.nl/forum/smile.gif"> no really 1,000 cash right now! lets not haggle, ok 1,200 and thats it <IMG SRC="http://www.fiero.nl/forum/smile.gif"> come on whatda ya say?..........ok let me think about it.<P>I had to do that (lol)<P>That is a nice lookin ride.||||reg||1

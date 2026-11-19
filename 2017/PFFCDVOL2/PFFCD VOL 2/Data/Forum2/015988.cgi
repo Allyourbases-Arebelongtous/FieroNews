@@ -1,0 +1,4 @@
+A||N||2||cid_colada||EGR problem (Iron Duke)||||4||
+Z||000000||cid_colada||12-02-2001||04:06 PM||||I had been having the classic high idle problem and could'nt figure it out... until I removed the throtle body and found that the egr channel on the manifold (under the seperator plate) was competely blocked by carbon buildup. Could this have been the cause of my high idle??<P>Black 84 SE||||reg||4
+Z||000001||PBJ||12-02-2001||04:57 PM||||High idle is generally caused by air coming into engine that is not metered by IAC, such as a vacuum line split or off.  I don't think a blocked EGR passage would cause high idle-it may cause excessive engine ping.||||reg||1
+Z||000002||johnt671||12-03-2001||07:51 AM||||I found that on my 84 when I replaced the throttle body gasket.  I had a floating idle problem that went away after I replaced the gasket. Not sure if replacing the gasket or cleaning the passages cured it but it idles nice now.||||reg||1

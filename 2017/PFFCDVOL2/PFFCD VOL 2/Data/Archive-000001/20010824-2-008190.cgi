@@ -1,0 +1,3 @@
+A||||1||Coop88||poly dust boots||||5||
+Z||000000||Coop88||01-31-2001||04:11 PM||||Are poly dust boots any better than the rubber ones? I'm replacing ball joints on the front of my formula very soon, and I was wondering if maybe the poly would do a better job. What would be the advantages/disadvantages? I'll be putting poly bushings on the front this summer, if that matters. Any info would be appreciated.||||reg||5
+Z||000001||Coop88||02-01-2001||12:20 AM||||Let me be more specific. These are the dust boots that cover the ball joints and tie rods. Anyone tried them? Maybe I'll be the first....||||reg||10

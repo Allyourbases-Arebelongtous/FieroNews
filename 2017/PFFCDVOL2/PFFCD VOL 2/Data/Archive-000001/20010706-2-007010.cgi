@@ -1,0 +1,2 @@
+A||||0||Philphine||quad 4 article, possible v6 articles later||||1||
+Z||000000||Philphine||11-28-2000||01:53 AM||||<BR>in hot rod jan. 2001 issue. shows how to mix and match various parts ettween the original 2.3 quad 4s and the 2.4 twin cams (they're the same engine. some one had said before that they're not).<P>also from what i read in the letters section, they plan to do articles on the 90 deg. v6's except 4cam (lack of interest and not much encouragement from gm engineers they said).||||reg||1

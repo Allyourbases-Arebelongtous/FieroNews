@@ -1,0 +1,3 @@
+A||||1||fieroparts.com||Borla Exhaust System & The Fiero Fall Show||||14||
+Z||000000||fieroparts.com||09-21-2000||10:46 AM||||Borla and The Fiero Owner's Club of New England will be raffeling off one Borla exhaust system at the show<BR>tickets will be 3 for 5.00 bucks or  25 for 25.00 You must<BR>buy your tickets the day of the show.<BR>So come on down with your fiero to the show.||||reg||14
+Z||000001||Chris Schaefer||09-21-2000||09:39 PM|||| <IMG SRC="http://www.fiero.nl/forum/cool.gif">Well I could always use another exhaust.  Espessially seeing how my younger brother will be buying a fiero before the end of the year.  I guess I will take the $25.00 option myself. I can't amagine a better deal if I win.<P>See you in two days.||||reg||3

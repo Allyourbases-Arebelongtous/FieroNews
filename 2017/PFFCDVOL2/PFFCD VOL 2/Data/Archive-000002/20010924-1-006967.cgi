@@ -1,0 +1,3 @@
+A||||1||AkursedX||Fog Lamps||||14||
+Z||000000||AkursedX||04-20-2001||08:58 AM||||Check out the Fiero Store (www.fierostore.com)  They have round and oval foglamp kits for $29.99!!  Look in the "specials" section.  <BR>Just gettin the word out.  I might have to get a set  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||14
+Z||000001||FieroJoe||04-20-2001||09:17 AM||||I havent seen the ones they are selling, but I bought my oval white pilot ones locally for $30.00 too.<P>------------------<BR>AIM: Fiero87311<BR>87 Coupe 5sp. - big resto near completion! :D<BR>   <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1

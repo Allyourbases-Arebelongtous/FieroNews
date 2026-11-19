@@ -1,0 +1,5 @@
+A||||3||lowfunds||3800 Conversion Kits????||||5||
+Z||000000||lowfunds||06-04-2000||11:23 PM||||Does anyone know of anyone besides ACE that makes a 3800 conversion kit?? Thanks for any help.Also know if the intercooler for the SC 3800 will fit on the coversion(room in the engine comp.) Thanks again<P>||||reg||5
+Z||000001||88GT3||06-04-2000||11:42 PM||||Chris West of West Coast fiero has a kit that seems pretty complete.  Here is the url. <BR> <A HREF="http://home.earthlink.net/~chriswest/" TARGET=_blank>http://home.earthlink.net/~chriswest/</A> ||||reg||1
+Z||000002||DaRkLoRD||06-05-2000||12:46 AM||||I don't know about a kit, but I think the Fiero Shop in Toronto (Canada) does 3800 conversions.||||reg||1
+Z||000003||chris west||06-05-2000||11:58 AM||||  Ji this Is Will at West Coast Fiero. On our web page u can see what is needed todo the 3800 swap in detail. We also have the a very good FAQ about the swap <A HREF="http://home.earthlink.net/~chriswest/index.html" TARGET=_blank>http://home.earthlink.net/~chriswest/index.html</A> <BR>Thank You for your time.||||reg||3

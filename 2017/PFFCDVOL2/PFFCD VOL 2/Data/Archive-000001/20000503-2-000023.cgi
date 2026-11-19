@@ -1,0 +1,5 @@
+A||||3||Pretender||1998 TransAm wheels.
+Z||000000||Pretender||03-21-99||02:51 AM||||will the '98 ta's 17" chrome rims fit on my 88 fiero gt?...i do not know of the width and tire sizes of these wheels and i would also like to fill out the fender-wells to at least make my car look fast.....thanks.88gt.<br>
+Z||000001||raceknb||03-21-99||02:41 PM||||The only way you could get those wheels on your 88 is if you had the bolt holes redrilled.  Fiero's are 5x100mm and the new t/a's are 5x114.5 I do believe.
+Z||000002||slow88gt||03-22-99||04:03 AM||||well that sucks...i also wanted those rims on my car...there is one going into the local junkyard here..what if i changed everything...claipers,rotors,pads..would it work?...sorry.i know that i'm not that well informed on this car...new to this fiero thing...
+Z||000003||theogre||03-28-99||03:57 PM||||you probably can't do that without allot of headaches.<p>you can go to a 16" after market wheel, but you need to drop tire profile when you do.<p>Part of your problem is that you need to keep the "rolling diameter" of the tires the same as stock. you will throw off the speedo, and the ECM, if you don't. 

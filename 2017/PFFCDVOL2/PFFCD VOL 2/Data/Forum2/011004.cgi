@@ -1,0 +1,2 @@
+A||N||0||Fierochic88||And the winner is....(re: 88 GT Highway Driver)||||1||
+Z||000000||Fierochic88||06-04-2001||10:29 PM||||Phil Randolph!  Thanks Phil it was the passenger side steering rack bushing that went bad!  It also looks like the driver's may be bad so we will replace them both.  Thanks to everyone else for their advice as well.<P>Jennifer<P>------------------<BR>Silver 1988 GT<BR>Silver 1986 2m4<P>http://albums.photopoint.com/j/ViewPhoto?u=34301&a=798574&p=12690689&f=0||||reg||1

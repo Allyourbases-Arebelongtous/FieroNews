@@ -1,0 +1,4 @@
+A||N||2||Adam Draper||Does anybody know where to get  some bad a#% scoops?||||5||
+Z||000000||Adam Draper||03-01-2001||12:19 AM||||          I'm looking for a set of scoops. I heard about scoops thats covers the battery and the fuel filter. Pretty munch a good scoop that will make my "84" SE look smashing. ||||reg||5
+Z||000001||Eric||03-01-2001||12:21 AM||||I want to be a badass  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||Oreif||03-01-2001||12:26 AM||||The Fi-Air-O scoops that go on the sides are hard to get. FOCOA has a set of "Lazy-C's" that wrap around the edge of a notchback. I prefer the Indy Scoop myself.<P>    <IMG SRC="http://www.fiero.nl/uploads/Oreif1.jpg">  <BR>   <P>------------------<BR>       <IMG SRC="http://www.fiero.nl/uploads/LOGO3.jpg">     <P><p>[This message has been edited by Oreif (edited 03-01-2001).]||||reg||1

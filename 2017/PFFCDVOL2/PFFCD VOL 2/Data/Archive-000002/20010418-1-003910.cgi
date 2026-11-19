@@ -1,0 +1,2 @@
+A||||0||SloPonti||Racing in Illinois Tomorrow- Bring your fieros!!!!||||6||
+Z||000000||SloPonti||10-07-2000||06:11 PM||||in peoria illinois we will be auto crossing all different makes and models of cars! i will have my fiero there! there should be some other fieros there to! it is at ICC Illinois Central Collage! be there by 10 am to check in! the cost is 20.00! hope to see some of you there!<BR>thanks<BR>Rob Schacht||||reg||6

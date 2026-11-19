@@ -1,0 +1,8 @@
+A||||6||SibERThuG||circular tailights||||11||
+Z||000000||SibERThuG||06-23-2000||01:22 AM||||Anyone know where I can get the circular taillights/covers for my car(88' Formula)?? I saw a pic of a yellow formula in the mall with them. ||||reg||11
+Z||000001||Uaana||06-23-2000||01:58 AM||||Ya I think RSMotorsports up in Canada makes a set of lens covers that give the effect of round. otherwise try PISA kit cars.||||reg||1
+Z||000002||Gokart||06-23-2000||05:29 AM||||Rob, is this you! Stop by when you can. I got Pisa's catalog and numerous others from aftermarket suppliers. Marc.||||reg||2
+Z||000003||Phil||06-23-2000||08:54 AM||||If you're talking about the Formula with the high wing- those are Pisa's tail lights||||reg||1
+Z||000004||Formula||06-23-2000||09:15 AM|||| <IMG SRC="http://www.fiero.nl/uploads/rearendstripesformula.JPG">  <P>These are monkeymans tailight ccover thinger magdoodles......made out of vinyl<BR>only $17 from your nearest monkey source..||||reg||1
+Z||000005||BAM-BAM||06-23-2000||07:56 PM||||   What do you think of these tail lights?  <IMG SRC="http://www.fiero.nl/uploads/Rearlens.jpg">  <P>like em? If you do, go to <A HREF="http://home.xnet.com/~paulv" TARGET=_blank>http://home.xnet.com/~paulv</A> <P>  <IMG SRC="http://www.fiero.nl/uploads/oneeyewink.gif">   <P>  Late, BAM OUT!   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P><p>[This message has been edited by BAM-BAM (edited 06-23-2000).]||||reg||6
+Z||000006||Monkeyman||06-24-2000||09:15 AM||||I think, once I'm ready for paint, I'll probably do a combination of Paul Vargas' "PONTIAC" tail lights and my vinyl like I did for Formula.  Maybe the best of both worlds?||||reg||1

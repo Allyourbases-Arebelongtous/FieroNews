@@ -1,0 +1,3 @@
+A||||1||Fiero Hoosier||Headlight problems||||11||
+Z||000000||Fiero Hoosier||10-28-2001||09:58 PM||||Does anyone make the "dog bone" connecter for the headlight assembly? Went to Pontiac dealer and they wanted $240 for motor and all (dog bone not available seperatley)  <IMG SRC="http://www.fiero.nl/forum/smiley_bs.gif">. Does this part come with Rodney's rebuild kit?||||reg||11
+Z||000001||Max The Chainsaw||10-29-2001||05:58 AM||||Don't know of anyone that makes that part. Your best bet for one of those would be a salvage yard. I know Beedles salvage in Attica Indiana has about 6 86's in it, most of the headlight assy's are still there.<P>Hope this helps. ||||reg||1

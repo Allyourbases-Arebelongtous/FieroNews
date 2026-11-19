@@ -1,0 +1,9 @@
+A||||7||DrRodey||Possible Truck Colors??? Please vote||||1||
+Z||000000||DrRodey||10-08-2001||04:23 PM||||Here are the options.<P> <A HREF="http://photos.yahoo.com/bc/dr_rodey/lst?.dir=/Yahoo!+Photo+Album&.src=ph&.last=1" TARGET=_blank>http://photos.yahoo.com/dr_rodey</A> <P><BR>Right now i'm leaning heavily toward the blue w/yellow grounds.<P><BR> <IMG SRC="http://www.fiero.nl/forum/confused.gif">which would you do <IMG SRC="http://www.fiero.nl/forum/confused.gif"><BR><p>[This message has been edited by DrRodey (edited 10-08-2001).]||||reg||1
+Z||000001||Steve Normington||10-08-2001||04:56 PM||||I vote for pshop Purple (not Purple2).||||reg||1
+Z||000002||loafer87gt||10-08-2001||08:18 PM||||I'd go for the dark bluish gray (blue 3)||||reg||1
+Z||000003||Kasdan||10-08-2001||08:58 PM||||I agree, pshopblue2 is my favorite as well.<P>------------------<BR>Tyler Morgan, 1986 GT<BR> <IMG SRC="http://www.fiero.nl/uploads/Fiero21.jpg">         <BR>Power Steering, Holley Scoop<BR>Aim=FieroDriver1986||||reg||1
+Z||000004||Spektrum-87GT||10-09-2001||06:10 PM||||another one for pshopblue2||||reg||1
+Z||000005||Mach10||10-09-2001||08:00 PM||||pshopblue2||||reg||14
+Z||000006||Cheever3000||10-09-2001||08:08 PM||||I like the pshopblue2 too.<BR>Those purple variations need a neon green stripe along the side!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>||||reg||1
+Z||000007||artherd||10-10-2001||03:19 AM||||Blue3 or<BR>Purple1 (not 2)<P>Actually, try and find the paint they used on the Dakota 5.9s...  It's close to blue3, and very nice, classy.<P>Best!<BR>Ben<P>------------------<BR>  <IMG SRC="http://www.cartsys.com/fiero/88ttop.jpg">  <BR>Ben Cannon<BR>88 Formula, T-top Metalic Red<BR>88 Formula, Silver<BR>87 Coupe, Metalic Red<BR>"Every Man Dies, not every man really Lives"<BR>                -Mel Gibson, "Braveheart"||||reg||1

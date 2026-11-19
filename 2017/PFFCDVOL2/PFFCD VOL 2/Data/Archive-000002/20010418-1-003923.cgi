@@ -1,0 +1,2 @@
+A||||0||DjKid||www.CarolinaFieros.com||||10||
+Z||000000||DjKid||10-08-2000||09:26 PM||||Would anyone like to help me write the Q&A and Tech info sections of the website? I would be more than greatful. Any other help of any kind, specially server space, I hate geocities, would be great! Thank you.<P>------------------<BR>Ray - Blue 88 Coupe - <A HREF="http://blueknight.carolinafieros.com" TARGET=_blank>My Blue Knight</A> - <A HREF="http://www.carolinafieros.com" TARGET=_blank> Carolina Fieros</A>||||reg||10

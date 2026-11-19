@@ -1,0 +1,2 @@
+A||||0||DjKid||Motor Mounts, The Next Frontier!||||5||
+Z||000000||DjKid||09-02-2000||03:13 PM||||okey I have questions......<P>#1. Could a bad(VERY BAD) motor mount cause my car to wiggle at normal speeds or around 45-55mph?<BR>#2. Is the motor mount on a 84 2.5l the same as on the 88 2.5l?<BR>#3. Can I swap motoro mounts in and out with removing the cradle/engine?<BR>#4. Is the earth really round?<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/djkid_sig.gif">   <BR><A HREF="http://www.geocities.com/ray19nc/" TARGET=_blank>'Blue Knight'</A>||||reg||5

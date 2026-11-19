@@ -1,0 +1,5 @@
+A||N||3||jeffozz||Speedometer guage light replacement??||||5||
+Z||000000||jeffozz||07-16-2000||12:26 AM||||I have a light out behind the speedometer guage...  I was wondering if replacement lights are hard to find and what is the process for replacing it??<BR>Any help would be appreciated!<BR>Thanks;o)<BR>Jeff 86GT<p>[This message has been edited by jeffozz (edited 07-16-2000).]||||reg||5
+Z||000001||ggarsk||07-16-2000||02:09 AM||||It's easy to replace the bulbs. You just take the back off the insturment pod. 3 torx on the top,2 in behind in the valley and 2 7mm underneath. They are the back 2. The bulbs are standerd dash bulbs.||||reg||1
+Z||000002||Monkeyman||07-16-2000||09:09 AM||||The bulbs are standard 194s.  Any auto parts store, Wally World, Kmart, etc will have them.  Just don't try to get the colored ones.  They don't emit enough light and won't change the color any way.||||reg||1
+Z||000003||jeffozz||07-16-2000||05:05 PM||||Thanks guys!  Now that was an easy job (for once)...  I Just wasn't sure what I might be getting into.<BR>Thanks Again!<BR>Jeff;o)||||reg||6

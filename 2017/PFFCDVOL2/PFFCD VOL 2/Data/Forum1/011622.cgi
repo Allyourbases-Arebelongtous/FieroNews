@@ -1,0 +1,5 @@
+A||||3||BAM-BAM||What do you all think??????||||12||
+Z||000000||BAM-BAM||11-06-2001||09:35 PM|||| I have an opportunity to buy an 86GT for $500.00. It has a spun bearing and the interior is all warpped. It does have all the options including performance sound, rear window defog PM, PW, PDL, 4spd. I have a spare engine that would work nicely. Just getting some opinions. TIA<P>PEACE, B2 OUT!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||12
+Z||000001||tgowens||11-06-2001||09:37 PM||||If you don't do it I will!!   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR><A HREF="http://www.whgraphics.com" TARGET=_blank>West Highland Graphics & Design</A><BR><A HREF="http://www.cfog-i.org" TARGET=_blank>Classic Fiero Owners Group International</A>||||reg||1
+Z||000002||FieroBUZZ||11-06-2001||09:58 PM||||Go for it, man  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>||||reg||14
+Z||000003||Cheever3000||11-06-2001||10:31 PM||||That's a silly question.   <IMG SRC="http://www.fiero.nl/forum/wink.gif"><BR>Just weigh that against what else you could use the $500 for.  And there's always the option of parting it out.<BR>||||reg||14

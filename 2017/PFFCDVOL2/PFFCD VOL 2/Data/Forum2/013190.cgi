@@ -1,0 +1,5 @@
+A||||3||85fierogt||e-brake cables||||5||
+Z||000000||85fierogt||08-28-2001||12:02 PM||||ok guys my e-brake cable is snapped like that when i bought the car and im gettin readyu to have it insoected for the first time since ive had it and this is the last thing i need to fix sooooo <BR>what do i need for an 85 gt ?  just drivers siede of all 4 cables and connectors???<BR>please help||||reg||5
+Z||000001||2birds||08-28-2001||12:13 PM||||If it's a manual transmission, make sure the rear brake recal has been done before you fork out the cash.  Pontiac replaced my e-brake cables under it (recall # 86-C-16), back in 1995.  Your rear caliper pistons should have a solid face, without the plastic check valves in the face, if it has been done.  You can also try 1-800-PMCARES. ||||reg||1
+Z||000002||85fierogt||08-28-2001||12:16 PM||||yha the recall stuff has been done||||reg||1
+Z||000003||Indiana_resto_guy||08-28-2001||01:56 PM||||Check with Fierodave@webtv.net he has some.<BR>Tell him I sent you.||||reg||1

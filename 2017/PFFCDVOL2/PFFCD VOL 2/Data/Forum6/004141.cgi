@@ -1,0 +1,6 @@
+A||||4||Loki||In need of some pics||||1||
+Z||000000||Loki||11-06-2001||11:26 PM||||Im looking for a decent sized Fiero Logo, like the one in the upper right coroner. The one that says Fiero and has the pegasus.  Pleas eoh please....... And ANY other fiero/pontiac related pics (no cars)<P>THANX<P>------------------<BR>Loki<BR>"All Fieros broke right now" :(||||reg||1
+Z||000001||GarethWright||11-07-2001||01:14 AM|||| <IMG SRC="http://www.fiero.nl/gallery/Mods/Fwp1.JPG"> <BR>I had a 1024x768 copy of this I used for my desktop for a while, Shiny!<p>[This message has been edited by GarethWright (edited 11-07-2001).]||||reg||1
+Z||000002||FieroMaster88||11-07-2001||01:15 AM||||That logo is cool.  Hard to read tho! <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><p>[This message has been edited by FieroMaster88 (edited 11-07-2001).]||||reg||1
+Z||000003||Loki||11-07-2001||10:22 AM||||That is cool, but not exactly what im looking for, guess I should re-phrase.. Simple design like the one uptop...Stright forward and simple  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  That is nice though<P>------------------<BR>Loki<BR>"All Fieros broke right now" :(||||reg||1
+Z||000004||AusFiero||11-07-2001||10:05 PM||||Email me if you want it in PSD format Loki.<BR>I have 1 or 2 of them.<BR>Or 3 or 4.||||reg||1

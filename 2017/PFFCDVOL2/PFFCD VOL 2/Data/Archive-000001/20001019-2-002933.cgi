@@ -1,0 +1,4 @@
+A||||2||2FAST4U||Now it's a no start||||1||
+Z||000000||2FAST4U||03-28-2000||06:18 PM||||The 85 V6 was running fine, Then....Was gonna drive it this weekend but it won't even try to start. It was running fine when I parked it but now it cranks fine it just won't fire.I hate computer cars. Where and how do I start looking for a problem?||||reg||1
+Z||000001||mshill||03-28-2000||08:48 PM||||Ignition module, pickup coil would be my guess.||||reg||1
+Z||000002||BAM-BAM||03-28-2000||09:46 PM||||    2Fast, Check to see that you have spark. If you have spark, check to see that you are getting fuel. It's got to be one of the two. When you narrow that down we can take it fron there. It could be almost anything related to the sum of all ignition requirements; fuel pump, fuel filter ignition module. coil, rotor, wires ect...<BR> Let us know what's up and the "FORUM" will come to your aid.<P>  Be Cool, BAM OUT!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

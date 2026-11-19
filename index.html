@@ -1,0 +1,1164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FieroNews & Pennock's Fiero Forum Archive (2000-2002) - Time Capsule</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            user-select: none;
+            -webkit-user-select: none;
+        }
+        body, html {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            background: #05070a;
+            color: #e2e8f0;
+            font-family: 'Georgia', 'Times New Roman', serif;
+        }
+
+        /* Top HUD Controls */
+        .hud-controls {
+            position: fixed;
+            top: 24px;
+            right: 24px;
+            z-index: 1000;
+            display: flex;
+            gap: 12px;
+            align-items: center;
+        }
+        .hud-btn {
+            background: rgba(15, 23, 42, 0.75);
+            border: 1px solid rgba(148, 163, 184, 0.25);
+            color: #cbd5e1;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            letter-spacing: 0.5px;
+            cursor: pointer;
+            backdrop-filter: blur(8px);
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .hud-btn:hover {
+            background: rgba(30, 41, 59, 0.9);
+            border-color: #38bdf8;
+            color: #38bdf8;
+            box-shadow: 0 0 12px rgba(56, 189, 248, 0.25);
+        }
+
+        /* Cinematic Background Chamber */
+        #stage {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background: #03060a;
+            perspective: 1200px;
+            overflow: hidden;
+        }
+
+        /* Atmospheric Matte Painting Backdrop */
+        .stage-backdrop {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            background: url('assets/intro/scene1_library.jpg') center/cover no-repeat;
+            filter: brightness(0.28) contrast(1.15) blur(3px);
+            transform: scale(1.05);
+            transition: filter 1.5s ease, transform 3s ease, opacity 1.5s ease;
+            z-index: 1;
+        }
+        .stage-backdrop.unsealed {
+            background-image: url('assets/intro/scene3_unsealed.jpg');
+            filter: brightness(0.65) contrast(1.2) blur(1px);
+            transform: scale(1.12);
+        }
+
+        /* Ambient floating dust particles */
+        #ambientDustCanvas {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 2;
+        }
+
+        /* Cinematic Story Projections */
+        .story-caption {
+            position: absolute;
+            top: 50px;
+            text-align: center;
+            z-index: 50;
+            max-width: 650px;
+            padding: 0 20px;
+            pointer-events: none;
+            transition: opacity 1.2s ease, transform 1.2s ease;
+        }
+        .story-caption h2 {
+            font-size: 20px;
+            font-weight: 300;
+            font-style: italic;
+            color: #94a3b8;
+            text-shadow: 0 2px 10px rgba(0,0,0,0.8);
+            letter-spacing: 1px;
+            margin-bottom: 6px;
+        }
+        .story-caption p {
+            font-size: 13px;
+            color: #64748b;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        /* Reading Desk & 3D Book Container */
+        .desk-surface {
+            position: relative;
+            width: 520px;
+            height: 680px;
+            max-width: 90vw;
+            max-height: 80vh;
+            z-index: 10;
+            perspective: 1400px;
+            transition: transform 1.5s cubic-bezier(0.25, 1, 0.5, 1);
+        }
+
+        .book-wrapper {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            transform-style: preserve-3d;
+            box-shadow: 0 35px 60px -15px rgba(0,0,0,0.9), 0 0 40px rgba(0,0,0,0.7);
+            border-radius: 8px 18px 18px 8px;
+            cursor: crosshair;
+        }
+
+        /* Underneath Base Pages */
+        .book-pages-base {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(135deg, #fefae0 0%, #e9d8a6 40%, #d4a373 100%);
+            border-radius: 8px 18px 18px 8px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 40px;
+            text-align: center;
+            box-shadow: inset 20px 0 35px rgba(0,0,0,0.3);
+            border: 1px solid #bc6c25;
+            color: #3d2614;
+        }
+        .book-pages-base h3 {
+            font-size: 26px;
+            color: #603813;
+            margin-bottom: 12px;
+            letter-spacing: 1.5px;
+        }
+        .book-pages-base p {
+            font-size: 14px;
+            color: #855325;
+            line-height: 1.6;
+            max-width: 340px;
+            margin-bottom: 20px;
+        }
+        .radiant-core {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle, rgba(254, 215, 102, 0.9) 0%, rgba(245, 158, 11, 0.4) 40%, transparent 70%);
+            opacity: 0;
+            transition: opacity 1.2s ease;
+            pointer-events: none;
+            mix-blend-mode: screen;
+        }
+
+        /* The Flipping Leather Book Cover */
+        .book-cover {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(135deg, #1f140e 0%, #3a2216 45%, #180f0a 100%);
+            border-radius: 8px 18px 18px 8px;
+            transform-origin: left center;
+            transform-style: preserve-3d;
+            transition: transform 2.2s cubic-bezier(0.25, 1, 0.3, 1), box-shadow 2.2s ease;
+            box-shadow: inset 10px 0 20px rgba(0,0,0,0.8), 5px 0 15px rgba(0,0,0,0.7);
+            border: 2px solid #5a3825;
+            overflow: hidden;
+            z-index: 20;
+        }
+        .book-cover.opened {
+            transform: rotateY(-130deg);
+            box-shadow: 25px 15px 40px rgba(0,0,0,0.6);
+        }
+
+        /* Leather Texture & Ornate Gold Stamp under Dust */
+        .gold-stamp-layer {
+            position: absolute;
+            inset: 0;
+            padding: 35px 25px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+            text-align: center;
+            background: radial-gradient(circle at 50% 40%, rgba(77, 46, 28, 0.3) 0%, rgba(15, 10, 7, 0.9) 100%);
+        }
+        .gold-border {
+            position: absolute;
+            inset: 15px;
+            border: 2px solid #b8860b;
+            border-radius: 4px;
+            box-shadow: inset 0 0 10px rgba(184, 134, 11, 0.3), 0 0 10px rgba(184, 134, 11, 0.2);
+            pointer-events: none;
+        }
+        .gold-corner {
+            position: absolute;
+            width: 24px;
+            height: 24px;
+            border: 3px solid #ffd700;
+        }
+        .gold-corner.tl { top: 20px; left: 20px; border-right: none; border-bottom: none; }
+        .gold-corner.tr { top: 20px; right: 20px; border-left: none; border-bottom: none; }
+        .gold-corner.bl { bottom: 20px; left: 20px; border-right: none; border-top: none; }
+        .gold-corner.br { bottom: 20px; right: 20px; border-left: none; border-top: none; }
+
+        .book-crest {
+            margin-top: 30px;
+            width: 90px;
+            height: 90px;
+            filter: drop-shadow(0 0 8px rgba(255, 215, 0, 0.6));
+        }
+        .title-block {
+            margin: auto 0;
+        }
+        .gold-title {
+            font-size: 38px;
+            font-weight: 900;
+            letter-spacing: 5px;
+            color: #ffdf79;
+            text-shadow: 0 2px 4px #000, 0 0 20px rgba(255, 215, 0, 0.4);
+            margin-bottom: 8px;
+            text-transform: uppercase;
+        }
+        .gold-subtitle {
+            font-size: 15px;
+            letter-spacing: 2px;
+            color: #d4af37;
+            text-shadow: 0 1px 2px #000;
+            margin-bottom: 12px;
+            font-weight: 600;
+        }
+        .gold-tagline {
+            font-size: 12px;
+            color: #bfa15f;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            border-top: 1px solid rgba(212, 175, 55, 0.4);
+            border-bottom: 1px solid rgba(212, 175, 55, 0.4);
+            padding: 6px 0;
+            margin-top: 10px;
+        }
+        .gold-date {
+            font-size: 14px;
+            color: #e5c158;
+            letter-spacing: 4px;
+            margin-bottom: 25px;
+        }
+
+        /* Dust Canvas Overlay (Scratched/Brushed Off by User) */
+        #dustCanvas {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 30;
+            cursor: pointer;
+        }
+
+        /* Interaction Prompts */
+        .brush-prompt {
+            position: absolute;
+            bottom: 25px;
+            z-index: 40;
+            text-align: center;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            font-size: 13px;
+            color: #94a3b8;
+            letter-spacing: 1px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            pointer-events: auto;
+        }
+        .prompt-pill {
+            background: rgba(15, 23, 42, 0.85);
+            border: 1px solid #38bdf8;
+            color: #38bdf8;
+            padding: 6px 14px;
+            border-radius: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            box-shadow: 0 0 15px rgba(56, 189, 248, 0.2);
+            transition: all 0.2s ease;
+        }
+        .prompt-pill:hover {
+            background: #0284c7;
+            color: #fff;
+            transform: scale(1.04);
+        }
+
+        /* Custom Archivist Brush Cursor Tooltip */
+        .brush-cursor {
+            position: fixed;
+            pointer-events: none;
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            border: 2px dashed rgba(56, 189, 248, 0.8);
+            transform: translate(-50%, -50%);
+            z-index: 1000;
+            display: none;
+            box-shadow: 0 0 12px rgba(56, 189, 248, 0.4);
+            animation: rotateCursor 10s linear infinite;
+        }
+        @keyframes rotateCursor {
+            from { transform: translate(-50%, -50%) rotate(0deg); }
+            to { transform: translate(-50%, -50%) rotate(360deg); }
+        }
+
+        /* Time Travel Dream Sequence Overlay */
+        #timeWarpOverlay {
+            position: fixed;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            background: #000;
+            opacity: 0;
+            pointer-events: none;
+            z-index: 2000;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            transition: opacity 1.5s ease;
+        }
+        #warpCanvas {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+        }
+        .warp-hud {
+            position: relative;
+            z-index: 2010;
+            text-align: center;
+        }
+        .year-counter {
+            font-size: 84px;
+            font-weight: 900;
+            font-family: 'Courier New', Courier, monospace;
+            color: #38bdf8;
+            text-shadow: 0 0 25px rgba(56, 189, 248, 0.8), 0 0 60px rgba(56, 189, 248, 0.4);
+            letter-spacing: 12px;
+            margin-bottom: 12px;
+        }
+        .warp-status {
+            font-size: 16px;
+            color: #94a3b8;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            letter-spacing: 4px;
+            text-transform: uppercase;
+        }
+
+        /* Dissolve & Final Fade Transition */
+        #fadeScreen {
+            position: fixed;
+            inset: 0;
+            background: #000;
+            z-index: 3000;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 1.5s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        #fadeScreen.active {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        /* Cinematic Concept Gallery Modal */
+        #galleryModal {
+            position: fixed;
+            inset: 0;
+            background: rgba(3, 6, 10, 0.94);
+            backdrop-filter: blur(12px);
+            z-index: 4000;
+            display: none;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 30px;
+        }
+        .modal-box {
+            max-width: 950px;
+            width: 100%;
+            background: #0f172a;
+            border: 1px solid #334155;
+            border-radius: 12px;
+            box-shadow: 0 25px 60px rgba(0,0,0,0.8);
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+        .modal-header {
+            padding: 16px 24px;
+            background: #1e293b;
+            border-bottom: 1px solid #334155;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .modal-title {
+            font-size: 17px;
+            font-weight: 600;
+            color: #38bdf8;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            letter-spacing: 0.5px;
+        }
+        .modal-close {
+            background: none;
+            border: none;
+            color: #94a3b8;
+            font-size: 24px;
+            cursor: pointer;
+            line-height: 1;
+        }
+        .modal-close:hover { color: #fff; }
+        .modal-body {
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            align-items: center;
+        }
+        .gallery-main-img {
+            width: 100%;
+            max-height: 480px;
+            object-fit: cover;
+            border-radius: 8px;
+            border: 1px solid #334155;
+            box-shadow: 0 8px 30px rgba(0,0,0,0.6);
+        }
+        .gallery-caption {
+            font-size: 14px;
+            color: #cbd5e1;
+            text-align: center;
+            font-style: italic;
+            max-width: 700px;
+            line-height: 1.5;
+        }
+        .gallery-thumbs {
+            display: flex;
+            gap: 12px;
+            justify-content: center;
+        }
+        .gallery-thumb {
+            width: 110px;
+            height: 65px;
+            object-fit: cover;
+            border-radius: 6px;
+            cursor: pointer;
+            border: 2px solid transparent;
+            opacity: 0.6;
+            transition: all 0.2s ease;
+        }
+        .gallery-thumb:hover { opacity: 1; transform: scale(1.05); }
+        .gallery-thumb.active { border-color: #38bdf8; opacity: 1; }
+    </style>
+</head>
+<body>
+
+    <!-- Concept Gallery Modal -->
+    <div id="galleryModal">
+        <div class="modal-box">
+            <div class="modal-header">
+                <div class="modal-title" id="galleryTitle">Scene 1: The Archive Chamber</div>
+                <button class="modal-close" onclick="closeGalleryModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <img id="galleryMainImg" src="assets/intro/scene1_library.jpg" class="gallery-main-img" alt="Concept Scene">
+                <div id="galleryCaptionText" class="gallery-caption">The futuristic archivist retrieves the massive, dust-encrusted reference tome from the towering mahogany bookcase inside the digital vault.</div>
+                <div class="gallery-thumbs">
+                    <img src="assets/intro/scene1_library.jpg" class="gallery-thumb active" onclick="showGalleryItem(0)" alt="Scene 1">
+                    <img src="assets/intro/scene2_brushing.jpg" class="gallery-thumb" onclick="showGalleryItem(1)" alt="Scene 2">
+                    <img src="assets/intro/scene3_unsealed.jpg" class="gallery-thumb" onclick="showGalleryItem(2)" alt="Scene 3">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- HUD Controls -->
+    <div class="hud-controls">
+        <button id="galleryBtn" class="hud-btn" onclick="openGalleryModal()">
+            <span>🖼️ Concept Stills</span>
+        </button>
+        <button id="soundBtn" class="hud-btn" onclick="toggleAudio()">
+            <span id="soundIcon">🔊</span> <span id="soundText">Sound: On</span>
+        </button>
+        <button id="skipBtn" class="hud-btn" onclick="skipToSite()">
+            <span>Skip Intro → Enter Archive</span>
+        </button>
+    </div>
+
+    <!-- Brush Cursor -->
+    <div id="brushCursor" class="brush-cursor"></div>
+
+    <!-- Main 3D Stage -->
+    <div id="stage">
+        <!-- Atmospheric Matte Painting Backdrop -->
+        <div class="stage-backdrop" id="stageBackdrop"></div>
+
+        <!-- Floating Dust Particle Canvas -->
+        <canvas id="ambientDustCanvas"></canvas>
+
+        <!-- Storyline Caption -->
+        <div class="story-caption" id="storyCaption">
+            <h2 id="captionText">“Deep within the digital vault, decades of dust obscure the sacred tome...”</h2>
+            <p id="captionSub">Use your brush to gently remove the layers of dust</p>
+        </div>
+
+        <!-- The Book on the Desk -->
+        <div class="desk-surface" id="deskSurface">
+            <div class="book-wrapper" id="bookWrapper">
+                
+                <!-- Underneath Open Pages -->
+                <div class="book-pages-base">
+                    <div class="radiant-core" id="radiantCore"></div>
+                    <h3>THE ARCHIVE UNSEALED</h3>
+                    <p>Pennock's Fiero Forum discussions, technical engine swaps, Archie V8 build logs, and member archives.</p>
+                    <div style="font-size: 32px; filter: drop-shadow(0 0 10px #f59e0b);">⏳</div>
+                </div>
+
+                <!-- The Leather Bound Cover (Flips Open) -->
+                <div class="book-cover" id="bookCover">
+                    <div class="gold-stamp-layer">
+                        <div class="gold-border"></div>
+                        <div class="gold-corner tl"></div>
+                        <div class="gold-corner tr"></div>
+                        <div class="gold-corner bl"></div>
+                        <div class="gold-corner br"></div>
+
+                        <!-- Pontiac Fiero Pegasus Crest Logo -->
+                        <svg class="book-crest" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M50 5 L88 22 L88 65 L50 95 L12 65 L12 22 Z" stroke="#ffd700" stroke-width="2.5" fill="rgba(25, 15, 8, 0.7)"/>
+                            <path d="M50 12 L80 26 L80 62 L50 87 L20 62 L20 26 Z" stroke="#b8860b" stroke-width="1.2"/>
+                            <!-- Stylized Pegasus Wing -->
+                            <path d="M30 48 Q45 28 68 32 Q58 46 48 55 Q62 48 72 52 Q58 64 42 68 Q52 64 60 67 Q42 75 35 62 Z" fill="#ffd700"/>
+                        </svg>
+
+                        <!-- Embossed Metallic Title -->
+                        <div class="title-block">
+                            <div class="gold-title">FIERONEWS</div>
+                            <div class="gold-subtitle">PENNOCK'S FIERO FORUM ARCHIVE</div>
+                            <div class="gold-tagline">Historic Technical & Community Tome</div>
+                        </div>
+
+                        <div class="gold-date">2000 — 2002</div>
+                    </div>
+
+                    <!-- Canvas with thick gray dust layer to be wiped off -->
+                    <canvas id="dustCanvas"></canvas>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Prompt Bar -->
+        <div class="brush-prompt" id="brushPrompt">
+            <span>Dust cleared: <strong id="dustPercent">0%</strong></span>
+            <button class="prompt-pill" onclick="autoBrushCinematic()">✨ Auto-Clear Dust</button>
+        </div>
+    </div>
+
+    <!-- Time Warp Dream Sequence Overlay -->
+    <div id="timeWarpOverlay">
+        <canvas id="warpCanvas"></canvas>
+        <div class="warp-hud">
+            <div class="year-counter" id="yearCounter">2026</div>
+            <div class="warp-status" id="warpStatus">Initiating Temporal Recall...</div>
+        </div>
+    </div>
+
+    <!-- Final Dissolve to Black -->
+    <div id="fadeScreen"></div>
+
+    <script>
+        /* ==========================================================
+           AUDIO SYNTHESIZER (Web Audio API - 0 External Dependencies)
+           ========================================================== */
+        let audioCtx = null;
+        let isAudioEnabled = true;
+
+        function initAudio() {
+            if (!audioCtx) {
+                const AudioContext = window.AudioContext || window.webkitAudioContext;
+                audioCtx = new AudioContext();
+            }
+            if (audioCtx.state === 'suspended') {
+                audioCtx.resume();
+            }
+        }
+
+        function playBrushSound() {
+            if (!isAudioEnabled || !audioCtx) return;
+            try {
+                // Soft sweeping noise
+                const bufferSize = audioCtx.sampleRate * 0.08;
+                const buffer = audioCtx.createBuffer(1, bufferSize, audioCtx.sampleRate);
+                const data = buffer.getChannelData(0);
+                for (let i = 0; i < bufferSize; i++) {
+                    data[i] = (Math.random() * 2 - 1) * Math.exp(-i / (bufferSize * 0.4));
+                }
+                const noise = audioCtx.createBufferSource();
+                noise.buffer = buffer;
+
+                const filter = audioCtx.createBiquadFilter();
+                filter.type = "bandpass";
+                filter.frequency.value = 800 + Math.random() * 400;
+                filter.Q.value = 1.2;
+
+                const gain = audioCtx.createGain();
+                gain.gain.setValueAtTime(0.04, audioCtx.currentTime);
+                gain.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + 0.08);
+
+                noise.connect(filter);
+                filter.connect(gain);
+                gain.connect(audioCtx.destination);
+                noise.start();
+            } catch(e) {}
+        }
+
+        function playBookOpenChime() {
+            if (!isAudioEnabled || !audioCtx) return;
+            try {
+                const now = audioCtx.currentTime;
+                // Deep resonant creak
+                const oscLow = audioCtx.createOscillator();
+                const gainLow = audioCtx.createGain();
+                oscLow.type = 'sawtooth';
+                oscLow.frequency.setValueAtTime(90, now);
+                oscLow.frequency.exponentialRampToValueAtTime(45, now + 1.2);
+                gainLow.gain.setValueAtTime(0.08, now);
+                gainLow.gain.exponentialRampToValueAtTime(0.001, now + 1.2);
+                oscLow.connect(gainLow);
+                gainLow.connect(audioCtx.destination);
+                oscLow.start();
+                oscLow.stop(now + 1.2);
+
+                // Heavenly resonant chime
+                [440, 554.37, 659.25, 880].forEach((freq, idx) => {
+                    const osc = audioCtx.createOscillator();
+                    const gain = audioCtx.createGain();
+                    osc.type = 'sine';
+                    osc.frequency.setValueAtTime(freq, now + idx * 0.1);
+                    gain.gain.setValueAtTime(0.06, now + idx * 0.1);
+                    gain.gain.exponentialRampToValueAtTime(0.0001, now + idx * 0.1 + 2.5);
+                    osc.connect(gain);
+                    gain.connect(audioCtx.destination);
+                    osc.start(now + idx * 0.1);
+                    osc.stop(now + idx * 0.1 + 2.6);
+                });
+            } catch(e) {}
+        }
+
+        function playWarpSound() {
+            if (!isAudioEnabled || !audioCtx) return;
+            try {
+                const now = audioCtx.currentTime;
+                const osc = audioCtx.createOscillator();
+                const gain = audioCtx.createGain();
+                osc.type = 'sawtooth';
+                osc.frequency.setValueAtTime(110, now);
+                osc.frequency.exponentialRampToValueAtTime(880, now + 3.0);
+
+                const filter = audioCtx.createBiquadFilter();
+                filter.type = 'lowpass';
+                filter.frequency.setValueAtTime(400, now);
+                filter.frequency.exponentialRampToValueAtTime(4000, now + 3.0);
+
+                gain.gain.setValueAtTime(0.01, now);
+                gain.gain.linearRampToValueAtTime(0.12, now + 2.5);
+                gain.gain.exponentialRampToValueAtTime(0.001, now + 3.4);
+
+                osc.connect(filter);
+                filter.connect(gain);
+                gain.connect(audioCtx.destination);
+                osc.start();
+                osc.stop(now + 3.5);
+            } catch(e) {}
+        }
+
+        function toggleAudio() {
+            initAudio();
+            isAudioEnabled = !isAudioEnabled;
+            document.getElementById("soundIcon").innerText = isAudioEnabled ? "🔊" : "🔇";
+            document.getElementById("soundText").innerText = isAudioEnabled ? "Sound: On" : "Sound: Off";
+        }
+
+        /* ==========================================================
+           DUST CANVAS SIMULATION
+           ========================================================== */
+        const dustCanvas = document.getElementById("dustCanvas");
+        const dustCtx = dustCanvas.getContext("2d");
+        let dustClearedPixels = 0;
+        let totalDustPixels = 0;
+        let isBookOpened = false;
+        let isAutoBrushing = false;
+
+        function resizeDustCanvas() {
+            const rect = dustCanvas.getBoundingClientRect();
+            dustCanvas.width = rect.width;
+            dustCanvas.height = rect.height;
+            paintDustLayer();
+        }
+
+        function paintDustLayer() {
+            const w = dustCanvas.width;
+            const h = dustCanvas.height;
+            totalDustPixels = w * h;
+
+            // Base gray aged dust
+            const grad = dustCtx.createLinearGradient(0, 0, w, h);
+            grad.addColorStop(0, '#535860');
+            grad.addColorStop(0.5, '#42464c');
+            grad.addColorStop(1, '#34383e');
+            dustCtx.fillStyle = grad;
+            dustCtx.fillRect(0, 0, w, h);
+
+            // Add grain, fibers, and cobwebs
+            const imgData = dustCtx.getImageData(0, 0, w, h);
+            const data = imgData.data;
+            for (let i = 0; i < data.length; i += 4) {
+                const noise = (Math.random() - 0.5) * 45;
+                data[i] = Math.min(255, Math.max(0, data[i] + noise));
+                data[i+1] = Math.min(255, Math.max(0, data[i+1] + noise));
+                data[i+2] = Math.min(255, Math.max(0, data[i+2] + noise));
+                data[i+3] = 250; // High opacity dust
+            }
+            dustCtx.putImageData(imgData, 0, 0);
+
+            // Faint cobweb scratches
+            dustCtx.strokeStyle = "rgba(220, 220, 220, 0.12)";
+            dustCtx.lineWidth = 1;
+            for (let i = 0; i < 20; i++) {
+                dustCtx.beginPath();
+                dustCtx.moveTo(Math.random() * w, Math.random() * h);
+                dustCtx.bezierCurveTo(Math.random() * w, Math.random() * h, Math.random() * w, Math.random() * h, Math.random() * w, Math.random() * h);
+                dustCtx.stroke();
+            }
+        }
+
+        // Wipe dust with soft brush circle
+        function wipeDust(x, y, radius = 38) {
+            if (isBookOpened) return;
+            initAudio();
+            playBrushSound();
+
+            dustCtx.save();
+            dustCtx.globalCompositeOperation = 'destination-out';
+            const radialGrad = dustCtx.createRadialGradient(x, y, radius * 0.2, x, y, radius);
+            radialGrad.addColorStop(0, 'rgba(0,0,0,1)');
+            radialGrad.addColorStop(0.7, 'rgba(0,0,0,0.85)');
+            radialGrad.addColorStop(1, 'rgba(0,0,0,0)');
+            dustCtx.fillStyle = radialGrad;
+            dustCtx.beginPath();
+            dustCtx.arc(x, y, radius, 0, Math.PI * 2);
+            dustCtx.fill();
+            dustCtx.restore();
+
+            // Spawn floating dust particles
+            spawnFloatingDust(x, y);
+
+            checkDustProgress();
+        }
+
+        let lastCheckTime = 0;
+        function checkDustProgress() {
+            const now = Date.now();
+            if (now - lastCheckTime < 250) return;
+            lastCheckTime = now;
+
+            const w = dustCanvas.width;
+            const h = dustCanvas.height;
+            // Sample a 40x40 grid to calculate percentage fast
+            const sampleW = 40;
+            const sampleH = 40;
+            const imgData = dustCtx.getImageData(0, 0, w, h);
+            const data = imgData.data;
+            let clearedCount = 0;
+            let totalSampled = 0;
+
+            const stepX = Math.floor(w / sampleW);
+            const stepY = Math.floor(h / sampleH);
+
+            for (let y = 0; y < h; y += stepY) {
+                for (let x = 0; x < w; x += stepX) {
+                    const idx = (y * w + x) * 4 + 3;
+                    if (data[idx] < 80) clearedCount++;
+                    totalSampled++;
+                }
+            }
+
+            const percent = Math.min(100, Math.round((clearedCount / totalSampled) * 100));
+            document.getElementById("dustPercent").innerText = percent + "%";
+
+            if (percent >= 30 && percent < 65) {
+                document.getElementById("captionText").innerText = "“The gold foil gleams through the decades of dust...”";
+            } else if (percent >= 65 && !isBookOpened) {
+                triggerBookOpening();
+            }
+        }
+
+        /* ==========================================================
+           INTERACTIVE BRUSH LISTENERS
+           ========================================================== */
+        let isMouseDown = false;
+        const brushCursor = document.getElementById("brushCursor");
+
+        window.addEventListener("mousemove", (e) => {
+            brushCursor.style.left = e.clientX + "px";
+            brushCursor.style.top = e.clientY + "px";
+            brushCursor.style.display = "block";
+
+            if (isMouseDown) {
+                const rect = dustCanvas.getBoundingClientRect();
+                if (e.clientX >= rect.left && e.clientX <= rect.right &&
+                    e.clientY >= rect.top && e.clientY <= rect.bottom) {
+                    wipeDust(e.clientX - rect.left, e.clientY - rect.top);
+                }
+            }
+        });
+
+        window.addEventListener("mousedown", (e) => {
+            isMouseDown = true;
+            const rect = dustCanvas.getBoundingClientRect();
+            if (e.clientX >= rect.left && e.clientX <= rect.right &&
+                e.clientY >= rect.top && e.clientY <= rect.bottom) {
+                wipeDust(e.clientX - rect.left, e.clientY - rect.top);
+            }
+        });
+        window.addEventListener("mouseup", () => isMouseDown = false);
+
+        // Mobile touch support
+        dustCanvas.addEventListener("touchmove", (e) => {
+            e.preventDefault();
+            const touch = e.touches[0];
+            const rect = dustCanvas.getBoundingClientRect();
+            wipeDust(touch.clientX - rect.left, touch.clientY - rect.top, 45);
+        }, { passive: false });
+
+        /* ==========================================================
+           AUTO CLEAR CINEMATIC BRUSHING
+           ========================================================== */
+        function autoBrushCinematic() {
+            if (isAutoBrushing || isBookOpened) return;
+            isAutoBrushing = true;
+            initAudio();
+
+            document.getElementById("captionText").innerText = "“Gently brushing away the digital dust of time...”";
+
+            const w = dustCanvas.width;
+            const h = dustCanvas.height;
+            const totalSteps = 80;
+            let step = 0;
+
+            const interval = setInterval(() => {
+                const progress = step / totalSteps;
+                // S-curve brush pattern across the book
+                const y = 50 + progress * (h - 100);
+                const x = (w / 2) + Math.sin(progress * Math.PI * 6) * (w * 0.38);
+
+                wipeDust(x, y, 55);
+                step++;
+
+                if (step >= totalSteps || isBookOpened) {
+                    clearInterval(interval);
+                    if (!isBookOpened) triggerBookOpening();
+                }
+            }, 35);
+        }
+
+        /* ==========================================================
+           MAGICAL BOOK OPENING & DISSOLVE
+           ========================================================== */
+        function triggerBookOpening() {
+            if (isBookOpened) return;
+            isBookOpened = true;
+
+            document.getElementById("captionText").innerText = "“The historic archive stirs into life...”";
+            document.getElementById("captionSub").innerText = "Unsealing Pennock's Fiero Forum records";
+            document.getElementById("brushPrompt").style.display = "none";
+
+            // Open book cover in 3D
+            const bookCover = document.getElementById("bookCover");
+            const radiantCore = document.getElementById("radiantCore");
+            const backdrop = document.getElementById("stageBackdrop");
+            
+            setTimeout(() => {
+                bookCover.classList.add("opened");
+                radiantCore.style.opacity = "1";
+                if (backdrop) backdrop.classList.add("unsealed");
+                playBookOpenChime();
+            }, 300);
+
+            // Zoom in stage and transition to time warp
+            setTimeout(() => {
+                document.getElementById("deskSurface").style.transform = "scale(1.8) translateZ(100px)";
+            }, 1200);
+
+            setTimeout(() => {
+                startTimeWarpSequence();
+            }, 2400);
+        }
+
+        /* ==========================================================
+           TIME WARP CANVAS ANIMATION
+           ========================================================== */
+        const warpOverlay = document.getElementById("timeWarpOverlay");
+        const warpCanvas = document.getElementById("warpCanvas");
+        const warpCtx = warpCanvas.getContext("2d");
+        let warpAnimationId = null;
+
+        function startTimeWarpSequence() {
+            warpOverlay.style.opacity = "1";
+            warpCanvas.width = window.innerWidth;
+            warpCanvas.height = window.innerHeight;
+
+            playWarpSound();
+
+            // Starfield / Time Tunnel Streaks
+            const numStars = 280;
+            const stars = [];
+            for (let i = 0; i < numStars; i++) {
+                stars.push({
+                    x: (Math.random() - 0.5) * warpCanvas.width * 2,
+                    y: (Math.random() - 0.5) * warpCanvas.height * 2,
+                    z: Math.random() * warpCanvas.width,
+                    color: ['#38bdf8', '#fbbf24', '#ffffff', '#818cf8'][Math.floor(Math.random() * 4)]
+                });
+            }
+
+            let speed = 4;
+            const startTime = Date.now();
+
+            function renderWarp() {
+                warpCtx.fillStyle = "rgba(0, 0, 0, 0.28)";
+                warpCtx.fillRect(0, 0, warpCanvas.width, warpCanvas.height);
+
+                speed = Math.min(65, speed * 1.05);
+
+                const cx = warpCanvas.width / 2;
+                const cy = warpCanvas.height / 2;
+
+                for (let i = 0; i < stars.length; i++) {
+                    const s = stars[i];
+                    s.z -= speed;
+                    if (s.z <= 0) {
+                        s.z = warpCanvas.width;
+                        s.x = (Math.random() - 0.5) * warpCanvas.width * 2;
+                        s.y = (Math.random() - 0.5) * warpCanvas.height * 2;
+                    }
+
+                    const k = 250 / s.z;
+                    const px = s.x * k + cx;
+                    const py = s.y * k + cy;
+
+                    if (px >= 0 && px <= warpCanvas.width && py >= 0 && py <= warpCanvas.height) {
+                        const size = (1 - s.z / warpCanvas.width) * 4;
+                        warpCtx.fillStyle = s.color;
+                        warpCtx.beginPath();
+                        warpCtx.arc(px, py, size, 0, Math.PI * 2);
+                        warpCtx.fill();
+                    }
+                }
+
+                warpAnimationId = requestAnimationFrame(renderWarp);
+            }
+            renderWarp();
+
+            // Countdown Years: 2026 -> 2001
+            const yearCounter = document.getElementById("yearCounter");
+            const warpStatus = document.getElementById("warpStatus");
+            const years = [2026, 2024, 2021, 2017, 2014, 2010, 2007, 2004, 2002, 2001];
+            let yearIdx = 0;
+
+            const yearInterval = setInterval(() => {
+                yearIdx++;
+                if (yearIdx < years.length) {
+                    yearCounter.innerText = years[yearIdx];
+                    if (years[yearIdx] === 2001) {
+                        warpStatus.innerText = "Temporal Alignment Confirmed: Year 2001";
+                    }
+                } else {
+                    clearInterval(yearInterval);
+                    concludeIntroAndEnter();
+                }
+            }, 260);
+        }
+
+        /* ==========================================================
+           CONCLUDE INTRO & DISSOLVE INTO HISTORIC SITE
+           ========================================================== */
+        function concludeIntroAndEnter() {
+            const fade = document.getElementById("fadeScreen");
+            fade.classList.add("active");
+
+            // Remember that user has seen intro
+            localStorage.setItem("fieronews_seen_intro", "true");
+
+            setTimeout(() => {
+                window.location.replace("fusion/news.php.html");
+            }, 1400);
+        }
+
+        function skipToSite() {
+            initAudio();
+            const fade = document.getElementById("fadeScreen");
+            fade.classList.add("active");
+            localStorage.setItem("fieronews_seen_intro", "true");
+            setTimeout(() => {
+                window.location.replace("fusion/news.php.html");
+            }, 400);
+        }
+
+        /* ==========================================================
+           AMBIENT FLOATING DUST PARTICLES (Background Chamber)
+           ========================================================== */
+        const ambCanvas = document.getElementById("ambientDustCanvas");
+        const ambCtx = ambCanvas.getContext("2d");
+        const ambParticles = [];
+
+        function resizeAmbientCanvas() {
+            ambCanvas.width = window.innerWidth;
+            ambCanvas.height = window.innerHeight;
+        }
+
+        function initAmbientDust() {
+            resizeAmbientCanvas();
+            for (let i = 0; i < 45; i++) {
+                ambParticles.push({
+                    x: Math.random() * ambCanvas.width,
+                    y: Math.random() * ambCanvas.height,
+                    radius: Math.random() * 1.8 + 0.4,
+                    alpha: Math.random() * 0.4 + 0.1,
+                    vx: (Math.random() - 0.5) * 0.3,
+                    vy: Math.random() * 0.4 + 0.1
+                });
+            }
+            animateAmbientDust();
+        }
+
+        function animateAmbientDust() {
+            ambCtx.clearRect(0, 0, ambCanvas.width, ambCanvas.height);
+            for (let i = 0; i < ambParticles.length; i++) {
+                const p = ambParticles[i];
+                p.x += p.vx;
+                p.y += p.vy;
+                if (p.y > ambCanvas.height) p.y = 0;
+                if (p.x < 0) p.x = ambCanvas.width;
+                if (p.x > ambCanvas.width) p.x = 0;
+
+                ambCtx.fillStyle = `rgba(226, 232, 240, ${p.alpha})`;
+                ambCtx.beginPath();
+                ambCtx.arc(p.x, p.y, p.radius, 0, Math.PI * 2);
+                ambCtx.fill();
+            }
+            requestAnimationFrame(animateAmbientDust);
+        }
+
+        function spawnFloatingDust(cx, cy) {
+            const rect = dustCanvas.getBoundingClientRect();
+            for (let i = 0; i < 4; i++) {
+                ambParticles.push({
+                    x: rect.left + cx + (Math.random() - 0.5) * 20,
+                    y: rect.top + cy + (Math.random() - 0.5) * 20,
+                    radius: Math.random() * 2 + 0.8,
+                    alpha: 0.6,
+                    vx: (Math.random() - 0.5) * 1.2,
+                    vy: -Math.random() * 1.5 - 0.5
+                });
+            }
+        }
+
+        /* ==========================================================
+           CONCEPT GALLERY MODAL CONTROLS
+           ========================================================== */
+        const galleryItems = [
+            {
+                title: "Scene 1: The Archive Chamber",
+                src: "assets/intro/scene1_library.jpg",
+                caption: "The futuristic archivist retrieves the massive, dust-encrusted reference tome from the towering mahogany bookcase inside the digital vault."
+            },
+            {
+                title: "Scene 2: Gentle Brushing of the Lost Tome",
+                src: "assets/intro/scene2_brushing.jpg",
+                caption: "A vintage horsehair brush sweeps through decades of dust, revealing the gleaming gold-foil FIERONEWS title and Pegasus crest beneath warm desk lamp light."
+            },
+            {
+                title: "Scene 3: The Magical Unsealing",
+                src: "assets/intro/scene3_unsealed.jpg",
+                caption: "The ancient leather tome creaks open, pouring golden light beams and glowing temporal particles upward as the journey back to 2001 begins."
+            }
+        ];
+
+        function openGalleryModal() {
+            initAudio();
+            document.getElementById("galleryModal").style.display = "flex";
+            showGalleryItem(0);
+        }
+
+        function closeGalleryModal() {
+            document.getElementById("galleryModal").style.display = "none";
+        }
+
+        function showGalleryItem(idx) {
+            const item = galleryItems[idx];
+            document.getElementById("galleryTitle").innerText = item.title;
+            document.getElementById("galleryMainImg").src = item.src;
+            document.getElementById("galleryCaptionText").innerText = item.caption;
+
+            const thumbs = document.querySelectorAll(".gallery-thumb");
+            thumbs.forEach((th, i) => {
+                if (i === idx) th.classList.add("active");
+                else th.classList.remove("active");
+            });
+        }
+
+        // Window resize handlers
+        window.addEventListener("resize", () => {
+            resizeAmbientCanvas();
+        });
+
+        // Initialize on load
+        window.addEventListener("DOMContentLoaded", () => {
+            resizeDustCanvas();
+            initAmbientDust();
+        });
+    </script>
+</body>
+</html>

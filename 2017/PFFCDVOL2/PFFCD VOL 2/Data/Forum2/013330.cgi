@@ -1,0 +1,2 @@
+A||||0||Philphine||actron ign. module & engine sensor tester||||1||
+Z||000000||Philphine||09-01-2001||04:30 PM||||<BR>anybody got one of these? seem like a good thing to have? i picked one up at a flea market today. looks compleat (has manual and all pieces that the manual says are included) and passes the battery check when i got one for it. guess i'll be trying it out soon. give me any reviews you might have. thanks.  ||||reg||1

@@ -1,0 +1,5 @@
+A||||3||Steven||bell housing bolts||||5||
+Z||000000||Steven||06-11-2001||01:11 PM||||Well last night I bolted the trans to the engine, but ran into a small snag. It uses both studs and bolts, and I can't remember which holes had studs, and which ones had bolts. TIA.<P>------------------<BR> 85 Fiero GT<BR> 3.2 Liter Under Construction||||reg||5
+Z||000001||Steven||06-11-2001||02:44 PM||||Bump||||reg||1
+Z||000002||PBJ||06-11-2001||06:25 PM||||I don't see any info or pictures.  My advise is this.  Take a look at your brackets and engine ground.  Sorry.  Likely some of the studs aren't req.  Trial and error I guess.||||reg||1
+Z||000003||Steven||06-11-2001||06:28 PM||||Sorry. <BR>Info: 1985 GT w/2.8 v-6 bored and stroked to 3.2 liters. Manual 4sp trans. Pictures will be posted later. Bolts and studs in question are the ones used to bolt the engine to the trans bell housing.<P>------------------<BR> 85 Fiero GT<BR> 3.2 Liter Under Construction<p>[This message has been edited by Steven (edited 06-11-2001).]||||reg||1

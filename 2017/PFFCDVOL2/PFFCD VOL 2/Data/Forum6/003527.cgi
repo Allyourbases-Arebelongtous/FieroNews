@@ -1,0 +1,5 @@
+A||||3||rogergarrison||TV Heads up||||1||
+Z||000000||rogergarrison||09-22-2001||12:55 PM||||I see that the original "Gone in 60 Seconds" is on Speedvision tonite at 8pm EDT and rerun at 11pm EDT.<P>also tommorrow is a 3 hour special "ManShow" wooooooooohooooooooooo!!!! 8 pm EDT||||reg||1
+Z||000001||beer_stud_21||09-22-2001||04:16 PM||||Man Show rocks!!!  Dance juggies dance!   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>-Marlin||||reg||1
+Z||000002||DaRkLoRD||09-22-2001||07:09 PM||||already got my tape in for gone in 60...<P>can't wait to see how it compares to the new one.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>    <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>    <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||1
+Z||000003||DaRkLoRD||09-23-2001||01:28 AM||||I think I blinked and missed the plot....  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>    <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>    <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||12

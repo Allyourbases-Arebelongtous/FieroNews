@@ -1,0 +1,3 @@
+A||N||1||kornholio||speedometer bulb||||1
+Z||000000||kornholio||11-12-1999||07:02 PM||||How many bulbs light up the speedometer (86 SE)?  The right side seems a bit brighter than the left side.||||reg||1
+Z||000001||batboy||11-12-1999||11:42 PM||||In the back of the instrument cluster is a whole bunch of twist in bulbs. Most are for all the warning lights and turn signals indicators, however, basically just two bulbs illuminate the speedo. It's possible one of those bulbs burned out.<P>What's weird is that the bulbs are clear, the red tint is due to the inside of the instrument cluster is painted a bright orange-red color and because the bulbs are backlighting the gauges and reflecting off this paint.||||reg||1

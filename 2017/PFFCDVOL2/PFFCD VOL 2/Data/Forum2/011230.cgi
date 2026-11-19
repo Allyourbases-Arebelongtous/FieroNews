@@ -1,0 +1,6 @@
+A||N||4||3fifty||Dash Light Galore||||14||
+Z||000000||3fifty||06-13-2001||04:40 PM||||I just installed my 4cp dash light bulbs from Rodney Dickman. It is as bright as anyone could ask for.You can always turn them down if you like. How can I check all of my idiot lights ect. before I put the dash back together? When I turn on the park and headlights besides the bulbs I just put in all I get is the battery and check engine light. I have manually clicked the signals and bright/dim light and those are fine. Thx||||reg||14
+Z||000001||fropuff||06-13-2001||04:54 PM||||Well, I guess one easy way is to turn the ignition to the "ON" position, leave the door open, pull up the e-brake, turn on the high beams, put the hazards on.  I think the oil light and the other warning lights come on when the ignition is "ON".||||reg||1
+Z||000002||Carrolles||06-14-2001||08:00 AM||||What is a 4cp bulb?  Is it the same as the 194 bulb only brighter?<P>Is it only available through Rodney?||||reg||1
+Z||000003||Carrolles||06-14-2001||04:55 PM||||bump<BR>||||reg||1
+Z||000004||3fifty||06-14-2001||04:57 PM||||Yes the 4cp is the same shape,size, ect. bulb<BR>as the 194 just brighter. Rodney is the only place I have seen them.||||reg||1

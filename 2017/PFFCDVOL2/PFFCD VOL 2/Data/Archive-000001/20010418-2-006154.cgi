@@ -1,0 +1,3 @@
+A||N||1||Conrad Sanville||Clutch release lever||||1||
+Z||000000||Conrad Sanville||10-10-2000||04:05 PM||||<BR>I was going to replace the blown out line between the master and slave cylinder on my 85 5spd. when i noticed that the clutch release lever is resting towards the passenger side of the car. Shouldn't the slave cylinder push on the lever as opposed to pulling on it?  I have tried to shift gears with the engine running by manually positioning the lever to either side. Can't shift gears either way. How is it supposed to be?  Does this mean pulling out the tranny?   Thanks<BR><P>------------------<BR><BR>Radcon||||reg||1
+Z||000001||StuGood||10-10-2000||06:11 PM||||To answer your first question, I think the slave cylinder can only push, not pull.||||reg||1

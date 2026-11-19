@@ -1,0 +1,4 @@
+A||N||2||SloPonti||Torque Spec question???||||5||
+Z||000000||SloPonti||01-12-2000||11:52 PM||||i need to know what the torque spec is for the torque converter to the flywheel for the pontiac 2.5 automatic 84 fiero! i know the torques spec for the flywheel to crankshaft is 44 ft lbs but the source i have does not list the torque spec for the converter to flywheel!<BR>thanks<BR>Rob||||reg||5
+Z||000001||2FAST4U||01-13-2000||12:17 AM||||Torque specs for converter to flywheel are 15 ft lbs or 20 Nm depending on where you live.<P>BTW - you owe me for this info - it's colder than a well diggers ass in the Clondike in my garage wher my manual is with nothing on but my BVDs||||reg||1
+Z||000002||SloPonti||01-13-2000||12:22 AM||||thanks abunch man! i do owe you! send me your address and i will send you some nice fuzzy slippers so next time at least your feet will not get cold!<BR>thanks man<BR>Rob||||reg||1

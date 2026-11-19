@@ -1,0 +1,4 @@
+A||N||2||count_iblis||front fascia||||1||
+Z||000000||count_iblis||10-20-2000||11:04 AM||||what is the difference between the 85 gt front and the 86 gt front?<P><BR>||||reg||1
+Z||000001||Tigger||10-20-2000||11:08 AM||||I'm pretty sure the beltline molding and corner lights are ribbed on the 85 GT's and smooth on 86 GT's<P>Everything else should be the same.<P>------------------<BR>T-T-F-N, Tah Tah For Now!<BR>   <IMG SRC="http://www.fiero.nl/uploads/tigger.gif">            <BR>   <A HREF="mailto:RacingStripes@hotmail.com">RacingStripes@hotmail.com</A>  <p>[This message has been edited by Tigger (edited 10-20-2000).]||||reg||1
+Z||000002||2xsess||10-20-2000||11:21 AM||||Tigger is right, on the 85GT nose the rib molding is part of the cover and can not be taken off and on the 86GT nose they're seperate pieces which can be removed<P>------------------<BR>Jeff<BR>85GT||||reg||1

@@ -1,0 +1,4 @@
+A||||2||DJRice||'90-'97 Lincoln Towncar Owners?||||5||
+Z||000000||DJRice||04-24-2000||12:06 PM||||The Air Suspension dummy light is on in my Moms 92 Towncar and the rear end is down low.<BR>This would be cool if the front end was low also, but it aint so I think we need to fix it.  It has "load leveling suspension" and I think that the air compressor that runs the system is dead, but Im not really sure.<P>Anyone out there dealt with this problem. I am about to start an internet search but I figure I might as well see if any fellow Fiero owners have dealt with such as this.||||reg||5
+Z||000001||olympic||04-24-2000||04:56 PM||||   Yeah, the compressors in these cars go quite often.  It has something to do with moisture trapped in the system.  Expect to pay  ALOT for a new compressor.||||reg||1
+Z||000002||Phil||04-24-2000||06:36 PM||||Would one of the compressors for air shocks work ? I believe thay're about $100||||reg||1

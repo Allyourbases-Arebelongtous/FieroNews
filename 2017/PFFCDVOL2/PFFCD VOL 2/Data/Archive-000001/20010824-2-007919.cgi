@@ -1,0 +1,2 @@
+A||N||0||shanestacy||1986 V-6 GT VSS problem||||5||
+Z||000000||shanestacy||01-19-2001||01:00 AM||||I have a 1986 V-6 GT, manual 4-speed, that the vehicle speed sensor shaft and blue gear broke off into the transmission.  I ordered new parts and installed them but the speedometer, which was working prior to the break, still does not work.  Can someone tell me what the gear goes into in the transmission, or does someone have a picture so I can check and see if something else is broken in the transmission?  I appreciate any help I can get!||||reg||5

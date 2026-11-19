@@ -1,0 +1,4 @@
+A||N||2||johnmac||Radiator - What Type||||1||
+Z||000000||johnmac||04-10-2000||06:24 PM||||Who makes a good radiator for a 86GT Auto.<P>I live in Orlando, Florida and a good efficient one is a must.<P>Any suggestions. <P>Thanks,<P>John||||reg||1
+Z||000001||theogre||04-10-2000||07:09 PM||||Modine should be near universally available.||||reg||1
+Z||000002||Oreif||04-11-2000||01:51 AM||||V-8 Archie makes a 4-core Radiator that is a drop-in replacement. He uses them to keep his V-8's cool. I'm sure this should help keep the car cool in the Florida Sun.  <IMG SRC="http://www.fiero.nl/forum/cool.gif"> <BR>He sells them for $350. Check His website on<BR>how to contact him. <A HREF="http://www.v8archie.com/" TARGET=_blank>http://www.v8archie.com/</A> <P>[This message has been edited by Oreif (edited 04-11-2000).]<p>[This message has been edited by Oreif (edited 04-11-2000).]||||reg||1

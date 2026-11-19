@@ -1,0 +1,4 @@
+A||||2||8Ball||Who all is from TN||||1||
+Z||000000||8Ball||07-08-2001||01:53 PM||||I was just wondering how many people here are from Tennessee?<BR>||||reg||1
+Z||000001||Songman||07-08-2001||03:41 PM||||There are quite a few of us here. And still more that we have listed in the group tha thave not made appearances on the forum yet. Go to the Club section and look at the TN Fiero Roll Call thread. There are quite a few listed there...<P>Have you checked out the site and got signed up for the mailing list yet?<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||6
+Z||000002||8Ball||07-08-2001||04:02 PM||||Nope but I will do that right now  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

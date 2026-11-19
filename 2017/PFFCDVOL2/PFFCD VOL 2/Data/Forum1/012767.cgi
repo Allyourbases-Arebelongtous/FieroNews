@@ -1,0 +1,2 @@
+A||||0||Tabs31||Mirrow tints||||5||
+Z||000000||Tabs31||12-17-2001||06:52 PM||||Does anybody else in here like those mirror tints that people are using now on their cars cuz I really do.<P>Also does anybody have any pics of mirror tints on a fiero by any chance please post them <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/tabs31_1.jpg"> ||||reg||5

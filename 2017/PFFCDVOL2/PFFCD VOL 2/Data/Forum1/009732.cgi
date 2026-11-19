@@ -1,0 +1,2 @@
+A||||0||Scott||Just saw a great car for sale...||||1||
+Z||000000||Scott||08-23-2001||04:21 PM||||Hi All,<BR>  Recently I was at FieroDave's to get some parts, and saw a extremely nice '87 GT 5 spd. he has for sale.  The car is in such nice condition, it looks like it could win a show.  I think he wants $5500 (don't quote me).  Anyway, just thought I'd pass it on.  That car will make somebody very happy.<BR>Scott<P>PS- No Dave didn't put me up to this.  It's just the nicest Fiero I've seen since the Dells.    ||||reg||1

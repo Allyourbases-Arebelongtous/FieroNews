@@ -1,0 +1,2 @@
+A||N||0||Philphine||haze..a favor please||||1||
+Z||000000||Philphine||10-08-2000||10:40 PM||||<BR>i know you are into mustangs and i am hoping you have a sourse i may not be aware of. i would like to get a mustang f40 wing for my fiero, one of the tall ones with the louvers in the sides. the only place i have found is motion performance (saw it in MMFF) but i am hoping to find a better price. no problem if you can't help. thanks.||||reg||1

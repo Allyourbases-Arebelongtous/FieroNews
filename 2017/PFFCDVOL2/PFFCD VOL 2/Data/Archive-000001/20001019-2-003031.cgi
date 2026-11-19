@@ -1,0 +1,3 @@
+A||||1||jhar1987||slow cranking||||1||
+Z||000000||jhar1987||04-04-2000||09:52 PM||||85 se v-6 slow cranks but will start ok. the lights dim upon cranking, i changed battery,starter,battery cables and battery shows its getting 13volts from the alternator. what did i miss??? thanks||||reg||1
+Z||000001||BroCar 87||04-04-2000||11:22 PM||||well i am not an expert but here is my $.02<BR>I had the same problem in my 87 4 cyl. I replaced the coils and it started right up! I have DIS ignition (2 individual coils) but it has the same basic theory(Spark). I suggest getting a nice coil. I like the accell. ||||reg||1

@@ -1,0 +1,5 @@
+A||||3||zeusrekning||8 second top sportsman fiero (must look)||||1||
+Z||000000||zeusrekning||11-05-2000||04:27 PM||||I went to rockingham dragstrip in NC this saturday for qualifiying. And seen a fiero. I thought i was dreaming since not having any sleep. It was great there many records broken and a jet powered semi. I'll post more pics later.This guy is from North Carolina and builds race car bodys for a living. This car is for sell.<BR> <IMG SRC="http://www.fiero.nl/uploads/topsportpassfronthoodon.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/topsportfiero.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/topsportsidehoodoff.jpg"> <BR>||||reg||1
+Z||000001||TheFiero64||11-05-2000||04:35 PM||||Wow. That looks cool. I want it.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif"> ||||reg||10
+Z||000002||Philphine||11-05-2000||07:07 PM||||don't know how it would compare to that one, but there is a front engine pro/street fiero on ebay.||||reg||1
+Z||000003||88formula||11-05-2000||07:22 PM||||I like it!||||reg||1

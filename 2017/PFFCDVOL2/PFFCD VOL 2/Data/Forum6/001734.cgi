@@ -1,0 +1,4 @@
+A||||2||Philphine||if i could stay out of stereo shops...||||1||
+Z||000000||Philphine||03-29-2001||03:03 AM||||<BR>i'd either have more money or be able to do other things to my cars. took a different route to work and stopped in a car stero shop. in the display window they have one of those 50 cd pioneer changers. the guy says he can't get rid of it. he's selling it for $250. i don't have a clue what i'm going to do with it but i had to get it. 50 cds!!!  ||||reg||1
+Z||000001||FieroJoe||03-30-2001||11:33 AM||||Are you going to have to buy more cd's to fill it up now??  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>AIM: Snowboarder0311<BR>87 Coupe 5sp. - big resto in progress<BR>  <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1
+Z||000002||stimpy||03-30-2001||02:43 PM||||So I guess you'll have a passenger seat for sale. <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

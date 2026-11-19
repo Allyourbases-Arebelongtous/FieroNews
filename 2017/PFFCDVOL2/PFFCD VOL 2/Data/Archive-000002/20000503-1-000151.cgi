@@ -1,0 +1,4 @@
+A||||2||WisconsinGT||84 seats
+Z||000000||WisconsinGT||07-13-99||02:04 PM||||Can I put 84 seats in my 88GT? If not, I have a set for sale with speakers. Also, how much are people paying for new paint jobs on there Fiero's? Mine needs it. (Original paint) Cheers!
+Z||000001||theogre||07-13-99||02:36 PM||||Think they'll fit, but I think you'll need to cut into the harness to run the speakers. If you do run the speakers, you might want a switch to diasble the sail speakers. It might be hard to adjust the stereo ballance if the sails are running with the seats.
+Z||000002||Cliff Pennock||07-13-99||03:50 PM||||My 86.5 GT has the sail panel speakers too, but oddly enough, there are also connectors present for the headrest speakers just behind the seats... At least, I think those are speaker connectors since behind both chairs there is one and I can remember from my 85 GT those were connected to a connector coming out of the chair.<br>

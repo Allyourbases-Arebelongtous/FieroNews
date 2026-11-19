@@ -1,0 +1,4 @@
+A||N||2||Sage||headlight doors||||1
+Z||000000||Sage||11-07-1999||01:53 PM||||I have a 1986 Fiero GT with headlight door problems.  Both doors will go up fine but the passenger side motor keeps running when turned off.  I have changed the relays and the motor works fine when run manually. I have cleaned the contacts in motor and the armature, put a different motor in and have the same situation.  I suspect a ground but thought you might be able to pinpoint the problem for me.  Any thoughts or suggestions will be appreciated.  Sage||||reg||1
+Z||000001||lowCG||11-07-1999||02:32 PM||||There has to be a limit switch or something to tell it to quit.Guess I'd look at a schematic,and try and find something like that in the circuit.||||reg||1
+Z||000002||TOM||11-07-1999||02:50 PM||||If the motor keeps running then it has a stripped gear. I have rebuilt ones for $35. I have never seen a problem with the hts (limit) switch.||||reg||1

@@ -1,0 +1,4 @@
+A||||2||DecadenceR||Fluid leak pt2||||1||
+Z||000000||DecadenceR||07-19-2001||09:33 PM||||Well I was under the car adjusting the e-brake, and it looks like my trans pan is leaking along the gasket. I figure that it probably knocked it when I hit after being airborne. How possible is it for this to be the leak that is on my pullies as well? Or am I looking at 2 seperate fluid leaks?<BR>84 2m4 auto for info purposes.||||reg||1
+Z||000001||Steve Normington||07-20-2001||01:30 AM||||I'm not very familiar with the 2.5, but since the pulleys are at the opposite end of the block from the trannsaxle, I'd say you're looking at two seperate leaks.||||reg||1
+Z||000002||DecadenceR||07-20-2001||12:28 PM||||Actually, the trans fluid pan leak and the pulleys are both on the same side. But I'm just not too sure if the fluid could find it's way up there.||||reg||1

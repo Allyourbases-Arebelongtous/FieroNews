@@ -1,0 +1,3 @@
+A||N||1||count_iblis||where is superx?||||1||
+Z||000000||count_iblis||12-13-2000||09:15 PM||||Hey I want to order the face guages the superxmotorsports made.  But I dont want them in white and I think that is all the fieroshop sells?  <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/count-sig.gif"> ||||reg||1
+Z||000001||DaRkLoRD||12-13-2000||10:01 PM||||There are a couple of other places that sell gauge faces.. at least one is here in Toronto I think.<P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||3

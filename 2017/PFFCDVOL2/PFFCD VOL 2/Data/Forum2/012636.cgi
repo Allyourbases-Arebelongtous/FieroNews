@@ -1,0 +1,4 @@
+A||||2||JohnF||Radio||||5||
+Z||000000||JohnF||08-09-2001||03:19 PM||||I need a new radio.  Prefer late model Pontiac w/correct illumination and CD ('96 works).<P>Where do I go?||||reg||5
+Z||000001||mbramble||08-09-2001||03:37 PM||||Try the Mall section and look for Chris Pond (user name Pondski).  I highly recommend him and he recently had several units available.  Don't recall if any had CD players....||||reg||1
+Z||000002||PBJ||08-09-2001||04:38 PM||||You need to get a radio out of a Pontiac cause they use red, and Chev uses green.  Also most pontiac radios say pontiac on them.<P>In my car I have a cass out of a 98 G/Am<BR>In my wife's is a CD out of a 95 G/Prix  both grey and both iluminate red, and work great, just need to convert wiring and ant. All parts I bought at walmart.<P>A bit more work if you have a factory sub.||||reg||1

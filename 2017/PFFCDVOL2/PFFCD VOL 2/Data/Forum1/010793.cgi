@@ -1,0 +1,4 @@
+A||N||2||DaRkLoRD||3000 posts!||||10||
+Z||000000||DaRkLoRD||10-07-2001||04:13 PM||||woohoo, made it..  <IMG SRC="http://www.fiero.nl/forum/eek.gif"><P>here's to the next 3000!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR> <IMG SRC="http://www.digitalfusion.on.ca/transfer/beer_toast.jpg"> <P>------------------<BR>    <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>    <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||10
+Z||000001||Pheagey||10-07-2001||05:51 PM||||Congrates! Next rounds on me!<BR>&lt;whats that? O really? well then&gt;<BR>Um..Im sorry to announce but the bartender has informed my 20 is not yet legal. sorry...<BR>Anyways.||||reg||12
+Z||000002||Monkeyman||10-07-2001||06:19 PM|||| <IMG SRC="http://www.fiero.nl/uploads/firewrks.gif"> ||||reg||1

@@ -1,0 +1,4 @@
+A||||2||johnt671||Best 84 4cyl, dist cap||||5||
+Z||000000||johnt671||07-07-2001||04:38 PM||||Just ordered an MSD 6A for my 84.  Whats the best 4 cyl. dist cap money can buy? Thanks.||||reg||5
+Z||000001||theogre||07-07-2001||06:23 PM||||Well.... there's no really good answer here. Most of the people that have these get them from a small number of people that actually make them.<P>I'd stay with ACdelco, Borg Warner, and probably Standard. Those lines usually carry parts made by more reliable sources.<P>One thing I don't know if anyone has tried.... Ask MSD if they have a preferance.||||reg||1
+Z||000002||johnt671||07-07-2001||08:42 PM||||Good idea Ogre.  I e-mailed MSD and asked them, and asked if there was anything else I could to to maximize the system.  already have a blaster coil and accel wires, so maybe they'll have more info.||||reg||1

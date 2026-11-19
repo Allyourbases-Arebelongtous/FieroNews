@@ -1,0 +1,8 @@
+A||||6||Ted||Chips in the panels
+Z||000000||Ted||07-04-99||08:16 AM||||<br>I was wondering if there is a way to chips out of the body panels besides trying to paint over them?
+Z||000001||theogre||07-05-99||10:17 PM||||no
+Z||000002||lowCG||07-05-99||10:51 PM||||I was wondering,if there is a better way to patch the urethane panels,and if so,how/what?
+Z||000003||Cooter||07-06-99||01:40 AM||||Lowcg- I would have to know your way of patching the panels first before I would know if my way is better. On flexible "plastic" body parts, I usually sand both sides with 80 grit sand paper and use a flexible parts repair epoxy (looks and smells like JB-weld) to cover the broken area. While the filler is still wet, I place a piece of fiberglass repair mat in the wet filler and cover it with more filler. I have found that this really helps strengthen the repair area. Then finish the front area with the appropriate sandpaper and primer. On rigid plastic parts, i usually follow the same procedure except use regular body filler instead of the other stuff. I have had repaired cars involved in severe wrecks and the filler held up fine.
+Z||000004||Cooter||07-06-99||01:43 AM||||OOPS- the fiberglass cloth/mat goes on the back side of the panel, and do not sand off any of it (on the back).
+Z||000005||Racer 1||07-06-99||12:58 PM||||HOTGLUE it!LOL
+Z||000006||lowCG||07-07-99||12:59 AM||||Thanks,I was ready to melt my Tupperware and use that.<br>Do you ever need to bond on a piece of aluminum for strength?  How did you hold/clamp the zone you worked on?<br>Have a fender with a piece missing,was going to make a form to mold something in place,if they made it,and if it wasn't way expensive.

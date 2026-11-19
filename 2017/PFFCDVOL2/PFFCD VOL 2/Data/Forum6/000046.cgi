@@ -1,0 +1,12 @@
+A||||10||olympic||check out this link-you'll laugh your head off||||1||
+Z||000000||olympic||01-29-2000||01:15 PM||||here it is: <A HREF="http://www.kar.elf.stuba.sk/~choma/fun.html" TARGET=_blank>http://www.kar.elf.stuba.sk/~choma/fun.html</A>   BTW, sorry in advance!!!!!!||||reg||1
+Z||000001||Monkeyman||01-29-2000||03:00 PM||||ROTFLMMFAO!  Oh, damn!  I'm still laughing. hahahahahahahahahahaha.  I'll be back later.||||reg||1
+Z||000002||Monkeyman||01-29-2000||03:03 PM||||Let's try this again.  That was good!  I wonder what he means by calling everyone a monkey, though.  I'm proud to be a monkey!  They don't call me Monkeyman for nothin'!!!||||reg||1
+Z||000003||SCCA FIERO||01-29-2000||07:03 PM||||WANTED TO BUY: Mouse... with good left button||||reg||6
+Z||000004||Monkeyman||01-29-2000||07:46 PM||||ROTFLMMFAO, again!  I just had to hit that site one more time.  You didn't do that, did you Olympic?  C'mon.  Be honest.  That's your site isn't it?  You can tell us.  We're all friends here.  It was all your idea, huh? <IMG SRC="http://www.fiero.nl/forum/smile.gif">  Two thumbs up!||||reg||1
+Z||000005||jlhuber||01-30-2000||12:32 AM||||that's pretty funny.  i am sending it to everyone i work with.  but it is not entirely true.  i know for a fact that anyone running windows 95 can just press "ctrl, alt, & del" and click the "end task" button while that program is highlighted and it will stop.  oh well, two thumbs up here, regardless of it's inaccuracy.||||reg||1
+Z||000006||Standard||01-31-2000||01:44 AM||||But the thing is, most people don't know that.  <BR>I knew I could do that, but I just clicked thru the whole thing to see what it was gonna say..||||reg||1
+Z||000007||fieroc4||01-31-2000||02:32 AM||||Mouse Button?   Hell just keep hitting the space bar!  (as long as ok is highlighted)||||reg||1
+Z||000008||olympic||01-31-2000||05:33 PM||||   Actually, M-Man, I got bit just like you. A friend of mine e-mailed me the link. I thought it was funny and had to share it with all of you!!!!||||reg||10
+Z||000009||batboy||01-31-2000||05:53 PM||||I sent that URL link to my usual group of friends that pass lame email jokes back and forth. One person emailed me back and told me to never send her stuff like that again. Hahahahahaha, she don't know me very well! Hahahahaha, I'm never going to quit annoying people with that website, hahahahaha!||||reg||1
+Z||000010||FieroMorg||02-02-2000||05:23 PM||||That site tells us something..... I don't know what ... but it's out there..... somewhere....||||reg||5

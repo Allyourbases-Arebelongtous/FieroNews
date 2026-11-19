@@ -1,0 +1,4 @@
+A||N||2||mech312||free sunroof glass||||10||
+Z||000000||mech312||11-27-2001||08:06 PM||||i have an 85 se going to fiero heaven i stripped whole car of parts i needed or just for spares no use for sunroof glass free to good home||||reg||10
+Z||000001||Sage||11-27-2001||09:14 PM||||If it's still available, and you are willing to ship it, I will send you a money order to cover the cost.  Need an address and name.  You don't need to ship till you get the money in your hand.  PM or email me if you want to do this, or you can respond here.<P>Thanks<P>------------------<BR>Have a good one!||||reg||1
+Z||000002||ig88vsbobafett||11-27-2001||09:26 PM||||hey dose your fiero still have the console and stuff around the Stereo (All the trim on the inside mine was all taken out when i got it so all the wires are showing ||||reg||1

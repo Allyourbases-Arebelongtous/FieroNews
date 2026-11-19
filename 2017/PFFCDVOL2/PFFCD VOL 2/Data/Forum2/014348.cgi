@@ -1,0 +1,4 @@
+A||||2||Klown||Stick pops out of first gear!||||5||
+Z||000000||Klown||10-11-2001||05:06 AM||||Just recently my stickshift pops out of first gear when I start to release the clutch.  A lot of the time it's fine then just all of a sudden when I'm getting ready to go it just happens.  Cycling thru the gears or just shifting into second before I shift into first seems to help.  Anyone have an idea as to what may be happening and how I could fix it?||||reg||5
+Z||000001||MrPBody||10-11-2001||07:10 AM||||Worn or maladjusted shift cable?  Bent or worn shift fork?<BR>||||reg||1
+Z||000002||revin||10-11-2001||07:19 AM||||The same thing happens to my 88GT. I have a new cable(rodney dickerson) still happens. not sure about the shift fork, I was going to take it to the trans shop in case it is a bad internal problem.||||reg||1

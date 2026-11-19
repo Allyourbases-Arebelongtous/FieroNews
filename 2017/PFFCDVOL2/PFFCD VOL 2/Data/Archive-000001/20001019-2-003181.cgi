@@ -1,0 +1,3 @@
+A||N||1||Haze_Performance||I found the Carbon Fiber!!!!!||||6||
+Z||000000||Haze_Performance||04-13-2000||07:49 PM||||Ok all I have the info for the Rally Carbon Fiber stuff  <A HREF="http://www.fieroproject.com/cf.html" TARGET=_blank>http://www.fieroproject.com/cf.html</A>  .The phone number is 1-800-227-2559, Part #19960, And its $19.41 shipping included. You can get it direct from Rally..........Thanks to all who helped me get all the info.... ||||reg||6
+Z||000001||DaRkLoRD||04-14-2000||12:50 AM||||Excellent! I'll add this info to the page next time I update the site.. great work.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

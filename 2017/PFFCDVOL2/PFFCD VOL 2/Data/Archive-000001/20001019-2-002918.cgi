@@ -1,0 +1,5 @@
+A||||3||Robert||WebElectric Magazine  just out.......||||1||
+Z||000000||Robert||03-27-2000||08:23 PM||||I get this magazine as it comes out.  I thought some of our members might be interested in some of the projects.  Check out the archives for past projects.<BR> <A HREF="http://members.nccw.net/webe/00/2/we.htm" TARGET=_blank>http://members.nccw.net/webe/00/2/we.htm</A> <P>Robert||||reg||1
+Z||000001||DaRkLoRD||03-28-2000||12:50 AM||||I subscribed to the notification list last week, and I stayed up pretty late reading all the previous articles.. awesome stuff.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||lawrence||03-28-2000||01:49 PM||||Fellas,<P>Thanks for the plug.<P>-L<BR> <A HREF="http://members.nccw.net/webe" TARGET=_blank>http://members.nccw.net/webe</A>  - WebElectric Magazine||||reg||1
+Z||000003||Phil||03-28-2000||06:40 PM||||My 92 Laser has that same type of dimmer in it and it sure is nice. I don't know what they use but the whole unit is about the size of a plug in flasher. ||||reg||1

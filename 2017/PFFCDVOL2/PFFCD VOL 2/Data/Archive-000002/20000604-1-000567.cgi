@@ -1,0 +1,2 @@
+A||||0||88 Fiero||'88 Coils Over....||||1||
+Z||000000||88 Fiero||11-18-1999||01:07 PM||||I found a company who will sell me Coils Over for my '88 Fiero...The fronts will run me $495.00 using a Carrera Shocks and the rears will run me $395.00 using Gabriel Struts...I have a choice of spring rates but their increments is different from the other companies that I have talk too...I am thinking of going spring rates in the fron of around 240 or 260 and ther rears of 300 or 325...what do you think????||||reg||1

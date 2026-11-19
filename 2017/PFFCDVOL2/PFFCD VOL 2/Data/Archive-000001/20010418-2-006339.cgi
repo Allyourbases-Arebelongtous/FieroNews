@@ -1,0 +1,2 @@
+A||||0||JohnnyK||slave and release arm movement..||||1||
+Z||000000||JohnnyK||10-20-2000||05:49 PM||||Well,t he new clutch is in, but before I reinstall the cradle, I want to check something. It is the slave that is supposed to move about an inch right? Not the bottom of the release arm (on the bellhousing). That thing doesn't even move that much. But, I have a new pressure plate, new clutch, release bearing, clip, so I'm hoping for smooth shifting finally. The arm only goes onto the shaft one way it seems.. Am I correct?||||reg||1

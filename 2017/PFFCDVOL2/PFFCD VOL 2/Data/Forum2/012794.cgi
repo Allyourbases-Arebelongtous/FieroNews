@@ -1,0 +1,4 @@
+A||||2||Avery Montembeault||Rims||||1||
+Z||000000||Avery Montembeault||08-14-2001||08:41 PM||||I have heard of people stripping and refinishing the stock fiero rims. Can anybody tell me how to do this? what do you use to remove that plastic coating that is currently chiping off?||||reg||1
+Z||000001||fierohoho||08-14-2001||09:52 PM||||Avery, first, welcome to the forum, second, I recall a thread from not too long ago about someone who told how he refinished his rims, do a search in the tech section and you should find it. <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>'84 SE 2.5l<BR>'85 Coupe 2.5l now getting a 3800<BR>'86 SE 2.5l||||reg||1
+Z||000002||DXR_DAD||08-14-2001||11:35 PM||||look at these: <A HREF="http://www.fiero.nl/forum/Forum4/HTML/004445.html" TARGET=_blank>http://www.fiero.nl/forum/Forum4/HTML/004445.html</A> <P>DXR_DAD||||reg||1

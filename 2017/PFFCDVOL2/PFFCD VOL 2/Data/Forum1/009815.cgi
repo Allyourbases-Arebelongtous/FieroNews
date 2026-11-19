@@ -1,0 +1,3 @@
+A||N||1||AusFiero||Grinthock - Your banner is cooked.||||1||
+Z||000000||AusFiero||08-26-2001||09:48 AM||||Well here it is. Hope you like it.<BR> <IMG SRC="http://www.fiero.nl/uploads/fieroworldbanner.gif">  <P>------------------<BR>    <IMG SRC="http://www.jadeweb.com.au/fiero/ausfiero1.gif">   <BR><A HREF="http://www.jadeweb.com.au/fiero" TARGET=_blank>My Fiero</A> | <A HREF="http://www.fieroshop.com.au" TARGET=_blank>Fiero Accessories</A>||202.139.20.3||reg||1
+Z||000001||grinthock||08-26-2001||10:11 PM||||Hey AUS!! That rocks dude!!! Thanks alot!!!  I am going to make the adjustments to my page for your banner later this week!||||reg||1

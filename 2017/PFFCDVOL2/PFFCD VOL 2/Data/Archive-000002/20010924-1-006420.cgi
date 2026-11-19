@@ -1,0 +1,4 @@
+A||||2||sqoach||where can i find the vin # on my engine?||||1||
+Z||000000||sqoach||03-26-2001||05:29 PM||||subject says it all. it's an 86 2.5L SC with a/c.<P>------------------<BR>sqoach@yahoo.com<P>       <IMG SRC="http://www.fiero.nl/uploads/sqoach.JPG">  <BR>84 SE (project car?)<BR>85 Coupe (parts car)<BR>86 SC (daily driver)||||reg||1
+Z||000001||sqoach||03-27-2001||02:19 AM||||anyone know??||||reg||5
+Z||000002||87GTZ34||03-27-2001||03:36 AM||||According to my manual, it should be on the left rear flange of the motor.  That is when looking from the back of the motor to the front, it will be stamped on the left outer edge of the flange where the eng bolts up to the motor. About an inch or two from the bottom of the flange.  Hope this helps.<p>[This message has been edited by 87GTZ34 (edited 03-27-2001).]||||reg||1

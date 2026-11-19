@@ -1,0 +1,6 @@
+A||||4||Stoic||Help?!?!?!||||1||
+Z||000000||Stoic||12-07-2000||06:21 PM||||My engine is dead.  I will be putting in a brand new fresh from the crate engine.  Originally it is a 4cyl. auto.  I figured if I'm putting a new motor in it I might as well go to a 6 cyl.  I've been told the 4 cyl. tranny will bold up to the 6 cyl. and the mounts are the same.  Is this true, are there any other swapping details I need to know?||||reg||1
+Z||000001||Got2manyfieros||12-07-2000||06:31 PM||||The tranny DOES bolt up.  I'm not sure on the engine mounts, but the biggest issue would probably be getting a wiring harness, if that comes with the motor, you're all set.||||reg||1
+Z||000002||sqoach||12-07-2000||09:03 PM||||dude, you're still a new member and you registered in april! get some posts posted. and sorry i don't know anything about engine swapping.<P>------------------<BR>sQoaCh<BR>fiero7@hotmail.com<BR>    <IMG SRC="http://www.fiero.nl/uploads/mysig_2.JPG"> ||||reg||11
+Z||000003||Stoic||12-07-2000||09:32 PM||||Yeah I registered in April and then ended up moving and never re-established internet connection 'til just this month.  Spending all my money on my car ||||reg||7
+Z||000004||doughboySE||12-07-2000||10:07 PM||||hey rich how the hell are ya<BR>mail me sometime man been a while||||reg||1

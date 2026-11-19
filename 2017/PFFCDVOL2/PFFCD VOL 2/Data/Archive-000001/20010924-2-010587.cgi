@@ -1,0 +1,4 @@
+A||||2||84 2in1||power window + lock install||||5||
+Z||000000||84 2in1||05-20-2001||12:36 AM||||I have 2 84 Fieros, Eleanor and a parts car. The parts car has power windows,door locks and mirrors where as Eleanor only has power mirrors. Would it be easier to switch doors than to install the motors in my doors? Is there any way to test these parts to see if they work?Or should I leave well enough alone? Thanx -B-||||reg||5
+Z||000001||Taijiguy||05-20-2001||11:07 AM||||I'm gonna say yeah, it would be easier to swap the doors. You can switch the skins easy enough, so there's no paint or color issues. The only thing you would need is a rivet tool to reattach the door skins. But it's alot easier than the alternative.||||reg||1
+Z||000002||PBJ||05-20-2001||11:16 AM||||The wiring too.  From both doors to center console, for the power windows. Power and ground for both doors for locks.  Sounds like a good learning project.||||reg||1

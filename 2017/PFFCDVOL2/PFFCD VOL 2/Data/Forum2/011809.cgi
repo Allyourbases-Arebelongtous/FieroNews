@@ -1,0 +1,5 @@
+A||||3||saleenfiero||High RPM (4000+) oil burning?||||1||
+Z||000000||saleenfiero||07-05-2001||03:20 AM||||I have prob 75k miles on my car and it seems whenever I really get into the throttle I am burning oil.  It only seem to happen at 4000 and above RPM's.  I can see it out of my back window, not a hell of alot, but enough.  What can cause this?  Might this not even be oil at all and instead some kind of rich condition?||||reg||1
+Z||000001||Leadfoot||07-05-2001||04:25 PM||||Do you see the smoke when you first start your car in the morning?  If so your valve seals are bad.||||reg||1
+Z||000002||saleenfiero||07-05-2001||06:13 PM||||Well it smokes once in a while at startup, but I figgered it was just a rich start, because my car is tough to get going sometime.<BR>Valve seal replacement sounds complex.  I think I heard it is not as hard as it sounds, but would it be expensive to get it done?  And what would happen if I did nothing?||||reg||1
+Z||000003||GT Bastard||07-05-2001||06:27 PM||||If you're blowing dark smoke at high rpm's, I'd be more concerned about your piston rings being shot.  Do a compression test, or have a shop do it.||||reg||1

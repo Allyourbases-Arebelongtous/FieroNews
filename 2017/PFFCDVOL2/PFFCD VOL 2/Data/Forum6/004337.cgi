@@ -1,0 +1,6 @@
+A||||4||WampusCat||Mummy Returns on DirecTV||||1||
+Z||000000||WampusCat||11-17-2001||11:32 AM||||OK, I was REALLY bored last night and the wife was working...so I watched it.  It brings up a lot of deep philosophical questions about reincarnation, immortality, religion, and most of all...Who got to draw this chick's outfit on her?<BR> <IMG SRC="http://www.fiero.nl/uploads/patricia.jpg"> <BR>||||reg||1
+Z||000001||avengador1||11-17-2001||12:50 PM||||Or who got to stick the pasties on? <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1
+Z||000002||maryjane||11-17-2001||12:57 PM||||kinda makes you wish her hair was shorter. Aus, do your photoshop magic <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000003||Monkeyman||11-17-2001||02:39 PM||||The original was better.  Evie was much better looking than Imhoteps girlfriend.||||reg||1
+Z||000004||Mach10||11-17-2001||02:43 PM||||The original was "Lets do Indiana Jones, only COMPLETELY in Egypt, and more guns..."<P>The second was "Holy CRAP! I can't believe we got away with it! This time, no holds barred!"<P>I loved both. The second was more of a comedy... The little pygmy, riding the log down the ravie, waving his headdress?!?! CLASSIC!||||reg||10

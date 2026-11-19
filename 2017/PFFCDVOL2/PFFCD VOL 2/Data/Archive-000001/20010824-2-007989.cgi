@@ -1,0 +1,3 @@
+A||||1||My7Fieros||Where is the stock amp located?||||5||
+Z||000000||My7Fieros||01-22-2001||09:48 PM||||.....on Fieros w/ sub system. Im pulling out my entire sub system in 3 of my Fieros. Also, what else do I need to remove when removing everything from the sub system? Thanx!<P>------------------<BR> <IMG SRC="http://tgowens.com/My7Fieros_sig.gif"> ||||reg||5
+Z||000001||Indiana_resto_guy||01-22-2001||11:22 PM||||The stock location of the sub amp. is behind the passenger side panel next to the shifter. Other items to pull, the sub box (DUH!), the over head controls, speaker housing w/tube and the wiring harness connected to the amp,<BR>speaker, radio and overhead controls. It plugs into the lighting circut in front inside of the drivers door also.||||reg||1

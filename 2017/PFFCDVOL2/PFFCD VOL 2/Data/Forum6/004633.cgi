@@ -1,0 +1,10 @@
+A||||8||Philphine||philroy was here||||1||
+Z||000000||Philphine||12-04-2001||10:49 PM||||<BR>hey all. experimenting with my internet access. i don't know what i'm paying so i'm keeping this first experiment short. i got dumb questions ready if this works. we'll see tomorrow.||||reg||1
+Z||000001||Cheever3000||12-04-2001||11:12 PM||||Has anybody heard from Philphine lately?<BR>||||reg||5
+Z||000002||Philphine||12-05-2001||08:11 AM||||uh...you just did. ||||reg||1
+Z||000003||Formula||12-05-2001||08:40 AM||||hmmm... thats strange, I've never seen a completly blank post like this before. <P><BR>I wonder who tried to post on it?<P>Cheever:  You getting the feeling it was philphine trying to post too?||||reg||1
+Z||000004||Cheever3000||12-05-2001||11:11 AM||||I don't get it.  When I open this thread, I just get this eery feeling like someone's looking at me, and the hair on the back of my neck stands up.  And there's a voice that keeps saying "Rosebud". <BR>||||reg||1
+Z||000005||The Fieromaster||12-05-2001||11:14 AM|||| <IMG SRC="http://www.fiero.nl/forum/smiley_wtf.gif"><P>------------------<BR>        <IMG SRC="http://www.fiero.nl/forum/smiley_damon.gif">        <FONT COLOR="red"><B>"Raced That, Wrecked Better"</FONT></B>      <IMG SRC="http://www.fiero.nl/forum/smiley_damon.gif">   <BR>   <IMG SRC="http://www.fiero.nl/uploads/thefieromastersig.gif">    <BR><B>~In Memory Of Jesse Cesek~ 1980-2000</B><BR><FONT COLOR="blue"><B>AOL IM: Fieromaster</B></FONT><BR><B><FONT COLOR="purple">1985 GT ~ Purple, Black and Yellow Interior(Fastback Converted)</FONT><BR><FONT COLOR="maroon">1997 Mitsu Eclipse GSX ~ Maroon w/ Hella Balls!(GSX = AWD, Turbo) DOA on 12/10/2000</FONT><BR><FONT COLOR="green">1992 Mitsubishi Eclipse GS ~ soon will be turboed</FONT><BR></B>||||reg||1
+Z||000006||LZeitgeist||12-05-2001||12:33 PM||||"Redrum! REDRUM!!"<P>||||reg||1
+Z||000007||Philphine||12-05-2001||04:36 PM||||ok now y'all. don't get wierd on me.||||reg||1
+Z||000008||hugh||12-05-2001||05:27 PM||||I keep getting chills and I feel like somebody is watching me!||||reg||7

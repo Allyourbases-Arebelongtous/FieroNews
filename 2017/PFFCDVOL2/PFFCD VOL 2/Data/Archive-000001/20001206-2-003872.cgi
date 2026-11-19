@@ -1,0 +1,7 @@
+A||||5||Fret Naught||Engine Heat||||5||
+Z||000000||Fret Naught||05-21-2000||10:19 PM||||Weather was great today, went for a drive, I picked up a rock in my rear brake, it made a terible noise. I popped the trunk just to make sure everything was OK. It seemed very hot in the compartment. Is this normal? what is the easiest way to test my engine compartment fan? I just want to insure that it is working.||||reg||5
+Z||000001||GT Bastard||05-21-2000||10:31 PM||||As long as you don't have any exhuast leaks, the car isn't overheating, and your heat shields are in place I wouldn't worry. Mine always seems pretty hot as well...  ||||reg||1
+Z||000002||Fret Naught||05-21-2000||10:42 PM||||Thats the thing GT, this is my first Fiero, heat shields? looks like half a shild around the rear portion of the engine. any body have PICS of what the heat shields should look like? I know the batery shield is missing.||||reg||1
+Z||000003||theogre||05-22-2000||12:01 AM||||I've measured engine compartment temperatures over 250F and that was a 4 cyl. It do get warm in there.||||reg||1
+Z||000004||Linx||05-22-2000||01:12 AM||||It sure do, but it cools off quickly, too- thanks to them grilles.  convection is a wonderful thing.||||reg||1
+Z||000005||DXR_DAD||05-22-2000||01:27 AM||||Remember these words: <BR>REAR DECK LID SCOOP???????????????  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||14

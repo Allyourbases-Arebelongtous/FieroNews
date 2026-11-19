@@ -1,0 +1,3 @@
+A||||1||fiero56||'88 rack swap||||1||
+Z||000000||fiero56||06-03-2000||09:28 PM||||Question for all the geniuses here.<P>I have always been under the impression that all steering racks from all years are interchangeable(I just put an '84 rack in an '87 with no problem). But, I was talking with a guy who needs a rack for an '88 and he is sure the '84-'87 racks won't work. Will they? If they will, that opens up many more options for him.  If not, anybody have a rack for an '88 they would like to sell?||||reg||1
+Z||000001||terryk||06-04-2000||02:00 AM||||I was just staring at the two. They mount differently and there is no dampener on the 88.||||reg||1

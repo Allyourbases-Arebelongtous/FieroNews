@@ -1,0 +1,2 @@
+A||N||0||artherd||Front battery box||||3||
+Z||000000||artherd||07-01-2001||01:43 PM||||What's the best one?<P>Should I rool my own, opinions?<BR>(going with an optima type spiral-wound battery, if that matters.)<P>Thanks!<BR>Ben.<P>------------------<BR>  <IMG SRC="http://www.cartsys.com/fiero/88ttop.jpg">  <BR>Ben Cannon<BR>88 Formula, T-top Metalic Red<BR>88 Formula, Silver<BR>87 Coupe, Metalic Red<BR>"Every Man Dies, not every man really Lives"<BR>                -Mel Gibson, "Braveheart"||||reg||3

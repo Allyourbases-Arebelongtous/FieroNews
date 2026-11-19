@@ -1,0 +1,3 @@
+A||||1||Ed||Thumped, part 2. Insurance||||1||
+Z||000000||Ed||05-26-2001||01:17 AM||||I've been with the same company so long I can't find my original detailed policy statement.  They say I might be covered by my uninsured property damage coverage.  Briefly, how does that work?  The car that hit us all (chain reaction of four cars in front of him) ran off.  <P>Incidentally, I cancelled my collision coverage effective ten days before my accident!<P>Picture (long up-load) on "Thumped" in this forum.||||reg||1
+Z||000001||Ed||05-26-2001||01:52 AM||||Nevermind.<P>This thread may be deleted.<P>I found the answer in my insurance company's website.  <P>All hail the information superhighway!||||reg||1

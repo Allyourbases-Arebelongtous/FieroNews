@@ -1,0 +1,8 @@
+A||N||6||FieroSTETZ||who else is on ridejudge?||||1||
+Z||000000||FieroSTETZ||05-12-2001||03:39 AM||||who else is on ridejudge.com, and where are you at (rating wise) i am number 288... in the upper third, i guess thats good, especially since i have gotten 19 1's so far.||||reg||1
+Z||000001||AusFiero||05-12-2001||04:22 AM||||Well I submitted my car. Dammned if I can find a rating on it though.<P>------------------<BR> <IMG SRC="http://www.jadeweb.com.au/fiero/ausfiero.gif"> <BR>When I was young I spent 80% of my money on Women, Gambling and Alcohol. I guess I wasted the rest.||||reg||1
+Z||000002||AusFiero||05-12-2001||04:45 AM||||Well there ya go. I have only have had 76 votes with 19 1's and am still rated 315 on the list. The 7 10's helped. Bloody ricers voting 1 for American cars...LOL<P>------------------<BR> <IMG SRC="http://www.jadeweb.com.au/fiero/ausfiero.gif"> <BR>When I was young I spent 80% of my money on Women, Gambling and Alcohol. I guess I wasted the rest.||||reg||1
+Z||000003||Greg Piet||05-12-2001||04:58 AM||||Well I am in the bottom.  I think the sweetheart in the pic helped your rating as well!||||reg||1
+Z||000004||TheFiero64||05-12-2001||02:12 PM||||I am ranked as #578 out of 651 rides eligible for judging<P>------------------<BR>Josh<BR>  <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg"> <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||1
+Z||000005||Pontiaddict||05-12-2001||03:54 PM||||Everytime I go there, they give me the same 4 cars over and over. That riced out cavalier (which one? right?) should have a permanant 1 by now.||||reg||1
+Z||000006||Greg Piet||05-12-2001||04:20 PM||||WOOHOO!<BR>I have 17 ones out of 72 <BR>607 out of 654 and falling||||reg||1

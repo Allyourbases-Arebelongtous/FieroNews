@@ -1,0 +1,5 @@
+A||||3||ChadMan||What happened to the Fiero Store's website?||||9||
+Z||000000||ChadMan||08-06-2001||03:20 PM||||Anybody know?  I haven't been able to log on to it for several days now...||||reg||9
+Z||000001||Black88GT||08-06-2001||03:36 PM||||1-800-FIEROGT||||reg||1
+Z||000002||AkursedX||08-06-2001||04:13 PM||||I hear their server got hit by that new worm/virus thingee.  Hopefully they will have it up soon.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR><BR> <IMG SRC="http://www.fiero.nl/uploads/sigpic2_2.jpg"> ||||reg||3
+Z||000003||artherd||08-07-2001||04:32 AM||||that's what you get for running windoes :(<P>These microsoft 'viruses' are hilarious.  Don't run Outlook. Don't run Exchange. done.<P>To keep it fiero related, call the FieroStore, they're still very open.<P>1-800-FIERO-GT   ;)<P>------------------<BR>  <IMG SRC="http://www.cartsys.com/fiero/88ttop.jpg">  <BR>Ben Cannon<BR>88 Formula, T-top Metalic Red<BR>88 Formula, Silver<BR>87 Coupe, Metalic Red<BR>"Every Man Dies, not every man really Lives"<BR>                -Mel Gibson, "Braveheart"||||reg||1

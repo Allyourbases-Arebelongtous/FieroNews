@@ -1,0 +1,3 @@
+A||N||1||Black88GT||J. Wynman 3.4 chip||||1||
+Z||000000||Black88GT||10-05-2000||01:40 PM||||Can someone give me more details on this chip.  Is Joe on this list?  Whats his contact info.  I hate to do this but I have honestly checked everywhere else.<P>anyone using this chip?  Seen any performance increases?<P><P>------------------<BR>Jeff<BR>'88 GT t-top 3.4<BR>Baltimore, MD||||reg||1
+Z||000001||Old Lar||10-05-2000||08:04 PM||||Associated Auto Inc 201 646 1593  <P>fierojoe@bellatlantic.net<P>This was the information I have in my little book.  No website that I know of.<P>I've gotten parts from him.(no chips).He knows his Fieros.||||reg||7

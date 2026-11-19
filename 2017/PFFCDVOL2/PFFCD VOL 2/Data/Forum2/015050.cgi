@@ -1,0 +1,5 @@
+A||||3||Loki||For the love of god...whats the matter||||1||
+Z||000000||Loki||11-03-2001||07:04 PM||||OK ive been having problems with my car which I think I hva routed to bad plug wires...I was messing around with the car today and got it to actually rev when i hit the throtle. BUT!!! only in park or nuetral. In gear when I hit the gas it stumbles and stalls....every time..Ayn clue?||||reg||1
+Z||000001||Gerald||11-04-2001||06:14 PM||||MY kar did that till i changed the wires. It still does a little but I think thats the crank senser (87 4 cyl with dis)||||reg||1
+Z||000002||fastback87||11-04-2001||09:36 PM||||it could be you torque converter lockup staying locked up.||||reg||1
+Z||000003||G-Nasty||11-05-2001||02:48 AM||||Its likely your wires- one or two of them are burned up. Get a new set of cheapos at local store hook them up PROPERLY according to haynes/chiltons etc.  This has happened to me several times w/ my fieros.<BR>If you already have new wires and they're hooked up right check for clogged converter<BR>Good luck bro-<BR>sounds like your goin to need it||||reg||1

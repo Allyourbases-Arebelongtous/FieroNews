@@ -1,0 +1,4 @@
+A||||2||86SE||Importance of the MAP sensor?||||5||
+Z||000000||86SE||06-04-2000||02:25 AM||||Does anyone know the importance of the MAP sensor?  If I unplug it on my V-6 it actually runs BETTER!?!  If I unplug it the idle is steady at 1000 if I plug it in the idle fluctuates from 800-1200, weird..<P>Will a malfunctioning (broken) MAP sensor cause an engine not to start??<P><BR>Thanks!||||reg||5
+Z||000001||sloGT||06-04-2000||02:51 AM||||I had the map sensor go bad on my 5.0 it would still start but had no power and sounded like crap.mine would run better with it unplugged to (at the time).||||reg||1
+Z||000002||terryk||06-04-2000||03:03 AM||||It will still run. The ECM uses a default map value. If it runs better with the MAP disconnected, something else is wrong.<P>Without the map you lose all kinds of control over the engine operation.||||reg||1

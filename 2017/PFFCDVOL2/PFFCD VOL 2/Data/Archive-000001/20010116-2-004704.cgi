@@ -1,0 +1,7 @@
+A||||5||buds||V8 INSTALL||||5||
+Z||000000||buds||07-11-2000||09:25 AM||||has any one used fiero conversions in windsor ontario v8 install kit,if so tell list the problems you had.||||reg||5
+Z||000001||fsrowsell||07-16-2000||08:44 PM||||I did not by my V8 Conversion from them, but I did buy a Body Kit from them a few years ago and I will never buy another thing from them again. They are ripoffs!!!!<BR>||||reg||1
+Z||000002||UFO!||07-16-2000||10:04 PM||||Ahhh.. it's just another Zumalt copy. You would think if someone came out with another V-8 kit, the design would be orignal.<P>Oh well...<P>--UFO!||||reg||1
+Z||000003||Seanh||07-17-2000||04:28 PM||||I have never used them. But if your looking for a good V8 kit, check out <A HREF="http://www.v8archie.com" TARGET=_blank>www.v8archie.com</A>  <BR>One of my friend purchased a kit from him to put in his 87 GT, and I help install it, and have driven it many times. Were both very happy with its preformance. Although the shipping was a little slow. Its a great kit.||||reg||1
+Z||000004||buds||07-18-2000||01:11 PM||||It may be a copy but it was half the price of zumalt or archie.Im from canada so once you add the exchange it turns into $4500.Hardly worth it for a car I paid $600 for.||||reg||3
+Z||000005||BizzaroGT||07-18-2000||03:12 PM||||Buds, how can I contact this company for information and prices?  Do they have a web page?  I'm interested in getting some individual pieces from a V8 kit but not the whole kit.  Thanks for any info.||||reg||5

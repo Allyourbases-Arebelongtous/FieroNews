@@ -1,0 +1,3 @@
+A||||1||mrfiero||68K mile '88 GT (still for sale)||||10||
+Z||000000||mrfiero||01-13-2001||12:00 AM||||This is it......the last hurrah before I list it in the local paper or try eBay again.<P>'88 GT, silver, gray cloth, auto., air, cruise, tilt, pw, pm, pdl, sunroof, spoiler, 68K miles, new KYB shocks.<P>Needs front exhaust manifold, lower ball joints and possibly a new catalytic convertor.  <P>Will see outright for $4000......this includes delivery anywhere in the lower 48 states.  <P>I would also entertain any interesting trades.......I'd like another 5-sp. '88 Formula w/T-Tops. <P>Anyone?||||reg||10
+Z||000001||mrfiero||01-13-2001||12:19 AM||||Sorry......I wasn't paying attention to which forum I was in!  I'll repost in the mall, so don't reply here.||||reg||1

@@ -1,0 +1,3 @@
+A||||1||fogglethorpe||Drat!||||1||
+Z||000000||fogglethorpe||11-23-2001||02:21 PM||||My wife is at work, my son is at work, my other kids are out with in-laws...I have an entire day to myself! Sounds great, doesn't it?<P>I thought it would be great, but I'm BORED BORED BORED!<P>I guess I'll paint one of the walls to keep busy...<BR><P>------------------<BR>I don't think so;therefore, I'm probably not.||||reg||1
+Z||000001||Fformula88||11-23-2001||02:32 PM||||Could be worse.  I am at work and I am bored.  Its a beautiful day outside and I can think of a million better things to do than sit in front of a computer here.  Especially since about 80% of the staff here took the day off!||||reg||1

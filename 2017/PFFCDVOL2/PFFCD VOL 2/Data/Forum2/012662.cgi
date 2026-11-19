@@ -1,0 +1,6 @@
+A||||4||ds21||Enviro-Safe refrigerant?||||1||
+Z||000000||ds21||08-10-2001||08:08 AM||||Yes I was wondering if anyone has tried this product, "Enviro-Safe" from autorefrigerants.com says its compatable with both r12 and 134 ie; no need for oil or ring changes, also claims to cool better than either of them. I live in WI and they charge a mint to change over to 134. <P>Thanks!||||reg||1
+Z||000001||isthiswhereiputausername?||08-10-2001||08:24 AM||||Never tried the enviro one but theres  a kit that allows you to convert to 134a yourself.  you can get it at walmart/pepboys/etc..<BR>do a search for it since it was discussed recently..<P>||||reg||1
+Z||000002||Joe Torma||08-10-2001||11:22 AM||||I got a can of "booster" that apparently makes the 134a system 8% colder.  Dunno if it works yet.  I also got a high pressure switch through JC Whitney that cuts out the system at like 400psi(apparently optiumum pressure for  the 134) when you retrofit.  I needed this because the 3400series compressor  doesn't have a cut out switch.<P>Joe||||reg||1
+Z||000003||JohnF||08-10-2001||11:29 AM||||Check out the "Ogre's Cave" at the top of this page.  It just about says it all!||||reg||11
+Z||000004||cadaver||08-11-2001||12:41 AM||||I dont know R-12 seems to work just fine foe me.||||reg||1

@@ -1,0 +1,4 @@
+A||N||2||1FST2M6||Serious about grip? ||||1||
+Z||000000||1FST2M6||06-13-2001||08:09 AM||||the shop just got some KAAZ limited slip differentials in for the isuzu 5spd. installed for $1250.  they are looking for somthing to work in my automatic... a must for a high HP car... <P>------------------<BR>       <IMG SRC="http://www.fiero.nl/uploads/sig1fst.jpg">       <BR>www.engineered.net<BR>www.enthuza.com||||reg||1
+Z||000001||Eric||06-13-2001||09:51 PM||||Have you tried out your nitrous yet, Travis?  Sorry to keep bothering you about it, but I'm really interested in your setup and I can't find too much info on it.||||reg||1
+Z||000002||onfire||09-15-2001||12:36 PM||||while searching for something else I ran across this. Just wondering if you had found anything for the auto yet? <P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/onfiresig.jpg"> ||||reg||1

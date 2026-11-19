@@ -1,0 +1,6 @@
+A||||4||Mark||Hubcentric wheels for Fiero ?||||1||
+Z||000000||Mark||01-12-2001||07:11 PM||||When an aftermarket wheel supplier claims their wheel fits a Fiero, does this necessarily include the correct hub diameter?  In other words, are aftermarket wheels hub-centric?  Does anyone know the Fiero hub diameter? (my car is in storage and not avaible for measurements). ||||reg||1
+Z||000001||theogre||01-12-2001||07:25 PM||||usually all it means is that the lugs line up. You'll have to check the specific wheel with the maker.||||reg||1
+Z||000002||danny boy||01-12-2001||07:42 PM||||Yep, ran into that with another car of mine.Wheels would bolt up, had major clearance problems elsewhere(rubbed the suspension and calipers).Also make sure the offset is correct.||||reg||1
+Z||000003||Mark||01-13-2001||02:04 PM||||Can anyone confirm the hub diameter on the '86s?  In this article...http://www.webelectricmagazine.com/99/4/brakes.htm...Lawrence described a brake disk adapter that had a centefr hole diameter of 2.276" (57.8 mm).  This was for an '88 though.  Is this the same for pre '88s?||||reg||1
+Z||000004||Smokin87||01-13-2001||02:32 PM||||the wheels will align, but there could be some more problems down the line.  just because the wheels line up, that doesnt mean everything else will.  you could end up rumbing something while driveing and turning||||reg||1

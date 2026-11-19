@@ -1,0 +1,6 @@
+A||N||4||mxz71||86 front lower balljoints??????||||1||
+Z||000000||mxz71||05-06-2001||07:45 PM||||In both of my repair manuals it says that in order to change the lower balljoints in the front you have to change the complete lower arm due to them being welded in...but all auto parts stores including the fierostore sell just the balljoint...so I want to know exactly what I am to do to get them lowers changed???||||reg||1
+Z||000001||Fierowrecker||05-06-2001||08:34 PM||||Hey MXZ!<BR>They were tack welded in after being pressed in...<BR>Grind off the weld, and press out the old joint...<BR>crash...<BR>||||reg||1
+Z||000002||Tigger||05-06-2001||09:54 PM||||I just replaced mine.  You may want to use a dremel to get in and cut the weld.  I had new ones pressed in and tack welded.  I put that c-ring clip on it even though it probably won't ever be of use.||||reg||1
+Z||000003||GT GT 87||05-06-2001||10:06 PM||||Just a quick question--------Did you have to take the a-arm off to press it out and in ? Or can it be done on the car?||||reg||1
+Z||000004||theogre||05-06-2001||11:11 PM||||There is a poratble press that should be able to do it on car. You may be able to borow or rent it from some parts stores. ||||reg||1

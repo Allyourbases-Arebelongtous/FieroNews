@@ -1,0 +1,2 @@
+A||||0||DL10||Fiero only get together||||14||
+Z||000000||DL10||08-20-2000||09:20 AM||||El Paso Fiero Show......South Point Park, El Paso Illinois     Aug. 26 2000.....everyone is invited to come and have a day with fellow Fiero Lovers. Fiero Bob, V-8 Archie, Rodney Dickmen and me and my DL10 Predator. for more imformation     <A HREF="http://www.geocities.com/MotorCity/1930/elpasoshow.html" TARGET=_blank>http://www.geocities.com/MotorCity/1930/elpasoshow.html</A>       Hope to see some of you from Il. there.            Dave||||reg||14

@@ -1,0 +1,6 @@
+A||||4||Ray Heath||2.8 to 3.4 OHV Upgrade
+Z||000000||Ray Heath||05-07-99||03:49 PM||||Has anyone upgraded from 2.8 to 3.4 OHV engine?  I am currently trying to find information regarding this upgrade. Major concerns at present are using the aluminum heads, compression, valve clearance, etc.. All help will be most appreciated.
+Z||000001||Phil||05-07-99||06:17 PM||||If you put a 3.1 crank and .030 over pistons in your 2.8 you wind up with a 3.2 which is pretty close and no bracket or wiring hassels
+Z||000002||Ray Heath||05-08-99||05:36 AM||||I would like to use the aluminum heads from  the 3.1 as I have read they are far superior to the LH7 heads that the Fiero 2.8 uses. What problem will this cause? Any idea what the compression ratio would be with these 28cc heads?
+Z||000003||PaUL||05-08-99||11:33 PM||||I believe the aluminum heads have different intake port spacings from the cast iron heads, being evenly spaced. So you wouldnt be able to use the stock fiero intake manifold with these heads. I think the exhaust port spacing is the same. 
+Z||000004||Carrolles||05-11-99||11:06 AM||||The aluminum heads use a different piston.  If you use yours pistons you'll get only around 7.5 to 8.0 compression ratio.

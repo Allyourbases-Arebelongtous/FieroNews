@@ -1,0 +1,2 @@
+A||N||0||gmata||Installing Sunroof Rails/Channels... Easy or Hard||||5||
+Z||000000||gmata||10-18-2001||02:29 PM||||I removed the old rusted sunroof channels.  Just bought the channels and a new seal.  I got an estimate from a body shop. They want to charge me $150 for installing the channels and seal.  Is this an easy job?  The only thing I don't feel comfortable with are the rivets.  Don't know how to use a rivet or what size of rivets to use.. <P>Help,<BR>Gus||||reg||5

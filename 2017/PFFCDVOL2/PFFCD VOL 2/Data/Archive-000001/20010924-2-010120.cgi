@@ -1,0 +1,3 @@
+A||||1||mrgone||soon fiero, soon. maybe tomorrow. woo! ||||1||
+Z||000000||mrgone||05-02-2001||04:12 PM||||just got some statefarm insurance today<BR>244 a month!!! woo instead of 375!!<BR>car maybe certified tomorrow if it passes emmissions<P>getting plates soon too!<P>now to learn stick......... ^_-||||reg||1
+Z||000001||fropuff||05-02-2001||04:24 PM||||Good job!  $244/month is a lot!  I think mine averages out to be $66.66 per month, but since I only drive it 6 months/year, it's like $133.  It's insured under my dad, though.<P>------------------<BR>Fuzz busters are for those who are worried about being caught.||||reg||1

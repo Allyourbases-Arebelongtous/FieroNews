@@ -1,0 +1,6 @@
+A||N||4||86SEFIERO||windshield replacement||||1||
+Z||000000||86SEFIERO||04-13-2001||01:08 PM||||<BR>How hard is it what do <BR>i need?||||reg||1
+Z||000001||rogergarrison||04-13-2001||01:19 PM||||You have to take wipers and plastic trim panel off. then pull out the rubber strip running around the outside of glass. Then you need a length of piano wire and two pieces of wood to use as handles on either end. saw thru the goo around the glass all the way and have someone catch it as you push it from the inside.Youll need a calking tube of the sealer to put it in. Yards around here wont remove windshields. Actually a brand new one installed and them doing all the labor is only $115.00 dollars-all you have to do is watch em and sign the check.||||reg||1
+Z||000002||86SEFIERO||04-13-2001||01:28 PM||||I already have another windshield. Whats the name of that caulk you are talking about?||||reg||1
+Z||000003||rogergarrison||04-13-2001||03:23 PM||||have to get it at a major auto repair supply store, or see if a local auto glass place will sell you a tube. Dont use silicone, it will dry and leak pretty quick.||||reg||1
+Z||000004||GoCartGuy||04-13-2001||04:30 PM||||The "caulk stuff" is called Urethane.  You can get it at places like Advanced Auto Parts for like $12 a tube.  Buy two tubes, you'll need it.<P>------------------<BR>'85 GT "The GoCart"||||reg||1

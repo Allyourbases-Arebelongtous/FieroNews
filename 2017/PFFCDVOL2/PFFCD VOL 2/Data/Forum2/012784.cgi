@@ -1,0 +1,5 @@
+A||||3||85ZainoGT||Going to the track tonight!!!||||10||
+Z||000000||85ZainoGT||08-14-2001||10:48 AM||||Ok, I am going to the 1/4 mile track tonight, what should I expect from my stock 85gt (2.8L)? 1/4? 60'? trap speed? thanks...<p>[This message has been edited by 85ZainoGT (edited 08-14-2001).]||||reg||10
+Z||000001||hyhy4u||08-14-2001||11:43 AM||||OH..OH..i wanna come with!!..<P>Motor Tread- <BR>  0-60- 8.3 Sec.<BR>  1/4 mile- 16.2/84.2 MPH<BR>  <BR>Road and Track-<BR>  0-60-8.4 sec.<BR>  1/4 mile- 16.5/84.5 MPH<P>Car and Driver- <BR>  0-60- 8.2 sec.<BR>  1/4 mile- 16.0/85.0 MPH<P>Thats for a 85 GT with a 2.8 Liter V6 with a 5 Speed...except the autos to be somewhat slower.<P><BR>||||reg||1
+Z||000002||Bluebottlejunky||08-14-2001||12:08 PM||||Don't you mean a 4sp? 85 GT's couldn't get the 5sp/only the 4sp.<P>------------------<BR>Hello, My name is Mike and I am addicted too fiero's...PLEASE dont help me.<BR>85'GT 4sp<BR>AIM: Fierofanatic2001||||reg||1
+Z||000003||BOILERMAKER||08-14-2001||01:08 PM||||Hmmm, wanna friend, Zaino?  I may be clear for tonight.||||reg||1

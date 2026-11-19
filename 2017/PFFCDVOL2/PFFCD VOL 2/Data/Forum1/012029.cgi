@@ -1,0 +1,13 @@
+A||||11||842m8||New Here!||||1||
+Z||000000||842m8||11-20-2001||09:56 PM||||Just thought I would say hello  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000001||FieroHarry||11-20-2001||10:02 PM||||Another engine swapping feind is always a welcome addition to our group of slightly insane Fiero owners!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR><BR><B>"If you want to blend in, take the bus!"</B>||||reg||12
+Z||000002||842m8||11-20-2001||10:05 PM||||I never knew there was a message board for Fieros until someone I knew sent me the link for that mustang picture LOL||||reg||1
+Z||000003||Haze_Performance||11-20-2001||10:18 PM||||Welcome to the Forum...  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/goodlife.gif">    <BR><FONT SIZE="1"><FONT COLOR="purple">Goto Website - <A HREF="http://www.ClassicFiero.com" TARGET=_blank>Click Here</A> </FONT></FONT>||||reg||14
+Z||000004||72vinman||11-20-2001||10:24 PM||||Another Ontario Member is great to see. .<BR>There are more forum members from Ontario than any other State or Province. Not bad Eh<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sigvin2_1.gif"> ||||reg||1
+Z||000005||842m8||11-20-2001||10:41 PM||||Brampton?! sweet... I was born in Brampton<BR>were you at the GTA Fiero show in Bramalea City Center?||||reg||1
+Z||000006||72vinman||11-20-2001||10:43 PM||||Yes I was Actually. I was even at the GTA fireo club meeting tonight.||||reg||1
+Z||000007||842m8||11-20-2001||10:50 PM||||I was at the Fiero Show.... that was sweet, I loved the Green convertible *drool*||||reg||1
+Z||000008||72vinman||11-20-2001||10:56 PM||||Actually the convertibile was bergundy. The green car had t-tops with a lot of custom body mods. Both were very nice.<BR>Here is a link to some of the pics I took at that show. <A HREF="http://www.fiero.nl/forum/Forum1/HTML/010297.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/010297.html</A> <BR>||||reg||1
+Z||000009||842m8||11-20-2001||11:02 PM||||oh you almost got my car in a few of those pictures!<BR>I wasn't in the show but I was parked right on the otherside of the yellow tape.... red 84 Fiero and my brothers 86 white Fiero was right beside me||||reg||1
+Z||000010||72vinman||11-20-2001||11:06 PM||||Where abouts are you in TO. We should hook up some time and talk shop.||||reg||1
+Z||000011||842m8||11-20-2001||11:12 PM||||actually... I'm in Cambridge not too many people know where it is so I just put Toronto<BR>but yeah we should meet up some time, I'd like to check out your car, I'm pretty sure I seen it in the show!!||||reg||1

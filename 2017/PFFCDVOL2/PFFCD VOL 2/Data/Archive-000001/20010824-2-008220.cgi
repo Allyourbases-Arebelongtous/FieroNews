@@ -1,0 +1,6 @@
+A||||4||Richard Parnell||AC hose to compressor||||5||
+Z||000000||Richard Parnell||02-01-2001||01:48 PM||||Where can I get the ac hose assembly that connects from the compressor to the hoses going up front?  Mine leaks, I had it welded but it still leaks and I just want to get a new one.  Also I notice now when I turn on the ac the relay does not fire and turn on the compressor.  Is this because I removed the computer?  What rewiring do I need to do to have the ac turn on once I have the new hose assembly installed, when I get it.||||reg||5
+Z||000001||Phil||02-01-2001||01:57 PM||||I had mine repaired at a hydraulic hose repair shop. Fiero Store has 'em but they aren't cheap.||||reg||1
+Z||000002||hugh||02-01-2001||06:20 PM||||All air conditioning systems have pressure controls.No pressure(low or out of freon)and the clutch will not be energized to protect your compressor and system.||||reg||1
+Z||000003||MrPBody||02-01-2001||07:48 PM||||Probably an auto air conditioning supply house would have it.  I priced one for my '85 2.5; it was expensive enough that I didn't buy it.  (I don't remember exact $.)<P>Salvage yard is also a possible source.<BR>||||reg||1
+Z||000004||danny boy||02-02-2001||05:24 PM||||ED PARKS AT THE FIERO FACTORY!!!<BR> <BR>HIS EMAIL IS FIEROFACTORY@JUNO.COM<p>[This message has been edited by danny boy (edited 02-02-2001).]||||reg||4

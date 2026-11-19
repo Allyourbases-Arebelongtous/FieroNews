@@ -1,0 +1,4 @@
+A||N||2||reddog||Ultra light wanted||||1||
+Z||000000||reddog||10-18-2001||10:07 PM||||Looking for a used ultra light(aircraft). Fixed wing or trikes. Does anyone know anyone that has one for sale or maybe trade for a s10 blazer or YZF600R!||||reg||1
+Z||000001||jlhuber||10-19-2001||12:15 AM||||Check <A HREF="http://www.tradeaway.com" TARGET=_blank>www.tradeaway.com</A>   There are a couple (1 or 2 in TN) last I checked.  I'm looking for one too. <P>------------------<BR>--Jess--<BR>      <BR>If you expect the unexpected, was it really even unexpected in the first place?||||reg||1
+Z||000002||Fleabitdog||10-19-2001||04:08 PM||||Grab an ushga (United States hang gliding asociation) magazine at a news stand. They have clasifieds in the back. I've seen some pretty good ads in there.Dave||||reg||10

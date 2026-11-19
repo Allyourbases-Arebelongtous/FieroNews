@@ -1,0 +1,3 @@
+A||||1||yo_sweet||How much do head gaskets cost for the 2.8l?||||1||
+Z||000000||yo_sweet||12-05-2001||12:15 PM||||just curious because i have craked bolt in my manifold so if i take it off im going to need a new one correct? also if i take the plenium off will i neeed new gaskets also?<P>just curious<P>------------------<BR>1986 Fiero SE 2.8lv6<BR>  <IMG SRC="http://www.fiero.nl/uploads/dance.gif">  <P><BR>www.geocities.com/acme_s2000/intro.html<BR>yo_sweet!||||reg||1
+Z||000001||cadaver||12-05-2001||01:25 PM||||Not sure I understand. You broke a bolt in the manifold and you need head gaskets?<BR>Yes if you separate a part you need a new gasket. If its just a broken bolt then just remove the piece and install a new bolt.||||reg||1

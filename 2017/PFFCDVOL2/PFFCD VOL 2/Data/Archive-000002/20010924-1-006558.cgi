@@ -1,0 +1,2 @@
+A||N||0||FieroPerformance||PFF Window Decals now available!||||4||
+Z||000000||FieroPerformance||04-01-2001||06:00 PM||||I am now selling Pennock's Fiero Forum window decals through my web site. Please visit it at <A HREF="http://www.fieroperformance.com" TARGET=_blank>www.fieroperformance.com</A> <P>Thanks,<BR>-Charlie<BR>------<BR>jackalrr@cinci.rr.com <A HREF="http://www.fieroperformance.com" TARGET=_blank>www.fieroperformance.com</A> <BR>||||reg||4

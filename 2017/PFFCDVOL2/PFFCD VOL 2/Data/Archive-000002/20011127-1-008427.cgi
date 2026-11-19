@@ -1,0 +1,4 @@
+A||N||2||FieroSTETZ||someone stole dogtireds daughter on ridejudge||||1||
+Z||000000||FieroSTETZ||06-27-2001||02:07 AM||||isn't it dogtired's daughter in this picture?<BR>what ever happened to him, anyways? pennocks oldtimer that hasn't been around in a while<BR>btw ricers suck, after fast and the furious came out, i dropped from the 200's on ridejudge to 570 something. it should be "ricejudge"<P>------------------<BR>     <IMG SRC="http://www.shawnrocks.com/Animation1.gif"> ||||reg||1
+Z||000001||Hef||06-27-2001||03:47 AM||||forgot the picture..  <IMG SRC="http://www.fiero.nl/forum/tongue.gif"><P>------------------<BR>||||reg||12
+Z||000002||william_thorniii||06-27-2001||04:56 PM||||Stetz,<P>Every once in a while he will post to Wallace's list.  His e-mail has not changed to my knowledge (dogtired@juno.com).  Can anyone confirm?<P>William T. Thorn, III||||reg||1

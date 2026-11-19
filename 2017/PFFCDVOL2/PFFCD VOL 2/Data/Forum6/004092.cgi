@@ -1,0 +1,4 @@
+A||||2||Smoooooth GT||Osama pic...lol great wallpaper.||||1||
+Z||000000||Smoooooth GT||11-04-2001||12:48 AM|||| <IMG SRC="http://www.fiero.nl/uploads/OSAMA..jpg">    Sorry so big.. but I LOVE IT!!!!<P>------------------<BR>UNDER CONSTRUCTION <BR>  <IMG SRC="http://www.fiero.nl/uploads/Yellow_sig.gif">   <IMG SRC="http://www.fiero.nl/uploads/smooth_sig_blue.gif"> ||||reg||1
+Z||000001||FieroMontreal||11-04-2001||12:52 AM||||LOL, that line is the best!<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sigfieromontreal_1.gif"> <BR>1986 Fiero GT, STOCK Wingless, <BR>-Alex President of FieroMontreal... <A HREF="http://www.fieromontreal.com" TARGET=_blank>www.fieromontreal.com</A> ||||reg||1
+Z||000002||FieroKyle||11-04-2001||01:28 AM||||no, he is hiding in his cave. LMAO  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

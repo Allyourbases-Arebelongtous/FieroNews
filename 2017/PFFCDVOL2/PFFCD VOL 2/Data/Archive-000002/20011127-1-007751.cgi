@@ -1,0 +1,5 @@
+A||||3||JohnnyK||Being forced to sell my Fiero||||1||
+Z||000000||JohnnyK||05-29-2001||12:20 PM||||Ok, I have to get rid of it quickly to make room for a new Maxima (woooo.. Not like I'll get to drive it though) and a Camry. It's an 85 2m4 with all power options, sunroof, 140000 miles on it... there are pictures at <A HREF="http://members.home.net/gkrikorian" TARGET=_blank>http://members.home.net/gkrikorian</A>    I'm not trying to sell it to you here, I just want to know what you guys think I should ask for it.||||reg||1
+Z||000001||Urchin||05-29-2001||08:49 PM||||I just wanted to say, nice choice in cars.  I love maximas.  I'd say maybe 2000ish would probably be a fair price though.<P>------------------<BR>If you can read this, I'm parked.<BR> <IMG SRC="http://www.fiero.nl/uploads/signature_8.jpg"> ||||reg||1
+Z||000002||cadaver||05-29-2001||10:21 PM||||I dont understand. You have to lose your car for another car that you wont be driving?||||reg||1
+Z||000003||gabriel||05-30-2001||04:02 PM||||Sounds like mom & pop moving out the Fiero ....||||reg||1

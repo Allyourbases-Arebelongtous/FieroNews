@@ -1,0 +1,5 @@
+A||||3||grizco||17" wheels on a Fiero?||||1||
+Z||000000||grizco||02-03-2000||01:59 AM||||I'm looking at getting a new set of rims for <BR>my 84 SE and was wondering how big a tire combo would fit?||||reg||1
+Z||000001||Monkeyman||02-03-2000||03:42 AM||||Do a search.  We've discussed this before.  I think we decided that 18s would fit with some suspension mods and 17s might make it without.  Be careful of the back set, though.  Even a 6mm difference in the back set won't work with the stock suspension.  I know this from experience.||||reg||1
+Z||000002||grizco||02-04-2000||02:12 AM||||Thanks,<BR>I found a picture of a Fiero with 17" wheels on it but I think they would make the ride two stiff for the roads up here in Alaska <BR>(real stiff when the temperature drops to -50 and colder).<BR>I'll probably go with 15" rims and 50 series tires.||||reg||1
+Z||000003||WKDFIRO||02-04-2000||01:03 PM||||Hey Griz, take a look at 16s. With 50 series tires they fill in the wheel wells nicely with out having clearence problems. Im running 225s on mine an never had a problem.||||reg||1

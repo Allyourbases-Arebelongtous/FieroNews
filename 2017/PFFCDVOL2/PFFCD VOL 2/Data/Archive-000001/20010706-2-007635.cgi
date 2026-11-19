@@ -1,0 +1,6 @@
+A||||4||kevin||power window swithches||||1||
+Z||000000||kevin||01-03-2001||04:56 PM||||I seem to remember a thread bieng posted concerning the replacment of stock Fiero power window swiches from a donor Bonneville, Grand Am, or....? Any ideas about which swithces would fit?||||reg||1
+Z||000001||fiero56||01-03-2001||05:01 PM||||<B>Boilermaker</B> has installed GP switches in his Fiero. ||||reg||1
+Z||000002||BOILERMAKER||01-03-2001||05:47 PM||||I have installed GP window switches into my GT, but the only problem was that they were the kind of switches like on the 97 GP's.  They were quite intense to fit into the spaces that the old switches fit into.  Lots of dremelling and epoxying involved.  They work great though.||||reg||1
+Z||000003||theogre||01-03-2001||07:40 PM||||there is an article about lighted switches by Bill Osmer in my cave. it's in options and projects.||||reg||1
+Z||000004||Bill Osmer||01-04-2001||12:34 PM||||Boilermaker's right - lot's of grinding and fitting. It's not a "drop-in" type of project, but the results were good enough that I thought everyone should know not only that it COULD be done, but also HOW to do it.<P>Feel free to email me with questions.<P>------------------<BR>Bill Osmer<BR> <IMG SRC="http://www.fiero.nl/uploads/forumcardsig2.jpg"> ||||reg||14

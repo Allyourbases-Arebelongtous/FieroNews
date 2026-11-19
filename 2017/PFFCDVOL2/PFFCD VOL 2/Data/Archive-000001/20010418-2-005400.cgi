@@ -1,0 +1,2 @@
+A||N||0||86_Fastback||3.4l question||||1||
+Z||000000||86_Fastback||08-24-2000||03:20 PM||||I am starting to iron out the details for a 3.4l swap in my 86  GT.   My questions involve the intake manifold.   I am not to concerned about stealth, but everyone mentions using the fiero's.  Which one would give better performance?  Disadvantages/advantages for both?  <BR><P>------------------<BR> ||||reg||1

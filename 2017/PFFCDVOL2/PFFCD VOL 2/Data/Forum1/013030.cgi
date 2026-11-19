@@ -1,0 +1,3 @@
+A||||1||FieroKyle||ATTN: GTDude and Uanna||||1||
+Z||000000||FieroKyle||12-28-2001||02:26 PM||||GTdude, your pool ball shifter is made, just waiting on your check. E-mail me to at: YaktyYak@aol.com<P>Address: <BR>Kyle Geldersma<BR>12405 McPherson<BR>Lowell, Mi 49331<P>Uanna, if ya want me to make ya that blue 2 ball, I bought ya one and can still make it for ya. If ya don't, thats fine too. I can have it made in one day. Email me or reply here. Infact you want it still, email me and just send the check/money order out.<P>Thanks<P>------------------<BR>      <IMG SRC="http://www.fiero.nl/uploads/fierokylesig_1.gif">      <P>My Fast 'n Black Car<BR>Kyle - 85' GT||||reg||1
+Z||000001||FieroKyle||12-28-2001||08:54 PM||||bump||||reg||1

@@ -1,0 +1,4 @@
+A||||2||yobtah||Exhaust Y-Pipe Removal?||||1||
+Z||000000||yobtah||05-11-2000||11:40 AM||||I have an 87 SE V6... the weld where the tube for the EGR valve branches off of the Y-pipe is cracked.  I assume I need to remove the Y-pipe and have it rewelded.  Can I remove the pipe without pulling the engine or removing the exhaust manifolds?||||reg||1
+Z||000001||Carrolles||05-11-2000||01:45 PM||||Yes||||reg||1
+Z||000002||Raydar||05-11-2000||05:26 PM||||Two bolts hold the crossover to each manifold. Two more (with springs) hold the exhaust pipe to the bottom of the Y-pipe.<BR>Spray the bolts with Liquid Wrench, and let them marinate, overnight. All of mine came out without breaking. I did have to cut one of the front bolts, because the head was so rusted that a socket wouldn't grip it. <BR>Remove the rubber air duct that connects between the air filter housing and the throttle body. It's in the way.  ||||reg||1

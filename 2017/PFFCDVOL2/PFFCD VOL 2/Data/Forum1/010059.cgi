@@ -1,0 +1,6 @@
+A||||4||operator64||Carfax Report if someone could help||||1||
+Z||000000||operator64||09-04-2001||08:30 PM||||   Looking at another Fiero and would like to get a carfax on it. 1G2PG9799GP277447 Any help would be greatly appreciated.<BR> Thanks , Operator<BR>||||reg||1
+Z||000001||Knight Rider||09-04-2001||11:38 PM||||I too am looking at buying my first Fiero.  If someone is running a CarFax for Operator, would you be so kind to do so for me also.  The vin is 1g2pg3790fp254764.  I know I could get a report for $15.00, but if someone would be so kind to do this it would be much appreciated.||||reg||1
+Z||000002||MinnGreenGT||09-05-2001||10:16 AM||||You've both got mail...<P>------------------<BR>      <IMG SRC="http://www.fiero.nl/uploads/grngtsig3.jpg"> <BR>Medium Metallic Green 87 GT<BR>3.1L High Output<BR>4 Spd OD Tranny<BR>Open (read: Loud) Exhaust<BR>and More!<BR>-Rob Bartlett||||reg||1
+Z||000003||operator64||09-05-2001||10:56 AM||||Thank You, Thank You very much, greatly appreciated. I guess i'll buy this one, got a good deal on it and he'll deliver it too.<BR>  Thanks again, operator||||reg||1
+Z||000004||Knight Rider||09-05-2001||12:34 PM||||Thank You!!  I too very much appreciate the CarFax.  Wish me luck.  Time to contact the seller and see if I can close the deal on my first Fiero.||||reg||1

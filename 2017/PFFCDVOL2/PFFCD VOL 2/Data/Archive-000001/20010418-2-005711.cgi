@@ -1,0 +1,3 @@
+A||||1||Blaster||Questions for all who have carbed the 2.8||||1||
+Z||000000||Blaster||09-13-2000||11:04 PM||||Ok... I was wondering what all would have to be done. I know I would have to lose most/all of computer. I have been told that I can keep my original dist. and I have been told I can't. I don't think I can, but then again I could be wrong. If anyone has done this switch, please let me know how and what you did. Thanks.||||reg||1
+Z||000001||terryk||09-14-2000||12:05 AM||||You will lose:<P>1. Distibutor control (you will need an new dist).<BR>2. TCC (if automatic/no solution).<BR>3. EGR (I know, you're hurt!)<BR>4. AC control (rewire-able).<BR>5. Performance/mileage.||||reg||1

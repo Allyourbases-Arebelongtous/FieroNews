@@ -1,0 +1,3 @@
+A||||1||strdream||lowering spring for rear||||1||
+Z||000000||strdream||06-01-2001||10:47 AM||||Someone is asking me what lowering springs would work best for the rear if they use our drop spindles in the front. <BR>What are you guys getting the best results from?<BR>Where is the best place to buy them?<BR>I am thinking of maybe offering them in a package deal.<BR>Thanks<BR>Ross||||reg||1
+Z||000001||Oreif||06-01-2001||11:22 AM||||Eibachs lower the rear 1.5". RCC makes an adjustable coil-over kit for the rear. That way you can adjust the ride height. The RCC way would be the way to go if using dropped spindles in the front. The ride quality won't suffer as much. I am not sure who else sells an adjustable coil over kit, but I've seen others.||||reg||1

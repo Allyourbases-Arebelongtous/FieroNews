@@ -1,0 +1,3 @@
+A||||1||FOCONE||FOCONE OOB, ME June15-16 Two Weeks Away!||||10||
+Z||000000||FOCONE||06-03-2001||08:47 AM||||Fiero Owner's Club of New England<BR>6th Annual Summer Show<BR>Old Orchard Beach, ME<BR>June 15-16, 2001<P>I just can't believe that our Old Orchard Beach Fiero show is now just under two weeks away.<P>Anyhow, we now have 35 pre-registered Fieros.  At this time it looks like it is going to be a record breaking show. <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>If you would like more info about the show, please feel free to contact me.<P>Thank you,<P>Chris Schaefer<BR>FOCONE Membership Director/Editor<BR>chris.schaefer@focone.org||||reg||10
+Z||000001||FOCONE||06-11-2001||08:46 PM||||TOP||||reg||14

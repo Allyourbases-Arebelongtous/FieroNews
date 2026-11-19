@@ -1,0 +1,6 @@
+A||||4||Ken Wittlief||attacked by cavemen||||10||
+Z||000000||Ken Wittlief||10-25-2001||10:17 AM||||was watching the news last night on the fighting that has been going on in afghanistan for the last 10 years<P>when it suddenly occured to me<P> these people are nothing but dam cavemen!<P> they still treat women like dogs<P> they survive by killing each other<P> sure they have guns and radios now<P> but mentally and physically, they literally are cavemen!||||reg||10
+Z||000001||Butter||10-25-2001||12:45 PM||||Well I would say Fred Flintstone went postal.<BR>Yes he really did and got Barney to go with him.  They got all of Bedrock stirred up.<P>Where is Wilma when you need her?<P>Willlllmaaaaaaaa!||||reg||10
+Z||000002||falconhulk||10-25-2001||01:14 PM|||| <A HREF="http://www.fiero.nl/forum/Forum6/HTML/003914.html" TARGET=_blank>http://www.fiero.nl/forum/Forum6/HTML/003914.html</A> <P>related topic||||reg||1
+Z||000003||FieroMontreal||10-25-2001||08:26 PM||||Do they have Fiero's in Afghanistan? wait.. do they even have roads?  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000004||Return of Fiero||10-25-2001||11:27 PM||||If they have Fieros in "I-Cant-A-Stand", can we export those Fieros? I would hate to see the inocent get butcherd over this.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>Myke||||reg||1

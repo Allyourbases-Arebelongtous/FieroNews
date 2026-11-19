@@ -1,0 +1,2 @@
+A||||0||FieroSTETZ||guys on camaro forum check this page out||||1||
+Z||000000||FieroSTETZ||06-02-2000||02:23 AM||||i was reading on a camaro forum, and mention of our forum pops up all over. my favorite is "check over at the fiero forum, people with modded 2.8's are making...."  <A HREF="http://www.umount.com/thirdgen/techboard/Forum10/HTML/000648.html" TARGET=_blank>http://www.umount.com/thirdgen/techboard/Forum10/HTML/000648.html</A> ||||reg||1

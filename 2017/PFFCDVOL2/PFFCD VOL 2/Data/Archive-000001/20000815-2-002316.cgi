@@ -1,0 +1,3 @@
+A||||1||wkayl||EGR tube repair||||3||
+Z||000000||wkayl||02-12-2000||11:28 PM||||This is a temporary repair.  The tube was cracked just below where it bolts to intake.  After cleaning with wire wheel on my grinder, I spot welded it with a mig welder.  It was rusted quite thin, so welding was almost impossible.  I then coated the upper 2 inches with JB Weld (quick set kind).  I don't know how long it will last, but hopefully long enough for my son to save the money for a new one.||||reg||3
+Z||000001||mshill||02-13-2000||05:16 PM||||I repared mine (broke in the exact same place) with JB Weld (a lot of it) and it has held up for the last 1000 miles.  Eventually, I will replace with the steel braided one.||||reg||1

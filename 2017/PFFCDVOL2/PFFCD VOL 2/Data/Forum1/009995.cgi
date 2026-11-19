@@ -1,0 +1,5 @@
+A||N||3||V8Dreamer||Anyone have the Fiero Parts CD?||||1||
+Z||000000||V8Dreamer||09-01-2001||10:33 PM||||I was just wondering if anyone happened to have a copy of the Fiero Parts CD-ROM.....and of course if I could find someone willing to send it to me for "trial" purposes of course......<P>Please E-mail me with any info...||||reg||1
+Z||000001||MrPBody||09-02-2001||11:18 AM||||Just tell me where to get one . . . ?<BR>||||reg||1
+Z||000002||V8Dreamer||09-02-2001||11:39 AM||||there's a dutch auction on E-bay right now.....I think the  guy wanted $50 plus like $8 shipping......I'll post a link later on today for you.....<P>Ryan||||reg||1
+Z||000003||isthiswhereiputausername?||09-02-2001||12:59 PM||||I dont think anyone on here bought one yet..maybe a few of us should split the cost for "trial" purposes  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P><BR>I contacted one of the people who ordered the cd to see if it was worth the money and he had this to say ;<P>"I think that the money spent towards the cost of a manual for your specific year would be money better spent. It is a little hard to manuver around the CD...it is kind of a novelty."||||reg||1

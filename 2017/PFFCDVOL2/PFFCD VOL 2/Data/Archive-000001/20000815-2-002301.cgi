@@ -1,0 +1,9 @@
+A||||7||GWMORGAN||Nut Size.||||1||
+Z||000000||GWMORGAN||02-11-2000||03:39 PM||||Can anyone tell me what size nut holds the rear hub on...I think it's 30 or 32mm. I don't remember tho.  TIA||||reg||1
+Z||000001||Carrolles||02-11-2000||04:22 PM||||It is a 30 mm on my 85se v-6 4 spd.||||reg||1
+Z||000002||theogre||02-11-2000||05:07 PM||||30mm on on fiero thru 87. I don't know for 88. The 3 bolts that anchor the hub to the bracket are 18mm.<P>When removing the spindle nut do it with the wheel on, the e brake pulled or some one holding the brakes, and the car on the ground. It's much easier to get that way. do the final torquing the same way. Otherwise the suspension bounces all over. You might even could damage something if it's in the air. These nuts are Very tight. I used a 3 foot bar to get mine off and still put considerable weight on it. The nuts will only turn with a wrench all the way off and on. they are locking nuts.  You are suposed to replace them any time they are removed.<P>Only thing I know that's 32 is something big like Dodge Caravan. <p>[This message has been edited by theogre (edited 02-11-2000).]||||reg||1
+Z||000003||Monkeyman||02-11-2000||05:10 PM||||Kind of a personal question, isn't it? <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000004||Eddie.H||02-11-2000||05:13 PM||||monkeyman your crazy that was funny but I bet YOU would love to know||||reg||10
+Z||000005||GWMORGAN||02-11-2000||08:21 PM||||Thanks for the info guys.||||reg||1
+Z||000006||Formula||02-11-2000||08:33 PM||||about the size of a basketball (each)||||reg||1
+Z||000007||Monkeyman||02-11-2000||08:56 PM||||Formula--I believe the medical term would be "elephantitis of the testicles".  Your girlfriend would have to sit in the back seat because various parts of your anatomy would occupy the passenger seat.||||reg||1

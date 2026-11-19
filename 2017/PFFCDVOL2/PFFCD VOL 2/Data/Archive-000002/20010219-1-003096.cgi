@@ -1,0 +1,2 @@
+A||||0||Homicidal||First bachelor party..........||||6||
+Z||000000||Homicidal||07-29-2000||09:37 PM||||I know this should be on the O/T board, but nobody ever reads that board!  If you decide to change it, it's all good here!  Figured I would give it a shot!<P>Anyways, I won't go into detail.  But it was my first bachelor party and the only thing I gotta say is:<P>I wish I had more friends getting married!||||reg||6

@@ -1,0 +1,3 @@
+A||||1||fierolarry||water separator removal||||6||
+Z||000000||fierolarry||03-15-2001||12:10 PM||||Anyone know an easy way to remove the water separator from an 87 GT.I want to make a ram air setup and intake kit.||||reg||6
+Z||000001||JC Webb||03-15-2001||05:33 PM||||If you just want to remove your water seperator, take a flat screw driver and a hammer and break it out through the intake scoop in the fender.  If you are thinking about removing the whole intake assembly ie filter, canister, etc. then run a search on cold air inductions posted by Slammed Fiero.  Hope this helps!<P>John C. Webb||||reg||1

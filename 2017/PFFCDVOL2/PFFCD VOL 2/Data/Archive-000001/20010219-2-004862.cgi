@@ -1,0 +1,11 @@
+A||N||9||fierocrazy||where do these wires go||||1||
+Z||000000||fierocrazy||07-21-2000||07:11 PM||||I pulled the engine out of my 85 GT a year ago.   Well there are 2 eyelets that come out of the haress with 2 wires a peice attached to them, I beleive the colors are olive and black, orange and green............ I think.   Well my question is I hooked them up to the possitive cable and it smoked the olive wire, Does anyone know if these wires are suppose to be grounded or do I have another problem..or am I missing somewhere they are suppose to go........ they come out of the harness at the same point as the ignition to starter wire,  please hepl me, this is the alst thing I need to do and my baby will be alive again. thanks||||reg||1
+Z||000001||brianp1fiero||07-21-2000||07:19 PM||||What is the size of the two eyelets?? [QUOTE]<BR><p>[This message has been edited by brianp1fiero (edited 07-21-2000).]||||reg||1
+Z||000002||fierocrazy||07-21-2000||08:50 PM||||i would guess around 10mm or 12mm  I am thinking more like 12mm.  they easiy fit over the positive post on the starter||||reg||1
+Z||000003||PJ||07-21-2000||10:09 PM||||I could be wrong but it sounds like the grounds to the driver side of the front head. <P>PJ<BR>ITA #66 Black||||reg||1
+Z||000004||Linx||07-22-2000||02:44 AM||||Uh oh- the only eyelets (with two wires) that I remember seeing around that area are grounds...they attach to two of the tranny-to-engine bolts- the one's nearest the exhaust 'y-pipe'.  Ive got pics somewhere...need 'em?||||reg||1
+Z||000005||80's BOY||07-22-2000||12:20 PM||||hey i remember those wires!! i had an automatic tranny, and my wires bolted on somewhere around the bell housing. just find any bolt to put them on. they are just ground wires.||||reg||1
+Z||000006||Formula||07-22-2000||05:54 PM||||"where do these wires go" famous last words||||reg||1
+Z||000007||SeanyD||07-24-2000||01:37 AM||||I just recently began yoinking the engine from my 84 and the eyelet wire came off the engine block!||||reg||1
+Z||000008||fierocrazy||07-26-2000||02:51 PM||||hey thanks to everyone for the help, i will post pics soon||||reg||1
+Z||000009||80's BOY||07-26-2000||05:57 PM||||we know what wires look like. <P>.........just kidding, i couldn't resist!!!!||||reg||10

@@ -1,0 +1,3 @@
+A||||1||pHoOl||fuel system cleaner||||1||
+Z||000000||pHoOl||03-14-2001||06:36 PM||||I picked up some of this at the store the other day.  Thought i'd give it a try.  Anybody know if this stuff works to clean out the injectors?<P>------------------<BR>Fuzz busters are for those who can't outrun the cops.<P>AIM: phool88fiero<P>    <IMG SRC="http://www.gvsuphool.homestead.com/files/pHoOl_sig.gif"> ||||reg||1
+Z||000001||KRMFiero||03-14-2001||07:38 PM||||I use Prestone's Fuel System Cleaner, it seems to work.   My sister also uses it in her Caravan, she says really notices a differnece.<P>Kyle||||reg||1

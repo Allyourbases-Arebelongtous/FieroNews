@@ -1,0 +1,5 @@
+A||||3||GTFiero1||any one with fiero convertibles||||1||
+Z||000000||GTFiero1||10-06-2001||06:36 PM||||anyone with fiero convertibles POST PICS HERE<P>------------------<BR>Adam J. B.||||reg||1
+Z||000001||DrRodey||10-06-2001||08:40 PM||||<BR>This is my 88 Formula<P> <IMG SRC="http://www.fiero.nl/uploads/con5.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/con4_1.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/con2.jpg"> .<P>------------------<BR>Hi... My names Dan, and i'm addicted to Fieros.<BR>'88 Formula CONVERTIBLE<BR>'85 Coupe<BR>'84 coupe T-Top<BR>AOL IM = drrodey<BR>          <IMG SRC="http://www.fiero.nl/uploads/sig_2.JPG">     <BR> <A HREF="http://geocities.com/dr_rodey" TARGET=_blank>WEB SITE</A>||||reg||1
+Z||000002||fierosound||10-07-2001||02:59 PM|||| <IMG SRC="http://www.fiero.nl/uploads/5Fieros.JPG"> <P>The convertible's not mine, it belongs to on eof our members.  Mine's next to it.||||reg||10
+Z||000003||fierosound||10-07-2001||02:59 PM||||oops... double post<p>[This message has been edited by fierosound (edited 10-07-2001).]||||reg||10

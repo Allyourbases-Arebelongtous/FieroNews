@@ -1,0 +1,6 @@
+A||||4||mrgone||parts compatibility ||||1||
+Z||000000||mrgone||06-02-2001||07:08 PM||||i have an 86 2m4 5 speed<P>will the headlight bucket assembly with motors be compatible?<P>and my interior fan died, so would a 'blower motor' from an 84 with no ac work in it?||||reg||1
+Z||000001||Indiana_resto_guy||06-02-2001||07:12 PM||||The 'bucket' from any year is compatible with the '86. Motors from '84 to '86 are the same. Heater/Air blowers are the same for all years. Have you located these parts or just shopping? I have them all.||||reg||1
+Z||000002||mrgone||06-02-2001||07:41 PM||||really? i found 1 headlight assembly, and a blower motor and ill try to get those because they are cheap. i have to get some high priority things worked out on my car. Thanks! ill let you know though.<P>what about the brackets that hold up the metal coolent lines on the driver side?<BR>my brakets are broken right off... were they bolt on or welded? how could i fix this?||||reg||1
+Z||000003||danny boy||06-02-2001||07:53 PM|||| They bolt on. The coolant lines differ on some cars but the brackets should be the same.||||reg||1
+Z||000004||Indiana_resto_guy||06-03-2001||01:45 AM||||If you can't find good ones, try Fiero Dave.||||reg||1

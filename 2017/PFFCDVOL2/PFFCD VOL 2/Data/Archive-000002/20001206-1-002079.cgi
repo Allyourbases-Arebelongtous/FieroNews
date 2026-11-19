@@ -1,0 +1,8 @@
+A||||6||Uaana||Should I??||||5||
+Z||000000||Uaana||05-05-2000||01:56 AM||||This is really, really tempting, a kid at work has a shiney new red mustang with only the six in it. Well you guessed it he wants to try out a run against my GT.. Any comments on how I would fair? And yes mine is bone stock.||||reg||5
+Z||000001||GT Bastard||05-05-2000||02:58 AM||||3.8 V6 I believe...  I hear they're actually pretty fast.  Too bad it's still just a Mustang.  Do you have any mods?  Is he auto or 5sp?||||reg||1
+Z||000002||Standard||05-05-2000||03:15 AM||||Run him just for fun!  where/when are you gonna do it?  I'd love to be there.  just try to get him to follow you around some curves... ||||reg||1
+Z||000003||Hock||05-05-2000||04:11 AM||||DO IT!!!!!!!!!<BR>YOU'LL KILL HIM IN TOP END, I'M NOT SURE HOW THEY ARE IN THE 1/4 THOUGH||||reg||14
+Z||000004||ChadMan||05-05-2000||08:39 AM||||I think the newest V6 Mustangs make 190 hp (as opposed to the earlier ones that made something like 145).  So it would probably be a close race!<P>Or you could just wait a year or two until his head gaskets blow, as most 3.8 Ford V6's eventually do.||||reg||1
+Z||000005||87PegasusGT||05-05-2000||03:33 PM||||Do you have a GT? I beat a 97 Mustang with V6 without much problem when my car was stock. Don't know about new ones though.||||reg||1
+Z||000006||KnightRyder31||05-05-2000||11:15 PM||||Do it man! You should blow that Rustang away! Expecialy if it has a six. If its not supercharged, you should kill him. If you have a stick, it will be easy...if you dont, it should still be easy. Comon, we're talking about freaken Rustang! Make him look dumb, blow that sucker away!<BR>Peace bro...good luck, but I doubt you'll need it.<BR>----Knight----<BR>||||reg||1

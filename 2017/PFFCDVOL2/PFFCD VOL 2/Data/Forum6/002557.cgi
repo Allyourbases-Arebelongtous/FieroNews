@@ -1,0 +1,5 @@
+A||||3||Philphine||guard/reserve?...got geico insurance?||||1||
+Z||000000||Philphine||07-04-2001||11:17 PM||||<BR>just found out you get a discount on your car insurance if you are. i think active duty always got it and now it's been extended to part timers. 10% off parts of my policy. don't know how much it will change my rate but every little bit helps.<P>------------------<BR>Phil T.<P>SERENITY NOW!!!!||||reg||1
+Z||000001||85Josh||07-04-2001||11:38 PM||||Phil, you might try USAA insurance,if your record is clean, their rates are the lowest in the country. They started covering us part-timers a couple of years ago.<P>------------------<BR>85 2M4(Lil' Bit)||||reg||1
+Z||000002||Indiana_resto_guy||07-05-2001||09:56 AM||||How about Retirees?||||reg||1
+Z||000003||Philphine||07-05-2001||11:15 AM||||guess i'll have to check usaa. i get letters from them sometimes but i thought geico was giving me a pretty good deal so i never looked into it.<P>don't know about retirees, but i have 4 years left to make 20 (if i can keep myself in, kinda burnt out) so i guess i'd need to know my self in a few years. ||||reg||1

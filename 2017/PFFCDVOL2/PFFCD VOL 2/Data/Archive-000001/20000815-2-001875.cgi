@@ -1,0 +1,3 @@
+A||||1||engine18||Running Rich||||9||
+Z||000000||engine18||01-04-2000||07:34 PM||||After allowing my 84 2m4 to idle for a minute, I recieved a trouble code of 45 (Rich Exhaust).  I replaced my oxygen sensor and check all hoses... I removed the neg. battery cable to reset the ECM.  After allowing to idle again, I got the code 45 again.  What's next? Thanks, for any help.||||reg||9
+Z||000001||theogre||01-04-2000||08:20 PM||||How cold out is it? If it's below 40F then check the Thermac. If the thermac doesn't work then the IAC passage can ice and cause a rich mix. (My 87 does this all the time. 87 deleted the thermac. It's annoying as hell.)||||reg||1

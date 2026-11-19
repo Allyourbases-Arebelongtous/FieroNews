@@ -1,0 +1,3 @@
+A||||1||G-Nasty||Add this to your Favorites List||||1||
+Z||000000||G-Nasty||12-21-2001||01:54 AM||||These guys make KILLER stuff for Fiero Fanatix...Check out thier Black Widows... <A HREF="http://www.shelbycustom.com/turnkey/diablo.html" TARGET=_blank>http://www.shelbycustom.com/turnkey/diablo.html</A> <BR>Also if anybody needs KONI / Beltech / or Hypertech / KYB  stickers etc for your car-email me with color and size&gt;OUT||||reg||1
+Z||000001||Oreif||12-21-2001||02:18 AM||||And their prices for coil-over suspensions are great!<BR> <A HREF="http://www.shelbycustom.com/addons/addons.html" TARGET=_blank>http://www.shelbycustom.com/addons/addons.html</A> ||||reg||14

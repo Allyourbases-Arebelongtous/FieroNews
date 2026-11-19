@@ -1,0 +1,11 @@
+A||||9||4BanGinFun||Santa is stylin now!!!||||6||
+Z||000000||4BanGinFun||12-09-2001||09:23 PM||||nice deckorations cliff santas going to have to make a few trips tho  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> if he drives the fiero this year <P>------------------<BR>85 se 2m4 5spd white<P><BR>www.angelfire.com/super/camaro0/||||reg||6
+Z||000001||firstfiero||12-09-2001||09:28 PM||||    Looks great cliff.... Happy holidays!||||reg||1
+Z||000002||Joe Torma||12-09-2001||09:46 PM||||Very cool Cliff!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||LoW_KeY||12-09-2001||09:54 PM||||GO SANTA!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>hehe like the decorations  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>-KC<P>------------------<BR>AIM: FierFormula88   <P>  <IMG SRC="http://www.fiero.nl/uploads/kcbanner.jpg"> ||||reg||10
+Z||000004||FieroKyle||12-09-2001||10:22 PM||||Santa isn't gonna be fitting much toys in the Fiero, but he is gonna get it done a hell of a lot quicker though, lol.||||reg||1
+Z||000005||Raydar||12-10-2001||10:31 AM||||Yup! Cool!<P>Thanks Cliff.||||reg||14
+Z||000006||VeeSixGeeTee||12-10-2001||04:19 PM||||haha gotta love the Santa drivin the GT  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>Mikey<BR>85 GT 4sp..Taking a six month nap!<BR>AIM: KilleredGT||||reg||1
+Z||000007||FieroMontreal||12-10-2001||04:33 PM||||heh.. Thats pretty cool! Santa's in style this year!<P>------------------<BR> -Alex <BR> <IMG SRC="http://www.fiero.nl/uploads/sigfieromontreal_1.gif">   <BR>1986 Fiero GT, STOCK Wingless, <BR>President of FieroMontreal... <A HREF="http://www.fieromontreal.com" TARGET=_blank>www.fieromontreal.com</A> <BR>and Regional Director of CFOG-I for Eastern Canada.||||reg||1
+Z||000008||Tigger||12-10-2001||04:34 PM||||Yep!<P>------------------<BR>         <IMG SRC="http://www.fiero.nl/uploads/tiggerblue4.gif">         <BR>T-T-F-N, Ta Ta For Now!<BR><A HREF="http://www.envy.nu/fiero/" TARGET=_blank>Tigger's Fiero Page</A>||||reg||14
+Z||000009||avengador1||12-10-2001||08:15 PM||||Santa driving definitly is cool!<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1

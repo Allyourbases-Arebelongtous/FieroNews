@@ -1,0 +1,6 @@
+A||||4||Eddie||Pics of my car||||1
+Z||000000||Eddie||10-01-1999||09:21 PM||||I wuold like to some pic"s of my car how do I do this and what format do I use.And yes I have a scanner. ||||reg||1
+Z||000001||Patrick||10-01-1999||10:13 PM||||<BR>You should be able to find what you want in this thread:<P> <A HREF="http://www.fiero.nl/forum/Forum1/HTML/000290.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/000290.html</A> <P>This is what most people are using to post pictures here. Good luck.<P>||||reg||4
+Z||000002||DaRkLoRD||10-02-1999||12:24 AM||||Eddie, when you get some photos posted, could I put one pic of your car on my website? I have a small photo gallery of Fieros, mostly belonging to forum members.<P> <A HREF="http://www.digitalfusion.on.ca/fiero" TARGET=_blank>http://www.digitalfusion.on.ca/fiero</A> ||||reg||3
+Z||000003||Cliff Pennock||10-02-1999||04:28 AM||||Eddie, most (if not all) browsers only support JPEG (*.jpg) or GIF (*.gif) images. So scan your pictures and save them as JPEG, then use PIP to post them here. You can find PIP here:  <A HREF="http://www.pennock.nl/pip" TARGET=_blank>http://www.pennock.nl/pip</A> ||||reg||1
+Z||000004||Eddie||10-05-1999||05:29 PM||||Thans guys for the in put Iwill be posting pics this monday 10/11 if all go,s will.<P><BR>   PS yes Pat its fine with me .<BR>				Eddie||||reg||1

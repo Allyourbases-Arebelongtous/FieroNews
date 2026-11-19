@@ -1,0 +1,6 @@
+A||||4||Sillhouette.com||All things come to an end!||||1||
+Z||000000||Sillhouette.com||04-24-2001||06:26 PM||||Hi All!<P>My frequenting of message boards has come to an end. I'm going through some personal changes that limit my access to the internet. I will be online maybe once or twice a month. <P><BR>Keep motoring. <P>Cheers <BR> ||||reg||1
+Z||000001||FieroJoe||04-24-2001||09:49 PM||||Once or twice a month??? Ouch!<P>------------------<BR>AIM: FieroJoe87<BR>87 Coupe 5spd<BR>     <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1
+Z||000002||jaguiler||04-24-2001||10:39 PM||||sorry to see you go....   my wife get jealous of the webboard too.... i have to squeeze in my fix when she is asleeppp.....<P>zzzz.....<P> <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>______<BR>__|aguiler||65.8.46.102||reg||1
+Z||000003||Black88GT||04-24-2001||10:43 PM||||That sucks, now who are we going to get to argue S/C vs. Turbo???||||reg||5
+Z||000004||FieroMaster88||04-24-2001||10:58 PM||||Wow, 1 or 2 times a month!?!?!?!?!  I get on 1 or 2 times a day!  Sorry to see you go.  <P>Later Man<P>------------------<BR>        <IMG SRC="http://www.fiero.nl/uploads/FieroMaster88.gif">        <BR>James Essar<BR>AOL IM Name: FieroMaster88<BR>88 Coupe 30,000 miles  <IMG SRC="http://cwm.ragesofsanity.com/s/net4/smiling2.gif"> ||||reg||1

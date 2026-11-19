@@ -1,0 +1,3 @@
+A||||1||Dan86gt3.8||has anyone evr had thier car soda blasted?||||5||
+Z||000000||Dan86gt3.8||06-11-2000||04:15 AM||||Yes I was going to reapint my fiero and we inquired about having it soda blasted but the guy wants like 450-500 to do it.  He has quoted different prices several different times, but his latest and final price was 450-500.  Is this good or bad price for doing a fiero?  Well most likely me and my dad are going to go buy some 180 and say goodbye to finger prints and healthy shoulders.||||reg||5
+Z||000001||Shiner||06-11-2000||01:59 PM||||I am going to have my GT blasted also.  I am not sure what they are going to use.  Let me know (via email) if you can give me any details on getting the car blasted.||||reg||1

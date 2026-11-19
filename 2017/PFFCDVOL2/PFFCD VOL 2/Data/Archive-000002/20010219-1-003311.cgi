@@ -1,0 +1,4 @@
+A||||2||Fret Naught||They are EVERYWHERE!!!!||||6||
+Z||000000||Fret Naught||08-17-2000||06:44 PM||||Well I am on vacation, visiting my sis in Canton Michigan, darn near got whipflash today, Fiero's everywhere!!!! Red,Black, Yellow with stripes, everytime I see one, I think hum, wander if I know him or her. ||||reg||6
+Z||000001||Flash Box||08-18-2000||11:42 AM||||Same thing here the other day in Washington County, Maryland. They were everywhere!!!<P>------------------<BR>"In Racing You Have A SPLIT SECOND To Do It And Six Days To Talk About It!"||||reg||1
+Z||000002||87GT||08-18-2000||11:52 AM||||I wish they were everywhere around here so that I can seem some of them.  I have been going to Tampa from Mon-Thurs for the last 3 weeks and have yet to see another fiero.  I think I may have seen one that had some kind of kit conversion on it, but I thought it was the ugliest thing I had ever seen.  Anyways, like I said, wish there were more around to look at.||||reg||1

@@ -1,0 +1,5 @@
+A||||3||ferg||Alignment Questions||||1||
+Z||000000||ferg||06-20-2001||10:00 AM||||I'm in the process of replacing my shocks and struts. When I'm finished I'm heading down to the alignment shop and I want them to have the correct specs.<P>I found this old thread, are these the most current/correct specs?<BR> <A HREF="http://www.fiero.nl/forum/Forum2/HTML/007317.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/007317.html</A> <P>What else do I need to be aware of? Should I replace the rest of my suspension while I'm at it?<P>Thanks||||reg||1
+Z||000001||PBJ||06-20-2001||10:31 AM||||The alignment machine will have all specs progammed in the machine.  But yes those posted look correct.||||reg||1
+Z||000002||Oreif||06-20-2001||10:34 AM||||Go to an alignment place that has a newer machine. Some of the older machines have the wrong specs in them. GM changed the specs thru a service bulletin. I would go by Ogre's numbers in the other thread. I had mine adjusted by a place that had a new laser alignment rack. It was the best alignment I've ever had.||||reg||1
+Z||000003||ferg||06-20-2001||12:45 PM||||thanks for the help.||||reg||1

@@ -1,0 +1,4 @@
+A||||2||Formula88||Test - Don't bother.||||6||
+Z||000000||Formula88||02-16-2001||05:27 PM||||Here's John & Pat's matching Formulas.  Mine's the one on the right.<BR> <IMG SRC="http://www.fiero.nl/uploads/Me&Pat_Cars.jpg"> ||||reg||6
+Z||000001||TheFiero64||02-17-2001||11:59 AM||||I love Red Formulas, They look sweet. <BR> <IMG SRC="http://www.fiero.nl/forum/frown.gif"> Sorry for looking, but I can never resist.<P>------------------<BR>Josh<BR>88 Coupe V6<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif">   <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||10
+Z||000002||Jake_Dragon||02-18-2001||10:24 PM||||:P<P><P>------------------<BR>Glenn Leber<BR>1985 2.5L Sport Coupe<BR> <IMG SRC="http://home1.gte.net/rebel33/fiero.jpg"> ||||reg||6

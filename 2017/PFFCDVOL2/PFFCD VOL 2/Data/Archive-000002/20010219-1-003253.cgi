@@ -1,0 +1,3 @@
+A||||1||Jaei Sun||Converted a friend to Fiero fanatic||||1||
+Z||000000||Jaei Sun||08-12-2000||05:27 AM||||Yesterday I took a friend out to look at a fiero that was for sale in this area... and had him test drive it.  And he loved it! He drives a 5-speed Neon Sport and he loved how it handled.  Now he is keeping an eye out for one for himself.<P>There is also an 88 coupe yellow for sale like 9 miles away and I will be going to test drive it tomarrow. They want wayyyyyy to much for it ($5000) when I did a couple of online price checks and it is only worth about $2500 avg at the most.||||reg||1
+Z||000001||rockcrawl||08-12-2000||08:11 AM||||I sold an 86 2M4 to my buddy and he is now addicted. He loves it!||||reg||7

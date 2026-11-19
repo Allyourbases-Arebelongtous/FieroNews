@@ -1,0 +1,2 @@
+A||||0||JohnnyK||Is this a forum member?||||1||
+Z||000000||JohnnyK||04-30-2001||02:43 PM||||I was driving down the 401 today, going west, right beside Toronto (probably was still in Toronto, don't remember) and this guy pulled up beside me in a red notchback, v6, large exhaust tips, and a red sticker on the windshield.. He was talking on the phone. Is that anyone here? Just curious.. I was driving my silver 85 Notchback||||reg||1

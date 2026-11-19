@@ -1,0 +1,4 @@
+A||N||2||rnoswal||What is that engine switch?||||5||
+Z||000000||rnoswal||11-23-2001||08:00 PM||||I was curious about a sender or switch that is in the head of my 85 2.5 engine. It sits on top of the head just left of the valve cover and just right of the thermostat housing. I replaced the fan switch, exhaust side of head and the temp sending switch, in the thermostat housing, but I don't know what that other switch is. It has a 2 prong plug on it.  Thanks<P>Russ||||reg||5
+Z||000001||jelly2m8||11-23-2001||08:05 PM||||its for the temperature guage in the dash<P>------------------<BR> <IMG SRC="http://users.eastlink.ca/~acook1/pegged%2001.jpg"> ||||reg||1
+Z||000002||conductor||11-23-2001||08:13 PM||||Does anyone has a clear picture of the exact location of this one?<BR>My temp.gauge is dead since I own the car, I guess I have to replace it. :-(||||reg||1

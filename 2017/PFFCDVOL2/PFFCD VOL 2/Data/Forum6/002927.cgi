@@ -1,0 +1,4 @@
+A||||2||mrgone||superlight fiero idea||||1||
+Z||000000||mrgone||08-12-2001||03:15 AM||||i was just thinking. aside from gutting the int, and drilling holes in the chassis.<P>how about removing all the body panels, and glass, and using seran wrap to cover the car. eh?? EH!?<BR>seran wrap and duct tape is much lighter than fiberglass/glass.    oh and dont forget to poke holes in the decklid part. without holes it could be dangerous.<BR>||||reg||1
+Z||000001||Pontiaddict||08-12-2001||03:38 AM||||If you want a car made out of saran wrap and duct tape, just buy an 86 Nova.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||10
+Z||000002||Murdock||08-13-2001||08:12 AM||||Ah, I see Richard Dean Andersen has been hiding out in Canada, well, GOTCHA!!!<P>------------------<BR>Muwahahahhahhah!||||reg||3

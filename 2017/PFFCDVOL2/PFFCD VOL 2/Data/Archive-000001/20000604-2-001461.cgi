@@ -1,0 +1,5 @@
+A||N||3||chris6878||my fiero went crazy||||9
+Z||000000||chris6878||11-19-1999||06:44 PM||||after putting my new engine in (2.8) i have a ground in my wiring..   it is one of the wires coming off the starter.. i traced it to the plugin where all the wires connect... into the inside of the car...     it comes from the starter.. but seems to be grounded on the inside...  how many wire go on the v6 starter..???    the wire is green going in to the plugin..  coming out the other side into the inside, it is black..      i cant figure it out...   i have allready toasted my computer and purchasing a new one in the morning...  thanks for any help...<P>chris||||reg||9
+Z||000001||chris6878||11-20-1999||10:50 PM||||anyone?????||||reg||9
+Z||000002||superXmotorsports||11-20-1999||11:00 PM||||I don't know crap about electrical problems but I have this email address for someone who is supposed to be a Fiero electrical whiz:  PAHIAUAHI@aol.com  if it's still good.  Good Luck!||||reg||3
+Z||000003||chris6878||11-20-1999||11:50 PM||||Thanks||||reg||7

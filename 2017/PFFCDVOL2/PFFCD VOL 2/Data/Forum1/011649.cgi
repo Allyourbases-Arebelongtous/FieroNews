@@ -1,0 +1,2 @@
+A||||0||XDrewX||any pick and pulls with GT 's in MD/VA/PA/WV||||1||
+Z||000000||XDrewX||11-07-2001||04:08 PM||||I am looking for a few GT parts which to save money, I would like to pull myself.<P>I need:<BR>ground effects<BR>front fascia<BR>2 doors with power window/lock and associted wiring.<BR>remote trunk release w/ solenoid.<P>Does anyone know any pick & pulls that have these items.<P>In return for this info, I am willing to help other people pull parts they may need a hand pulling, (within reason).<P>Thanks, <P>Andrew<P>||||reg||1

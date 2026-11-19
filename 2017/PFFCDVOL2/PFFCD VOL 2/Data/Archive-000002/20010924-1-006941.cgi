@@ -1,0 +1,3 @@
+A||||1||billfredmike24||Fiero shop toronto e-mail||||1||
+Z||000000||billfredmike24||04-18-2001||06:20 PM||||Does anyone use their e-mail to get a hold of them and never get a response, i've used the old one and new one and never get an answer.||||reg||1
+Z||000001||CanadianGT||04-18-2001||06:40 PM||||Hi,<BR>I always used to try and write to them, and I got no response.  My E-mails would always get sent back to me saying delivery failure notice. Someone on this forum then told me to E-mail this address: racetek@idirect.com<BR>They have always written back, although sometimes they seem to take awhile. I guess they are very busy there.  IF this does not work, you can call there number that is on there websight.  It's (1-416) 747-5728 <BR>Hope this helps!<BR>Kyle||||reg||1

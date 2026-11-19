@@ -1,0 +1,20 @@
+A||||18||Ed||Please give me the time of day||||1||
+Z||000000||Ed||12-30-1999||11:24 PM||||Did somebody change the clocks? There's now a four hour difference between west and east coasts!?<BR>Is the end of time upon us? ||||reg||1
+Z||000001||Patrick||12-31-1999||02:51 AM||||<BR>I don't want to alarm you, but I'm afraid it might have something to do with this:<P> <A HREF="http://www.fiero.nl/forum/Forum1/HTML/000860.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/000860.html</A> ||||reg||4
+Z||000002||DaRkLoRD||12-31-1999||04:10 AM||||LOL...<P>the clocks have been that way for over a day now.. I don't remember if it was last night when I first noticed it, or the day before.. (I have a terrible memory..!)||||reg||1
+Z||000003||Monkeyman||12-31-1999||04:11 AM||||Last time I checked there was only a 3 hour difference.  I don't know who told you different.  Maybe someone who lives in Hawaii or Nova Scotia?||||reg||1
+Z||000004||dogtired||12-31-1999||04:17 AM||||It's the Twilight ZONE   <IMG SRC="http://www.fiero.nl/forum/redface.gif"><P>Have any of you heard of "The Dark Ages"?<P>That was Y1K      <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||6
+Z||000005||Cliff Pennock||12-31-1999||06:31 AM||||The server was resetted last weekend and I forgot to correct the time again...  <IMG SRC="http://www.fiero.nl/forum/redface.gif"><BR>||||reg||1
+Z||000006||Monkeyman||12-31-1999||07:16 AM||||We forgive you, Cliff! <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||6
+Z||000007||Cliff Pennock||12-31-1999||08:05 AM||||Thanks!  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>I was wondering, is it "...server was reset<B>ted</B>", or "...server was reset"?<BR>||||reg||1
+Z||000008||Phil||12-31-1999||09:37 AM||||To be grammaticly correct it would be reset.||||reg||1
+Z||000009||Monkeyman||12-31-1999||12:47 PM||||Sorry, Phil,but since we're on the subject of grammer...It's, "grammatically".  Don't get pi**ed.  I was just following in your footsteps. <IMG SRC="http://www.fiero.nl/forum/smile.gif"> <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000010||Phil||12-31-1999||01:18 PM||||gud sho||||reg||1
+Z||000011||Monkeyman||01-01-2000||04:23 AM|||| <IMG SRC="http://www.fiero.nl/forum/smile.gif"> <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000012||Phil||01-01-2000||08:24 AM||||Actually my error was spelling not grammAr.<p>[This message has been edited by Phil (edited 01-01-2000).]||||reg||1
+Z||000013||Monkeyman||01-01-2000||06:38 PM||||Picky, picky, picky <IMG SRC="http://www.fiero.nl/forum/smile.gif">!!  Why is there a capital "A" in "grammar"?  Just thought I'd better ask before you get too mad. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000014||Phil||01-01-2000||07:51 PM||||Monkey<BR>Read your 12:47 post (grammEr) Gotcha!<p>[This message has been edited by Phil (edited 01-01-2000).]||||reg||1
+Z||000015||fiero56||01-01-2000||07:58 PM||||ooooohhh,<BR>now I get it. Took me a minute and I thought I was pretty good at spelling. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||10
+Z||000016||Phil||01-01-2000||08:17 PM||||Cliff<BR>Aren't you sorry you asked?||||reg||12
+Z||000017||Cliff Pennock||01-01-2000||08:41 PM||||Actually, I think it's kinda fun!  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>"<I>kinda</I>"... Why do I get the feeling I just opened another can of worms?||||reg||1
+Z||000018||Monkeyman||01-02-2000||02:17 AM||||Phil--Good one! <IMG SRC="http://www.fiero.nl/forum/smile.gif">  I looked at the word 4 or 5 times before I found the mistake you pointed out.  I have to blame all of this on my Grandpa (God rest his soul <IMG SRC="http://www.fiero.nl/forum/frown.gif">).  He was a brilliant man and he would point out my moms mistakes in her letters from college.  He would circle them and send them back to her so she could learn from her mistakes.  Kind of a good idea, IMHO.  <P>Cliff--Kinda, woulda, musta, gotta.  Sounds like prupor Angleish too mee.  I'da wrote moor, but I gotta go. <IMG SRC="http://www.fiero.nl/forum/smile.gif"> <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

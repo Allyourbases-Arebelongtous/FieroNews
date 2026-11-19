@@ -1,0 +1,13 @@
+A||||11||Svyn||Good Laugh, higher bandwith suggested.||||1||
+Z||000000||Svyn||10-08-2001||08:40 PM||||Not for the youngn's, but funny none the less. <A HREF="http://www.riddleme.com/html/cow.html" TARGET=_blank>http://www.riddleme.com/html/cow.html</A> <BR><P>------------------<BR>-Dale Clark<BR>86' Fiero SE<BR>99' Dodge Durango SLT+<BR>92' Ford ThunderBird SuperCoupe||||reg||1
+Z||000001||The Fieromaster||10-08-2001||08:47 PM||||Oh my my my!  Thats the funniest damn thing ive ever seen!! Haha!<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/forum/smiley_damon.gif">       <FONT COLOR="red">"Raced That, Wrecked Better"</FONT>     <IMG SRC="http://www.fiero.nl/forum/smiley_damon.gif">    <BR>  <IMG SRC="http://www.askfelons.com/fieromaster/fieromastergif1.gif"">               <BR><B>~In Memory Of Jesse Cesek~ 1980-2000</B><BR><FONT COLOR="blue"><B>AIM: Fieromaster</B></FONT><BR><B><FONT COLOR="purple">1985 GT ~ Purple, Black and Yellow Interior(Fastback Converted)</FONT><BR><FONT COLOR="maroon">1997 Mitsu Eclipse GSX ~ Maroon w/ Hella Balls!(GSX = AWD, Turbo) DOA on 12/10/2000</FONT></B>||||reg||1
+Z||000002||crzyone||10-08-2001||09:03 PM||||That was hilarious!!<P>thanks for the laughs!<P>Moooooooooo!||||reg||1
+Z||000003||Leper||10-08-2001||09:27 PM||||That was both funny and scary at the same time.||||reg||1
+Z||000004||72vinman||10-08-2001||09:51 PM||||I suddenly have an urge for a glass of milk.||||reg||1
+Z||000005||sqoach||10-08-2001||10:04 PM||||This should be in the off topic section, however...ROFLMAO!!!<BR>HAHAHAHA!!!!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>Funny sh!t! I gotta send that to some people! LOL!||||reg||1
+Z||000006||mrfiero||10-09-2001||07:30 PM||||Now that was funny......a little twisted, but funny!   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||10
+Z||000007||Pheagey||10-09-2001||07:41 PM||||D@mn luck cow gettin the girl! D@mn cows always steal the women from me! <IMG SRC="http://www.fiero.nl/forum/smiley_damon.gif"> ||||reg||8
+Z||000008||Mach10||10-09-2001||09:10 PM||||That was SO warped!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> ||||reg||10
+Z||000009||88CoupeV6||10-10-2001||10:48 AM||||Funny and sick but, it should have been it O/T forum||||reg||7
+Z||000010||btoth||10-10-2001||12:28 PM||||Gotta love the song.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000011||Gerald||10-10-2001||12:58 PM|||| <IMG SRC="http://www.fiero.nl/forum/smiley_brow.gif">  <IMG SRC="http://www.fiero.nl/forum/smiley_wtf.gif"> What the hell was that, it was like.......like........ What the......!!!???<BR>Im just gonna go to bed and forget that every happened.||||reg||4

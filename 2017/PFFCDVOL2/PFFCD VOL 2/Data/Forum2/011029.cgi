@@ -1,0 +1,3 @@
+A||||1||mikemrq||up and down idle||||1||
+Z||000000||mikemrq||06-05-2001||03:48 PM||||my '86 fiero, v6, 4sp the idle sounds good untill the engine warms up. The idle will be good and then for a couple of seconds it will drop and come back up again. What will cause this?||||reg||1
+Z||000001||Steven||06-05-2001||04:25 PM||||You might want to look at the IAC (Idle Air Control) valve. It may have a carbon build up on the cone shaped tip. Or maybe just a bad IAC valve. Service Manual show how to check the valve. Might also want to check for any engine codes stored in the ECM.<P>------------------<BR> 85 Fiero GT<BR> 3.2 Liter Under Construction||||reg||1

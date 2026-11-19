@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Forum1",
+    "name": "General Fiero Discussion",
+    "desc": "General questions, stories, discussions, and topics about Pontiac Fieros.",
+    "total_threads": 4008
+  },
+  {
+    "id": "Forum2",
+    "name": "Technical Section",
+    "desc": "Engines, engine swaps, suspensions, electrical, brakes, and troubleshooting.",
+    "total_threads": 6113
+  },
+  {
+    "id": "Forum6",
+    "name": "The Mall & General Chat",
+    "desc": "Buy, sell, trade Fiero parts, accessories, and community banter.",
+    "total_threads": 5109
+  },
+  {
+    "id": "Forum7",
+    "name": "Announcements & CD Help",
+    "desc": "Pennock's Fiero Forum news, announcements, and CD documentation.",
+    "total_threads": 48
+  },
+  {
+    "id": "Archive-000001",
+    "name": "Archive Volume 1 (1999 - 2001)",
+    "desc": "Historical discussions and early Fiero forum knowledge base.",
+    "total_threads": 10637
+  },
+  {
+    "id": "Archive-000002",
+    "name": "Archive Volume 2 (2001 - 2002)",
+    "desc": "Expanded archives of technical guides, member projects, and meetups.",
+    "total_threads": 8991
+  }
+]

@@ -1,0 +1,3 @@
+A||N||1||KEV||taken care of .||||6||
+Z||000000||KEV||04-04-2001||10:38 AM||||hi all this is kev me and elfiero tak=lked last night and squared everything out and i'm happy to say this weekend the car is going to get fixed, to elfiero i'm SORRY i hope you will forgive me for my out of control behavior.  thanks kev||||reg||6
+Z||000001||Kelvin Vivian||04-04-2001||10:07 PM||||Glad to hear everything is A-OK...<P>Now let's get back to Fiero-lovin'...  <IMG SRC="http://www.fiero.nl/forum/cool.gif"><P>------------------<BR> <IMG SRC="http://albums.photopoint.com/j/View?u=1601741&a=12208700&p=44402874&Sequence=1&res=high">  88 T-top, 5-spd & 87 SE 4-cyl, 5-spd||||reg||1

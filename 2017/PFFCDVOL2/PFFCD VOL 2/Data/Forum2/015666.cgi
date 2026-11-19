@@ -1,0 +1,5 @@
+A||||3||FieroRyan||Wheel question||||1||
+Z||000000||FieroRyan||11-21-2001||08:55 PM||||I got offered a set of $800 17" wheels for $80, and my "dear" father says I can't get them because if I replace my stock wheels the power & torque will drop too much.  It seems to me that bigger = better...  Who's right?<P>Oh, and I have stock 86 2m4...||||reg||1
+Z||000001||MrPBody||11-21-2001||09:47 PM||||You're both right . . . and you're both wrong.<P>A larger diameter <I>tire</I> -- measured at the outside of the tire, not at the wheel rim -- would decrease the engine's mechanical advantage, and result in slower acceleration.  The <I>wheel</I> diameter has no effect, if the tire outside diameter remains the same.<P>Of course, to go along with your new wheels, you'll need to buy new low-profile tires, which will cost lots more than $80.<BR>||||reg||1
+Z||000002||PBJ||11-21-2001||09:49 PM|||| <A HREF="http://www.miata.net/garage/tirecalc.html" TARGET=_blank>http://www.miata.net/garage/tirecalc.html</A> <P>try this handy tool||||reg||1
+Z||000003||Jake_Dragon||11-21-2001||10:57 PM||||Buy Wheels for $80 sell Wheels for $250<BR>Post some pictures in the mall. ||||reg||1

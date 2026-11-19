@@ -1,0 +1,2 @@
+A||N||0||1FST2M6||a SWEET fellow Ga. Fieros memeber.. ||||1||
+Z||000000||1FST2M6||07-23-2001||10:12 AM|||| <IMG SRC="http://www.fiero.nl/uploads/greenmachine1.jpg"> <P>nice ride Chuck! <P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/1fsthydrantsig.jpg">           <A HREF="http://www.engineered.net" TARGET=_blank>www.engineered.net</A> <p>[This message has been edited by 1FST2M6 (edited 07-23-2001).]||||reg||1

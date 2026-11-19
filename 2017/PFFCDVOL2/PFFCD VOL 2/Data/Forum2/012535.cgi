@@ -1,0 +1,4 @@
+A||||2||Joe4x4||Deck lid  ...idea||||1||
+Z||000000||Joe4x4||08-05-2001||03:19 PM||||Was thinking about this......we all have seen a blower on a motor...OK the chrome <BR>air cleaner on top...use that as a air outlet<BR>on the deck lid ..I`ve been surfing the web with no luck.<P>Anyone know where I can get one?<BR>||||reg||1
+Z||000001||Philphine||08-05-2001||03:54 PM||||if i'm thinking the same thing i've seen them off and on on ebay. i kinda thought about trying one like an indy scoop over the roof, but i think i'll stick with a reg. indy scoop.||||reg||1
+Z||000002||Songman||08-05-2001||06:13 PM||||Any parts store that carries hi-performance accessories should be able to get you one. Also check mail order places like Jeg's or Summit.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1

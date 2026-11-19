@@ -1,0 +1,5 @@
+A||||3||fierohoho||Factory radio with equilizer ?||||5||
+Z||000000||fierohoho||07-03-2001||10:57 PM||||My '84 has the factory AM/FM Cassette with the graphic equalizer, my question is, all the lights work to iluminate the radio except the equalizer. Does the equalizer have a bulb the lights it up or is it uniluminated, I'd like to know before I tear the radio out. Thanks. <P>------------------<BR>'84 SE 2.5l<BR>'85 Coupe 2.5l now getting a 3800<BR>'86 SE 2.5l||||reg||5
+Z||000001||Raydar||07-03-2001||11:06 PM||||Sorry. <BR>No lites in the equalizer.<BR>Don't take your radio apart.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Raydar - aka Steve<P>Black 88 Formula.<BR>Red 88 Duke coupe. "The Project" <BR>88 Formula parts car. "The Donor"||||reg||1
+Z||000002||FieroSoul||07-04-2001||07:59 AM||||Ditto, no lights in the equalizer. Sorry.||||reg||14
+Z||000003||fierohoho||07-04-2001||01:32 PM||||Thanks, that saved me a little time.<P>------------------<BR>'84 SE 2.5l<BR>'85 Coupe 2.5l now getting a 3800<BR>'86 SE 2.5l||||reg||1

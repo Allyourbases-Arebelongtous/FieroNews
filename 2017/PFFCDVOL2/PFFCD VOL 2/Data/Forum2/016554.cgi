@@ -1,0 +1,3 @@
+A||N||1||85ZainoGT||Engine conversions?||||1||
+Z||000000||85ZainoGT||12-20-2001||07:21 PM||||ok, It sounds like 3.4's and 3.8's will bolt straight up to the tranny.. does this include all years of those engines.. I have an 87 gt auto..<P>------------------<BR>Paul Ventimiglia<BR>1987 GT all the options :)<BR>      <IMG SRC="http://www.fiero.nl/uploads/sigpicNEW3bsmall2.gif"> ||||reg||1
+Z||000001||GTDude||12-20-2001||07:57 PM||||Hey, see my post "What 3.1 has the most horsepower and will fit in place of a 2.8 easily"  It was written today and I think it will explain most of what you wanna know.  Hope it helps.<P>------------------<BR>GTDude's 86GT||||reg||1

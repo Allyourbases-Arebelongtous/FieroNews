@@ -1,0 +1,4 @@
+A||||2||lowCG||Looking for a real good schematic||||1||
+Z||000000||lowCG||05-08-2000||01:33 AM||||Had some extra time while waiting for my clutch to arrive and thought I'd look at the wiring for my 3.4TDC swap.There are often more than one of a  given color of wires going to to the ECM from the bundle,and pretty much need to know for certain which is which before I proceed.<BR>What I'm looking for is a schematic that shows the pin location of the wires as they connect to the ECM.The Haynes book for the donor car just shows the wires entering the ECM,no pin #.||||reg||1
+Z||000001||theogre||05-08-2000||07:14 PM||||Find someone with ALLdata. The ECM pinout is in there. Otherwise you need a shop book.||||reg||1
+Z||000002||lowCG||05-08-2000||08:35 PM||||Ogre,what is ALLdata? Is it the CD-rom shop manual that many shops use?<BR>||||reg||1

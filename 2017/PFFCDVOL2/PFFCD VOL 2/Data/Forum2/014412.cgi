@@ -1,0 +1,4 @@
+A||N||2||danny boy||clutch arm ||||1||
+Z||000000||danny boy||10-14-2001||12:24 AM|||| Are clutch arms interchangable? I have a 4 sp. arm, but want to put it on a 4cyl 5sp tranny. also, are all the axles interchangable?<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/PFF_sig_5.jpg"> ||||reg||1
+Z||000001||Jncomutt||10-14-2001||12:30 AM||||I don't know the full answer to the question.  What I do know is that the Clutch arm from my 86 5 speed didn't fit on my 84 4speed.  I don't know if this holds true for the V6 cars, or depending on the different year whether or not it was just 84.<P>The clutch arm on my 84 was shorter.<P>Hope it helps some||||reg||1
+Z||000002||danny boy||10-14-2001||12:51 AM|||| the 5sp is 87 4cyl, the 4sp is 85 V6. Maybe I'll end up having to use the 4sp. <IMG SRC="http://www.fiero.nl/forum/frown.gif"> ||||reg||1

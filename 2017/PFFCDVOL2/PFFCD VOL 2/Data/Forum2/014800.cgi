@@ -1,0 +1,7 @@
+A||||5||fieroman_5000||How DO you.....?||||10||
+Z||000000||fieroman_5000||10-26-2001||05:30 PM||||Check the timing? On a duke? Mine runs a little rough and I suspect it's the timing.<P>Thanx<BR>Fieroman <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||10
+Z||000001||PBJ||10-26-2001||06:00 PM||||What year is your car.  ||||reg||1
+Z||000002||fieroman_5000||10-26-2001||06:23 PM||||Oh yeah...DUUHH<BR>It's an '84 SE automatic.||||reg||12
+Z||000003||fieroman_5000||10-28-2001||02:33 PM||||^^^^^||||reg||1
+Z||000004||maryjane||10-28-2001||04:05 PM||||Warm the eng to operating temp. Chck eng light should be off<BR>Shut off the eng.<BR>Jump a & B on the diagnostic terminal behind the cig lighter cover. chk eng lite will flash.<BR>hook up the timing light to # 1 plug wire-start the eng. point timing light at the crank pulley marks. write down the reading. Check the timing at # 4 plug wire. Add the two together, divide by two. This is the timing avg. Should be 8* for '84 4cyl auto.<BR>Turn dist clockwise to bring timing down.(I think). Good idea to mark dist position before moving it. Turn eng off, remove jumper from a-b. Drive to Autozone etc, buy a manual. <IMG SRC="http://www.fiero.nl/forum/wink.gif"><p>[This message has been edited by maryjane (edited 10-28-2001).]||||reg||1
+Z||000005||fieroman_5000||10-28-2001||05:09 PM||||Where are the  crank pully marks anywayz?<P>Thanx for all the good info!<P>Fieroman <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

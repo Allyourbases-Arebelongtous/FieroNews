@@ -1,0 +1,5 @@
+A||||3||MooCow||What to buy to fix up rims myself?||||5||
+Z||000000||MooCow||07-19-2000||12:37 AM||||What products should I use whn fixing my rims?  I know I have to sand blast them but have no money so I may just sand them my self.  When that is done what do I use to get them back to looking good again?  They are beat up really badly.<P>                                  Thanks Ken||||reg||5
+Z||000001||DXR_DAD||07-19-2000||01:29 AM||||Here is some good info:<BR> <A HREF="http://www.fieroproject.com/wheel.htm" TARGET=_blank>www.fieroproject.com/wheel.htm</A> <P><BR>------------------<BR> <IMG SRC="http://albums.photopoint.com/j/View?u=99075&a=723593&p=24416340&Sequence=2"> <p>[This message has been edited by DXR_DAD (edited 07-19-2000).]||||reg||3
+Z||000002||Oreif||07-19-2000||02:39 AM||||Here is the thread of what I used to refinish my GT style wheels.<BR> <A HREF="http://www.fiero.nl/forum/Forum1/HTML/002367.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/002367.html</A> <BR><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/LOGO3.jpg"> ||||reg||1
+Z||000003||MooCow||07-19-2000||10:33 AM||||Thank you.||||reg||1

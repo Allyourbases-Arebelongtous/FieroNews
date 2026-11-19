@@ -1,0 +1,5 @@
+A||||3||Ronnie||Somebody: Answer me this???||||6||
+Z||000000||Ronnie||12-01-2001||10:58 PM||||Is the 87 4 cyl. distributor the same as the 88? Got someone in need of an 88 distributor for the 4 cyl. If you happen to have one , let me know.||||reg||6
+Z||000001||Phil||12-01-2001||11:04 PM||||87-88 4 cyl don't have distributors. DIS ||||reg||1
+Z||000002||Ronnie||12-01-2001||11:45 PM||||I thought that , but couldn't think of what to call it. Anyone have one? but 87-88 are the same , right?||||reg||1
+Z||000003||theogre||12-02-2001||12:25 AM||||It should be but even if it's not, you can get the "brick" or parts of it from any salvage yard.<P>There's an article about DIS in my cave. Link at top of this page....<P>Usually it's a coil or a crank sensor bad. the module can go bad but it's actually quite rare.<P>Either way you can get the whole brick, usually cheap, from a salvage yard. get a couple. then you'll have more spare parts than the car is likely to ever need.<P>you can get the brick from 87-88 grand am, 87-91 olds cutlass calais.<P>Make certain the metal shield is between the coild and module!||||reg||1

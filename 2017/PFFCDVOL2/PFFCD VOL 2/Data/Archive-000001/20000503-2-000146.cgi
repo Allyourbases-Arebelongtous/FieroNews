@@ -1,0 +1,6 @@
+A||||4||Lynx||Oil pressure sensor
+Z||000000||Lynx||05-07-99||03:27 AM||||Yah i have a 85 2m4 and the oil pressure gauge just pegs out so far i cant even see the needle. Well im sure its the sensor, but the crapy chiltons manual dosent help much. What i need to know is "Where is it". 
+Z||000001||Eric||05-07-99||12:20 PM||||I replaced the sending unit on my 88 but it didn't work. It seemed like everytime I took the gauge out of the dash, disconnected and reconnected it, the gauge worked temporaraly.  Next time I am going to try some contact cleaner.
+Z||000002||Eric||05-07-99||12:24 PM||||The sending unit on the v6 is just below and to the left of the battery.  I'm not sure of the location on the 4 cylinder but it is easy to find if you have a replacement to compare it with.<br>
+Z||000003||Lynx||05-08-99||02:48 AM||||Thanks for the dissconnect, reconnect advice. I'll try it but i doubt thats it because at idle the oil pressure guage starts to work, it comes back up to about 40-50psi. Only after it idles awhile though. As soon as you hit the gas it pegs out and stays there. I will look at a new sensor and see where it seems it supposed to go.
+Z||000004||sluppy123||05-08-99||08:42 PM||||The oil pressure sending unit on the 85' 4 banger is located just above and to the left of the oil filter. 

@@ -1,0 +1,2 @@
+A||N||0||Chance||85 fiero se for sale at Ebay||||1||
+Z||000000||Chance||06-07-2001||12:28 PM||||just an update on my buddy Spanky's Fiero Its a 4cyl automatic with a clean title. It was originally silver but painted black with silver/gray interior. email question to Spanky at doctordoom@iwon.com<P> <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=591995158&r=0&t=0" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=591995158&r=0&t=0</A> <BR><p>[This message has been edited by Chance (edited 06-07-2001).]||||reg||1

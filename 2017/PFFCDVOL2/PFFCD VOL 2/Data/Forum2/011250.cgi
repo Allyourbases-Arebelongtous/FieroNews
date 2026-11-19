@@ -1,0 +1,5 @@
+A||||3||Flyguy||how do i make my 86 4cyl go faster||||1||
+Z||000000||Flyguy||06-14-2001||02:57 PM||||i have access to the basic tools wrenches drills etc i want higher torque and top end speed i have very small mechanical ability<P>somebody help please||||reg||1
+Z||000001||TRiAD||06-14-2001||03:01 PM||||For the $200 you said in another thread you had to spend, I would, <BR>1) advance your timing and run goooood gas.<BR>2) buy and install a hi-flow CAT from Summit ($100)<BR>3) put the rest into a tune up (new plugs, wires, fuel filter, air filter, etc...and some carb cleaner.)<P>Hope that stays in budget, and good luck!<P>------------------<BR><B><I>Michael ~ triadtuning@hotmail.com</I></B><BR>-----------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/88FieroGTwhitefscustomcroppedmini.jpg"> <BR><I>Photoshop rendering of planned exterior modifications.</I>||||reg||6
+Z||000002||Formula88||06-14-2001||03:04 PM||||Hi, Stimpy!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>And to make your car faster, call Archie.||||reg||1
+Z||000003||stimpy||06-14-2001||03:13 PM||||Nope, it isn't me. That's been done.||||reg||1

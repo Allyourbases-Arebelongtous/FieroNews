@@ -1,0 +1,5 @@
+A||||3||Neal||FPR questions||||5||
+Z||000000||Neal||08-07-2001||06:56 PM||||What should a fuel pressure regulator look like when taken apart, I mean should it be spotless inside or should i expect to see dirty oily gas inside?<P>If i was to use the quarter trick would i put the coin on the top of the spring and then assemble the housing?<P>And for the bonus question how likely is it for a bad FPR to make hard cold starts?<P>mostly just curious since i just installed the holley adj. unit.  But my old engine was a hard starter, and im really hoping to cure that when my 3.4 finally makes it in.||||reg||5
+Z||000001||starfighter007@msn.com||08-07-2001||08:23 PM||||I have never taken one apart.But if I did get to the area where my regulator is under the plenium.I think I would buy me a adjustible regulator I am not sure how much they cost,I think around $50.00? but thats what I would do.||||reg||3
+Z||000002||Neal||08-08-2001||12:46 AM||||"BUMP"<P><BR>Starfighter, holley p/n 512-501 $80 through summit, got mine at a local speed shop for $130CDN funds.||||reg||1
+Z||000003||Neal||08-08-2001||11:28 PM||||noone has any thoughts...||||reg||1

@@ -1,0 +1,4 @@
+A||N||2||kornholio||what's this pipe for?||||5
+Z||000000||kornholio||11-27-1999||07:26 PM||||I notice today that the pipe that runs from the valve cover (on the firewall side) to the black plastic tube thing (don't know what it's called, but it connects the air filter can to the TBI) was not connected on one side.  It was not connected to the plastic tube.  I grabbed that end and it had oil motor oil on the tip.  What is this pipe for?  I'm not sure how long it has been disconnected.  Thanks.||||reg||5
+Z||000001||theogre||11-27-1999||11:43 PM||||PCV intake. See helms book. ||||reg||1
+Z||000002||Carrolles||11-29-1999||12:53 PM||||On the V-6 engine the PCV (positive crankcase ventilation) valve connects from the rear valve cover (the one where you add oil) via a hose to the underside of the intake plenum.  The hose on the front valve cover (does not have a PCV) connects directly to the plastic snorkle between the air filter housing and the throttle body.||||reg||1

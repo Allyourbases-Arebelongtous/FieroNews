@@ -1,0 +1,5 @@
+A||||3||Shiner||I am the winner!||||10
+Z||000000||Shiner||11-19-1999||03:03 AM||||I made the ten-thousandth post! Yippee for me!  Whats the prize?  Is it an '88 GT, all options, including t-tops and lumbar seats, in yellow, with under 100 miles on the clock?  Hehe.  Actually, I would be ashamed at myself if I did'nt put that car in a museum!  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>This is the best source for fiero help and info on the net.  Cliff, you are a good man  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||10
+Z||000001||Cliff Pennock||11-19-1999||03:17 AM||||Yep, you had beat me to it by a few seconds! <P>Ah - but didn't anybody tell you? Whoever got the 10,000th post, has to buy a beer for the rest of us!  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||10
+Z||000002||DJRice||11-19-1999||09:04 AM||||Here Here!||||reg||1
+Z||000003||JIM GOOSE||11-19-1999||09:47 AM||||Hey, does 10,000 posts regarding problems tell us something ??  LOL    I guess that MISERY LOVES COMPANY. This is a great board thanks to CLIFF||||reg||12

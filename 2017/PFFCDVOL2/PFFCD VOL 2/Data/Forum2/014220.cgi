@@ -1,0 +1,6 @@
+A||||4||rmorgandotcom||3800 conversion||||5||
+Z||000000||rmorgandotcom||10-06-2001||07:55 PM||||I'm a new user, and I'm interested in swapping in 3800 in my 86 4 cylinder.<BR>I can get and engine and trans for relatively "cheap" but I looked at ace's conversion kit and its expensive, what kind of parts would I need?||||reg||5
+Z||000001||West Coast Fiero||10-06-2001||07:57 PM||||visit our website at <A HREF="http://www.cwestco.com," TARGET=_blank>www.cwestco.com,</A>  and it will explain and describe every part needed for the conversion<P>------------------<BR>Technician, West Coast Fiero<BR>www.cwestco.com<BR>310-305-4111||||reg||1
+Z||000002||rmorgandotcom||10-06-2001||08:09 PM||||Thanks for the info, this is using the automatic trans?<BR>||||reg||14
+Z||000003||West Coast Fiero||10-06-2001||09:02 PM||||well, it is recommended that you utilize the 4T60E transaxle from the donor car as the 125C Fiero transaxle wasn't design for the torque output of a 3800, however you can retain the Fiero automatic transaxle to keep the costs of the conversion to a minimum<P>------------------<BR>Technician, West Coast Fiero<BR>www.cwestco.com<BR>310-305-4111||||reg||1
+Z||000004||terryk||10-06-2001||10:38 PM||||.<p>[This message has been edited by terryk (edited 10-07-2001).]||||reg||1

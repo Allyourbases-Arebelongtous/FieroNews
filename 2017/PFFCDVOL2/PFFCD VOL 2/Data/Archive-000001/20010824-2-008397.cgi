@@ -1,0 +1,5 @@
+A||||3||MontanaFiero||Will any GM distributor work?||||5||
+Z||000000||MontanaFiero||02-09-2001||11:18 PM||||I am hoping to find an economical way to get this motor humming... After I do my rebuild. I still don't have a distributor, although I have had offers at $100 a wack. <I>Maybe that is a good price</I>, but I am wondering if I can use a Chevy 2.8 V-6 distributor on my Fiero 2.8... how about a normal Pontiac distributor?<P>------------------<BR>&gt;&gt; '87 Coupe 4 cyl, auto &lt;&lt;<BR>&gt;&gt; '86 SE V6, 4 speed- project &lt;&lt;||||reg||5
+Z||000001||Indiana_resto_guy||02-09-2001||11:43 PM||||I think that any distributor out of a GM 2.8 or 3.1(?) will work.||||reg||1
+Z||000002||terryk||02-11-2001||12:49 AM||||Yes. Get one from any Celebrity 2.8L W code or Camaro S code engine (8th character of the vin). ||||reg||1
+Z||000003||ironhedno3||02-11-2001||11:37 AM||||look for a distibutor from any gm front driver with mpfi and iron heads..key word here iron heads..camaro,firebird,cavalier,celebrity, cierra,caddy cimerron..it only applies to 2.8/3.1 iron head engines||||reg||1

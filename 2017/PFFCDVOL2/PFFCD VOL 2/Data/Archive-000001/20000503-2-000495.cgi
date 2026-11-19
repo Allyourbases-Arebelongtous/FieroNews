@@ -1,0 +1,8 @@
+A||||6||Kage86GT4SP||HELP!  How do I adjust AC fan belt?
+Z||000000||Kage86GT4SP||07-27-99||01:09 AM||||How the heck do you get the compressor to move to adjust the fan belt?<p>I spent three hours trying to get to the front bolt on the mount, and couldn't get it done.<p>Any techniques or suggestions?<p>(The car is on jacks stands with passenger side wheel off, and all inner fender removed.)<p>There's just too darned many pipes, wires and hoses in the way...  <p>HELP!  It's getting HOT around here!<p>K<br>
+Z||000001||VISCERAL||07-27-99||07:01 AM||||From underneath, with a shorty wrench, or with a short socket.
+Z||000002||ezsurf||07-27-99||09:18 PM||||Kage,<br>Call JC Whitney at 312-431-6102 and order part number 15LB6161X.  The cost is $6.99 plus shipping, and it's worth every penney.  It's a fan belt tightener.  It's kind of like a turn buckle.  You turn the center hex rod with an open end wrench and both ends move out. It braces itself between the two pulleys.  I know of no better tool to tighten these things, and no better way to do it.  You'll be MORE than glad you did.
+Z||000003||Linx||07-28-99||11:30 AM||||holy cow!  I've been lookin' for that tool for over a year!  what luck!  EZ- you da man!
+Z||000004||ezsurf||07-28-99||01:30 PM||||Yeah, I kinda like it to.
+Z||000005||Carrolles||07-30-99||12:10 PM||||I tighten the A/C belt on my 85SE V6 from underneath.  Remove the small heat shield to gain access to the bolts.  It's not fun but it isn't hard either.<p>Good Luck,<p>Carroll
+Z||000006||Kage86GT4SP||07-31-99||01:57 AM||||What, exactly, do you use?<p>I took the splash shield off, and even then there wasn't enough clearence to get a wrench or a socket in there...<p>K.

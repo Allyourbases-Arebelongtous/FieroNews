@@ -1,0 +1,4 @@
+A||N||2||1FST2M6||Twin Turbo Mercury Dyno run...||||1||
+Z||000000||1FST2M6||12-05-2000||09:30 AM||||there is a previous post with pics of the car.. as you can see the turbo is GREAT to 2700rpm then just runs out of breath. then at about 3800 the crappy Jacobs electronics puke... he installed it at the shop.. it was BRAND new! I'll keep you posted to the new runs.. bigger turbos, MSD 6BTM and Crane PS91 coil.<P> <IMG SRC="http://www.fiero.nl/uploads/merc_dyno2.jpg">    <P>310hp and 714lbft!! ||||reg||1
+Z||000001||ThatRickGuy||12-05-2000||01:20 PM||||a 12 gear ratchet shifter with a few gears OD any that'd be a great set up  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> hehehe, damn 700 lf/ft, that's amazing! what engine is that off of? ||||reg||1
+Z||000002||1FST2M6||12-05-2000||01:31 PM||||460cu.in. with stock intake and Holley 800 mechanical secondaries. twin T-3. twin Saab 9000 intercoolers!<P> <IMG SRC="http://www.fiero.nl/uploads/merc_nose.jpg">    ||||reg||1

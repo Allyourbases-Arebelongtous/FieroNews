@@ -1,0 +1,5 @@
+A||||3||Cooter||Clutch problem. . . almost.||||14||
+Z||000000||Cooter||05-08-2000||11:01 PM||||My new car just did not shift good and would grind going into reverse. On a hunch, I pulled the clutch master cylinder. It was full of "mud". When pressed, the cylinder would not return to the extended position. After a tear down I found the spring inside the cylinder was broke into three pieces. A little searching around the shop and I found another spring and now am back in business. Total repair cost: $0.00. Finally, something did not cost an arm and leg to fix!||||reg||14
+Z||000001||DXR_DAD||05-08-2000||11:31 PM||||Nice one Cooter, after all the clutch problems posts here its good to hear about one that was not a REAL problem!||||reg||1
+Z||000002||fieroshop||05-09-2000||01:05 AM||||Hey cooter. It had to cost something? What about the hydraulic fluid? Somebody had to pay for it.||||reg||1
+Z||000003||Cooter||05-09-2000||03:38 PM||||Sorry about that- .39 cents worth of brake fluid. I did not even have to bleed the system- just stuck the master cylinder back on and it works great!||||reg||1

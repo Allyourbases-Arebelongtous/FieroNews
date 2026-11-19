@@ -1,0 +1,6 @@
+A||N||4||kinboyatuwo||Testing sig||||5||
+Z||000000||kinboyatuwo||06-12-2001||02:15 AM||||'''<P>------------------<BR> <IMG SRC="http://y42.photos.yahoo.com/bc/kinboyatuwo/vwp?.dir=/Mail+Attachments&.src=ph&.dnm=kinboyatuwo.jpg&.view=t&.done=http%3a//y42.photos.yahoo.com/bc/kinboyatuwo/lst%3f%26.dir=/Mail%2bAttachments%26.src=ph%26.view=t"> <BR>"Friends don't let friends drive four doors."<P>87 Duke, 235,000km||||reg||5
+Z||000001||kinboyatuwo||06-12-2001||02:30 AM||||Try # 2<P>------------------<BR>  <IMG SRC="http://www.geocities.com/kinboyatuwo/kinboyatuwo.jpg">  <BR>"Friends don't let friends drive four doors."<P>87 Duke, 235,000km||||reg||5
+Z||000002||kinboyatuwo||06-12-2001||02:32 AM||||work on the size tomorrow||||reg||1
+Z||000003||kinboyatuwo||06-13-2001||12:06 AM||||work, then no work, hhhmmmmmm<P>------------------<BR> <IMG SRC="http://www.geocities.com/kinboyatuwo/kinboyatuwo.jpg">   <BR>"Friends don't let friends drive four doors."<P>87 Duke, 235,000km||||reg||1
+Z||000004||kinboyatuwo||06-13-2001||12:09 AM||||It shows up some times, aaaaaaaaarrgggggg<P>------------------<BR> <IMG SRC="http://www.geocities.com/kinboyatuwo/kinboyatuwo.jpg">    <BR>"Friends don't let friends drive four doors."<P>87 Duke, 235,000km||||reg||1

@@ -1,0 +1,9 @@
+A||||7||Gokart||Fiero Shop website?||||5||
+Z||000000||Gokart||03-30-2000||06:41 AM||||I have the website for the Fiero Shop in Hayward CA. Does anyone know if the one in Toronto Canada has one? Or their e-mail address? TIA!||||reg||5
+Z||000001||fierosound||03-30-2000||08:38 PM||||I don't know if they have a website, you may have to call for a catalog.<P>The Canadian "Fiero" Connection<BR> <BR>Fiero Shop (the)<BR>1092 Barmac Drive<BR>Weston, Ontario, Canada<BR>Shop (416)747-5728<BR>Cell (416)948-9685<BR> <BR>Fiero Plus<BR>12 Banner Road<BR>Nepean, Ontario, Canada<BR>K2H 5T2<BR>Phone (613)596-6269<BR>Fax   (613)820-9377<BR>Send $7 for catalog<BR> <BR>Fiero Conversions Inc.<BR>3410 Walker Road<BR>Winsor, Ontario, Canada<BR>N8W 3S3<BR>Phone (519)972-4989<BR>Fax   (519)972-4989<BR>Send $10 for catalog<BR>Send $35 for membership<P>||||reg||10
+Z||000002||Gokart||03-30-2000||09:31 PM||||Thanks! Bengal4 is having his 3800 conversion there and I want all the details! May be worth the trip from here in Mass.||||reg||14
+Z||000003||DaRkLoRD||03-30-2000||10:23 PM||||I was hoping to go there this past weekend, but I didn't get the chance.||||reg||1
+Z||000004||Old Lar||03-31-2000||08:35 PM||||On their business card website is <A HREF="http://web.idirect.com/~sabex" TARGET=_blank>http://web.idirect.com/~sabex</A> ||||reg||1
+Z||000005||billfredmike24||03-31-2000||10:48 PM||||just got my 85 gt back today from the fiero shop in Toronto with my rebuilt clutch.  They had six engines watin to be put in fieros, one was for a lambo kit car.  Four 3.8's and two 4.8's from cadillacs.  And a sweet drag car in the front of the shop.  So far so good with the clutch even though i'm just learning how to drive it.||||reg||6
+Z||000006||Gokart||03-31-2000||10:53 PM||||How much did they charge for the rebuild?||||reg||5
+Z||000007||billfredmike24||04-01-2000||01:29 AM||||$850||||reg||1

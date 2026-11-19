@@ -1,0 +1,5 @@
+A||||3||JohnnyK||Where is the tach filter on 2.8?||||1||
+Z||000000||JohnnyK||02-23-2001||02:52 PM||||I don't know if anyone will get to answer this before I go to the junkyard in about half an hour, but if you do, where is the tach filter on the 2.8 located? Also, I've noticed on a lot of the Fiero's in my junkyard, the filter is wired in directly, with no plug. Is that on the 84's or something. Also, are Fiero's the only car WITH a tach filter? Thanks||||reg||1
+Z||000001||Predator||02-23-2001||02:58 PM||||The tach filter is a small cylinder located next to the coil. <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Fiero4_1.jpg"> ||||reg||1
+Z||000002||Predator||02-23-2001||02:58 PM||||Opps double post<BR>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/Fiero4_1.jpg">  <p>[This message has been edited by Predator (edited 02-23-2001).]||||reg||1
+Z||000003||JohnnyK||02-25-2001||02:40 AM||||No go. Does anyone just have a stinking tach filter on an old parts car that they would be willing to sell for the cost of shipping? (Wishful thinking?  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

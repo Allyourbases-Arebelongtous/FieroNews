@@ -1,0 +1,4 @@
+A||||2||qwikgta||Test||||1||
+Z||000000||qwikgta||06-15-2001||10:21 PM||||this is a test<P> <IMG SRC="http://www.fiero.nl/uploads/Short_Shifter_small.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/My_ride_small_1.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/My_engine_small.jpg"> <P>I got it to work...yea.<P>Rob<P>[This message has been edited by qwikgta (edited 06-15-2001).]<p>[This message has been edited by qwikgta (edited 06-15-2001).]||||reg||1
+Z||000001||FieroHeather||06-20-2001||12:48 AM||||you passed!  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||14
+Z||000002||fierobaby||06-20-2001||10:28 AM||||congrats I still can't get it to work<P>------------------<BR>1984 Sweet Candy Apple red Fiero sport coupe :-D<P>[This message has been edited by fierobaby (edited 06-20-2001).]<p>[This message has been edited by fierobaby (edited 06-20-2001).]||||reg||1

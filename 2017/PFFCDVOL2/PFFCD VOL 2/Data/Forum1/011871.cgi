@@ -1,0 +1,7 @@
+A||||5||edbone||Close up of 8" sub and MTX amp||||1||
+Z||000000||edbone||11-15-2001||07:30 AM|||| <IMG SRC="http://www.fiero.nl/uploads/Dscf0017.jpg"> <BR>Give me a few to answer the other questions on the car. Thanks.||||reg||1
+Z||000001||billfredmike24||11-15-2001||07:16 PM||||Is the sub box your own custom enclosure?  If so how'd you make it, and how does it sound?||||reg||1
+Z||000002||kempo||11-15-2001||08:16 PM||||I am very interested as well.  Please share the wealth!  Knowledge is (sometimes) power!<BR>VERY SWEET FIERO!!!<BR><P>------------------<BR>    <IMG SRC="http://www.admist.net/gtsmall.jpg">    <BR>0-60 6.9 seconds||||reg||1
+Z||000003||billfredmike24||11-16-2001||01:00 PM||||Any info. would be great ed.||||reg||1
+Z||000004||edbone||11-16-2001||09:22 PM||||Sorry for the delay, but I was unable to see my replies until now something about caches on my PC. Anywho, The sub enclosure was an 8" premade cylinder made out of a thick cardboard that actually was about 2 tims the size as you see. I just cut to the appropiate size and filled it with polyfill which is like pillow cotton to make the woofer respond better in a smaller enclosure. Sounds excellent. <BR>||||reg||1
+Z||000005||WFO||11-17-2001||02:57 AM||||This can also be done with a piece of PVC pipe, a piece of plexi for the top, and a piece of wood to mount the woofer onto. If you want a crude "computer rendered" drawing I can PM you one. Sorry, just registered yesturday and don't yet know how to post it on here.<P>------------------<BR>Later...TF<BR>86 GT||||reg||1

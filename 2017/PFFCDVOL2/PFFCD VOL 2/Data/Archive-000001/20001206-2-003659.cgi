@@ -1,0 +1,3 @@
+A||||1||fotofrank||cat and muffler||||5||
+Z||000000||fotofrank||05-09-2000||01:40 PM|||| I've got an '84 2M4. If the cat converter and muffler are original what is the chance of the the cat being clogged? Would replaceing the cat and muffler make my car more efficent.The pipes look solid. BTW just a few monthe ago I passed the emissons test.||||reg||5
+Z||000001||deceler8||05-09-2000||01:49 PM||||Clogged cat would result in poor driveability (no power)...if it ain't broke, don't fix it.<P>You'll get plenty of chances to spend money on your Fiero, so don't open up the wallet for stuff you don't need.<P>Not being critical...any 15 year old car is gonna need stuff eventually.||||reg||1

@@ -1,0 +1,4 @@
+A||||2||87 Pegasus||Three Ring Binder (red) for the P book||||5||
+Z||000000||87 Pegasus||08-05-2001||11:20 PM||||I am looking for the three ring binder for the Pontiac Fiero Parts book?  does anyone have one or know of where i can get it?  I have the book  want the binder now.<P>------------------<BR>Friends don't let friends drive Corvettes!!||||reg||5
+Z||000001||Raydar||08-06-2001||02:30 PM||||I just went to Office Depot and bought a big binder. It's not red, though.<P>------------------<BR>Raydar - aka Steve<BR><FONT SIZE="1"><BR>Black 88 Formula.<BR>Red 88 Duke coupe. "The Project" <BR>88 Formula parts car. "The Donor"<BR></FONT>||||reg||1
+Z||000002||SlingBlade||08-09-2001||12:55 PM||||I came across someone who has a red polyproplylene binder holding service bulletins. I will try to get a picture.<BR>||||reg||1

@@ -1,0 +1,2 @@
+A||||0||stsmithgt||My smog stats||||1||
+Z||000000||stsmithgt||10-20-2000||10:43 AM||||Here's what my smog test scores were:<P>MAXIMUM ALLOWABLE EMISSIONS<BR>HC PPM  0150<BR>AVERAGE EMISSIONS IS 0031<BR>Mine was-------------0016<P>CO%  AVERAGE WAS   00.20<BR>Mine was----------- 0.07<P>CO2----------------14.7<BR>O2----------------- 0.2<BR>RPM---------------@2508<P>No average on CO or O2.<P>Looks pretty good to me being at half the average.   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P><BR><p>[This message has been edited by stsmithgt (edited 10-20-2000).]||||reg||1

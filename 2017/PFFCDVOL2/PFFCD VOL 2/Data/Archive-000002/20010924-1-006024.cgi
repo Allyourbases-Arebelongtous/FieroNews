@@ -1,0 +1,3 @@
+A||N||1||Roy Grooms|| need help with image poster||||9||
+Z||000000||Roy Grooms||03-03-2001||02:30 PM||||i have tryed to down load the image poster a few times , how long does it take ? I have a 56 k and all it does is spin the hour glass<BR> AM I DOING SOMETHING WRONG<BR>||||reg||9
+Z||000001||Old Lar||03-03-2001||03:29 PM||||Must be doing something wrong.  It took less than15 seconds to post the picture to PIP.<P>CTL V and its in the post<BR>  <IMG SRC="http://www.fiero.nl/uploads/88coupe_3.jpg">  <P>Oops a little large.<p>[This message has been edited by Old Lar (edited 03-03-2001).]||||reg||7

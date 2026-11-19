@@ -1,0 +1,10 @@
+A||||8||DreXteR||This engine in for the Fiero||||10||
+Z||000000||DreXteR||10-10-2001||04:44 PM||||I want one of these!!    <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>  <IMG SRC="http://users.centennialpr.net/drexter/Fiero/2001_bugatti_16-4-9.jpg">  <P><BR>DreX<p>[This message has been edited by DreXteR (edited 10-10-2001).]||||reg||10
+Z||000001||Alex4mula||10-10-2001||04:49 PM||||Quad turbo 12 cyl... Buy more Lotto tickets  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>    Alex4mula<BR>:) Red & White (:||||reg||1
+Z||000002||Master_Sushi||10-10-2001||05:06 PM||||It looks like a V-16 quad turbo. What is it really?||||reg||5
+Z||000003||rmorgandotcom||10-10-2001||05:31 PM||||Isn't that the bugatti w16?<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/rmorgansig.jpg">   <BR><UL TYPE=SQUARE> <BR><LI><I><FONT COLOR="blue">project - finale body on a 86 4 cylinder 5 speed</FONT></I><BR><LI><A HREF="http://www.geocities.com/rmorgandotcom/" TARGET=_blank>www.geocities.com/rmorgandotcom/</A><BR></UL>||||reg||12
+Z||000004||Steve Normington||10-10-2001||05:46 PM||||I think that belongs on the front of a Mustand P-51D.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000005||DreXteR||10-11-2001||10:07 AM||||Its from a <A HREF="http://www.supercars.net/SDBQ?y=2002&m=Bugatti&o=16/4%20Veyron" TARGET=_blank>Bugatti 16/4 bayron</A>. Its ugly as hell but sure is fast as a Deamon. Its Satans car?!?!?!?! <IMG SRC="http://www.fiero.nl/forum/smiley_watchout.gif"> hehehehehe <P>DreX||||reg||1
+Z||000006||Philphine||10-11-2001||10:57 AM||||i'm not greedy. just give me half of it.||||reg||1
+Z||000007||pontiacs4me||10-11-2001||06:39 PM||||actually its a Veyron not bayron, ive seen that car before its one of my all time favorite concept cars.  Maybe someone needs to make a kit!||||reg||1
+Z||000008||Kasdan||10-11-2001||11:22 PM||||it looks like the block might fit....but that tranny?  haha....youd need a different intake, but those look like tiny a55 pistons.||||reg||1

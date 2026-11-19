@@ -1,0 +1,6 @@
+A||||4||SLYGUY||New Pic of 88GT....||||14||
+Z||000000||SLYGUY||10-21-2001||01:05 AM|||| <IMG SRC="http://www.printroom.com/_vti_bin/ViewImage.dll?userid=SLYGUY&album_id=35876&image_id=8&courtesy=1"> <P><BR>I wanted to put this one up and ask if anyone knows how to shrink it way way down so that I could use it now and then.<P>Thanks<BR>Sly||||reg||14
+Z||000001||Tigger||10-21-2001||02:03 AM||||  <IMG SRC="http://www.fiero.nl/uploads/ViewImage.jpg">  <BR>This ok?<P>I uploaded it with PIP to the forum server.  Click the edit button of this post to get the URL location and [IMG] code so you can use it.<p>[This message has been edited by Tigger (edited 10-21-2001).]||||reg||1
+Z||000002||SLYGUY||10-21-2001||02:04 PM||||Thank you so much Tigger. <BR>Let me see if it works...<P> <IMG SRC="http://www.fiero.nl/uploads/ViewImage.jpg"> ]<P>Sly||||reg||1
+Z||000003||SLYGUY||10-21-2001||02:06 PM||||Should be my newer, much smaller signature. <BR>I don't want the wrath of Pennock!!<BR>LOL<P>Sly<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/ViewImage.jpg"> ||||reg||1
+Z||000004||Screwie||10-21-2001||03:30 PM||||It's a bit O/T, but that's exactly how I always imagine American homes and streets  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Must be cool living there  <IMG SRC="http://www.fiero.nl/forum/cool.gif">||||reg||12

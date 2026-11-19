@@ -1,0 +1,4 @@
+A||N||2||Fiero_Freak||Average Price of 3.4?||||1||
+Z||000000||Fiero_Freak||01-31-2001||01:38 PM||||   Looking at a 95 camaro 3.4.  What's the avg price on one of these?  It's in good shape, very clean, miles aare around 60k.||||reg||1
+Z||000001||Black88GT||01-31-2001||02:10 PM||||Anywhere from 500 - 1,000 depending on condition.   For that engine I would say 650.<P>------------------<BR>Jeff<BR>'88 GT t-top 3.4<BR>Baltimore, MD<BR>      <IMG SRC="http://cgi.tripod.com/smilecwm/cgi-bin/s/sp/cartmanico.gif">             <IMG SRC="http://cgi.tripod.com/smilecwm/cgi-bin/s/sp/kennyico.gif">           <IMG SRC="http://cgi.tripod.com/smilecwm/cgi-bin/s/sp/stanico.gif">         <IMG SRC="http://cgi.tripod.com/smilecwm/cgi-bin/s/sp/kyleico.gif">             <IMG SRC="http://cgi.tripod.com/smilecwm/cgi-bin/s/sp/chefico.gif"> ||||reg||3
+Z||000002||ironhedno3||01-31-2001||07:31 PM||||if ya wanna reman long block let me know..dont forget the starter location...||||reg||1

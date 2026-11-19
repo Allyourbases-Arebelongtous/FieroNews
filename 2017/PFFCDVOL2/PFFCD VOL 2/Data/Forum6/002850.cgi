@@ -1,0 +1,2 @@
+A||||0||fieroguycb||91 Nissan Pathfinder for sale...||||6||
+Z||000000||fieroguycb||08-03-2001||12:20 PM||||I know its not a Fiero, but I have this really nice truck in the Tallahassee area for sale. ITs a 1991 Nissan Pathfinder SE, Power windows,locks, keyless entry, alarm, tinted windows, cd player, sunroof, roof rack.  Loaded.  171,000 pampered miles.  Its priced to sell, if I dont sell it this weekend and will take a major loss.  Blue book is 5700, i am pricing it at 4500 or best offer. ||||reg||6

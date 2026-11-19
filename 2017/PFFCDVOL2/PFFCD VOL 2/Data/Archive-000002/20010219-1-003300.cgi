@@ -1,0 +1,4 @@
+A||||2||Homicidal||BAM BAM:  What the deal?||||5||
+Z||000000||Homicidal||08-16-2000||11:10 PM||||I need to know the shipping cost on those tail light lenses so I can send the money order!  I WANT them!!!!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||5
+Z||000001||BAM-BAM||08-17-2000||12:30 AM|||| Homocidal, I have sent you an E-Mail with total twice. Check your mail. They are ready to go and if you send your address I might send them early. Get back with me.<P> <BR>  Late, BAM OUT!   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> <P><BR>                 <P>------------------<BR>Don B. <BR>85GT||||reg||12
+Z||000002||Homicidal||08-17-2000||12:47 AM||||Whoops, my email or yours was running slow and it didn't get through until AFTER I posted this!  Anyways, I sent the email with my address and I am sending the money order tomorrow!!||||reg||1

@@ -1,0 +1,4 @@
+A||||2||HAGS||Damn Neighbors!!!!!!!!!!||||1||
+Z||000000||HAGS||01-24-2001||09:36 AM||||Ok, not that his cheap %&# Del Sol wasnt bad enough, I take my Fiero out for a test drive and I come back to see a sweet looking(sorry) cheap %#$ MR2 parked in my spot!  Im gonna have to have a man-man talk with this guy...atleast he said my Fiero looked good and he didnt know they were still on the road when I was washing it.||||reg||1
+Z||000001||Cheever2||01-24-2001||07:06 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by HAGS:<BR>Im gonna have to have a man-man talk with this guy...<HR></BLOCKQUOTE>It takes two men for that.  Real men don't drive MR2's.  (*heheh*)<P><BR>||||reg||1
+Z||000002||KnightRyder31||01-24-2001||07:25 PM||||What a punk! Show him who's boss!<P>||||reg||1

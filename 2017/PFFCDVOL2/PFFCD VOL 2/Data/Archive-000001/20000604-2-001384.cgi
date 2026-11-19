@@ -1,0 +1,8 @@
+A||||6||penetrator||Clutch Pedal||||5
+Z||000000||penetrator||11-11-1999||10:29 AM||||Is $35 for a 87 used clutch pedal to expensive ?<P><BR>Magnus||||reg||5
+Z||000001||Phil||11-11-1999||05:44 PM||||That's the same as a new one costs, just be sure it's steel and not aluminium.||||reg||1
+Z||000002||ggarsk||11-11-1999||09:17 PM||||Yes it is. Just go to a Pontiac dealer and order a new steel one. Why buy used when you can get new for the same price.<p>[This message has been edited by ggarsk (edited 11-11-1999).]||||reg||1
+Z||000003||Patrick||11-11-1999||09:21 PM||||<BR>You guys might not be aware that our friend lives in <B>Sweden</B>. Who knows what the cost or availability of a new pedal is there.||||reg||4
+Z||000004||Bruce||11-11-1999||10:33 PM||||Then, we should make arrangements to send him one from here!||||reg||1
+Z||000005||BENGAL4||11-12-1999||11:22 AM||||I export via UPS, Fed Exp even the US Mail. If you can get a new one here in the USA, I can get it to you. It could even be shipped via one of the airlines and you would have to pick up at your airport. You would also have to pay duty and VAT but it should not be that much. Shipping costs are based on how fast you want it. If you can wait 3 or 4 weeks, then I suggest shipping via Parcel Post. If you have any questions, just e-mail me.<P><BR>Bill||||reg||14
+Z||000006||penetrator||11-13-1999||04:09 PM||||Thanks for the replays.<P>I've checked in my Fierostore catalog, and they have a clutch pedal for about $32.90.<BR>I have ordered from them before and it works fine. So i'll try to get my pedal from them.<P>Tanks<BR>Magnus||||reg||10

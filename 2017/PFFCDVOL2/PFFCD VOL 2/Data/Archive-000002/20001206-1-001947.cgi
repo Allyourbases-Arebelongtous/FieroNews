@@ -1,0 +1,6 @@
+A||||4||Gokart||FOCOA magazine||||5||
+Z||000000||Gokart||04-24-2000||08:25 PM||||Has anyone in the club received the 1st quarter issue yet? The last one I received was 4th quarter 1999 with the red Mera on the front. ||||reg||5
+Z||000001||2M4 Dale||04-24-2000||11:30 PM||||Nope, just the fourth quarter mag so far. <P>I even got my name printed in it...lol. Page 7 I think !!!<p>[This message has been edited by 2M4 Dale (edited 04-24-2000).]||||reg||9
+Z||000002||Old Lar||04-25-2000||12:23 PM||||The FOCOA magazine usually runs at least 1/4 year behind.  The first quarter 2000 should be coming out soon. April is the start of the second quater. Gloria does all the publishing with stories of interest, then sends it out to the printer. <P>Send your general interest stories with good quality photos, no e-mail photos, they do not scan well for the printer, to FOCOA, and who knows you may get on the cover. <p>[This message has been edited by Old Lar (edited 04-25-2000).]||||reg||1
+Z||000003||Dan87GT||04-25-2000||04:56 PM||||Mine came with the address I lived at 3 homes ago.. They have never updated my address, countless e-mails & letters||||reg||1
+Z||000004||Gokart||05-05-2000||06:16 AM||||Will you guys let me know when you get yours? I've had Post Office problems as well and would appreciate the heads up that its finally out.TKS!||||reg||4

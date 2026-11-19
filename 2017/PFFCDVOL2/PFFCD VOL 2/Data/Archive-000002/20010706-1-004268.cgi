@@ -1,0 +1,6 @@
+A||||4||JetroGT||My next GT?||||7||
+Z||000000||JetroGT||11-05-2000||10:41 PM||||Hear's pics of a car I took a look at today.<P> <IMG SRC="http://www.fiero.nl/uploads/front_2.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/Rim.jpg"> <P><BR> <IMG SRC="http://www.fiero.nl/uploads/Sailpanel.jpg"> <P>It's missing the rear lock and it has a few nicks in the paint, but other than that it's fine.<BR>||||reg||7
+Z||000001||Cheever2||11-05-2000||11:14 PM||||Say, that looks great.  Did you run the VIN yet?  Are you serious about it & if so, what's it gonna set you back?<P>||||reg||1
+Z||000002||Monkeyman||11-06-2000||02:51 AM||||Tag in the window says $2950.  I'll bet you could get it for less.||||reg||1
+Z||000003||JetroGT||11-06-2000||04:11 AM||||It acutally says $3950 in the window. I think thats way too much for that car. If I can get it for $2500 I'll take it. It's auto and has power every thing, including the sub, defroster and sunroof. The paint is some what faded. It's hard to tell from the pictures though. I plan to go back tommorow when someone is there. Maybe test drive it. ||||reg||1
+Z||000004||Cheever2||11-06-2000||04:35 AM||||Good luck.  I could look at that picture all day.  Just something real appealing about these machines to me.  Where's North Richland Hills?<BR><p>[This message has been edited by Cheever2 (edited 11-06-2000).]||||reg||1

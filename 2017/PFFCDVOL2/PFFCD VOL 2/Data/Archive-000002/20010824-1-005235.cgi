@@ -1,0 +1,8 @@
+A||||6||Panzer GT||Just wanted to say hi!!||||1||
+Z||000000||Panzer GT||01-14-2001||03:50 AM||||Just wanted to say hi, and Greeting to you all!!! I love the discussions!!! <P>Steve<P>88 GT 3.8L Supercharged.||||reg||1
+Z||000001||Haze_Performance||01-14-2001||04:00 AM|||| <IMG SRC="http://www.fiero.nl/uploads/2d_00014d7f.gif"> <P>------------------<BR>        <IMG SRC="http://www.fiero.nl/uploads/goodlogo1_1.gif">        <BR><B>"AHHHHH!!! All Fiero's don't start on fire you BONEHEAD!!"</B>||||reg||6
+Z||000002||Stoic||01-14-2001||05:37 AM||||Greets!<P>------------------<BR>If you can read this, I'm parked.||||reg||6
+Z||000003||Cliff Pennock||01-14-2001||06:48 AM||||Welcome to the forum, Panzer!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000004||Standard||01-14-2001||07:32 AM||||Welcome!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  sounds like you got a sweet car!  pics pics pics pics!<P>------------------<BR>Everybody wants a normal life and a cool car.. <B>Most people settle for the car</B><P>I'm not dumb.  I just have a command of thoroughly useless information        <BR>AOL: LastMinuteBastrd<BR>AIM: Standard88||||reg||14
+Z||000005||TheFiero64||01-14-2001||12:34 PM||||Welcome to the best fiero place on the internet.<P>------------------<BR>Josh<BR>88 Coupe V6<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif">   <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||10
+Z||000006||2xsess||01-14-2001||02:03 PM||||Welcome to the best place on the net  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Jeff<BR>AOL IM : Only2xsess<BR>  <IMG SRC="http://www.fiero.nl/uploads/My_car_(large)sig_1.JPG"> ||||reg||1

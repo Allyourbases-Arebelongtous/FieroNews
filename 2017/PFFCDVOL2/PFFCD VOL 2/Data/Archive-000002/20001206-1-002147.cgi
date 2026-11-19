@@ -1,0 +1,4 @@
+A||||2||fotofrank||posting pics||||11||
+Z||000000||fotofrank||05-09-2000||01:44 PM||||So what am I doing wrong? I have tried to post pics several times and was successful once with one of many pictures.Must thay all be jpeg and is it cntrl V or cntrl - V ?<BR>I have several things to post and enjoy photography but this has me stumped.||||reg||11
+Z||000001||Cliff Pennock||05-09-2000||02:24 PM||||They either need to be .jpg or .gif files. And you need to press the CTRL-key and the V-key <B>simultaneously</B>... Hope this helps.||||reg||1
+Z||000002||Robert||05-09-2000||02:41 PM||||I’ve had problems with the control-V working for me sometimes.  But what always works is after posting; I go the history file and copy the address. Then paste that into your message.  This has never failed.<P>Robert  <BR>||||reg||1

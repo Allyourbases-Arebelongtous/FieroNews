@@ -1,0 +1,3 @@
+A||||1||jd66||fiero parts needed||||1||
+Z||000000||jd66||07-31-2001||06:57 PM||||i need passenger side rocker panel, drivers side front marker light/molding, rear spoiler gasket and mounting bolts.<P>i am located in ontario||||reg||1
+Z||000001||HummelHund||07-31-2001||07:01 PM||||Try posting your request in the "Mall" section of the forum. That's where we post for sale/wanted ads, so you'd probably have better luck there.<P><P>------------------<BR>Sean W.<BR>'84 SE 2M4 WS6, The "Buzz Bomb". (restoration project to become daily driver)<BR>'84 Sport Coupe, The "Black Wedge of Death" ($150 running car)||||reg||1

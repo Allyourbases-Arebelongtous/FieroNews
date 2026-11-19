@@ -1,0 +1,5 @@
+A||||3||Alex4mula||Power pulley installation help||||1||
+Z||000000||Alex4mula||05-02-2000||09:46 AM||||I received my power pulley (F-Store) and in its instructions it says that you need to remove a spacer from the alternator shaft (behind the its pulley). Is this really necessary? I guess it is for the belts to properly align. It says you need an impact tool to take off the center screw on the alternator to do that. Anyone there done it? Do you really need an impact tool to remove that screw? Thanks.||||reg||1
+Z||000001||TOM||05-02-2000||11:02 AM||||Take an old belt and wrap the pully then take the tail and hold it in the vise. Just the belt end not the pully. This will hold it while you use something to remove the nut.||||reg||1
+Z||000002||Alex4mula||05-02-2000||11:18 AM||||That sounds like it would work. I have a big vice & the old belt. Thanks Tom.||||reg||7
+Z||000003||GT Bastard||05-02-2000||02:40 PM||||When I put them on my LT1, I just took the alternator to a repair shop and they removed it for free... save some hassle.||||reg||1

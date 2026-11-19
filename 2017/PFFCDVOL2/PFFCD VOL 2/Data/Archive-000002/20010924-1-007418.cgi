@@ -1,0 +1,4 @@
+A||N||2||Fiero5||The Kelley's meet the Wudman!!||||6||
+Z||000000||Fiero5||05-14-2001||03:12 PM||||John Wudman has a great Fiero site called "www.thisisfun.com<BR>We got to meet him not too long ago. Here is a nice pic of us all parked together.<BR> <IMG SRC="http://www.fiero.nl/uploads/wudman&kelleys.jpg"> <P>Steve<P>------------------<BR>            <IMG SRC="http://www.fiero.nl/uploads/Fiero5_3.jpg">          <BR>http://www.kelleyfamilyfieros.homestead.com/index.html||||reg||6
+Z||000001||terryk||05-14-2001||05:50 PM||||Finally, someone that spells Kelley right.<P>Terry Kelley ||||reg||1
+Z||000002||FieroJoe||05-14-2001||09:26 PM||||Those are some nice looking cars!<P>Great Pics!!<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/joesig_1.jpg"> <BR>'87 Coupe 5spd.<BR>AIM:FieroJoe87||||reg||1

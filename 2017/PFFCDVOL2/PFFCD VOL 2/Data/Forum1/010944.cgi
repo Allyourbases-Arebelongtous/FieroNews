@@ -1,0 +1,2 @@
+A||N||0||85ZainoGT||Indianapolis FIEROS!!!||||4||
+Z||000000||85ZainoGT||10-12-2001||06:09 PM||||Just letting you know ill be at the steak n shake on N31 tonight(friday) at about 930-1000 if anyone wants to meet up there and cruise around greenwood and downtown with me, see you there... <P>------------------<BR>Paul Ventimiglia<BR>1985 White/Silver GT <BR>2.8L 4 Speed LOADED  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>      <IMG SRC="http://www.fiero.nl/uploads/Sigpic2529_1.jpg">  <p>[This message has been edited by 85ZainoGT (edited 10-12-2001).]||||reg||4

@@ -1,0 +1,6 @@
+A||||4||Sootah||Want engine removal pics. Anybody know of a site that has tons?||||5||
+Z||000000||Sootah||10-27-2001||01:38 AM||||Just wantin a good documentary on a V6 engine removal. You all (most of you, anyway) know why.<P>Thank you and have a nice day,<BR><B><I>-Sootah</B></I><P>------------------<BR>     <IMG SRC="http://www.fiero.nl/uploads/Sootah__Nuclear_Happy_Face_Sig.jpg">     <BR><sup><I>Never pull your pants down in Cosco, the dang monkeys will getcha</I></sup> <BR><sup><B>AIM</B>: KSSouter</sup>||||reg||5
+Z||000001||fierospeeder||10-27-2001||03:17 AM||||archie has one on his website.  I think he puts a warning on his site that says its not fully documented.||||reg||1
+Z||000002||Sootah||10-27-2001||07:21 PM||||No pics, just a list of things to do... Unless I'm at the wrong place on Archies site? Have a link?||||reg||14
+Z||000003||fierospeeder||10-28-2001||01:03 AM|||| <A HREF="http://www.v8archie.com/v8install.htm" TARGET=_blank>http://www.v8archie.com/v8install.htm</A> ||||reg||1
+Z||000004||Sootah||10-28-2001||01:49 AM||||Not quite as thorough as I'd like, but its just my parts car. We'll do the practicing on it.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Thanx <B>fierospeeder</B>||||reg||1

@@ -1,0 +1,9 @@
+A||||7||Richard Parnell||Motor ID||||5||
+Z||000000||Richard Parnell||08-09-2000||02:21 PM||||Since I didn't get any answers from my previous post let me rephrase the question.  Is there a site where I can check the VIN? number on the motor I have to see what year this motor is?  ||||reg||5
+Z||000001||Richard Parnell||08-09-2000||04:10 PM||||Somebody-somebody-please||||reg||9
+Z||000002||1FST2M6||08-09-2000||04:35 PM||||hang on about 2 hours.. till i get home.. i've got a VIN decoder saved on my favorites there.. hang on!!!     <IMG SRC="http://www.fiero.nl/forum/eek.gif"><p>[This message has been edited by 1FST2M6 (edited 08-09-2000).]||||reg||1
+Z||000003||Fformula88||08-09-2000||04:52 PM||||If I understand it right... you are looking for the year code on the engine block.  I too want to look at it, but it is burried.  Its on the front (firewall) side of the engine according to the diagram I have, near where the tranny bolts onto the engine block.  But I have been underneath with flashlights and mirrors and cannot find it.  Maybe if I had a lift I could get to it.  Good luck (and if its somewhere else... PLEASE tell me!  My diagram is small and not too accurate.||||reg||1
+Z||000004||1FST2M6||08-10-2000||08:49 AM||||i wnet throught everthing i have.. i'm trying to find a link that works for Paul McKibbens "Fiero Secrets" the vin decoder is on his page.. he also sells sail panels! anyone  have that link?||||reg||1
+Z||000005||Phil||08-10-2000||09:04 AM||||Fiero secrets <A HREF="http://www.angelfire.com/biz/fierosails/info.html" TARGET=_blank>http://www.angelfire.com/biz/fierosails/info.html</A> ||||reg||1
+Z||000006||1FST2M6||08-10-2000||09:23 AM||||thank you! ok there is a VIN decoder in Pauls page... Rich check it out.. hope that helps.||||reg||1
+Z||000007||Richard Parnell||08-10-2000||03:18 PM||||Great- thanks alot guys.  Once again, I thank the forces above that I found this forum.||||reg||7

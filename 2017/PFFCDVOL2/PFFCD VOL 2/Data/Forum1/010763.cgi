@@ -1,0 +1,3 @@
+A||||1||Gerald||drove my fiero agian||||1||
+Z||000000||Gerald||10-06-2001||01:23 AM||||I went and picked up my fiero from my moms tonight. I had left it there because i didnt have time to do the clutch. So tonight was the first time I drove it in 2 months. It felt great. Im doing the clutch tomorrow. Maybe the muffler too. Its such a relief to not have to drive a 4 door anymore.||||reg||1
+Z||000001||Uaana||10-06-2001||03:17 AM||||Know exactly how you feel.<BR>In the last 4mo's I've driven mine for a total of about 2 weeks. Got it back today.. <BR>God do I love this 3.4 nothing like breaking them loose in 2nd.||||reg||1

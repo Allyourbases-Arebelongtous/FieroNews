@@ -1,0 +1,2 @@
+A||N||0||Elenor84||New Poll Question: Lance's Fiero Site||||1||
+Z||000000||Elenor84||02-01-2001||05:50 AM||||Hey guys, got my question of the week up on my page...click on my car to go there now!<P>------------------<BR>Lance<BR>Click Image to go to site.<BR><A HREF="http://members.nbci.com/_XMCM/lancegspage/Index.html" TARGET=_blank><BR> <IMG SRC="http://www.fiero.nl/uploads/Sideview.jpg">  </A>||||reg||1

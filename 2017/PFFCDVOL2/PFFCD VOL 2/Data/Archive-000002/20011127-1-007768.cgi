@@ -1,0 +1,5 @@
+A||||3||pHoOl||Movie fiero sighting||||1||
+Z||000000||pHoOl||05-29-2001||11:42 PM||||Alright, i don't know if this one has been covered.... but for those of you who watch Friday.  In the first five or ten minutes there is a 85GT (or 86/87SE) following them in their pinto.  <P>------------------<BR>Fuzz busters are for those who can't outrun the cops.<P>AIM: phool88fiero<P>    <IMG SRC="http://www.gvsuphool.homestead.com/files/pHoOl_sig.gif"> ||||reg||1
+Z||000001||Steve Normington||05-29-2001||11:53 PM||||What movie?||||reg||1
+Z||000002||pHoOl||05-30-2001||12:33 AM||||"Friday"  With Ice Cube and Chris Tucker.  Funny as hell!!!  <P>------------------<BR>Fuzz busters are for those who can't outrun the cops.<P>AIM: phool88fiero<P>    <IMG SRC="http://www.gvsuphool.homestead.com/files/pHoOl_sig.gif"> ||||reg||1
+Z||000003||Fierodave2001||05-30-2001||08:08 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Steve Normington:<BR><B>What movie?</B><HR></BLOCKQUOTE><BR>This reminds me of that TV commmercial, my broker, who's your broker, I need a name<P>||||reg||1

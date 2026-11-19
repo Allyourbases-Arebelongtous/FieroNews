@@ -1,0 +1,4 @@
+A||N||2||glava2876||84 paint question||||5||
+Z||000000||glava2876||07-31-2001||10:52 PM||||Anyone know what the factory paint is on my white 84? I washed it after years of dust and dirt and it still has a film. Wax with cleaner won't seem to take it all off -can I use a mild rubbing compound or is this a clearcoat finish? Thanks, Glen ||||reg||5
+Z||000001||Indiana_resto_guy||07-31-2001||11:25 PM||||Yes, you may use rubbing compound on it. Read the label for safe to use on clear coat finishes, I think they all are now.||||reg||1
+Z||000002||gtcash||07-31-2001||11:51 PM||||It's enamel, with a clear coat...<BR>if you want the numbers email me, I used a polish called Color Back it is a mild rubbing compound, then waxed with Zymol. The Zymol stuff was $20 at Pep Boys and $7.50 at Costco, but you have to buy 2 bottles at Costco. It is a VERRRRRY  GOOOOOD product!<BR>Glenn (with 2 n's)||||reg||6

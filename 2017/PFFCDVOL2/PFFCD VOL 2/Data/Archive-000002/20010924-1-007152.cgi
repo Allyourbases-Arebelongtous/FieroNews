@@ -1,0 +1,4 @@
+A||N||2||4-WHEEL||Wing Placement||||5||
+Z||000000||4-WHEEL||04-30-2001||09:41 PM||||Does anyone know the measurements for the <BR>placement of a wing on a notchback?<P><BR>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/4-Wheel2_3.jpg"> <p>[This message has been edited by 4-WHEEL (edited 04-30-2001).]||||reg||5
+Z||000001||Wolfhound||05-01-2001||09:58 AM||||4-WHEEL, the measurements below are for the center back edge of the gasket. Find this point place the gasket and mark the rear hole in the gasket and drill. Then measure the lower distance to the hole and make a  horizontal pencil line for the opposite stand. Place the wing in position and mark the other three holes.<BR> <IMG SRC="http://www.fiero.nl/uploads/wgmes.JPG">    ||||reg||1
+Z||000002||4-WHEEL||05-01-2001||07:03 PM||||Thanks Wolfhound.||||reg||1

@@ -1,0 +1,4 @@
+A||||2||ponya||Plenum||||1||
+Z||000000||ponya||05-15-2000||02:45 PM||||I've tried to remove the upper part of the plenum from the lower half. All the bolts and connections etc have been removed. I cannot get them apart. I'm afraid of putting too much pressure on it. What can I use to pry them apart without breaking anything. Thx Bob||||reg||1
+Z||000001||wilburt||05-15-2000||05:45 PM||||First, I would double check to make sure everything is removed, including all fasteners. Then try a plastic mallet, or rubber mallet, VERY gently tap all around. I don't think it's a good idea to pry on anything, as I have caused myself more problems doing so. Keep tapping, while lightly pulling up on the plenum will free it. Good luck. ||||reg||4
+Z||000002||GT Bastard||05-15-2000||05:53 PM||||ponya, what size socket did you use?||||reg||1

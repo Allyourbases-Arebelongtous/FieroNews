@@ -1,0 +1,2 @@
+A||||0||V8Fiero||More than a little displeased||||9||
+Z||000000||V8Fiero||07-03-2001||06:57 PM||||Ok, Just got back from the post office today. I just picked up my EGR tube from Edb52. Thanks by the way. I just cant believe that this has gotten so far out of hand that it (the forum) might get shut down. I just started thinking of how great of a tool it has been for me to get info, parts, and just about anything I need in the fiero world.<P>Please dont respond to this!!!!! I dont want to add to this already has gotten way out of hand.... Thanks.<BR>Scott||||reg||9

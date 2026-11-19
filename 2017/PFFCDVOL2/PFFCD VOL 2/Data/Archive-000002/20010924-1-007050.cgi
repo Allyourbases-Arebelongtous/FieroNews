@@ -1,0 +1,11 @@
+A||||9||fierodave||Put a 2.8 in my 84 and it don't seem to run!||||12||
+Z||000000||fierodave||04-24-2001||01:28 PM||||<BR>Did I do it wrong?   :~)   <P>  <IMG SRC="http://albums.photopoint.com/j/View?u=101570&a=12693586&p=47177808&Sequence=3&res=high">  <P>Just for a laugh I guess!<BR>The 84  did haul it good though.<BR>but seemed a hair light in the steering lol<P>This is the 2k original mile engine I have for sale in the Mall<P>More photos  <A HREF="http://albums.photopoint.com/j/AlbumIndex?u=101570&a=12693586å" TARGET=_blank>http://albums.photopoint.com/j/AlbumIndex?u=101570&a=12693586å</A> <P>Thanks for looking.<BR>FD<p>[This message has been edited by fierodave (edited 04-24-2001).]||||reg||12
+Z||000001||sqoach||04-24-2001||01:33 PM||||Hehe...I bet that put some funny looks on people's faces.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||10
+Z||000002||tgowens||04-24-2001||01:37 PM||||so, with a 2.8 and a 2.5 does that mean that you have 5.3L in that '84???  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000003||operator64||04-24-2001||01:39 PM||||   Turn it 180 degrees i think it may work then lol||||reg||1
+Z||000004||tgowens||04-24-2001||02:01 PM||||Dave, the motor goes in the front, don't you know that???||||reg||1
+Z||000005||KRMFiero||04-24-2001||02:50 PM||||what is the engine resting on? was the car even saggin?!?! <BR>cool||||reg||1
+Z||000006||rogergarrison||04-24-2001||03:03 PM||||its obvious to me, you just forgot to connect the main wiring harness, i see it dangling.||||reg||1
+Z||000007||Indiana_resto_guy||04-24-2001||03:28 PM||||Not to mention, NO FUEL!<BR>Love the invisible tranny and associated power transfer parts to the wheels!<P>Smart A$$!||||reg||1
+Z||000008||Pontiaddict||04-26-2001||04:32 PM||||I don't know, but it should pull the front wheels now.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>||||reg||1
+Z||000009||fierodave||04-28-2001||02:09 AM||||it dropped the rear only an inch!<BR>5.3 L  lol  yea  it's real power house lol  I decided to put it in a 86 SE instead lol (and buy a new truck)  it fits in the fiero trunk just right.....hauled it 5 miles like that at 60 mph with no fear it would fall out :~)<BR>FD||||reg||1

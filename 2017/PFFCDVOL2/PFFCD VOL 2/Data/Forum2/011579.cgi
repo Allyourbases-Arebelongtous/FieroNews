@@ -1,0 +1,5 @@
+A||||3||Tryxalon||Oil Pressure gage pegging ||||1||
+Z||000000||Tryxalon||06-25-2001||11:00 PM||||<BR>Alternator died, had to replace it (a heck of a job in and of itself!!) <P>After we got it in and running, took a drive to recharge the battery (didn't work, non-functioning alternator obviously took battery with it) BUT a very strange thing happened.  <P>In 4th or 5th gear at about 3000 RPM the Oil pressure gage PEGS!!! lower speed and it goes back to the 49 psi that is normal.  <P>Any suggestions?? <BR>||||reg||1
+Z||000001||PBJ||06-25-2001||11:03 PM||||needs a new oil pressure sensor.  When the go usually the work at idle but read high and above idle the peg over||||reg||1
+Z||000002||Tryxalon||06-26-2001||07:28 PM||||That may be the ultimate requirement, but I found that the wires to the sensor were rubbing on a bracket ... intermittant short/open.  Re-sealed the circuit.  (although I will probably go ahead and replace the sensor and wires if it acts up again.) <P>Thanks!  For the quick response!! <BR>||||reg||1
+Z||000003||mrgone||06-26-2001||07:50 PM||||mine is doing about the same, only all the time. where are these wires you speak of??||||reg||1

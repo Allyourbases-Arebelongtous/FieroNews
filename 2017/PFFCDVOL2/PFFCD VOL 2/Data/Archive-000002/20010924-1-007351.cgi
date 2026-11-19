@@ -1,0 +1,3 @@
+A||||1||Uaana||Tina!||||5||
+Z||000000||Uaana||05-11-2001||12:44 AM||||Tina. <BR>I have decided to completly save the Rainbow Marvel.. So first thing it needs is an engine rebuild or swap. Since Eric is familiar with these things will he have time in mid June to do something like this?<BR>How much woud he want to do it?<BR>Either swapping in a new GM 2.8<BR>Or a 3.4. If he's unavailable can he recommend someone?<BR>Thanks||||reg||5
+Z||000001||Tina||05-11-2001||09:47 PM||||Why don't you just stop by the shop sometime and talk to Eric about it.<BR>Let him know what you want HP wise,and what you can spend.<P>Tina  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

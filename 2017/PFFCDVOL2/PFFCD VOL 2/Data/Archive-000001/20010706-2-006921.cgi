@@ -1,0 +1,4 @@
+A||||2||Cooter||Tire size for Sunfire G/T wheels?||||1||
+Z||000000||Cooter||11-22-2000||09:07 PM||||I picked up a set of the 3 spoke 16 inch GT wheels and was wondering what size tires would be the best. I was thinking 215/50's or 215/55's. Any ideas?||||reg||1
+Z||000001||Oreif||11-23-2000||10:53 AM||||Go to here for a tire calculator. Enter in original tire size and the one you want to go to. This will show you size difference and speedo error. Object is to maintain overall diameter in order to not affect speedo.<BR> <A HREF="http://www.secret-secret.com/turbo/DIY/tirecalc/turbotire.html" TARGET=_blank>http://www.secret-secret.com/turbo/DIY/tirecalc/turbotire.html</A> <P>||||reg||1
+Z||000002||Cooter||11-23-2000||03:13 PM||||Thanks- The 215-55's will only be off by .6% on the speedometer. I can live with that.||||reg||1

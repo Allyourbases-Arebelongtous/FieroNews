@@ -1,0 +1,2 @@
+A||||0||DiggityDan||Sequential Turn Signals||||1||
+Z||000000||DiggityDan||06-15-2000||11:02 PM||||Ok everybody..........we only need one more person to get the 15% discount. We've got a total of nine people all ready. So if you would like to have this kit - either for the coupe or for the GT, let me know. Either way you will get the discount, the GT's are actually cheaper. If you have any questions, don't hesitate to ask me. You can e-mail me at<BR>diggity_dan@hotmail.com<BR>Just one more person.........that's all we need.<BR>Thanks||||reg||1

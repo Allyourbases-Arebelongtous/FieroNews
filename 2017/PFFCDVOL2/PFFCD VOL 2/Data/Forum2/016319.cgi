@@ -1,0 +1,4 @@
+A||||2||Fiero_24||Smell gas?  Non Fiero related||||5||
+Z||000000||Fiero_24||12-13-2001||08:41 AM||||Sorry this is not Fiero related, but is a Pontiac.  It is a 1995 Grand AM GT and every now and then you can smell gas.  Any suggestions.  I notice it more in the afternoon when I leave work.<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/driverside41.jpg"> <BR>  <A HREF="http://www.geocities.com/fiero_24" TARGET=_blank>http://www.geocities.com/fiero_24</A> <BR>1987 GT||||reg||5
+Z||000001||tesmith66||12-13-2001||10:56 AM||||What did you have for lunch?  <IMG SRC="http://www.fiero.nl/forum/tongue.gif"><P>------------------<BR>Timothy E. Smith<BR>1986 SE V6<BR>1984 Coupe||||reg||1
+Z||000002||fldevel||12-13-2001||11:07 AM|||| talking about the petrolium gasoline now ..my moms grand prix does the same thing .. same year too .. if you get any info aobut it .. let me know ..||||reg||1

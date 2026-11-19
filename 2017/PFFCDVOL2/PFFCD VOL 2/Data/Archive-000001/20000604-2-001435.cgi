@@ -1,0 +1,3 @@
+A||||1||Pretender||how to? Tach filter||||5
+Z||000000||Pretender||11-18-1999||12:32 AM||||i want to check my tach filter but i have never even heard of a tach filter nor know what it does or where it's located, help? <P>'88 GT<BR>||||reg||5
+Z||000001||Cliff Pennock||11-18-1999||04:32 AM||||If you look at your ignition coil/module, you'll see a few wires coming out of which two go to this small cylinder shaped thing bolted to the engine. This is the tachfilter. Its only function is to clean up the pulses so your tachometer has a useful signal to work with. But for such a small thing, it can cause all kinds of troubles when it's not functioning properly. You can test it by disconnecting it. If your engine runs smoother, it needs replacement.||||reg||1

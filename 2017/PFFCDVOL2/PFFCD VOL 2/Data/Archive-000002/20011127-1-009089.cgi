@@ -1,0 +1,5 @@
+A||||3||Formula||DANNY BOY...||||1||
+Z||000000||Formula||07-28-2001||11:55 AM||||hey, do you have the number for the guy I bought the motor from, I never did write it down.  I need the info on its timing.  Also, do you have any iea why I wouldnt be able to get this thing to shift right.  you have to floor it to 4000 rpms then let off and it will shift and slip for a little bit.||||reg||1
+Z||000001||Pontiaddict||07-28-2001||05:24 PM||||The shift thing sounds like a misadjusted TV cable.||||reg||1
+Z||000002||maryjane||07-28-2001||05:44 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Pontiaddict:<BR><B>The shift thing sounds like a misadjusted TV cable.</B><HR></BLOCKQUOTE><BR>Or go out and try turning the antenna!(sorry,must be the heat,I couldn't resist)<BR>Pontiaddict's advice sounds correct.<BR>||||reg||1
+Z||000003||Formula||07-28-2001||06:00 PM||||its shifting right now but it needs adjusted a good bit, it has a good bit of power but it doesnt feel like it has THAT much.  it feels like stock now (of course I havent opened the other 2 barrels but I got on it a little bit)||||reg||1

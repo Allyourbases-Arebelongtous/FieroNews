@@ -1,0 +1,2 @@
+A||||0||kevin||Far away Fiero's||||1||
+Z||000000||kevin||04-29-2001||07:43 PM||||I just came back from a vacation in Spain. I thought all would be interested to know that I saw TWO Fiero's in Spain in two different cities 100 miles apart. One was clean bronze 87 Fastback parked in Madrid. The other one was a 85 Red notchback located near Valencia. Both were drivers. Can anybody chime in and let me and other Forum members know if you have seen Fiero's from a greater distance?  Who can beat my observational finds? ||||reg||1

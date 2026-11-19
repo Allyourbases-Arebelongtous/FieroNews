@@ -1,0 +1,4 @@
+A||||2||BAM-BAM||Note to Earne||||6||
+Z||000000||BAM-BAM||03-13-2000||08:19 AM||||   Earne, do you think it would be posible to post some more pictures of you car. My oldest son is really begening to like the Fieros <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">. Also if you can include more pics of your dash <IMG SRC="http://www.fiero.nl/forum/cool.gif"><P>  Thanx, BAM-BAM <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||6
+Z||000001||Earne||03-13-2000||09:52 PM||||Sorry for missing this post and not replying earlier.  Sure, if you want.  I'll post new and reference your name in topic title.  Should be tomorrow.||||reg||1
+Z||000002||BAM-BAM||03-13-2000||10:21 PM|||| Thanks alot, I appriciate it <IMG SRC="http://www.fiero.nl/forum/cool.gif"><BR>  BAM-BAM <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||10

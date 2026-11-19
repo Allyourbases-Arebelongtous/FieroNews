@@ -1,0 +1,3 @@
+A||||1||tgowens||Hey FretNaught||||1||
+Z||000000||tgowens||08-05-2000||11:52 AM||||I was making "signatures" and was playing and decided to be a little creative so, I made one for you........I realized that you might not find it in the other thread...... <IMG SRC="http://www.fiero.nl/uploads/FretNaught_sig.gif"> <P>------------------<BR>   <IMG SRC="http://www.tgowens.com/MY_SIGNATURE.gif">               <BR><A HREF="http://www.tgowens.com/fiero" TARGET=_blank>www.tgowens.com/fiero</A>||||reg||1
+Z||000001||Fret Naught||08-05-2000||04:10 PM||||WOW!!!!! Thanks allot, that is soooooo!!!! cool, I am going to figure out how to use that right away!!!! <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||14

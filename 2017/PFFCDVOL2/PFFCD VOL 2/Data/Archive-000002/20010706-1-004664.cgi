@@ -1,0 +1,7 @@
+A||||5||fierogt88||Unusual Body Combos...||||14||
+Z||000000||fierogt88||12-04-2000||05:10 PM||||Post pics of unusual body combos.  Really I'm looking for coupe/formula with fastback.  If its different i want to see it.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||14
+Z||000001||2xsess||12-04-2000||05:49 PM|||| <IMG SRC="http://www.fiero.nl/uploads/Fastback_with_coupe_nose_2.jpg"> ||||reg||1
+Z||000002||Phil||12-04-2000||05:56 PM|||| <A HREF="http://www.americancustomeng.com" TARGET=_blank>www.americancustomeng.com</A>  has a yellow coupe/fastback (SC3800) for sale. Has nice pics of it||||reg||1
+Z||000003||fierogt88||12-05-2000||09:40 AM||||Oh Yeah! that's what I was looking for.  Anybody know who makes that front spoiler?||||reg||1
+Z||000004||Raydar||12-05-2000||10:29 AM||||Are you talking about the gray car in the  top pic?<BR>I believe that's the standard 87-88 nosepiece, with the bottom lip painted body color instead of black. <BR>Could be wrong. Looks kinda low. Might just be the whole car is lowered.<p>[This message has been edited by Raydar (edited 12-05-2000).]||||reg||1
+Z||000005||FieroLisa||12-05-2000||11:03 AM||||That silver car...if it is the one I'm thinking of, it was at the Michigan Show, is lowered, and was for sale for $5,000. Not too sure though...<P>------------------<BR>Lisa<BR>86 gold 4 speed GT<BR>86 gold 5 speed SC (For Sale)<BR>Columbus, OH/Greensboro NC<BR>http://www.geocities.com/fierolisa/||||reg||1

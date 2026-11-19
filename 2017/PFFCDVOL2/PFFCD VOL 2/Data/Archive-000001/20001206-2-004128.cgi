@@ -1,0 +1,4 @@
+A||||2||mrfixit58||Converting a 4-speed to a 5-speed||||5||
+Z||000000||mrfixit58||06-05-2000||09:22 AM||||Just curious...<P>I have just made a purchase of a bunch of parts and now have a 5-speed tranny. I also have enough parts to build a GT and am interested in swapping a 4-speed out of the base vehicle and installing the 5-speed. <P>If anyone has completed this project, how complicated is this task? Will the hydraulic clutch and slave from the 4sp work on the 5sp? What about the shift cable??? speedo? Is there anything special I need to look for?<P>Thanks,<BR>Roy||||reg||5
+Z||000001||pollock||06-05-2000||02:18 PM||||See Rodney Dickman's website.||||reg||1
+Z||000002||mrfixit58||06-05-2000||03:17 PM||||Good call Pollock,<P>Looks like everything I need is either in the box-o-stuff or bolted to the Getrag.<P>Have any idea how much work in involved in switching out the cables? Anybody?<P>Thanks,<BR>Roy||||reg||14

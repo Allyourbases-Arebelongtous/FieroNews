@@ -1,0 +1,5 @@
+A||||3||TwisT||Cadillac Cien Concept...  GAWDAMN....  future Fiero transplant!!!  Ha!!!||||1||
+Z||000000||TwisT||08-23-2001||01:06 AM||||"The 7.5-liter Northstar XV12—X is for experimental—generates up to 450 lb-ft of torque yet can shut down half its 12 cylinders when needed to provide an overall fuel economy roughly comparable to that of V8 engine."<P>"Calling all V-12 Archie's...  calling all V-12 Archie's..."<P>LOL...  If only...<P> <IMG SRC="http://www.fiero.nl/uploads/L_cien.jpg"> <P>What do you think guys???<P>  <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/italbanner3.JPG"> <P>...Website coming soon!||||reg||1
+Z||000001||TwisT||08-23-2001||01:09 AM||||Oh yeah...  750 h.p. too...  LOL||||reg||1
+Z||000002||ChadMan||08-23-2001||12:50 PM||||Wow.  I think Cadillac is finally getting their...how you say..."shiznit" together.||||reg||7
+Z||000003||TwisT||08-23-2001||07:52 PM||||A surprise for sure...  I can't get over the idea of having a V-12 in a Fiero,  and I know a lot of other people who think the same.<P>Lots of wishing tho;  the reality of ever such a motor conversion is next to squat...<P>Too bad...  lol<P>Brett||||reg||1

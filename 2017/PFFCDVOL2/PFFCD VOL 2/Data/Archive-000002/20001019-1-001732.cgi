@@ -1,0 +1,3 @@
+A||N||1||Deer_Slayer||Buffin My Wheels||||10||
+Z||000000||Deer_Slayer||04-04-2000||11:28 AM||||Last week, my stepdad and I started buffing the aluminum wheels on the 86 SE(using Raydar's instructions).  The first two wheels are done and back on the car.  The two rear one are still in my basement and almost ready for the rouge.  They were pitted pretty bad ("worm marks"), but now, the front wheels look like they're chrome. <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||10
+Z||000001||2M4 Dale||04-05-2000||09:38 AM||||I just paid $200.00 to have my wheels buffed. They look great but I probably should have done it myself. (More money than brains I guess) Good Luck...post some pics.||||reg||14

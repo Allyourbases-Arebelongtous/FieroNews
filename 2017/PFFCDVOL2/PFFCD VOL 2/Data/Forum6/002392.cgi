@@ -1,0 +1,5 @@
+A||||3||Hank is Here||Off to Belgium||||1||
+Z||000000||Hank is Here||06-21-2001||08:13 PM||||Well Saturday I am off to Belgium for the rest of the summer.  No more Fiero driving <IMG SRC="http://www.fiero.nl/forum/frown.gif">  Heck it should beat the states for a change||||reg||1
+Z||000001||Hartz||06-21-2001||08:49 PM||||Enjoy.  There is no bad food in Belgium!  Any place known for beer, chocolate, waffles, and fries is OK in my book!   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Hartz<BR>'84 SC 5.7L V8<BR>'85 SE 3.1L V6 Turbo||||reg||14
+Z||000002||stimpy||06-21-2001||11:12 PM||||...and don't forget to eat the moules aux provencale, preferably with a frosty Stella Artois. Prost!<P>If I recall, you're going to be staying in Waterloo? Check and see if the old haunts are still there for me, OK? Le Botillon & Le Cafe de Paris were the jumping spots way back in the day when I attended St John's International. If you see kids dressed in green and white letter jackets, buy em a beer for me.||||reg||1
+Z||000003||Cliff Pennock||06-22-2001||04:45 AM||||And don't forget about the time difference. You'll need to set you watch back by, say, 50 years.||||reg||1

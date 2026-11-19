@@ -1,0 +1,5 @@
+A||||3||v8vinnie||bumpers or snubbers||||9||
+Z||000000||v8vinnie||01-16-2001||07:31 PM||||well i cut to much rubber from my front bumpers or snubbers, and the fiero store or the dealer does not sell them any more,does any body know where i can get them!!, its for my 87gt.||||reg||9
+Z||000001||v8vinnie||01-17-2001||07:17 AM||||i tried tropical international a gm dealer and they dont have them also,neither does auto zone,seems like were going to be on our own on this one??||||reg||11
+Z||000002||v8vinnie||01-17-2001||07:32 PM||||if any body is intrested, criss from west coast fieros said i could use poly adjustable bushings and i thinh i seen them in a jegs cataloug once, but i dont have one handy, surley one of you mottor heads have to have one and look it up?||||reg||1
+Z||000003||gixxer||01-17-2001||10:13 PM||||Prothane has some universal bumpstops at: <A HREF="http://prothanesuspension.com" TARGET=_blank>http://prothanesuspension.com</A> <BR>Click 'universal products' then at the bottom of the page pick the 'more---" button.<BR>Hope something catches your fancy....<BR>||||reg||1

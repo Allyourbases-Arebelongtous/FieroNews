@@ -1,0 +1,5 @@
+A||||3||Johnson's85SE||Calgary When next?||||1||
+Z||000000||Johnson's85SE||01-30-2001||04:02 PM||||Hi, <BR> Just wondering when the next Calgary meeting is? <BR>  Thanks,<BR>   Chris<BR><P>------------------<BR>If it isn't broke, it's not my car.||||reg||1
+Z||000001||RiceCooker||01-30-2001||05:22 PM||||Hey, Chris<P>You just missed one last week at Schanks. <P>We probably won't get together until spring now. I think a run is going to go about May or so to Red Deer to meet up with the Bums from Edmonton.<P>Send an e-mail to Tony at calgaryfieros@home.com with your e-mail and he will put you on the list - that way you don't miss anything. <P>Later, <BR>Todd||||reg||1
+Z||000002||Notchit||01-31-2001||12:22 PM||||Bums 'eh?<BR>:P<P><P>------------------<BR>Seein Red<BR>'85 Fiero GT<BR>ICQ#: 56708070<BR> <IMG SRC="http://www.fiero.nl/uploads/Outside_side2(sml2).jpg"> <BR>_________________________||||reg||10
+Z||000003||RiceCooker||01-31-2001||03:51 PM||||Yeah, Bums.<P>Last year we met in Red Deer in August?<BR>Calgary 11<BR>Edmonton 4<P>Too bad that wasn't the score in the hockey game, eh? <BR> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Todd||||reg||1

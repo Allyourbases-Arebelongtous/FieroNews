@@ -1,0 +1,2 @@
+A||||0||falconhulk||Think this guy is for real?||||1||
+Z||000000||falconhulk||11-19-2001||11:48 AM|||| <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=597906710" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=597906710</A> <P>I remember a guy posting on here a month or so ago about a turbo fiero.  Didnt have problems or something?  I think there was a diffrence in the timeslip and time he was told it could do.  ||||reg||1

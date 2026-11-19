@@ -1,0 +1,8 @@
+A||||6||cardealer||wanted : personal v8 fiero websites ||||4||
+Z||000000||cardealer||03-10-2001||09:06 PM||||about to take the v8 plunge, would like to see more v8's pics & info.<BR>thanks !||||reg||4
+Z||000001||KRMFiero||03-10-2001||11:08 PM|||| <A HREF="http://members.fortunecity.com/bubbajoexx" TARGET=_blank>http://members.fortunecity.com/bubbajoexx</A> ||||reg||1
+Z||000002||rockcrawl||03-10-2001||11:21 PM||||If you're going automatic and aren't affraid of doing some custom fabrication, here's an option to consider <A HREF="http://www.fortunecity.com/silverstone/impala/403/longv8.html" TARGET=_blank>http://www.fortunecity.com/silverstone/impala/403/longv8.html</A> <P>------------------<BR>Jon Lagler<BR>'87 GT<BR>4.9 liter V8 Testarossa Spyder (under construction)<BR> <IMG SRC="http://www.fiero.nl/uploads/rockcrawlsig.jpg"> ||||reg||1
+Z||000003||Black88GT||03-11-2001||12:52 AM|||| <A HREF="http://www.nytmare.org/fiero" TARGET=_blank>http://www.nytmare.org/fiero</A> ||||reg||1
+Z||000004||2xsess||03-11-2001||12:22 PM|||| <A HREF="http://www.fierolt1.com/index.shtml" TARGET=_blank>http://www.fierolt1.com/index.shtml</A> ||||reg||1
+Z||000005||JohnnyK||03-11-2001||12:33 PM||||I think BubbaJoe's page is excellent for information!||||reg||1
+Z||000006||BBBAD GT||03-11-2001||09:30 PM||||Go to the link below, no offical page, but pics and movies.<P>------------------<BR>      <IMG SRC="http://scribers.midwest.net/bbbad50/V8Fiero/V8sig.jpg">      <P><A HREF="http://scribers.midwest.net/bbbad50/V8Fiero" TARGET=_blank>BBBAD V8</A><P><A HREF="http://scribers.midwest.net/bbbad50/Fiero.htm" TARGET=_blank>BBBAD GT (sold)</A><P><A HREF="http://scribers.midwest.net/bbbad50/" TARGET=_blank>BBBAD 5.0</A>||||reg||1

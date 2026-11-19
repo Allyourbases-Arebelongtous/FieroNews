@@ -1,0 +1,3 @@
+A||||1||jerpro||Factory sub.,||||5||
+Z||000000||jerpro||12-16-2000||10:40 AM||||DOes anyone know if there is a way of installing a factory subwoofer to a 84 se?<BR>Are 84se supposed to have the subwoofer?<BR>How would I install it?||||reg||5
+Z||000001||T-top Fiero||12-16-2000||11:18 AM||||Yes you can install a factory sub system in an 84. I installed one in my car earlier this year. You need to make sure you get everything associated with the sub system from a donor car. This includes the overhead slider, amp with mount, sub enclosure and wiring harnesses. An 84 will also need the heater core cover from the donor car. Installing it is just the reverse of taking it out of the donor car.<P>Pat<BR>84 SE w/ T tops||||reg||1

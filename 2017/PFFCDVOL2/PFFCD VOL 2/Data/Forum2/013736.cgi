@@ -1,0 +1,3 @@
+A||||1||pontiacs4me||whats the difference between a 85 and 87 throttle cables?||||1||
+Z||000000||pontiacs4me||09-17-2001||05:41 PM||||At the fiero store they sell a throttle cable for 85-86 v6 cars, but they dont sell one specifically for 87 v6 cars.  I have an 87 with a 85 2.8 liter.  I used the throttle cable from the 85 car, so I should be able to use the same one from the fiero store right?||||reg||1
+Z||000001||FieroJoe||09-17-2001||09:03 PM||||yes, the 85 one should work just fine.  No modifications to the trottle pedal mechanism or anything like that was made between those years.  So, just get the right parts for the engine you have.||||reg||1

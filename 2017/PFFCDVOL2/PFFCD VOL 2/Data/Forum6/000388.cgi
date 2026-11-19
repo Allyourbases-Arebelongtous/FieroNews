@@ -1,0 +1,13 @@
+A||||11||TOM||GOTTA SEE THIS.||||1||
+Z||000000||TOM||06-11-2000||07:43 PM||||CHECK OUT THE HALLS OF SHAMES <A HREF="http://www.riceboypage.com" TARGET=_blank>www.riceboypage.com</A> ||||reg||1
+Z||000001||Fformula88||06-11-2000||10:43 PM||||ROTFLMAO<P>What a great page.  I am laughing so hard at the halls of shame.  Great find!||||reg||10
+Z||000002||Cooter||06-11-2000||10:56 PM||||I wonder if we could get a group discount on the RiceBoy.com decals? I wonder how many horsepower they are good for?  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000003||Patrick's Dad||06-12-2000||12:01 AM||||I think that the Austin Big Wheelies Krew is on to something.||||reg||12
+Z||000004||Fformula88||06-12-2000||04:35 PM||||I just noticed the Riceboy.com stickers and wanted to see if anyone else saw the irony in them.  Cooter caught that!  I bet they are good for at least 25 HP... maybe more!  ||||reg||1
+Z||000005||Gokart||06-12-2000||10:09 PM||||When I printed my last batch of forum cards I also printed some of the riceboy.com citation cards! Can't wait to see one now so I can give it "a ticket"!||||reg||6
+Z||000006||olympic||06-12-2000||11:08 PM|||| <IMG SRC="http://www.fiero.nl/uploads/vis_civic.jpg"> <BR>   MY EYES!!!!  MY EYES!!!!  THEYRE MEEEELLLLTIIIIINNNNNG!!! ||||reg||10
+Z||000007||Cooter||06-12-2000||11:38 PM||||Maybe one weekend all the Forum members with digital cameras can go out and take pictures of local rice. Then we could have a best ricer contest here and give a Pine Tree Air Freshener to the winner. I have a great picture of a lowered, big wheeled, pearl painted Geo Tracker that could be a contender for the prize.||||reg||1
+Z||000008||jhogans||06-13-2000||02:05 AM||||what do the riceboy.com citation cards look like||||reg||1
+Z||000009||blayde8||06-13-2000||02:14 AM||||where can I get some of the cards?||||reg||7
+Z||000010||Shadow Wolf||06-14-2000||01:29 AM||||That pic reminds me of a guy I knew a few years ago who stuck a couple of jet-aircraft landing lights on his pickup. (NO idea where he got 'em)   <P>Anyway, complete with 120volt generator, we got up a back country road and turned them on.  Over the sudden groan of hte engine having to turn a generator large enough to power those lights, it was suddenly... DAYLIGHT!   <P>Cooked the paint right off the roof.||||reg||6
+Z||000011||olympic||06-14-2000||03:40 PM||||   I know I had that riceboy citation somewhere but I'll be darned if I can find it now.  Anyways, check out <A HREF="http://www.angelfire.com/nc2/mycoffeecan" TARGET=_blank>www.angelfire.com/nc2/mycoffeecan</A>   , the site has been updated with some really "phat" mods.||||reg||1

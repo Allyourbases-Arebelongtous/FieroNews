@@ -1,0 +1,4 @@
+A||N||2||Daleford||Need A/C switchover time estimate||||5||
+Z||000000||Daleford||01-15-2001||08:17 AM||||Can anyone give me an approx. guess on how long it would take a good mechanic to switch the A/C from a donor car into a non-A/C car.<BR>This would be in the main dash and floor of car only, as the engine will be swapped later.<P>------------------<BR>||||reg||5
+Z||000001||fiero56||01-15-2001||09:06 AM||||20hrs? There's a lot of stuff to add. I think you might need the ECM from the donor car too.||||reg||1
+Z||000002||theogre||01-15-2001||01:14 PM||||20 hrs maybe if he's worked on a Fiero before. Likely more than that. <P>There's a whole pile of electrical work.<BR>The whole MVAC system with duct work under the dash.<BR>All the plumbing.<BR>Add the condenser in front of the radiator.<BR>Replace orifice and ACC/Dryer while it's apart.<BR>replace all seals.<BR>Refill cooling system. (You have to pull radiator to get at condenser.)<BR>charge AC system.||||reg||1

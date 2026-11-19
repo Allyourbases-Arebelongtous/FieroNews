@@ -1,0 +1,5 @@
+A||||3||FieroTig||tire sizes...||||1||
+Z||000000||FieroTig||05-09-2001||04:45 PM||||first i would like to say thank you to all that have welcomed me to the club and all that have helped me here. <P>i am trying to get new tires for my gt so it will be easier to sell, the ones i have on the car have sat so long they are dryrotting. anyway i went to read the sides of the tires and they have to be off, could someone please tell me what the stock tire size is for an 85 gt? mine read 235/60/R14. i hope thats incorrect because i believe that is a bit wide, anyway could someone help me with this and what the best brand to get, i want cheap and yet i want them to be somewhat nice. thanks again for everyones help, this is the most resourceful forum i have ever belonged.<P>------------------<BR> <IMG SRC="http://209.125.196.179/fiero/adams/FieroTig.jpg"> ||||reg||1
+Z||000001||ray b||05-09-2001||06:27 PM||||stock tire size is listed on the dr door jam.<BR>is it on the lower sticker with the GVW.<BR>||||reg||1
+Z||000002||terryk||05-09-2001||06:44 PM||||215/60-14||||reg||1
+Z||000003||FieroTig||05-09-2001||07:05 PM||||thanks for the help.||||reg||1

@@ -1,0 +1,3 @@
+A||N||1||Monkeyman||Antenna mounting hole depth??||||5||
+Z||000000||Monkeyman||06-14-2001||07:16 AM||||Did we ever figure out exactly how much depth there is below the antenna mounting hole?  I found a very short, amplified/powered antenna that would look pretty good, but it will require 2-3" under the fender.  Will this work?  I don't want to have to remove everything (antenna, fender, wheel well liner, etc) just to find out that I don't have enough room.<P>MM||||reg||5
+Z||000001||Wolfhound||06-14-2001||07:26 AM||||MM, What is the diameter of the hole that needs to be drilled? I have a bent space frame I,d be willing to experiment with. I have various hole saws. It will be this afternoon before I have time, but I,ll give it a shot if you like.<BR>Coy||||reg||1

@@ -1,0 +1,2 @@
+A||N||0||Haze_Performance||Aux. Gauge Cluster Question||||7||
+Z||000000||Haze_Performance||10-02-2000||04:20 PM||||Sorry double post  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><BR>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/2d_00010aa3.gif">   <P><B>Website's<BR>  <A HREF="http://www.WS6Fiero.com" TARGET=_blank>www.WS6Fiero.com</A><P>                  <A HREF="http://www.hazeperformance.com" TARGET=_blank>www.HazePerformance.com </A></B><p>[This message has been edited by Haze_Performance (edited 10-02-2000).]||||reg||7

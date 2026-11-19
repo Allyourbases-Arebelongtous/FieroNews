@@ -1,0 +1,3 @@
+A||||1||phillip||didn't yall know?||||1||
+Z||000000||phillip||04-16-2000||12:52 PM||||<BR>  one of you is supposed to watch me. there was an indy fiero on ebay close to where i live. i put in a bid figuring it wouldn't hold long. that was about 4-5 days ago. every body quit bidding so now i'm tentitively the owner of another fiero. i'm still trying to decide if i'm happy about it. i guess i'll feel better once i have it paid for and home, but one of you dropped the ball. ||||reg||1
+Z||000001||sdm1964||04-16-2000||04:48 PM||||Congrats, I wanted that car but no cash right now, i looked at that car evey night to watch the bidding, of course if you want to drop it off in Georgia i will take it off your hands.||||reg||7

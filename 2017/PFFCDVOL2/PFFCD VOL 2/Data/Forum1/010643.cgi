@@ -1,0 +1,11 @@
+A||||9||Cooter||Pretty cool find at Mom and Pop's!||||1||
+Z||000000||Cooter||09-30-2001||08:24 PM||||I got a call from my sister about coming over and get some stuff from our parents' storage building. The first thing that I picked up was a Tyco race car set that was bought for my sister a long time ago. Needles to say, it came home with me!<BR> <IMG SRC="http://www.fiero.nl/uploads/Dcp01684.jpg"> ||||reg||1
+Z||000001||Hank is Here||09-30-2001||08:29 PM||||droooooooooooooooooooolllllllllllllll||||reg||1
+Z||000002||Capt Fiero||09-30-2001||08:56 PM||||Damn I want one, where do you live, can I come over and play. HeHe. ||||reg||1
+Z||000003||hugh||09-30-2001||09:01 PM||||Is that cool or what???What's the odds of that happening?||||reg||14
+Z||000004||CoolBlue87GT||09-30-2001||09:05 PM||||Nice find !! 8&gt;}||||reg||4
+Z||000005||Cooter||09-30-2001||09:11 PM||||We also found my brother's old comic books, all from 1973 and earlier. Most are kind of like GI Joe (Fighting Army?) and in pretty good shape. I was hoping for my old Traxxas GTP Fiero R/C car, but that one has been long gone. The remote controlled R2D2 was still there, but had been knocked off the shelf and now rests in pieces  <IMG SRC="http://www.fiero.nl/forum/frown.gif">||||reg||1
+Z||000006||x-thumpr-x||09-30-2001||09:31 PM||||Nice set!!  I used to have the same one when I was 12 years old. That paticular set was the first slot car track I ever got. I picked it out because of the fiero. I still have the red 86 car but lost the black one (sob!)||||reg||10
+Z||000007||FLASHY||10-01-2001||12:23 AM||||NO FLIPPIN' WAY!!! That's crazy!<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/spinsig3.gif"> ||||reg||6
+Z||000008||rogergarrison||10-01-2001||11:43 AM||||keep it longer, sell it on Ebay for $1,000  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000009||Doni Hagan||10-01-2001||11:53 AM||||Yo, Cooter....<P>I wanna SOMEHOW make you an offer you can't refuse.... If you EVER need a little extra money or wanna trade for some parts  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  we need to talk. PLEASE contact me!! I collect model cars (about 350 to date) and would love to add the slots to my collection!!<P>MORE TOYS!!! MORE TOYS!!! MORE TOYS!!!<P>Thanks<P>DH||||reg||6

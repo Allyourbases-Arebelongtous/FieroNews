@@ -1,0 +1,2 @@
+A||||0||Seanh||Yahoo Autos||||3||
+Z||000000||Seanh||10-21-2000||01:11 PM||||I just figured I would post this. I found it the other day on yahoo. The address is <A HREF="http://autos.yahoo.com/" TARGET=_blank>http://autos.yahoo.com/</A>   I thought others might want to use it to keep track of Fiero records. I really like it, it reminds you when to change the oil and stuff like. You can also keep track of service records on it. Try it out.<P>------------------<BR>Sean Heberly<BR>Silver 86 GT 2.8<BR>Killer Stereo System||||reg||3

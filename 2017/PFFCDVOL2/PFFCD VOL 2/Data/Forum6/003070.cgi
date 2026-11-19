@@ -1,0 +1,3 @@
+A||||1||rogergarrison||COOL !!!!!!     just like at the races||||1||
+Z||000000||rogergarrison||08-23-2001||10:31 AM||||Im sitting here reading the forum and looking out my kitchen window. a Ford Tempo makes a left turn into the K mart across the street and BAMMMMMMM a Ford Explorer whams it broadside taking the whole front off from the windshield. Motor and trans sitting in my yard. Tempo got shoved like 50 feet sideways while I watched. No one looks hurt. <BR>Lisa, you need any Tempo parts, it was just like yours, only green.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000001||hugh||08-23-2001||12:34 PM||||You shouldn't even need to give them an estimate to get that job!||||reg||1

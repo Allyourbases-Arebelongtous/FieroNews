@@ -1,0 +1,4 @@
+A||N||2||TRL46202||Help with hood scoop....................||||1||
+Z||000000||TRL46202||04-30-2001||10:22 AM||||Will a 69-70 Mustang/Torino hood scoop w/ turn lights fit on the Fiero trunk lid??? or has anyone tried it yet??<BR>thanks!<BR>Tom<BR>||||reg||1
+Z||000001||TRL46202||04-30-2001||02:05 PM||||bump...||||reg||1
+Z||000002||stsmithgt||04-30-2001||02:28 PM||||I don't see why not.  That's the kind I was thinking of getting.  Not too big, not too small.  I had one off a friends 70 Mustang because he put on a shaker, but at the time didn't have anything worthy enough to put it on (after wrapping my car around a light pole) <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif"> stupid Ford carburator, so I put it on a buddy's 74' Bronco.  It has four studs that bolted it down and it looks great.  No fiberglass to mess with.||||reg||1

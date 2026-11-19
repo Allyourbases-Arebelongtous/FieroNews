@@ -1,0 +1,7 @@
+A||N||5||Sndfr||later year engine bay lid to an 84...||||5||
+Z||000000||Sndfr||11-30-2000||01:17 AM||||Can the engine lids and the grills of 85-88 notchback Fieros interchange with what i already have for an 84 SE (the grill is part of the lid and it's made of magnesium)?<P>------------------<BR>-<B>matthew d.</B><BR><I>"who's yo daddy?"</I><P>'84 SE||||reg||5
+Z||000001||mrfiero||11-30-2000||02:02 AM||||Yes......any notchback decklid will work, just make sure you use the louvered grilles with the new decklid.  The solid '84s won't allow any heat to escape!||||reg||1
+Z||000002||Sndfr||11-30-2000||02:06 AM||||Still lookin' for a couple second opinions......||||reg||14
+Z||000003||Haze_Performance||11-30-2000||02:42 AM||||All notchback lids & engine covers will interchange. And like mrfiero said "just make sure you use the louvered grilles with the new decklid. The solid '84s won't allow any heat to escape!"<BR><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/goodlogo1_1.gif">   <BR><B>"AHHHHH!!! All Fiero's don't start on fire you BONEHEAD!!"</B>||||reg||14
+Z||000004||Monkeyman||11-30-2000||03:11 AM||||If you don't want to use the louvered grilles/vents, you could always add a scoop to release the hot air.||||reg||1
+Z||000005||DJRice||11-30-2000||09:11 AM||||Ive done this one on my 84.  It works.  <P>------------------<BR>Dillon<BR>Black '87 SE V6<BR>"You mean like the back seat of a Volkswagen?"||||reg||1

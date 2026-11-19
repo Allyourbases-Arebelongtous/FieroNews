@@ -1,0 +1,9 @@
+A||N||7||mrtgman||need help removing automatic shift knob||||8||
+Z||000000||mrtgman||04-08-2001||04:24 PM||||does anyone know how to remove the automatic shift knob from an 86 fiero gt? All i see are two clips in front of the knob and under the button you push to get change gears. i have tried to push them in, lift them up etc. i need to replace the knob but cannot figure out out to get the old one off. HELP! ||||reg||8
+Z||000001||beer_stud_21||04-08-2001||04:32 PM||||There is a staple on the front of the knob.  (right in front of the radio) Use the tip of a knife blade etc to <B>pull it out</B> it only has to come out about 1/4 inch or so.  Then the knob will pull straight off.  Just did this the other day for the first time on my 85GT.<P>-Marlin||||reg||1
+Z||000002||beer_stud_21||04-08-2001||04:33 PM||||And welcome to the forum btw!<P>-Marlin||||reg||1
+Z||000003||mrtgman||04-08-2001||04:59 PM||||does the car have to be in park?||||reg||1
+Z||000004||beer_stud_21||04-08-2001||05:11 PM||||No, but I dont see why you would have it in gear.  Unless you are trying to take the console out, but once the shift knob is off you can take the shifter console out while the car is in park.  If your trying to remove the console there are i believe four 8mm bolts, two under each ash tray.  Remember to be carefull of the wiring/lights under there.<P>-Marlin ||||reg||1
+Z||000005||mrtgman||04-08-2001||05:40 PM||||I tried to replace with an aftermarket shift knob but could not get it to work. Did you use an aftermarket knob?||||reg||1
+Z||000006||theogre||04-08-2001||06:35 PM||||I can usually grab the staple facing the radio with small forceps or needle nose pliers and just pull it out.<P>Then pull the knob off.||||reg||1
+Z||000007||Monkeyman||04-08-2001||07:36 PM||||BTW--They're 7mm screws.  If you have 7, 10, & 13mm wrenches and a T-15 (I think) Torx wrench, you can nearly dismantle the entire car.<P>MM||||reg||1

@@ -1,0 +1,3 @@
+A||||1||Homicidal||What size is your engine?||||4||
+Z||000000||Homicidal||07-31-2000||04:34 PM||||Just wondering who has the 4 bangers, who has the 6's, and who has the almighty 8's!<P>I currently have an 84' 4 Cylinder.||||reg||4
+Z||000001||Archie||07-31-2000||07:49 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Homicidal:<BR><B>Just wondering who has the 4 bangers, who has the 6's, and who has the almighty 8's!<P>I currently have an 84' 4 Cylinder.</B><HR></BLOCKQUOTE><P>Mine are V-8 Fieros<P>I'll bet you could'a guessed that.<P>Archie||||reg||1

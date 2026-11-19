@@ -1,0 +1,3 @@
+A||||1||fiero87||am i dreaming???||||5||
+Z||000000||fiero87||06-15-2001||01:49 AM||||Just a quick question for all the 1/4 mile racers on the fourm.  Could I in theory run a 1/4 mile time in the middle 14's with basic mods including, crane cam, mild port and polished heads, ported exhuast manifolds, bigger TB, 2.5 in. exhuast, cold air intake, and a swap to a 4.10 trans?  All on an othererwise stock 2.8?  Or like my heading says, "am i dreaming"?  Just thought i'd see if anyone has any insight.  Thanks<BR>Tim||||reg||5
+Z||000001||fyerstarter||06-15-2001||02:18 AM||||I think you would be looking more in the range of low 15's to high 14's. That is of course if you have a manual trans, if it's an auto yer screwed  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1

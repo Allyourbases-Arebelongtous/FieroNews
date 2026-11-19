@@ -1,0 +1,3 @@
+A||||1||Fast Richard||Fiero high gear/final drive ratios ?||||5||
+Z||000000||Fast Richard||07-02-2001||10:23 PM||||I think I had this information, but somehow lost it. Any of you out there know what the high gear ratios are on the 4 and 5 speed GM transaxles and on the Isuzu transmission. Also, the final drive ratios would be helpful. Is there anything available that would be a worthwhile swap for substantially lowering engine rpms at cruise? Thanks||||reg||5
+Z||000001||Jaxx||07-03-2001||12:16 AM||||try <A HREF="http://www.gmpowertrain.com." TARGET=_blank>http://www.gmpowertrain.com.</A>  I happened to see the link on another thread in here. I haven't looked, but the poster was answering your question.||||reg||1

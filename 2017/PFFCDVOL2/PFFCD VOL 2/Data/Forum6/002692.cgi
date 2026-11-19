@@ -1,0 +1,2 @@
+A||||0||rogergarrison||Latest on Photopoint||||1||
+Z||000000||rogergarrison||07-19-2001||07:01 AM||||Ok, the non service from Photopoint should be over. According to an email from them, they went out of business and closed up. But they were taken over by their original company and all memberships will be still honored......and for an extended time free. So everything should be back to normal now for those of us who use it.||||reg||1

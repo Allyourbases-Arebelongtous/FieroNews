@@ -1,0 +1,3 @@
+A||||1||GeeDee86GT||Electronic Gadgets Source||||6||
+Z||000000||GeeDee86GT||12-28-2000||11:05 AM||||I've seen a couple of threads on LED's and sequential turn signals, etc. Some useful products are available for the hot rodders which should apply here as well.  Have a look at <A HREF="http://www.HotronicsProducts.com" TARGET=_blank>http://www.HotronicsProducts.com</A>             They have some nice stuff, electric fan switches, battery cutoffs and more.<BR><P>------------------<BR>  <IMG SRC="http://www.geocities.com/garby_d/geedee.jpg"> ||||reg||6
+Z||000001||hugh||12-28-2000||07:14 PM||||Their prices are too high.I have seen similar products for much less. ||||reg||1

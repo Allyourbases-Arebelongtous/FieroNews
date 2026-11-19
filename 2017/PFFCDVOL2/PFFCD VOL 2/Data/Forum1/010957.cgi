@@ -1,0 +1,2 @@
+A||||0||FLASHY||Cadaver, where the heck are you?!?||||4||
+Z||000000||FLASHY||10-13-2001||03:05 AM||||There's quite a response lately about those wing stands you mentioned a while back. Just wondering what's happening with them?<P>I noticed he hasn't posted anywhere since the beginning of October. Anyway, here's the link...<BR> <A HREF="http://www.fiero.nl/forum/Forum2/HTML/011244.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/011244.html</A> <BR><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/spinsig3.gif"> ||||reg||4

@@ -1,0 +1,3 @@
+A||N||1||dcaprio||wanted Speedo cnversion crystals||||1||
+Z||000000||dcaprio||12-31-2001||08:05 AM||||I read about changing the crystals in Fiero speedo's to make them a 120 ,140 or 200. Where do I find them or buy them ?<P>------------------<BR>84 coup 117000 miles<BR>86 Gt 113000 miles||||reg||1
+Z||000001||avengador1||12-31-2001||02:56 PM||||I don't know about crystals, but <A HREF="http://www.thefieroshop.com" TARGET=_blank>www.thefieroshop.com</A>  used to have 200 MPH speedometers and 800 RPM tachometers face plates.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1

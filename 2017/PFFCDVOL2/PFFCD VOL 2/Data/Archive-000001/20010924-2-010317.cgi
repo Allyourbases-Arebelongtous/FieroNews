@@ -1,0 +1,2 @@
+A||||0||Kelvin Vivian||Tach Wiring 4 vs. 6cyl||||1||
+Z||000000||Kelvin Vivian||05-10-2001||05:38 PM||||Are the tachometer connecters/wiring the same between a 4-cyl and a V6 Fiero?  My next door neighbor is swapping an 88 V6 into an 88 coupe. Perhaps there is a difference and it's in the ECM. He just would like to know whether or not the tach would work.<P>I think he wants to connect the 4-cyl dash to the V6 harness.<P>Thanks,<BR>Kelvin||||reg||1

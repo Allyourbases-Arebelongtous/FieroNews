@@ -1,0 +1,4 @@
+A||N||2||qwikslvr||idle adjustment??????||||5
+Z||000000||qwikslvr||11-11-1999||11:42 PM||||Help!  My idle is not where I would like it to be.  My 88 formula wants to idle a little high, and doesn't want to back down past 1500 rpm even when hot. I have a couple of mods, but I was wondering if anybody had any secrets to bumping it down a little bit. Any help is greatly appreciated.......thanks!||||reg||5
+Z||000001||Raydar||11-12-1999||12:12 AM||||Check for a vacuum leak. A hose unplugged. Cracked vacuum line. (Including that bundle of plastic snakes under the plenum.) One of the most likely leaks is a cracked EGR tube.<BR>(Goes from the EGR base to the bottom of the plenum, behind the throttle body.)||||reg||1
+Z||000002||Dave85||11-12-1999||10:22 PM||||How about too low?  Mine idles at 600 rpm with an occasional 550.||||reg||1

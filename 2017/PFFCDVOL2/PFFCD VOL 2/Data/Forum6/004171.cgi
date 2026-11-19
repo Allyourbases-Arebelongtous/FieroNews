@@ -1,0 +1,9 @@
+A||N||7||Monkeyman||FOR SALE:::Leather jacket||||14||
+Z||000000||Monkeyman||11-08-2001||02:59 AM||||Black leather bikers style jacket.  Size Large.  Has all of the usual pockets, snaps, zippers, etc.  Very little wear.  Thinsulate liner (non-removable).  Pics upon request.  Any offers?<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/PontiacAPE.jpg">    <BR>Monkeyman||||reg||14
+Z||000001||Monkeyman||11-09-2001||01:48 AM||||bump||||reg||1
+Z||000002||fierospeeder||11-09-2001||02:00 AM||||monkeyman can you do a pic of this too.  My mommy says i need a new jacket for my motorcycle.   My old one is getting worn out.<P>Im a guy, if my underwear gets dirty, you just flip it inside out.  We reuse, until it doesn't exist.||||reg||1
+Z||000003||Monkeyman||11-09-2001||05:00 AM||||I'll take a pic of the jacket this afternoon.  Seems that the flash isn't working very well on my digicam.  (It really is time for a new one.)||||reg||1
+Z||000004||Monkeyman||11-09-2001||05:02 PM||||Here ya go.  It's obviously wider than it looks.  I couldn't find a wooden hanger and it's heavy enough that it was bending the wire one.<BR> <IMG SRC="http://www.fiero.nl/uploads/leather_jacket_front.JPG"> <BR> <IMG SRC="http://www.fiero.nl/uploads/leather_jacket_back.JPG"> ||||reg||1
+Z||000005||Butter||11-09-2001||05:08 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Monkeyman:<BR><B>Black leather bikers style jacket.  Size Large.  Has all of the usual pockets, snaps, zippers, etc.  </B><HR></BLOCKQUOTE><P>Does it have the inside holster?<P>||||reg||5
+Z||000006||Monkeyman||11-09-2001||05:22 PM||||"Inside holster"?  For a handgun?  Nope.  It does have one inside pocket (for smokes?).||||reg||1
+Z||000007||Butter||11-09-2001||05:27 PM||||Sorry, I thought you said "Biker style with ALL the pockets" jacket.||||reg||12

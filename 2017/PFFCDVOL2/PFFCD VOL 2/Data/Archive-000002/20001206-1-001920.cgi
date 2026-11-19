@@ -1,0 +1,8 @@
+A||||6||fierodave||FIERO SLIDE SHOW!||||6||
+Z||000000||fierodave||04-23-2000||04:54 AM||||<BR>put together a 8 1/2 minute slide show with music and old Fiero commercial footage!<BR>Let me know what you think about this kind of a fiero ad on a site!<BR>Thanks for for the space!<BR>FD <A HREF="http://www.geocities.com/babythumperz69/goldie/" TARGET=_blank>http://www.geocities.com/babythumperz69/goldie/</A> <BR>||||reg||6
+Z||000001||Oreif||04-23-2000||10:58 AM||||The page refreshed every 10 sec's like it said but I didn't see any pics.||||reg||1
+Z||000002||turbo86se||04-23-2000||10:59 AM||||Hey Dave, that slideshow is great!!!!  Couldn't have picked a better car! Was that an 86 or 87SE? Anyways, love the gold color! Only one complaint! That N'Sync background music made me hit the mute button!!   <IMG SRC="http://www.fiero.nl/forum/smile.gif">  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>Great work!!!!!||||reg||10
+Z||000003||Phil||04-23-2000||01:49 PM||||I just get a blank page (Netscape 4.7)||||reg||1
+Z||000004||Cooter||04-23-2000||02:49 PM||||I tried both AOL's browser and Internet Explorer and all I see is the text in the box. Oh well....||||reg||1
+Z||000005||V6pack||04-23-2000||04:20 PM||||It worked for me the last time I tried it FD.  Good stuff!  I don't know how you do all that on your webtv, but it is a cool ad......just need the bikini clad gal to stand by the car. LOL<P>What would it run to do one for my white T-top?  I'll supply the car and the bikini babe :-))<P>v6pack||||reg||14
+Z||000006||fierodave||05-05-2000||12:04 AM||||Go to the top area of my site, under the INdy latest addition and load the webtv vewer, if your pc won't let you see it!<BR>FD||||reg||1

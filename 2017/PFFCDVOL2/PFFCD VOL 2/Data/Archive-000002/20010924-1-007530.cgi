@@ -1,0 +1,9 @@
+A||N||7||trigger||how to get in touch with FOCOA||||1||
+Z||000000||trigger||05-19-2001||06:57 PM||||I want some info on their tall wing stands.  I can't get into their website.  Do the have a 1-800 #?  Thanks.<P>------------------<BR>Honestly officer, I was just keeping up with the flow of traffic.  I know there aren't any cars in the area, that's how far behind I am.<BR> <IMG SRC="http://www.fiero.nl/uploads/Trigger.gif"> ||||reg||1
+Z||000001||Chris Schaefer||05-19-2001||08:33 PM||||Fiero Owners Club of America<BR>1598 South Anaheim Blvd. Unit B<BR>Anaheim, CA 92683<P>Phil & Gloria<BR>Voice 714-635-0898<BR>Fax   714-917-2161<P>There is also another location that you might be able to get the tall wing stands from, IRM.  That is were mine came from 10 years ago.  The link to the IRM site is below. <A HREF="http://www.geocities.com/MotorCity/Lane/1588/quick6.JPG" TARGET=_blank>http://www.geocities.com/MotorCity/Lane/1588/quick6.JPG</A> <P>Good shopping.||||reg||1
+Z||000002||2M4 Dale||05-19-2001||09:48 PM||||Chris , that link just gets me to a photo page of IRM wings and things....Do you have their homepage link ?   I did till my PC crashed a month ago. ||||reg||5
+Z||000003||trigger||05-19-2001||10:25 PM||||Geo Cities keeps saying the page isn't there.  I will have to try calling the FOCOA.  Thanks.||||reg||1
+Z||000004||Chris Schaefer||05-20-2001||09:57 PM||||2M4 Dale,<P>Below you will find the link to the IRM home page.<BR> <A HREF="http://www.geocities.com/MotorCity/Lane/1588/quickcat.html" TARGET=_blank>http://www.geocities.com/MotorCity/Lane/1588/quickcat.html</A> ||||reg||1
+Z||000005||Old Lar||05-21-2001||03:55 PM||||FOCOA web page has been down for a couple of weeks.||||reg||5
+Z||000006||rogergarrison||05-21-2001||04:02 PM||||FO.........who???????||||reg||1
+Z||000007||trigger||05-21-2001||07:05 PM||||roger- the FOCOA is the fiero owners club of america||||reg||1

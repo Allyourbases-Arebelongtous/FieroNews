@@ -1,0 +1,5 @@
+A||||3||turbo86se||84 4-spd, Am I missing something?||||5||
+Z||000000||turbo86se||04-10-2000||12:32 PM||||<BR>While my 88 automatic coupe is being worked on, I'm finally getting new door hinges installed, my mechanic gave me a loaner Fiero to drive whenever I wanted. It's a white 84 4-spd. It has no options, no air, it is a convertable, and leather seats. When I'm driving in forth gear, the RPM's are at 3 grand while at 55 miles per hour!!  Is there another "overdrive" position? Or is this all it's got? <BR>I'm gonna wash it and take some pics today, it really does look nice with the top off!!!!||||reg||5
+Z||000001||Carrolles||04-10-2000||12:36 PM||||It sounds like that car has the 4.10 gear set.  My 85SE v-6 4spd turns around 3000 rpm at 70 mph with the 3.63 gearset.||||reg||1
+Z||000002||Standard||04-10-2000||02:51 PM||||My 86 GT 5 spd isn't turning 3000rpm until i get up around 80-85.  at 55 i'm barely at 2000 rpm.  ||||reg||1
+Z||000003||grizco||04-12-2000||02:06 AM||||my 84 SE 4cyl 4spd hits 3000rpm at at 60mph.||||reg||1

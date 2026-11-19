@@ -1,0 +1,3 @@
+A||N||1||Vlad||Pennok's Forum Stickers||||5||
+Z||000000||Vlad||02-11-2001||09:22 PM||||Hello <P>Is there any chance we have an opportunity to develop window stickers with Pennok's Fiero Forum logo?<P>I would be proud to have one on my windshield.<P>||||reg||5
+Z||000001||FieroJoe||02-12-2001||08:52 AM||||I think you may be able to find what you are looking for at <A HREF="http://www.fieroperformance.com" TARGET=_blank>www.fieroperformance.com</A>    He made the "spokes" PFF logo for some memebers, myself included.  Very quality, they look great.  I think he may have some windsheild banners too.<P>------------------<BR>FieroJoe<BR>c311t@yahoo.com<BR>AIM: Fiero87311, Snowboarder0311<BR>  <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1

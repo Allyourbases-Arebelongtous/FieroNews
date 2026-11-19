@@ -1,0 +1,4 @@
+A||||2||Galen||To J's happiness, the strawberry is back.. :) sigtest||||1||
+Z||000000||Galen||07-08-2001||10:03 PM||||Here we go.. must test the siggy<P>------------------<BR>   <IMG SRC="http://www.webjolt.f2s.com/pictures/redcreature.gif">   <BR><FONT SIZE="1">To whom it may concern, The preceeding message was the opinion of this person and not of this forum. If you do not like it. Oh well</FONT>||||reg||1
+Z||000001||mrgone||07-09-2001||01:55 PM||||thats a strawberry?<P>oh. i thought it was just a very gifted red troll...||||reg||1
+Z||000002||JSocha||07-09-2001||03:52 PM||||Nah!  That's Strawberry Frankenstein!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>And somehow it just fits Galen's persona with the few words he posts.<P>Kinda like Captain Caveman...but a Galen-nized version!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  Know what I mean Vern?<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> ||||reg||1

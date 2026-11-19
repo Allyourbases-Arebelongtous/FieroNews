@@ -1,0 +1,2 @@
+A||N||0||fierobaby||Fiero picnic Saturday||||1||
+Z||000000||fierobaby||08-16-2001||05:30 PM||||Hey all just a reminder of the picnic this Saturday The 18th in Berea Ohio 342 Baldwin Dr. If you need directions e-mail me popstar02@yahoo.com bring your own chair5 and something to share  with all and bring your Fiero or pics Hope to see at least someone there!<P>------------------<BR><FONT COLOR="LETTER"> AIM: Fierobaby87<BR>http://angelfire.com/sports/sfiero </FONT><BR>         <IMG SRC="http://www.fiero.nl/uploads/cfiero.JPG"> ||||reg||1

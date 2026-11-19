@@ -1,0 +1,4 @@
+A||||2||Homicidal||Improving Gas Mileage||||5||
+Z||000000||Homicidal||04-20-2000||03:55 AM||||What are some of the ways to improve gas mileage?<P>I put 10-12 bucks in evrery 5-6 days, I think my MPG is too low.<P>Anything I can do besides spark plugs?  ||||reg||5
+Z||000001||88formula||04-20-2000||09:57 PM||||Find out the MPG by doing some very simple arithmetic, Miles driven/amount of gas in gallons = MPG. For example, if you have driven 200 miles and put in 10 gallons of gas upon fill up than you would have 200/10=20MPG. Don't just assume that you have bad gas mileage.<P>A tune-up will definitely help for one. Porting the exhaust manifolds on the v6 or headers on either one (v6 or 4 banger) would improve your mileage.<BR>||||reg||1
+Z||000002||2M4 Dale||04-21-2000||12:04 AM||||A clean air filter does wonders too !!!||||reg||14

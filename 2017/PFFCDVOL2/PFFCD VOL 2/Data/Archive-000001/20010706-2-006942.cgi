@@ -1,0 +1,2 @@
+A||||0||deceler8||Are all the dash gauge assemblies same||||1||
+Z||000000||deceler8||11-24-2000||10:41 AM||||I just picked up a dash gauge assembly cheap (to swap out one of the gauges) and this assembly has the voltmeter instead of the oil pressure gauge.<P>Are these assemblies interchangeable ? Will the cluster with the voltmeter interchange with the oil gauge cluster, and will everything work ?<P>I know I will be giving up one or the other...but will whatever I put in work ?||||reg||1

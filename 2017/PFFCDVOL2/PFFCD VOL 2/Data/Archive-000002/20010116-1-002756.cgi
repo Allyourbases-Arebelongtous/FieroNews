@@ -1,0 +1,2 @@
+A||N||0||mbramble||For the Data BAse Nut -- an 88 VIN||||1||
+Z||000000||mbramble||06-30-2000||05:35 PM||||Seems like there was someone collecting VIN numbers for 88's???  Well, found this one dead in a boneyard on Pensacola, FL today -- 1G2PE11R3JP221415<P>And if anyone cares, there was an 84 there as well 1G2AF37R1EP227001<P>Both had been picked over pretty well and there was little left of any value.  Sad....||||reg||1

@@ -1,0 +1,4 @@
+A||||2||mshill||Vacuum controls with super/turbo chargers...||||5||
+Z||000000||mshill||01-06-2000||05:32 PM||||I was wondering what happens to vacuum controlled items (EGR/cruise) when a supercharger or turbocharger is put on a V6?  It seems that your manifold pressure would be positive instead of negative which creates the vacuum.  Am i way out in the weeds?<P><BR>||||reg||5
+Z||000001||Phil||01-06-2000||05:50 PM||||Simple answer --Yep (you're in the weeds) All my vac stuff works just fine(SC3800)Vac port is in front of blower(suction side)Remember the old saying "Blowers Suck"<p>[This message has been edited by Phil (edited 01-06-2000).]||||reg||1
+Z||000002||mshill||01-06-2000||10:26 PM||||So where is the main vacuum port on the 2.8L V6?  Is it in the airbox side of the throttle body?<P>||||reg||5

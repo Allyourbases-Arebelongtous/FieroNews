@@ -1,0 +1,7 @@
+A||N||5||HummelHund||Twisting Altenator Belt 84 4cyl||||5||
+Z||000000||HummelHund||04-13-2001||07:25 PM||||What would cause two brand new belts to twist on the pulleys? Both were tight, but within a few minutes had twisted sideways. Is there a better brand of belt I should be looking at? These were Kelly - Springfield I think - Autozone. Very annoying!||||reg||5
+Z||000001||MrPBody||04-13-2001||07:53 PM||||I doubt it's the belts' fault; it's possible, but I doubt it.  I have had good luck with AutoZone K-S belts.<P>Worn or mis-aligned pulleys?<BR>||||reg||1
+Z||000002||gixxer||04-13-2001||08:15 PM||||Or you abused them putting them on, like prying them on with a screwdriver.<BR>Over revving the engine, say 8,000 RPM might do it also. <BR>;P||||reg||1
+Z||000003||DXR_DAD||04-13-2001||09:02 PM||||Check alignment of the pulleys?? Make sure there are no warps or bends, nicks or anything on the pulleys.<P><BR>DXR_DAD||||reg||3
+Z||000004||Fierowrecker||04-14-2001||12:35 AM||||Hey Hund!<BR>It's not the belt at fault...<BR>Pull your alternator, your lower bolt is missing, loose, or the hole in the alternator is worn oblong...<BR>Been through this twice on two Fieros...<BR>crash...||||reg||1
+Z||000005||HummelHund||04-14-2001||01:10 AM||||I do have to twist the belt over the altenator pully to get it on. The altenator just won't go far enough toward the front of the car to allow the belt to go easily over it. If the belt was just a little longer I'd be fine. Any ideas? Can anyone share the specific # of belt they get or give me a tip on installation?||||reg||1

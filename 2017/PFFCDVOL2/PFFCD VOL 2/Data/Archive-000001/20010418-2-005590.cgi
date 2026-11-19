@@ -1,0 +1,3 @@
+A||||1||fotofrank||timing gears||||5||
+Z||000000||fotofrank||09-06-2000||01:40 PM||||Can the timing gears for a 2.5L Iron Duke be replaced without removing the engine?<P>------------------<BR>Peace and Happiness<BR>Frank and his fotoflash, an '84 SE 2M4<BR>http://fotofrank.homestead.com/fiero.html||||reg||5
+Z||000001||DaveL||09-06-2000||03:36 PM||||Yes, it can be done easily ! If you are plastic man...<P>Sorry, not trying to make fun of your situation. But the engine isn't really that hard to drop, if you have access to a lift.<P>Good luck. Be sure to replace them with the all steel replacement gears!||||reg||1

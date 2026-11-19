@@ -1,0 +1,5 @@
+A||N||3||watts||Engine Spec's||||5||
+Z||000000||watts||10-19-2001||03:47 PM||||Hi all - question of the day.<P>I've got the factory book for my '87, but I'm about to stuff an '88 engine in that I'm in the midst of rebuilding.<P>For '87, the main and rod clearances are listed as:<BR>Main: .041 - .081mm<BR>Rod : .035 - .095mm<P>Does anyone have the factory book for '88, and does it concur with these specs?<P>Better safe than sorry!<P>Thanks.<BR>||||reg||5
+Z||000001||88formula||10-19-2001||07:49 PM||||I have the factory service manual and I just looked it up for you. They are the same as what you got.<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/88formula_logo_1.JPG"> ||||reg||1
+Z||000002||watts||10-19-2001||07:53 PM||||Thanks!<P>Now I can go back to assembling it all, feeling much safer.   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>||||reg||1
+Z||000003||88formula||10-20-2001||09:40 AM||||I meant to say 88 factory service manual but I assume you knew that since my name is 88formula.||||reg||1

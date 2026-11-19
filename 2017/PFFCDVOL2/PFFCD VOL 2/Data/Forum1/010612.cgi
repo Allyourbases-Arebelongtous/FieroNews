@@ -1,0 +1,4 @@
+A||||2||Philphine||14" snow tires||||1||
+Z||000000||Philphine||09-29-2001||02:40 AM||||<BR>had to give up my blazer and i'm not sure if i'll replace it before winter. i've got a couple of sets of 14" fiero wheels and i'm thinking of getting some fairly agressive snow tires since they wouldn't be used year round. any recommendations? <P>------------------<BR>Phil T.<P>start where you are,<BR>use what you have,<BR>do what you can.||||reg||1
+Z||000001||FieroFanaticus2||09-29-2001||10:20 AM||||A Chevy Cavalier?||||reg||1
+Z||000002||Master_Sushi||09-29-2001||10:48 AM||||I have a set of tech rims with 14 inch snows. They are great in the winter. Only thing I don't like about them is they look strange on a fiero. I think they are dunlop DP-1's. Just in the stock size. But handel great in the winter. I think they were like 40-50$ from tirerack.||||reg||1

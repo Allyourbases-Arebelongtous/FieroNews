@@ -1,0 +1,2 @@
+A||||0||TRL46202||Tranny question....||||1||
+Z||000000||TRL46202||01-02-2000||03:09 AM||||I have an 87GT Auto tranny. Everthing is great except when it shifts to 1st gear warm/cold it "kicks/hard shift" this only seems to happen when I give it the gas. I'm not a hard driver, but when your at a light and have to merge to the other lane, well you know what I mean. the tranny fluid/filter have been changed. Any adjustments need to be made??||||reg||1

@@ -1,0 +1,4 @@
+A||||2||fieroparts.com||Why?||||9||
+Z||000000||fieroparts.com||04-23-2001||07:20 PM||||Why would someone do this when you can get the system w/o tips???? <P> <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=582522512&r=0&t=0" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=582522512&r=0&t=0</A> ||||reg||9
+Z||000001||BAM-BAM||04-23-2001||08:57 PM||||  Basicly it seems that someone had more money than brains. Could have saved themselves alot of trouble and expence. Who knows? Who knows???<P>Peace, B2 OUT!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Knowledge is POWER!<BR>That is why the ignorant remain Weak!||||reg||1
+Z||000002||LZeitgeist||04-23-2001||09:17 PM||||Perhaps they wanted to try the whole look, and after installation, they decided they preferred the stock tips...||||reg||1

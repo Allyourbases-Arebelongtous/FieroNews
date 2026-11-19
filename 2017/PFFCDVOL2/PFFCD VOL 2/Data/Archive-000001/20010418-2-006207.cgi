@@ -1,0 +1,4 @@
+A||N||2||Vlad||Throttle body gasket.||||5||
+Z||000000||Vlad||10-14-2000||11:49 AM||||Hello.....<P>Today I'm going to take off a throttle body and give it a proper cleaning. The only thing is that local shopes don't have a throttle body-mainfold gasket in stock. <P>So is there any way that gasket can be saved?<P> ||||reg||5
+Z||000001||theogre||10-14-2000||07:26 PM||||which motor? <P>Likely not. You can make one. You can get gasket sheet in any parts store.<P>If it's a 4 cyl you might as well get the rebuild kit. tear it apart and clean the IAC passage and so forth. ||||reg||1
+Z||000002||PJ||10-14-2000||10:23 PM||||If its a 6 cylinder and it comes off clean just reuse it and torque it to spec. I've reused them 5 or 6 times without a leak but I take it apart frequently.<P>PJ<BR>ITA #66 Black<BR>||||reg||1

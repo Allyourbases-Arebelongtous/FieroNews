@@ -1,0 +1,2 @@
+A||||0||Loki||Anyone have an Alpine radio NOT in the car?||||1||
+Z||000000||Loki||11-25-2000||07:01 PM||||I need to know what wires are what? I have a harness from a Kenwood that works just the pins are different..If someone could e-mail me or something......Looking at the wiring harness with the  clip that holds it in place up, what wires are what?<BR>Thanx,<BR>Loki<P><BR>loki137@home.com||||reg||1

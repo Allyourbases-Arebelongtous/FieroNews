@@ -1,0 +1,3 @@
+A||||1||Standard||My 84 Sport Coupe||||1||
+Z||000000||Standard||04-27-2000||02:41 AM||||Here's some pics of my 84 Sport Coupe that I just scanned in.. they were taken in the winter, so you'll have to pardon the cars cleanliness.. or lack thereof..  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><BR>  <IMG SRC="http://www.fiero.nl/uploads/my84fiero2_1.jpg">  <BR>  <IMG SRC="http://www.fiero.nl/uploads/my84Fiero1.jpg">  <P>She's been sittin' since I got my GT.. been meaning to pull the engine and rebuild it.. working on my GT too much, tho.  <p>[This message has been edited by Standard (edited 04-27-2000).]||||reg||1
+Z||000001||DRH||04-27-2000||02:20 PM||||Standard, I emailed you about a possible buy/sale. LMK, David.||||reg||1

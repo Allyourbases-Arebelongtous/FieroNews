@@ -1,0 +1,3 @@
+A||||1||NASAReeves||How can I remove my "Map Light"?||||5||
+Z||000000||NASAReeves||05-19-2001||09:39 PM||||I guess you call it a map light...I'm talking about the light set located between the sunvisors of my '88 GT.  I'm removing the headliner, and I have everything done except for that.  I found the two torques located where the sunvisor would normally button...but it still seems secure (and I don't dare force it & risk breaking it)  <IMG SRC="http://www.fiero.nl/forum/smile.gif">.<P>Thanks, everybody!<P><P>------------------<BR>Scott & Traci<BR>'88 GT||||reg||5
+Z||000001||cadaver||05-19-2001||09:44 PM||||You need to pry out the two outer light covers to gain access to the other two screws.||||reg||1

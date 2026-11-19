@@ -1,0 +1,8 @@
+A||||6||bHooper||Punk! no more..... ||||1||
+Z||000000||bHooper||04-16-2001||12:29 PM||||i just found out that Joey Ramone died.<BR> <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>||||reg||1
+Z||000001||JohnnyK||04-16-2001||01:25 PM||||Joey Ramone died?!? When was this??||||reg||1
+Z||000002||Formula88||04-16-2001||02:27 PM||||WTF?  When did this happen?  <P>And who is Joey Ramone?  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||9
+Z||000003||JohnnyK||04-16-2001||02:40 PM||||Ahhhh! He died of cancer..  <IMG SRC="http://www.fiero.nl/forum/frown.gif"> Well, he didn't live the cleanest lifestyle, so i'm sure he expected to die of one thing or another... Who is JOey Ramone?!?!?!??! Lead singer of the Ramones? "I wanna be sedated"..||||reg||1
+Z||000004||Raydar||04-16-2001||02:51 PM||||Heard something about this, this morning. Didn't hear any names, though. <BR>Of all the stuff that coulda got him, i wouldn't have expected cancer. <P>------------------<BR>Raydar - aka Steve<P>88 T-top Formula<BR>88 soon-to-be-V6 coupe||||reg||1
+Z||000005||bHooper||04-16-2001||03:54 PM||||you know whats really wierd?... my 93 year old grandfather was diagnosed with Lymphoma (the same thing that got Joey) in the fall of '99... he is <B>STILL</B> kicking around!  sure it's slowed him down some, instead of planting a 2 acre garden, he only plants 1 acre, and instead of mowing 4 acres of grass with a push mower, he only mowes 2!<P>||||reg||1
+Z||000006||danny boy||04-16-2001||05:01 PM|||| They played a tribute to him this morning on the local rock station. As long as we still have Mike Ness....even if he is playing that kinda-rockabilly thing now.<BR>And a moment of silence.<P>Amen.||||reg||1

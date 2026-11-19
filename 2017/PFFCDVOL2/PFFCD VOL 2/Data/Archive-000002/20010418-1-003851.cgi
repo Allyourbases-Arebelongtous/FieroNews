@@ -1,0 +1,3 @@
+A||||1||turbo86se||The turbo was smoked today!!||||6||
+Z||000000||turbo86se||10-01-2000||11:39 PM||||<BR>well, not really!<BR>First time I've driven my baby in a month, I pull out of my neighborhood onto a two-lane road (707). As I get going, a smile streaks across my face because I love this car sooo much, I see a wide red car traveling the opposite direction in front of me. Holy cow, it's a Ferrari Testarossa!  As soon as he got within close range he gunned it and took off!  The driver kinda had the same look as I did.. little smiles of driving the car they love.  Off the line, I bet I could take him!!!<BR>Now if I were behind him......||||reg||6
+Z||000001||Dan86gt3.8||10-02-2000||11:59 AM||||Hey do you have 1/4 mile times for your car?||||reg||1

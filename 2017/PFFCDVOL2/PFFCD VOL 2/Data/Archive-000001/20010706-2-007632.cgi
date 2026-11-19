@@ -1,0 +1,4 @@
+A||N||2||Slapnutz2000||86 2m4 rear decklid replacement||||8||
+Z||000000||Slapnutz2000||01-03-2001||01:48 PM||||My rear decklid broke today. The left socket's top half that holds the horizontal hinge snapped off. (Sorry, I don't know the correct terminology)  I've got about a 1 inch gap exposing my battery.<P>How do I replace the decklid and would I be better off going to the local dealer or a shop? Also, roughly how much will it cost?<BR>||||reg||8
+Z||000001||deceler8||01-03-2001||03:00 PM||||Any 84-88 notchback decklid will work.<P>Just get one at a salvage yard. The only thing holding it on is the four bolts (two on each side) that attach it to the hinges.<P>Easy to replace. You'll also have to swap the ajar switch (or decklid release) wiring, but that's easy too.||||reg||1
+Z||000002||Slapnutz2000||01-03-2001||04:05 PM||||Deceler, thanks for the help but I meant to say the left hinge itself is broken.||||reg||1

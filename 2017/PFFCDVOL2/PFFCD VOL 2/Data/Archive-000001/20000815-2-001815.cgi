@@ -1,0 +1,10 @@
+A||||8||TOM||88 for parts||||1||
+Z||000000||TOM||12-29-1999||02:51 AM||||I saw an 88 in a local boneyard. If anybody wants anything let me know. Will the brakes fit the earlier ones?||||reg||1
+Z||000001||AL||12-29-1999||03:08 AM||||hey tom, is that a se or gt,if its gt how about the drivers side break assembly.||||reg||1
+Z||000002||Phaeton||12-29-1999||03:12 AM||||If that 88 has power mirrors and the drivers side housing is not bent then I am willing and anxious to do business.  Parts are darn hard to find here in Fairbanks.||||reg||10
+Z||000003||TOM||12-29-1999||12:36 PM||||All 88 are the same. The calipers are already gone. I can get a power mirror from another year as those are the same.||||reg||1
+Z||000004||Formula||12-29-1999||07:07 PM||||does it have a good egr tube?||||reg||1
+Z||000005||TOM||12-29-1999||09:11 PM||||I dont think so it is a four. But I have a nice one. Make me an offer.||||reg||1
+Z||000006||turbo86se||12-30-1999||01:11 PM||||Hi Tom, I know the parts I'm looking for are better off bought new, but my engine conversion on my 88 coupe is going to be costly. Any little bit will help!  I'm looking for the front ball joints, shocks and struts, and door hinges for my 88 coupe. Thanks a lot!!  -joel||||reg||1
+Z||000007||PAUL88GT||12-30-1999||01:20 PM||||TOM:<P>Does that 88 have a good passenger side taillight lens? If so, could you get a price for me?<P>Paul||||reg||5
+Z||000008||88 Database Nut||01-01-2000||09:50 AM||||Hey Tom, If you go back to the boneyard, could you get the VIN from that car for my database project?  I posted a big blurb about it on the chat part of this wonderful website, but in short, I'm trying to put together a registry of the 1988 cars.  So far we have 892 documented (only 3.3%).<BR>All I need is the VIN and maybe the colors if possible.<P>Thanks!   Happy New Year Everyone!<P>John Willhoff <P>PS  There's a white 88 coupe with engine and 5spd and all calipers in a junkyard in Vero Beach called C.A.R.S.  The calipers are pretty nasty looking and there's 2 aftermarket locking wheel lugs on the rear wheels but the guys only wants $25 apiece.||||reg||10

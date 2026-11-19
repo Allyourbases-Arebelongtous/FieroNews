@@ -1,0 +1,4 @@
+A||N||2||Haze_Performance||Just checking ||||1||
+Z||000000||Haze_Performance||07-07-2000||05:29 PM|||| <IMG SRC="http://www.fiero.nl/uploads/memberbanner.jpg"> <P>------------------<BR>~Haze~ My Website's  <A HREF="http://www.drive.to/HMP" TARGET=_blank>Haze Mustang Performance</A>   &  <A HREF="http://www.drive.to/WS6_Fiero.com" TARGET=_blank>WS6 Fiero</A>||||reg||1
+Z||000001||Oreif||07-07-2000||06:48 PM||||I think it would look better if you colored it Orange!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/LOGO3.jpg"> ||||reg||10
+Z||000002||tgowens||07-07-2000||07:37 PM|||| <IMG SRC="http://www.fiero.nl/uploads/memberbanner_1.jpg"> <P>------------------<BR>  <IMG SRC="http://www.tgowens.com/my_fiero_sig.gif">   <BR>'87 Fiero GT -  <A HREF="http://www.tgowens.com/fiero/" TARGET=_blank>www.tgowens.com/fiero</A>||||reg||1

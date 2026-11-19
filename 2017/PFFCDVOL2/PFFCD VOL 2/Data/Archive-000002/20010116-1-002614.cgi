@@ -1,0 +1,4 @@
+A||||2||jlruiz67||fiero forum||||1||
+Z||000000||jlruiz67||06-19-2000||08:08 PM||||Hello all<BR>There is a new Fiero forum starting. It is new and has nothing in it as of yet but it might be a good startup.  <A HREF="http://www.delphi.com/Fiero/start" TARGET=_blank>http://www.delphi.com/Fiero/start</A> <P>I'm crazy about Pennock's Fiero Forum. I just think that the more the better but there is one bad thing about the other forum, there is no real monitoring of content so please keep it clean.<P>Thanks||||reg||1
+Z||000001||Gokart||06-19-2000||09:38 PM||||Thanks, but one Fiero Forum is enough for me and it will ALWAYS be this one! I'm here for life <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||2
+Z||000002||zeusrekning||06-19-2000||09:53 PM||||i may not post a lot but i'm in here from about 4:00 till 10:30 off and on. Barely have time to check my email.||||reg||1

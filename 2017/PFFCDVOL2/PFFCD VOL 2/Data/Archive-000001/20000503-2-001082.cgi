@@ -1,0 +1,2 @@
+A||||0||lowCG||Once again||||6||
+Z||000000||lowCG||10-10-1999||07:25 PM||||...another mod that reduces the effect of speed;where will it end?<BR>Put a sheet metal panel over the entire opening,under the radiator,used nutclips for mounting,formed a 4 1/2" section,turned down to form an airdam that's 46" wide like the panel at the same time.<BR>Works great,have a hole in the hood with a grill behind it for added cooling.<BR>Was wondering before why the car still rode like it did at 35mph at way higher speeds;lift.<BR>Much smoother now.||||reg||6

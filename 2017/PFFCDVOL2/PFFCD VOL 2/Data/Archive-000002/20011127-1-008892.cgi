@@ -1,0 +1,15 @@
+A||||13||JayUSA77||i got some new pics:)||||1||
+Z||000000||JayUSA77||07-18-2001||10:11 PM||||i just figured out how to use pictures <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>hell ya<BR>J <A HREF="http://www.fiero.nl/uploads" TARGET=_blank>http://www.fiero.nl/uploads</A> <P><P>------------------<BR>86' Black Fiero GT||||reg||1
+Z||000001||JayUSA77||07-18-2001||10:12 PM||||Sh!t or maybe not<BR>||||reg||1
+Z||000002||JayUSA77||07-18-2001||10:13 PM||||one more time <A HREF="http://www.fiero.nl/fieroforum.pip" TARGET=_blank>http://www.fiero.nl/fieroforum.pip</A> <P><P>------------------<BR>86' Black Fiero GT||||reg||1
+Z||000003||Urchin||07-18-2001||10:14 PM||||not yet  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/lowered_blackgtthis_one.jpg"> <BR>If you can read this, I'm parked.||||reg||1
+Z||000004||JayUSA77||07-18-2001||10:20 PM|||| <IMG SRC="http://www.fiero.nl/uploads/blackfiero1.jpg"> ||||reg||1
+Z||000005||JayUSA77||07-18-2001||10:22 PM||||HELL Ya im the man. and oh ya disregard the license theve all been removed by the owner i bought it from. i live in california<BR>j||||reg||1
+Z||000006||Cheever2||07-18-2001||10:28 PM||||Way to go.  Nice.  Very nice.<BR>||||reg||14
+Z||000007||Urchin||07-18-2001||10:29 PM||||Wow, that is nice!||||reg||1
+Z||000008||JayUSA77||07-18-2001||11:20 PM||||Thanks guys i appreciate all the compliments <IMG SRC="http://www.fiero.nl/forum/smile.gif"> Im doing a lot to it right now though so when im done i hope to have new pics thanks again guys<BR>j<P>------------------<BR>86' Black Fiero GT||||reg||1
+Z||000009||DXR_DAD||07-19-2001||12:09 AM||||Ok, You are now a member of the "For Black Fieros Only" club.<P>It looks goooooood!!!<P>DXR_DAD||||reg||14
+Z||000010||skitime||07-19-2001||12:15 AM||||Nice car! It is not fair that the black Fieros get to be monochrome without even trying.  I know how much work it is to monochrome other Fieros.<P>------------------<BR><UL TYPE=SQUARE><BR><LI>Red 88 GT T-TOP<BR><LI>Red 86 GT<BR></UL> <IMG SRC="http://www.fiero.nl/uploads/signature-1.JPG"> ||||reg||1
+Z||000011||Pontiaddict||07-19-2001||01:02 AM||||Skitime, that only applies to 88's and other year non GT's.||||reg||1
+Z||000012||Bluebottlejunky||07-19-2001||01:31 AM||||WOW, look at the size of that tree...what is that?..we don't have those in Wisconsin! hehe ps NICE CAR!  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>Hello, My name is Mike and I am addicted too fiero's...PLEASE dont help me.<BR>85'GT 4sp<BR>AIM: Fierofanatic2001||||reg||1
+Z||000013||AusFiero||07-19-2001||02:00 AM||||Hey Jay, bloody nice car and I love your house too. I am trained Architectural Draftsman among other things and I can appreciate nice homes. Good feeling to that house from what I can see.<P>------------------<BR> <IMG SRC="http://www.jadeweb.com.au/fiero/ausfiero1.gif"> <A HREF="http://www.jadeweb.com.au/fiero" TARGET=_blank>My Fiero</A><BR><A HREF="http://www.auto-alley.com" TARGET=_blank>Fiero Accessories</A>||||reg||1

@@ -1,0 +1,5 @@
+A||N||3||Haze_Performance||84-88 Booklets??||||1||
+Z||000000||Haze_Performance||11-11-2000||06:10 PM||||Can you still buy <B>NEW</B> owners booklets for the Fiero?<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/goodlogo1_1.gif">   <BR><B>"AHHHHH!!! All Fiero's don't start on fire you BONEHEAD!!"</B>||||reg||1
+Z||000001||robertjay||11-11-2000||07:02 PM||||Go to  <A HREF="http://www.helminc.com" TARGET=_blank>www.helminc.com</A> , they can still make the owner's manual and the maintanance manual too.<p>[This message has been edited by robertjay (edited 11-11-2000).]||||reg||1
+Z||000002||Monkeyman||11-13-2000||07:59 PM||||Try Dave Kauzlarich ( FieroG97J@aol.com ).  He has tons of new (mine was) Fiero literature.  I got a brand new set of glove box manuals from some place that sells Corvette parts.  If I can remember where it was, I'll post something.||||reg||1
+Z||000003||Haze_Performance||11-14-2000||10:04 AM||||Thanks Guy's  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/goodlogo1_1.gif">   <BR><B>"AHHHHH!!! All Fiero's don't start on fire you BONEHEAD!!"</B>||||reg||14

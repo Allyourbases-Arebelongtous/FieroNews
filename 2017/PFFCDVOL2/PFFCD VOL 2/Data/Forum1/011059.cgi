@@ -1,0 +1,2 @@
+A||N||0||DKOV||Ferrari 355 kit on E-bay||||1||
+Z||000000||DKOV||10-16-2001||02:24 PM||||here's the link: <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=596708827&r=0&t=0" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=596708827&r=0&t=0</A> <P>I don't know anything about it, just that it is there.  Some people were asking, so I thought I'd post...<P>Sorry I don't remember who you are or I'd send it to you directly.   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>DKOV -||||reg||1

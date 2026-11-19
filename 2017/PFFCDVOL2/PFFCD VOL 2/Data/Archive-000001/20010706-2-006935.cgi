@@ -1,0 +1,5 @@
+A||N||3||d825077||IDLE PROBLEM||||1||
+Z||000000||d825077||11-23-2000||07:31 PM||||I have a 1984 fiero se.  It is a 4 cylinder with the automatic trans.  When the car is in drive or reverse the idle bounces from about 600 to 900 rps.  This is very annoying.  The car has never stalled but seems like it almost will.  I also just put in the ultimate dog bone, so that makes it realy annoying to sit in it in gear.  Does anyone have any suggestions?  TIA||||reg||1
+Z||000001||deceler8||11-24-2000||10:56 AM||||Man...could be a zillion things, but most likely are vacuum leaks and/or bad sensors. <P>You need to run your stored codes...try the search function to locate the procedure and the meaning of the codes. <P>||||reg||1
+Z||000002||d825077||11-25-2000||10:34 AM||||Would the air cleaner gasket cause the idle to bounce around?||||reg||1
+Z||000003||strdream||11-25-2000||03:18 PM||||NO.. to air cleaner gasket question.  I would want to cover the basics first. One of which is remove the throttle body de-carbonize it. Check the IAC.  The ECM needs the be getting a signal from the trans. telling it that it is in gear so it can compinsate.||||reg||1

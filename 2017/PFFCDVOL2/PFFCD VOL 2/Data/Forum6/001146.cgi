@@ -1,0 +1,3 @@
+A||N||1||Sndfr||another PIP tester...||||7||
+Z||000000||Sndfr||12-25-2000||01:55 PM||||Just testing my PIP skills...<P>------------------<BR>   <IMG SRC="http://cgi.tripod.com/smilecwm/cgi-bin/s/scorchio/sevil.gif">   <B>Matthew "Whyt Nyte" D.</B>   <IMG SRC="http://cgi.tripod.com/smilecwm/cgi-bin/s/scorchio/sgrin.gif">        <BR><B><I>84 SE</B>- automatic, rare Fender Delete option<BR>"Fender gap?  What fender gap?"</I><BR><B>(future owner of a 60's-70's Chevy muscle car)</B><BR>   <IMG SRC="http://cgi.tripod.com/smilecwm/cgi-bin/s/ut2/redcap.gif">                  <IMG SRC="http://cgi.tripod.com/smilecwm/cgi-bin/s/ut1/mgwhore.gif"> ||||reg||7
+Z||000001||Sndfr||12-25-2000||07:27 PM||||done<p>[This message has been edited by Sndfr (edited 12-25-2000).]||||reg||1

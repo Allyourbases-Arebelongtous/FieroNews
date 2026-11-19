@@ -1,0 +1,4 @@
+A||||2||mark's 86||can somebody help me||||5||
+Z||000000||mark's 86||06-24-2001||04:03 PM||||im wanting to chop my top but i cant find anybody around here that can do my front windshield or is willing to do my window does anybody have any ideas on were i can go thanks to all ||||reg||5
+Z||000001||Seanh||06-24-2001||04:57 PM||||As far as I know Archie is the only one who did chop top fiero's. I'm sure there are a few custom jobs running around here and there, but Archie is the only one who offers it as a service, I think.||||reg||1
+Z||000002||Old Lar||06-24-2001||05:02 PM||||Chopping the top is a specialized procedure, go to V8 Archies site.  The way Archie does it is to not chop the windshield.  It just lays back at a steeper angle.  You'll need to find someone who has done a few of these in the past to get it done correctly.  There must be some reweld to the new roof line.||||reg||1

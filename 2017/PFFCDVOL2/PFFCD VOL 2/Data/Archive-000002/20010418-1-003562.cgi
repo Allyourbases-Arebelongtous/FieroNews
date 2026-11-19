@@ -1,0 +1,2 @@
+A||N||0||MikeSchaefer||Nd pic of white85GT w/black ground effects||||3||
+Z||000000||MikeSchaefer||09-06-2000||06:22 PM||||Hi, does anyone have a picture of a white 85 GT (or 86 SE) with black ground effects?  All the way around, from the nose to the bumper?<BR>I plan to eventually do this to my car. Thanks a million,<BR>Mike Schaefer <A HREF="http://surf.to/fiero" TARGET=_blank>http://surf.to/fiero</A> ||||reg||3

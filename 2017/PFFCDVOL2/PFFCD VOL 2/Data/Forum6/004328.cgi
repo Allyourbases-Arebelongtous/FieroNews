@@ -1,0 +1,9 @@
+A||||7||8Ball||test of sig||||1||
+Z||000000||8Ball||11-17-2001||12:09 AM||||ok let's try this again<p>[This message has been edited by 8Ball (edited 11-17-2001).]||||reg||1
+Z||000001||8Ball||11-17-2001||12:29 AM||||hmmm no sig now?<P>hmm maybe smaller?<BR>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/8bff.gif">  <p>[This message has been edited by 8Ball (edited 11-17-2001).]||||reg||1
+Z||000002||Brandon86SE||11-17-2001||12:46 AM||||I'm not even gonna ask how long it took to make that!  But, it looks good!<P>Brandon<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/Field_Front_(sig)_1.jpg"> ||||reg||1
+Z||000003||Jake_Dragon||11-17-2001||09:14 AM||||  <IMG SRC="http://www.fiero.nl/uploads/8bff1.GIF">  <BR> <IMG SRC="http://www.fiero.nl/uploads/8bff1_1.GIF"> <p>[This message has been edited by Jake_Dragon (edited 11-17-2001).]||||reg||1
+Z||000004||Jake_Dragon||11-17-2001||01:21 PM|||| <A HREF="http://www.degraeve.com/gif2txt.shtml" TARGET=_blank>http://www.degraeve.com/gif2txt.shtml</A>  <P><A HREF="http://www.fiero.nl/uploads/askii.GIF" TARGET=_blank>pic</A><P>Edited for size <BR><p>[This message has been edited by Jake_Dragon (edited 11-17-2001).]||||reg||1
+Z||000005||Tabs31||11-17-2001||05:18 PM||||looks fine to me<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/tabs31_1.jpg"> ||||reg||1
+Z||000006||FieroMontreal||11-17-2001||05:31 PM||||OMG, you have lots of free time!<BR>Looks great!<P>------------------<BR> -Alex <BR> <IMG SRC="http://www.fiero.nl/uploads/sigfieromontreal_1.gif">   <BR>1986 Fiero GT, STOCK Wingless, <BR>President of FieroMontreal... <A HREF="http://www.fieromontreal.com" TARGET=_blank>www.fieromontreal.com</A> <BR>and Regional Director of CFOG-I for Eastern Canada.||||reg||1
+Z||000007||8Ball||11-17-2001||06:08 PM||||Thanks guys  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>||||reg||1

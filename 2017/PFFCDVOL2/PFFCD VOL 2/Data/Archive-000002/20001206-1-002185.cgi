@@ -1,0 +1,9 @@
+A||||7||fieroshop||Pictures of wood panels||||1||
+Z||000000||fieroshop||05-13-2000||12:58 AM||||Here are a couple pictures of my wood panels I am building. What do you think?<BR> <IMG SRC="http://www.fiero.nl/uploads/Guage_cover.JPG"> <BR> <IMG SRC="http://www.fiero.nl/uploads/Auxiliary_guage_cover_1.JPG"> <p>[This message has been edited by fieroshop (edited 05-13-2000).]||||reg||1
+Z||000001||2M4 Dale||05-13-2000||02:07 AM||||Look Good !!! ||||reg||14
+Z||000002||Gokart||05-13-2000||05:34 AM||||VERY NICE! I see you even attached the oem plastic lip that goes around the steering wheel neck. Are you starting from just plain wood with these? Do you plan on making some to sell?||||reg||14
+Z||000003||ChadMan||05-13-2000||10:15 AM||||Those are EXACTLY what I had in mind, fieroshop!<P>Now I wonder if they could be stained a super-dark grey, or a dark-dark burgundy?||||reg||1
+Z||000004||Monkeyman||05-13-2000||10:20 AM||||I'm not really into wood, but they sure do look purty! <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000005||fieroshop||05-13-2000||12:24 PM||||I started by using the plastic panels, I then glue on real black walnut veneer and the coat the with about 30 coats of clear, once that is done I then will polish them and install them in my GT. Yes I will make them on custom order only. But for those of you who want to do the panels I will sell the veneer. <BR>Since this is real wood yes a person can stain them before they start the process of putting clear on them.||||reg||7
+Z||000006||Haze_Performance||05-13-2000||08:39 PM||||Where do the mounting screws go?||||reg||1
+Z||000007||fieroshop||05-15-2000||05:10 PM||||I was just showing how they would look after I finished them, I still have to drill the mounting holes and put one more coat of clear, then polish them and then install them. I will post pics of how they look in the car after I isntall them.||||reg||1

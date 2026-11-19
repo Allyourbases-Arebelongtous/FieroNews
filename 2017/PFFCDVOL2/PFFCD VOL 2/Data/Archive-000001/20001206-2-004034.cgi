@@ -1,0 +1,4 @@
+A||N||2||fldevel||GT Quarter panels ||||5||
+Z||000000||fldevel||05-31-2000||04:26 PM||||does anyone know how to replace the entire quarter panels on an 85 GT ..i practicly broke them off my wreaked GT but are still intact ...any suggestions ?||||reg||5
+Z||000001||Gokart||06-01-2000||03:10 AM||||You must remove the plastic inside the car behind the windows. To do this with out damaging the plastic you must remove the seat belts. There is a nut in the frame you'll see after doing this that is keeping them from coming out. Good luck.||||reg||2
+Z||000002||fldevel||06-01-2000||01:53 PM||||thanks gokart .got the new ones in, looks great . alot better then the old shabby ones had a few problems with the back clips though ...there a little tricky to get on. not as easy as it looks <P><BR>                            thanks ,devel||||reg||1

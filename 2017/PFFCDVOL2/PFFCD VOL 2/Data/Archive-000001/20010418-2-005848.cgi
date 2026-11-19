@@ -1,0 +1,2 @@
+A||||0||gixxer||88 Springs Revisted||||1||
+Z||000000||gixxer||09-21-2000||07:52 PM||||A couple weeks ago now I sent an E-mail to The Fiero Store about the spring rates for their 1" lowering springs. Here's what they had to say:<BR>"Approximate spring rates(they designed 6-7 years ago so I am forced to go off memory since I have not located the original spec sheets):<BR>Front- 300lbs/in<BR>Rear- 365lbs/in" ||||reg||1

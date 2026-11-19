@@ -1,0 +1,2 @@
+A||||0||JohnnyK||Still looking for a Fiero||||1||
+Z||000000||JohnnyK||09-10-2000||11:55 PM||||Anyone have a fastback model with a blown engine (could have a working engine, just so long as it is as cheap as if it had a blown engine) but otherwise in great shape? Want to try a 3.4.... Mind you, have to sell my 85SE before I can afford anything, but I'd like to know my options.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

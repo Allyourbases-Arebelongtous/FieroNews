@@ -1,0 +1,7 @@
+A||||5||AL||deleted a big mistake!!||||10||
+Z||000000||AL||01-06-2000||10:05 PM||||<BR>i didn't know you can delete a topic, or i would of deleted it the very same day. once again sorry for that stupid topic i put up. ||||reg||10
+Z||000001||william_thorniii||01-06-2000||10:18 PM||||Live and learn Al... in my case mostly just live though (too dumb to learn)..<P>William T. Thorn, III||||reg||10
+Z||000002||DXR_DAD||01-06-2000||10:26 PM||||Al, too much SUN SHINE will do that to a person....... <IMG SRC="http://www.fiero.nl/forum/smile.gif"> so you think you'll move? ||||reg||6
+Z||000003||william_thorniii||01-06-2000||10:44 PM||||Al, <P>According to DXR you have to move... I live in OH and have always wanted to live in CA... wanna trade for pinkslips?  <P>William T. Thorn, III||||reg||3
+Z||000004||AL||01-06-2000||11:43 PM||||you kidding me dad! how can i leave when my fiero is always clean and shinny and i can drive my baby with out worring about the fog lol, and william trust me i don't want to offend any of my fiero brother's even thou i think i lost tom, but that's life. long live the fiero!!!!!! ||||reg||1
+Z||000005||AL||01-06-2000||11:51 PM||||hey william living here has it's price 44 for tags 50 to 60 for the smog test and if you don't pass well the sky is the limit,plus you would look out of place here, no tan, the natives wil spot you immediateley and say, look another f---en turist! lol.||||reg||10

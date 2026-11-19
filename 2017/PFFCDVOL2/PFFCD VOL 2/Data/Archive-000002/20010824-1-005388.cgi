@@ -1,0 +1,9 @@
+A||||7||chrissherman||got poped for bad tags||||11||
+Z||000000||chrissherman||01-23-2001||02:02 AM||||opps just got popped for bad tags on a test drive of a new fiero that has been siting sinse 1993 that cop was not in a good mood no points but $60.00 is a lott of gas that is not in my tank<P>------------------<BR>  <IMG SRC="http://sites.netscape.net/shermanchris777/Jan1902.jpg">  <p>[This message has been edited by chrissherman (edited 01-23-2001).]||||reg||11
+Z||000001||stimpy||01-23-2001||11:57 AM||||Man, I hate getting poped. Did they make you wear a funny hat and speak Latin?<P><P>------------------<BR>Loud Pipes Save Lives!      <IMG SRC="http://www.fiero.nl/uploads/stimpy_sig.gif"> ||||reg||1
+Z||000002||rogergarrison||01-23-2001||12:57 PM||||Howd they see your tag under all the ice? I didnt even know you needed tags in Alaska, lol.||||reg||1
+Z||000003||chrissherman||01-23-2001||07:37 PM||||NO ice or snow in juneau alaska  I am not kiding the skying sucks the resort has 16in at the top and nothing at the bottem no white x mas no white new year and no broades!!! p.s everbody is seling there snow bourds for cheep!!!<P>------------------<BR> <IMG SRC="http://sites.netscape.net/shermanchris777/Jan1902.jpg"> ||||reg||6
+Z||000004||tgowens||01-23-2001||09:08 PM||||stimpy - you are just plain baaaaaaaaaad!! (I got it too!)||||reg||1
+Z||000005||Phil||01-23-2001||09:15 PM||||Why do you need a car in Juneau you can't drive it out if the city?||||reg||1
+Z||000006||Cooter||01-23-2001||09:41 PM||||I just re-read Stimpy's remark. I must ask one question- Do you get to ride around in the Pope-mobile with the bullet proof phone booth looking cab on it? If so, shame on the cop for writing a ticket. Isn't that like a fast lane straight to eternal torment?||||reg||1
+Z||000007||88formula||01-23-2001||09:45 PM||||Popped ?<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/88formula_logo_1.JPG"> ||||reg||1

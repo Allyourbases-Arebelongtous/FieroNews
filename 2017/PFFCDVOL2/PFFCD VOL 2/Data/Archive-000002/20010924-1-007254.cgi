@@ -1,0 +1,9 @@
+A||||7||Steven||posting pictures for first time.||||1||
+Z||000000||Steven||05-06-2001||12:57 AM||||Here is my first attemp at posting a picture, seem fitting that it be of the engine rebuild. <A HREF="http://www.fiero.nl/fieroforum.pip" TARGET=_blank>http://www.fiero.nl/fieroforum.pip</A> <P>||||reg||1
+Z||000001||Steven||05-06-2001||12:58 AM||||<A HREF="http://www.fiero.nl/fieroforum.pip" TARGET=_blank>http://www.fiero.nl/fieroforum.pip</A> <BR>take two.<P><p>[This message has been edited by Steven (edited 05-06-2001).]||||reg||1
+Z||000002||Steven||05-06-2001||01:09 AM||||Well I followed the directions (at least I thought I did), and I still can't post. Any feel like helping me?||||reg||1
+Z||000003||Steven||05-06-2001||01:16 AM|||| AAARRRRHHHHHHHHHH!!!!!!!<p>[This message has been edited by Steven (edited 05-06-2001).]||||reg||1
+Z||000004||TwisT||05-06-2001||01:31 AM||||Go to "history" in PIP...  find the file(s) you want to post.  Click on them,  copy the code where you want the picture in your message.<P><p>[This message has been edited by TwisT (edited 05-06-2001).]||||reg||1
+Z||000005||Steven||05-06-2001||08:13 PM|||| <IMG SRC="http://www.fiero.nl/uploads/2.8_block_1.jpg"> ||||reg||1
+Z||000006||Steven||05-06-2001||08:18 PM||||Here are some of my first pictures from my engine rebuild:<P> <IMG SRC="http://www.fiero.nl/uploads/2.8_block_2_1.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/2.8_block_3.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/2.8_block_4.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/2.8_head_1.jpg"> <BR>||||reg||1
+Z||000007||Steven||05-06-2001||08:23 PM||||A couple more:<BR> <IMG SRC="http://www.fiero.nl/uploads/2.8_head_2.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/2.8_piston_1.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/2.8_piston_2.jpg"> ||||reg||1

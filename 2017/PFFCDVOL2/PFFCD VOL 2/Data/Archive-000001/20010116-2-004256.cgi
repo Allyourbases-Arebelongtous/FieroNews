@@ -1,0 +1,3 @@
+A||||1||Jim's87GT||AC Belt Diagram? 87GT||||5||
+Z||000000||Jim's87GT||06-12-2000||10:34 PM||||Does someone out there have a diagram for the path of the AC belt on an 87 GT?  Also the part # if you have it handy.  I hate to show my ignorance but I guess there are two belts altogether?  Thanks||||reg||5
+Z||000001||StuGood||06-13-2000||12:37 AM||||My 1987 Fiero GT with A/C has 2 belts:<P>A/C compressor belt goes on first, picks up crank pulley and compressor only.<P>2nd belt to go on picks up crank pulley, water pump and alternator.<P>Don't know P/N's - never had to buy any new ones.  <p>[This message has been edited by StuGood (edited 06-13-2000).]||||reg||1

@@ -1,0 +1,3 @@
+A||||1||DXR_DAD||Ash Tray Doors||||14||
+Z||000000||DXR_DAD||08-20-2000||11:46 AM||||Yep I broke one of the tabs!! but I read in Ogre's Cave about Devcon's Plastic Welder<BR>(#14300) 2 part epoxy. Man the stuff works!!<BR>It's stronger than it was when it was new!<BR>Ogre recommended this to repair the horn paddals. Two thumbs up!!! Thanks Ogre!!!<BR>I can co-sign for ya, IT WORKS  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P><BR>THANKS<BR>DXR_DAD||||reg||14
+Z||000001||theogre||08-20-2000||12:44 PM||||The one I have is from VersaChem but same idea. I've used it on all kinds of things. It will work on nealr yany thing but the polypropalene and the polyethelene families.||||reg||1

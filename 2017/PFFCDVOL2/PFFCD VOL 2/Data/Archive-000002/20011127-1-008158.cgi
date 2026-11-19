@@ -1,0 +1,4 @@
+A||||2||Rhpetterson||Option packages||||1||
+Z||000000||Rhpetterson||06-16-2001||12:57 PM||||are there any pages out there with option listings for the fieros when they were new||||reg||1
+Z||000001||PBJ||06-16-2001||01:32 PM||||I will scan them in when I get home tonight, if no one else has by then.  is there one in specific?||||reg||1
+Z||000002||Songman||06-16-2001||04:56 PM||||This is an RPO list of all Fiero options available. This shows what was available, and you can compare it to the label in your front compartment and see what your car came with from the factory.<P> <A HREF="http://fiero2m4.homestead.com/RPOlist.html" TARGET=_blank>http://fiero2m4.homestead.com/RPOlist.html</A> <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1

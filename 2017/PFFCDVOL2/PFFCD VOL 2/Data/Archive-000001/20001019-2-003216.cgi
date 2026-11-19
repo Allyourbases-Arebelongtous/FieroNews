@@ -1,0 +1,7 @@
+A||||5||BAM-BAM|| Pontiac Arrowhead!||||5||
+Z||000000||BAM-BAM||04-16-2000||05:00 PM||||   Where can I get a couple of the Pontiac arrowheads that came in the sail panels? The ones on my GT have fallen off leaving a very unwelcome void <IMG SRC="http://www.fiero.nl/forum/frown.gif"> TIA for any help.<P> Thanx, BAM-BAM  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P><BR> P.S. Where are some people getting the custom Smilies?||||reg||5
+Z||000001||Phil||04-16-2000||05:21 PM||||Fiero store has em||||reg||1
+Z||000002||BAM-BAM||04-16-2000||05:24 PM||||     Thanx Phil!!!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||terryk||04-16-2000||07:52 PM||||The GM part number is: 20468876<P>Any GM parts department. ~$10.<P>Is the last place everyone checks for GM parts, GM?<p>[This message has been edited by terryk (edited 04-17-2000).]||||reg||1
+Z||000004||Fret Naught||04-16-2000||08:27 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Phil:<BR><B>Fiero store has em</B><HR></BLOCKQUOTE><BR>Phil, I just purchased a couple for my SE from The Fiero Store, a little on the spendy side, but easy to get and brand spanky new<BR>||||reg||12
+Z||000005||BAM-BAM||04-16-2000||11:05 PM||||   JUST LOOKED THEM UP ON THE FIERO STORE WEB SITE, $9.60 EA. NOT BAD, THINK I'LL GET A COUPLE. <P> THANX AGAIN PHIL, BAM-BAM <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||12

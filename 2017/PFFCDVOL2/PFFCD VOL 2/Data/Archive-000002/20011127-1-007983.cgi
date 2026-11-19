@@ -1,0 +1,5 @@
+A||||3||87GTBro||First speeding ticket!!!||||1||
+Z||000000||87GTBro||06-07-2001||02:58 PM||||I got my first speeding ticket last week.  I was on a road trip.  Luckily the place I got the ticket is 150 miles from my house and I wasn't driving my Fiero!!!<P>I was driving a Honda Accord!!  But according to the ticket, I was driving a "Hyundai 4-door".  Stupid Sherrif!!!!||||reg||1
+Z||000001||DecadenceR||06-07-2001||03:01 PM||||My first speeding ticket ever was almost 3 years ago now. it was on the PA turnpike on my way to ohio. I was doing 92 in a 65 or 55, I forget which. It was in my long lost 87 fiero coupe.<BR>Ahhh, those were the days.||||reg||1
+Z||000002||84Bill||06-07-2001||03:13 PM||||Well Rice is Rice they all look the same to me... Smart Sherrif, I wonder if he is a Fiero owner  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||10
+Z||000003||Scott||06-07-2001||05:01 PM||||Hey 87GTBro,<BR>  You may be able to get the ticket dropped.  Do some checking.  I had a friend that got a ticket dropped because the cop wrote some sort of misinformation on the ticket, I don't remeber what it was, but it may be worth checking into.  ||||reg||3

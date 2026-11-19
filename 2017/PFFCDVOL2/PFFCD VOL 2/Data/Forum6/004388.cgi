@@ -1,0 +1,3 @@
+A||||1||yo_sweet||Anyone wanna trade a mp3 player for a car cd player?||||1||
+Z||000000||yo_sweet||11-20-2001||04:42 PM||||ive got a portable mp3 player never used it its missing the parallel cable i will trade it for a car cd player , the mp3 player is called eigerman   <A HREF="http://www.eigerlabs.com" TARGET=_blank>www.eigerlabs.com</A>   it works and is in the box with cover and earphones , cd-rom,and tape adapter<BR>will ship<BR>thanks||||reg||1
+Z||000001||Jake_Dragon||11-20-2001||06:26 PM|||| <IMG SRC="http://www.fiero.nl/uploads/f20v.jpg"> <BR> <IMG SRC="http://www.fiero.nl/forum/frown.gif"> no USB||||reg||1

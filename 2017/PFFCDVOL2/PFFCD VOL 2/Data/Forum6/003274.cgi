@@ -1,0 +1,6 @@
+A||||4||Kasdan||94 S-10/Ranger 4x4||||1||
+Z||000000||Kasdan||09-07-2001||09:44 AM||||Anyone know where i can get a 94+ S-10 or Ranger 4x4 around the atlanta/Athens GA region?  I dont want a V8, must be 4 cylnder/6 cylender,  dosent have to havea  stereo, dosent need good paint.  just has ro run good and have a fairly good interior.  help me out.<P>------------------<BR>Tyler Morgan<BR>1986 GT Fastback, <BR>  <IMG SRC="http://www.fiero.nl/uploads/FIERO2.JPG">       <BR>Holley Ram-Air, Power Steering, K&N Filtercharger, Bosch Wires, Bosch Platinum Plugs, Conrad Distribuiter Cap/Rotor, New GT Seats, New Headliner, New Carpet, Ocelet Exhaust, Red Underbody Light Kit (coming soon)<BR>Aim=FieroDriver1986||||reg||1
+Z||000001||Kasdan||09-08-2001||12:57 AM||||Not even one responce?||||reg||1
+Z||000002||fierospeeder||09-08-2001||01:20 AM|||| <A HREF="http://www.traderonline.com" TARGET=_blank>http://www.traderonline.com</A> <P>or ebay if you can find one in your area||||reg||1
+Z||000003||onfire||09-08-2001||03:08 AM||||You could ask these guys. <A HREF="http://s10-4x4.com/" TARGET=_blank>http://s10-4x4.com/</A> <BR>click on BBS<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/onfiresig.jpg"> ||||reg||1
+Z||000004||Kasdan||09-08-2001||10:10 AM||||Thanks guys, that second link is helpful||||reg||1

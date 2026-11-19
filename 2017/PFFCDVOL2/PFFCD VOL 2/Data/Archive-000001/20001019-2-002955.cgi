@@ -1,0 +1,6 @@
+A||||4||BRIAN CORNELIUS||Who has the best price on KYB...||||5||
+Z||000000||BRIAN CORNELIUS||03-30-2000||12:02 AM||||It sound like many of you have replace your struts and shocks with KYB's. Where do you recomment for the best price and service?||||reg||5
+Z||000001||theogre||03-30-2000||07:31 PM||||check wrenchead and carparts .com's one of them carries them. Also check pep boys. Lately pepboys has been the same or less than wrenchead on the borg/warner parts I use.||||reg||1
+Z||000002||lowCG||03-30-2000||11:25 PM||||Try the Shock Wharehouse,I think they're in Georgia.<BR>Has anyone seen the new adjustable KYBs?<BR>||||reg||1
+Z||000003||FIEROCIOUS||03-30-2000||11:33 PM||||You can purchase KYB's at your local PepBoy's! 79.00 front 129.00 rear. Takes about a week to get them. <BR>You can also get them from <A HREF="http://www.Shox.com" TARGET=_blank>www.Shox.com</A>  I don't know the price for them. <P>The AGX shocks from KYB are not avilable for the Fiero (they never will be) not enough interest!<P>P/N KG4538 front P/N 234005 rear<P>If any one needs a part # for KYB's for any application just ask! ||||reg||14
+Z||000004||BRIAN CORNELIUS||03-31-2000||12:17 AM||||Thanks for the reply. This will help. I can check these prices against the locals  considering the shipping and waiting time. ||||reg||1

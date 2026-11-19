@@ -1,0 +1,7 @@
+A||||5||Tabs31||white rims on a fiero||||1||
+Z||000000||Tabs31||11-11-2001||07:12 PM||||does anybody have any pics of fieros with white rims????||||reg||1
+Z||000001||IwannaIRM||11-11-2001||08:16 PM||||I have a Fiero with 16" white rims.  I will see if I can get a pic posted.  The car is at a friends place 800 miles away so hopefully I can get him to snap a pic or two.<P><P>------------------<BR>AIM - SWags2933<P>84 Fiero SE (being modified)<BR>88 Formula||||reg||1
+Z||000002||Jncomutt||11-11-2001||08:19 PM||||Fieros look pretty good in my opinion with those white diamondspoke or what they call em from the berettas.  I believe they came white from the factory.||||reg||1
+Z||000003||Matthew_Fiero||11-11-2001||08:46 PM|||| <A HREF="http://www.fiero.nl/forum/Forum1/HTML/010043.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/010043.html</A> <P>the last pic i posted of my car<BR>i like them  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> hard to clean though||||reg||1
+Z||000004||Jaei Sun||11-11-2001||08:47 PM||||I'll have some 17" white 7 spoke or 6 spoke in about 3 weeks!<P>------------------<BR>       <IMG SRC="http://home.mn.rr.com/fierojaei/Jaei_blue.gif"> ||||reg||14
+Z||000005||1FST2M6||11-12-2001||09:38 AM||||a fellow forum member has a white 87 gt with 17f 18 back Team Dynamic white monzas... i can't find a pic of it though... it's AWSOME! HELLOO!!! owner of this car please post a pic! ||||reg||1

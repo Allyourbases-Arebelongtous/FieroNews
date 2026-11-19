@@ -1,0 +1,12 @@
+A||||10||gkozlov||2.8 Gas Mileage||||1||
+Z||000000||gkozlov||06-16-2000||07:45 PM||||I had a 87 2.5 5spd, now I drive a '86 SE with the 2.8 V-6 4spd. What gas mileage should I expect. The reason I ask is my 2.5 would get @ 26mpg in the city, but my 2.8 only gets @ 21mpg in the city. Is this normal?<P>I dont know if this is allowed or not but Ive got some stuff posted in the off subject section. <A HREF="http://www.fiero.nl/forum/Forum6/HTML/000362.html" TARGET=_blank>http://www.fiero.nl/forum/Forum6/HTML/000362.html</A> <P>[This message has been edited by gkozlov (edited 06-16-2000).]<p>[This message has been edited by gkozlov (edited 06-16-2000).]||||reg||1
+Z||000001||86SE||06-17-2000||12:15 AM||||My '86 2.8 auto with 87,000 miles gets about 22MPG highway.  Id say 21 in the city is pretty good.||||reg||1
+Z||000002||Ed||06-17-2000||12:16 AM||||21 is about right. See previous threads. ||||reg||1
+Z||000003||Cooter||06-17-2000||12:52 AM||||My 3.4 with a 4.10 geared four speed is getting a little better than 20 MPG in town. Out on the interstate, I sure it would be worse but it is a lot of fun to drive!||||reg||1
+Z||000004||88formula||06-17-2000||11:18 PM||||My Formula was averaging 24 mpg around town and I got 29mpg once traveling on the highway with a few full throttle runs in between.||||reg||1
+Z||000005||Monkeyman||06-18-2000||01:19 PM||||Everything stock/auto tranny.  I got about 18mpg on the highway during my last 160 mile trip.  I imagine I get less than that in town. <IMG SRC="http://www.fiero.nl/forum/frown.gif">||||reg||1
+Z||000006||LarryB||06-18-2000||01:24 PM||||In mostly city driving I get between 22-23MPG with my V6 4 speed, 26-27 MPG highway driving.  With my 4 cyl 5 sp I get 27 MPG city and 32-33 MPG highway.<P>||||reg||1
+Z||000007||Fformula88||06-18-2000||04:29 PM||||I usually get around 21 MPG in mostly city driving with some short highway trips.||||reg||1
+Z||000008||gkozlov||06-18-2000||06:32 PM||||Thanks to everyone that responded. I guess my SE is pretty average as far as fuel consumption.||||reg||1
+Z||000009||mshill||06-18-2000||11:04 PM||||I just checked mine yesterday and I get 17 MPG around town but I have a +1 cam so 21 around town sounds pretty good to me.<BR>||||reg||1
+Z||000010||bHooper||06-19-2000||06:49 AM||||i have allways averaged between 16-18 in the city, although mon my most recent fuelstop, i averaged 20 mpg!  i am very happy wiht that.||||reg||1

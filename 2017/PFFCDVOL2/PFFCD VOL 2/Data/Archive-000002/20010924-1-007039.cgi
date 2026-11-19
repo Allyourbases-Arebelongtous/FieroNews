@@ -1,0 +1,7 @@
+A||||5||Uaana||Rod's a knockin!||||8||
+Z||000000||Uaana||04-23-2001||10:55 PM||||Anyone know of anyone in the Twin Cities that does rebuilds cheap?||||reg||8
+Z||000001||Uaana||04-24-2001||12:03 PM||||Bump.<BR>Anyone???||||reg||1
+Z||000002||KEV||04-24-2001||01:15 PM||||which engine the 2.5 4 cyl. or the 2.8v6, for the cost of a rebuilt from GM would by far be cheaper and comes with a better warrenty and I looked into local shops and they wanted around $1700 to $2500 to rebuild a 2.8 so i went with a re-man from GM, it only cost me $1200+core of $250 and it came with a 3yr/36,000 mile warrenty with or club discount at the local Pontiac dealer. later kev||||reg||1
+Z||000003||Uaana||04-24-2001||01:58 PM||||Thanks Kev<BR>I'll be replacing the 2.8 And it looks like I might try and get an engine from Dave in WI. He has a low milage 2.8 for 800. Now I just need someone who wants less than 1200 to swap the engines.<BR>Do you know if elfiero is avail? Hmm wonder what the cost diff is to upgrade to a 3.4||||reg||1
+Z||000004||KEV||04-24-2001||04:19 PM||||Me and a friend of mine in the club do swaps at his house, he has all the tools and car lift,we did mine there and i do all my work on my fiero's there. let me know if this may work for you. And by the way Elfiero is not doing engine swaps anymore,personal reasons i geuss?||||reg||1
+Z||000005||Tina||04-24-2001||09:35 PM||||E-Mail me if your interested in having a shop do it. <P>Tina<P>$ figure sounds about right, but got to check<BR>book time first.<BR>Plus whatever else you want done to it.<P>||||reg||1

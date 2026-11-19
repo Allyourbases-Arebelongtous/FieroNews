@@ -1,0 +1,4 @@
+A||||2||JohnnyK||Stinkin brake lines!!||||1||
+Z||000000||JohnnyK||12-15-2000||04:00 PM||||Well, I was driving along minding my own business, when the brake lines blew out.. Seems my car is out of commission for the weekends (left it at school so I could fix it, but the wrong parts came). Might be time to check those 15 year old brake lines everyone!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000001||86_Fastback||12-15-2000||04:27 PM||||I have a set of stainless steel replacements I am going to be putting on soo.  When I bought mine, it was cheaper than replacement rubber ones.  I bought mine from the Fiero Store if I remember right.  Good luck.<P>Gregg<BR>86 Fiero GT<BR>98 Pontiac TA||||reg||1
+Z||000002||bHooper||12-15-2000||04:31 PM||||Santa is bringing me a set of stainless for xmas!<P>------------------<BR>hoop<BR>Red '86 GT<BR>KYB's, Eibach's,<BR>Poly Bushings||||reg||1

@@ -1,0 +1,5 @@
+A||||3||ssalyers||Factory Subwoofer Question||||5||
+Z||000000||ssalyers||10-07-2001||08:18 PM||||I bought a factory subwoofer setup from Ebay and I am expecting delivery this week.  What is the easiest way to install this thing?  It is supposed to be COMPLETE with all wiring, amp etc...<P>--Shawn||||reg||5
+Z||000001||FieroJoe||10-07-2001||08:26 PM||||Do you still have a factory radio or do you have an aftermarket one?||||reg||1
+Z||000002||Phil||10-07-2001||08:46 PM||||Be prepared for the original factory speaker to be blown out. I installed one with my aftermarket radio and all I had to "change" was to put switched power to the double pink wire running to the amp.||||reg||1
+Z||000003||FieroJoe||10-07-2001||09:00 PM||||I just put the double pink on a relay with the stereo for switched battery power, and spliced in each channel for the amp with each speaker output off of my head unit.  I have rodney's new subwoofer and it sounds great.<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/joesig_1.jpg"> <BR>'87 Coupe 5spd.<BR>AIM:FieroJoe87||||reg||1

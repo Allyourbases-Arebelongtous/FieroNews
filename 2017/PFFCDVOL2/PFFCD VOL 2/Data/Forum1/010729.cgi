@@ -1,0 +1,12 @@
+A||||10||onfire||My new wheels.||||1||
+Z||000000||onfire||10-04-2001||02:44 PM|||| <IMG SRC="http://www.fiero.nl/uploads/bigwheels17.jpg"> <P>I was planning on painting my car all black, sometime next year. But after seeing these wheels on it, I think I will keep the silver ground effects. What do you think?<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/onfiresigtoo.jpg"> ||||reg||1
+Z||000001||DXR_DAD||10-04-2001||02:59 PM||||I was thinking of painting my ground FX gray!! So here, the all Black!!!!!<P>Maybe I can help you!!!! You just helped me <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P> <IMG SRC="http://albums.photopoint.com/j/View?u=99075&a=723595&p=54081460&Sequence=0&res=high"> <P><BR>DXR_DAD||||reg||10
+Z||000002||onfire||10-04-2001||03:09 PM||||Wow thanks. I was messing with photoshop to see my car lowered.<BR> <IMG SRC="http://www.fiero.nl/uploads/loweredonfire.jpg"> ||||reg||1
+Z||000003||1FST2M6||10-04-2001||03:58 PM||||leave the silver!!! that looks killer! ||||reg||1
+Z||000004||Master_Sushi||10-04-2001||05:25 PM||||I like the silver gorund FX also. I think you should keep them. Just lower the car a bit and it will look great!||||reg||14
+Z||000005||gargoyle||10-04-2001||05:32 PM|||| <IMG SRC="http://www.fiero.nl/forum/cool.gif"> NICE wheels!!  <IMG SRC="http://www.fiero.nl/forum/cool.gif">  I vote to keep the silver. The color contrast looks really good. I have a silver GT and I am planning on doing the effects in blue.||||reg||14
+Z||000006||Tabs||10-04-2001||05:55 PM||||Nice wheels could you tell me what's the name of those wheels plus what size are they?<P>I was think of getting the same ones but only in 17 inch.||||reg||1
+Z||000007||Sleeper||10-04-2001||07:35 PM||||nice wheels...i don't know man, both color concepts look preety sweet. do what you wanna do.||||reg||1
+Z||000008||onfire||10-05-2001||03:06 AM||||  <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Tabs:<BR><B>Nice wheels could you tell me what's the name of those wheels plus what size are they?<P>I was think of getting the same ones but only in 17 inch.</B><HR></BLOCKQUOTE><P>American Racing Pinzetti's 17x7 with 215 40's on them.<p>[This message has been edited by onfire (edited 10-05-2001).]||||reg||1
+Z||000009||btoth||10-05-2001||12:29 PM||||I just love the looks of black notchbacks with the grey ground effects.   (My $0.02.)||||reg||1
+Z||000010||AL||10-05-2001||10:41 PM||||looks good, but dad's also looks good,i think all black looks better.||||reg||1

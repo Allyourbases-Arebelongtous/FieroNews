@@ -1,0 +1,2 @@
+A||||0||Black88GT||The Return....||||1||
+Z||000000||Black88GT||11-21-2001||10:23 PM||||Hey everyone, can't talk long, just wanted to say whats up since I havent been around for a while.  I am done BMT now (finally!) and currently at Sheppard AFB in N. Texas (i.e. cold) for Tech school.  <P>Anyone want to email me, its srairmanjeff@yahoo.com.  I have to use my cell phone and laptop for the internet since the 40 yr. old dorms don't have any type of communication line.<P>LATER,<BR>Jeff||||reg||1

@@ -1,0 +1,2 @@
+A||||0||sinoloa||the judge...||||1||
+Z||000000||sinoloa||01-17-2000||06:59 PM||||Today on Judge Joe Brown a Fiero Owner was suing someone for a video game or something.  He got kicked out of his house.  I wasn't paying attention, but when he said "Fiero" I looked up with interest.  He was using his Fiero as an excuse why he couldn't take his things with him.  He said, "It was a Pontiac Fiero. You know, with no back seat." ||||reg||1

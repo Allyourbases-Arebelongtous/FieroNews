@@ -1,0 +1,2 @@
+A||||0||Speedo||Transmission Selectors
+Z||000000||Speedo||05-07-99||07:56 AM||||I've installed a 3.8 Supercharged V6 in my 86 GT.  I need to modify the transmission selector from the stock 3 speed auto to operate the new 4 speed auto.  The selector for the stock 4 speed auto has all of the controls coming out the front of the shifter.  With the engine in the back this won't work.  Any suggestions?  

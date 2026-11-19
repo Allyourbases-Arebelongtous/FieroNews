@@ -1,0 +1,3 @@
+A||||1||Linc1Tampa||Code 44 Help!!!||||1||
+Z||000000||Linc1Tampa||11-08-2001||03:53 PM||||87 4cyl 5-sp<BR>Last week I receive a code 44.   Since then I have been unable to drive my car.  The idle is very erratic and the car dies as soon as I start letting the clutch out.  I searched the net and the archives.  Today I replaced the O2 sensor, Intake Air Temp sensor, and the MAP sensor.  I am still having the same problem.   What should I try next???||||reg||1
+Z||000001||Indiana_resto_guy||11-08-2001||04:12 PM||||Check all around for a vacuum leak. Also check out the EGR valve for proper function. (most likely cause)||||reg||1

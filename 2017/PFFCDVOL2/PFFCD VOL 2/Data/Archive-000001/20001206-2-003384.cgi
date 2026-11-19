@@ -1,0 +1,2 @@
+A||||0||JohnnyK||Oil pan removal||||1||
+Z||000000||JohnnyK||04-26-2000||11:39 AM||||I know there have been a few questions asked on this subject, but what exactly do I have to undo to raise the engine a couple of inches... I undid two 15mm bolts that went through a crossmember on the bottom of the engine, and I read that you have to undo the strut.. (Is that what you guys are referring to as the dogbone.. It is in the upper right corner of the 4cyl engine, right on top?) Anything else? Also, I can just jack it with a floor jack for my purpose right? Thanks<BR>||||reg||1

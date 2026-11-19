@@ -1,0 +1,4 @@
+A||||2||underdog||can we bolt on any grand prix rims?||||5||
+Z||000000||underdog||05-20-2001||05:42 PM||||can we bolt on grand prix rims or any other pontiac that has nice factory rims? like a trans am or sunfire but especially grand prix gtps and stuff?||||reg||5
+Z||000001||Raydar||05-20-2001||06:04 PM||||Nope. Grand Prix uses 5x115 (I think) wheel pattern. Fiero uses 5x100. Earlier Grand Ams and Cavaliers, and Sunfire I think, use the same bolt pattern as us. Lots of other cars, too. This was covered on earlier threads, but I wouldn't know what to tell you to search for. Maybe somebody else?<P>------------------<BR>Raydar - aka Steve<P>88 black Formula<BR>88 Duke coupe <BR>88 "wadded up" Formula (parts car)||||reg||1
+Z||000002||85Josh||05-20-2001||06:46 PM|||| <A HREF="http://www.fiero.nl/forum/Forum2/HTML/004113.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/004113.html</A> <P>I saved the thread!<P>------------------<BR>85 2M4(Lil' Bit)||||reg||1

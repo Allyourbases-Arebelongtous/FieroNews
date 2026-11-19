@@ -1,0 +1,3 @@
+A||N||1||polomeno||Leak in Clutch line.. possible to patch?? please help||||1||
+Z||000000||polomeno||11-04-2000||05:18 PM||||hey guys.. i've got a pinhole in the metal part of my clutch line.. at the very beggining.. is it possible to patch this or does the whole metal line need to be replaced??<BR>thanks<P>John||||reg||1
+Z||000001||Indiana_resto_guy||11-04-2000||05:56 PM||||At the beginning? In the trunk?<BR>You can cut out the bad part if you wish and use brass compression fittings to splice in a new section if you like. Check the over-all condition though, You might want to replace the whole thing.||||reg||1

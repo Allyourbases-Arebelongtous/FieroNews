@@ -1,0 +1,4 @@
+A||||2||hutch84fierose||NEED HELP ASAP||||1||
+Z||000000||hutch84fierose||09-08-2001||09:24 PM||||Im sorry this really has nothing to do with fieros but everyone loves driving fast. I have the game IHRA Nothin' but attitude I was wondering who has it and how fast they can go in this game and help me make this game alot more fun. So if you can help me out thank you<BR>||||reg||1
+Z||000001||LZeitgeist||09-08-2001||10:07 PM||||I'd like to help, but I'm not familiar with that game... <P>Didn't want you to think you were being completely ignored...<P>------------------<BR>Patrick W. Heinske  --  LZeitgeist@aol.com<BR>1988 Red Fiero Formula<BR>- 1st Place - 'Stock Coupe' - FOCOSEVA 2000<BR>- 3rd Place - 'Stock Formula' - FOCOA Nat'l 2001<BR>- Class Winner - '1982 to Present' - 2001 Tarheel Tigers All-Pontiac Show||||reg||1
+Z||000002||billfredmike24||09-08-2001||11:05 PM||||deserves to be ignored, eh Hutch, take it you no longer want the parts.||||reg||13

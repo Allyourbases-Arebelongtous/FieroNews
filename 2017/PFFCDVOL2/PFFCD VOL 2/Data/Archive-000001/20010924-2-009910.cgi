@@ -1,0 +1,3 @@
+A||||1||Butter||Air Conditioner Hoses for V8 Connections||||5||
+Z||000000||Butter||04-24-2001||04:41 PM||||Anyone know where I can get the AC lines to connect the air compressor to the bulkhead lines for a V8 configuration?||||reg||5
+Z||000001||pherder||04-24-2001||05:22 PM||||I went to a automotive A/C supply house with my two connections and a measurement of how long to make it and $101 later, I had a new hose with my ends on it.<P>Mine was a Quad 4 to Fiero bulkhead hose which was shorter than stock, if I remember correctly.  Also had a high pressure sensor port welded on that the Quad 4 wiring harness had to have.<P>Paul||||reg||1

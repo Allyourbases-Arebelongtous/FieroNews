@@ -1,0 +1,4 @@
+A||||2||Double07||Idle||||1||
+Z||000000||Double07||10-16-2000||04:25 PM||||My 1986 Fiero, v6, 4 speed wont stay idling. It started last night when i got to a red light, the engine shut off. Its fine if i give it some gas, but as soon as i leave off the gas pedal, it shuts off.||||reg||1
+Z||000001||1FST2M6||10-16-2000||04:29 PM||||the map sensor still plugged in.. the clips may have broken off.. or you may need a new cat! is it slow even when your trying to baby it home? smell kinda odd? <P>------------------<BR>Shhh.. Top Secret! <BR> <IMG SRC="http://www.fiero.nl/uploads/1fstcheeto_2.jpg"> ||||reg||1
+Z||000002||AL||10-16-2000||08:00 PM||||i would look at the injectors,get them checked out,also the aic valve.<B>AL</B> <IMG SRC="http://www.fiero.nl/uploads/AL_sig.gif"> <P>------------------<BR> ||||reg||1

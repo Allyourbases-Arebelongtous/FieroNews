@@ -1,0 +1,3 @@
+A||N||1||Haze_Performance||I need tire size help ASAP!!! (Please) ||||4||
+Z||000000||Haze_Performance||11-07-2001||04:19 PM||||PLEASE!!! see:<BR> <A HREF="http://www.fiero.nl/forum/Forum1/HTML/011647.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/011647.html</A> <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/rightsig.gif">  <BR><FONT SIZE="1"><FONT COLOR="red">Goto Website - <A HREF="http://www.ClassicFiero.com" TARGET=_blank>Click Here</A> </FONT></FONT>||||reg||4
+Z||000001||samoht||11-07-2001||09:42 PM||||No problem.. My GFs 16in, 39mm 205/55/16 fit great ...  205/50 will read your speedo high<P>85gt3.2||||reg||1

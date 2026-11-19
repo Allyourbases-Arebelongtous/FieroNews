@@ -1,0 +1,5 @@
+A||||3||drednot||probably normal, but not quite sure......PLEASE HELP!||||11||
+Z||000000||drednot||04-18-2001||08:33 PM||||This may be normal, but I was wondering what this sound is.  when I accelerate hard and get above 3800 RPM's, something makes a whistling sound.  it is quite loud.  I think it is coming from the tranny.  I have an 1985 4 cyl 5 speed.  what could this be?  is this normal?||||reg||11
+Z||000001||MrPBody||04-18-2001||08:45 PM||||I don't know if it's normal, but I have it too.  '85 SE 4-cyl 5-speed.<P>What is normal, anyhow?<BR>||||reg||1
+Z||000002||Mattsfiero||04-18-2001||09:31 PM||||Good question.. I have an 85 4cyl 5 Speed and I have never heard the whistleing noise. Double check your air intake lines and vacum hoses (Or what few there are). Other than that I can't imagine. Is it running okay? or does it lag back when you stomp on it?<P><P>------------------<BR>Matt<BR>85 custom coupe<BR>Mattsfiero@aol.com<BR>www.anglefire.com/ma3/mattsfiero||||reg||3
+Z||000003||Black88GT||04-18-2001||09:34 PM||||Vacuum leak or PCV valve, or a cracked EGR tube.||||reg||1

@@ -1,0 +1,4 @@
+A||||2||85ZainoGT||how hard is this?||||1||
+Z||000000||85ZainoGT||12-20-2001||04:20 PM||||Ok, I got an alarm w/remote start pretty pimp alarm, its got the lcd or led display key chain deal, ya its that one... how hard would it be for me to hook up?<P>------------------<BR>Paul Ventimiglia<BR>1987 GT all the options :)<BR>      <IMG SRC="http://www.fiero.nl/uploads/sigpicNEW3bsmall2.gif"> ||||reg||1
+Z||000001||GTDude||12-20-2001||08:19 PM||||Prob not hard at all if you have the instructions.....I've hooked up a bunch of those and remote starters.  Just follow the instructions.<P>------------------<BR>GTDude's 86GT||||reg||1
+Z||000002||Joe Torma||12-20-2001||09:15 PM||||Its not too bad, but I like installing alarms.  <IMG SRC="http://www.fiero.nl/forum/smiley_drunk.gif">  I have a LCD pager system too.||||reg||1

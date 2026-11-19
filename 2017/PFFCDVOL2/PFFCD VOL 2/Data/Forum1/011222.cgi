@@ -1,0 +1,2 @@
+A||N||0||NOS3800||Looking for Normally Aspirated 3800 owners!||||1||
+Z||000000||NOS3800||10-22-2001||09:39 PM||||Anyone out there with a normally aspirated 3800 in their Fiero? Preferably someone with a Series II mated to the auto tranny, I have a few questions.<P>------------------<BR>Purple 1988 GT<BR>NOS injected 3800 Series II V6<BR> <IMG SRC="http://www.fiero.nl/uploads/Sig_Pic,_nos3800_3.jpg"> <BR>Best ET(75 shot)-13.21@102.13 mph<BR>w/o NOS 14.86@92.06mph||||reg||1

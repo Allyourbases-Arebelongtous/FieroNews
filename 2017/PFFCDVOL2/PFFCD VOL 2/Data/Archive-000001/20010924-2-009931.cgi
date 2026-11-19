@@ -1,0 +1,6 @@
+A||N||4||DreXteR||Forged Pistons??? ||||1||
+Z||000000||DreXteR||04-25-2001||12:57 AM||||Where I can buy a set of forged pistons with the 8.5 compression?? <BR>Cheap!!!<P>BTW, there is a air plenum swap that can increase the iar flow??  Just curious.<P><BR>DreX||||reg||1
+Z||000001||Mr.Frosty||04-25-2001||01:19 PM||||Was wondering the same thing.Does anyone know a good place to find forged pistons for that compression ratio?<P>------------------<BR>88 Formula T-top-ForSale <BR>85 GT Turbo-project car<p>[This message has been edited by Mr.Frosty (edited 04-25-2001).]||||reg||5
+Z||000002||Mr.Frosty||04-25-2001||04:02 PM||||Again !<P>------------------<BR>88 Formula T-top-ForSale <BR>85 GT Turbo-project car||||reg||1
+Z||000003||Dave Gunsul||04-25-2001||08:21 PM||||PAW sells TRW forged pistons in the stock<BR>8.5:1 comp. ratio. <A HREF="http://www.pawengineparts.com" TARGET=_blank>www.pawengineparts.com</A> <BR>Price is: $337.00 for pistons and pins.<BR>They have whole rebuild kits too.<BR>You can also have a machine shop get these pistons too.<P>------------------<BR>Dave Gunsul<BR>N.I.F.E. member<BR>86 GT modified<BR>85 SE daily driver||||reg||1
+Z||000004||DreXteR||04-26-2001||03:30 PM||||Thanx Dave.<P>I saw somewhere a camaro air pelnum modified to use a LT1 tb.  Someone has the link??<P>Just have an idea that maybe could work.<P>Thanx<P><BR>DreX||||reg||1

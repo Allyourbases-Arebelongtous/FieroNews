@@ -1,0 +1,4 @@
+A||||2||bf4cm28||84 4sp into an 86 5sp||||1||
+Z||000000||bf4cm28||07-21-2001||09:53 PM||||I am posting for a friend so I don't know if we are talking isuzu or gertrag but will||||reg||1
+Z||000001||bf4cm28||07-21-2001||09:55 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by bf4cm28:<BR><B>I am posting for a friend so I don't know if we are talking isuzu or gertrag but will</B><HR></BLOCKQUOTE><P>sorry must have hid the submit button before completing.<BR>But anyway will he be able to swap these or is it more trouble than it is worth?||||reg||1
+Z||000002||Monkeyman||07-21-2001||10:48 PM||||If you're planning on swapping in the 4.10 ratio tranny, I'd say it would be a good swap for mostly in town driving.  Doug Kinney (007Doug/Fiero Warehouse) did this swap a few months ago.<P>------------------<BR>'Consciousness:  That annoying time between naps.'<P>MM||||reg||1

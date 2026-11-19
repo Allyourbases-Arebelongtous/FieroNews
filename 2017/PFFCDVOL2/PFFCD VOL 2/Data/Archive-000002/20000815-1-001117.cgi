@@ -1,0 +1,6 @@
+A||||4||DISenchanted||88gt!!!!!!||||1||
+Z||000000||DISenchanted||01-30-2000||01:31 AM||||I got it.  Finally.  After 3 fiero's I deserve an 88gt!!!!!  It needs some work, but that's why you all are here.  For help!  First thing tomorrow I'll be starting nice and early.  I'll be asking for help as I get confused.  Expect to hear from me.  Wow, the 88's are different...<P>DISenchanted||||reg||1
+Z||000001||AL||01-30-2000||04:28 AM||||welcome to the gt famiy dis.||||reg||1
+Z||000002||Monkeyman||01-30-2000||06:17 AM||||Apparently you don't remember Rule # 8A.  It states that you must submit pics of your "new" car before we are allowed to help you.  Since I'd hate for there to be any delays in your help, post the pics ASAP.||||reg||1
+Z||000003||pherder||01-30-2000||02:19 PM||||Okay Monkeyman ... here's mine new 88 GT!<P> <IMG SRC="http://albums.photopoint.com/j/View?u=208525&a=1537450&p=15565514&Sequence=0"> <P>See all my Fiero projects (and one drag car project that I help sponsor) at:<P> <A HREF="http://albums.photopoint.com/j/AlbumList?u=208525" TARGET=_blank>http://albums.photopoint.com/j/AlbumList?u=208525</A> <P>Paul||||reg||10
+Z||000004||Monkeyman||01-30-2000||02:30 PM||||Glad to see you're following the rules.  Now we're allowed to help you.  BTW--nice car!||||reg||1

@@ -1,0 +1,5 @@
+A||||3||GT Bastard||Total weight of all a/c components...||||13||
+Z||000000||GT Bastard||04-27-2000||02:04 PM||||Anybody know what the total weight of ALL the a/c components is?  I'm debating whether or not to ditch it to save weight.||||reg||13
+Z||000001||1FST2M6||04-27-2000||02:22 PM||||68.7 lbs. including the condensor, bracket and a/c lines... I have the weight for EVERYTHING i took off written down... socks.. shoes..||||reg||1
+Z||000002||triker||04-27-2000||04:28 PM||||I tore out all the ac equip when I built my trike and tho I didn't weigh every thing I was surprised at how light most of it was, so the 68.7 in the last post sounds about right.  The compressor weighs half as much they used to.  If you're looking to reduce weight for racing you can drop that much just by throwing out the spare and keeping your fuel below half a tank and still be able to cool off on those rare days when you need air in S.D.  ||||reg||1
+Z||000003||GT Bastard||04-27-2000||06:17 PM||||Spare, jack, and impact bumper have already been removed.   <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

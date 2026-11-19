@@ -1,0 +1,6 @@
+A||||4||Dan||Heater Hoses||||1||
+Z||000000||Dan||03-08-2000||06:03 AM|||| What is everyone using for heater hoses on the front? Are these preformed hoses and where can I get them?||||reg||1
+Z||000001||Mark||03-08-2000||09:14 PM||||I searched high and low for replacement moulded heater hoses for my '86 with A/C, but couldn't find them.  I tried conventional (bulk) heater hose, but found that they were prone to kinking at the coolant pipe connections under the chassis(sharp, 90-degree bends are required here).  What I finally used was two "universal replacement" type heater hoses, several feet long and in the proper diameter, with a moulded 90-degree bend on one end.  I found these at Pep-Boys (sorry, but I can't remember the part numbers).  Cost was about $8.00 each. ||||reg||1
+Z||000002||wwh0001||03-09-2000||01:40 PM||||The Fiero Store has the preformed heater hoses for the front.||||reg||1
+Z||000003||Mark||03-09-2000||11:04 PM||||Be careful, the heater hoses for cars with and without A/C are different.  NAPA had the hoses for non-A/C cars only.  Fiero Store doesn't say in their on-line catalog.  Better ask to be sure!||||reg||1
+Z||000004||Dan||03-09-2000||11:22 PM|||| Thanks Mark. Good to fianally find out.Appriciate the info.||||reg||1

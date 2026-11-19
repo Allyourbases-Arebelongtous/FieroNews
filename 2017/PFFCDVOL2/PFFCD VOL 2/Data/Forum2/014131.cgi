@@ -1,0 +1,5 @@
+A||||3||Alex4mula||Are 88 & 84-87 rear struts the same?||||1||
+Z||000000||Alex4mula||10-03-2001||02:43 PM||||I called Tire Rack (good prices) and they said KYB don't make anymore the rear 88 struts. They only have the PN for the 84-87. If different, anyone knows wher to get them cheaper than the Fiero Store? This is for a 88 Formula. Thanks. ||||reg||1
+Z||000001||88formula||10-03-2001||04:09 PM||||I got my KYB struts from the fiero store and they work fine.<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/88formula_logo_1.JPG"> ||||reg||1
+Z||000002||Alex4mula||10-03-2001||04:32 PM||||I was on a rush but did the search and found my answer. Fiero Store have them for $65 and Tire Rack for $52. The fronts are worst. Fiero Store charge $40 and TR only $16!||||reg||1
+Z||000003||Wannabe||10-03-2001||05:59 PM||||For the '88 fronts, you can also use shocks for the 84-88 Buick GN. These require a very small amount of grinding or filing on the opening in the lower control arm, just to get the shock body to pass through, but otherwise they fit perfectly and work great. They are also usually cheaper and always easier to obtain. ||||reg||1

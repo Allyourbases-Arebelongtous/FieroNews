@@ -1,0 +1,3 @@
+A||||1||Cozmo||MOA?||||10||
+Z||000000||Cozmo||08-01-2001||03:30 PM||||Maybe we should start a midship owners association...<BR>Ya know,<BR>Fieros<BR>X/1-9s<BR>MR-2s<BR>914s<BR>Lotuses (Lotii? <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">)<BR>etc (there's lots more...)<BR>Imagine the "discussions" that would ensue... <IMG SRC="http://www.fiero.nl/forum/eek.gif"><BR><B>C02M0</B><BR> ||||reg||10
+Z||000001||Songman||08-01-2001||07:17 PM||||That's really not a bad idea...<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||14

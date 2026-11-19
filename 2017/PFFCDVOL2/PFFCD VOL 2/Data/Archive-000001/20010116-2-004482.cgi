@@ -1,0 +1,2 @@
+A||||0||86SE||Stalled while accelerating.....||||1||
+Z||000000||86SE||06-27-2000||03:12 PM||||For a while now my 86 SE v6 hesatates a little when you first start accelerating from a stand still.   Yesterday I guess I gave it a lillte too much gas and it stalled, and it was harded to start back up... I have the stock coil in it, I have a new one, but I figured I'll wait to put it in til the stock one breaks for good this time.<P>||||reg||1

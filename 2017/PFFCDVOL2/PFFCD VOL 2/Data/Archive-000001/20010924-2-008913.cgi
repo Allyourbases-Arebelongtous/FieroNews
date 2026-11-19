@@ -1,0 +1,2 @@
+A||||0||Loki||Need help with door locks||||5||
+Z||000000||Loki||03-13-2001||02:30 PM||||Well, anyone live close to grand forks, ND and wanna have a weekend of "Help Loki put in new door locks"? I cant get the damn retaining clip back in. Might be easier if the outter foor skin was off, but one of the little holding nut things is way stripped and it aint coming off.... I need help bad. Cause you see I have no locks. Please someone help....   <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||5

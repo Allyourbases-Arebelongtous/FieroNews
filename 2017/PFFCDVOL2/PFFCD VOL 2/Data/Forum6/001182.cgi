@@ -1,0 +1,3 @@
+A||||1||zeusrekning||computer destruction. (not hacking)||||1||
+Z||000000||zeusrekning||01-02-2001||05:37 PM|||| <A HREF="http://members.aol.com/spoons1000/break/index.html" TARGET=_blank>http://members.aol.com/spoons1000/break/index.html</A> <BR>Some of the stuff on this site is extremely complicated.So don't try it at home. I might try it myself tonight but i'll need your phone #'s or addresses to let you know how it worked <IMG SRC="http://www.fiero.nl/forum/smile.gif"> <BR>Just kidding ,although tempting at times<BR>||||reg||1
+Z||000001||KRMFiero||01-02-2001||07:54 PM||||Wow, I never tryed to get into a box that way, i'll have to try it<BR>heheh||||reg||1

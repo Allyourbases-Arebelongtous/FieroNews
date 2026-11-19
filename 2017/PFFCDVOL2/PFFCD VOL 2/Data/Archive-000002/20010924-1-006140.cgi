@@ -1,0 +1,2 @@
+A||||0||FieroLisa||exhaust tip sizes||||1||
+Z||000000||FieroLisa||03-10-2001||09:22 AM||||I want to get some exhaust tips for my GT, is there a specific size of the tailpipe that I need to match up with and if so, what is it?<BR>Thanks!<P><P>------------------<BR>Lisa<BR>86 gold 4 speed GT<BR>AOL IM: FieroLisa<P><A HREF="http://www.geocities.com/fierolisa/" TARGET=_blank>FieroLisa's Website</A><P><A HREF="http://www.geocities.com/ncfieros/" TARGET=_blank>Tarheels Fieros Website</A>||||reg||1

@@ -1,0 +1,4 @@
+A||N||2||HotFieroGT||Oil pump mounting||||11||
+Z||000000||HotFieroGT||01-09-2001||08:01 PM||||Does anyone know if there is a gasket where the oil pump mounts to the block or are rebuilders just using RTV?  I noticed that I do not have a gasket for it in my felpro gasket set.||||reg||11
+Z||000001||bubbajoexx||01-09-2001||08:40 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by HotFieroGT:<BR><B>Does anyone know if there is a gasket where the oil pump mounts to the block or are rebuilders just using RTV?  I noticed that I do not have a gasket for it in my felpro gasket set.</B><HR></BLOCKQUOTE><P>yes there is pick it up at your dealer||||reg||1
+Z||000002||HotFieroGT||01-11-2001||01:34 AM||||Thanks,<P>I just talked to the local dealer and ordered one.  When it comes to good oil pressure I get really cautious about the exact parts.||||reg||1

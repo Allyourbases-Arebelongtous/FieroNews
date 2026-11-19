@@ -1,0 +1,5 @@
+A||||3||BOSTITCH||which isuzu tranny is it?
+Z||000000||BOSTITCH||08-24-99||01:35 PM||||Pretty much self titled question which isuzu tranny fits the 2.8? (Must be a five speed.) Ive been told that the rodeo v6 will fit but any info would be nice. thanx.<br>
+Z||000001||PaUL||08-24-99||05:52 PM||||Im certain that the trans from the Rodeo will NOT fit the transverse mounted 2.8. The Rodeo is front engined and rear drive with a longitudal mount drivetrain. The Isuzu trans you can use are found in Fieros and other FWD GM cars. Just to clarify things, GM has a controlling interest in Isuzu, they own more than %50 of the stock. Thats why youll find some Isuzu built parts in GM cars and vis versa. The Trooper had the 2.8 as an option.  
+Z||000002||BOSTITCH||08-24-99||08:16 PM||||Do you know which GM cars will fit? Because I looking to buy a trans soon.
+Z||000003||DJRice||08-25-99||07:11 AM||||Go to the general chat forum, and look at a thread called "Help finding parts" I believe.  It was started by JimiZ.  He apparently has connections at a Junkyard and can cross ref it for you.<p>Of course, someone else here may know right off hand, and thats fine too.

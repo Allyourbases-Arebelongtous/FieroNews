@@ -1,0 +1,4 @@
+A||N||2||Will||Drilled rivets, removed screws, what else holds side skirt on?||||1||
+Z||000000||Will||12-21-2001||11:53 AM||||I removed the 7 rivets on the lower edge, the three on the upper side of the sill, and the one screw in each end, but they're still stuck. How do I get the side skirts off my 87GT (without breaking them)?||||reg||1
+Z||000001||mshill||12-21-2001||12:12 PM||||There are two more rivets in the front and two more in the back that are inside the fender wells.||||reg||1
+Z||000002||Will||12-21-2001||06:53 PM||||You must be thinking of something else, becasue there aren't.<P>I figured it out. There are clips which hold the side skirts to the side cladding and have to be pried open with a screw driver.<P>The phrase "remove rocker cover" in the shop manual doesn't begin to cover it.  <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif">||||reg||1

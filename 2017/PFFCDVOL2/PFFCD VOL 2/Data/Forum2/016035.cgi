@@ -1,0 +1,5 @@
+A||||3||kneebarx||Sagging Front Fascia||||1||
+Z||000000||kneebarx||12-04-2001||10:55 AM||||The reinforcement bar is saggin under my front fascia(similar to triad) giving it kind of a melted appearance.  Can I just replace the bar with any steel bar and it'll bend back into place?  Or should I just get an entire new fascia?<BR>The one I have is in good condition, only it sags in the middle.||||reg||1
+Z||000001||kneebarx||12-04-2001||02:21 PM||||The front fascia is an 87 GT||||reg||1
+Z||000002||delSol97||12-04-2001||02:41 PM||||A Wonderbra may be in order ...<BR>||||reg||1
+Z||000003||PAUL88GT||12-04-2001||06:16 PM||||It could be that the 4 retaining pins in the honeycomb substructure are broken which lets the front facia sag.  This was the problem with the 86SE I am restoring. Remove the facia and if the honeycomb falls, thats the problem.  You may also be able to push on the honeycomb from underneath and feel if it moves a little.  You can get new pins from the dealer.  Just my 2 cents.||||reg||1

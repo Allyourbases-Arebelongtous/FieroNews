@@ -1,0 +1,7 @@
+A||N||5||count_iblis||different engine in fiero||||1||
+Z||000000||count_iblis||11-10-2000||03:30 PM||||What would be the next best engine (cheap now guys) that will fit in the Fiero without hardly doing major modifications?  dont need an expensive engine guys remember.  <P>------------------<BR>COUNTIBLIS <BR>"HUG YOUR KIDS SPANK THE SOUND BARRIER"||||reg||1
+Z||000001||TheFiero64||11-10-2000||03:35 PM||||3.1 or 3.4 60v6<P>------------------<BR>88 Coupe V6<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif"> ||||reg||3
+Z||000002||88formula||11-10-2000||05:20 PM||||3.1-3.4 liter engine from a Camaro. With the stock 3.4 your fiero will go to 60 mph in 6.2 seconds with the five speed manual transmission. The stock fiero gets there in 8 seconds.||||reg||1
+Z||000003||count_iblis||11-10-2000||06:09 PM||||how about a auto fiero gt ?  how fast will a 3.1 go in 0-60?<P>------------------<BR>COUNTIBLIS <BR>"HUG YOUR KIDS SPANK THE SOUND BARRIER"||||reg||1
+Z||000004||1FieroGTRacingInc||11-11-2000||08:17 AM||||wow....  I used to live there in E-town....   I went to East Hardin High school....  got toooo cold for me so I moved back to Texas   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000005||count_iblis||11-11-2000||08:32 AM||||cool whats your name?  when did you graduate?<P>------------------<BR>COUNTIBLIS <BR>"HUG YOUR KIDS SPANK THE SOUND BARRIER"||||reg||1

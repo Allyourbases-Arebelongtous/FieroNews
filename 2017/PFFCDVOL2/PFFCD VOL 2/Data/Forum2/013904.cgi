@@ -1,0 +1,6 @@
+A||||4||GTMike||1.6 rockers?||||1||
+Z||000000||GTMike||09-24-2001||08:27 PM||||i'm thinking of putting these on my fiero. i wanted to know what involved in doing it.  do you need to ajust the valves after?  do i just get the arms or do i need other stuff to do a complete job.   <P>any one have an idea of hp gains with the 1.6:1 rockers?<BR>||||reg||1
+Z||000001||GTMike||09-25-2001||08:24 PM||||any one????||||reg||1
+Z||000002||88formula||09-25-2001||09:46 PM||||You could just get plain 1.6 ratio rocker arms and bolt them on and then adjust the lifter preload. Use a dial indicator the get .030" lifter preload, usually about a half a turn on the nut.<P>You'll probably get about 5-8 peak horsepower out of them.<BR><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/88formula_logo_1.JPG"> ||||reg||1
+Z||000003||88formula||09-25-2001||09:49 PM|||| <A HREF="http://www.cranecams.com/" TARGET=_blank>http://www.cranecams.com/</A> ||||reg||1
+Z||000004||GTMike||09-25-2001||11:21 PM||||thanks for the info looks like i can get them at checker. but i couldn't find them for the 2.8  i'm sure its there somewhere.  can only one point me in the right direction on their site so i can get a part number.<BR>thanks||||reg||1

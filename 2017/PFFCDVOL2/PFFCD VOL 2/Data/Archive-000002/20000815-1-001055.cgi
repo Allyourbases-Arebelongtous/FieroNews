@@ -1,0 +1,5 @@
+A||N||3||Roy||Custom Graphics On The Fiero||||1||
+Z||000000||Roy||01-22-2000||09:32 PM||||Does anyone know of any shops in the northwest, that will do custom graphics. I have some sketchs I've drawn out of a custom hood graphic. I was wondering what kind of shop would do this kind of stuff? Would I most likely be better looking at small shops? Or the chains?<P>Thanks In Advance,<P>Roy||||reg||1
+Z||000001||Phaeton||01-23-2000||02:31 AM||||I spoke to our graphics shop striper and she says all she needs is a photo of the vehicle and she can start turning out designs until I say "that one" and she hits a button and the decal comes out ready to stick on (which is best done by somebody who has done it before).  Call local graphics shops, they all use pretty much the same decals, its the quality of application that keeps them on the car.||||reg||1
+Z||000002||Roy||01-23-2000||02:38 AM||||Thanks!!! Ill open up the phonebook tommroww and start looking. <P>Roy||||reg||1
+Z||000003||Monkeyman||01-23-2000||03:39 AM||||Let me know what you want with some measurements and I can do some for you in vinyl.||||reg||1

@@ -1,0 +1,3 @@
+A||N||1||TRL46202||Firewall question........||||1||
+Z||000000||TRL46202||09-11-2001||09:51 AM||||Has anyone ever taken off the "firewall side" insulation? I took mine off because it was all torn up and looked bad. Do I need to worry about high temps or just noise coming thru to the cabin? I did buy some new termo tech insulation from Jegs and was going to put that on, but it would be nice to have a pattern to go by. I did notice however that the old stuff did not cover any hoses, just the firewall itself. Also has anyone ever wraped the fuel lines in anything to keep heat away from them. <BR>Thanks!!!<P>Tom||||reg||1
+Z||000001||Indiana_resto_guy||09-11-2001||11:31 AM||||Tom,<P>See related post for some help and heard reports.<P>IRG||||reg||1

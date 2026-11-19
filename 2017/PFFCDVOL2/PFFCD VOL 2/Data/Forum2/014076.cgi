@@ -1,0 +1,4 @@
+A||||2||lowCG||check this out...||||1||
+Z||000000||lowCG||10-01-2001||04:56 PM|||| <A HREF="http://WWW.mechtech-ms.com" TARGET=_blank>WWW.mechtech-ms.com</A> ||||reg||1
+Z||000001||Andre||10-03-2001||02:14 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by lowCG:<BR><B> <A HREF="http://WWW.mechtech-ms.com" TARGET=_blank>WWW.mechtech-ms.com</A> </B><HR></BLOCKQUOTE><P>Did you N* guys see the 650 HP Twin Turbo on this site - see <A HREF="http://www.mechtech-ms.com/html/nspix_big/pic157.html." TARGET=_blank>http://www.mechtech-ms.com/html/nspix_big/pic157.html.</A>   BEAUTIFUL!<P>||||reg||1
+Z||000002||onfire||10-03-2001||03:40 AM|||| <A HREF="http://www.fiero.nl/forum/Forum1/HTML/010550.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/010550.html</A> ||||reg||1

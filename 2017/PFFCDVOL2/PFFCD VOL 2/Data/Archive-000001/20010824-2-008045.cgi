@@ -1,0 +1,5 @@
+A||||3||WisconsinGT||Cruise Control question||||1||
+Z||000000||WisconsinGT||01-25-2001||03:07 PM||||When I turn on and set my cruise to 55, I notice that when I am not on an even road, I can feel the car accelerating and decelerating. (Sort of like a jurking felling.)  I guess I am wondering if it is normal. If I am on a flat road, all is well. I do not notice it in my other non Fiero cars. Thanks!||||reg||1
+Z||000001||DJRice||01-25-2001||10:01 PM||||Check your vacuum hoses.  If they are the originals, then they are likely old and dry rotted.  <P>------------------<BR>Dillon<BR>Black '87 SE V6<BR>"You mean like the back seat of a Volkswagen?"||||reg||1
+Z||000002||Carrolles||01-26-2001||08:26 AM||||What transmission are you running?  Standard transmissions are more likely to cause this than automatics.<P>Your problem is most likely due to leaking vacuum hoses or vacuum accumulator canister.||||reg||1
+Z||000003||FieroJoe||01-26-2001||08:31 AM||||Also, if you are going up and down hills, the cruise will increase/decrease throttle to keep up the speed you set it at.||||reg||1

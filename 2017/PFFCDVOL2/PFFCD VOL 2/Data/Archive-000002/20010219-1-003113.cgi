@@ -1,0 +1,3 @@
+A||N||1||b lo 0||NEW CAR!!  NEW CAR!!  NEW CAR!!||||1||
+Z||000000||b lo 0||07-31-2000||10:33 AM||||I picked up my '85 GT Saturday!!  I'll be sure to post some before pics soon.  Please check out the Mall section-I'm posting some parts I need.  Thanks.  Oh yeah, I sold my old car 15 minutes after I got home with the Fiero!<P>------------------<BR>'85 GT (in progress)  <BR>titled ICE-plates B LO 0 <BR>  <IMG SRC="http://www.angelfire.com/ga3/audioimagery/ice.gif">  <BR>Go to <A HREF="http://www.audioimagery.i-p.com" TARGET=_blank>www.audioimagery.i-p.com</A>  !!!||||reg||1
+Z||000001||frontal lobe||08-01-2000||12:31 AM||||Congratulations!  You have reason to be excited.||||reg||1

@@ -1,0 +1,3 @@
+A||||1||triker||Oil leaks||||9||
+Z||000000||triker||04-28-2000||01:09 PM||||There've been quite a few threads on both maintainance and distributor probs, but in none of them has anyone mentioned the distributor O-ring.  I know of one (probably unnessasary) engine overhaul and 2 sold vehicles due to unfindable oil leaks (all G.M. 2.8's). I bought the overhaul (sold because it still leaked), in a Chevy S-10 Blazer for next to nothing and fixed with a new O-ring.  So, to make a long story short, anytime you pull the distributor, slip a new O-ring on it.||||reg||9
+Z||000001||Standard||04-29-2000||03:09 AM||||yep!  mine leaks now.. just haven't gotten around to replacing it||||reg||1

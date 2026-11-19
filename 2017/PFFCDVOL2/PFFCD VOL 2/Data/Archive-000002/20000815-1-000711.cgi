@@ -1,0 +1,2 @@
+A||||0||sdm1964||Fiero in Georgia||||1||
+Z||000000||sdm1964||12-08-1999||09:51 PM||||I saw in the paper an 85 coupe, 4 cylinder,4 speed, air, needs a valve job. The head is already off. He said the interior is good. South ga near ft. stewart.  only wants $300.00 <BR>Also saw an add for an yellow 85 in savannah no price, says 85 % restored. Anyone intersted let me know and i will send the phone #||||reg||1

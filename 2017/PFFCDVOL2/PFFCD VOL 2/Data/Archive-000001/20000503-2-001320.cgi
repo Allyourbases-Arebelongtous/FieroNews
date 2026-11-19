@@ -1,0 +1,2 @@
+A||||0||FieroGT||Sagging Wings...||||11||
+Z||000000||FieroGT||11-04-1999||04:53 PM||||I'm noticing that the wing on my GT is suffering from the "sag" that a lot of these spoilers eventually get. I was wondering if anyone knows of a way to correct this defect. A few months ago, there was a wing on eBay and the seller posted a link to his site which described how to correct a sagging wing in a matter of a couple of days! Problem is that the link was a 404. Anyone have any ideas, or have tried anything to correct this with positive results?||||reg||11

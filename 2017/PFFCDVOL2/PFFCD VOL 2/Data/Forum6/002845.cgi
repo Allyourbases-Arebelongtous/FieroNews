@@ -1,0 +1,10 @@
+A||||8||FieroHeather||retired...||||1||
+Z||000000||FieroHeather||08-03-2001||12:07 AM||||I have been relieved of my duties as an official Fiero passenger.<P>Any questions, comments or wanted details, please ICQ me at 286225 or email me.||||reg||1
+Z||000001||Songman||08-03-2001||12:29 AM||||Did you get your own Fiero?!?<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||6
+Z||000002||Slammed Fiero||08-03-2001||12:36 AM||||Justin Finally took out the Passenger seat for more subs ..or to go faster??<P>JM ||||reg||1
+Z||000003||FieroHeather||08-03-2001||12:38 AM||||no, I did not get my OWN fiero.  Nice try though.  I didnt think of that when I posted this topic.  Very clever of you!||||reg||1
+Z||000004||maryjane||08-03-2001||12:51 AM||||Hmmm....Last time I was "retired from the passenger seat" was when Jane & I had a 'slight' disagreement. It was a long walk home. ( I was in the wrong as usual)<BR>Hope yours is under happier circumstances.<BR>Don||||reg||1
+Z||000005||FieroHeather||08-03-2001||01:01 AM||||for my 200th post:<P><BR>I'd like to dedicate it to a special someone.  I'd like to tell that someone that I love them very much despite all of life's uncertainties, and that I will always be around for them, to listen, to laugh with and to help them survive the growing pains.<P><BR>To my darling grinthock, I love you.||||reg||2
+Z||000006||Songman||08-03-2001||02:35 AM||||So sweet.....<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||7
+Z||000007||JSocha||08-03-2001||10:04 AM||||Ahhhhhhhhh.... Isn't dat special!  <IMG SRC="http://www.fiero.nl/forum/wink.gif">  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> ||||reg||7
+Z||000008||87ECO5||08-03-2001||11:05 AM||||I smell a break up ...||||reg||1

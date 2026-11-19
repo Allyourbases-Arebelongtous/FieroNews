@@ -1,0 +1,4 @@
+A||||2||JohnnyK||Sticky shifting||||1||
+Z||000000||JohnnyK||08-12-2000||03:14 AM||||This thing is really hard to shift into first and 2nd when slowing down. I tried adjusting the tranny linkage as best I could (cause no one would help me  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> But that didn't seem to do much. It's an 85 5spd 4cyl, and I heard it could be bent forks or something to that effect? Is that worth fixing, or should I just leave it, and if I do, will it do more harm? Thanks!||||reg||1
+Z||000001||Phil||08-12-2000||06:16 AM||||How does it shift whilst not moving both with engine running and not? ||||reg||1
+Z||000002||EdsB52||08-13-2000||01:13 AM||||Could be one of two obvious things.<P>1) Tranny syncronizers going out.<P>                -or-<P>2) Hydraulic clutch problem, including clutch pedal bending and / or galling between the previous and banjo.||||reg||1

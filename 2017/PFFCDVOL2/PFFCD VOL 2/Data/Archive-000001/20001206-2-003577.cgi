@@ -1,0 +1,8 @@
+A||||6||Scratchy||Fiero comment in SCC||||4||
+Z||000000||Scratchy||05-06-2000||12:15 PM||||There is an article on the MR2 history in the latest SCC mag. with a comment about the Fiero.  They claimed that a Chevy V8 can bolt-on with no mod. to the Fiero since they have the same bell housing, just a little ramming on the Firewall needed...Huhhhh???||||reg||4
+Z||000001||stimpy||05-06-2000||12:37 PM||||V8 Archie is going to be piiisssed! hehe.||||reg||1
+Z||000003||Raydar||05-06-2000||08:20 PM||||Same bellhousing? Ram the firewall?<P>Automotive journalism at its finest.<BR>NOT!||||reg||13
+Z||000004||1FieroGTRacingInc||05-06-2000||08:31 PM|||| <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  Freedom of the American Journoulism.huh??    lololol||||reg||12
+Z||000005||WKDFIRO||05-07-2000||04:52 AM||||It is possible to bolt on a Fiero Tranny to a V8 and just drop the V8 into a Fiero.<P><BR>Oh, you want it to actually run too? <P> <p>[This message has been edited by WKDFIRO (edited 05-08-2000).]||||reg||9
+Z||000006||phillip||05-07-2000||07:02 AM||||sent an e-mail to the mag with correction (nothing spiteful) and request for a fiero build up. tried to appeal to some sence of equal or at least some coverage of domestic cars. i mentioned that a fiero project has got to cost less than buying a new or recent honda then swapping engines. knowing the type of car and engines they feature i suggested a larger v6 swap instead of a v8. can't hurt to put the bug in their ear. ||||reg||1
+Z||000007||pollock||05-08-2000||10:19 AM||||A 502 rat will fit in a Fiero, too......<P>if you get it going fast enough.<BR>||||reg||6

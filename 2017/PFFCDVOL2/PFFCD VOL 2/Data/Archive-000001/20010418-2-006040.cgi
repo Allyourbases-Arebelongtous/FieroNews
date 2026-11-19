@@ -1,0 +1,7 @@
+A||||5||fldevel||whats the diff between the MX6 and M19 trannies||||5||
+Z||000000||fldevel||10-03-2000||06:58 PM|||| sounds like a stupid question but if you made it in here i just wanted to know wich one is better and what the difference is ? also how do i tell them apart ... ??||||reg||5
+Z||000001||TOM||10-04-2000||02:25 AM||||From my list the M19 is a 4 speed muncie only used in 84. I dont know what a MX6 is||||reg||1
+Z||000002||theogre||10-04-2000||09:06 AM||||I couldn't find MX6 in any of the RPO lists. ||||reg||1
+Z||000003||Carrolles||10-04-2000||09:38 AM||||The 22P manual does not list MX6 as any of the standard transmissions for any year Fiero.||||reg||1
+Z||000004||Will||10-04-2000||11:21 AM||||Are you sure you don't have a Mazda?||||reg||12
+Z||000005||StuGood||10-04-2000||01:15 PM||||Think if you see "MX6" (or something like that) on a tag on the transaxle, it could be a later-than-1987 Getrag.<P>Found a tag something like that, on the transaxle of my 1987 GT.  Actually, come to think of it, it might have said "9XNX."  I also might have been reading it upside down as "XNX6," or something or other.  <P>Anyway, I had a frustrating time trying to find the proper dipstick for it, until I realized that, because the previous owner had a new clutch+ transaxle put in, it wouldn't take a 1987 dipstick.<P>Duh. I was the dipstick, in this case.  Picked up a new dipstick for a 1988 Fiero, and it fit like a (non-O.J.) glove.  <BR><p>[This message has been edited by StuGood (edited 10-04-2000).]||||reg||1

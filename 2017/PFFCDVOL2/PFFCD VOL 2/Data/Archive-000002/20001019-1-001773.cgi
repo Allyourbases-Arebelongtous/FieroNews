@@ -1,0 +1,4 @@
+A||||2||MooCow||Twin Lake Fiero's????||||5||
+Z||000000||MooCow||04-09-2000||08:41 PM||||Does anybody know the email address or web page for Twin Lake Fiero's.<BR>Ed Parks just emailed me back and for about $4-5 I could get a new 2.8 with like 4K on it and it would be an 87 GT, or with some extra dough I could switch to a 3.4. (Which I want to do).  Since Ed is far from me I need now to contact Twin Lake Fiero's in IL.<BR>                                Thanks Ken||||reg||5
+Z||000001||stimpy||04-09-2000||09:47 PM||||Four or five bucks?!! At that price I'd buy a truckload!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||Oreif||04-09-2000||11:03 PM||||Twin Lakes does not have a website...Yet. You can contact Bob Steiger at 217-379-9140. <BR>Fax is 217-379-6502.||||reg||1

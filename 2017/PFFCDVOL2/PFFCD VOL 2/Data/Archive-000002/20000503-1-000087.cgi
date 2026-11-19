@@ -1,0 +1,9 @@
+A||||7||theogre||some light reading||||
+Z||000000||theogre||05-22-99||04:15 PM||||Here's a link to the "raw" documents I've written for Fiero so far. NOTE! This is a "hidden" area. It does not appear on the main site index. Don't link to it. It's not a permanent area.<p> <A HREF="http://home.sprynet.com/~theogre/fiero/pfindex.htm" TARGET=_blank>http://home.sprynet.com/~theogre/fiero/pfindex.htm</A> 
+Z||000001||RFMike||05-23-99||04:50 PM||||Excellent.
+Z||000002||Cliff Pennock||05-24-99||03:31 AM||||Yes, very good Ogre! I'll create some space for it on my servers ASAP!
+Z||000003||theogre||09-23-1999||02:07 PM||||In preperation for their migration to Cliff's servers, The Ogre Cave's Fiero tunnel has been updated.<P>You can reach it's temporary gate here:<BR> <A HREF="http://home.sprynet.com/~theogre/fiero/pfindex.htm" TARGET=_blank>http://home.sprynet.com/~theogre/fiero/pfindex.htm</A> <P>All pages have been updated. A number of new pages have been added.||||reg||6
+Z||000004||lowCG||09-23-1999||02:20 PM||||A well done,much needed area.||||reg||14
+Z||000005||DJRice||09-23-1999||05:31 PM||||Good Job, Ogre.  I expect the next time I walk into the auto parts store I will see the <BR>Ogre's Service Manuals right next to the Haynes and Chiltons Manuals!<P> <IMG SRC="http://www.fiero.nl/forum/smile.gif">  Ok Maybe not the next time I go in, but some time.....||||reg||14
+Z||000006||Cliff Pennock||09-23-1999||07:44 PM||||With Ogre's permission, you can also find them here in <A HREF="http://www.fiero.nl/ogre" TARGET=_blank>Ogre's Cave</A>||||reg||1
+Z||000007||theogre||09-23-1999||08:49 PM||||Now we're cookin' with gas!<P>I'm happy to announce that the first Trans-Atlantic TBM has broken through! You can now access the "final copy" version of the above pages.<P><A HREF="http://www.fiero.nl/ogre" TARGET=_blank>The Ogre Cave Tunnel #6</A> is now complete!||||reg||6

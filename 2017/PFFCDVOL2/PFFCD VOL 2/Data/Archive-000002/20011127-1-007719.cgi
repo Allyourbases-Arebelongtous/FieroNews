@@ -1,0 +1,3 @@
+A||||1||FieroHarry||tgowens||||10||
+Z||000000||FieroHarry||05-28-2001||08:40 AM||||Thanks a million,<BR>I used a windshield washer jug folded over and cut it to shape.<BR>Was the perfect thickness and took the bow right out of the roof.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR><B>Harry Waggoner</B><BR>1985 GT 264K+ <I>FOCOSEVA,FOCOA</I><BR><B>"Im not driving to fast, Im flying to low!"</B>||||reg||10
+Z||000001||tgowens||05-28-2001||12:50 PM||||that's great Harry - improvisation is the best solution some times.........glad I could be of help.<P>------------------<BR><A HREF="http://www.tgowens.com/fiero/index.html" TARGET=_blank><BR>                <IMG SRC="http://www.tgowens.com/fiero/3GTS_SIG.gif">                 </A>||||reg||1

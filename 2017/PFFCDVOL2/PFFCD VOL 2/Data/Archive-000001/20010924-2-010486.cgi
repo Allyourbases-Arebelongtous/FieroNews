@@ -1,0 +1,4 @@
+A||N||2||CrazyFiero82||fan belt problem||||1||
+Z||000000||CrazyFiero82||05-16-2001||03:09 PM||||last week my fan belt broke and this week I tried to fix it.  I had the belt on in 5 minutes and was ready to go except for the fact that I couldn't get enough tension on the belt.  Some have said that it's the idler pulley but I'm wondering if I couldn't get a little extra tension out of the other adjustable mounts.  And if so, how do I adjust the mounts.  Any suggestions....?||||reg||1
+Z||000001||CrazyFiero82||05-16-2001||03:12 PM||||by the way, I have an 88 4-cylinder Fiero... that might help.||||reg||1
+Z||000002||84Bill||05-16-2001||03:22 PM||||The Ogres cave has all your needed answersclick on the link below and it's under the Engine dropdowns<p>[This message has been edited by 84Bill (edited 05-16-2001).]||||reg||1

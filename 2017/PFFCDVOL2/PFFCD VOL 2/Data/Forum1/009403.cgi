@@ -1,0 +1,2 @@
+A||||0||Philphine||cliff, fiero products in europe||||1||
+Z||000000||Philphine||08-10-2001||12:20 PM||||<BR>can't remember the name, but one of the members who visited you mentioned some interesting stuff that he saw at your local fiero shop. could we see some of it? or is it possible to send for a brochure or something? at least one thing (the high mount wing) sounded intereting and i'd like to find out more about it. <P>------------------<BR>Phil T.<P>SERENITY NOW!!!!||||reg||1

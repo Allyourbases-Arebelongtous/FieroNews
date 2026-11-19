@@ -1,0 +1,6 @@
+A||||4||LAMBO||Oil pressure gauge||||1||
+Z||000000||LAMBO||09-27-2000||05:08 PM||||In swapping v6 motors from a car that didn't have a mechanical gauge to one that does, do I need to change the oil pressure sending unit as well. Or is it a wiring issue. When I start the car now, the mechanical gauge pegs out.<BR>TL||||reg||1
+Z||000001||Phil||09-27-2000||06:20 PM|||| A mechanical gage has no wires(except for lights) a pipe runs from a pressure tap to the gage. An electrical gage uses a sender that converts the oil pressure into an electrical signal that runs through wires to the gage. What motor and what gage are you using (what car too)?||||reg||1
+Z||000002||LAMBO||09-27-2000||06:55 PM||||Sorry, was in a hurry to get somewhere.<BR>To be more specific, a motor coming from an '85 2m6 SE (low pressure warning light only) into an '86 GT (actual gauge and low pressure warning light). The wiring harness stayed with the donor motor (from SE), but I'm using the original ECM from the GT.<BR>TL||||reg||1
+Z||000003||LAMBO||09-29-2000||01:16 PM||||Phil, anyone have an answer, back to top.||||reg||1
+Z||000004||Phil||09-29-2000||02:10 PM||||Might be a different sender not sure. A gage sender should measure 90 ohms at max pressure. Measure the tan wire to ground and see||||reg||1

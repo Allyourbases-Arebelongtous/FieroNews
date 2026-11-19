@@ -1,0 +1,2 @@
+A||N||0||turbo86se||Pics of turbo86se||||10||
+Z||000000||turbo86se||01-30-2000||06:57 PM||||<BR>I think I've figured this cut & paste thing out. Check out my album:  <A HREF="http://albums.photopoint.com/j/AlbumIndex?u=226077&a=1676370" TARGET=_blank>http://albums.photopoint.com/j/AlbumIndex?u=226077&a=1676370</A> <P>Also, be sure to check out pics of my 88 coupe, which is for sale $3000/OBO  I'll have many more pics soon..... Thanks!<p>[This message has been edited by turbo86se (edited 01-30-2000).]||||reg||10

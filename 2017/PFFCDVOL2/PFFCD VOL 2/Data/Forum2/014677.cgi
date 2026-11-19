@@ -1,0 +1,2 @@
+A||||0||fldevel||transmission question ||||1||
+Z||000000||fldevel||10-22-2001||07:12 PM||||today when i went to check the trans fluid "when i got home from the store" i left the car running and it seemd like the transmission fluid was bubbly like it was boiling ..is this normal .. what would cause this??  oops i forgot to mention its an auto "obvesouly"  just FYI <p>[This message has been edited by fldevel (edited 10-22-2001).]||||reg||1

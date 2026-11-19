@@ -1,0 +1,5 @@
+A||||3||fieroman_5000||Size for the factory spoiler/wing?||||5||
+Z||000000||fieroman_5000||12-03-2001||08:16 AM||||Just wondering cause I got one from a friend and it looks bigger than factory? i'll post the sizes when i get home this afternoon.<P>Fieroman <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||5
+Z||000001||fieroman_5000||12-04-2001||05:15 PM||||anyone?||||reg||4
+Z||000002||cadaver||12-05-2001||01:13 PM||||What do you mean size?||||reg||1
+Z||000003||Fierobruiser||12-05-2001||11:19 PM||||Size doesn't matter.... Anyway, I just went out to the garage to check my 85GT for you. The wing measures 12" and 60" front tip to front tip. The stock stand are about 3 inches high. I myself have been eyeing a Lancer/Evo high wing for my 88 Coupe. It's probably a foot high and wouldn't block rear vision at all. i just can't decide if it'll make it look a little too rice-burnerish.<P>------------------<BR>Notchbacks Rule<BR>85GT(show car)<BR>88Coupe (daily driver)<BR>84 Coupe(project car)||||reg||1

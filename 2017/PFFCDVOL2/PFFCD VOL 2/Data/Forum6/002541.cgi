@@ -1,0 +1,9 @@
+A||||7||fierofreek2001||workin on sig. ... please ignore||||1||
+Z||000000||fierofreek2001||07-04-2001||12:30 AM||||testing.. 1..2..THREE<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/pennockssig.jpg"> ||||reg||1
+Z||000001||fierofreek2001||07-04-2001||12:34 AM||||and heres another...<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/pennockssig.jpg"> <BR><UL TYPE=SQUARE><BR><LI> "Unofficial Pace Car"<BR><LI> 86 Fiero GT<BR></UL>||||reg||1
+Z||000002||Steve Normington||07-04-2001||01:56 AM||||What is the best way to get your topic read?<P>1. Use the name "FieroLisa"<BR>2. Mention a donut or air freshener.<BR>3. Put "Please Ignore" in the topic.||||reg||1
+Z||000003||Steve Normington||07-04-2001||01:57 AM||||[Oops, double post]<p>[This message has been edited by Steve Normington (edited 07-04-2001).]||||reg||1
+Z||000004||Steve Normington||07-04-2001||01:57 AM||||[Oops, triple post]<p>[This message has been edited by Steve Normington (edited 07-04-2001).]||||reg||1
+Z||000005||Sootah||07-04-2001||02:04 AM||||What is the best way to get the most responses to your thread?<P>     Triple Post.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000006||fierofreek2001||07-04-2001||10:48 PM||||whoops, ill remember that next time i work on my signature! thanks<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/pennockssig.jpg"> <BR><UL TYPE=SQUARE><BR><LI> "Unofficial Pace Car"<BR><LI> 86 Fiero GT<BR></UL>||||reg||1
+Z||000007||Galen||07-04-2001||11:22 PM||||if we should ever have a hall of fame on here, I'm a shoe in. Everyone remembers my donut thread, or have heard mythos about how it was a jelly filled donut. I'll clear the air, it was a regular white sugar donut<P>------------------<BR> <IMG SRC="http://www.webjolt.f2s.com/pictures/boyandpc.gif"> <BR>"To whom it may concern, The preceeding message was the opinion of this person and not of this forum. If you do not like it. Oh well"||||reg||1

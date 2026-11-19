@@ -1,0 +1,3 @@
+A||N||1||85 gt fiero||Ford-Fiero, huh......||||11||
+Z||000000||85 gt fiero||12-21-2001||09:26 PM||||hmmm. take a look at this its fords reproduction of the fiero but it was never produced, <A HREF="http://www.michiganfieroclub.org/ford.jpg" TARGET=_blank>http://www.michiganfieroclub.org/ford.jpg</A>  hmmm. loks just like a fiero<P>------------------<BR>RALLY CAR, FULL ROLL CAGE, SKID PLATES, LIGHT BARS, SCS SUSPENSION, KONI ADJUSTERS,HIGH POINT CUTOFFS, AND BRIGHT YELLOW||||reg||11
+Z||000001||BAM-BAM||12-21-2001||09:49 PM||||  Kinda looks like a prototype of the Probe??? Which, if you look closely, does have a rather Fieroesc look. Oh well, Ford missed out on an opportunity....Ha ha!!<P>Peace, B2 OUT!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||12

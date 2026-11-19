@@ -1,0 +1,7 @@
+A||||5||turbo86se||PIP test||||1||
+Z||000000||turbo86se||12-07-2001||02:06 PM||||blah blah<BR> <IMG SRC="http://www.fiero.nl/uploads/free_fiero!.jpg"> <BR>If this works, this is my free Fiero!||||reg||1
+Z||000001||Springtyme||12-07-2001||02:08 PM||||i can see why it was free... you got a nice long job set out in front of you  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> Good luck! and you're lucky to get a free fiero!||||reg||1
+Z||000002||turbo86se||12-07-2001||02:12 PM||||holy cow It's HUGE!<BR>haven't heard that in a while! LOL<BR>how do I adjust the size?||||reg||1
+Z||000003||turbo86se||12-07-2001||02:20 PM||||let me try this...<BR>way too big<BR><p>[This message has been edited by turbo86se (edited 12-07-2001).]||||reg||1
+Z||000004||GTFiero1||12-07-2001||04:31 PM||||is that an altima sittin next to the fiero?<P>------------------<BR>Adam J. B.<BR>   <IMG SRC="http://www.fiero.nl/uploads/fiero_3.jpg">   <BR>you gotta keep on keepin on...<BR>IM AOL: GTFiero &  Rumpdetective (dont ask)||||reg||1
+Z||000005||turbo86se||12-07-2001||04:37 PM||||Yeah, that's my '00 Altima GLE. I drive it whenever I'm not in the Fiero.<BR>Funny thing, everytime I drive the Altima, I see countless Fieros, almost never do I see another Fiero when I'm in my Fiero!<P>The red Fiero was free, my mechanic gave it to me. It runs excellent! 100K, 5-spd, sunroof, great '88 coupe. Just needs paint and an alignment.<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/SC.jpg"> ||||reg||7

@@ -1,0 +1,2 @@
+A||||0||RZURCTN||Engine donor???||||9||
+Z||000000||RZURCTN||10-17-1999||09:51 PM||||I don't suppose that anyone has a 4cyl for an 84 that they would want to donate to a worthy cause?  Namely, my Fiero.  I really want to get it back on the road but I am having trouble finding a decent engine to put back in it.  Just thought I'd ask around.....you never know!  In the meantime, I'll keep searching.<p>[This message has been edited by RZURCTN (edited 10-17-1999).]||||reg||9

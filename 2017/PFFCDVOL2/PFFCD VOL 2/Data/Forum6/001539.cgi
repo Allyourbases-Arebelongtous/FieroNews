@@ -1,0 +1,4 @@
+A||||2||Wolfhound||Neat "51"||||14||
+Z||000000||Wolfhound||02-28-2001||05:40 AM||||I took this shot of a really nice 51 Ford at Pirates Cove Marina on Perdido Bay in Alabama a couple of weeks ago. It had a 302 and automatic.<BR> <IMG SRC="http://www.fiero.nl/uploads/gdad.JPG"> ||||reg||14
+Z||000001||TheFiero64||02-28-2001||11:25 AM||||Wow, that is one nice looking truck.<P>------------------<BR>Josh<BR>88 Coupe V6<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif">   <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||10
+Z||000002||Wolfhound||02-28-2001||12:35 PM||||It was neat, not a speck of dust the guy came in at a crawl to keep it clean. roll and pleat leather ,crome henges etc. He shows the truck and drives it on weekends. He said his grand dad gave him the truck in high school, hence the name with the "whiskey" play on words on the tailgate and tag. ||||reg||1

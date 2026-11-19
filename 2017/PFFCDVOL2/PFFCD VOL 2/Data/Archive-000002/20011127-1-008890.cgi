@@ -1,0 +1,7 @@
+A||||5||Loki||There a place to get  braided hose?||||1||
+Z||000000||Loki||07-18-2001||09:34 PM||||Just the braid part..Need some to cover some stuff about 8mm in size, so those "kits" wont do<BR><P>------------------<BR>Loki<BR>ICQ# 16477998||||reg||1
+Z||000001||Jay||07-18-2001||09:40 PM||||Try an elevator company.  They use that stuff all the time.<P>------------------<BR>Jay<BR>1986 Northstar GT<BR>www.members.home.net/jaygrande<BR> <IMG SRC="http://www.fiero.nl/uploads/cayuga3_3.jpg"> ||||reg||1
+Z||000002||DecadenceR||07-18-2001||10:00 PM||||When I had my Z28 I went to a local performance shop to get mine. They had rolls of it they sold by the foot.||||reg||1
+Z||000003||West Coast Fiero||07-18-2001||10:16 PM|||| <A HREF="http://www.jegs.com" TARGET=_blank>www.jegs.com</A> ||||reg||1
+Z||000004||Loki||07-18-2001||10:18 PM||||Ill find some speed shops around and see what they can get.. As for Jegs I saw some stuff but really wasnt sure if it was braid or not..<BR>Thanx<BR><P>------------------<BR>Loki<BR>ICQ# 16477998||||reg||1
+Z||000005||Tina||07-18-2001||11:03 PM||||You gotta try <A HREF="http://www.summitracing.com" TARGET=_blank>http://www.summitracing.com</A> <P>Got both the real stuff, and the "sleeve-stuff"<BR>One word of caution though.<BR>The sleeve-stuff if not put on right, is not going to look very good or very convincing. <P>Tina  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

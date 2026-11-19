@@ -1,0 +1,4 @@
+A||||2||yo_sweet||spark plug wires?||||1||
+Z||000000||yo_sweet||08-18-2001||12:19 AM||||does anyone have a map for the 2.8l spark plug wires they all got mixed up<P>thanks||||reg||1
+Z||000001||yo_sweet||08-18-2001||09:38 AM||||bump||||reg||1
+Z||000002||hyhy4u||08-18-2001||10:15 AM||||why do people always ask for this..lol..just to let ya folks know, if you cant keep things straight they sell little stickers with numbers on it for people like you!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Sorry but i dont have a pic for ya..but i can try to explain it..<P>On your block your cylinders are numbered this way..<P>     Fire Wall<BR>     6  4  2<P>     5  3  1<BR>     Truck<BR>    <BR>Then on your distributor cap..follow the firing diagram 1-2-3-4-5-6 and start at the plug closest to the Upper pendulum and go around clockwise..thats the best i can do for ya, lol..hope it works out.<BR>||||reg||1

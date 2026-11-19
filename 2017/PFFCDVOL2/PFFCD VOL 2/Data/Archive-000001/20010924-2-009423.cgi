@@ -1,0 +1,3 @@
+A||||1||olliver||new programmable computer?||||1||
+Z||000000||olliver||04-05-2001||12:05 AM||||does anyone know where i can get my hands on a programmable computer for my engine rebuild? i hear all you guys talking about it but where can i get one?||||reg||1
+Z||000001||Phantom Rage||04-05-2001||01:37 PM|||| <A HREF="http://www.sdsefi.com/" TARGET=_blank>http://www.sdsefi.com/</A>   <BR> <A HREF="http://www.electromotive-inc.com/home.htm" TARGET=_blank>http://www.electromotive-inc.com/home.htm</A> <P>I'm not sure if this is what you are looking for but check them out.  They are pretty poupular with the turbo guys. <P>||||reg||7

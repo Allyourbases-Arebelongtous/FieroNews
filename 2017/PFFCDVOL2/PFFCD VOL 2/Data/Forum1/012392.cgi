@@ -1,0 +1,3 @@
+A||||1||mrtgman||Where can I find a mounting kit for my spoiler?||||5||
+Z||000000||mrtgman||12-02-2001||08:47 PM||||My car is in the body shop and I need the the hardware, gaskets etc for the spoiler. Any ideas? <P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/fierofront1_1.jpg">   86 gt owned since new!<A HREF="http://www.palmbeachloan.com" TARGET=_blank>http://www.palmbeachloan.com</A>||||reg||5
+Z||000001||avengador1||12-02-2001||09:54 PM||||Fiero store has the gaskets. <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1

@@ -1,0 +1,4 @@
+A||||2||ggarsk||WOOHOO!!!||||6||
+Z||000000||ggarsk||06-30-2000||01:51 PM||||My Duke has spunk now! I put on a Holley 300 cfm,Edelbrock manifold and Hooker header. The change in performance is AWESOME!!! It revs faster,the shift points are lower and when I step on the gas it goes. It has a throaty rumble to it with a stock V-6 muffler. And there is almost nothing better then the smell of new headers when you start it up the first time(unless it's napalm in the morning). It was well worth the time and money to put these performance parts on.||||reg||6
+Z||000001||Phantom Rage||06-30-2000||05:49 PM||||Happy to see that you are having fun.  Any performance stats? <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>   ||||reg||1
+Z||000002||GT Bastard||06-30-2000||05:52 PM||||It's nice to see people actually hoppin' up their Fiero's.  Now you've got to run it down the track!||||reg||1

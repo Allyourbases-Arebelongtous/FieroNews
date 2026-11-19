@@ -1,0 +1,2 @@
+A||||0||PAUL88GT||Sikkens Kombi Putty for Fiero body repair?||||5||
+Z||000000||PAUL88GT||06-07-2001||11:41 AM||||My local auto paint supply store recommended Sikkens Kombi Putty for repairing the small nicks and gouges in the body panels of my 86se.  I am starting to prep the car for painting. <P>Does anyone have any experience with this product? If I use it, what grit should I use to sand with after it dries? Should I primer over after sanding?<P>I don't plan on painting the car myself. I just plan to prep the car some before I have it painted.  TIA.<P>Paul||||reg||5

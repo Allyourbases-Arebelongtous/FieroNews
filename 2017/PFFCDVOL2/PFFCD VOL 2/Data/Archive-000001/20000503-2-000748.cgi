@@ -1,0 +1,9 @@
+A||||7||DXR_DAD||What`s more important?
+Z||000000||DXR_DAD||08-31-99||09:51 PM||||"Free-flow cat." or "Free-flow muffler"?<br>If the cat. is before the muffler and is not flowing, cloged/blocked then what good is a free-flow muffler?   What`s the deal with all the free-flow muffler hype?
+Z||000001||Dale||08-31-99||11:56 PM||||I think you  answered  your own question.  Start with the cat first.  I prefer to file my cat in the round file.
+Z||000002||DXR_DAD||09-01-99||05:43 PM||||All the companies offer a exhaust system for the fiero but it don`t offer a cat. Here ic Calif. we can`t "File" it, so what type of free-flow cats are out there? Is one better than the other? I ordered mine from the local go fast shop I don`t even remember the name brand. Is what makes it free-flow the same as a muffler?
+Z||000003||theogre||09-01-99||06:58 PM||||"free flow" catalysts are designed to allow more uniform flow thru the media. They are suposedly more resistant to "pathing". Pathing in a bead type converter happend when the beads shake into uneven clumps with some areas more open than others making easy flowing paths thru some areas restriction in others.<p>Before replaceing the cat make sure there is no oil being burnt. Oil or coolant in the cat will trash it.
+Z||000004||lowCG||09-01-99||08:32 PM||||What the Ogre is describing would be a converter with hexagonal paths through it,instead of random beads(old style).<br>Should be able and see through this type.
+Z||000005||lowCG||09-01-99||11:36 PM||||As for "how important it is" depends on whether or not you'd consider going to a pancake eating contest when you're constipated.Same difference,either way.
+Z||000006||theogre||09-02-99||06:23 AM||||No, If i was describing a monolithic cat I would have said so. Monoliths don't have the pathing problem. Only bead type do.<p>
+Z||000007||lowCG||09-02-99||11:31 AM||||Oh,sorry,just that I've not yet seen a free flow converter that wasn't a monolithic-type.

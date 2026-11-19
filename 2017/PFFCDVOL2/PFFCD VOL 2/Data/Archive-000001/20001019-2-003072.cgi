@@ -1,0 +1,8 @@
+A||N||6||Buddafingaz||LT-1 problems||||5||
+Z||000000||Buddafingaz||04-07-2000||05:24 PM|||| <IMG SRC="http://www.fiero.nl/forum/confused.gif"> I have an 88 GT and want to put in an LT-1.  I was told I would HAVE to use the tranny that comes with it.  If anyone has any info on this...  PLEASE let me know.||||reg||5
+Z||000001||88 Fiero||04-07-2000||05:58 PM||||I dont know who told you that...I know a guy that has the L98 "Vette engine in his Fiero and he is using the Getrag 5-Speed tranny...||||reg||1
+Z||000002||Oreif||04-07-2000||06:02 PM||||If you use V-8 Archies kit you can use any Fiero transmission. Getreg, Izusu 5spd, Muncie 4spd, and the Automatic. Although You may need to have the auto trans "beefed up".<BR>The manuals work with no problems.||||reg||1
+Z||000003||pherder||04-07-2000||06:31 PM||||The only engine I know of that you have to use the transaxle that came with it is the Quad 4 engines.<P>They have a different bell housing bolt pattern from any other GM engine (not including the TwinCam (new Quad 4 with a new improved name) or the new 2.2 that may share the same bolt pattern.<P>Paul (HO Quad 4 in my 88 Fiero Coupe)||||reg||6
+Z||000004||spiz||04-07-2000||07:48 PM||||i am also doing an LT-1 into 88. you can use any fiero trans but with the LT-1 you have to move it two inches to the right.<BR>you will have to notch frame and buy new axles.||||reg||10
+Z||000005||Eric||04-07-2000||07:49 PM||||Think about it, you can't use a rear wheel drive tranny in a Fiero.  It was built to accept a fwd tranny.  Good luck on your LT1.||||reg||1
+Z||000006||GT Bastard||04-07-2000||10:49 PM||||The LT1 came with a 4L60 or 4L60E tranny(depending on year.)  There's no way you can use the same tranny in a fiero....  Check Archies...||||reg||1

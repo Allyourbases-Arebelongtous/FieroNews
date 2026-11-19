@@ -1,0 +1,2 @@
+A||||0||DXR_DAD||Citation Sturts?||||5||
+Z||000000||DXR_DAD||09-08-2000||01:24 AM||||Did a search and found a post from BAM-BAM and LowCG but didn't give all the info??<BR>So if anyone has them what brand did you use<BR>is it just a bolt-on with no mods? and what was the price?<P>LowCG said they had removable cartridges and Koni has a rebuildable/adjustable cartridge that will fit.   Just need some more info on this. <P>THANKS FO ANY HELP!<BR>DXR_DAD||||reg||5

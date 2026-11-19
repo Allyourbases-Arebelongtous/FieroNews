@@ -1,0 +1,5 @@
+A||||3||DrewBoOty||paint codes||||1||
+Z||000000||DrewBoOty||10-09-2001||12:17 AM||||does anyone know the paint code for a 87 4cyl notchback i need the blue paint code.<P>------------------<BR>----"There Are No Stupid Questions, But There Are A LOT Of Inquisitive Idiots."||||reg||1
+Z||000001||rogergarrison||10-09-2001||10:26 AM||||theres a white label under the front hood on the driver side fender well. the bottom has a number begining with WA____ and 4 numbers. thats your paint code. If your changing colors, any auto paint store will have books that give the code for all different years. Just look up 87 GM, may also be a separate page for only Fiero. Theres only 1 blue on Fiero, so itll be ez to spot.||||reg||1
+Z||000002||Tigger||10-09-2001||10:37 AM||||'87 Blue: WA-8963<P>Believe this is the correct code, check the service label.||||reg||1
+Z||000003||DrewBoOty||10-09-2001||04:04 PM||||so the 87 color is the same as the 88 color becuase i searched through some old topics and found a scanned picture for 88 paint codes<P>------------------<BR>----"There Are No Stupid Questions, But There Are A LOT Of Inquisitive Idiots."||||reg||1

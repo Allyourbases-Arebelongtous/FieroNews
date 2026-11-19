@@ -1,0 +1,3 @@
+A||||1||Galen||wiring diagram||||1||
+Z||000000||Galen||04-10-2001||09:10 PM||||Could someone show me a wiring diagram of the headlight switch? I needa know which wire does the park lights?<P>------------------<BR>Galen - 1988 Hawaiian Orchid Coupe - Sunroof, shaved emblems, more to come..<BR><A HREF="http://www.spinrpg.com/" TARGET=_blank>Spinrpg.com - Free URL & e-mail Forwarding</A>||||reg||1
+Z||000001||85Josh||04-10-2001||10:20 PM||||Here you go. I e-mailed it fullsize.(jdrimm@telocity.com)<BR> <IMG SRC="http://www.fiero.nl/uploads/wining2.JPG"> <BR>Hope it helps!<P>------------------<BR>85 2M4(Lil' Bit)||||reg||1

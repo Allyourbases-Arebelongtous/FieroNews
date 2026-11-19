@@ -1,0 +1,4 @@
+A||||2||isthiswhereiputausername?||need a wallpaper?||||1||
+Z||000000||isthiswhereiputausername?||07-15-2001||01:11 PM||||This is on my computer at work hehe<P> <IMG SRC="http://www.internetworldofjokes.com/Pics/1060.jpg"> ||||reg||1
+Z||000001||Sootah||07-15-2001||01:23 PM||||Sweeeeet!! I just bought a shirt that says 'I see dumb people' on it! (I work at a store, I think I am gonna make it my uniform.||||reg||1
+Z||000002||Raydar||07-15-2001||04:24 PM||||I like it! <P>"Think about how smart the average person is.<BR>Then realize that half the people are <I>dumber than that</I>!"    -George Carlin<P>------------------<BR>Raydar - aka Steve<BR><FONT SIZE="1"><BR>Black 88 Formula.<BR>Red 88 Duke coupe. "The Project" <BR>88 Formula parts car. "The Donor"<BR></FONT><p>[This message has been edited by Raydar (edited 07-15-2001).]||||reg||6

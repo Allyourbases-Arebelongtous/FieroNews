@@ -1,0 +1,7 @@
+A||||5||grinthock||Fiero LOGO's High quality||||1||
+Z||000000||grinthock||08-19-2001||11:38 PM||||Hi everyone, I am looking for VERY VERY high quality logo's.  The FIERO logo itself (with the bird) as well as the actual FIERO GT the one that's on the back of the car, all VERY high quality... Being used for a special project......<P>Thanks.||||reg||1
+Z||000001||Oreif||08-20-2001||12:09 AM||||Which Fiero logo has a bird? I know the ones on the car have the winged horse (Pegasus) but I have never seen a bird. ||||reg||1
+Z||000002||grinthock||08-20-2001||06:50 AM||||That's what I meant.||||reg||1
+Z||000003||JohnF||08-20-2001||08:35 AM||||Rodney Dickman has OEM engine deck lid "Fiero GT" decal (inexpensive) of whatever year and color.  Trans Am style decal for hood is avail several places in many qualities (and prices)||||reg||1
+Z||000004||MinnGreenGT||08-20-2001||10:21 AM||||grinthock... I assume that you're looking for a digital file?  I can redraw the logo in illustrator (vector art is scalable) if that would help? Let me know!<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/grngtsig2.jpg">    <P>Medium Metallic Green 87 GT<BR>3.1L High Output<BR>4 Spd OD Tranny<BR>Open (read: Loud) Exhaust<BR>and More!<BR>-Rob Bartlett||||reg||1
+Z||000005||Formula||08-20-2001||10:59 AM||||WOW, minngreen, your sig looks awesome like that!!<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sigformulagt.jpg"> ||||reg||1

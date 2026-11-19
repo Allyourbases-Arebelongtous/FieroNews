@@ -1,0 +1,2 @@
+A||N||0||superXmotorsports||link to white gauges page||||1||
+Z||000000||superXmotorsports||12-27-1999||09:20 PM||||Gauges are now in stock.  Thanks to those of you who ordered and will be receiving soon!<BR>Here's a link for those of you who are interested in more info (yellow gauges picture posted).  SXM.<BR> <A HREF="http://users.desupernet.com/superx/gauges" TARGET=_blank>http://users.desupernet.com/superx/gauges</A> <P>Thanks!||||reg||1

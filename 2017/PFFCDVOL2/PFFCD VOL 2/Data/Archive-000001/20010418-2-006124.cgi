@@ -1,0 +1,3 @@
+A||||1||SibERThuG||website??||||1||
+Z||000000||SibERThuG||10-08-2000||10:10 PM||||Anyone know the website for IRM???<P>------------------<BR>Robbie<BR>88' Formula||||reg||1
+Z||000001||2xsess||10-08-2000||11:46 PM||||They don't have a website as of right now. There was a thread about this about a month ago and a bunch of members volunteered to do one but haven't heard anything.<P>Here's a link : <A HREF="http://www.geocities.com/MotorCity/Lane/1588/quickcat.html" TARGET=_blank>http://www.geocities.com/MotorCity/Lane/1588/quickcat.html</A> <P>This is a couple of pages of IRMs' catalog that were scanned<P>Good Luck <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>Jeff<BR>85GT||||reg||1

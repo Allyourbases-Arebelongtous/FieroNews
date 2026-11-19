@@ -1,0 +1,6 @@
+A||||4||Fred88GT||San Antonio RU 2002 Date?||||1||
+Z||000000||Fred88GT||10-21-2001||08:24 PM||||I'am thinking about a trip to San Antonio<BR>this spring. I would like to plan it at the<BR>time as your show.<P>Thanks,<BR>Fred<P>88GT<BR>85GT ||||reg||1
+Z||000001||LT1 Chop Top||10-21-2001||09:58 PM||||Fred,<P>I don't think we have a set date yet.  It is USUALLY in April.  We had to reschedule the last show due to our president having a temp. duty in Saudi. Check out club page, or email our prez. for details.  Would love to have you there! <A HREF="http://communities.msn.com/AlamoAreaFieroOwners/_whatsnew.msnw" TARGET=_blank>http://communities.msn.com/AlamoAreaFieroOwners/_whatsnew.msnw</A> ||||reg||1
+Z||000002||Cheever3000||10-21-2001||11:37 PM||||Our club Prez over here in Houston is saying it will be back to its normal schedule of first weekend in April.  He usually doesn't give out info unless he's sure.<BR>||||reg||1
+Z||000003||mrfiero||10-22-2001||12:31 PM||||Whenever it is I plan on attending.  I missed the last few shows, but will be there next year.  I always have fun at this show.....it is the only show that I brought my low mileage '88 GT to!<P>Keep us posted on a date!||||reg||1
+Z||000004||Fred88GT||10-23-2001||03:07 PM||||Thanks for the replies. I will send e-mail to the Pres. at A.A.F.O. I hope to see you in April.<P><BR>Fred||||reg||1

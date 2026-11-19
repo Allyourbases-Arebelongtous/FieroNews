@@ -1,0 +1,8 @@
+A||N||6||count_iblis||LUG PATERN AND BOLT MEASUREMENT||||1||
+Z||000000||count_iblis||10-28-2000||12:12 AM||||WHAT IS THE LUG PATERN AND BOLT MEASUREMENT FOR THE 85 GT?||||reg||1
+Z||000001||WKDFIRO||10-28-2000||12:20 AM||||I beleive it is (and I know I will be corrected if its wrong!) that the lug patter is a 5 bolt measuring 100 mm across. <P>As for offset I wouldn't know.<P>Hope it helps!||||reg||1
+Z||000002||fiero56||10-28-2000||12:20 AM||||5x100. Same for every Fiero produced.||||reg||1
+Z||000003||count_iblis||10-28-2000||12:29 AM||||HOW BIG OF A WHEEL CAN YOU FIT UNDERNEATH BEFORE RUBBING?||||reg||1
+Z||000004||tgowens||10-28-2000||12:56 AM||||i believe the offset is 40mm -- I know you can go 17 or 18" -- we have a few out here with 17" wheels with 1 1/2" lowering springs too...........<P>------------------<BR>              <IMG SRC="http://www.tgowens.com/tgowens_sig.gif">                          <BR><A HREF="http://www.tgowens.com/fiero" TARGET=_blank>www.tgowens.com/fiero</A> - Blue '87 GT - Gold '87 GT<BR><A HREF="http://www.cfog.org" TARGET=_blank>www.cfog.org</A> - Classic Fiero Owners Group||||reg||1
+Z||000005||Haze_Performance||10-28-2000||05:18 AM||||I have a 17"x7" 5x100mm wheel with a 40mm offset on my 85. Tires size is 215/40ZR17.<P>------------------<BR>      <IMG SRC="http://www.fiero.nl/uploads/2d_00010aa3.gif"> <BR><B>Website's  <A HREF="http://www.WS6Fiero.com" TARGET=_blank>www.WS6Fiero.com</A>-                  <A HREF="http://www.hazeperformance.com" TARGET=_blank>www.HazePerformance.com </A></B>||||reg||10
+Z||000006||rogergarrison||10-28-2000||12:44 PM||||the 100mm is measured from center of one lug bolt to one of the ones on opposite side.<BR>||||reg||1

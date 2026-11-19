@@ -1,0 +1,2 @@
+A||||0||Philphine||kick hill comes through||||1||
+Z||000000||Philphine||08-28-2000||12:45 PM||||<BR>finaly got a deal on a gas tank. i guess they have another way of shipping or can clean it out enough to send it normaly. about half the cost of getting my old one repaired. hopefully i can get it in over the labor day weekend if i get it by then. guess i'd better contribute to that gift deal now.||||reg||1

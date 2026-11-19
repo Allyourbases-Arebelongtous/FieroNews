@@ -1,0 +1,4 @@
+A||||2||LT1 Chop Top||Chop Top Interior pics||||1||
+Z||000000||LT1 Chop Top||06-25-2001||04:47 PM||||I finally finished the interior of the Chop Top (at least the parts I can do easily).  Floor carpet is ACC, floor mats and door carpet are Mr. Mikes.  The carpet is actually much darker in person....looks kinda greyish in the pics.<P>Before pic<BR> <IMG SRC="http://www.fiero.nl/uploads/chopinterior.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/new_1.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/87.1.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/87.2.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/87.4.jpg"> <P><BR>||||reg||1
+Z||000001||84Bill||06-25-2001||07:03 PM||||ZOWEE!!||||reg||14
+Z||000002||Archie||06-25-2001||07:06 PM||||Looks great, I like the floor mats (nice touch).<P>Archie||||reg||1

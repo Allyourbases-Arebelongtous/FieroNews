@@ -1,0 +1,2 @@
+A||||0||Fiero_24||Over the roof Scoops||||1||
+Z||000000||Fiero_24||06-12-2001||11:19 PM||||I could not remember the article, or who was looking for the scoops on a notchback that go over the top.  I did find one place that may still carry them.  They are called Fiero Conversions Inc. (519) 972-4989, and they are in Ontario Canada.  Hope this helps out!<P>Craig<P>------------------<BR> <A HREF="http://www.geocities.com/fiero_24" TARGET=_blank>http://www.geocities.com/fiero_24</A> <BR>1987 GT||||reg||1

@@ -1,0 +1,6 @@
+A||||4||msweldon||Shop manual for 3.4 DOHC.....||||1||
+Z||000000||msweldon||11-14-2000||05:30 PM||||Does anyone know where I could get a shop manual for a 96' 3.4 DOHC engine.<P>thanks,<BR>marc||||reg||1
+Z||000001||william_thorniii||11-14-2000||06:43 PM||||marc,<P>Am I missing something, or would it be as easy as this...<BR> <A HREF="http://www.helminc.com/helm/product2.asp?Style=&Sku=GMP96W&itemtype=N&mscsid=QB0A0TXFP2SR2MUR00A3HVE05KR5C4F3" TARGET=_blank>http://www.helminc.com/helm/product2.asp?Style=&Sku=GMP96W&itemtype=N&mscsid=QB0A0TXFP2SR2MUR00A3HVE05KR5C4F3</A> <P>Hope this helps,<P>William T. Thorn, III||||reg||5
+Z||000002||msweldon||11-15-2000||09:28 AM||||Maybe, but I've heard that the helm manuals sometimes gloss over the real nitty gritty details as compared to the actual GM shop manuals.<P>thanks however,<BR>mw||||reg||1
+Z||000003||msweldon||11-15-2000||09:47 AM||||Whooops, I'm a tard,<P>After a tad bit more research, the helm manuals "are" the manuals used by GM at their service centers.<P>thanks william,<BR>marc||||reg||1
+Z||000004||william_thorniii||11-15-2000||10:24 AM||||Marc,<P>We all have brain-farts from time to time... glad I could help.  <P>William T. Thorn, III||||reg||14

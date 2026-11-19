@@ -1,0 +1,2 @@
+A||||0||RaeQwan||Any Q/Quick/Power/Visual Basic guru's out there? message board for ya||||4||
+Z||000000||RaeQwan||01-19-2001||01:11 AM||||i'm sure this is off-topic hehe  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> but heres a message forum for ya<P><BR><A HREF="http://pub48.ezboard.com/bqbboard" TARGET=_blank>QBCrawlers.com Message Forums</A><P>------------------<BR>       <IMG SRC="http://www.fiero.nl/uploads/raeqwansig.gif"> ||||reg||4

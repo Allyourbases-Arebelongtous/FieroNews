@@ -1,0 +1,4 @@
+A||||2||V8Fiero||ATTN: Richard Parnell     Air cleaner info.||||6||
+Z||000000||V8Fiero||03-10-2001||11:51 PM||||Hi Richard,<P>I remember that you were looking for a low profile air cleaner for your V8. I was looking through my summit catalog and came across a Holley Hi Tech air cleaner that looks like it would work for you. Part number HLY-64280. Page 119 of their newest catalog. Only problem is the price....$200 plus....Just trying to help a fellow V8 fiero.<P>Thanks.<BR>Scott||||reg||6
+Z||000001||Richard Parnell||03-12-2001||01:15 PM||||Thanks for the info.  The price is a bit steep.  Whats it made of, gold.||||reg||12
+Z||000002||V8Fiero||03-12-2001||01:38 PM||||Well, I figure half of that price is just for the Holley name. I did see the same item in the Jegs catalog for $191 but damn.....that is still outrageous.<P><BR>Good luck.<BR>Scott||||reg||1

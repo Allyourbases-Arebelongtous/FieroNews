@@ -1,0 +1,5 @@
+A||||3||Pontiaddict||WHOO-HOO Back in the game!!!||||1||
+Z||000000||Pontiaddict||06-26-2000||03:22 PM||||After regretting selling my 84 3 yrs ago. I just got me antoher Fiero yesterday! It's an '86 GT  (Ironically, it's an aero fastback after i just got done saying that I didn't really like that particular body style. It grows on you)<P>Red/gray with gray interior.<BR>power windows<BR>Zoom  clutch (4spd)<BR>aftermarket chip<BR>old BBS wheels<BR>Those turbo scoops where the back windows were.<BR>Old Blaupunkt (sp) tape player <BR>and some other stuff i can't think of right now.<BR>All for $1800.00||||reg||1
+Z||000001||Gold-86SE||06-26-2000||03:26 PM||||<BR>congrats on the buy.  Fieros are like pringles, once you pop you cant stop.<BR>||||reg||1
+Z||000002||olympic||06-26-2000||03:44 PM||||.....or like Lay's potato chips   "betcha can't have just one!"||||reg||1
+Z||000003||Pontiaddict||06-26-2000||03:49 PM||||lets see if this works<P>-nope<p>[This message has been edited by Pontiaddict (edited 06-26-2000).]||||reg||1

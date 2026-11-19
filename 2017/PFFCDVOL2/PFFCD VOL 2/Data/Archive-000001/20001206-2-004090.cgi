@@ -1,0 +1,3 @@
+A||N||1||86SEFIERO||WIPERS ONLY WORK ON HIGH ||||1||
+Z||000000||86SEFIERO||06-03-2000||05:20 AM||||<BR>hOW DO i FIX WIPPERS TO WORK ON 86 se TO WORK THEY ONLY RUN ON HIGH AND STOP WHEN EVERY i SHUT THEM OFF ? GETS TO BE A PAIN TYING TO STOP THEM AT THE BOTTOM OF THE WINDOW.||||reg||1
+Z||000001||Phaeton||06-03-2000||12:32 PM||||There is a park switch in the housing on the end of the motor, its job is to stop the wipers at the bottom.<BR>The speed control is a separate switch.  The parts guy should be able to hook you up when the park switch is purchased.<BR>Installation takes calm and patience more than high tech ability.<P>This is based on the assumption that the wiper electrics haven't already been modified in the past.||||reg||12

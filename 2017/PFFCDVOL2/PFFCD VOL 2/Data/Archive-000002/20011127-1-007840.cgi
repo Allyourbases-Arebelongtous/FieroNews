@@ -1,0 +1,5 @@
+A||N||3||86sc||replacement for the 2.5||||5||
+Z||000000||86sc||06-02-2001||01:11 AM||||i lost the timing gear [it's still on the engine, well whats left of it] i like to find out which 4cyl would bolt right in.<BR> 86sc 2m4 auto can't afford a quad for swap right now.i figure about any 2.5 [gm]will work but which one,and is there any other 4cyl that will bolt up.almost have the engine out of the car. thanks ||||reg||5
+Z||000001||drednot||06-02-2001||12:30 PM||||No one will reply to this topic.  I posted the same question with no real responce.||||reg||11
+Z||000002||SteveJ||06-02-2001||12:56 PM||||Well its not that no one will respond, its just a well covered subject that has been tourchered to death. Using the search function will reveal what there is to know without all the typing.||||reg||1
+Z||000003||Bob Englert||06-02-2001||06:58 PM||||Yea Drednot, I thought I did reply to your question.  I guess you didn't like my answer!<P>Have a great weekend!<BR><P>------------------<BR>Bob<BR>2 - 87 GT's<BR>85 SE 4 cyl||||reg||1

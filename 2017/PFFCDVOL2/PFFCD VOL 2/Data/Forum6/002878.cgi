@@ -1,0 +1,4 @@
+A||||2||MR-BAD||t top fiero||||1||
+Z||000000||MR-BAD||08-07-2001||09:06 PM|||| <IMG SRC="http://www.fiero.nl/uploads/mycars6.jpg"> <P>i never saw a  t top fiero before||||reg||1
+Z||000001||Songman||08-07-2001||10:31 PM||||There's quite a few out there, but it is one of the rarities of the Fiero world.<P>Some one else may have exact numbers but basically they were only 'officially' offered in 1988, although some earlier ones were 'dealer converted' as early as 1986. The official number of 1988 T-top Fieros is somewhere around 1200.<P><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1
+Z||000002||Dave Gunsul||08-08-2001||03:16 PM||||1252 t-top Fieros were made in 1988.<P>------------------<BR>Dave Gunsul<BR>N.I.F.E. member<BR>86 GT modified<BR>85 SE daily driver||||reg||1

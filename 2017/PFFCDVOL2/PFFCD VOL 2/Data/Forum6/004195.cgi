@@ -1,0 +1,5 @@
+A||||3||Oreif||C.S.I. Fans Look Here.||||5||
+Z||000000||Oreif||11-09-2001||11:57 AM||||Well with working nights I usually record the show. Well it seems the VCR didn't record it due to someone playing with the remote. So if anyone has last nights video tape, I'd like to borrow it.<BR>TIA<P>------------------<BR>            <IMG SRC="http://www.fiero.nl/uploads/LOGO3.jpg">          <BR><FONT SIZE="1"><B><I>Happiness isn't around the corner...<BR>Happiness IS the corner.</I></B></FONT>||||reg||5
+Z||000001||MinnGreenGT||11-09-2001||02:03 PM||||If you don't get another response closer to you...I have it taped (haven't watched it yet though).  My sister-in-law is also next in line for the tape- so it could be a few days.  Will you make it?<P>------------------<BR>              <IMG SRC="http://www.fiero.nl/uploads/GreenGT6.gif"> ||||reg||1
+Z||000002||Oreif||11-09-2001||02:10 PM||||Yes, I can wait until she is done to see it. (I'll just hang out on the forum longer  <IMG SRC="http://www.fiero.nl/forum/wink.gif">  )<BR> THANKS!<BR>||||reg||14
+Z||000003||MinnGreenGT||11-09-2001||02:48 PM||||PM or Email me your mailing address.<P>Later!||||reg||1

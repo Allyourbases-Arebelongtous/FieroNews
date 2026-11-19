@@ -1,0 +1,5 @@
+A||||3||Ralfy9862||where is the oil sending unit ||||1||
+Z||000000||Ralfy9862||08-27-2001||02:03 PM||||where is it located||||reg||1
+Z||000001||1FST2M6||08-27-2001||02:28 PM||||V6? look to the left of the battery.. it's a black cylinder about 2.25" around and 3" long. has 3 wires leading to it.  uum 4cyl.. sorry, don't know.||||reg||1
+Z||000002||Jake_Dragon||08-27-2001||04:43 PM||||V4. <IMG SRC="http://www.fiero.nl/forum/smiley_watchout.gif">. Same size just under the intake. ||||reg||1
+Z||000003||Kasdan||08-27-2001||08:24 PM||||V4?  You mean l4  <IMG SRC="http://www.fiero.nl/forum/wink.gif">  I've never seen a V4 in my life.<P>------------------<BR>Tyler Morgan<BR>1986 GT Fastback, <BR>  <IMG SRC="http://www.fiero.nl/uploads/FIERO2.JPG">       <BR>Holley Ram-Air, Power Steering, K&N Filtercharger, Bosch Wires, Bosch Platinum Plugs, Conrad Distribuiter Cap/Rotor, New GT Seats, New Headliner, New Carpet, Ocelet Exhaust, Red Underbody Light Kit (coming soon)<BR>Aim=FieroDriver1986||||reg||1

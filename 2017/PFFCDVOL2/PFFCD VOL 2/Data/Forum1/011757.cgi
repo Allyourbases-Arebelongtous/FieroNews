@@ -1,0 +1,4 @@
+A||N||2||85 gt fiero||rip off||||4||
+Z||000000||85 gt fiero||11-10-2001||08:46 PM||||in this weeks autotrtader there was an 86 se for 9999.00 with 13000 miles kinda high price but looked in good condition.   Randy<P>------------------<BR>RALLY CAR, FULL ROLL CAGE, SKID PLATES AND SOON TO BE BRIGHT YELLOW||||reg||4
+Z||000001||California Kid||11-10-2001||08:52 PM||||Personally I'd like to see a lot more cases like this.......just raises the value of our cars!!!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000002||85 gt fiero||11-10-2001||08:55 PM||||true, but if you were looking to buy it you would be putting out a lot of money for it. but the more they sell them for the more there worth. <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>RALLY CAR, FULL ROLL CAGE, SKID PLATES AND SOON TO BE BRIGHT YELLOW||||reg||1

@@ -1,0 +1,2 @@
+A||||0||isthiswhereiputausername?||Steering column weight?||||1||
+Z||000000||isthiswhereiputausername?||11-07-2001||05:19 PM||||Anyone know offhand how much the steering columns weigh?<P>I need to get a price on shipping.<P> Thanks<P>Its a standard steering column off a red car  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> Does that make a difference?  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>||||reg||1

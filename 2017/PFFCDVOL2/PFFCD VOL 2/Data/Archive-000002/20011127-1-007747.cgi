@@ -1,0 +1,3 @@
+A||||1||wkayl||I feel like Tony Stewart..||||6||
+Z||000000||wkayl||05-29-2001||09:48 AM||||Only he did it in one day and it will take me  3 weeks.  I just got back from a 600 mile trip with my pickup and camper.  I will be heading out on Wed. with my Fiero on a 1,500 mile trip.  On June 9th my wife and I will be flying to Canada and taking a 7 day Alaskan cruise.  (25 anv. on June 12th).<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/sig_2.jpg"> ||||reg||6
+Z||000001||FieroHeather||05-29-2001||09:52 AM||||Congratulations on your Silver Anniversary   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P><p>[This message has been edited by FieroHeather (edited 05-29-2001).]||||reg||7

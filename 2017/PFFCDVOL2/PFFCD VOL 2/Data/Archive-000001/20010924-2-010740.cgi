@@ -1,0 +1,3 @@
+A||||1||KRMFiero||1990 2.5l or not||||1||
+Z||000000||KRMFiero||05-25-2001||07:28 PM||||I can get a 1990 rebuilt 2.5l code R. Can I put the manifolds and electronics from my 85 se on this engine and bolt it back in?<P>Will I benifit from the 110hp and the balance shafts that the 1990 engine has?<P>ps. I'm dropping the cradle to do clutch work anyway.||||reg||1
+Z||000001||85Josh||05-26-2001||12:17 PM||||Sorry, a '90 will be a DIS (distributorless ignition system) block. The head and block are significantly different. You would have to swap all the electronics from the donor, or from an 87/88 4cyl Fiero.<P>------------------<BR>85 2M4(Lil' Bit)||||reg||1

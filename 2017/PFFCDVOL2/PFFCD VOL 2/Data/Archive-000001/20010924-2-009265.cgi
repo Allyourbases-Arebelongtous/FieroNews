@@ -1,0 +1,6 @@
+A||||4||87GTZ34||Are stock 2.8 pistons flat, dished or valve reliefed?||||5||
+Z||000000||87GTZ34||03-28-2001||08:57 PM||||Has anyone that did the head volume comparison tell or 2.8 rebuilds know if the OEM pistons in the 2.8 are flatop?  I bought a car that had the eng rebuilt 65K mi ago and it has flatops in it.  It had 4 bad exhaust valves in it, yet it and started right up and ran with excellent accelleration. Yes that is 4 out of 6... incredible.  I'm thinking it may have had tolerable compression (to run) as the compression was increased with those pistons.  I can't imagine that the car ran well if even at all with those valves in it.<BR>opinions anyone||||reg||5
+Z||000001||StuGood||03-28-2001||09:13 PM||||Last 2.8 pistons I saw (long ago) <B>looked</B> flat on top.  Is that what you're asking?  ||||reg||5
+Z||000002||Mark||03-28-2001||10:04 PM||||The stock 2.8 pistons are definately flat.||||reg||1
+Z||000003||Indiana_resto_guy||03-28-2001||10:10 PM||||Look like a platau!||||reg||1
+Z||000004||87GTZ34||03-29-2001||09:59 AM||||Thanks guys.  Your vivid descriptions match mine exactly.  Wow, I got help and didn't have a cute girlie name or offer any favors... PFF does work  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  (just busting chops I couldn't resist).<P>thanks again||||reg||1

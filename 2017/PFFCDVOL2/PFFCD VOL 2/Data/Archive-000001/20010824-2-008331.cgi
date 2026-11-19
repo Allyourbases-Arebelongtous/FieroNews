@@ -1,0 +1,5 @@
+A||||3||Joe4x4||WoW...WoW||||1||
+Z||000000||Joe4x4||02-07-2001||08:08 AM||||Will this work ?<BR>Anyone done one of these ,..Looks very good.<BR> <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=556042759" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=556042759</A> <P>------------------<BR>Fiero got fire<BR>   <IMG SRC="http://www.fiero.nl/uploads/exp.gif">          <IMG SRC="http://www.fiero.nl/uploads/animated_cat.gif"> ||||reg||1
+Z||000001||Oreif||02-07-2001||10:28 AM||||There are a few 3800SC cars on here, Phil has a yellow Formula with one.||||reg||14
+Z||000002||TheFiero64||02-07-2001||11:05 AM||||Phil's car is sweet. That engine is Fastttt. I wish I had the funds.<P>------------------<BR>Josh<BR>88 Coupe V6<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif">   <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||1
+Z||000003||rogergarrison||02-07-2001||12:28 PM||||Im thinking you could buy that from Jasper Engines for less and they deliver for free.||||reg||1

@@ -1,0 +1,4 @@
+A||N||2||Clint||Pyrahna Interior (used to be Kit)||||4
+Z||000000||Clint||09-27-1999||09:17 AM||||Everyone. Just received this e-mail. I haven't confirmed yet.<BR>(FROM BOB Nielson)<BR>Eddie Snaauw's dash is now handled by PISA and is one of the best I've seen.  It's from the Ferrari Maranello.  Bob Nielsen<P>can anyone confirm this/provide pricing???<P><BR>||||reg||4
+Z||000001||batboy||09-27-1999||02:12 PM||||Maybe it's a brand new item and PISA hasn't got it out on their website yet. They have two dash kits, neither looked to me like that pic from the other thread. See for yourself.<P> <A HREF="http://www.cybercars.com/fierohq.html" TARGET=_blank>http://www.cybercars.com/fierohq.html</A> ||||reg||1
+Z||000002||Clint||09-29-1999||05:20 PM||||word back from Dan at PISA. They do not sell this kit ;-(((||||reg||1

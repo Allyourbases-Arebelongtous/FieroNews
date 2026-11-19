@@ -1,0 +1,8 @@
+A||||6||HugGRRRFiero||Rice-o-Rocket... the San Francisco treat!||||4||
+Z||000000||HugGRRRFiero||09-19-2000||11:33 PM||||Check this out!!!  <IMG SRC="http://www.fiero.nl/forum/eek.gif"><BR> <IMG SRC="http://www.fiero.nl/uploads/ricerocket.gif"> <BR>I found the picture in the Corvette forum... sheesh<P>Figured we could have some fun and good laughs at it too  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||4
+Z||000001||SCCA FIERO||09-20-2000||01:48 AM||||WOW.... that guy stole my idea. I put 4 of those on my Fiero. It's a little loud, but I think I have like 600bhp now!!! It's true everyone I swear!!!||||reg||12
+Z||000002||mrfixit58||09-20-2000||08:14 AM||||Maybe the guy is just a real Batmobile fan and couldn't afford the bubble canopy....  <IMG SRC="http://www.fiero.nl/forum/confused.gif"><P>Roy  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||13
+Z||000003||GT Bastard||09-20-2000||10:59 AM||||This makes the 3rd or 4th thread on that picture!  I think we should devote a forum solely to that picture.||||reg||1
+Z||000004||HugGRRRFiero||09-20-2000||11:09 AM||||No kidding...  I didn't know that!  GT Bastard, can you remember the name of the threads or post them so we can all check em out?||||reg||1
+Z||000005||1FST2M6||09-20-2000||03:11 PM||||good ol' tenneesse made rice...<BR> <IMG SRC="http://www.fiero.nl/uploads/saturnrice.jpg"> <BR> and Korean (hyundai) rice... <BR> <IMG SRC="http://www.fiero.nl/uploads/hyundairice.jpg"> <P>at the nopi show sat/sun||||reg||1
+Z||000006||frontal lobe||09-21-2000||02:24 PM||||Yes, it's been seen before, but it remains a classic.<P>"Deserves it's own website".  LOL.  Good one.||||reg||1

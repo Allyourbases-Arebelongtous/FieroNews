@@ -1,0 +1,5 @@
+A||||3||bHooper||bob englert and i say hello from or MCSE class||||1||
+Z||000000||bHooper||06-06-2001||06:20 PM||||hello!<P>yes, we are learning how to get onto the internet... imagine that!<P>oops, instructors looking... gotta go!<P>------------------<BR>hoop<BR>Red '86 GT 5 speed<BR>*Black '86 SE Automatic||||reg||1
+Z||000001||Jake_Dragon||06-06-2001||06:48 PM||||Oh! someone has more rights than they should.<BR> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000002||bHooper||06-06-2001||09:08 PM||||its all in the name of further education!<P> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>hoop<BR>Red '86 GT 5 speed<BR>*Black '86 SE Automatic||||reg||10
+Z||000003||Standard||06-06-2001||11:18 PM||||Sounds like a tough class...  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Got yelled at at work for using the computer to access "non-work related" internet sites... no more forum suring there..  <IMG SRC="http://www.fiero.nl/forum/frown.gif">||||reg||1

@@ -1,0 +1,3 @@
+A||||1||camaro2fiero||relay problem?||||1||
+Z||000000||camaro2fiero||04-14-2001||12:05 AM||||Hello I have a 1984 Fiero 2m4 .The passenger headlight motor wont stop when I turn the lights off.Is this a problem with the relay.Lights go up and down ,the motor just doesent stop.If I turn on parking lights the motor stops.Any help would be appeaciated.||||reg||1
+Z||000001||johnt671||04-14-2001||07:48 AM||||Had the same problem with my 84.  the light would not stop goung up or down, even when the car was off.  Tried the relay but that was a no go. Had to replace the motor.  after I did this, I found this site and learned that rebuild kits were a much cheaper way to go.  Belive Rodney Dickman sells these kits.<P>------------------<BR>||||reg||1

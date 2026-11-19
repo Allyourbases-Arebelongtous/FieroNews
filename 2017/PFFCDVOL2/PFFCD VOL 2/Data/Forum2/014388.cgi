@@ -1,0 +1,4 @@
+A||||2||Neal||Rodneys Great Products Save the Day||||14||
+Z||000000||Neal||10-12-2001||08:43 PM||||Today I got a parcel from Rodney Dickman, included in the box was a getrag select cable and the select are rebuild kit.<P>I must say definite improvement over my old half seized cable, and the shifter feels very smooth and crisp.<P>Im very happy with my shifter now, worlds of difference over the old cable.||||reg||14
+Z||000001||FieroJoe||10-12-2001||11:37 PM||||Glad you got the select arm rebuild kit from Rodney and not the Fiero Store!<P>Rodney's products are always top notch.||||reg||14
+Z||000002||Haagster||10-13-2001||03:51 AM||||I recently got an elastic shift boot that looks 200% better than the original.  Rodney's stuff is great!!!<P>------------------<BR>       <IMG SRC="http://www.fiero.nl/uploads/Signature_8.jpg">  <BR>87GT Auto||||reg||6

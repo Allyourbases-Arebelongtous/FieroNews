@@ -1,0 +1,6 @@
+A||||4||Ralfy9862||GTA   Rims||||1||
+Z||000000||Ralfy9862||12-21-2000||10:16 AM||||i want a set of these to put on my gt but on the forum a little while ago people said they wouldn't fit cause of the bolt pattern but i found this site <A HREF="http://www.classicindustries.com" TARGET=_blank>www.classicindustries.com</A> <BR>that sell the wheels and it say that they fit all f bodys i might be wrong but arent the fieros f bodys and if they dont fit isn't there  a way to change the hubs to make them fit cause there a relly cool rim <BR>with a factory look<BR>||||reg||1
+Z||000001||1FST2M6||12-21-2000||10:29 AM||||an F body is a Camaro/Firebird 5x114.3 ours is a P body (i think) and has a bolt pattern of 5x100mm||||reg||1
+Z||000002||Ralfy9862||12-21-2000||10:31 AM||||Is there a way to modify the hubs to fit f body wheels||||reg||1
+Z||000003||Oreif||12-21-2000||11:37 AM||||Yes you can modify the Fiero to use F-body wheels. Either one of those scary adapters or have custom spindles and axles made. But remember you'll lose the offset (F-bodies are RWD) and the adapters will push the wheels out farther. This will apply extra stess to ball joints and the CV joints on the rear and they will wear out sooner.||||reg||13
+Z||000004||1FST2M6||12-21-2000||11:54 AM||||you can order blanks and have a local machine shop drill them for ya with the proper bolt patern||||reg||1

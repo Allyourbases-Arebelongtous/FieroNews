@@ -1,0 +1,2 @@
+A||N||0||Songman||RobertVol - Jacksonville Fieros||||3||
+Z||000000||Songman||11-21-2000||02:42 PM||||Hey Robert, I'm headed down to Jacksonville tomorrow and will be there through the weekend. Actually, I plan to go to Daytona to the Turkey Run on Saturday but I'd like to meet you and/or some of your guys and check out your cars while I am down there.<P>Unfortunately, I won't be in any of my Fieros this trip. Just can't figure out where to put that third person! ||||reg||3

@@ -1,0 +1,3 @@
+A||||1||jlruiz67||price for exhaust manifold HELP!!!||||4||
+Z||000000||jlruiz67||01-25-2001||02:30 PM||||Sorry I found the problem and is not the subject of this post<p>[This message has been edited by jlruiz67 (edited 01-25-2001).]||||reg||4
+Z||000001||DXR_DAD||01-25-2001||03:25 PM||||They run bout $300.00ea New!!!! Place an ad in the mall sec. someone may have some, junk yards, Ebay????. The crack can be welded???<BR>Another $300.00 for labor to R&R<P>While in there you should port out the manifolds & re-weld, gain a few HP's<P>DXR_DAD<p>[This message has been edited by DXR_DAD (edited 01-25-2001).]||||reg||1

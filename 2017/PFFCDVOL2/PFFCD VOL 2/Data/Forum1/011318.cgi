@@ -1,0 +1,10 @@
+A||||8||tgowens||Don't forget to reset.....||||1||
+Z||000000||tgowens||10-26-2001||05:55 PM||||the clock in your Fiero (I had to make this Fiero related!) tomorrow night as daylight savings time ends...<P>------------------<BR><A HREF="http://www.whgraphics.com" TARGET=_blank>West Highland Graphics & Design</A><BR><A HREF="http://www.cfog-i.org" TARGET=_blank>Classic Fiero Owners Group International</A>||||reg||1
+Z||000001||88CoupeV6||10-26-2001||09:13 PM||||Thanks, I will probably forget until Monday morning when I look down on the way to work  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR><P>------------------<BR>Josh<BR>   <IMG SRC="http://www.fiero.nl/uploads/newsig.jpg">    <BR>:D  <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||7
+Z||000002||tgowens||10-26-2001||09:52 PM||||well, that will make you an hour early!!||||reg||1
+Z||000003||CoolBlue87GT||10-26-2001||09:59 PM||||Oh boy, now it will be right again !! lol||||reg||4
+Z||000004||Master_Sushi||10-26-2001||10:39 PM||||If I forget to set mine I'll probably be right on time for once!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000005||AusFiero||10-27-2001||05:57 AM||||Hey cool, yous have daylight saving too huh. We start daylight saving tonight. <P>------------------<BR>     <IMG SRC="http://www.jadeweb.com.au/fiero/ausfiero2.gif">    <BR><A HREF="http://www.jadeweb.com.au/fiero" TARGET=_blank>My Fiero</A> | <A HREF="http://www.fieroshop.com.au" TARGET=_blank>Fiero Accessories</A>||202.139.20.3||reg||1
+Z||000006||Indiana_resto_guy||10-27-2001||07:50 AM||||A change that I must opt out on!||||reg||1
+Z||000007||Raydar||10-27-2001||10:52 AM||||Hey Jim,<P>Now you get to listen to us whine about the cold while you bask in the warmth. <BR>Or is that "swelter in the heat"?  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Raydar - aka Steve<BR><FONT SIZE="1"><BR>Some mornings, it just isn't worth chewing through the restraints.</FONT>||||reg||1
+Z||000008||Steve Normington||10-27-2001||10:58 AM||||I will also forgo this semiannual ritual.||||reg||1

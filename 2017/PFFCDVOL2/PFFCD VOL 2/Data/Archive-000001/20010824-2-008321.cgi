@@ -1,0 +1,7 @@
+A||||5||Bruce||ash tray doors||||1||
+Z||000000||Bruce||02-06-2001||05:48 PM||||I leaned a little to hard on the driver's side ash tray door and broke the litle plastic pivot piece that the door swings on. What's a good way to fix it?<BR>Thanks!<BR>bb||||reg||1
+Z||000001||bHooper||02-06-2001||06:45 PM||||i'll let you know in a bit.  that is one of the thing that i am going to "experiment" on tonight.<P>hoop||||reg||1
+Z||000002||Bruce||02-06-2001||07:00 PM||||Seems like a "super-glue-and-a-plastic-post" type of repair, but the post part is the critical factor. Looking forward to the results of your experiment.<BR>bb||||reg||1
+Z||000003||FieroJoe||02-06-2001||07:15 PM||||Exactly what I did!  Super glue is perfect, and the broken off post will probably still be attached to the spring wire.  Works great!<P>------------------<BR>FieroJoe<BR>c311t@yahoo.com<BR>AIM: Fiero87311, Snowboarder0311<BR>  <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1
+Z||000004||bHooper||02-06-2001||07:40 PM||||i have used that "plastic welder" b4, works wonders.<P>it's available at most auto parts stores.||||reg||1
+Z||000005||Kevin-84SE||02-06-2001||09:10 PM||||You may want to try Plastex plastic repair, I have used it with very good results for repairing plastic. I have only tried the black which would be the best for the ashtray door but it also comes in white and clear.  <A HREF="http://plastex.home.att.net/" TARGET=_blank>http://plastex.home.att.net/</A> <P>   Kevin||||reg||1

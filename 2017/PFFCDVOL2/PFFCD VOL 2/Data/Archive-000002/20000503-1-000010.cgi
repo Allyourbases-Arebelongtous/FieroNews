@@ -1,0 +1,6 @@
+A||||4||Punkndrublic||Just braging  :-)
+Z||000000||Punkndrublic||03-24-99||11:55 PM||||I just saw on the news that world oil prices are going up and thought that I should brag a bit. I paid 32.4 cents Canadian for a litre of gas, for a grand total of 8 bucks canadian for a full tank. So whats that 80 cents US/gallon ???    :-)
+Z||000001||Cliff Pennock||03-25-99||12:20 AM||||Wanna know what we pay here in Holland? US$4 per gallon!!!
+Z||000002||DaRkLoRD||03-27-99||02:49 PM||||how many liters is a gallon?<p>maybe it's just me, but I thought the US price would be far lower than the Canadian one, since our dollar is worth so little compared to USD. ;)
+Z||000003||Punkndrublic||03-28-99||01:43 PM||||Normally it is cheaper, by far, the regular price is 59.9 but ever since Arco started selling gas up here theres been hudge gas wars, but only here in the Vancouver area, I think. One company has already shut down, cause there losing too much money. The prices have been as low 29.9 which is as cheap as propane. As for the conversion i think its about 3.8 litres to the US gallon.
+Z||000004||PaUL||04-08-99||02:08 PM||||wow you guys are lucky, the cheapest gas I can find here is $1.58/gal. Thats how it is in Hawaii, everything costs more and you get paid less.

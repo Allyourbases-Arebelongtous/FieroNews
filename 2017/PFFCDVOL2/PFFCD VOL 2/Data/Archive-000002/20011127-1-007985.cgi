@@ -1,0 +1,2 @@
+A||N||0||Jake_Dragon||Anyone have a spare faceplate for a JVC KDS570||||1||
+Z||000000||Jake_Dragon||06-07-2001||05:28 PM||||Mine got ripped off last night.<BR><A HREF="http://www.fiero.nl/forum/Forum1/HTML/007973.html" TARGET=_blank>Ripped off my Face</A><P>------------------<BR><A HREF="http://home1.gte.net/rebel33/index.htm" TARGET=_blank> <IMG SRC="http://home1.gte.net/rebel33/logo.gif"> </A>||||reg||1

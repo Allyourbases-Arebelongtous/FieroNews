@@ -1,0 +1,6 @@
+A||||4||DrewBoOty||Notchback with GT lower end||||1||
+Z||000000||DrewBoOty||10-11-2001||11:16 PM||||okay i have a 87 notchback and i want to take the lower rear end of a gt and put it on my car would i be able to do that, if you dont understand what im trying to get at pretty much i want dual exhuast <P>------------------<BR>----"There Are No Stupid Questions, But There Are A LOT Of Inquisitive Idiots."||||reg||1
+Z||000001||Hank is Here||10-11-2001||11:20 PM||||You could always get an 88 coupe rear they has the dual cutouts....||||reg||1
+Z||000002||DrewBoOty||10-11-2001||11:25 PM||||thanks, now i just need to find one!<P>------------------<BR>----"There Are No Stupid Questions, But There Are A LOT Of Inquisitive Idiots."||||reg||1
+Z||000003||Philphine||10-11-2001||11:32 PM||||if you have the '87-'88 style coupe just cut it. i did my '87 when i got dual exhaust before i switched to a gt rear. didn't even take it off the car to do it. ||||reg||1
+Z||000004||Master_Sushi||10-12-2001||12:11 AM||||All the 88s allready have both cutouts. I was going to add dual to my 88 coupe. The empty exhaust cutout on the right looked silly to me. But I sold it b4 I had the chance  <IMG SRC="http://www.fiero.nl/forum/frown.gif">.||||reg||9

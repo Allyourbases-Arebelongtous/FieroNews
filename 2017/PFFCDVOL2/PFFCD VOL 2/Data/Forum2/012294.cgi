@@ -1,0 +1,4 @@
+A||N||2||Dan87GT||Saturn Studs - Torque Spec?||||1||
+Z||000000||Dan87GT||07-25-2001||07:49 AM||||I am using the Saturn Studs for my 3rd exhaust manifold fix. Wondering what torque I should use for them?<BR>Thanks, ||||reg||1
+Z||000001||Cozmo||07-25-2001||09:49 AM||||I did mine at 19 ft/lbs.<BR>no problems so far after 2K miles...<BR>(fingers crossed) <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR><B>C02M0</B>||||reg||1
+Z||000002||skitime||07-25-2001||10:33 AM||||I used them and have one piece of advise.  They tended to come loose easily so put a second nut on to lock them together. I also put the heat sheild on top of the first nut so that it did not interfere with the tightness. I still think they are better than the original bolts though. Just my 2 cents.<P>------------------<BR><UL TYPE=SQUARE><BR><LI>Red 88 GT T-TOP<BR><LI>Red 86 GT<BR></UL> <IMG SRC="http://www.fiero.nl/uploads/signature-1.JPG"> ||||reg||1

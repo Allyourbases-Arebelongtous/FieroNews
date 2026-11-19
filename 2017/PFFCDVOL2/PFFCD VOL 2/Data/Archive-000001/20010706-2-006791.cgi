@@ -1,0 +1,8 @@
+A||||6||My7Fieros||bump, POP,bump,POP,bump,POP||||4||
+Z||000000||My7Fieros||11-14-2000||09:13 PM||||Everytime I hit a bump, I hear a kind of "pop" sound from my pass side rear wheel. Kind of like if someone were to drop a full bottle of coke in the trunk...strange analagy I know, but best I could come up with. I suspect it needs new control arm bushings...any ideas? (btw its a Formula). Thanx||||reg||4
+Z||000001||88formula||11-14-2000||09:36 PM||||Check your anti-sway bar bushings. They are a high wear item.||||reg||1
+Z||000002||theogre||11-14-2000||10:43 PM||||check the cradel bushings(you didn't say what year) and the exhaust hangers.<P>check the pass side door latch and make sure its holding tight.<P>coolant tubes too.||||reg||1
+Z||000003||robertjay||11-15-2000||07:23 PM||||Check to see if your battery tray is rusted out and allowing the battery to bounce around at all.||||reg||1
+Z||000004||My7Fieros||11-15-2000||08:31 PM||||Battery tray/pass door is fine. Ogre, I mentioned it was a Formula..also, what about the coolant tubes? Thanx||||reg||1
+Z||000005||theogre||11-16-2000||09:05 PM||||If something snagged a braket you could have a coolant tube loose. not likely but posible.<P>one thing you can try is find an area with some speed bumps. have a passenger turn to face out the window while you drive over the bumps. the passenger may be able to tell if its comming from front or rear better than you can from the drivers seat. Try it with the window open and shut.<P>If the speed bumps are to big or won't duplicate the problem lay out some large chunks of 2X4 on a hard dirt patch. <p>[This message has been edited by theogre (edited 11-16-2000).]||||reg||1
+Z||000006||Got2manyfieros||11-17-2000||11:14 AM||||Check your engine mounts.||||reg||1

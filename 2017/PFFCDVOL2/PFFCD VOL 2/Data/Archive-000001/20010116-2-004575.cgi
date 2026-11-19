@@ -1,0 +1,2 @@
+A||||0||BAM-BAM||Here's one for those on the east coast......||||6||
+Z||000000||BAM-BAM||07-02-2000||10:39 PM|||| This oughtta wet some appitites for those looking for the 3.4L swap. especially those on the east coast. <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=369141450" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=369141450</A> <BR>Give  this a look see.<P> Late, BAM OUT!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR><P>------------------<BR>Don B. <BR>85GT||||reg||6

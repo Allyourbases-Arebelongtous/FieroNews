@@ -1,0 +1,6 @@
+A||||4||Adrift||Info on V8 Archies' break kit?||||1||
+Z||000000||Adrift||07-27-2001||08:11 PM||||Anyone have any info/experience with V8 archies break kit? The link on his site, <A HREF="http://www.v8archie.com/bigbrakes.htm" TARGET=_blank>http://www.v8archie.com/bigbrakes.htm</A>  , is broken (No page is there)<BR>Thanks<BR>Adrift<BR>||||reg||1
+Z||000001||LT1 Chop Top||07-27-2001||08:20 PM||||I do....just make sure your seatbelts work!  (so you don't go flying through the windshield from stopping so fast).  Seriously, very quick, SOLID stopping, I don't notice any fade especially compared to my 88 crossdrilled/vented breaks, which are great to begin with.  I could not imagine having a V8 Fiero w/o these breaks.||||reg||1
+Z||000002||Adrift||07-27-2001||08:34 PM||||How much did/do they cost?<BR>||||reg||1
+Z||000003||onfire||07-28-2001||04:29 AM||||I think it was $260 for the adapters. You buy the rest of the parts over the counter.<BR>And $1450 for the complete kit.<P>Here is a link for you to check out.<BR> <A HREF="http://www.fiero.nl/forum/Forum2/HTML/012042.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/012042.html</A> <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/onfiresig.jpg"> ||||reg||1
+Z||000004||cadaver||07-29-2001||12:47 AM||||Oh brakes I thought you said breaks||||reg||1

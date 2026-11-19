@@ -1,0 +1,6 @@
+A||||4||Formula||forum advertising..||||1||
+Z||000000||Formula||07-17-2001||08:16 AM||||I was looking around the net and noticed that ls1.com--- <A HREF="http://www.ls1.com/ls1forum/ls1_forum_main.htm" TARGET=_blank>http://www.ls1.com/ls1forum/ls1_forum_main.htm</A>  --- has a really nice way of advertising and doesnt take up to much space.  I'm just looking at ideas because I bored. lol<P>||||reg||1
+Z||000001||Sootah||07-17-2001||12:40 PM||||So long as the forum god doesnt add pop-ups, I don't think any of us would care about some advertising.<P>------------------<BR>Never argue with an idiot, they drag you down to their level and then beat you with experience||||reg||14
+Z||000002||onfire||07-17-2001||02:11 PM||||It says they have 19304 members. Wow!||||reg||1
+Z||000003||Galen||07-17-2001||10:39 PM||||onfire, they also have 38 didn't sections.. We dont need that many<P>------------------<BR><FONT COLOR="purple">Ray</FONT> <FONT COLOR="gray">-</FONT> <FONT COLOR="purple">"It may be the opinion of the court, but its still wrong"</FONT><BR><A HREF="http://www.geocities.com/ray19nc/download.html" TARGET=_blank>Download FieroProject.com Chat Client v1.22 Today</A>||||reg||1
+Z||000004||terryk||07-18-2001||03:09 PM||||Could we move the travelling salesman there?||||reg||1

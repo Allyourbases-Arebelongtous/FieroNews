@@ -1,0 +1,4 @@
+A||||2||Wade87GT||GM Alum block V-6||||5||
+Z||000000||Wade87GT||02-01-2001||11:18 AM||||Does anybody know of a good price on this block?<P>https://www.spoperformanceparts.com/store/catalog/Product.jhtml?PRODID=177&CATID=175<P>Notice it has "bosses for both front-wheel-drive and rear-wheel-drive engine mounts. The starter motor can be installed on either side of the block".<P>Wade||||reg||5
+Z||000001||loafer87gt||02-01-2001||11:42 AM||||Go to the mall section of the forum. A fellow named Shaun has one for sale there. When I was pricing them out several years ago the going price was around $4000 US. ||||reg||1
+Z||000002||1FST2M6||02-01-2001||11:58 AM||||i think sahun wants like $2500.. <P>shaun41178@aol.com   -Shaun Hammit-<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sig1fst.jpg"> ||||reg||1

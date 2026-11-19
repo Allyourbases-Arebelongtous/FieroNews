@@ -1,0 +1,10 @@
+A||||8||speed racer||motor swap||||1||
+Z||000000||speed racer||09-23-2001||10:08 PM||||When doing a motor swap do I need to get a motor with an auto trany if I have an auto Fiero or dose it matter what the original trany on the new motor is.||||reg||1
+Z||000001||Steve Normington||09-24-2001||11:02 AM||||It depends. If you swapping a 3.4 from a Camarobird and are using your Fiero ECM and wiring, then it does not matter. If you are using the ECM and wiring from the donor car then it depends whether the donor car was shifted by the ECM or not.||||reg||1
+Z||000002||speed racer||09-24-2001||04:35 PM||||I was planing on swaping a 3800 SC out of a GTP in to my car.||||reg||1
+Z||000003||Steve Normington||09-24-2001||04:51 PM||||AFAIK, the 3800 didn't come with a MT. All FWD GM V6's are AT only since 92ish. If you're using the ECM from the GTP, get the tranny too.||||reg||1
+Z||000004||Formula88||09-24-2001||04:52 PM||||If you want to keep an automatic with the 3800SC, <B><I>definately</B></I> use the 4 speed auto that comes with the 3800SC.  It's much stronger and interfaces with the electronics on the 3800SC.  Definately the way to go.  The only reason you wouldn't want to use the original 3800SC tranny is if you wanted to go to stick.||||reg||4
+Z||000005||speed racer||09-24-2001||10:34 PM||||If I stay with the 4-speed stick sould I keep the orginal Fiero trany or should I get another one or what.||||reg||1
+Z||000006||Luni420||09-26-2001||01:35 PM||||Is it fairly easy to keep a 4 spd and do the 3800 SC conversion? ||||reg||1
+Z||000007||htexans1||09-28-2001||01:59 PM||||It is easy. Your 4-speed transaxle will bolt right up to the 3800 V6. Use a 3800 flywheel made for a Camaro that has been turned down to the thickness of the fieros flywheel (.840) then have it balanced. bolt the trans axle to the engine and make measurments for mounts to the cradle. You might want to go th the 3800SCfieros list on yahoo groups for more info on this swap||||reg||1
+Z||000008||speed racer||09-28-2001||06:24 PM||||How much would the 3800 SC swap cost me, installed and ready to drive with out any mods or any thing.||||reg||1

@@ -1,0 +1,3 @@
+A||N||1||pollock||lowering springs-how low really?||||5||
+Z||000000||pollock||12-31-2001||04:45 PM||||For anyone who has used the Eibach springs from the Fiero Store:<P>They advertise them as a 1" drop.  How much did they actually lower your car?  <P>I have some Eibach springs on the front of my Mustang that are supposed to be factory height.  I assure you that they are not.  I am happy with the way it turned out... but I don't want any surprises on the Fiero.<P>....or, if you've used another brand of lowering spring, let me know how it turned out.<P>||||reg||5
+Z||000001||terryk||12-31-2001||06:58 PM||||I measured about 1.5" all around. You mileage may vary.||||reg||1

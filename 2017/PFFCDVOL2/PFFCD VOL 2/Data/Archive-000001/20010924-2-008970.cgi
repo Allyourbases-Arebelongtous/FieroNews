@@ -1,0 +1,5 @@
+A||||3||Bill H||Cluth and lighter flywheel||||1||
+Z||000000||Bill H||03-15-2001||10:27 PM||||Does anyone know where to get one and what is the price? How much lighter are they, what to expect for performance? thanks||||reg||1
+Z||000001||tgowens||03-16-2001||02:59 AM||||BillH, call George at the Fiero Shop (three hour time difference from you) in Richmond, CA, we are selling a Kevlar clutch and an aluminum flywheel -- there are several out there and we can certainly give you references on them.........George can give you the specs and particulars on the set-up.......I think this is just what you are looking for.......510-233-4376||||reg||1
+Z||000002||Will||03-16-2001||10:36 AM||||How much does you aluminum flywheel cost?<BR>It is billet?<BR>How much would an aluminum flywheel with a Northstar bolt pattern cost?<BR>The Northstar needs a neutral balance flywheel.||||reg||1
+Z||000003||fieroshop||03-16-2001||01:10 PM||||Hey Guys, I have a toll free number that you can call and that number is 866-534-8486.<BR>Call me and we can discuss prices over the phone.<P>------------------<BR> <BR>      <IMG SRC="http://www.fiero.nl/uploads/fieroshop_sig_1.gif"> ||||reg||1

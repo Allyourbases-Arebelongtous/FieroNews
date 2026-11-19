@@ -1,0 +1,4 @@
+A||N||2||jhogans||Cruise Control not working||||1||
+Z||000000||jhogans||01-04-2000||05:58 PM||||I tried out my cruise control the other day and it doesn't work.  What should be my next step to figuring out this problem?  My other post I talk about my wipers just staying on.  could these two be related?||||reg||1
+Z||000001||GWMORGAN||01-04-2000||06:38 PM||||Go to this site  <A HREF="http://members.xoom.com/fierov6/OSG/diag.cruise-control.html" TARGET=_blank>http://members.xoom.com/fierov6/OSG/diag.cruise-control.html</A> ||||reg||1
+Z||000002||David Gamache||01-05-2000||10:59 PM||||In three of my five cars the cruse control has been a problem. Check the vacumme lines at the canister. If all is well the directional/wiper/cruse set control probably has a short in one of the three fragile thin wires. The plug for the cruse is under the steering coloum on the left. replacements are not cheap, but nothing last forever. ||||reg||1

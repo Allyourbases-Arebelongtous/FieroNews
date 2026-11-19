@@ -1,0 +1,6 @@
+A||||4||Bruce||Tiny bubbles||||1||
+Z||000000||Bruce||12-25-2000||02:14 PM||||What are symptoms of air in the cooling system?<BR>Merry Christmas!<BR>bb||||reg||1
+Z||000001||fotofrank||12-25-2000||02:20 PM||||When I changes my 2.5 TBi and intake some coolant was lost. The car, when runing, indicated a hot engin and a few minutes later a cool engine.This was cyclical. Adding coolant solved the problem. ||||reg||10
+Z||000002||FieroJoe||12-25-2000||07:50 PM||||Do a search of the archives, there was a topic concerning it a few weeks ago.  Im sure a post or two in there will give you the whole flush/refill/burping instructions.<P>------------------<BR>FieroJoe<BR>c311t@yahoo.com<BR> <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1
+Z||000003||theogre||12-25-2000||11:42 PM||||I added my version of this procedure to my cave yesterday. <A HREF="http://fierocave.shorturl.com" TARGET=_blank>The Fiero Cave</A><P>My method is mainly intended for dry and heater repaired systems. You can probably skip the heater section.||||reg||1
+Z||000004||Bruce||12-26-2000||06:31 PM||||No overheating or coolant loss. I just had the distributor replaced, and there's an erratic "slipping" in 2nd and 3rd. Doesn't happen all the time; otherwise, runs great! I'm thinking it may be new clutch time soon, but I'm in denial during this time of year.<BR>bb||||reg||1

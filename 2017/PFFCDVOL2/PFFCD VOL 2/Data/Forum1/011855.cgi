@@ -1,0 +1,6 @@
+A||||4||edbone||Why are my reply post not showing||||9||
+Z||000000||edbone||11-14-2001||07:38 PM||||My reply column are showing replys but not showing on my pc. Any one know why? But on my work pc they show up||||reg||9
+Z||000001||Borgio||11-14-2001||07:46 PM||||Hit the refresh button.<BR>||||reg||1
+Z||000002||85ZainoGT||11-14-2001||09:26 PM||||it takes a couple minutes sometimes!  patience is a virtue.<P>------------------<BR>Paul Ventimiglia<BR>1987 Gold GT 2.8L<BR>All the options :)<BR> <IMG SRC="http://www.fiero.nl/uploads/SigPic2222.jpg"> <BR>NEW pics are coming SOON hopefully... geez!||||reg||1
+Z||000003||Philphine||11-14-2001||10:24 PM||||happens to me sometimes at home. i've had posts not show up for a couple of hours. i got used to it and figure they'll show up eventually. the only problem is if i know i made a mistake it dosen't come up to edit it so i have to wait till i see it later to make the correction.||||reg||1
+Z||000004||DRH||11-14-2001||10:25 PM||||Make sure your Tempoaray Internet Files settings in Internet Options is set to check for a new file "Every visit to the page".<P>Also, I was having trouble at home for a while where I had to hit Refresh 2 or 3 times before it really refreshed. I think it may have been some sort of file caching my ISP was doing. It's OK now though.||||reg||1

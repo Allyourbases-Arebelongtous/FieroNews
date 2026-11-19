@@ -1,0 +1,3 @@
+A||||1||Scott_M||Tough plug||||5||
+Z||000000||Scott_M||02-18-2001||03:26 PM||||In trying to drain and refill the manual transaxle fluid I was stopped flat by the drain plug.I didn't excatly strip the bolt but it's definatly not looking the way it did before I started. I was doing this with the car cold and not having been run for a day. Would it be better to warm it up. I'm thinking that with a warm engine the metal would expand ever so slightly, and loosen up. Any thoughts??<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/Fiero_Signature.jpg">   <BR>87 SE 4cyl,5 spd. manual||||reg||5
+Z||000001||c m west||02-18-2001||03:43 PM||||if the head of the bolt is stripped just try getting on it with a big pair of channel-locks<P>Eric - West Coast Fiero||||reg||1

@@ -1,0 +1,4 @@
+A||N||2||porridgeman||CYLINDER  HEADS||||1||
+Z||000000||porridgeman||05-15-2001||07:02 PM||||Hi,can anyone tell me if a set of heads of a 2.8 V6, GM will fit straight across onto a Fiero 2.8 V6 GT,and do you have to consider the MPFI part for the lower air intake? <P>Thank-You||||reg||1
+Z||000001||Dave Gunsul||05-15-2001||09:00 PM||||If you're talking about the aluminum heads<BR>they won't fit without switching to the Z24,<BR>Barretta, etc. intake plenum and the DIS ignition.<P>------------------<BR>Dave Gunsul<BR>N.I.F.E. member<BR>86 GT modified<BR>85 SE daily driver||||reg||1
+Z||000002||87GTZ34||05-15-2001||09:11 PM||||If you are talking about iron heads, then I don't think you'll want to do that swap.  The valves on the Fiero heads are larger than other models 2.8s.  If you get the heads from a 3.4 camaro or TA then they will be comparable to the HO Fiero heads.||||reg||1

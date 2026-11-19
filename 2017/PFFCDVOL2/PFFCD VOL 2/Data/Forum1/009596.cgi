@@ -1,0 +1,2 @@
+A||N||0||Dragon||Run For The Hills VI Shirts||||10||
+Z||000000||Dragon||08-17-2001||10:44 PM||||If you are attending Run For The Hills VI and would like to have a event shirt, you need to get hold of David Hunter at<P>alafieros@mindspring.com<P>He is only going to make a limited run so you need to let him know quite soon.<P>------------------<BR>Dragon<BR>   <IMG SRC="http://spacecoastfieros.com/dragon.jpg">   <P>   Space Coast Fieros||||reg||10

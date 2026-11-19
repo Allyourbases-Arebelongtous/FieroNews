@@ -1,0 +1,2 @@
+A||||0||Ed||Dang Steering Wheel III||||1||
+Z||000000||Ed||07-18-2001||01:36 AM||||I knew it was more than a thirty minute job. Broke the front trim ring when we tightened the replacement bolts too tightly.  I knew that dang circlip would take a flyer too.<P>Anyone have a source for the front flat trim ring?  Anyone have a source for the circlips? I'll check tomorrow at the parts houses.  And what is the secret for installing the clip? I'm going to attach a thread next time so when it goes flying, again, I'll have it tethered.<BR>||||reg||1

@@ -1,0 +1,8 @@
+A||||6||Phil||Latest edition||||1||
+Z||000000||Phil||12-01-2000||07:04 PM||||Newest addition to the fleet. This is going to be the wife's ride(she likes t tops). 88 coupe GADS how do you guys drive 4 bangers, a loss of 135 HP is noticeable.<BR> <IMG SRC="http://www.fiero.nl/uploads/T-top.jpg"> ||||reg||1
+Z||000001||2xsess||12-01-2000||07:42 PM||||Looks nice  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Good Luck with it!<P>------------------<BR>Jeff<BR> <IMG SRC="http://www.fiero.nl/uploads/My_car_(large)sig_1.JPG"> ||||reg||1
+Z||000002||Cheever2||12-01-2000||08:07 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Phil:<BR><B>...how do you guys drive 4 bangers...</B><HR></BLOCKQUOTE>Pushing the envelope, my man!  Driving it to the machine's limitations!  Oh yeah! Let's light this candle!<P><BR>||||reg||1
+Z||000003||MrPBody||12-01-2000||10:34 PM||||In the immortal words of Juan Manuel Fangio:<P>"More throttle; less brakes."<BR>||||reg||1
+Z||000004||Phil||12-01-2000||10:35 PM||||Or Enzo Ferrari himself "I makea my cars to go notta to stop"<BR>||||reg||1
+Z||000005||Fformula88||12-02-2000||11:18 AM||||HEY!  GIVE IT BACK! HOW DARE YOU STEAL MY DADS CAR!!!    <IMG SRC="http://www.fiero.nl/forum/mad.gif"><P>   <IMG SRC="http://www.geocities.com/formula2m6/DADSFIERO2.JPG">   <P>Just kidding  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  The 4 cyl's aren't bad to drive.  I can attest to the difference in power, but it still handles GREAT.  <P>Nice choice.  Looks like its in really great shape.<p>[This message has been edited by Fformula88 (edited 12-02-2000).]||||reg||1
+Z||000006||Phil||12-02-2000||12:36 PM||||Fformula<BR>Notice how fast I added T-Tops to your dad's car||||reg||1

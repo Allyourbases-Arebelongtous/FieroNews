@@ -1,0 +1,3 @@
+A||N||1||Seanh||Any Fiero meets/shows close to home?||||1||
+Z||000000||Seanh||07-06-2001||12:46 PM||||Just curious where abouts the closest Fiero shows and meets are to Nebraska? Seems everything is on the east coast. I'm definatly going to be going to some of them next year, once all and all is completed and no more "red-headed step children" are driving my car into walls, it should be in good condition once again. Plus I will be putting together a 3800 Fiero in the near future, get some new paint on it and hual it around the country maybe.||||reg||1
+Z||000001||rogergarrison||07-06-2001||12:51 PM||||one in michigan coming up and I know a couple in Illinois||||reg||1

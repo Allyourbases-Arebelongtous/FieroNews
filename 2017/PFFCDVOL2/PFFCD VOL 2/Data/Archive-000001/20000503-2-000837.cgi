@@ -1,0 +1,3 @@
+A||||1||K9||Tires||||9
+Z||000000||K9||09-12-1999||11:29 PM||||I have a 85 GT that use to pull all over the road. After changing the stabliser bar bushings, tire roashion, and getting a four wheel aliament the problem has gotten much better. The car still pulls but only on wavey roads.Could this be something to do with the tires. I have 4 almost new BF Goodrich HR Radials. 215/60R14 ||||reg||9
+Z||000001||Dale||09-13-1999||04:31 AM||||Does it pull both ways?  If yes, it could be your R&P steering needs tightening, or you need some front end parts(ball joints etc.)  You might jack the car up so both wheels are off the ground and see if you can detect any play by moving the stuff around.||||reg||1

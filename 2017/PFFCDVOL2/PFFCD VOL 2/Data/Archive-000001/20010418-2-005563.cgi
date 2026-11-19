@@ -1,0 +1,3 @@
+A||||1||SCCA FIERO||Power trunk release ||||1||
+Z||000000||SCCA FIERO||09-04-2000||11:51 PM||||I rewired the temperature gauge so it doesn't peg anymore, but soon after my deck release stopped working. Is there some sort of relay for it? Checked the fuse already. Replaced the switch and switched out the actual release on the deck lid. The little light behind the switch on the dash works (may not matter, but thought I would say that).||||reg||1
+Z||000001||theogre||09-05-2000||12:00 AM||||relay is in a clip on right side of steering column suport frame. you can use a horn relay to test or replace. More details in my cave articles. (See link at bottom of page)||||reg||1

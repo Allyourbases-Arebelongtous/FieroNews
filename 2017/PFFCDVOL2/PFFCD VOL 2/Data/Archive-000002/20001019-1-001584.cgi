@@ -1,0 +1,3 @@
+A||||1||BAM-BAM||what do these mean?||||5||
+Z||000000||BAM-BAM||03-19-2000||09:45 PM||||  In the front compartment on the driver's side fenderwell, there is a list of service parts codes. What do they stand for? if any one knows I would appreciate your input.<P>  Thanx, BAM-BAM <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||5
+Z||000001||SCCA FIERO||03-19-2000||10:15 PM||||Those are RPO codes. Basically it's eveything it took to build your car. You can go here to decode some of them.  <A HREF="http://home.xnet.com/~paulv/techtips.htm" TARGET=_blank>http://home.xnet.com/~paulv/techtips.htm</A> ||||reg||1

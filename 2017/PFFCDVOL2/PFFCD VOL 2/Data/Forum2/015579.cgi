@@ -1,0 +1,2 @@
+A||||0||84sleepr||Timing cover leaking somewhere???||||1||
+Z||000000||84sleepr||11-19-2001||11:29 AM||||I just spent the weekend replacing the timing cover gasket and seal twice... The thing is leaking much worse then it was in the first place.  I think I did everything perfectly, especially the second time and the damn thing is still leaking...<BR>any ideas of where i screwed up????<P>Any ideas would be great cus I am extremely frustrated!||||reg||1

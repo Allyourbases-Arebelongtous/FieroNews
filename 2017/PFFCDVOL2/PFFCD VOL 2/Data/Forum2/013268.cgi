@@ -1,0 +1,9 @@
+A||||7||Kasdan||Tail LIghts and Dash Lights||||1||
+Z||000000||Kasdan||08-30-2001||08:35 PM||||Ok...tail lights dont operate, neither do my dash lights.  the same fuse controls both these things, so i figured the fuse was blown.  Its not.  PLEASE help!<P>------------------<BR>Tyler Morgan<BR>1986 GT Fastback, <BR>  <IMG SRC="http://www.fiero.nl/uploads/FIERO2.JPG">       <BR>Holley Ram-Air, Power Steering, K&N Filtercharger, Bosch Wires, Bosch Platinum Plugs, Conrad Distribuiter Cap/Rotor, New GT Seats, New Headliner, New Carpet, Ocelet Exhaust, Red Underbody Light Kit (coming soon)<BR>Aim=FieroDriver1986||||reg||1
+Z||000001||PBJ||08-30-2001||08:54 PM||||Do your frt parking lights work?<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/forsalestart.jpg"> ||||reg||1
+Z||000002||kempo||08-30-2001||09:13 PM||||I have the same problem, only my fuse keeps blowing, and I cannot find the damn short anywhere?  Any pointers on troubleshooting where the short could be?||||reg||1
+Z||000003||Kasdan||08-30-2001||09:15 PM||||Dont think so....headlights work||||reg||1
+Z||000004||PBJ||08-30-2001||09:21 PM||||"don't think so"  so if that is a now than I would say you have a failed headlamp/park lamp switch.  Check to see if you have power at back of headlamp switch. on the orange wire. if so than jump the orange wire (terminal A)to the brown wire (terminal E) if your park lights work than you know you have a bad switch||||reg||1
+Z||000005||JetroGT||08-31-2001||02:19 AM||||Diagram coming up....<BR>Check for a lose screw or a piece of metal in your cig lighter first...||||reg||1
+Z||000006||JetroGT||08-31-2001||02:33 AM|||| <IMG SRC="http://www.fiero.nl/uploads/Diagram.jpg"> ||||reg||1
+Z||000007||Kasdan||08-31-2001||08:28 AM||||Only thing in my cig lighter is the power cord to my radar detector which i put in yesterday....||||reg||1

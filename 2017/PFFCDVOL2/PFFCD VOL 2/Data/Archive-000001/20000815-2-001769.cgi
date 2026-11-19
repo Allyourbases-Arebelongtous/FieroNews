@@ -1,0 +1,5 @@
+A||||3||overlord||frozen throttle cable?||||1||
+Z||000000||overlord||12-21-1999||03:55 PM||||it has been -30C for the last couple days and i had to drive home in 4 inches of snow. and i cant move my gas pedal now. Where abouts would it most likely be frozen?<P>its not at the engine..||||reg||1
+Z||000001||theogre||12-21-1999||07:00 PM||||it would almost have to be in the engine compartment. The rest of the cable is inside the car. It runs under the console to the front.<P>did you check the TV cable to the tranny? that would also cause your problem. It's not a "kick down" cable like allot of people think. That cable controlls all tranny shifting. It moves the same ammount as the throttle cable.||||reg||1
+Z||000002||Monkeyman||12-21-1999||11:00 PM||||What's "TV"?  All I can think of is the big wire that goes in my house for the HBO or a transvestite.  I hope it's not the 2nd one <IMG SRC="http://www.fiero.nl/forum/smile.gif">!  Really, what is it?||||reg||1
+Z||000003||mutfish||12-22-1999||06:55 AM||||"TV" stands for throttle valve....it's controls transaxle line pressure, and thus the shift appliction, it also controls part throttle downshifts....||||reg||1

@@ -1,0 +1,3 @@
+A||||1||la9||Need some ideas||||5||
+Z||000000||la9||03-12-2000||01:46 PM||||Where can you get the insulating tape that goes on the wiring harness around the exhaust manifold ? Can you use something else instead ??? I'm not having any luck.||||reg||5
+Z||000001||mwbackus||03-12-2000||02:09 PM||||Summit offers Thermo Tec products that are perfect for replacement....<P>Thermo-Sleeve  TH-14005   3ft roll   $13.99<BR>Thermo Shield Tape  11/2"w x 15 ft roll  $14.25<P>For small lines, tubes, and plug wires, I would use the DEI Heat Shroud. It has velco strips for easy install.<P>DEI-010405  1" x 36"     $28.69<P> <A HREF="http://www.summitracing.com/index.htm" TARGET=_blank>http://www.summitracing.com/index.htm</A> <P><BR>Mike<P>||||reg||1

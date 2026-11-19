@@ -1,0 +1,4 @@
+A||||2||RossT||how to clean the clear plastic lens||||1||
+Z||000000||RossT||12-03-1999||06:51 AM||||What is the bethod method of cleaning smudges<BR>and finger prints of the clear plastic lens<BR>cover over the gauges? Without having to remove it, and without scratching it.<P>Thanks Ross.||||reg||1
+Z||000001||DJRice||12-03-1999||09:41 AM||||The plastic trim panel that covers the gauges is only held on by 4 torx screws.  I would just undo those and go get some good old fasioned windex and a rag.<P>Voila, clean gauges!||||reg||1
+Z||000002||ggarsk||12-03-1999||10:33 AM||||Meguiars has a clear plastic cleaner and a glaze. It will take minor scratches out and polish it. I've used it on my tail lenses and it works real good. It would be worth the time to take the lense out and do it with these products.||||reg||1

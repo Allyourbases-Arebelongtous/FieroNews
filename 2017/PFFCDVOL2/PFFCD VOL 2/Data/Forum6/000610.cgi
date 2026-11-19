@@ -1,0 +1,2 @@
+A||N||0||Haze_Performance||Website Revamp||||1||
+Z||000000||Haze_Performance||08-21-2000||03:42 AM||||Check it out. Click on the HMP link below.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/mycarsig.jpg"> My 1985 2M4 Sport Coupe<P><BR>My Website's  <A HREF="http://www.drive.to/WS6_Fiero.com" TARGET=_blank>WS6 Fiero</A> &                  <A HREF="http://www.drive.to/HMP" TARGET=_blank>H.M.P. </A>||||reg||1

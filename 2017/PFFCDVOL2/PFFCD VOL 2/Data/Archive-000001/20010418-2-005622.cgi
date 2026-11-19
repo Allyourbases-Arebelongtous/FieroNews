@@ -1,0 +1,4 @@
+A||||2||mrfixit58||Getrag Gear Ratios?||||5||
+Z||000000||mrfixit58||09-08-2000||08:36 AM||||Does anyone know each gear ratio (1-5) of the Getrag 5-speed and the differential ratio that was used in the 1987 GT?<P>If you have a link to a page with these numbers I would appreciate it.<P>Thanks in advance,<BR>Roy  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||5
+Z||000001||fiero56||09-08-2000||09:23 AM||||I have them on my site: <A HREF="http://www.geocities.com/MotorCity/Pit/3490/html/specs.html" TARGET=_blank>http://www.geocities.com/MotorCity/Pit/3490/html/specs.html</A> ||||reg||1
+Z||000002||mrfixit58||09-08-2000||09:28 AM||||Thanks. I knew I had seen that table before. It's now maked as a "Favorite".  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>Roy  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||14

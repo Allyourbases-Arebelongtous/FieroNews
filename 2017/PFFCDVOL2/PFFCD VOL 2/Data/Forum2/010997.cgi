@@ -1,0 +1,5 @@
+A||N||3||anthony_86gt||Symptoms of high idle??||||5||
+Z||000000||anthony_86gt||06-04-2001||06:06 PM||||What are some of the things that i would want to check in order to make it idle correctly??  Thanks ||||reg||5
+Z||000001||sqoach||06-04-2001||06:11 PM||||Check your IAC valve. Check for any vacuum leaks. Um....can't think of anything else at the moment.<P>------------------<BR>sqoach@yahoo.com<P>            <IMG SRC="http://www.fiero.nl/uploads/sqoach2.JPG">   <BR>84 SE (project car?)<BR>85 Coupe (parts car)<BR>86 SC (daily driver)||||reg||1
+Z||000002||terryk||06-04-2001||07:55 PM||||Binding throttle cable, IAC, vac leaks (most common), someone dorked with the minimum idle screw.....||||reg||1
+Z||000003||fierohoho||06-04-2001||10:21 PM||||I had a high idle problem on a '86 with a 2.5L I just picked up. The only thing I changed was I filled the coolant so the ECM temp sensor was covered. It had been low enough to be dry while running, after I filled it the idle dropped from 2750-3000rpm down to normal at startup. And no, I didn't run it that long with low coolant.<P>------------------<BR>'84 SE 2.5l<BR>'85 Coupe 2.5l now getting a 3800<BR>'86 SE 2.5l||||reg||1

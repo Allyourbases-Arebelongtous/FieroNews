@@ -1,0 +1,5 @@
+A||||3||85ZainoGT||torque converter for auto v6||||3||
+Z||000000||85ZainoGT||09-21-2001||08:47 PM||||anyone done this to theirs?  how much, was it worth it? thanks..||||reg||3
+Z||000001||theogre||09-21-2001||08:58 PM||||On the stock motor tranny package I would have to doubt it's worth much ASSUMING that the stock TC is good. GM gave these TC's about as much torque multiply as they could. Fortunatly the TC lockup also allows them to get good fuel ecconomy.<P>If the OE TC has been damaged then the rest of the tranny likely has problems as well. Putting a new Tc in such a tranny isn't worth anything.<P>One of the better places to talk to about this is <A HREF="http://www.txchange.com/" TARGET=_blank>Transmission Exchange Co.</A> They have just about everything you need for these transmissions.||||reg||1
+Z||000002||85ZainoGT||09-30-2001||01:30 AM||||TTT||||reg||1
+Z||000003||Indiana_resto_guy||09-30-2001||06:59 AM||||ZanioGT,<P>What is it you want to do, a stall speed or something?<BR>? ? ? ? ||||reg||1

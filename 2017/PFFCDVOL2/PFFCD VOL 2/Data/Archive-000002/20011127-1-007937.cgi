@@ -1,0 +1,9 @@
+A||N||7||bya72||How much are 84 SE tail lights worth?||||1||
+Z||000000||bya72||06-05-2001||07:26 PM||||I have a goo friend with both tail light assembies that I am thinking of buying.  They are in good shape.  He told me to come up with a price.  He is a good friend so i don't want to screw him.  What is a reasonable price for them?||||reg||1
+Z||000001||Urchin||06-05-2001||07:33 PM||||I got two from the auto wreckers for $25<BR>in good shape.  Canadian funds.  Hope that helps.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/signature2_3.jpg">   <P>If you can read this, I'm parked.||||reg||1
+Z||000002||DecadenceR||06-05-2001||08:39 PM||||A web site has them for $40 a piece.<BR>I think that's about the going rate at most places...<BR>||||reg||1
+Z||000003||Monkeyman||06-05-2001||11:40 PM||||<B>$40 each side????</B>  Someone's getting ripped off.  Maybe $40 for the pair.  They're all over in the bone yards.  I've got a couple of sets around here I'd sell for $80 if anyone's a big enough sucker.  On the other hand, eBay always gets way too much money for that kind of stuff.  Maybe I'd better head to the shed and make sure I haven't dropped anything on them.  I could use the extra cash.<P>MM||||reg||1
+Z||000004||Urchin||06-05-2001||11:43 PM||||wow!  sounds like a good idea monkeyman, ill join that bandwagon<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/signature2_3.jpg">   <P>If you can read this, I'm parked.||||reg||1
+Z||000005||bya72||06-06-2001||12:00 AM||||so is 40 bucks for both reasonable?||||reg||1
+Z||000006||Urchin||06-06-2001||12:02 AM||||ya, I'd say thats reasonable.  As long as they are in good shape||||reg||1
+Z||000007||DecadenceR||06-06-2001||12:13 AM||||Hey Monkeyman...<BR>That price was taken from Fieroparts.com<BR>Sad thing is i was thinking about getting them from there too.<BR>Around here most of the junkyards either don't have fieros or the ones they have are totally stripped.||||reg||1

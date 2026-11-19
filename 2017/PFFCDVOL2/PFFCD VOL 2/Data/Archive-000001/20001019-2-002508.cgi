@@ -1,0 +1,5 @@
+A||||3||BAM-BAM||85GT 3.6L||||5||
+Z||000000||BAM-BAM||02-28-2000||08:14 AM||||   One quick question.  I an thinking of puting a 3.6L out of a 95 Pont. Grand Prix GTP in my 85 Fiero GT. I know I'll need the computer and wiring loom. Are there any other novelties that I should be aware of? Is this a bad idea? or should I just stay with the original 2.8 and have it built out? any help or suggestions will be appriciated:confused. and are there any alternatives for my earlier problem with the alternator bracket? see previous post. <P>Thanx Bam-Bam||||reg||5
+Z||000001||terryk||02-28-2000||06:38 PM||||Do you mean a 3.4L DOHC or 3.8L Buick V6? Both came in the GP.<P>There is no 3.6L Buick.||||reg||1
+Z||000002||Monkeyman||02-28-2000||08:15 PM||||You need to put this ":" behind this ":confused" minus this "" to get this  <IMG SRC="http://www.fiero.nl/forum/confused.gif">.||||reg||1
+Z||000003||BAM-BAM||02-28-2000||10:29 PM||||  TerryK;<BR>       I was told it was a 3.6L not quite sure. I will do further investigation into the matter. Thanks for the heads-up  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||12

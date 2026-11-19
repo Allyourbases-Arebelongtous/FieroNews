@@ -1,0 +1,3 @@
+A||||1||Phantom Rage||Any progress on the pillar gauge pod.||||5||
+Z||000000||Phantom Rage||07-09-2000||04:48 PM||||I know custom fabrication takes some time, but I feel the same as when I was a kid waiting to open presents, on Christmas Eve <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||5
+Z||000001||Monkeyman||07-09-2000||09:36 PM||||Ditto.  I used to want a red fire engine.  Now I want gauge pods for my A pillars.<P>To give Tom credit, his Fiero stuff is an extra curricular activity.  If I remember correctly, he has at least one full time job and some other stuff going on.<P>------------------<BR>Dave-<BR>Grape Ape ('85GT)||||reg||1

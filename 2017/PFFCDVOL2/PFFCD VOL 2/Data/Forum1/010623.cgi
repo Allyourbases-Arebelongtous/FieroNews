@@ -1,0 +1,2 @@
+A||||0||hutch84fierose||RSM RACING INC.-QUESTIONS||||1||
+Z||000000||hutch84fierose||09-29-2001||03:15 PM||||Has anyone ever got anything from this store in Missassauga in ontario canada????<BR>If so what di you get and did you have anyproblems i just looked at their web page and it looks like they have some good stuff at pretty good prices.  Just thought it wouldn't hurt to check before ordering thanks again||||reg||1

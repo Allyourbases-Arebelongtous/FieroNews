@@ -1,0 +1,4 @@
+A||N||2||Calab52||Steering Wheel Rattle...||||11||
+Z||000000||Calab52||10-27-2001||06:17 PM||||Does anybody no what causes the steering wheel rattle when I get over 66 mph? And what would the fix be? Thanks in Advance!||||reg||11
+Z||000001||robertjay||10-28-2001||02:47 AM||||Mine doesn't rattle at a certain speed, it rattles pretty good when going over bumps and it's because I need to rebuild my steering rack.  The outer bushing are shot.  You can grab one of the front wheels and with the steering wheel locked, it will move side to side about a half inch or so.||||reg||1
+Z||000002||theogre||10-28-2001||12:26 PM||||have the tires rebalanced.<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/forum/fullstaff.gif">  <FONT COLOR="blue"><I><B>11-Sept-01, The day the world as we knew it ended.</B></I></FONT>||||reg||1

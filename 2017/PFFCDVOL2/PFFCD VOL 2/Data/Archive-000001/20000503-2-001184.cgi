@@ -1,0 +1,3 @@
+A||||1||J.JONES||Side Molding||||5
+Z||000000||J.JONES||10-22-1999||08:53 AM||||Anyone had any experience on removing the side trim molding? There's probably a certain way to snap that stuff off without breaking every clip and having to replace them. Can't seem to find any info in Haynes or Chiltons. I thought it would make for a better paint job with these removed rather than just masking them off. Thanks for the info!||||reg||5
+Z||000001||theogre||10-22-1999||09:20 AM||||not unless you can get to the back of the panel. the clips are a wedging type. you have to squeeze the ear on the back to release them, and even then most times the ear breaks off.||||reg||1

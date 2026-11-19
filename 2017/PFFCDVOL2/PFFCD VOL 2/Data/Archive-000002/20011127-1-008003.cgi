@@ -1,0 +1,5 @@
+A||||3||84Bill||Cadavers Holly intake||||14||
+Z||000000||84Bill||06-08-2001||09:07 AM||||Cadaver sent me this pic to post for him.<BR> <IMG SRC="http://cn308598-a.wall1.pa.home.com/fiero/holly.jpg"> ||||reg||14
+Z||000001||FieroJoe||06-08-2001||09:39 AM||||1FST2M6 has it over in the TD & Q section...<P>What I want to know is what the advantages are?  Did the eariler 2.5's have a MAP sensor in the air cleaner like my DIS does?  I'm not seeing it on this one...<BR> <A HREF="http://www.fiero.nl/forum/Forum2/HTML/011100.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/011100.html</A> ||||reg||1
+Z||000002||Brucepts||06-08-2001||10:01 AM||||Whats it look like on the inside? I've been looking for some pics of this cover for sometime now.<P>------------------<BR>Advanced Dealer in the Great Material Continuum . . .<BR>Non Fiero Website: <A HREF="http://tractorsport.com" TARGET=_blank>http://tractorsport.com</A> <BR>You can't race a dyno . . .||||reg||7
+Z||000003||DecadenceR||06-08-2001||10:02 AM||||Yep, my 84 2.5 has the MAP on the air cleaner too.||||reg||1

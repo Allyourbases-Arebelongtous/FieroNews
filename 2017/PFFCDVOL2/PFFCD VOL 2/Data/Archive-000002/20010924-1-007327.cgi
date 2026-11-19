@@ -1,0 +1,2 @@
+A||||0||Galen||my cars website :)||||1||
+Z||000000||Galen||05-10-2001||01:19 AM||||okey, I am updating my website to reflect the changes done to my car. Mainly paint. I am also adding a links section. So Anyone who wishes to have a link to their page on my site. Post it here or email me.<P>------------------<BR>Galen - 1988 Hawaiian Orchid Coupe - <A HREF="http://myfiero.spinrpg.com/" TARGET=_blank>My Fiero Website</A><BR><A HREF="http://www.spinrpg.com/" TARGET=_blank>Spinrpg.com - Free URL & e-mail Forwarding</A>||||reg||1

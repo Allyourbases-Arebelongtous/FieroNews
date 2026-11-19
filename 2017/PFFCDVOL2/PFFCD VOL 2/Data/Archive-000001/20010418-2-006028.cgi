@@ -1,0 +1,5 @@
+A||||3||80's BOY||Auto tranny slippage at cruising speeds...need help fast!!||||5||
+Z||000000||80's BOY||10-03-2000||01:45 AM||||when cruising at a normal speed (60-70mph) the engine surges and the car hesitates when that happens. will this small problem turn into a large one?? it's like something's slipping in the tranny. fluids are fine. any info would help.||||reg||5
+Z||000001||BroCar 87||10-03-2000||01:52 AM||||Hey take a look at boilermaker's post here in the Tech section. He said that he replaced his tranny filter(which is highly looked over) and it cleared up his prob. I am going to do the same. Thats my first advise. Go with the simple things first!!<P>------------------<BR>      <IMG SRC="http://www.fiero.nl/uploads/NorthFLFieroSIG.jpg">      <BR>87 Coupe "IRON BEAST"<BR>84 SE (project)||||reg||6
+Z||000002||80's BOY||10-03-2000||01:56 AM||||sorry, already did the filter/ shift kit thing back in march or so. would it get dirty that fast? perhaps some other problem persists other than uncleanliness of the fluids.||||reg||1
+Z||000003||theogre||10-03-2000||09:09 AM||||read the tranny article in my cave. test the TC lock.||||reg||1

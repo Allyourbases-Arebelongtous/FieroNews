@@ -1,0 +1,4 @@
+A||||2||Gokart||Preventing flat spots on tires?
+Z||000000||Gokart||09-05-99||02:42 AM||||Another question relating to parking my GT for the snow season-How often should I take it around the block to prevent tires from getting flat spots? TIA
+Z||000001||theogre||09-05-99||09:33 AM||||flat spotting caused by cold set can happen in as little as a few hours. It depends on the cordinf in the tires.<p>Most steel radial tires won't flat much. Kevlar(and other Aramids) can flat considerably over night. Don't worry tho, this type of flatting is annoying but not damaging. As soon as you drive the tire a few miles they will round out just fine.<p>I wish someone still made a good aramid belted tire. I miss my kevlar handling. Now Aramid is used only in a few exotics. Allot of it has to do with expense.
+Z||000002||Dale||09-05-99||11:04 AM||||You can always block it up in a way that you can still run the engine ocasionaly

@@ -1,0 +1,8 @@
+A||||6||kong||fuel pump?||||1||
+Z||000000||kong||01-11-2000||11:52 PM||||I got one for you, my fuel pump runs all the time, even with it shut off and the key in my pocket. I was told that it was the relay, but I have tried two relays already and it still does it. I got tired of pulling the fuse every time I shut the car off. I have a fused toggle switch on it now so I can manually turn it on and off. Any ideas on this one?||||reg||1
+Z||000001||2birds||01-12-2000||12:11 AM||||Faulty oil pressure sending unit.  The computer turns on the relay to turn on the pump, but the oil pressure sending unit haas contacts that bypass the relay when you have adequate oil pressure (or the contacts have failed).  Check the schematics in the back of the Haynes manual, and you'll see what I mean.  It has happened twice to me.  Cheap, easy fix.||||reg||1
+Z||000002||terryk||01-12-2000||12:12 AM||||Yep. I've replaced several on different cars.||||reg||1
+Z||000003||kong||01-12-2000||12:16 AM||||Thanks 2birds   I'll take a looksee tomorrow and check it out.||||reg||1
+Z||000004||2birds||01-12-2000||10:18 PM||||If you test it with an ohmmeter, you may be disappointed.  You may jar the contacts loose by just disconnecting it.  Mine was an intermittent problem the last time.<BR>  Is your oil pressure indication really erratic, too?||||reg||1
+Z||000005||kong||01-13-2000||12:50 AM||||Nope, oil pressure is rock solid.(at least that's what the gauge is telling me.||||reg||1
+Z||000006||ka4nkf||01-13-2000||12:00 PM||||Unplug the oil sender connection, if the fuel pump quits running then your sender is bad.||||reg||1

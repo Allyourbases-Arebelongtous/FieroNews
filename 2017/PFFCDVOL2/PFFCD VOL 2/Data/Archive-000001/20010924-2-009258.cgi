@@ -1,0 +1,2 @@
+A||N||0||kinboyatuwo||Bushings||||5||
+Z||000000||kinboyatuwo||03-28-2001||02:09 PM||||I need to redo the upper control arm bushings on one side and might as well do them all<P>now the question is how hard is it and do i need any special tools<P>the manual (haynes) says replace it but there are bushings available so i assume it is cheaper<P>on a good note <BR>Just replaced my starter, on my own in the drive way today.<BR>hey its fricking cold, that was the shi!!y part<P>thanks<BR>kinboyatuwo<P>------------------<BR>"Friends don't let friends drive four doors."||||reg||5

@@ -1,0 +1,3 @@
+A||||1||Ironhorse||dash vent||||1||
+Z||000000||Ironhorse||11-25-2000||01:39 AM||||I'm working on remodling the dashboard by making it slimmer.  I would need to replace the dash vent.  I been looking on net for those and I can't seem to find them. Do they have fancy name for them?  Does anyone know where I can find them?  I don't care if they're square, circle, or rectangle.  I wanna see wha my options are and such.    Thanks for your help||||reg||1
+Z||000001||Phil||11-25-2000||06:23 AM||||Try a  big RV center,those places have more dodads(vents, sockets and the like)than you can shake a stick at. Grammar check- never use a preposition to end a sentence with.||||reg||1

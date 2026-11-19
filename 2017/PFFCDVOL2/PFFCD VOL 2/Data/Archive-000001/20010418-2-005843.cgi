@@ -1,0 +1,5 @@
+A||N||3||cscougar||Starter Heat Shield||||1||
+Z||000000||cscougar||09-21-2000||05:26 PM||||Does anyone know the GM part no for the V-6 starter heat shield and the best place to buy one?||||reg||1
+Z||000001||theogre||09-21-2000||09:00 PM||||I don't know if the V6 had one. You could likely use the same one as the 84-86 4 cyl. The starters are all externally the same.||||reg||1
+Z||000002||Carrolles||09-22-2000||09:12 AM||||My 22-P manual does not show a heat shield for any year Fiero.  Apparently all the starters (except for the 88 second design) are the same because it shows one diagram for all years and engines.<P>However I think my 85GT starter has a heat shield.  My 85 SE does not.||||reg||1
+Z||000003||theogre||09-22-2000||09:53 AM||||The 4 cyl fire recall has a starter shield picture but not the part #. It's not provided as part of the recall, they just pictured all the sheilds so you'd know which one is which. The sheilds are all suposed to be there acording to the recall. Problem with the starter one is that it's held by a clip. Its entirely posible that they fall off if the clip rots.||||reg||1

@@ -1,0 +1,2 @@
+A||N||0||KRMFiero||PHIL CLICK HERE||||1||
+Z||000000||KRMFiero||07-25-2001||02:37 PM||||Hey, My Fiero needs paint, I got all the body panels removed, where did you get yours painted? about how much was it? did you do all the sanding yourself first or what?<P>Kyle<P>------------------<BR>1984 Pontiac Fiero 2M4 SE (Red) Caddy 4.5 Project<BR>1985 Pontiac Fiero 2M4 SE (White)<P>       <IMG SRC="http://members.aol.com/~Physcokyle/sig2.jpg"> <BR>AOL: Physcokyle||||reg||1

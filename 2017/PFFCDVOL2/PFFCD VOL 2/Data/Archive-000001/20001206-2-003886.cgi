@@ -1,0 +1,5 @@
+A||N||3||turbo86se||DXR_DAD... need help!!!||||7||
+Z||000000||turbo86se||05-23-2000||12:40 AM||||<BR>Hey DXR, I just recieved TOM's scoop for my decklid on my 86SE. I need a link to your website, or anyone who has it handy, on how to install it. Is there a bracket of some sort I need to bolt the rear three bolts to the decklid? TOM is trying to locate me one, if you know of one, or can help me out, please LMK, I greatly appreciate it!!   <IMG SRC="http://www.fiero.nl/forum/smile.gif">  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||7
+Z||000001||DXR_DAD||05-23-2000||10:53 AM|||| <A HREF="http://www.fieroproject.com" TARGET=_blank>www.fieroproject.com</A> <P>go to the mods. page<P>try this:<BR> <A HREF="http://www.fieroproject.com/scoop1.htm" TARGET=_blank>www.fieroproject.com/scoop1.htm</A> <p>[This message has been edited by DXR_DAD (edited 05-23-2000).]||||reg||14
+Z||000002||DXR_DAD||05-23-2000||03:18 PM||||Turbo, check your email~!||||reg||7
+Z||000003||DXR_DAD||05-31-2000||11:18 AM||||Ok Turbo your times up!!!  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Is that scoop on yet??||||reg||14

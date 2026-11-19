@@ -1,0 +1,10 @@
+A||N||8||Fiero-V6-88||Ignition dead||||13||
+Z||000000||Fiero-V6-88||08-08-2001||07:10 AM||||Hi,<P>I need help with a big problem.<BR>My V6-88, will not start. It was running very well, but one day it wouldn’t start. It’s the ignition; I have no spark on #1-5-6 spark plug. I have change the distributor, coil, module etc. It seems that there is not enough with power on the coil? Any suggestion?<P>And one more thing: What is the tachometer filter doing in the system?<BR>||||reg||13
+Z||000001||Patrick86GT||08-08-2001||08:33 AM||||I assume that the battery is charged enough to crank the engine over.  I would begin by checking the small positive wire that leads out of the battery terminal for internal corrosion...it runs everything. <P>Also, I once went through 3 fresh "rebuilt" distributors before I got a good one.  (Auto Zone supplied)  ||||reg||1
+Z||000002||86seyellow||08-08-2001||08:39 AM||||I just had the same problem. Need to replace all electrical, I did the distributor also and would almost fire, yoru timing is off<BR>||||reg||1
+Z||000003||Indiana_resto_guy||08-08-2001||01:12 PM||||New distributor?||||reg||1
+Z||000004||starfighter007@msn.com||08-08-2001||03:01 PM||||have you cheked plug wires? ||||reg||1
+Z||000005||Fiero-V6-88||08-08-2001||04:59 PM||||Thank’s,<P>Yes, the engine is cranking. Spark plug wires are almost new. I will check the wires from the battery terminal.<P>More suggestion?<BR>||||reg||3
+Z||000006||Jim Jimenez||08-08-2001||08:42 PM||||Take a compression test. Make sure the timing chain didn't slip. This one fools a lot of guys<P>If it didn't be sure the firing order is correct! Easy to cross wires on the "front" side of the engine. ||||reg||1
+Z||000007||starfighter007@msn.com||08-09-2001||11:49 AM||||What is strange to me is you say you have no spark on 1/3/5.cyl. If it were me I would start at the plugs there and work my way back to the distributor.A nd how did this problem start? Was there a big rain before this happened?||||reg||4
+Z||000008||Indiana_resto_guy||08-09-2001||12:17 PM||||Before you do anything now, check your firing order!<BR>Sounds fishy!||||reg||1

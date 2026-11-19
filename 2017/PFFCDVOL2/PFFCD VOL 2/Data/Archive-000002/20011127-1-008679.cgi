@@ -1,0 +1,4 @@
+A||||2||DecadenceR||3 spoke wheel.||||1||
+Z||000000||DecadenceR||07-08-2001||07:49 AM||||This is pretty simple really. If it's not covered in leather, what is it covered in? Foam? Plastic? I'm not too sure WHAT this material is.||||reg||1
+Z||000001||88CoupeV6||07-08-2001||10:16 AM||||It is like a hard foam. My 84 SE has that wheel. Most of the 3 spokes were the real leather. I was lucky to score one cheap in a salvage yard a couple of years ago.<P>------------------<BR>Josh <B>(known by TheFiero64 for first 1239 posts)</B><BR>     <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg">    <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||1
+Z||000002||DecadenceR||07-08-2001||02:20 PM||||That's what i thought it was. Thanks.<BR>I just changed mine to the 4-spoke with the paddle horn buttons, until I find a steering wheel i really like.||||reg||1

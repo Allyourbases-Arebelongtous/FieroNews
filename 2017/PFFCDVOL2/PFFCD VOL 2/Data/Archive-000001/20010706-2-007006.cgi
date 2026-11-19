@@ -1,0 +1,8 @@
+A||||6||TJ's85gt||Check engine?||||1||
+Z||000000||TJ's85gt||11-27-2000||11:11 PM||||<BR> My check engine light comes on my dash but only when i get on the freeway.i only have to go a mile or so before it comes on.i can drive around all day on regular roads and it doesnt happen. any one have the same problem or an answer for me. it would be greatly appreciated.<P>------------------<BR>white 85 gt||||reg||1
+Z||000001||ROB MAC||11-28-2000||01:37 AM||||You must learn how to read the codes to point you in the right direction. 02 sensor perhaps?||||reg||1
+Z||000002||2xsess||11-28-2000||10:41 AM||||I have the same proble with my 85GT, it's the EGR on my car. You definetly need to get a manual and learn how to read the codes off the computer.<BR><P>------------------<BR>Jeff<BR> <IMG SRC="http://www.fiero.nl/uploads/My_car_(large)sig_1.JPG"> ||||reg||1
+Z||000003||mshill||11-28-2000||12:50 PM||||I had same problem with my 86SE V6 last year after my rebuild.  I found I had a hairline crack in my EGR tube.  I found a good one at the Pick-n-Pull and replaced it.  No Problem since.  I have about 4K miles on it since then.||||reg||1
+Z||000004||TJ's85gt||11-28-2000||08:23 PM||||  dont i need something to read the codes with? ill try the egr. thanks<P>------------------<BR>white 85 gt||||reg||1
+Z||000005||rockcrawl||11-28-2000||09:33 PM||||Yeah, you need a paperclip, or go to autozone and get one of those fancy keys. Plug it in between the ground and diagnostic terminals and watch the dash light blink away with codes. ||||reg||1
+Z||000006||TJ's85gt||11-29-2000||08:01 PM||||  thanks guys.<P>------------------<BR>white 85 gt||||reg||1

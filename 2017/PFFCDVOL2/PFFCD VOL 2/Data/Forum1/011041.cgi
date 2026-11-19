@@ -1,0 +1,4 @@
+A||||2||GTFiero1||how to use pip||||1||
+Z||000000||GTFiero1||10-15-2001||09:57 PM||||now that i have pip i need to know how to use it. i have aol 6.0 and windows ME. i have lots of stuff in my "pictures" section but only a few of the ones that came on the computer are ther in pip. also how do i get pics off web sites and post them?<P>------------------<BR>Adam J. B.||||reg||1
+Z||000001||turbo86se||10-15-2001||11:05 PM||||You and me both, I've got the same setup as you and I'm lost. I've downloaded it several times, and don't know where to go from there. Where is setup.exe?<P>If you find out, please pass it on!<BR>TIA!||||reg||1
+Z||000002||Cliff Pennock||10-16-2001||05:03 AM||||You can find the online manual at <A HREF="http://pip.pennock.nl" TARGET=_blank>http://pip.pennock.nl</A>  . It explains how to install and use it. Let me know if you still have any problems with it.||||reg||1

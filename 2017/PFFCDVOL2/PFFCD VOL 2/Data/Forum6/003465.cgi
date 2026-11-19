@@ -1,0 +1,5 @@
+A||||3||rogergarrison||Hey Cliff||||1||
+Z||000000||rogergarrison||09-17-2001||11:31 PM||||I just watched a program on Amsterdam. Very cool city. Ever been to Club Elegance  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> Lots of facts I never knew. Couldnt believe you can get pot in the coffee houses, even give you a menu of different kinds. Some of those canal boats look like their going 50mph. And at the Hilton, you can stay in John Lennon and Yokos Room. Sounds like a nice place to visit if I ever leave the states for a vacation. Of course Id have to make a stop in the Window Shopping Areas. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000001||rogergarrison||09-18-2001||10:16 AM||||hey Cliff, wake up  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>its too late to be sleeping||||reg||1
+Z||000002||Cliff Pennock||09-18-2001||01:46 PM|||| <IMG SRC="http://www.fiero.nl/forum/smiley_zz.gif">  <IMG SRC="http://www.fiero.nl/forum/smiley_wtf.gif"> Huh? What?||||reg||1
+Z||000003||Cheever3000||09-18-2001||02:00 PM||||LOL||||reg||10

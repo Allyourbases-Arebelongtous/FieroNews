@@ -1,0 +1,4 @@
+A||||2||Wildcat||Shifter cable/manifold||||1||
+Z||000000||Wildcat||08-02-2001||08:27 PM||||Hi, Anyone in Canada have parts car with a shifter cable (the one off the bottom of the shift lever) that will fit an 86 Fiero Se 4 speed v-6.  Also looking for a front exhaust manifold for a 2.8.<BR>Thanks<BR>Tim||||reg||1
+Z||000001||starfighter007@msn.com||08-02-2001||09:20 PM||||since you are going with used cable and manifold I think it would less of an expense to go to a salvage yard and get these items,by the time you put shipping cost into this and time wasted I am sure you already thought of this.anyways I dont have the items that you looking for .||||reg||6
+Z||000002||Wildcat||08-03-2001||11:28 AM||||Yup already thought of that, no luck so far.  Locally between two yards only one car avbl and its stripped.  ||||reg||1

@@ -1,0 +1,6 @@
+A||||4||overlord||fiero firewall!!!!!||||4||
+Z||000000||overlord||03-25-2000||02:37 PM||||do all fieros have the "double firewall"?<P>cause my 84 coupe doesnt.<BR>found this out when i drilled a test hole in the firewall...to start my hole cut out for subwoofers.<P>that sure was a surprise.....o well...guess ill lose some interior space.||||reg||4
+Z||000001||Monkeyman||03-25-2000||06:52 PM||||As far as I know, all Fieros have the double firewall.  There's only 1 metal firewall, then there's the carpeted piece.  The carpeted piece is the "double" part.||||reg||1
+Z||000002||overlord||03-25-2000||07:27 PM||||o geez...i just ripped that carpet stuff right outa there....but wait a minute...the carpet stuff is right on top of the metal firewall...im sure it was...||||reg||1
+Z||000003||Spyder||03-27-2000||12:38 AM||||When you take the carpet away from the rear firewall you will see a panel with an x looking thing near the bottom of the firewall.  That is the section which does have the second firewall part.  Near the top  is a single firewall.||||reg||1
+Z||000004||overlord||03-27-2000||11:55 AM||||thanx spyder..<P>thats what i was thinking..cause we drilled the test hole on just above the halfway point from the bottom of the car...crap..i just got my boxes all made and carpeted and everthing..||||reg||1

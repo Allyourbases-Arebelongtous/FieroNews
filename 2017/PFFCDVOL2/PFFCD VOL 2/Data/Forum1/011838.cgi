@@ -1,0 +1,5 @@
+A||||3||edbone||Yet more Pics. Tell me what you think||||1||
+Z||000000||edbone||11-14-2001||01:22 AM|||| <IMG SRC="http://www.fiero.nl/uploads/Dscf0002_1.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/Dscf0004_3.jpg"> <BR>Pics of interior yet to come. TV,DVD,8"sub,<BR>White face gages.||||reg||1
+Z||000001||Jncomutt||11-14-2001||01:38 AM||||That wing... My eyes....  Please tell me its not the same as on my friends honda...||||reg||1
+Z||000002||Kelvin Vivian||11-14-2001||01:40 AM||||There are some nice fast-back GTs out there... I love pics.<P>Keep them coming,<BR>KV<BR>87 SE 4-cyl, 5-spd<BR>88 GT T-Top, 5-spd||||reg||14
+Z||000003||85ZainoGT||11-14-2001||05:43 PM||||I love the car, dont know bout the wing though, to ricerish... how did you do the screens... you buy them, make them... how much?<P>------------------<BR>Paul Ventimiglia<BR>1987 Gold GT 2.8L<BR>All the options :)<BR> <IMG SRC="http://www.fiero.nl/uploads/SigPic2222.jpg"> <BR>NEW pics are coming SOON hopefully... geez!||||reg||1

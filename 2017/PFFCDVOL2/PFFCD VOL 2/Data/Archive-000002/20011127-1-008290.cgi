@@ -1,0 +1,4 @@
+A||||2||hyhy4u||Door Emblems||||1||
+Z||000000||hyhy4u||06-21-2001||02:41 PM||||Does any one have any emblems or anything on the outside of there car, like right behind the front tire where most cars have there car name put.  I have a GT and think the car would look cool with a little GT emblem there or something, i dont know..||||reg||1
+Z||000001||stimpy||06-21-2001||02:59 PM||||You can get pieces like that from dealer parts departments that will self-stick. Grand Am GT's have a GT badge that would probably look pretty cool. I think it might be a bit redundant with the GT id on the sail panels, but to each their own. My dad has GTP supercharged badges on the doors of his 86 GT 3800 s/c. They look cool in my opinion. But you really need that blower to back up the brag.||||reg||1
+Z||000002||hyhy4u||06-22-2001||12:54 AM||||My dads a parts manager at a local GM dealer, il just go look through his drawers tommarow..haha||||reg||1

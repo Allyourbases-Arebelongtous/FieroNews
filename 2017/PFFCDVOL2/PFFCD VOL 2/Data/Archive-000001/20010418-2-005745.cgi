@@ -1,0 +1,7 @@
+A||||5||Double07||Chips||||1||
+Z||000000||Double07||09-15-2000||08:54 PM||||<BR>is there any good high performance chips to install in my 86 Fiero V6 4 speed or should i just keep the stock one in?||||reg||1
+Z||000001||Old Lar||09-15-2000||10:46 PM||||Not much improvement for daily driving.  May be some what useful for racing, using 93 octane gas and getting poor gas milage.||||reg||3
+Z||000002||terryk||09-16-2000||01:14 AM||||GM does a good job on their chips. I have yet to play with one that was anything cosmic. Some of them are pure theft. What it takes to improve performance also requires the car to be there or the ability to make repeated changes until it's tweaked in.<P>TK||||reg||1
+Z||000003||My7Fieros||09-16-2000||01:17 AM||||As in Ponch and John? (sorry, couldnt resist!)  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||7
+Z||000004||terryk||09-16-2000||10:22 AM||||Exactly! Why that never won and Emmy, I'll never know. Probably one of the most realistic shows of it's day (equal to Top Gun in it's realism in giving a moron/cocky fighter pilot a $20M jet).||||reg||12
+Z||000005||Haze_Performance||09-16-2000||10:51 AM||||*SSSHHH* 7 Mary 3 & 4 *SSSHHH*  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>       <IMG SRC="http://www.fiero.nl/uploads/mycarsig.jpg">       <B>1985 Sport Coupe - Coming Soon 1987 SE</B><P><BR><B>Website's  <A HREF="http://www.WS6Fiero.com" TARGET=_blank>www.WS6Fiero.com</A> &                  <A HREF="http://www.hazeperformance.com" TARGET=_blank>www.HazePerformance.com </A></B>||||reg||14

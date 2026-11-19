@@ -1,0 +1,3 @@
+A||||1||Stage-2GT||4x6 Mounting depth???||||5||
+Z||000000||Stage-2GT||09-13-2001||12:11 AM|||| Anyone know what the maximum mounting depth is for the 4x6 panel speakers? TIA<P><BR>S2GT <IMG SRC="http://www.fiero.nl/forum/mad.gif"><P>------------------<BR>"If Hate Was Money, I Would Own The World"||||reg||5
+Z||000001||Kasdan||09-13-2001||09:33 AM||||not very deep, find the shallowest ones you can.  i think those gold colored pioneers fit, but thats what i have up front in my car.<P>------------------<BR>Tyler Morgan, 1986 GT<BR> <IMG SRC="http://www.fiero.nl/uploads/Fiero21.jpg">         <BR>Power Steering, Holley Scoop<BR>Aim=FieroDriver1986||||reg||1

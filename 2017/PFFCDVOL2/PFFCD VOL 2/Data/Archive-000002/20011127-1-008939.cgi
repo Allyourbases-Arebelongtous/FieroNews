@@ -1,0 +1,2 @@
+A||N||0||Monkeyman||Paging Stephanie V.||||1||
+Z||000000||Monkeyman||07-20-2001||09:39 PM||||If you're out there, you need to quarantine the worm virus in your email program and resend your email.  All I know is the subject line said, 'gauges'.  No idea what this is about.  Or post your idea/question/whatever here on the forum.<P>------------------<BR>'Consciousness:  That annoying time between naps.'<P>MM||||reg||1

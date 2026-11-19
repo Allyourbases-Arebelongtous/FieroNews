@@ -1,0 +1,2 @@
+A||N||0||AusFiero||I have my interior for sale||||3||
+Z||000000||AusFiero||08-11-2001||12:09 PM||||See the mall for full details and price.<P> <IMG SRC="http://www.fiero.nl/uploads/interior01_1.jpg">  <P>  <IMG SRC="http://www.fiero.nl/uploads/interior02.jpg">  <P>  <IMG SRC="http://www.fiero.nl/uploads/interior03.jpg">  <P>  <IMG SRC="http://www.fiero.nl/uploads/interior04.jpg">  <P>  <IMG SRC="http://www.fiero.nl/uploads/interior05.jpg">  <P>  <IMG SRC="http://www.fiero.nl/uploads/interior06.jpg">  <P>  <IMG SRC="http://www.fiero.nl/uploads/interior07.jpg">  ||||reg||3

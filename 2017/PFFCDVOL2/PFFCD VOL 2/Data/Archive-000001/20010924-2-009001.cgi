@@ -1,0 +1,4 @@
+A||N||2||FieroJim||Urethane bushing upper control arm torque spec.||||5||
+Z||000000||FieroJim||03-17-2001||01:38 PM||||Gotta ask for help on this one.  Began install of urethane front control arm bushings, but my trusty Haynes manual has failed me this time.  It doesn't list the torque for the upper control arm bushing retaining nuts.  It does list the arm to crossmember bolts @ 52 ft/lbs.  Also, anyone know why the lower control arm torque is 37 ft/lbs + 3/4 turn?||||reg||5
+Z||000001||AkursedX||03-17-2001||01:56 PM||||My service manual lists it as 52lb.ft. +1/4 turn, but I don't know if this is the part you are looking for.  It's for the Upper Control Arm Shaft to the Crossmember.||||reg||1
+Z||000002||FieroJim||03-17-2001||02:03 PM||||Thanks, but nope its the control arm nuts that hold the upper control arm to the shaft (also put squish on the bushings).||||reg||1

@@ -1,0 +1,8 @@
+A||||6||rogergarrison||WHOOOOOOHOOOO AWESOME BILL !!!!||||10||
+Z||000000||rogergarrison||11-11-2001||04:18 PM||||Cool, Bill Elliott won the Winston Cup race with Casey Atwood his teamate in 3rd.||||reg||10
+Z||000001||Monkeyman||11-11-2001||04:39 PM||||But Jeff Gordon will still take the championship.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000002||rogergarrison||11-11-2001||05:59 PM||||not quite yet||||reg||12
+Z||000003||Heretic||11-11-2001||06:32 PM||||I'm not really a big NASCAR fan. But long Live Viagra man , Mark Martin!  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>     <IMG SRC="http://www.fiero.nl/uploads/huh.GIF">        <BR>Thanks Jake_Dragon!||||reg||1
+Z||000004||frontal lobe||11-12-2001||01:33 PM||||His first win in over 200 some races.  Persistence pays off.  Way to go, Bill.||||reg||1
+Z||000005||8Ball||11-12-2001||07:54 PM||||I knew ole Bill still had it in him  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>I have been a fan of his ever since my mom took me to the Daytona 500. I can't remember the year, i was quite young. But in that race the very last lap, Bill in the lead and earnhardt trailing just beside him. E. Smacks Bill into the wall on the final straight. Bill flips onto his hood and leaves a shower of sparks, as he crosses the finish line in first place on his roof!!!!!<P>Now that is a race. Also the BEST finish Ihave ever seen.||||reg||1
+Z||000006||fierobaby||11-13-2001||06:43 PM||||yay Bill!!!  :-) if I payed attention to this stuff! :-)<P>I'm just trying to make 1000 posts before my 18th B-day||||reg||1

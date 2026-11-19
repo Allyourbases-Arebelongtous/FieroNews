@@ -1,0 +1,4 @@
+A||||2||Sweeet86GT||TEST||||1||
+Z||000000||Sweeet86GT||08-05-2001||11:02 AM||||NEW GUY<P>------------------<BR>DAVE DIXON<BR>Bay City,MI||||reg||1
+Z||000001||AusFiero||08-05-2001||10:40 PM||||Welcome to the forum. You should find it a great place for info and some fun here.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>  <IMG SRC="http://www.jadeweb.com.au/fiero/ausfiero1.gif"> <BR><A HREF="http://www.jadeweb.com.au/fiero" TARGET=_blank>My Fiero</A> | <A HREF="http://www.auto-alley.com" TARGET=_blank>Fiero Accessories</A>||202.139.20.3||reg||6
+Z||000002||fierobaby||08-05-2001||11:16 PM||||WELCOME!!! :-) hope you find everything you need! :-)<P>------------------<BR><FONT COLOR="LETTER"> AIM: Fierobaby87<BR>http://angelfire.com/sports/sfiero </FONT><BR>         <IMG SRC="http://www.fiero.nl/uploads/cfiero.JPG"> ||||reg||10

@@ -1,0 +1,3 @@
+A||||1||jhar1987||temp sensor plug||||4||
+Z||000000||jhar1987||04-11-2000||07:22 PM||||the temp sensor located in the head on a iron duke, should it show resistance on a meter like the one in the termastat housing? ||||reg||4
+Z||000001||theogre||04-11-2000||07:30 PM||||I assume you mean the one with 2 green wires. <P>No. that is the gauge/alert sender.<BR>This is a grounded shell sender. ((The one in the neck is the ECM sender and it's shell is isolated from the thermistor. You should always read open from the terminals to the shell on that one.))<P>the gauge sender path is resitance from one pin to the shell. The other terminal will be open unless the engine is Very hot... That's the dash light side.<P>The radiator fan is ECM controlled in 87-88 L4's||||reg||1

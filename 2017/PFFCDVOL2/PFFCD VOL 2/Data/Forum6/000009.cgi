@@ -1,0 +1,7 @@
+A||||5||DISenchanted||Any PoKeMoN players out there?||||1||
+Z||000000||DISenchanted||01-21-2000||03:07 AM||||Sorry, I had to know if anyone else out there was dragged in to this as well.||||reg||1
+Z||000001||RossT||01-21-2000||05:47 AM||||I am sick of Burger King!  When they had their pokemon promotion, my son made me buy him kids meals almost every day. <P>The South-Park take off on Pokemon was the  funniest thing I have ever seen on tv.||||reg||1
+Z||000002||DJRice||01-21-2000||08:24 AM||||I lost several dollars to Pokemon as well, but I was investing in the company that handles the licensing in the States.  Right before the movie came out and right before they announced their 3Q earnings, I bought some shares at $82.  They announced earnings increase of +500% and thier movie earned 35 million dollars, and their stock dropped like a rock.<P>Screw Pokemon.<P> <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||mpicanso||01-21-2000||04:13 PM||||got to catch them all<P>Charmander rules<P>yes I am 26 and play POKEMON.....  wait did I just type that||||reg||10
+Z||000004||Cooter||01-22-2000||09:21 PM||||I dont play, but I have a huge collection of the cards. I got mine the easy way: Hey kid, the principal said no more Pokemon cards at school. Now give them to me! LOL||||reg||1
+Z||000005||DISenchanted||01-24-2000||03:02 PM||||Thank you mpicanso,<P>I don't feel bad now.  I'm 20 and I'm the Gym Leader.  It's really funny, but alot of the kids here have really hot older sisters.  =o)||||reg||1

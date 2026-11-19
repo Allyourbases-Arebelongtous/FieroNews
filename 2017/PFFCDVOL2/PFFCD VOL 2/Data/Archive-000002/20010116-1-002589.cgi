@@ -1,0 +1,5 @@
+A||||3||RiceCooker||Carbon-Fiber Dash?||||5||
+Z||000000||RiceCooker||06-18-2000||01:56 PM||||Does anyone know where i can get the sticky paper that has the carbon fiber design. I know someone already has this on their dash and it would match my knob (shifter)<BR>Thanks in advance||||reg||5
+Z||000001||Sillhouette.com||06-18-2000||02:10 PM||||Try Wal Mart  <P>Later||||reg||1
+Z||000002||DaRkLoRD||06-18-2000||03:26 PM|||| <A HREF="http://www.fieroproject.com/dxr/" TARGET=_blank>http://www.fieroproject.com/dxr/</A> <P>DXR_DAD's website has a link to the Fiero Project article he wrote about this topic, and it includes a supplier for the CF vinyl.<P>enjoy!||||reg||1
+Z||000003||Haze_Performance||06-18-2000||03:56 PM||||I had to look hard to find all the info for this stuff. But I found it (thanks to other members)I just put it in my 2M4 and it looks great. <P><BR>Rally<BR>5255 Northwest 159th st.<BR>Miami, FL. 33014<P>Xtreme FX Interior Design Film (48"x18")<BR>part#19960<P>$19.41 shipped<P>1-800-227-2559<P><BR>||||reg||14

@@ -1,0 +1,5 @@
+A||N||3||hoppe||Headlight stutter||||1||
+Z||000000||hoppe||12-22-2000||10:31 AM||||The left headlight on my wife's 88 GT stutters when you turn them on. It sometimes will not come up at allor will open half way. If i turn them off an on again it eventually opens all the way. <BR>Is this motor or gears or what?<BR>||||reg||1
+Z||000001||ThatRickGuy||12-22-2000||10:36 AM||||The problem is the 3 little plastic cylinder thingies. I have the same problem, but I haven't had a chance to rebuild it yet (it's too dang cold out!) but you can get the rebuild kits from Rodney for like $10. I don't have the link on this machine, but someone will post with it.||||reg||1
+Z||000002||theogre||12-22-2000||10:39 AM|||| <A HREF="http://www.rodneydickman.com" TARGET=_blank>www.rodneydickman.com</A>  get the $10 kit and just do both of them. If one is gone the other isn't too far behind.||||reg||1
+Z||000003||StuGood||12-22-2000||12:58 PM||||The pins in the motor need to be replaced, as the others just said.<P>...that, or your wife's GT thinks you're cute, and it's flirting  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||12

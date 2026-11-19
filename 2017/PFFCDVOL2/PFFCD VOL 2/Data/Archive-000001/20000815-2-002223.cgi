@@ -1,0 +1,12 @@
+A||||10||Alex4mula||V6 brake booster vacuum ln filter? Where it is?||||1||
+Z||000000||Alex4mula||02-03-2000||08:59 AM||||I read somewhere that there is some kinf of filter in the firewall for a vacuum line that goes from the engine to the brake booster. Do any one knows if this exist and where it is located? I have my heads off and would like to replace it if it is there. Tks.||||reg||1
+Z||000001||Greg Piet||02-03-2000||11:41 AM||||On my 85 v6 it is at the firewall, and on the tranny side||||reg||1
+Z||000002||Alex4mula||02-03-2000||12:00 PM||||I should have said mine is an 88 Formula. Do 88 have it? I will look in that area to see what I find.||||reg||1
+Z||000003||Dan87GT||02-03-2000||01:12 PM||||I have an 87GT and there is no filter between the line from the firewall and the engine. I even looked in the 22P parts book and it shows the filter in the middle of the line. So I am not what years it is on, plus if anybody know the GM part number for the vaccuum line without the filter please pass it along.||||reg||1
+Z||000004||Ed||02-03-2000||07:42 PM||||My '87 GT didn't have one either! <P>I asked the shop doing work on my clutch to replace it. Tech. says, "Where is it?" I showed the service manager the diagram in the shop manual; we put the car up on the hoist: nothing. Again, the joy of discovery. ||||reg||4
+Z||000005||theogre||02-03-2000||08:14 PM||||Far as I know that filter was deleted sometime in 86. No Fiero after that has one.||||reg||1
+Z||000006||ka4nkf||02-04-2000||09:37 PM||||My 86 Has one||||reg||1
+Z||000007||Raydar||02-04-2000||10:42 PM||||Well... THAT would seem to explain why I can't find the one on my Formula. Glad I didn't start crawling around underneath.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||3
+Z||000008||Alex4mula||02-05-2000||01:27 AM||||Oh well... I am glad also that I don't have it. Was woring about not changing it in the last 12 years! Tks.||||reg||1
+Z||000009||ka4nkf||02-06-2000||11:01 PM||||For those that have this filter, it is a very likely spot for a vac leak. It is plastic and the extreme heat from the engine tends to make it crack. If you have a vac leak and cant find it dont forget about this filter.||||reg||1
+Z||000010||Capt Fiero||02-08-2000||03:09 PM||||I am gussing that my 85 has one then, and it is good,because I can drive the car then park it for 8 hours or so and then without starting it hit the brakes a few times and it still has a ton of vacumme in the system. After a few pumps it goes away. But none the less it holds for hours.||||reg||1

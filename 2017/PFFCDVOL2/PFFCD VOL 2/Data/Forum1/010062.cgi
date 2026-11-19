@@ -1,0 +1,2 @@
+A||||0||tomanyfieros||some help, need new sig.||||1||
+Z||000000||tomanyfieros||09-04-2001||10:20 PM||||can someone make me an anamated signature? i got a good idea. saw it on a bumper sticker... any help? please email me if you can, <BR>one_low_Fiero@yahoo.com<BR>Thanx Jason<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/dreamer.gif">    <BR><B>We all have dreams, but not everyone gets them...</B>||||reg||1

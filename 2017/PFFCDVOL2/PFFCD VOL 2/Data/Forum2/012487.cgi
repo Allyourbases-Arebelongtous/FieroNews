@@ -1,0 +1,5 @@
+A||N||3||stimpy||Symptoms of a bad Accel Supercoil.||||1||
+Z||000000||stimpy||08-02-2001||07:46 PM||||I have seeen so many prople complaining about POS Accel coils, and that may just be the cause of my problem (car cranks no problem, won't fire, happened sudenly)<BR>Now, for those people witth experience, should I be buying an MSD coil, or shoul I check other stuff first?<P>||||reg||1
+Z||000001||AkursedX||08-02-2001||08:12 PM||||Well, that's exaclty what happened to my car when my accel coil took a crap.  I bet that is your culprit.  <P>I'd go with the MSD coil, only 40 bucks through summit.  (I think)<P>------------------<BR><BR> <IMG SRC="http://www.fiero.nl/uploads/sigpic2_2.jpg"> ||||reg||1
+Z||000002||stimpy||08-02-2001||10:05 PM||||Yep, that was it. I just got back from O'Reilly's, $38 for a Borg-Warner with a Lifetime warranty. Put it on the car and she fired right up. At least the Accel coil had the decency to crap out in my driveway, not all the way across town.||||reg||1
+Z||000003||rogergarrison||08-02-2001||10:09 PM||||3 things i always keep in tool kit in trunk. spare ign module, spare coil, spare belt.<BR>cheap insurance||||reg||1

@@ -1,0 +1,4 @@
+A||||2||fotofrank||'84 2.5l will not start
+Z||000000||fotofrank||08-17-99||07:36 PM||||Help! I put an MSD GM Blaster coil(p/n8226) in my '84 2.5L and now it will not start.<br>I get no spark. I think I fried the ignition module.  Question? The major problem is that my car did not have a "2 plug" coil. I got 4 wires. 1 PINK (12vdc)1 Thick black/white tracer(tach filter?) 1 thin black/white tracer and 1 brown. Where do these wires connect to the MSD coil? I hesitate to replace the ignition mod and blow it up again. I can make a plug of sorts but want to do it right.I think the tach filter is ok because with the thick black/white wire disconnected it won't start.Best ques ignition mod.<br>  
+Z||000001||Dale||08-18-99||12:04 PM||||Try puting your old coil back in and see if it still works.  That will tell you if you fried the ign. mod.
+Z||000002||fotofrank||08-18-99||07:11 PM||||I have tried the old coil with the same result.<br>What about the wireing? what goes where?

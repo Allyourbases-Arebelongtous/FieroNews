@@ -1,0 +1,2 @@
+A||||0||rogergarrison||BB512 Ferrari built kit||||1||
+Z||000000||rogergarrison||03-12-2001||07:30 PM||||85 GT V6, looks fantastic. <BR> <A HREF="http://cgi.ebay.com/eBaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=568901415" TARGET=_blank>http://cgi.ebay.com/eBaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=568901415</A> <P>$5,000 current<P>------------------<BR>    <IMG SRC="http://albums.photopoint.com/j/View?u=1234884&a=9116379&p=34556781"> ||||reg||1

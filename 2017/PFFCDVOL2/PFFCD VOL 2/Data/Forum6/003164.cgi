@@ -1,0 +1,2 @@
+A||||0||Cheever3000||Excel 2002 upgrade for sale - cheap! ||||2||
+Z||000000||Cheever3000||08-29-2001||03:40 PM||||Have an Excel version 2002 UPGRADE that I will sell for a fraction of what I paid.  I should have taken my reading glasses with me to Best Buy.  I thought I was buying the full version, but didn't see the fine print.  Found out when it wouldn't install.  Now they won't take it back.  Their online customer service sent me a gift certificate, however, so that takes some of the bite out of it.  But I still have this and can't use it.||||reg||2

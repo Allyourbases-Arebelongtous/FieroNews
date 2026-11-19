@@ -1,0 +1,4 @@
+A||||2||XDrewX||Pontiac digital guages.......wiring questions||||5||
+Z||000000||XDrewX||10-17-2001||02:58 PM||||I am designing a custom dashboard.<P>I am thinking about using the digital guage from an 87 Pontiac 6000 STE.<P>I know nothing about digital guages.<P>On top of the gauge bezel it says...."computer controlled display"<P>This car has the same engine and transmission as my 87 GT.<P>The guages have everything I have on my fiero,  even a 120 mph speedo.<P>Has anyone did anything like this???.<P>Any information at all will be helpful.<BR>Thanks.<BR>||||reg||5
+Z||000001||MinnGreenGT||10-17-2001||04:14 PM||||You might want to ask Cliff (Pennock) directly... I believe that he's spent a little time working on his own custom digital dash  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||isthiswhereiputausername?||10-17-2001||04:21 PM||||if you need any wiring diagrams from any dashes..just drop me a pm with the year/models<P>||||reg||1

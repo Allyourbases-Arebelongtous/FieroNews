@@ -1,0 +1,3 @@
+A||N||1||Roy Grooms||The site||||10||
+Z||000000||Roy Grooms||02-07-2001||01:45 PM||||I just want to say what a great site this is I'm on it everytime i'm on the net. I have a 84 fiero and love it. I have been working it for about 2 years now ( its my toy)I well try and send a picture<BR>          keep up the good work<BR>           Roy Grooms<BR>           royboy@hotmail.com||||reg||10
+Z||000001||TheFiero64||02-07-2001||01:50 PM||||Welcome to the forum Roy.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>Josh<BR>88 Coupe V6<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif">   <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||10

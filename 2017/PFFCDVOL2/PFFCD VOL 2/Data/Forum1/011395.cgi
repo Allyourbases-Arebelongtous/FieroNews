@@ -1,0 +1,2 @@
+A||||0||85ZainoGT||autos at the track?||||1||
+Z||000000||85ZainoGT||10-29-2001||03:43 PM||||double post, see other thread   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>------------------<BR>Paul Ventimiglia<BR>1985 White/Silver GT <BR>2.8L 4 Speed LOADED   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>      <IMG SRC="http://www.fiero.nl/uploads/Sigpic2529_1.jpg">   <P>[This message has been edited by 85ZainoGT (edited 10-29-2001).]<p>[This message has been edited by 85ZainoGT (edited 10-29-2001).]||||reg||1

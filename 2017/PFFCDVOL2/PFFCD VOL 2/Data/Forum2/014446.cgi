@@ -1,0 +1,7 @@
+A||||5||dennis_6||Parts car or........||||5||
+Z||000000||dennis_6||10-15-2001||05:40 AM||||I am getting another 86 SE that only has a bad clutch.  The owner said that when you put the car in gear it only rocks it a little.  Is this a clutch problem?  Whatever it is could I fix without droping the cradle?<BR>When I pick the car up if it is restorable I am going to fix it.  I know little about manual trannys and would apreciate any help.||||reg||5
+Z||000001||skitime||10-15-2001||10:25 AM||||I think it is probably a bad clutch disk.  You can remove the trans with out droping the cradle.  Do a search on trans removal. <P>------------------<BR><UL TYPE=SQUARE><BR><LI>Red 88 GT T-TOP<BR><LI>Red 86 GT<BR></UL>  <IMG SRC="http://www.fiero.nl/uploads/signature-2.JPG"> ||||reg||1
+Z||000002||Jefrysuko||10-15-2001||10:41 AM||||Yes you can remove the trans without dropping the cradle but it isn't fun.  From my experiences I wouldn't recomend doing it that way.  Just drop or rotate the cradle.  The fustration saved will be worth it.||||reg||1
+Z||000003||dennis_6||10-15-2001||06:13 PM||||Thanks guys!||||reg||10
+Z||000004||beer_stud_21||10-15-2001||06:29 PM||||the fiero factory website has a writeup on how to remove the tranny without dropping the cradle.  Don't know the web addy tho, so you will have to search for it.<P>-Marlin||||reg||1
+Z||000005||dennis_6||10-16-2001||01:45 AM||||Thanks!||||reg||1

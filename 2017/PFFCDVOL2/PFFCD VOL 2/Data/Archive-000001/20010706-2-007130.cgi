@@ -1,0 +1,2 @@
+A||||0||wallybowman||automatic to 4 or 5 speed swap||||5||
+Z||000000||wallybowman||12-04-2000||12:27 AM||||I have found a 1984 2M4 for $100.00 that is<BR>an automatic that I would like to swap to a<BR>manual. Just about what does this swap cost<BR>and how much work is it? Since I work on cars<BR>for a living the labor will be no problem.<BR>The owner installed sidedraft Webers on the<BR>car and that's the main reason I'm getting the car. Thanks to all for any info.  ||||reg||5

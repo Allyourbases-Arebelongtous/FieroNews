@@ -1,0 +1,2 @@
+A||N||0||zoie||Clutch hydraulics problem - fixed! ||||6||
+Z||000000||zoie||03-06-2000||10:17 PM||||Thanks for the troubleshooting information on hydraulic clutch systems!  The Brake fluid was in extremely poor condition, possibly original to the car 1988 2m4. After draining the fluid reservoir and cleaning it thoroughly, Keith (master mechanic) bled the system with new DOT 3. The clutch pedal and hydraulic system are responding to the much-needed maintenance.  Keith is back on the road enjoying his cool car.<BR>Ah to be 17yrs. old and have a cool car!      <BR>||||reg||6

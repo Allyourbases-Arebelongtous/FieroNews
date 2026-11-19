@@ -1,0 +1,4 @@
+A||||2||Phil||Luggage Rack
+Z||000000||Phil||07-16-99||06:39 AM||||Does anyone know if you can exchange the wing  with a luggage rack without drilling any new holes or leaving old holes?
+Z||000001||Carrolles||07-16-99||06:51 AM||||Not if you plan to re-use the deck lid.  The mounting holes are quite different between the lid with a wing and one with the luggage rack.  The lift springs are probably different also.  The wing is probably heavier and places all of its weight at the back of the lid.  Consequently the lid probably won't stay up on its own.  Rodney Dickman makes a gas shock kit for this.<p>Good luck,<br>Carroll
+Z||000002||Phil||07-16-99||08:07 AM||||I really didn't want to hear that but I was afraid that was the case. As for lift pistons I know that you only have to change the positions of the torsion bar ends to compensate for the weight difference. I thank you kinda for the disapointing information.

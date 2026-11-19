@@ -1,0 +1,3 @@
+A||N||1||Carver1||Anyone convert to t-tops?||||1||
+Z||000000||Carver1||11-28-2000||07:46 PM||||Is this possible? Cost? Is it worth it? Just curious. I'm hopefully buying a fiero next week, and have seen a few t-top ones. The one I'm thinking of getting does not have them. My last Z-28 had 'em, and I really would like to install a set in the fiero if possible.  Thanks!||||reg||1
+Z||000001||Tom88gt||11-28-2000||07:50 PM||||You can find t-tops in junkyards for about $500.  But you must look hard as there are not many left.  You will have to cut the top off and then cut your top to install or pay some one to do it for you.  It's been done before.||||reg||1

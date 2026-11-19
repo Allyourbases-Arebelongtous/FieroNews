@@ -1,0 +1,3 @@
+A||||1||85ZainoGT||IRM seat cover deals||||1||
+Z||000000||85ZainoGT||12-13-2001||07:05 PM||||anyone got pics or comments on them?<P>------------------<BR>Paul Ventimiglia<BR>1987 GT all the options :)<BR>     <IMG SRC="http://www.fiero.nl/uploads/sigpicNEW3bsmall2.gif"> ||||reg||1
+Z||000001||AusFiero||12-13-2001||07:32 PM||||Only one. They seem really expensive considering what they look like.<P>------------------<BR>         <IMG SRC="http://www.jadeweb.com.au/fiero/auschristmas.gif">        <BR><A HREF="http://www.jadeweb.com.au/fiero" TARGET=_blank>My Fiero</A> | <A HREF="http://www.fieroshop.com.au" TARGET=_blank>Fiero Accessories</A>||202.139.20.3||reg||1

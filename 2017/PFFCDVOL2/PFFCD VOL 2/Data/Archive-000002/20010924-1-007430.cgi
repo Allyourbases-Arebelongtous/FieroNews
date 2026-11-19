@@ -1,0 +1,6 @@
+A||N||4||RobertVol||Who all has Daytona PIcs? I want links||||1||
+Z||000000||RobertVol||05-14-2001||11:49 PM||||If you took pictures at the Daytona Show I would like links and Pics to look through. I want see other views of what everyone saw there. <P>Thanks <P>------------------<BR>Robert<BR>88GT 56k T TOP  <BR>North Florida Fiero Club<P>CLICK BELOW AND SEE OUR SITE !!! <BR>NEXT MEETING - May 26th, in Jacksonville<BR><A HREF="http://fullspeed.to/NorthFLFieros" TARGET=_blank>http://fullspeed.to/NorthFLFieros</A><BR>   <IMG SRC="http://albums.photopoint.com/j/View?u=819451&a=5959473&p=36934984&Sequence=1"> ||||reg||1
+Z||000001||Old Lar||05-15-2001||07:38 AM|||| <A HREF="http://www.zing.com/album/pictures.html?id=4292820261" TARGET=_blank>www.zing.com/album/pictures.html?id=4292820261</A> <P>This has been rated PG by Zing.||||reg||11
+Z||000002||RobertVol||05-15-2001||09:23 AM||||Thanks~!||||reg||1
+Z||000003||FieroLisa||05-15-2001||11:48 AM|||| <A HREF="http://www.geocities.com/fierolisa/daytona2.html" TARGET=_blank>www.geocities.com/fierolisa/daytona2.html</A> ||||reg||1
+Z||000004||RobertVol||05-15-2001||01:22 PM||||Thanks Lisa. More good ones ... <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1

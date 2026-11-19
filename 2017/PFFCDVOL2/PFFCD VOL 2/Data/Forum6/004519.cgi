@@ -1,0 +1,5 @@
+A||||3||LoW_KeY||testing on sig..||||1||
+Z||000000||LoW_KeY||11-28-2001||02:58 PM||||Just testing sig  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>  AIM: FierFormula88   <IMG SRC="http://www.fiero.nl/uploads/kc.jpg"> ||||reg||1
+Z||000001||LoW_KeY||11-28-2001||02:59 PM||||and again..<P>------------------<BR>AIM: FierFormula88   <P> <IMG SRC="http://www.fiero.nl/uploads/kc.jpg"> ||||reg||1
+Z||000002||LoW_KeY||11-28-2001||03:44 PM||||AGAIN!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>AIM: FierFormula88   <P>  <IMG SRC="http://www.fiero.nl/uploads/kcbanner.jpg"> ||||reg||1
+Z||000003||Tigger||11-28-2001||03:54 PM||||Nice Car!<P>Hey, some time ago I saw a red Formula around here going east on I-69, I was going west.  Could that have you?<P>------------------<BR>      <IMG SRC="http://www.fiero.nl/uploads/tiggerblue4.gif">      <BR>T-T-F-N, Ta Ta For Now!<BR><A HREF="http://members.fortunecity.com/racingstripes/" TARGET=_blank>Tigger's Fiero Page</A>||||reg||5

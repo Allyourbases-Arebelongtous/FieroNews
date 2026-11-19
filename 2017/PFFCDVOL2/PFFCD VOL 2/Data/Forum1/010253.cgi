@@ -1,0 +1,7 @@
+A||||5||Ferrari_cdn||ATTN:  Winnipeggers or 'Tobans||||4||
+Z||000000||Ferrari_cdn||09-13-2001||07:22 PM||||What is the phone number for that guy on Henderson that does the repairs on Fieros?  I need to ask him to help repair some safety issues for my car.  My brother in law is trying to find the number as well.  Give me a PM if you know.<P>Thanks very much.<P>------------------<BR>1984 2m4<p>[This message has been edited by Ferrari_cdn (edited 09-13-2001).]||||reg||4
+Z||000001||Mach10||09-13-2001||08:23 PM||||Check your PMs  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000002||sloth85GT||09-15-2001||12:26 AM||||Ya I have heard of this guy, tell me more about my new god? Can he sell me parts? Any kind of parts? Would he do v-8 conversions? What can he do?<P>------------------<BR>     <IMG SRC="http://www.mts.net/~kuzma/fieronl.gif">     <BR>Dan<BR>1985 Silver GT||||reg||1
+Z||000003||baldlobo||09-15-2001||12:34 AM||||Sloth check you PMs  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000004||Cheever3000||09-15-2001||12:43 AM||||I'm confused.  What is it you want, a <I>Winnebago</I>, or a <I>toboggan</I>?  I mean, you wouldn't want to take a Winnebago down a snowy hillside, and it would be unsafe to take a toboggan on the highway.<P> <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>||||reg||1
+Z||000005||sloth85GT||09-15-2001||04:23 AM||||*sigh* americans.......... lol Just joking Cheever||||reg||1

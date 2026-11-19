@@ -1,0 +1,3 @@
+A||||1||Jncomutt||2000 RPM Noise||||1||
+Z||000000||Jncomutt||09-13-2001||11:15 AM||||I just got my car back from getting the clutch changed.  (84 4cyl)  Now, whenever the RPMs pass the 2000 mark whether they're going up, or coming down, I heard this weird rattle type Brrmmm noise. Its kind of a deep tone and will only be for the short moment that its at 2k.  I can get it to last a few seconds sometimes if I keep it there.  Its very consistant with 2k and happens no other time.  I haven't been able to hear it over bumps or anything that I can tell.  Any Ideas where this could be coming from or what its caused by??||||reg||1
+Z||000001||Jncomutt||09-14-2001||04:42 PM||||no one?? Aka -bump-||||reg||1

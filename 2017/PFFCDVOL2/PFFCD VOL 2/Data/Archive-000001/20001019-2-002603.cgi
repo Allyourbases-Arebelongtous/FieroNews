@@ -1,0 +1,2 @@
+A||N||0||phillip||ground effects||||1||
+Z||000000||phillip||03-07-2000||08:33 PM||||<BR>i am waiting on a set of side rocker panels i ordered from IRM. dose any one have any idea where i can get some front and rear ground effects to finish out the look? i have an '87 4cyl. i may have to look for some gt bumpers, but i am hoping someone knows of other options. i know about the 2 from pisa already.maybe some one who has some after market parts from when fieros were current? or who has worked up their own. thanks for any help.||||reg||1

@@ -1,0 +1,4 @@
+A||||2||Philphine||body kit||||1||
+Z||000000||Philphine||09-24-2000||03:20 PM||||<BR>doseany body make one similar to the kits you can get for cars now? i dont mean the type where you remove panels, i want the kind where you are adding to existing panels. i saw one on a canadian car at the louisville show (black '84 i think) and have been wondering since. i know jcwhitney,sold them but that was years ago before i had a fiero. i'm looking for something for a regular (non gt or '87/formula) style coupe.  ||||reg||1
+Z||000001||2xsess||09-24-2000||06:19 PM||||Do you mean something like the PISA ZR2. I don't know their website address but try there.<BR><P>------------------<BR>Jeff<BR>85GT||||reg||1
+Z||000002||Philphine||09-25-2000||11:16 AM||||nope.with the zr2 you are replacing panels with theirs. i mean one where you add to the existing panels, like a ground effects kit. ||||reg||1

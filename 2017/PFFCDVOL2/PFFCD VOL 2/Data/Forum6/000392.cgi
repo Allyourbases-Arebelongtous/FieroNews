@@ -1,0 +1,3 @@
+A||||1||jhogans||The Incredible Hulk's Original Color??||||5||
+Z||000000||jhogans||06-13-2000||01:30 AM||||My friend and I are having a debate about the  Incredible Hulk's original color.  I told him that the Hulk was originally grey but later turned green.  He said that is true but only in the later Volumes.  I told him that he was grey also in the first issue in the original volume.  Issue #1.<P>Does anybody have any insite on this issue?||||reg||5
+Z||000001||Sage||06-14-2000||09:06 PM||||Flesh color! <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif"><P>Was his<B>original</B>color; after all, didn't he start out as mortal? LOL j/k<P>I remember him being gray, orange, and then green.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

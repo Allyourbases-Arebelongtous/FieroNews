@@ -1,0 +1,4 @@
+A||||2||Pretender||N20||||7
+Z||000000||Pretender||11-18-1999||12:38 AM||||Whats the difference between the N20 that we(some of us) run in our cars and the stuff dentists use? Why would i be able to fill up my bottle no questions asked? i would think that they would atlest want a permit or something to buy it?...thanks.<BR>||||reg||7
+Z||000001||Shaun41178||11-18-1999||01:11 AM||||The nitrous that we get for our cars has sulfer dioxide in it.  This prevents it from being abused as a drug.  i guess you could still inhale it but from what i heard you don't want to as you should know sulfer is bad for you.<P>Medical grade nitrous does not have this sulfer in it.<P>That is the only difference between the two.||||reg||1
+Z||000002||Patrick||11-18-1999||01:27 AM||||<BR>That was interesting. <P>It's amazing the things we learn about at this forum. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||14

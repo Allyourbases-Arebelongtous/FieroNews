@@ -1,0 +1,4 @@
+A||||2||Willy||Electrical Problems||||9
+Z||000000||Willy||10-25-1999||10:24 PM||||Every thing electrical is going wrong.  My headlights won't go up unless you put the switch between off and on at a certain point.<BR>The windshield wipers wipe when the car is turned on and if the switch is put in the off position the run like thier on.  I have to put them between of and on to keep them from wiping.  Help really annoying!||||reg||9
+Z||000001||Kage86GT4SP||10-26-1999||02:52 AM||||I'm thinking your headlight switch is toast.<P>BE CAREFUL!  I owned a little 83 Dodge 2.2 once, and the light switch litteraly burned down the entire car.||||reg||1
+Z||000002||Cliff Pennock||10-26-1999||04:12 AM||||Willy, I had the same problem with the headlights on my previous Fiero - I could only open them by holding the switch somewhere halfway. The switch was ok, turned out that one of the relays was shot.||||reg||1

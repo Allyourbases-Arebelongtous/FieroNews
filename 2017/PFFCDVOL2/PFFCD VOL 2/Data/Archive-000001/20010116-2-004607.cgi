@@ -1,0 +1,5 @@
+A||||3||peterh||engine cover rattles||||1||
+Z||000000||peterh||07-05-2000||12:17 PM||||The 2 engine cover vents on my 86 SE rattle. The metal piece that holds them in on the front on both sides is slightly smaller than the opening in the covers and it rattles. Is there a plastic bushing or something that is supposed to take up the slack? <BR>||||reg||1
+Z||000001||Gold-86SE||07-05-2000||04:44 PM||||<BR>All mine have a plastic type washer under the head of the attaching screw, wheather it is the butterfly, flathead screw head, or the flip handle type.<BR><P>------------------<BR>Gold-86SE (Fiero Collector)||||reg||1
+Z||000002||theogre||07-05-2000||10:49 PM||||If you mean the peg on each side of the deck lid, yes, it was covered in plastic.<P>To replace the peg's plastic cover, which splits and falls off, get some heat shrink tube. shrink a pieice onto the peg. then shrink another peice over that one. It should take up the slack that has likely worn into the covers.||||reg||1
+Z||000003||peterh||07-06-2000||11:11 AM||||Thanks theogre, I'll try the heat shrink tubing.<BR>||||reg||1

@@ -1,0 +1,5 @@
+A||||3||TOM||where is the flasher||||1||
+Z||000000||TOM||06-11-2000||02:34 AM||||I know the emergency flasher is down by the blue chime thingy but where is the turn flasher?||||reg||1
+Z||000001||batboy||06-11-2000||08:37 AM||||Tom, I'll trade you info. I know where the signal flasher is, but didn't know where the hazard flasher was. The turn indicator flasher unit is usually a little round yellow thingy located right next to the fuse box under the dash on the driver's side.||||reg||1
+Z||000002||TOM||06-11-2000||12:03 PM||||Geez I was just under there but looking for something else. The hazard flasher in mine is a silver (aluminum) round thing located under the passenger side dash. The flasher, the blue chime box and one other thing are all mounted on a board attached to the heater/ac box.||||reg||1
+Z||000003||theogre||06-11-2000||03:48 PM||||the turn can is up under the dash on the drivers side. If it's still in the factory clip, it's high up on the left side of the bracket work that supports the steering column. pretty awkward to get to. might be easier to find if you pull off the trim pannel under the column.||||reg||1

@@ -1,0 +1,6 @@
+A||||4||Kasdan||Kwik HTML Kewstin||||1||
+Z||000000||Kasdan||09-28-2001||09:16 AM||||How do i make a submit button in a form submit the information to my email adress without the use of CGI or java?<P>------------------<BR>Tyler Morgan, 1986 GT<BR> <IMG SRC="http://www.fiero.nl/uploads/Fiero21.jpg">         <BR>Power Steering, Holley Scoop<BR>Aim=FieroDriver1986||||reg||1
+Z||000001||BlackARROW||09-28-2001||09:54 AM||||Use this kind of stuff:<P>&lt;form name="FieroPower" method="post" action="mailto:your@email.fiero.org"&gt;<BR>&lt;!-- **** put your fields here **** --&gt;<BR>&lt;INPUT type="submit" value="Submit" id=submit1 name=submit1&gt;<BR>&lt;/form&gt;<P>That's it. That will send you a resume of the fields.<P>Good Luck!<P>BlackARROW<BR>WebWeaver<BR>||||reg||5
+Z||000002||Kasdan||09-28-2001||05:47 PM||||thanks a bunch, im putting a form on the new webpage im working on||||reg||1
+Z||000003||theogre||09-28-2001||08:00 PM|||| <A HREF="http://www.webmonkey.com" TARGET=_blank>www.webmonkey.com</A>  and <A HREF="http://www.cnet.com" TARGET=_blank>www.cnet.com</A>  have HTML materials and instructions.<P>((Please for Next time... this kind of thing goes in OT....))||||reg||1
+Z||000004||Kasdan||09-28-2001||08:19 PM||||Sorry, when i posted this i thought it was in OT, my bad||||reg||1

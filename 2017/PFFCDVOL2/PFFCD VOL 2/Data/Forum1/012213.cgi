@@ -1,0 +1,2 @@
+A||||0||bocefas||Questions for LT1 Choptop||||5||
+Z||000000||bocefas||11-27-2001||11:02 AM||||First off I have to say, you own 2 of the sweetest Fiero's I have ever seen.  The "antcam" pics of your choptop really have me interested in painting mine the same color...is that the factory color or something custom?  Can you get me a paint code?  Also, I've seen the side scoops like yours on a couple of cars, can you point me in the right direction for those?  You know they say imitation is the sincerest form of flattery....||||reg||5

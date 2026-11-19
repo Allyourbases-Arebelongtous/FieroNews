@@ -1,0 +1,3 @@
+A||||1||AkursedX||Adjusting valve lash.||||5||
+Z||000000||AkursedX||07-15-2001||08:52 PM||||Does anyone have any good tips/advice for adjusting valve lash?  I really want to do right the 1st time because I really don't want have to tear apart my top end again.<P>Thanks in advance for any input  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR><BR> <IMG SRC="http://www.fiero.nl/uploads/sigpic2_2.jpg"> ||||reg||5
+Z||000001||rogergarrison||07-15-2001||09:39 PM||||is this on a new valve or head job? if so full proceedure is in haynes manual. Other than that they shouldnt need adjustment, theyre hydraulic.||||reg||1

@@ -1,0 +1,5 @@
+A||N||3||Bj||it runs but?||||8||
+Z||000000||Bj||12-30-1999||02:41 PM||||when I fire it up the RPM are at 2500 which I think is normal but when It should kick down it goes up to 3000 RPM what could make this happen?||||reg||8
+Z||000001||87GTBro||12-30-1999||03:48 PM||||It sounds like your oxygen sensor has gone bad.  When you first start the car, the ECM takes readings from sensors such as the oxygen sensor and automatically adjusts the idle rate.  This same thing happens to a Sunbird I own.  <P>I'm not sure what the price for a O2 sensor for a Fiero would be, but for my sunbird it was around $60.||||reg||1
+Z||000002||Bj||12-30-1999||04:28 PM||||Have already change o2 sensor. This is the 1st time car has ran with new ECM and diffrent TBI. Wondering if anything has to be set by driving car or adjusting something?||||reg||9
+Z||000003||Monkeyman||12-30-1999||08:11 PM||||I think you have to drive the car over 30mph for a little while so the ECM can reaquire a signal or something like that.  Try it.  I couldn't hurt, right?||||reg||1

@@ -1,0 +1,6 @@
+A||N||4||Haze_Performance||test||||2||
+Z||000000||Haze_Performance||08-30-2001||03:07 AM||||test<P>------------------<BR><A HREF="http://www.ws6fiero.com" TARGET=_blank>           <IMG SRC="http://www.fiero.nl/uploads/indyclick.gif">           <BR></A><BR>http://clubs.yahoo.com/clubs/ws6fiero||||reg||2
+Z||000001||Haze_Performance||08-30-2001||03:21 AM||||test<P>------------------<BR><A HREF="http://www.ws6fiero.com" TARGET=_blank>            <IMG SRC="http://www.fiero.nl/uploads/indyclick.gif">            <BR></A><BR>http://www.clubs.yahoo.com/clubs/ws6fiero||||reg||1
+Z||000002||Haze_Performance||08-30-2001||03:24 AM||||test<P>------------------<BR><A HREF="http://www.ws6fiero.com" TARGET=_blank>             <IMG SRC="http://www.fiero.nl/uploads/indyclick.gif">             <BR></A><BR><A HREF="http://www.clubs.yahoo.com/clubs/ws6fiero" TARGET=_blank>WS6 Fiero Club</A>||||reg||1
+Z||000003||RossT||08-30-2001||03:52 AM||||Did your test work?||||reg||1
+Z||000004||Haze_Performance||08-30-2001||04:02 AM||||Yes  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR><A HREF="http://www.ws6fiero.com" TARGET=_blank>             <IMG SRC="http://www.fiero.nl/uploads/indyclick.gif">             <BR></A><BR><A HREF="http://www.clubs.yahoo.com/clubs/ws6fiero" TARGET=_blank>WS6 Fiero Club</A>||||reg||12

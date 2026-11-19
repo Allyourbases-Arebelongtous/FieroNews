@@ -1,0 +1,7 @@
+A||||5||fropuff||Tar remover???||||10||
+Z||000000||fropuff||04-30-2000||07:55 PM||||First, I know that I've seen this post before; I just don't pay any attention unless is concerns me.  I was wondering what kind of bug/tar remover to use to get the tar off of the rear bumper.  It is plastic ya know, and I don't know what is safe.  It is pretty heavily coated with tar. Would WD40 work?  Thanks.||||reg||10
+Z||000001||batboy||04-30-2000||08:33 PM||||It might be plastic, but it has paint on it just like all the other cars.||||reg||1
+Z||000002||theogre||04-30-2000||08:42 PM||||WD40 CRC5-56 or any number of other products. Turtlewax has a good one. most wax brands have one. Simple Green or Citrisolve will probly do it to.<p>[This message has been edited by theogre (edited 04-30-2000).]||||reg||1
+Z||000003||lowCG||04-30-2000||11:05 PM||||My favorite is the Turtlewax kind,usually just grab some WD40 though.<BR>I wouldn't use Simple Green,have had that stuff fade/streak painted surfaces before.||||reg||1
+Z||000004||Oreif||04-30-2000||11:14 PM||||Had a vehicle that was driven across a parking lot that was just sprayed with tar. Tried everything. WD40 worked the best! The turtlewax bug and tar remover works but for a large area it took a lot of "Elbow Grease"<BR>To get the tar off. WD40 took it off in half the time.||||reg||3
+Z||000005||wkayl||05-01-2000||10:40 AM||||Butter.<BR>Not margerine but "real butter".||||reg||1

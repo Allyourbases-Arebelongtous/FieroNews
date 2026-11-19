@@ -1,0 +1,2 @@
+A||||0||DJRice||Ballad of the Computer Hillbillies...||||1||
+Z||000000||DJRice||07-15-2000||03:27 PM||||Check it.<BR> <A HREF="http://www.debsfunpages.com/hillbilly.htm" TARGET=_blank>http://www.debsfunpages.com/hillbilly.htm</A> <P>------------------<BR>Dillon - Titusville, FL<BR>Black '87 SE V6<BR>"Matched Perfect and Staggered Special"<p>[This message has been edited by DJRice (edited 07-15-2000).]||||reg||1

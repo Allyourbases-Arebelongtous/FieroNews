@@ -1,0 +1,3 @@
+A||||1||Philphine||home||||1||
+Z||000000||Philphine||03-04-2001||07:16 PM||||<BR>saw one more fiero before i left germany, a black gt along with the red gt i saw while i was out sight seeing. good to be home. got a fist full of dollars (pretty good per diem) and i hope to use  little of it on my fieros. <P>------------------<BR>Phil T<P>'87 coupe (feral)<BR>'84 indy<BR>'84 coupe (cheap thrill)<BR>'84 chop top (parts car or project. time will tell)||||reg||1
+Z||000001||2xsess||03-04-2001||09:43 PM||||Always a good feeling to be home again.....well made not always  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><BR>||||reg||1

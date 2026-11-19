@@ -1,0 +1,6 @@
+A||N||4||Fiero_Freak||Hinge spring bolts?||||1||
+Z||000000||Fiero_Freak||01-08-2001||06:29 PM||||   Does anyone know the size on these?  I'm sure their metric like the rest of the car.  Can I just put some in and cut to length?  I don't suppose anyone would have some laying around?  And to stop the thought, I didn't take them off. The guy I bought it from did...and then put the hinges on backwards...and wondered why he couldn't get the decklid to fit back on.  I wonder why he didn't do the countach kit he wanted?   <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000001||theogre||01-08-2001||08:08 PM||||You mean the pins that hold the rods tension setting or the bolts that hold the rod links to the top of the hinges?||||reg||1
+Z||000002||Fiero_Freak||01-08-2001||11:08 PM||||sorry.. yes.  The bolts that hold the rod links to the hinges.||||reg||1
+Z||000003||tgowens||01-09-2001||02:21 AM||||I believe it is either a T-27 or T-30 Star Bit (like a torx bit but with a hole in the center)||||reg||1
+Z||000004||theogre||01-09-2001||07:33 PM||||I think he means the thread size on them...<P>I'm not sure how well standard bolts could be used there. Those might be something hard up in the grade 8 area. There's allot of force on those little buggers. Regular bolts might not hold up to it. hard to say for sure.||||reg||1

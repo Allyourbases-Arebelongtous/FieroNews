@@ -1,0 +1,12 @@
+A||N||10||Ditz88GT||Extra Bright Yellow Fiero @ Carlisle?||||5||
+Z||000000||Ditz88GT||05-25-2000||11:34 AM||||Does anyone know who owns the bright bright yellow GT that was at Carlisle?  It was for sale and a friend of mind might be interested.  If I remember correctly it was from the 610 area code.  It wasn't the standard yellow, it was closer to floresent yellow.||||reg||5
+Z||000001||Old Lar||05-25-2000||05:41 PM|||| Is this the bright yellow GT?  I have no name.  Does it look familiar to anyone who has a name to go with the car?<BR> <IMG SRC="http://www.fiero.nl/uploads/ByellowGT.jpg"> ||||reg||1
+Z||000002||Ditz88GT||05-25-2000||06:20 PM||||Yes, I think that's it!  I think they were asking $3000.  A good friend of mind is looking for a GT and he liked that one, but we didn't write down the number.  Can anyone help?||||reg||1
+Z||000003||87PegasusGT||05-25-2000||06:20 PM||||Anyone know who makes that nose add on?||||reg||1
+Z||000004||fieroshop||05-25-2000||10:26 PM||||Hey 87PegasusGT what nose piece add on? I see only a stock nose with driving or fog lights.||||reg||1
+Z||000005||cobra427||05-25-2000||11:06 PM||||fieroshop, I think hes talking about the chin spoiler. Check the blue one next to it and you will see the difference||||reg||1
+Z||000006||Robert||05-26-2000||12:05 AM||||"My “Little Red Riding Hood”, what BIG eyes you have". <BR> I am always surprised by how much I miss in a photograph.  I can just barely see the “chin spoiler” in the photo.  I think I need to see the “eye doc”<P>Robert<P>||||reg||10
+Z||000007||cobra427||05-26-2000||12:24 AM||||In addition too, check out the extention on the rocker panels. It must be part of a kit.<BR>Hows that for a pair of eyes?||||reg||1
+Z||000008||87GTJohn||05-26-2000||01:23 AM||||The add on chin spoiler and side skirts were owner made and installed. I believe the were made of rubber fence caps or something like that.  Anyway the paint is like PPG Chrome Yellow but a different brand.  Talked to the owner for about half an hour on saturday, sorry don't remember his name but check the Mid Atlantic Fiero Club. I think he is a member.<BR>John ||||reg||1
+Z||000009||Ditz88GT||05-27-2000||03:03 PM||||Does anyone know the owner?||||reg||5
+Z||000010||superXmotorsports||05-27-2000||03:07 PM||||Bob Schlag, the president of the MAFOA would probably have the info you're looking for.  I have his email address and will post it when I find it.<P>SXM.||||reg||1

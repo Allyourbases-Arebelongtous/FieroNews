@@ -1,0 +1,2 @@
+A||||0||NoCAChpt,Sacramento||Sacramento area meeting||||1||
+Z||000000||NoCAChpt,Sacramento||09-20-2001||03:28 PM||||The Northern CA Chpt., FOCOA, will meet this Saturday.<P>Round Table Pizza, Walnut and Marconi, Carmichael, 11:30 a.m. (4949 Marconi)<P>Come join us, and also, look at our web site at <A HREF="http://www.geocities.com/norcalfiero." TARGET=_blank>www.geocities.com/norcalfiero.</A> ||||reg||1

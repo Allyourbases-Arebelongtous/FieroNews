@@ -1,0 +1,4 @@
+A||||2||loafer87gt||Hi Tech Developments||||1||
+Z||000000||loafer87gt||11-23-2000||12:21 PM||||Anybody delat with these guys? I know a couple of months ago they mentioned they would be selling built up v6's, but it looks like they haven't updated their web page in a while. I dropped them an email but haven't heard anything back from them yet.||||reg||1
+Z||000001||loafer87gt||11-23-2000||01:28 PM||||Just talked to Tom on the phone and he sounds like he's doing some crazy stuff with the V6's. He's got roller cam 2.8's, and dual intake throttle body setups. He said they will be updating their website in January listing their new stuff.||||reg||1
+Z||000002||onfire||11-23-2000||02:40 PM||||And the website is........<P>------------------<BR>"I seen it on the internet, and I believe everthing on the net."<BR><A HREF="http://homestead.deja.com/user.on_fire/on_fire.html" TARGET=_blank>Check out my waist of banbwidth.</A>||||reg||1

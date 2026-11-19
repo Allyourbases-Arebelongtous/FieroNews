@@ -1,0 +1,7 @@
+A||||5||Gokart||Some help finding fuel filter!
+Z||000000||Gokart||05-21-99||06:50 PM||||After doing plugs, wires, O2 sensor, serpentine belt, oil and filter on my newly purchased GT, I'm sure the fuel filter could use replacing. Can't find it!!! Haynes manual says it is located by the TBI? Facing the engine from the rear of the car is it left, right, forward, or under something? TIA! 
+Z||000001||Patrick||05-21-99||06:59 PM||||<br>Check under the car. That's where mine is on a 2.5L '87.<p>When I took off the old one on my Fiero, it looked like it might have been the <b>factory original</b>. The filter element was just rattling around inside the "can".<p>I guess the previous two owners of my Fiero had the same problem you're having.<p><p>
+Z||000002||SCCA FIERO||05-21-99||07:24 PM||||I have an 86 SE V6 and mine is under the car just about under the passenger side seat. Kneel down just in front of the passenger side rear tire and you should see it.
+Z||000003||Gokart||05-22-99||01:46 AM||||Wish I had thought about that when I had it on ramps last week to do the O2 sensor! Thanks for the help, I'm sure I'll find it now. Can anyone think of anything else I should check/change knowing the previous owner didn't care much for this car?!
+Z||000004||87FieroGT||05-22-99||11:30 PM||||You should check the distributer cap and rotor, air filter, A/C belt, and the coolant level. Other that that it should be OK.
+Z||000005||SCCA FIERO||05-23-99||12:46 AM||||Actually I would flush the coolant to be safe. I would also change the transaxle fluid too.

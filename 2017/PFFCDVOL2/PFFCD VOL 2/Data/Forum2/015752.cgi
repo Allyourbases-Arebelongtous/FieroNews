@@ -1,0 +1,2 @@
+A||N||0||fierodreamz||Audio Installation||||14||
+Z||000000||fierodreamz||11-24-2001||07:15 PM||||Hey Guys, Was At Radio Shack Today, Purchased a General Motors Single DIN Installation Kit($14.99). It is great, perfect fit and looks great! Comes in Only One Color(Black) But I Suppose It Could Be Painted Any Color You Would Like. I'll have pictures once i get my POS Casio Camera working and figure out how to put pics on here. <BR>-Andy<P>------------------<BR>Drive It Like Ya Stole It!<BR>1985 Sport Coupe Undergoing Resto.||||reg||14

@@ -1,0 +1,3 @@
+A||N||1||reddog||SNL scarlet letter ||||1||
+Z||000000||reddog||12-22-2001||12:03 AM||||OMG just saw a Saturday Night Live rendition of the Scarlet letter on comedy central. WTF that was the funniest thing I've ever seen. Anyone else catch that? HELL YES!!!!!!!!!!!!!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> I'll be looking for the lady with the Scarlet B J on her chest!!!<P>------------------<BR>       <IMG SRC="http://www.fiero.nl/uploads/Picturenew_sig.jpg"> ||||reg||1
+Z||000001||My7Fieros||12-22-2001||01:15 PM||||LOL yeah I remember seeing that one a while back. They were like "well, uh, the BJ can stay, but the rest has to go"..it was funny.||||reg||10

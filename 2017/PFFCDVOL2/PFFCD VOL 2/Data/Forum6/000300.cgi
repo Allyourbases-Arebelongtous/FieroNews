@@ -1,0 +1,6 @@
+A||||4||Standard||Xfest!!||||1||
+Z||000000||Standard||05-15-2000||05:54 AM||||So is anybody up here in the midwest gonna be heading out to Xfest in wisconsin?  I'll be up there the 26th and 27th.  it's gonna kick some @ss.||||reg||1
+Z||000001||Monkeyman||05-15-2000||10:17 AM||||Probably not since I have no idea what it is.  Dirty movies??||||reg||1
+Z||000002||Standard||05-15-2000||02:56 PM||||hehe.. it's a big concert.  3 days over memorial day weekend.  30 bands.  some of the bands... STP, Slipknot, Sevendust, Powerman 5000, Everclear, Godsmack, Staind, Static-X, Coal Chamber, Goldfinger, Primer55, 2 Ton Crutch, American Headcharge.. etc, etc..<BR>for more info just go here.. <A HREF="http://pshawmusic.com/xfest/index2.html" TARGET=_blank>http://pshawmusic.com/xfest/index2.html</A> ||||reg||1
+Z||000003||Monkeyman||05-15-2000||03:13 PM||||Let's see...I've heard of Godsmack and Stone Temple Pilots (I assume that's what "STP" is).  I guess that would leave me out.  Well, that and the fact that I live in Indiana. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000004||Standard||05-16-2000||05:01 AM||||well... at least you've heard of two of them..   <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1

@@ -1,0 +1,5 @@
+A||||3||88FORMULA-T-TOP-GUY||What kind of sander/polisher?||||1||
+Z||000000||88FORMULA-T-TOP-GUY||04-19-2001||07:20 PM||||I want to buy a polisher to get rid of some orange peel and to buff and polish my car. Do I buy an orbital or regular. Is there anything else I need to know?  If there are any experts out there I would appreciate some advice.  Thanks. ||||reg||1
+Z||000001||Old Lar||04-19-2001||08:52 PM||||If you are inexperienced using a standard polisher, get a random orbital one.  Less chance of burning the paint by sitting in one place too long.  Been there, done that.||||reg||1
+Z||000002||88FORMULA-T-TOP-GUY||04-20-2001||07:26 AM||||Thats what I originally started to buy, a orbital sander, but then was told by two different people that they are not used for polishing cars, only circular.  Is there a detailer out there who might know?||||reg||1
+Z||000003||Wolfhound||04-20-2001||07:59 AM||||Some sanders are optional, ,with a lock feature that allows use as an orbital and regular circular. No mater which you chose to use, I would suggest this as the best option since it would be more useful to you. ||||reg||1

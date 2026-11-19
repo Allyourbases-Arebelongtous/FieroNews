@@ -1,0 +1,3 @@
+A||||1||Psych0sis||Fiero Body Kits?
+Z||000000||Psych0sis||03-16-99||02:05 AM||||I saw a fiero today. I fell in love and now I must find the body kit for my 87 GT. It was sooo cool. It had a wing similiar to a toyota celca GT, with fender flares similiar to an IMSA body and side scoop like a JET!! Does anyone know any web addresses of Fiero Body kit companies? Or snail mail Addresses too!!
+Z||000001||raceknb||03-26-99||10:18 PM||||http://www.cybercars.com/fierohq.html<br>Give this addy a try.  It will put you in to a Fiero body and interior specialist.  If you need more sites...email me<br>raceknb@sprintmail.com

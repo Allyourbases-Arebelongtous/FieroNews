@@ -1,0 +1,2 @@
+A||||0||montage||Wheels 17X8||||1||
+Z||000000||montage||05-14-2001||03:13 PM||||I'm looking for alloy wheels for a 1988 Formula (lowest cost looks not important). I want 17X8 for the rear. I'm having a real problem finding 17X8 wheels. Most internet sites look based on the car not the size and bolt patterns. The largest size for the Fiero is typically 17X7.5. Could anyone direct me to a place that sells 17X8 wheels for the Fiero that fit. <P>Thanks ||||reg||1

@@ -1,0 +1,7 @@
+A||||5||thecage||glass polishing||||1||
+Z||000000||thecage||10-29-2001||06:33 PM||||Can the scratches left behind from the dew wipes on the side glass be polished out. If so what is the best product and method of application.<P>Thanks||||reg||1
+Z||000001||rogergarrison||10-29-2001||07:23 PM||||run your fingernail across it. if it catches it wont come out. If not, take it to an autoglass shop and they can.||||reg||1
+Z||000002||Orden||10-29-2001||07:38 PM|||| One of the guys in our club found some stuff that works for that. I will try and get him to post! His turned out really good<P>||||reg||3
+Z||000003||Nashco||10-29-2001||08:02 PM||||I'd love to hear what he used Orden.  I'm not a big fan of paying somebody else to do what I can do myself.  Let us know! <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Bryce<BR>88 GT||||reg||1
+Z||000004||thecage||10-29-2001||08:34 PM||||thanks everyone for your replies. I hope to do it myself. Yes Orden if you can post that info that would be great.||||reg||1
+Z||000005||Devotshka||10-29-2001||09:12 PM||||Cerium Oxide is what auto-glass shops use.  Most glass shops should have plenty on hand (i bought a pound from a local shop for $1).  You mix it with water into a slurry, then apply it with a high speed buffer.  You have to keep it wet to keep the temperature down.<BR>I've had excellent results with it, but like Roger said, if you can catch a fingernail in the scratches, stick a fork in it, cuz its cooked.<BR> <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

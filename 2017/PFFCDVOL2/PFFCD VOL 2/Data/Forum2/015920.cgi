@@ -1,0 +1,9 @@
+A||||7||Dan Robinson||Anyone running - HEADERS, NO CAT AND PERFORMANCE EXHAUST?||||12||
+Z||000000||Dan Robinson||11-30-2001||01:43 PM||||Has anyone run this setup before, I'm thinkin about doing so.||||reg||12
+Z||000001||Oreif||11-30-2001||01:48 PM||||Yes, I am. Works great.<BR>||||reg||2
+Z||000002||Formula88||11-30-2001||02:23 PM||||Hey, Orief, what kind of muffler are you running?  Is it much louder than stock?  Mine was noticeably louder when I took off my cat but I was still running a stock muffler and exhaust manifolds.||||reg||14
+Z||000003||Oreif||11-30-2001||02:26 PM||||I'm running the Ocelot. It is more "raspy" than stock and without cat slightly louder but sounds nice.||||reg||1
+Z||000004||MinnGreenGT||11-30-2001||02:53 PM||||Loud and louder.... High-Flow Cat, no muffler, 2.5" pipes, ported exhaust manifold, and Pacesetter/Monza baffle tips.<P>Here 'ye...Here 'ye... read all about it!  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><BR> <A HREF="http://www.fiero.nl/forum/Forum2/HTML/013191.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/013191.html</A> <P>------------------<BR>              <IMG SRC="http://www.fiero.nl/uploads/GreenGT6.gif"> ||||reg||1
+Z||000005||Alex4mula||11-30-2001||04:13 PM||||I am. FOCOA headers, no cat and Borla muffler on 3.4. Sound is awesome. I love when my wife drives it and I follow her just to hear the rumble when shifting  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>    Alex4mula<BR>:) Red-Original Owner & White-1/94 with PM (:||||reg||6
+Z||000006||ITB 2M4||11-30-2001||05:36 PM||||You're talking about the v-6, right?<P>I'm running a Headman header through straight exhaust on my 2.5l.  Sounds kinda loud up close, but it's well under the SCCA's sound limits at the track.<P>------------------<BR>SCCA ITB '84 Fiero 2M4||||reg||1
+Z||000007||Mark Matthews||11-30-2001||05:54 PM||||Just curious about the no cat.  How does this hold up with emission testing?||||reg||1

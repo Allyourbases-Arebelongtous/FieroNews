@@ -1,0 +1,6 @@
+A||N||4||fierodave||need some indy pace car pic's||||1||
+Z||000000||fierodave||12-29-1999||09:43 PM||||<BR>hi all need to get a few indy pace car pic's for the pace car i have  need them for decal placement and such,  close up side shots would be nice along with a rear or two  need to have them with door decals if possible  thanks for all your time  plaese email me direct if possible!<BR>Fierodave@yahoo.com||||reg||1
+Z||000001||Raydar||12-29-1999||11:40 PM||||Dave,<BR>Check this link, if you haven't seen it already.  <A HREF="http://albums.photopoint.com/j/AlbumIndex?u=29019&a=202483" TARGET=_blank>http://albums.photopoint.com/j/AlbumIndex?u=29019&a=202483</A> <BR>Click on the thumbnails. Has some original pics, plus some pics of the PPG pace car with the DGP (now IRM) body panels.||||reg||1
+Z||000002||fierodave||12-30-1999||03:29 AM||||Raydar  thanks for the link  that's a helper!! :~)<BR>FD||||reg||1
+Z||000003||fierodave||12-30-1999||03:30 AM||||Raydar  thanks for the link  that's a helper!! :~)<BR>FD||||reg||1
+Z||000004||Steven||12-30-1999||05:24 PM||||Hey Dave! I was looking around the net and I found this for you.<BR> <A HREF="http://www.phoenixgraphix.com/gm/1984if.htm" TARGET=_blank>http://www.phoenixgraphix.com/gm/1984if.htm</A> <P>Hope it helps.||||reg||1

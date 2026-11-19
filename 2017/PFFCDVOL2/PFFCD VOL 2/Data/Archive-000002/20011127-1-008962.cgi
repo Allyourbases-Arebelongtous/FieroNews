@@ -1,0 +1,7 @@
+A||||5||fiero56||addition of a second odometer?||||5||
+Z||000000||fiero56||07-21-2001||08:29 PM||||I think it would be nice to add a second odometer to my Formula so I could glance at it and know exactly how many miles are on my soon to be new engine. Ideal would be an original odometer set to zero in the blank slot directly to the right of the stock odometer. Is this a feasible task? All I'm worried about is mounting the odometer. It wouldn't need to be lit. <BR>||||reg||5
+Z||000001||rogergarrison||07-21-2001||08:34 PM||||aircraft use a Hobbs meter. it records engine running time in hours and minutes. Big rigs have some kind of meter that attaches to a wheel hub. just a few ideas. I think some tractors have the Hobbs meter too, so a tractor supply might have them.||||reg||1
+Z||000002||Joe Torma||07-21-2001||09:56 PM||||I'm sure it could work!  The odometer is run by 4 little wires(plugged into a circuit board).  If you need an odometer, I have an extra one.<P>Joe||||reg||1
+Z||000003||cadaver||07-22-2001||06:51 PM||||Thats easy enough to do. But you could also just write down the current milage then add the number up.||||reg||1
+Z||000004||rogergarrison||07-22-2001||07:59 PM||||LOL CADAV, no one ever sees the obvious. Didnt even dawn on me  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||14
+Z||000005||fiero56||07-22-2001||09:08 PM||||That would be the easiest, but don't you know, **in super-hero voice**" I'm gadget man!"||||reg||1

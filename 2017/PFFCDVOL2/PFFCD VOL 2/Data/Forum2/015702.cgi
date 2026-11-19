@@ -1,0 +1,9 @@
+A||||7||Pilrulz||Somebody please answer this quick!||||12||
+Z||000000||Pilrulz||11-23-2001||10:01 AM||||okay, i've found this engine, and if i know what i need to know about it, i might be able to get it in the car by the end of the weekend so here goes...<P>i need to know what year engine it is.  i havent seen it, but my dad says there is a distributer sticking out of it, so it must be an 84-86, cause it did come out of a fiero.  there are two numbers on the block, and here they are:<P>the casting number is 10018149<P>the stamped number is 106829971<P>i would really like a lot of answers today, so expect a lot of bumps<P>thanks<P>pil||||reg||12
+Z||000001||LZeitgeist||11-23-2001||10:34 AM||||I'm pretty sure that the engine is supposed to have the VIN# stamped or tagged somewhere on it... if the 10th digit of the VIN is a:<P>E - 1984<BR>F - 1985<BR>G - 1986<BR>H - 1987<BR>J - 1988<P>Hope it helps.<P>------------------<BR>Patrick W. Heinske  --  LZeitgeist@aol.com<BR>1988 Red Fiero Formula<BR>- 1st Place - Stock Coupe - FOCOSEVA 2000<BR>- 3rd Place - Stock Formula - FOCOA Nat'l 2001<BR>- Class Winner - 1982 to Present - 2001 Tarheel Tigers All-Pontiac Show||||reg||1
+Z||000002||Pilrulz||11-23-2001||10:38 AM||||yes, or so i've been told, but there are no letters stamped anywhere on the engine.<P>pil||||reg||1
+Z||000003||Pilrulz||11-23-2001||10:47 AM||||okay, i just ran outside and my head has 85 cast into the top of it, and my car is an 85, would this be right?||||reg||1
+Z||000004||Pilrulz||11-23-2001||11:44 AM||||bump<BR>||||reg||1
+Z||000005||terryk||11-23-2001||12:43 PM||||Look on top of the boss where the starter is mounted. There is 8 characters stamped there (last 8 of the VIN). There year is in that.<BR>||||reg||1
+Z||000006||Pilrulz||11-23-2001||01:41 PM||||thanks||||reg||1
+Z||000007||Pilrulz||11-24-2001||12:26 PM||||bump||||reg||1

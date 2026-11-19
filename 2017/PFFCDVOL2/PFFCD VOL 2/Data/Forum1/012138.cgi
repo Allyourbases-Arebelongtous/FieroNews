@@ -1,0 +1,2 @@
+A||||0||fieroX||bought a rear cradle today||||1||
+Z||000000||fieroX||11-24-2001||10:28 PM||||I found an ad in todays paper, and a guy is parting out a 86 2m6.  I picked up the rear cradle, complete with suspension and exhaust + megaphone tips for $100.  Rare87GT is buying the rest of the car, and he is taking a bunch of stuff he wants, and the rest of it we will sell on here or ebay.  Just to let everyone know.<P>------------------<BR>  <IMG SRC="http://www.fierox.com/logo2small.gif"> ||||reg||1

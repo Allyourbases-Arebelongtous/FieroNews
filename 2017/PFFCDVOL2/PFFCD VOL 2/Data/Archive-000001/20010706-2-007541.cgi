@@ -1,0 +1,2 @@
+A||||0||theogre||Link: Alignment Explained||||1||
+Z||000000||theogre||12-28-2000||04:59 PM||||This is a direct link to a Very good article from Motor Age that explains alignment. I recomend this one for ALL forum readers.<BR> <A HREF="http://www.motorage.com/edindex/0800pg022.htm" TARGET=_blank>http://www.motorage.com/edindex/0800pg022.htm</A> <P>Motor Age is one of 2 trade publications I read regularly.<P>The other is <A HREF="http://www.motor.com" TARGET=_blank>www.motor.com</A>  and their Motor Magazine.<P>||||reg||1

@@ -1,0 +1,4 @@
+A||N||2||85Josh||Help! getting tranny back in?||||9||
+Z||000000||85Josh||08-12-2001||07:08 PM||||Does anyone have any tips for getting the transmission back into the car? I'm putting a new clutch in my 85 4-cyl 5-speed, and I keep knocking the release bearing off the fork. I also can't seem to get the input shaft into the clutch, so the tranny won't go all the way up to the engine. Any help is appreciated! TIA<P>------------------<BR>85 2M4(Lil' Bit)||||reg||9
+Z||000001||Phil||08-12-2001||07:13 PM||||You did use the alignment tool to set the disk right? One trick is to get some long bolts of the proper thread size and cut the heads off, then screw them into either the motor or tranny and use them as alignment pins||||reg||1
+Z||000002||85Josh||08-12-2001||07:21 PM||||I did use the alignment tool. The cut off bolt sound like a great idea, I'll pick up a couple on my way home tpomorrow. Thanks.||||reg||1

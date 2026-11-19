@@ -1,0 +1,4 @@
+A||||2||Fierochic88||Thanks Orief!||||1||
+Z||000000||Fierochic88||06-17-2001||07:16 PM||||Hey Everyone -<BR>    Just wanted to let you know I got my emblems from Orief and they look great!  Plus it was all topped off with wonderful service!<BR>I highly recommend his products and my dad loved his father's day present!<P>Jennifer<BR>Silver 88 GT<BR>Silver 86 Cp<BR>Cobalt Blue 85 GT||||reg||1
+Z||000001||Toddster||06-17-2001||08:55 PM||||Hey Fierochic, Got any images so we can see what they look like?||||reg||1
+Z||000002||Oreif||06-17-2001||09:35 PM||||Jennifer, Your Welcome!<BR>Toddster, Go to this link for samples of the many colors I can do. I can also do custom colors too!<BR> <A HREF="http://www.fiero.nl/forum/Forum1/HTML/007901.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/007901.html</A> <BR><P>------------------<BR>      <IMG SRC="http://www.fiero.nl/uploads/LOGO3.jpg">    <BR><B><I>Got Emblems?</I></B>||||reg||6

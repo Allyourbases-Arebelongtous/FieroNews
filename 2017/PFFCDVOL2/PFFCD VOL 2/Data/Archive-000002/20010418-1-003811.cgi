@@ -1,0 +1,3 @@
+A||||1||Homicidal||Where can I fit steering wheels covers that fit the Fiero?||||1||
+Z||000000||Homicidal||09-29-2000||06:12 AM||||Not just the expanding ones, but a nice steering wheel cover.  Everyone I find is too damn big!||||reg||1
+Z||000001||My7Fieros||09-29-2000||07:26 AM||||I agree. I found some at Wal Mart and Autozone that look and fit great on my Se style wheels. But for the Gt wheel, well when you turn the damn wheel only the cover turns! ARRRGGG! Hey, this would be a GREAT idea...anyone wanna make one? Rodney? Doug? Dave?  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

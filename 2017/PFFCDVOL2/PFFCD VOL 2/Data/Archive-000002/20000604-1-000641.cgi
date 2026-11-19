@@ -1,0 +1,5 @@
+A||||3||mutfish||HOT ROD FIERO||||1||
+Z||000000||mutfish||12-01-1999||12:23 PM||||Anyone into hot rod fieros should check out the February issue of HIGH PERFORMANCE PONTIAC. 455 in a '84, mounted south to north.||||reg||1
+Z||000001||fierosound||12-01-1999||05:18 PM||||This website has the owner doing just that:<BR> <A HREF="http://www.geocities.com/MotorCity/Street/6996/fiero455.html" TARGET=_blank>www.geocities.com/MotorCity/Street/6996/fiero455.html</A> <P>||||reg||1
+Z||000002||fiero56||12-01-1999||05:32 PM||||At the FOCOA nations in Columbus this year there was a guy who did a conversion like that.  He had a yellow '87-'88 coupe that he stretched 18" and mounted a V-8 longitudinally. It looked great, I have pictures but haven't scanned them. For those who made it this year it was the "El Fiero".||||reg||1
+Z||000003||olympic||12-01-1999||09:55 PM||||I think this car would be a perfect example of the phrase "tail wagging the dog". But then again, yanking the front tires off the ground at every stop light could be cool!!!||||reg||10

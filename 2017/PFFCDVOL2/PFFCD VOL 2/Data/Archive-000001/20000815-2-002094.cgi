@@ -1,0 +1,5 @@
+A||||3||Gokart||color of panel on door?||||1||
+Z||000000||Gokart||01-22-2000||08:47 PM||||When I bought my GT it had a fresh paint job but unfortunatly the rocker panels were painted the same color as the rest of the car. I want to repaint them black like Cliff's Fiero. My question is are the rocker panels on the doors suppose to match the rocker panels along the bottom? Were they gray at one time or always red? If you see this Cliff, what color are yours?||||reg||1
+Z||000001||cobra427||01-22-2000||08:58 PM||||gokart,the answer is yes.It does include that piece on the door as well as the rear quarter panel and the small piece on the lower front fender.   <BR> go to <A HREF="http://www.fiero.net/focone/" TARGET=_blank>www.fiero.net/focone/</A>  and click on pic #7 and you will see two Maroon 87's with the factory colors to give you an idea.  <p>[This message has been edited by cobra427 (edited 01-22-2000).]||||reg||1
+Z||000002||Phil||01-22-2000||08:59 PM||||Color depends on year '88GTs are same color as car all others not.||||reg||1
+Z||000003||Gokart||01-23-2000||06:07 AM||||Thanks Cobra! Picture answered my questions! ||||reg||14

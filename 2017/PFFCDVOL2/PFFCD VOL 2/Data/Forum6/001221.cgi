@@ -1,0 +1,3 @@
+A||||1||FieroSTETZ||epson 636 scanner on sale at compusa, 49 bucks||||1||
+Z||000000||FieroSTETZ||01-08-2001||12:59 AM||||a few of you may know that i work at compUSA, and today i found that we are selling the epson 636 or 363 scanner for 49, usually like 149 i think... its a pretty good scanner, i bought one, thought some on the forum might like to lknow, so they can post pics too! if anyone has and desire to know prices of products in the store, let me know- i can get prices, and information on other stores inventories or anything else. ||||reg||1
+Z||000001||Shiner||01-08-2001||01:46 AM||||Thanks man, I have been looking for a cheap scanner!  ||||reg||1

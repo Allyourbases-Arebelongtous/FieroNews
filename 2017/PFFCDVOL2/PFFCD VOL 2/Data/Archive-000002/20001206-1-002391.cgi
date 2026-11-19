@@ -1,0 +1,3 @@
+A||||1||RobertVol||CAT replacement||||1||
+Z||000000||RobertVol||06-01-2000||01:05 AM||||Since I can not get into the Tech area..I need to know What Performance CAT is the best to replace the stock one/ I dont want something to make it louder or anything. Just better peroformance and cost....Suggestions?.....prices? <P>Thanks ||||reg||1
+Z||000001||DXR_DAD||06-01-2000||06:37 PM||||Robert I have a Dynomax, I can't give you <BR>much Pro or Con on it because I did a complete exhaust upgrade/replacement with ported manifolds. I think it listed at $79.00<BR>I got it for $50.00 thats the main reason<BR>I got it.||||reg||1

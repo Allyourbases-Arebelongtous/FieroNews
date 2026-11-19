@@ -1,0 +1,5 @@
+A||||3||RaeQwan||Yay:) hehe||||1||
+Z||000000||RaeQwan||01-02-2001||09:23 PM||||Finally got what I've been needing  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> a set of 87 GT rims.. pretty much free.. I am happy!<P>------------------<BR>     <IMG SRC="http://www.fiero.nl/uploads/raeqwanegg.gif"> ||||reg||1
+Z||000001||Master_Sushi||01-03-2001||12:14 AM||||Youll have to post some pics  <IMG SRC="http://www.fiero.nl/forum/wink.gif">. Im going to do the same thing on my 88coupe this summer.||||reg||1
+Z||000002||RaeQwan||01-03-2001||01:27 AM||||In a few weeks i'll post some of the car its on. The guy who has em wants me & my brother to help him swap a engine in a 84. So I'm cool with that.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> I love working on these lil plastic joys <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>     <IMG SRC="http://www.fiero.nl/uploads/raeqwanegg.gif"> ||||reg||1
+Z||000003||zeusrekning||01-03-2001||08:01 AM||||congratulations<P>||||reg||1

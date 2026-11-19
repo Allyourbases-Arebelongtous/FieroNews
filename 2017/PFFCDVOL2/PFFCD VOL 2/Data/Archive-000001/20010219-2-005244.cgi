@@ -1,0 +1,5 @@
+A||||3||Gold87SE||interior door panels||||1||
+Z||000000||Gold87SE||08-14-2000||02:02 AM||||I took off the interior door panels so I could get to the locks and lube them up. Now I'm trying to get the panels back on and can't get the damn things to bolt back up. Is there a method to this or something because no matter what I do, they won't bolt back on.||||reg||1
+Z||000001||JohnnyK||08-14-2000||02:13 AM||||Bolt back on? There are plastic "rivets" (I don't know what they are called) that go into the holes on the door that won't come out because of their 'harpoon' effect. When I took of the interior to my doors, I bought new plastic rivets because the old ones wouldn't grip.||||reg||1
+Z||000002||Gold87SE||08-14-2000||02:20 AM||||That's what I meant, the plastic rivets.||||reg||1
+Z||000003||Monkeyman||08-14-2000||03:39 AM||||The plastic "Christmas trees" should remain in the door panel.  Just line them up and press hard.  They'll go back in.  If the area in the door panel (where the "Christmas trees" mount) is broken out, you can use some fiberglass resin and fix them, then buy new fasteners.||||reg||1

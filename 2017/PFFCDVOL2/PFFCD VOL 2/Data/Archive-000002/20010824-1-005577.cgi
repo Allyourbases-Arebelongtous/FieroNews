@@ -1,0 +1,5 @@
+A||N||3||87ECO5||If you REALLY love your Fiero ...||||14||
+Z||000000||87ECO5||02-02-2001||09:13 AM||||... you can put it on your personal checks:<P> <A HREF="http://www.photo-checks.com/" TARGET=_blank>http://www.photo-checks.com/</A> <P>Prices are a little on the high side though ...||||reg||14
+Z||000001||Oreif||02-02-2001||11:03 AM||||Not too bad for prices. I've seen others who charge a lot more. But as for regular checks yes, they are high. I guess vanity has a higher price these days.  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000002||My7Fieros||02-02-2001||05:53 PM||||Cool..think I'll have to do that!<P>------------------<BR> <IMG SRC="http://tgowens.com/My7Fieros_sig.gif"> ||||reg||14
+Z||000003||TheFiero64||02-02-2001||08:01 PM||||Thanks for the link. I think I will do that on my next check reorder.<P>------------------<BR>Josh<BR>88 Coupe V6<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif">   <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||10

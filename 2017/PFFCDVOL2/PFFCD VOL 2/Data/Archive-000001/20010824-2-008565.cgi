@@ -1,0 +1,4 @@
+A||N||2||rnoswal||3.1 or 3.4 head cc's||||1||
+Z||000000||rnoswal||02-21-2001||09:15 PM||||Just wondering, since I am going to put either 3.1 or 3.4 heads on my 2.8 (86) block, anyone know how many cc's there are in the combustion chamber? The aluminum heads that is and while you are at it, how about the cc's for the iron head on the 2.8?<P>Thanks<BR>Russ||||reg||1
+Z||000001||ray b||02-22-2001||02:19 PM||||see this post [http://www.fieronl/forum2/html008285.html]<BR>for the best info.<BR>but al heads need alot of stuff swaped to work like alllmost all parts, whole motor swap easyer  to do than parts.<p>[This message has been edited by ray b (edited 02-22-2001).]||||reg||1
+Z||000002||88formula||02-22-2001||07:15 PM|||| <A HREF="http://www.fiero.nl/forum/Forum2/HTML/008285.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/008285.html</A> <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/88formula_logo_1.JPG"> ||||reg||1

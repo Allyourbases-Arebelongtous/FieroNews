@@ -1,0 +1,4 @@
+A||||2||GT GT 87||Wheel Align.||||1||
+Z||000000||GT GT 87||03-05-2001||07:15 PM||||  Where can I get the most up to date wheel align. specs for a ,87 GT. I just had it done after new struts. It rides and steers great ,but the rears still look too neg..  and when I checked with a level they are not the same. If you can post the numbers that would be grear.(a lot of typing)  Thanks     Steve||||reg||1
+Z||000001||DougV||03-05-2001||07:50 PM||||Rear camber should be -1 degree per side. Any shop that has alignment rack should have no problem setting our cars up. Other than the front caster adjustment, the rest is as easy to set up as any other car on the road. Any NJ guys can come to my shop and I'll set your up, just give me a e-mail. ||||reg||1
+Z||000002||rogergarrison||03-05-2001||07:52 PM||||You did get a four wheel alignment rite?||||reg||1

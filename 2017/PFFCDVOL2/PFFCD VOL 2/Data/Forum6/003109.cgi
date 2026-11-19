@@ -1,0 +1,3 @@
+A||||1||maryjane||chevy nova award||||1||
+Z||000000||maryjane||08-25-2001||09:13 PM|||| <A HREF="http://purpletights.com/humor/misc/chevynova.htm" TARGET=_blank>http://purpletights.com/humor/misc/chevynova.htm</A> ||||reg||1
+Z||000001||Formula88||08-26-2001||12:05 AM|||| <IMG SRC="http://www.mpz.co.uk/cwm/otn/laughing/yelrotflmao.gif">   <IMG SRC="http://www.mpz.co.uk/cwm/otn/laughing/yelrotflmao.gif">   <IMG SRC="http://www.mpz.co.uk/cwm/otn/laughing/yelrotflmao.gif">   <IMG SRC="http://www.mpz.co.uk/cwm/otn/laughing/yelrotflmao.gif">   <IMG SRC="http://www.mpz.co.uk/cwm/otn/laughing/yelrotflmao.gif">  ||||reg||10

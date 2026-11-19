@@ -1,0 +1,5 @@
+A||||3||Cooter||Rear brake line question???||||1||
+Z||000000||Cooter||09-29-2001||08:09 PM||||Is the rear line one piece from the proportioning valve all the way to the back, or is it in 2 or more pieces?||||reg||1
+Z||000001||Indiana_resto_guy||09-29-2001||09:54 PM||||One piece to the right rear. Junction block is located behind the tire.||||reg||1
+Z||000002||Cooter||09-29-2001||10:01 PM||||Thanks- that is what I needed to know, but not what I wanted to hear. I was hoping it was joined somewhere at the halfway point. Oh, well. . .||||reg||1
+Z||000003||Fierowrecker||09-30-2001||01:43 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Cooter:<BR><B>Thanks- that is what I needed to know, but not what I wanted to hear. I was hoping it was joined somewhere at the halfway point. Oh, well. . .</B><HR></BLOCKQUOTE><P>Hey Cooter!<BR>Just cause it is one piece now, doesn't mean you can't splice it...<BR>But if it is rusty, it is best to replace it all...<BR>crash...<BR>||||reg||1

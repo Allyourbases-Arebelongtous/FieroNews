@@ -1,0 +1,4 @@
+A||N||2||Formula88||NC Fieros April Meeting||||5||
+Z||000000||Formula88||04-08-2001||09:00 PM||||Anyone heard anything about an April meeting for NC Fieros?  ||||reg||5
+Z||000001||Galen||04-08-2001||09:21 PM||||nope, but I doubt I'll be able to make it anyways, besides, most ya'll wanna lench me heh, I'm an outkast<P>------------------<BR>Galen - 1988 Hawaiian Orchid Coupe - Sunroof, shaved emblems, more to come..<BR><A HREF="http://www.spinrpg.com/" TARGET=_blank>Spinrpg.com - Free URL & e-mail Forwarding</A>||||reg||1
+Z||000002||Bob Englert||04-08-2001||10:09 PM||||Hello all!<P>We will be having our April NC Fiero meeting in Greensboro on Saturday, April 21st.  I haven't finalized a location yet but I will try to see if we can meet at Chili's on High Point Road.  This is about 1 block off of I-40 and there is a large parking lot for us.<P>I will confirm the location soon.  <BR><P>------------------<BR>Bob<BR>2 - 87 GT's<BR>85 SE 4 cyl||||reg||1

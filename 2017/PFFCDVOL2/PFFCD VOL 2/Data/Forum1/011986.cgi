@@ -1,0 +1,4 @@
+A||||2||Fiero5||Can you do this with a Fiero??||||10||
+Z||000000||Fiero5||11-19-2001||07:48 PM||||I wonder if you can do something like this with a Fiero?<BR> <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=597779090&r=0&t=0" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=597779090&r=0&t=0</A> <P>I LOVE it!!<BR>Can somebody please win me that for Christmas?<P>Steve||||reg||10
+Z||000001||LoW_KeY||11-19-2001||08:04 PM||||1 word "whoa.."  <IMG SRC="http://www.fiero.nl/forum/smiley_wtf.gif"><P>||||reg||1
+Z||000002||DaRkLoRD||11-19-2001||08:47 PM||||LMFAO!!!!!!!!!!!!!!<P>I just saw that tonight on beaterz.com... hahahaha  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>    <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>    <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||10

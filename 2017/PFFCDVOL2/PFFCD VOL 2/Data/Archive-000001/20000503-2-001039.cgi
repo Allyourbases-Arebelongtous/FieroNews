@@ -1,0 +1,3 @@
+A||||1||RZURCTN||Brake lines||||5
+Z||000000||RZURCTN||10-06-1999||06:41 PM||||Does anyone know a good place to get new lines from the master cylinder to the rear brakes.  I already have the rubber lines, I need the metal tubing that snakes its way down the chassis.  I know I can get regular line and bend it myself, but that usually means that you have to connect several pieces.  Can I get an aftermarket that's just like the original?||||reg||5
+Z||000001||Dave85||10-06-1999||07:27 PM||||Along those lines... has anyone put the braided steel lines in and if so is it worth the 80-90 bucks???||||reg||1

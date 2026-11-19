@@ -1,0 +1,9 @@
+A||||7||Indyrestoguy_JR||Newer Member||||1||
+Z||000000||Indyrestoguy_JR||08-22-2001||05:00 AM||||Hello all. I am a newer member I regestered a few weeks ago and I didn't properly introduce myself. My dad has been a member for awhile... Indiana_resto_guy. Hince my name. I hope to be doing a 3800 II S/C conversion over the winter. Hope to be helpful and get some help, we all need a little time to time.<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/black86cut3.jpg"> <BR>Do or Do Not, there is no Try.<p>[This message has been edited by Indyrestoguy_JR (edited 08-22-2001).]||||reg||1
+Z||000001||Galen||08-22-2001||05:23 AM||||Sweet car  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||4-WHEEL||08-22-2001||07:02 AM||||Welcome to the forum.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/4-Wheel2_6.jpg"> ||||reg||1
+Z||000003||Jaygee79||08-22-2001||10:11 AM||||Welcome  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000004||BOILERMAKER||08-22-2001||11:04 AM||||Welcome.  Looks like we will be doing the same job over the winter.  Hope I can help you out if you need it.||||reg||1
+Z||000005||88CoupeV6||08-22-2001||11:37 AM||||welcome to the forum  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>Josh<BR>  <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg">   <BR><B>Also 88 Yellow GT</B> :D  <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||7
+Z||000006||72vinman||08-22-2001||12:39 PM||||Welcome to the forum. It looks as if three of us will be doing the 3800 swap this winter.<P>------------------<BR>72vinman@home.com<BR>Stock Black 86GT||||reg||6
+Z||000007||72vinman||08-22-2001||12:40 PM||||Welcome to the forum. It looks as if three of us will be doing the 3800 swap this winter.<P>------------------<BR>72vinman@home.com<BR>Stock Black 86GT||||reg||6

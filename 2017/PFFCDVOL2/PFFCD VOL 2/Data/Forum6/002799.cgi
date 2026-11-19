@@ -1,0 +1,5 @@
+A||||3||Urchin||Job prospects in the states....?||||1||
+Z||000000||Urchin||07-29-2001||09:17 PM||||I was reading 8Ball2's post about jobs and it got me thinking.  I'm in the middle of a millwright apprenticeship, and have been considering moving to the states for the last year or two.  Probably central California, but not sure.  Anyhow, the question is, is there much work for millwrights down there?  And if so, is the pay any good?  I won't be done my apprenticeship for awhile, but was wondering how hard it would be to find a job down there when I do. <BR>Thanks...||||reg||1
+Z||000001||Sootah||07-30-2001||10:16 PM||||What the hell is a millwright?||||reg||1
+Z||000002||Old Lar||07-30-2001||10:26 PM||||Any good job in mid California has good pay.  The cost of living is high, so the good money you make goes out faster than it comes in.  Just like every where else.||||reg||1
+Z||000003||Urchin||07-30-2001||10:36 PM||||A "millwright" is a trade.  Kind of a cross between toll and die, and maintenance.  I do both where I work.  Just wondering if there was much in that area down there||||reg||1

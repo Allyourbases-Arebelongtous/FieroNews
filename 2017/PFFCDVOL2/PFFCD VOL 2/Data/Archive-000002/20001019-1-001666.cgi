@@ -1,0 +1,26 @@
+A||||24||Superfiero||Real Time Chat||||14||
+Z||000000||Superfiero||03-27-2000||10:51 PM||||Need to get that real time chat registered <BR>||||reg||14
+Z||000001||fiero56||03-27-2000||11:43 PM||||I like it!!!||||reg||1
+Z||000002||SCCA FIERO||03-28-2000||12:05 AM||||Yeah me too! This is fun. Good call Cliff!<BR>||||reg||1
+Z||000003||Standard||03-28-2000||04:38 AM||||wow, didn't even notice it until I saw this topic.  thanks for pointing it out!!||||reg||1
+Z||000004||Monkeyman||03-28-2000||09:27 AM||||Either somebody else has already claimed "Monkeyman", or I keep doing something wrong.  I couldn't possibly register under any other name.||||reg||1
+Z||000005||bHooper||03-28-2000||10:34 AM||||very dangerous!<P>but i like it <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>||||reg||1
+Z||000006||Greg Piet||03-28-2000||12:14 PM||||huh?   real time chat?   where??   here on pennocks?||||reg||1
+Z||000007||Oreif||03-28-2000||12:25 PM||||Look at the bottom of any page right above where it says "Fiero related autions on Ebay"<BR>which is above the PIP logo!<P>It works Great! I like it!!||||reg||1
+Z||000008||fierospeeder||03-28-2000||01:53 PM||||Should we set a general time that everyone can chat?||||reg||1
+Z||000009||doughboySE||03-28-2000||01:57 PM||||are we talking firetalk here? i set up a room there but noone was interested i guess they all drive a dodge||||reg||1
+Z||000010||BOILERMAKER||03-28-2000||03:04 PM||||Can't get on it myself, that darn firewall must be in the way again.<P>I'll check sometime tonight.||||reg||1
+Z||000011||olympic||03-28-2000||04:33 PM||||If your handle doesn't work in the chat room, try adding a period, dash or underscore to the end of your name.  You can add several if you need to.||||reg||1
+Z||000012||TalShino||03-28-2000||04:53 PM||||I've chatted there rather often..  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>||||reg||1
+Z||000013||Formula||03-28-2000||09:17 PM||||My connection must be too slow, I cant stay on for more then 5 minutes||||reg||1
+Z||000014||Ozzy||03-29-2000||11:38 PM||||Works just great for me...TOO kool fer skool!! <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Ozzy||||reg||1
+Z||000015||stimpy||03-30-2000||07:53 AM||||Could we try a more WebTV friendly IRC or something? Us WebTVers can't get on this one. ||||reg||1
+Z||000016||TalShino||03-30-2000||01:13 PM||||IRC shouldn't be that hard to do.. any takers?||||reg||1
+Z||000017||LarryB||03-30-2000||04:53 PM||||setting up an IRC server and bandwidth is<BR>no problem, I'm willing to do that, but is<BR>there really a need? We now have chat available through this site, fierodave has a chat room linked via his site, and I've seen<BR>at least 1 other place reference but I don't<BR>remember if off the top of my head.<P>Thoughts? ||||reg||6
+Z||000018||Ozzy||03-30-2000||11:13 PM||||Hi gang...here's my 2 rubels worth:<P>I'm not too sure that Cliff does any of this for profitable gains. At least, I do NOT see bunches of pestelant banners and the like, and he did not charge any of us to join. <P>My point is this; How much do we ask for here? I've mentioned the chat thing a couple of times, amongst other requests, and now we have a chat room to yak in. It must be no fun to not be able to get in there but I would hope we do not appear as an ungreatfull bunch to the guy that spends his personal time and money to maintain this forum.<P>Pleeze don't take any offense here guys...this is NOT aimed at anyone specific. Just food for thought.<P>Ozzy||||reg||1
+Z||000019||stimpy||03-30-2000||11:31 PM||||No offense taken. It just kinda sucks being on the outside of all this fun just because I ain't got no Java! I just want to add my input before this set-up gets registered (which costs $ doesn't it?) that maybe a link to Talk City  a la the link to "fiero related auctions on ebay" could work for everyone including we webtv geeks. Wouldn't cost a dime, right?||||reg||1
+Z||000020||SCCA FIERO||03-31-2000||12:24 AM||||I think Cliff will do what's best for everyone and I hope he isn't/never spends money of his own for us. If he can get another chat that everyone can use that would be great. Even if it has a banner at the top (the current chat has a German banner at the top, I just ignore it). I jump in it every night and only see 5 or 6 people at the most... where is everyone???||||reg||1
+Z||000021||Robert||03-31-2000||01:15 AM||||I was there tonight, (Robert564).  I find it a little intimidating without my spellchecker.||||reg||12
+Z||000022||GT Bastard||03-31-2000||02:16 AM||||That iz funnie,, cawse I'v nmever had problims splilling.||||reg||1
+Z||000023||WKDFIRO||03-31-2000||04:04 AM||||You are one funny Bastard!!!<P>Went into the chatroom and LOVED IT! Can't wait to go back and chat with all yuz Fiero nutz!||||reg||14
+Z||000024||Cliff Pennock||03-31-2000||04:29 AM||||I haven't registered anything yet, and I'm pretty sure I will not register *this* chat program. It lacks a few options I have seen with other programs so I'll keep looking for another. So don't be suprised if the chat program suddenly changes - I just want to try out different ones before I purchase any of them.<P>I wasn't aware WebTV users couldn't handle java applets, so I'll see if I can find a non-java program. If anyone has any suggestions, please let me know.||||reg||1

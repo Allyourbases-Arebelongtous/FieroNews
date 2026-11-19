@@ -1,0 +1,2 @@
+A||||0||DJRice||Spoilers 4 less||||3||
+Z||000000||DJRice||12-03-1999||01:09 PM||||Although this company does not offer a factory style Fiero spoiler,  <A HREF="http://www.spoilers4less.com" TARGET=_blank>www.spoilers4less.com</A>  has a huge choice of later model spoilers for many makes and models for those who want to add a bit of a different look to their car.  <P>BTW, that Plymouth Sundance spoiler that was discussed some time ago is available from here.||||reg||3

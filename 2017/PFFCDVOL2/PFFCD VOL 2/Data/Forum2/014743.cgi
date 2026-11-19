@@ -1,0 +1,7 @@
+A||||5||samoht||factory sub enclosure||||1||
+Z||000000||samoht||10-24-2001||03:34 PM||||Well just got done replacing my heater core and greased my blower motor..  And I hear alot about the fiero factory sub.. I have an 85 GT.. I take it they didnt make um in 85, can I get one out of another fiero and bolt it up to mine..  Just a thought ..<P>85 GT 3.2||||reg||1
+Z||000001||Jefrysuko||10-24-2001||03:41 PM||||Yep you sure can.  The only thing you will need (other than the sub, amp and wiring) is a heater core cover from an 86 or newer car.  The newer ones allow a little more room and a new mounting place for the blue dinger module.  It is a good upgrade and I would recomend it.  I even have a spare unit sitting on my shelf just in case I need it for a future car :-)||||reg||1
+Z||000002||samoht||10-24-2001||08:50 PM||||is there an easy way to tell which 86 and newer cars have sub enclosures.. Like all GT's maybe?||||reg||1
+Z||000003||Hank is Here||10-24-2001||09:02 PM||||not from the exterior.  Sit in the car.  look at the center maplight and look there for a slider that says performance sound.  if it has that then it has the enclosure---if nobody took it yet.<P>Hank ||||reg||1
+Z||000004||samoht||10-24-2001||09:35 PM||||can you use that slide with an aftermarket Amp?||||reg||1
+Z||000005||Phil||10-24-2001||10:22 PM||||The slider thing is a 0 to 10K ohm audio taper resister||||reg||1

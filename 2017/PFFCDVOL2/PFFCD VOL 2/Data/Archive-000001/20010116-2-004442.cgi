@@ -1,0 +1,5 @@
+A||||3||ROB MAC||stat O-ring size||||5||
+Z||000000||ROB MAC||06-25-2000||12:51 AM||||I seem to go through a thermostat every year or so and I think it is the O-ring stretching and kinking from removing the thermostat. Does anyone know the exact size of the O-ring? It never seems to go back in properly and I figure I'm replacing more than I need to by changing the whole thing.||||reg||5
+Z||000001||Frank R||06-26-2000||10:53 AM||||The  o ring on the t-stat is very common.  Take the stat out and take it to a real parts store and get several replacements.  I use some systhetic grease on the housing tube inside.  I have not experienced any o  ring failure.  Change to a 180 degree t-stat at the same time.  With a manual radiator fan switch, the '86 v6 doesn't overheat. F Rowe ||||reg||6
+Z||000002||theogre||06-26-2000||01:42 PM||||I coat them with either a little dielectric grease(it's just silicone grease) or petrolium jell before inserting them. They usually drop right in then. If they don't I'd suspect damage or corosion in the stat housing.||||reg||1
+Z||000003||ROB MAC||06-27-2000||01:41 AM||||A manual fan switch? Tell me more. How is this done?||||reg||1

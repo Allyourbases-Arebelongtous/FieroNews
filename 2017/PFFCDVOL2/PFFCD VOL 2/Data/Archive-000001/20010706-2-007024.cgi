@@ -1,0 +1,4 @@
+A||||2||Ferraro300zx||Multiple codes, HELP me Please!||||11||
+Z||000000||Ferraro300zx||11-28-2000||07:46 PM||||Hey, I have an 85 2.8 v6. When I turn the ignition on I get diagnostic codes 33(MAP signal LOW), and 34 (MAP signal HIGH). What the hell? Before, I was getting a code for the PROM chip, so I replaced it. I have a feeling it might be the ECU or the MAP wiring. Is this a common problem? Any hints would be GREATLY appreciated.||||reg||11
+Z||000001||theogre||11-28-2000||07:57 PM||||check the vac line to the MAP. if it's blocked it could be real laggy which could cause this. ||||reg||1
+Z||000002||Ferraro300zx||11-28-2000||11:17 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by theogre:<BR><B>check the vac line to the MAP. if it's blocked it could be real laggy which could cause this. </B><HR></BLOCKQUOTE><P>I already checked the 2" line that goes to it. No leaks, No blockage.<P>||||reg||1

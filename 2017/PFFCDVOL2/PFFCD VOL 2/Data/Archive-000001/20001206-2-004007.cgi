@@ -1,0 +1,3 @@
+A||N||1||bHooper||another heat shield question||||10||
+Z||000000||bHooper||05-29-2000||09:52 PM||||Seeing the thread about the heat shield for the starter, made me think of something else...<P>should there be a shield for the altenator, on the v6 cars?  if so, what does it look like and where does it mount?<P>i was curiouse about this anyway, since i have already replaced the new advanced auto starter... after about 5 hours of running time!<P>thanks,<BR>hoop||||reg||10
+Z||000001||cobra427||05-29-2000||11:42 PM||||hoop, <BR>On the 85-87 v-6's, the heat shield was fastened to the alternator. On the 88's, it was attached to the exhaust manifold. Here are the part #'s: 85-87 v-6 10036230 ; 88-v6 10065518.<P>cobra||||reg||1

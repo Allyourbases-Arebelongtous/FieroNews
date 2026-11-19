@@ -1,0 +1,2 @@
+A||||0||fierodave||wanted listing in the Mall please read||||1||
+Z||000000||fierodave||08-15-2000||01:13 AM||||<BR>hey guys I have a wanted 88 GT in the mall please check it out if you have time....<BR>Thank you for your time...<BR>FD<P>------------------<BR>  <IMG SRC="http://members.theglobe.com/fierodave/gifs/fierosig.gif">  <BR><p>[This message has been edited by fierodave (edited 08-15-2000).]||||reg||1

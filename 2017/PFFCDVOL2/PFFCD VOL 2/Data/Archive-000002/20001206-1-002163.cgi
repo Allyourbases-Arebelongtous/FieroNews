@@ -1,0 +1,8 @@
+A||||6||turbo86se||Now that it's hot out!||||6||
+Z||000000||turbo86se||05-10-2000||04:25 PM||||<BR>Check this picture out, <A HREF="http://albums.photopoint.com/j/View?u=226077&a=5405885&p=20236557&Sequence=0" TARGET=_blank>http://albums.photopoint.com/j/View?u=226077&a=5405885&p=20236557&Sequence=0</A> <P>This was my first Fiero, in 1995 in front of my roommate's condo in MD.<BR>I had to put a big orange cone on top to prevent the snow plow from hitting it!||||reg||6
+Z||000002||Robert||05-10-2000||07:10 PM||||Cones?..... I don't see no stinkin cones.||||reg||10
+Z||000003||Spyder||05-10-2000||07:21 PM||||*Giggle*<BR> “snow cone”||||reg||1
+Z||000004||Monkeyman||05-10-2000||10:37 PM||||I feel your pain.<BR> <IMG SRC="http://www.fiero.nl/uploads/snowcar.JPG"> ||||reg||1
+Z||000005||Standard||05-12-2000||04:22 AM||||hehe.. me too<BR> <IMG SRC="http://www.fiero.nl/uploads/my84Fiero.jpg"> ||||reg||1
+Z||000006||Homicidal||05-13-2000||03:47 AM||||Not me!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P> <IMG SRC="http://www.members.home.net/lov/ebay/Mvc-001s.jpg"> ||||reg||1
+Z||000007||Haze_Performance||05-13-2000||04:00 AM||||I struck a deal with the man downstairs...as you see from the pic snow won't touch my car. (and it only cost my my soul.Your soul for a forever clean shiny Fiero..WHAT A DEAL)   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <P>P.S. The guy nextdoor struck a deal too. hehe <BR> <A HREF="http://geocities.com/MotorCity/Pit/5773/fieropassside.jpg" TARGET=_blank>http://geocities.com/MotorCity/Pit/5773/fieropassside.jpg</A> <p>[This message has been edited by Haze_Performance (edited 05-13-2000).]||||reg||6

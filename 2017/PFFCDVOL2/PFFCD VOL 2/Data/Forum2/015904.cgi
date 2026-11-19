@@ -1,0 +1,3 @@
+A||N||1||maninblack||tire size||||5||
+Z||000000||maninblack||11-29-2001||10:50 PM||||anyone can let me know the correct tire size on a 16" wheels?<BR>thz||||reg||5
+Z||000001||Haze_Performance||11-30-2001||12:00 AM||||What do you mean correct?<P>I'm running 225/50/16's all around with lowering springs..  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>   <IMG SRC="http://www.fiero.nl/uploads/MyCar0004.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/MyCar0014.jpg"> <P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/goodlife.gif">    <BR><FONT SIZE="1"><FONT COLOR="purple">Goto Website - <A HREF="http://www.ClassicFiero.com" TARGET=_blank>Click Here</A> </FONT></FONT>||||reg||14

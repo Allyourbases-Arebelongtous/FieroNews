@@ -1,0 +1,2 @@
+A||||0||yo_sweet||Anyone in ontario Paint cars?||||1||
+Z||000000||yo_sweet||12-19-2001||01:49 PM||||im looking to get my fiero painted , i will do all the sanding and body work , supply the priemer and paint how much would you charge?<P>------------------<BR>1986 Fiero SE 2.8lv6<BR>  <IMG SRC="http://www.fiero.nl/uploads/dance.gif">  <P><BR>www.geocities.com/acme_s2000/intro.html<BR>yo_sweet!||||reg||1

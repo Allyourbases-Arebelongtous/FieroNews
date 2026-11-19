@@ -1,0 +1,5 @@
+A||N||3||SeanyD||hey all you canadian fiero collectors||||1||
+Z||000000||SeanyD||08-17-2000||01:03 AM||||here's the deal...an 85 V-6 4spd, black.....and an 84 4 banger SE ....red...good condition except for the clutch....both as is for 1800 canadian!! <BR>email me for more info<P>sean@hurontel.on.ca||||reg||1
+Z||000001||DaRkLoRD||08-17-2000||01:26 AM||||cool!<P>I might have to come visit you sometime soon to take a look at those cars.. I'm in Kincardine!  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR> <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A> <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||10
+Z||000002||SeanyD||08-17-2000||01:50 AM||||what are the odds you want another pair of fieros?||||reg||1
+Z||000003||DaRkLoRD||08-17-2000||02:56 AM||||Sean, I sent you an email..<P>------------------<BR> <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A> <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||3

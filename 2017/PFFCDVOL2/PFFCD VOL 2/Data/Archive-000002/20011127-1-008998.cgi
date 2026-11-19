@@ -1,0 +1,4 @@
+A||N||2||TRL46202||Need Drip Rails....||||1||
+Z||000000||TRL46202||07-23-2001||05:38 PM||||Who sells them.....<P>Tom||||reg||1
+Z||000001||Shiner||07-23-2001||06:21 PM||||Go to the junk yard with a wooden paint mixing stick and a hammer.  Put the stick under the rail (carefull, they bend easy!) and GENTLY tap until it comes loose, and work your way to the other end.  They pop right off.  <P>------------------<BR>-Shiner-<BR>'84 Sport Coupe<BR>'87 GT<BR>'86 SE 2M6 (parts car)||||reg||1
+Z||000002||skitime||07-23-2001||06:37 PM||||BTW, the drip rails are removed from the t-top cars. I never missed them and it gives the car a cleaner look. <BR> <IMG SRC="http://www.fiero.nl/uploads/P7080040-1.JPG"> <P>------------------<BR><UL TYPE=SQUARE><BR><LI>Red 88 GT T-TOP<BR><LI>Red 86 GT<BR></UL> <IMG SRC="http://www.fiero.nl/uploads/signature-1.JPG"> ||||reg||1

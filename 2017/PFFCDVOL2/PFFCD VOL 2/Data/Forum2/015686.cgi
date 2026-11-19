@@ -1,0 +1,4 @@
+A||||2||Earl||pic's of space frame||||1||
+Z||000000||Earl||11-22-2001||03:00 PM|||| Dose anyone have good pics of the fiero space frame striped? I have been looking for quite a while and have found nothing.<BR> If anyone canpoint me in the write direction I would be thankfull...||||reg||1
+Z||000001||watts||11-22-2001||03:44 PM||||Like this?<P> <IMG SRC="http://www.fiero.nl/uploads/nakedframe.gif"> <BR><P>------------------<BR>87/88 V6 5spd Notchback Hybrid<BR> <IMG SRC="http://www.fiero.nl/uploads/watts_sig.jpg"> ||||reg||1
+Z||000002||DaRkLoRD||11-22-2001||05:12 PM||||look in the Photo Gallery of my website, I have a picture of a GT stripped down to the frame.<P>------------------<BR>    <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>    <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||3

@@ -1,0 +1,4 @@
+A||||2||tgowens||Hey batboy!!!||||1||
+Z||000000||tgowens||07-08-2000||10:03 PM||||how come I can't get the link to the batmobile to work???<P>------------------<BR>  <IMG SRC="http://www.tgowens.com/my_fiero_sig.gif">   <BR>'87 Fiero GT -  <A HREF="http://www.tgowens.com/fiero/" TARGET=_blank>www.tgowens.com/fiero</A>||||reg||1
+Z||000001||batboy||07-08-2000||11:16 PM||||Hmmm, works ok for me, maybe the server was down for a few. Here is the URL again.<P> <A HREF="http://sites.netscape.net/batboybain/batmobile" TARGET=_blank>http://sites.netscape.net/batboybain/batmobile</A> ||||reg||1
+Z||000002||tgowens||07-08-2000||11:38 PM||||it's workin' now - I had the link right tho - maybe the server <I>was</I> down.......<P>hey, darn nice lookin '36 truck too!!<P>------------------<BR>  <IMG SRC="http://www.tgowens.com/my_fiero_sig.gif">   <BR>'87 Fiero GT -  <A HREF="http://www.tgowens.com/fiero/" TARGET=_blank>www.tgowens.com/fiero</A>||||reg||1

@@ -1,0 +1,6 @@
+A||||4||black86gt||window tint
+Z||000000||black86gt||03-19-99||03:46 PM||||Anyone know the best way to get the glue off after you have taken the tint off?  Anyone know if bronze(28%) would look good on a black fiero?  Thanks.
+Z||000001||Cliff Pennock||03-19-99||04:26 PM||||I'm not sure what you mean with "window tint" but whenever I need some glue removed, I use a special glue solvent. In hard to reach places you can simply use a Q-tip dipped in the solvent.
+Z||000002||Gary Boss||03-19-99||09:55 PM||||I had to remove window tint once.  I can tell you that all I found after experimenting with all kinds of chemicals was old fashioned elbow grease with warm water and a STIFF bristal brush.  I recomend taping plastic to the inside of the door to protect it from the water. Good luck that stuff is stuborn.
+Z||000003||raceknb||03-21-99||02:43 PM||||I have found that oddly enough...Finger Nail pollish remover almost disolves the glue.  Give it a try  It cheap
+Z||000004||slow88gt||03-22-99||04:09 AM||||i had to remove tint from my other car...it was a pain in the as*..i used a bunch of razor blades and "3M adheasive remover"...avail. at any walmart...worked perfectly...nail polish also does the job but it stinks up the whole car for a while....a long while.....

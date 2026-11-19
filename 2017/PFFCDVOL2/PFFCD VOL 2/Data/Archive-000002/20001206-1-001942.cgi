@@ -1,0 +1,2 @@
+A||||0||lennyb4||Reg. Members||||6||
+Z||000000||lennyb4||04-24-2000||02:31 PM||||Wow.  <IMG SRC="http://www.fiero.nl/forum/eek.gif"> Everyday i notice the number of reg. members goes up and up. Its funny though how i mainly see the same people on responses or post. There must be alot of just readers in here. Well to all the newbies.. "WELCOME TO OUR LITTLE FIERO SPOT"..I hope you find the people here as friendly and helpful as i have.   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||6

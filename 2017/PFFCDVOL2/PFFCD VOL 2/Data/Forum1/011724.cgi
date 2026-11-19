@@ -1,0 +1,4 @@
+A||||2||fieroman_5000||Do the 4 banger internal parts fit in the SD block???||||5||
+Z||000000||fieroman_5000||11-09-2001||06:38 PM||||Cause i can get one real cheap  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> but don't have enough $ to get the SD head sooooo I wanted to know if the stock stuff fits seeing as its almost the exact same engine.<P>Thakx in advance<P>Fieroman <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||5
+Z||000001||BlackStang95||11-11-2001||02:26 AM||||I doubt it, and if it did you'd be defeating the purpose of the super duty block, no?||||reg||4
+Z||000002||Oreif||11-11-2001||02:51 AM||||I answered this post in the tech section.<BR>The answer is yes. See your other post.<BR>BlackStang95 ~ The weak parts of building the 2.5L is the block and rods. For rods you can use Chevy SBC rods. So putting stock 2.5L parts in an SD4 block will work. <P>But if you are going to find one and do all the work, why not build it up?||||reg||1

@@ -1,0 +1,3 @@
+A||||1||BroCar 87||Transmission questions||||1||
+Z||000000||BroCar 87||07-19-2000||10:43 PM||||Alright guys, I just got a 1984 SE, I have a 1987 coupe, both 4 cylinders. I was just wondering since the 84 has the 4 speed manual and the 87 has the 3 speed auto... would it be worth swapping out trannies and how hard on a scale from 1 - 10 would it be? I just bought this 84 SE today :soooo happy:<BR>for $140.00. No title. GONNA BE MY PARTS CAR I GUESS.<BR>Well thanks in advance!<BR>BroCar 87||||reg||1
+Z||000001||RobertVol||07-20-2000||12:33 AM||||Good deal! another car in the fold around here !||||reg||1

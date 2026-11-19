@@ -1,0 +1,2 @@
+A||||0||sqoach||Where is the tach filter?||||5||
+Z||000000||sqoach||07-02-2001||10:35 PM||||Nevermind. I found it. I guess I should use the search function a little more often  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P><BR>------------------<BR>sqoach@yahoo.com<BR>  <IMG SRC="http://www.fiero.nl/uploads/forumsig.JPG">       <BR>84 SE (FOR SALE)<BR>85 Coupe (parts car)(take it off my hands for $50)<BR>86 SC (FOR SALE sometime in this summer)<BR>86 SE V6 (new project)<p>[This message has been edited by sqoach (edited 07-02-2001).]||||reg||5

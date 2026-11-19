@@ -1,0 +1,4 @@
+A||||2||85fierogt||sound||||1||
+Z||000000||85fierogt||08-16-2001||12:58 AM||||ok any of u guys have a recording of what your fiero sounds like im seriusly interestead to hear some of your from stock to V8, dont know why just am <BR>-brad||||reg||1
+Z||000001||KRMFiero||08-16-2001||10:51 AM||||as soon as i figure out this Pass key thing and i get my Caddy running ill record it.... go to West Coast Fiero website, they have a recording of a 88 2.8 with there exaust on it, sounds pretty good. Or go to <A HREF="http://www.v8archie.com" TARGET=_blank>www.v8archie.com</A>  and go to the news section... look back about half a year ago or so maybe longer and look for a avi video clip, he revs his engine in his blue fiero he did and smokes the tires a bit, sounds nice||||reg||1
+Z||000002||85fierogt||08-16-2001||11:45 AM||||sweet, thanxs||||reg||1

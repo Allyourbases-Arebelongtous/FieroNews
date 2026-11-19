@@ -1,0 +1,4 @@
+A||N||2||87ECO5||Wife Joke||||6||
+Z||000000||87ECO5||11-02-2001||01:03 PM||||A guy was driving really badly - all over the road.  Suddenly, he notices the red and blue flashing lights in his mirror and pulls over.<P>The cop walks up to the car and says:  "You're weaving all over the road.  Have you been drinking?"<P>Driver:  "Uhhh ... yeah."<P>Cop:  "Are you drunk?"<P>Driver:  "Uhhh ... yeah, yes, sir, I am ... very!"<P>Cop:  "Do you realize we found your wife about a 1/2 mile back laying in the road?  She fell out of the car!"<P>Driver:  "Oh thank God ... I thought I went deaf!"||||reg||6
+Z||000001||Fformula88||11-02-2001||02:24 PM|||| <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> LMAO  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  Very funny!!||||reg||6
+Z||000002||2M4 Dale||11-03-2001||08:06 AM||||HAHAHA.....thats funny. ||||reg||6

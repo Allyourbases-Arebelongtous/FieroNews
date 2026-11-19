@@ -1,0 +1,4 @@
+A||||2||otis||Ticking Lifers Swap||||1||
+Z||000000||otis||01-19-2001||06:39 PM||||I have a rebuilt engine that was installed 5 months ago. One of the lifters has started to tick during startup. I think the camshaft was reground by the rebuilder. Can I replace the single lifter that is noisy or will this destroy the camshaft lobe at this point? I have tried to adjust this lifter but it seems to lose its oil prime during the night.||||reg||1
+Z||000001||88formula||01-19-2001||07:10 PM||||Yes you can replace that lifter with a new lifter but you cannot replace it with a USED one because a used lifter will destroy your camshaft.||||reg||1
+Z||000002||88formula||01-19-2001||07:11 PM||||Forgot my signature.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/88formula_logo_1.JPG"> ||||reg||1

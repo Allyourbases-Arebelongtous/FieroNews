@@ -1,0 +1,5 @@
+A||||3||peterh||radiator fan always on||||1
+Z||000000||peterh||10-14-1999||01:35 PM||||On my 86 SE V6 the radiator fan is always on, even when then temp gauge shows that it is well below 200. Is my air conditioning switch at fault or another relay?<BR>||||reg||1
+Z||000001||theogre||10-14-1999||03:39 PM||||I assume you mean that it's on all the time when the key is on.<P>This is not necisarily a bad thing. especially if you get allot of slow traffic like I do.<P>Likely one of the relays is shot. there's one in the AC control line, and one in line with the temp switch. could also be the temp switch.||||reg||1
+Z||000002||Groot||10-15-1999||06:05 AM||||Hi,<P>When the airco is not fully switched OFF,<BR>the fan will always run at low speed !<BR>When T is getting too high, the fan <BR>will switch to full speed !||||reg||1
+Z||000003||peterh||10-15-1999||08:47 AM||||The airconditioning is not on when this happens. I did have the airconditioning retrofitted by my local mechanic recently. I will have to check it out this weekend when I have time. <BR>Thanks guys.<BR>||||reg||1

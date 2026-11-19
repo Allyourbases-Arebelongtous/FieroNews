@@ -1,0 +1,2 @@
+A||N||0||anthony_86gt||Any good mechanics in my area.  ||||5||
+Z||000000||anthony_86gt||08-17-2001||11:03 PM||||I was wondering if there was any good mechanics in my area.  I live in Monroe, MI which is 1/2 an hour south of Detroit and 1/2 north of Toledo.  I have a stud that broke off in my exhaust mainfold, and I have a leak.  About how much would it cost and where could I take it?  Thanks.||||reg||5

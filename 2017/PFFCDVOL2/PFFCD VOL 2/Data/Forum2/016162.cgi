@@ -1,0 +1,3 @@
+A||N||1||fastback87||Different engines that fit the Fiero tranny's||||5||
+Z||000000||fastback87||12-07-2001||11:10 PM||||does anyone know how many different engines will fit the fiero tranny, without an adapter.  Someone told me that the northstar is a direct bolt on??||||reg||5
+Z||000001||ray b||12-08-2001||01:59 AM||||I am sure there are more but here is a short list<P>2.0 sunbird w/wo turbo<BR>any 2.5 duke 4<BR>2.8 3.1 3.4 any model 60v6<BR>3.3 and 3.8 w/wo supercharger<BR>4.1 4,4 4.9 caddy<BR>4.0 4.6 N* V8<BR>3.5 olds dhoc<P>will not bolt to trans BUT used WITH OWN TRANS<BR>QUAD 4<P>ADDAPTER NEEDED<BR>chevy V8<BR>big v6 4.3 90 degree<BR><P>------------------<BR>Question wonder and be wierd||||reg||1

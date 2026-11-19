@@ -1,0 +1,3 @@
+A||N||1||trigger||installed sunroof, now a-pillars stick up||||9||
+Z||000000||trigger||07-24-2001||10:35 PM||||I installed an 85 sunroof on my 88 and the a-pillars stick up a little bit.  Anybody else have this problem?  Thanks for any help.<P>------------------<BR>Honestly officer, I was just keeping up with the flow of traffic.  I know there aren't any cars in the area, that's how far behind I am.<BR> <IMG SRC="http://www.fiero.nl/uploads/Trigger.gif"> ||||reg||9
+Z||000001||rogergarrison||07-25-2001||03:42 PM||||that usually happens when you havent cleaned all the goo off. its doubled up some from the old roof, and some on the new one. it may go down some after its out in the hot sun a couple days. otherwise, think you have to pull it up and clean it out.||||reg||1

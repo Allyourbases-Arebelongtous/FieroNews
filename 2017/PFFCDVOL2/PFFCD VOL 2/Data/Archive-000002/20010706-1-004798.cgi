@@ -1,0 +1,12 @@
+A||||10||bilbo||WHICH NOSE IS BETTER????||||1||
+Z||000000||bilbo||12-14-2000||03:58 PM||||WHICH NOSE PIECE DO YOU FIND BETTER LOOKING??? GT OR THE COUPE!! SOMEONE TOLD ME THE GT NOSE PIECE COOLS THE RADIATOR BETTER ANYONE KNOW IF THIS IS TRUE??!!!THIS SITE ROCKS FOR INFO!!! ||||reg||1
+Z||000001||Stoic||12-14-2000||04:21 PM||||Personally, I prefer the 87-88 coupe, I like the GTs as well but The formulas are my ultimate favorite.  As far as cooling goes I have had an 85 coupe and an 85 with GT front end, both with 4cyl.  No difference at all as far as running temperatures. ||||reg||1
+Z||000002||Cooter||12-15-2000||12:08 AM||||I can't believe that you need help picking your nose  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000003||Cheever2||12-15-2000||12:12 AM||||I thought you were gonna post pic's of Cher and Streisand.  Not that I have a fetish or anything.<BR>||||reg||1
+Z||000004||Philphine||12-15-2000||10:13 AM||||i like the gt nose best. for my '87 project i'm putting one on to replace the coupe nose,hopefully with a chin spoiler.  but since i have the '84 that i'm playing with too, and i'm considering lowering it pretty far, i may switch the formula sytle '87 nose to it.  i like it better than the original style nose.<P>------------------<BR>Phil T<P>'87 coupe (feral)<BR>'84 indy<BR>'84 coupe (cheap thrill)||||reg||1
+Z||000005||Pontiaddict||12-15-2000||11:50 PM||||I don't like the GT nose.<BR>The 84 kinda grows on you.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> <BR>||||reg||1
+Z||000006||2M4 Dale||12-16-2000||12:34 AM||||I like the 87-88 coupe/Formula nose myself !!!||||reg||7
+Z||000007||My7Fieros||12-16-2000||12:55 AM||||yup, I like the 87/88 Coupe/Formula nose the best myself...<BR> <IMG SRC="http://www.fiero.nl/uploads/Mvc-010f_2.jpg"> ||||reg||14
+Z||000008||MikeE||12-16-2000||04:16 AM||||I agree, I like the 87/88 Coupe nose best too.<P>------------------<BR>||||reg||1
+Z||000009||Xtreme Fiero's||12-16-2000||10:44 PM||||I like the Vett oops sory I mean Formula nose  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> But there is nothing like a 85 GT/INDY with a Big Chin siting 1/4 inch off the ground  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> (drooling........) ||||reg||1
+Z||000010||ur2biteme||12-17-2000||05:32 AM||||yet another lover of the 87-88 coupe style.  other than my coupe eating trannies, i've loved it.<P>------------------<BR>UR2BITEME<BR>'87 econo coupe<BR>170k and a bad fender :(||||reg||1

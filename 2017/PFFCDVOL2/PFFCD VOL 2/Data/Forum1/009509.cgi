@@ -1,0 +1,3 @@
+A||||1||Rob Durham||Who are the proud owners of  these............||||5||
+Z||000000||Rob Durham||08-14-2001||08:17 PM||||Saw this in High Performance Pontiac today<P> <IMG SRC="http://www.highperformancepontiac.com/images/1001/HPP1001a04_english09.jpg"> <P>The Fiero final pitted Richard Gage's orange '86 against Jon Titus' '85. Both had good reaction times, but Gage ran within three hundredths of his 16.8 dial to take the class. Titus went 18.6 on an 18.08 for runner-up honors.<P>------------------<BR> <A HREF="http://rs-designs.com/87GT.html" TARGET=_blank>  <IMG SRC="http://rs-designs.com/Banner.jpg">  </A>||||reg||5
+Z||000001||baldlobo||08-14-2001||10:51 PM||||I already posted about this; except with no pics.||||reg||1

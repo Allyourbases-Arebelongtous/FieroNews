@@ -1,0 +1,4 @@
+A||||2||Thecrewchief1||GT lights||||5||
+Z||000000||Thecrewchief1||03-27-2001||01:24 AM||||I put bright bulbs (912) in the PONTIAC lights on the rear. The old bulbs were burned out, but now there on whenever the key is on, is this normal? Thanks Bill||||reg||5
+Z||000001||GarethWright||03-27-2001||02:25 AM||||Woohoo, something I know the answer to!<BR>And the answer is, I think so. My Pontiac lights are on with the key on and the lights off, and they are on with the key on and the lights on.  So unless we both have abnormal cars, I think you are safe.<BR>Happy Motoring (now that the guy behind you knows its a Pontiac  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> )<BR>Gareth||||reg||1
+Z||000002||tgowens||03-27-2001||02:26 AM||||yep - the "Pontiac" is only on when the ignition is on.............||||reg||1

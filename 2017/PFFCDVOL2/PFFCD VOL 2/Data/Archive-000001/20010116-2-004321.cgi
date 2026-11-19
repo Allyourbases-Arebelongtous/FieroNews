@@ -1,0 +1,5 @@
+A||||3||Terrybogin||Best price/place to get 88 brake rotors???||||1||
+Z||000000||Terrybogin||06-17-2000||01:42 AM||||Where can I get brake rotors for my 88 at a reasonible price? The local Advance Auto wants $99.00 each for them. I have to say that so far the Fiero Store has one of the better prices, but still a lot!<P>Thanks||||reg||1
+Z||000001||My7Fieros||06-17-2000||03:03 AM||||Terry, I just bought 2 rotors for my 88 Formula. Yes, Advanced auto parts wanted 99$ for them! ouch! And they didnt even have them in stock either. Autozone was alittle better @ around 60$ each...I just finally bought mine through the fiero store. 49.99 each...$114 and some change was the total amount, and I am VERY happy with them! Thats prob. your best route.||||reg||14
+Z||000002||TOM||06-17-2000||01:02 PM||||I have one that I would give you for the shipping. I find good uncut ones in the boneyard but cant give them away.I know I have tried.||||reg||1
+Z||000003||Cooter||06-17-2000||10:32 PM||||Tom, if you still need that AC line, I will send it for the brake rotor for Terry's car (my dad). If not, I will gladly pay shipping on it to get it here.<P>Thanks,<BR>Greg||||reg||1

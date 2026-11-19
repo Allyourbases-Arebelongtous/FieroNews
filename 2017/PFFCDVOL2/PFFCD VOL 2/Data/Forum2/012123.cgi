@@ -1,0 +1,2 @@
+A||||0||PBJ||What have u's used for a 3800 4spd-flywheel???||||5||
+Z||000000||PBJ||07-17-2001||09:56 PM||||YES I have spent 2 hours searching, and have come with lots of info but nothing to exact other than a 96 f body and turn it down thinner, but was not specific about 3800IIsc and was concerning a getrag.<P>I would like info for 3800 series II supercharged and a 4spd for 86 GT fiero<P>Thanks<p>[This message has been edited by PBJ (edited 07-17-2001).]||||reg||5

@@ -1,0 +1,5 @@
+A||||3||86SE||Fuel pump shut off switch??||||5||
+Z||000000||86SE||01-29-2000||12:27 PM||||I know someone who drove their 4 cylinder Fiero into a ditch, hard, might even have flipped it!?!?  Anyway, now it will turn over but not start.  I've heard on some newer cars when you get into an accident the fule pump shuts off and you have to push a reset button, does the Fiero have a reset button for the fule pump??  Could this be what happened??||||reg||5
+Z||000001||Rodrv6||01-29-2000||12:45 PM||||I don't know what year Fiero you are talking about, but my 84 does not have any kind of shutoff switch.  Maybe something got knocked loose in the crash. ||||reg||1
+Z||000002||86SE||01-29-2000||01:38 PM||||its an 84 2m4||||reg||1
+Z||000003||Cooter||01-29-2000||05:53 PM||||Drop the tank and replace the rubber hose that runs from the pump to the metal line inside the tank. While you are in there, go ahead and put a new pump in it. Do not use a parts store brand fuel pump unless you want to do it all over again in about 6 months.||||reg||1

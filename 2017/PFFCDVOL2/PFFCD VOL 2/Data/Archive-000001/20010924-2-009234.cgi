@@ -1,0 +1,3 @@
+A||||1||Eric_PA||Help... Looking for Lower control arm bolts||||1||
+Z||000000||Eric_PA||03-27-2001||01:53 PM||||I was on my way to putting in poly bushings when I found out that my Lower control arm is cracked and the bolts are not reusable. I am having one heck of a time locating replacement bolts. Where can I find them? I also broke all four bolts that hold the sway bar on. I guess I will have to drill them all out. Nothing has gone as planed.<P>Thanks,<BR>Eric ||||reg||1
+Z||000001||rockcrawl||03-27-2001||07:18 PM||||Hi Eric,<BR> If you want used ones, come on up. I have two spare front suspension assemblies for parts. Call me if you want directions to get here. 610-966-3172||||reg||14

@@ -1,0 +1,6 @@
+A||||4||N_Man||prob's with a cold V6||||1||
+Z||000000||N_Man||08-30-2000||03:53 AM||||OK i overheated my engine a few days ago.  Lost some coolant and shut the engine off when i smelt hot metal.<P>When i first star it the car idles fine but will try to stall as soon as the clutch is being let out.  Once i drive for a while (about 3 blocks) things go back to normal.  If i overheated and warped something why would it be fine once warmed up a little?<BR>Could i have damaged something else that would only effect a cold engine?||||reg||1
+Z||000001||rprevo||08-30-2000||07:35 AM|||| I would access the ECM memory and see<BR>if a code comes up. Maybe when you over<BR>heated you cooked your temp sensor.<BR>I had a 84 cutlass ciera with an Iron<BR>duke and it adjusted gas to air mixture<BR>by temp of the coolant for cold starts<P> Ray<P><BR>||||reg||6
+Z||000002||N_Man||08-30-2000||02:27 PM||||just checked my codes and there arent any<P>is there anyway to test the emp sensor of just replace?<P>||||reg||1
+Z||000003||fierocrazy||08-30-2000||05:13 PM||||duke or 2.8  ............ what does your exhaust look like or smell ik eat start up , suspect a crack in exhaust seat to EGR.. how is the idle at start up?||||reg||1
+Z||000004||N_Man||08-30-2000||08:09 PM||||Its a 2.8<P>It idles fine at startup.<P>Exaust smells gassy only at startup but its always done that||||reg||1

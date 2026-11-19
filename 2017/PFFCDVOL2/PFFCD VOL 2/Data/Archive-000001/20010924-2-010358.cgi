@@ -1,0 +1,3 @@
+A||N||1||xtinct||Piranha kit interior||||5||
+Z||000000||xtinct||05-12-2001||10:11 AM||||Anyone have info on where I can get the interior kit from the Piranha Russian kit?  Maybe a phone # or a name or an e-mail.  If not, anyone know of a custom interior shop that would replicate the interior?  Any help would be much appreciated.<BR>   Thanks, Scott(xtinct)||||reg||5
+Z||000001||Loki||05-12-2001||11:02 AM||||Cant get it..THere was a total of 2 interiors made..the gray one and red one...Nothing else ever made...Sowwy<BR><P>------------------<BR>Loki<BR>ICQ# 16477998<BR>www.cox-internet.com/fiero  !!!UPDATED!!!||||reg||1

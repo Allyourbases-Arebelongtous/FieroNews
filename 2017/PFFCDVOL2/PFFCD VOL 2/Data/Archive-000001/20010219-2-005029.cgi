@@ -1,0 +1,3 @@
+A||N||1||Slapnutz2000||Gauge lights/Horn/Turn Signals don't work||||8||
+Z||000000||Slapnutz2000||08-02-2000||02:41 AM||||I may have blown the fuse for the Gauge Lights, Horn, and Turn Signals. Can ya'll tell me which fuses they are and what some possible fixes are? <P>I blew the speedometer fuse and when I replaced that everything worked fine!<P>Help! I can't drive at night without those lights working!||||reg||8
+Z||000001||AL||08-02-2000||08:16 PM||||horn is a 20 fuse it should say bat , better yet pull one fuse out at a time look at it if it's burned or torn  change it and do that to all the fuses,look in the middle and if the connector is torn replace it, good luck,AL.||||reg||14

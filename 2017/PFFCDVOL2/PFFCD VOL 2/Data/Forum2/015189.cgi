@@ -1,0 +1,3 @@
+A||||1||Pheagey||'87 Grnad am as parts car||||5||
+Z||000000||Pheagey||11-07-2001||02:27 PM||||I may be able to get a '87 Grand Am for $300US. It over heats and has a busted head gasket. What can I use of this car on my '88 coupe? <BR>Will:<BR>tires, steering column, radio, speakers, trunk locks, etc etc work?<BR>Or would it be worth getting the head gasket replaced?<P>------------------<BR>'88 coupe, 5 speed: Status: destiny unknown.<BR>Broken down: 3 times<BR>Broken into: 2  times (w/i 2 days).<BR>Killed: '97 Civic LX Auto,<BR>Killed by: '93 Civic EX 5 speed,<BR>Http://www.LithiumEffects.com/car.html (B4 vandalism)||||reg||5
+Z||000001||Pheagey||11-07-2001||02:40 PM||||sorry about the topic misspelling. Im still kinda up set about my car..||||reg||1

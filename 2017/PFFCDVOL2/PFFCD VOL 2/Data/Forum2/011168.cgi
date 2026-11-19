@@ -1,0 +1,15 @@
+A||||13||Cozmo||Raced an MR2, look what I won...||||10||
+Z||000000||Cozmo||06-10-2001||09:02 PM||||  <IMG SRC="http://www.fiero.nl/uploads/MVC-066F.jpg">  <BR>Not really...     <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>Got bored poking around at the scrapyard today and got this wing and 2 side scoops from a 1gen. MR2.<BR>Whaddya think?<P>[This message has been edited by Cozmo (edited 06-10-2001).]<P>[This message has been edited by Cozmo (edited 06-10-2001).]<P>[This message has been edited by Cozmo (edited 06-10-2001).]<p>[This message has been edited by Cozmo (edited 06-10-2001).]||||reg||10
+Z||000001||Cozmo||06-10-2001||09:12 PM||||Sorry, the pic ain't postin"||||reg||1
+Z||000002||KRMFiero||06-10-2001||09:14 PM||||hmm i wish i could see the pic....  <IMG SRC="http://www.fiero.nl/forum/tongue.gif">||||reg||1
+Z||000003||Cozmo||06-10-2001||09:15 PM|||| <IMG SRC="http://fiero.nl/uploads/MVC-066F.jpg"> ||||reg||1
+Z||000004||Tweek||06-10-2001||09:26 PM|||| <IMG SRC="http://www.fiero.nl/uploads/MVC-066F.JPG"> <P>the "jpg" needed to be in CAPs for some reason.  I kida like it btw.||||reg||1
+Z||000005||pontiacs4me||06-10-2001||09:32 PM||||if you wanted a mr2 you should of bought one.  Not a flame, but man that is a fiero you have there, not a mr2, dont try to make it one.||||reg||1
+Z||000006||Mach10||06-10-2001||09:37 PM||||I happen to think it's funny  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000007||spideyfoot||06-10-2001||09:38 PM||||The wing looks good now if you could get one of those sune shade things to put Fiero on your rear window that would be pretty cool.||||reg||1
+Z||000008||Cozmo||06-10-2001||09:50 PM||||Thanks, Tweek! <BR>The scoops may end up modified and used as front radiator vents.<BR>The wing actually fits pretty close!<BR>It was all cheep tho...||||reg||14
+Z||000009||danny boy||06-11-2001||12:26 AM|||| That sidescoop won't work. They are too flat. I know this because I tried. Also, there is not enough room for it. There is a clearance problem with the spaceframe itself. I guess you could cut the scoop. Like the wing.<P>------------------<BR>don't push the A/c button.. it catches the car on fire        <IMG SRC="http://www.fiero.nl/uploads/PFF_sig_2.jpg"> ||||reg||1
+Z||000010||maryjane||06-11-2001||12:59 AM||||Well, there's no mistakin what the wing came off off but I'm kinda intrested in the car in the background. What is that behemouth? Old plymouth?<BR>Don||||reg||5
+Z||000011||Steve Normington||06-11-2001||01:21 PM||||IMHO, keep the wing, ditch the scoops.||||reg||1
+Z||000012||drednot||06-11-2001||01:30 PM||||If you wanted Rice, you could have got an slow ass MR2.  I say ditch the Rice.||||reg||6
+Z||000013||Alex4mula||06-11-2001||01:34 PM||||Maybe in the MR2 forum you see pictures like that but instead showing a V6 trying to be stuff in  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> Je je! <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>Alex4mula<BR> <IMG SRC="http://www.zing.com/picture/p69fbfe3e99ec5a0b81c10afcc578ff95/fe6d5c42.jpg.orig.jpg"> ||||reg||6

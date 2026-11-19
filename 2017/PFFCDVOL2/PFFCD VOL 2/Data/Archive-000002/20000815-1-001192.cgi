@@ -1,0 +1,6 @@
+A||||4||Carrolles||Cliff, Help with PIP Please||||9||
+Z||000000||Carrolles||02-08-2000||01:33 PM||||Cliff,<P>I loaded PIP.  I clicked NEW and typed  <A HREF="http://www.fiero.nl/fieroforum.pip" TARGET=_blank>http://www.fiero.nl/fieroforum.pip</A>  in the auto config field.  When I hit GET I got a message that said "Server has no DNS entry".<P>I tried again and got "Not a valid PIP profile".<P>I tried again and got the "No DNS" messsage again.<P>What am I doing wrong?<P>Thanks,<BR>Carroll||||reg||9
+Z||000001||Cliff Pennock||02-08-2000||02:48 PM||||You aren't doing anything wrong...<P>Are you behind a firewall or surfing through a proxy? It looks like the connection keeps timing out. Do you have IE installed? If so, which version?||||reg||1
+Z||000002||wkayl||02-08-2000||10:48 PM||||I had to jump from AOL to Netscape to make it work for me.||||reg||1
+Z||000003||Cliff Pennock||02-09-2000||04:55 AM||||That's not suprising...<P> <A HREF="http://www.idg.net/go.cgi?id=221445" TARGET=_blank>http://www.idg.net/go.cgi?id=221445</A> ||||reg||9
+Z||000004||Carrolles||02-09-2000||12:49 PM||||I am on a company intranet using Netscape.  Maybe the firewall thing has me.<P>I haven't tried it from home yet.  I run AOL there.  Should I expect problems?<P>Thanks,<P>Carroll||||reg||1

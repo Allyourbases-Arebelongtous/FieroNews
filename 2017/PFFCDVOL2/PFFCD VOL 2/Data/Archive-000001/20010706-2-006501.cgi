@@ -1,0 +1,5 @@
+A||N||3||Trevor||How does the Fiero....||||5||
+Z||000000||Trevor||10-30-2000||10:44 PM||||How exactly does the fiero transmission and rear axle work together? Can the fiero transmission be used with a 10 or 12 bolt rear end? Thanks..||||reg||5
+Z||000001||fiero56||10-30-2000||10:58 PM||||No! Pop the decklid and take a look. You will see what I mean.||||reg||1
+Z||000002||fiero56||10-30-2000||11:03 PM||||Re-reading your post, it sounds like you don't own a Fiero yet. Fiero uses FWD setup. Take the chevy Citation front end, put it in the rear, and you have a Fiero. <P>Since Fiero uses FWD tranny, there is no drive-shaft, just two half-shafts like on most any FWD vehicle.||||reg||1
+Z||000003||Tigger||10-31-2000||10:50 AM||||Welcome to the Forum...<P>Yep, but don't let that discourage you in getting one because there are a number of different engine swaps and adapter kits that are available to boost performance if that's what your after.<P>------------------<BR>T-T-F-N, Tah Tah For Now!<BR> <IMG SRC="http://www.fiero.nl/uploads/tiggerblue.gif"> ||||reg||1

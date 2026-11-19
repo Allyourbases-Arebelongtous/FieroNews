@@ -1,0 +1,9 @@
+A||N||7||Haze_Performance||Today was a good day||||10||
+Z||000000||Haze_Performance||06-01-2000||03:47 AM||||It was raining and I was driving down a long side street by my house. I look in the mirror and a new cavailer pulls up beside me. Its a VERY cute blond. She trys to race me but I just walked away from her. Well as I get closer to the intersection (Its a left turn only intersection)so I slow down (about 4 blocks from the turn), she flies past me. She takes the turn way to fast and slides over and hits the curb with he front tire. (not too hard, But hard enough to blow the tire) She had a set of red BFG Scorchers. The good thing about this is that theres 1 less nasty ugly Scorcher in the world.<P>(p.s.) I helped her change her tire  ||||reg||10
+Z||000001||tgowens||06-01-2000||03:49 AM||||ahhhhhhh Haze, chivalry is NOT dead - it just drives a Fiero!!!<P>-- but the important question is this - didja get her phone number???????????||||reg||1
+Z||000002||Haze_Performance||06-01-2000||04:04 AM||||Cell phone # & address||||reg||6
+Z||000003||tgowens||06-01-2000||04:27 AM||||shazzzzzzzzzaaaaaaaaaammmmmmmmmmmm!!!||||reg||1
+Z||000004||DaRkLoRD||06-01-2000||04:33 AM||||yeah, I'd say that was a good day.. hehehe  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000005||fierospeeder||06-01-2000||05:02 AM||||I wouldn't go out with a girl that couldn't handle her car.  Also, that she wants to challenge a fiero in a race.  ||||reg||1
+Z||000006||Phaeton||06-01-2000||11:58 PM||||She used good thinking to get her number to a REAL sports car driver, shows gumption on her part. Expensive though, maybe she's rich.||||reg||12
+Z||000007||LarryB||06-02-2000||01:10 AM||||In a Cavalier? Naaaah.  The rich ones drive BMWs and have an attitude if you're not driving a SAAB or Mercedes.  She's obviously got good taste though to know to give it up to a guy driving a classy car.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> Nice going!<BR>||||reg||12

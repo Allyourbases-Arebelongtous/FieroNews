@@ -1,0 +1,2 @@
+A||||0||BAM-BAM||And yet some other hypo goodies.....||||12||
+Z||000000||BAM-BAM||07-02-2000||10:45 PM||||  For those looking to stroke their 2.8L check this out. <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=371862730" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=371862730</A> <BR> <BR>  Late, BAM OUT!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR><P>------------------<BR>Don B. <BR>85GT||||reg||12

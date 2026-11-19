@@ -1,0 +1,3 @@
+A||||1||BigBoyToys||?L4 Flywheel cover fit V-6||||1||
+Z||000000||BigBoyToys||11-29-1999||10:54 PM||||Would anyone happen to know if the flywheel cover that attaches to the lower portion of the bellhousing on a 4 speed manual transmission (84 SE L4) which I believe to be an Isuzu will fit the 4 speed manual of a 86GT V-6 which I also believe is an Isuzu.||||reg||1
+Z||000001||WKDFIRO||12-01-1999||12:57 AM||||I believe it will be the same since both use the same configuration bell housing. That is you could have a V6 tranny fit the same way it would fit the 4 cyl. The cover should be the same. I would be surprised if it didn't.||||reg||1

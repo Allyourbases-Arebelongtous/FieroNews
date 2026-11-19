@@ -1,0 +1,4 @@
+A||||2||zeusrekning||? about starter selonoid on ford escort.||||5||
+Z||000000||zeusrekning||05-07-2001||09:37 PM||||My moms mustang has an external starter selonoid(sp?)Is a ford escort the same way? My friends starter spins constantly whne the battery is connected on her escort. Thanks.||||reg||5
+Z||000001||fierospeeder||05-08-2001||12:00 AM||||I would follow the red (positive) battery cable. <P>On my tbird, it goes to the solenoid, which is located next to the battery and the ignition coil.||||reg||1
+Z||000002||beer_stud_21||05-08-2001||02:53 PM||||Same on my POS 89 v6 T-bird.  There is the solinoid next to the battery, and one integrated into the starter.  I have been told to replace both at once or the old one will burn out the new one.  Happened to me actually.  The one by the battery is cheap- like 10 bucks.<P>-Marlin||||reg||1

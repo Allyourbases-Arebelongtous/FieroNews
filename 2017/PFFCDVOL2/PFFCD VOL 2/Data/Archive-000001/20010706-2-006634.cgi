@@ -1,0 +1,2 @@
+A||||0||Fun4Me||Where to get engines?||||5||
+Z||000000||Fun4Me||11-07-2000||09:01 AM||||Archie mentions that the LM1 crate with TPI is very popular. On a budget, where could one acquire these items?<BR>What cars are common that have LM1 engines in them? Who has the TPI parts required?<P>After acquiring, I will get the Master Build Kit to complete the masterpiece.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||5

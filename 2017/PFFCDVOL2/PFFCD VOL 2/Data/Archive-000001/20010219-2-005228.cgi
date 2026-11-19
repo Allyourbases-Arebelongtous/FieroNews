@@ -1,0 +1,3 @@
+A||||1||Shawn Alexander||Interchangeable axles||||5||
+Z||000000||Shawn Alexander||08-12-2000||10:08 PM||||Do the axles from an 84 four speed<BR>interchange with axles from an 86<BR>isuzu five speed? Thanks in advance<BR>for any help on this.<BR>Shawn||||reg||5
+Z||000001||pherder||08-12-2000||10:34 PM||||Yes.<P>All manual axles are the same for the Fiero ... doesn't matter what transaxle you have.<P>Autos are the same way.  All the auto axles fit all the other auto transaxles in the Fiero (mainly since only one auto transaxle, the T125, was used  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> )<P>Paul<BR>||||reg||1

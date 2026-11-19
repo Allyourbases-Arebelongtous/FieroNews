@@ -1,0 +1,3 @@
+A||N||1||Ayrow||Picture||||5||
+Z||000000||Ayrow||11-30-2001||03:28 AM||||Anyone know where I can get a hi-res copy of this image? <A HREF="http://www.ayrow.com/badge.jpg" TARGET=_blank>http://www.ayrow.com/badge.jpg</A> <P><BR>Thanks,<P><BR>Ayrow||||reg||5
+Z||000001||Haze_Performance||11-30-2001||03:53 AM||||Heres the one I have... I had a larger one but I can't find it..  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P><BR> <IMG SRC="http://www.fiero.nl/uploads/cool_logo.jpg"> <P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/goodlife.gif">    <BR><FONT SIZE="1"><FONT COLOR="purple">Goto Website - <A HREF="http://www.ClassicFiero.com" TARGET=_blank>Click Here</A> </FONT></FONT>||||reg||9

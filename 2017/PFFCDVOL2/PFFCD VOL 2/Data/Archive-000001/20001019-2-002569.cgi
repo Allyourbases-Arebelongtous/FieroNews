@@ -1,0 +1,4 @@
+A||||2||theogre||Ballancer Duck||||1||
+Z||000000||theogre||03-05-2000||11:14 AM||||Ok, Does anyone with the 88+ "ballancer" Iron duke, in any car, find that they run any smoother than the non counter ballanced ones?<P>I found a 90 ballancer motor with 55K miles on it. That's a 1/3 of what I've got now. but before I change to it I wanted to know if the ballancer actually helped. It's a real mess to change the oil filter in them.||||reg||1
+Z||000001||88formula||03-05-2000||02:56 PM||||They run much smoother than there non-balancer counterparts, there is a very noticeable difference. I had a 91 Grand AM with that engine in it. ||||reg||1
+Z||000002||ChadMan||03-05-2000||03:30 PM||||The only two 4-bangers I've spent any length of time in are my dearly-departed 84 (which will henceforth be referred to as DD84) and my 88 Coupe.  <P>The 88 with counterbalancer is smoother, but not a whole lot smoother - maybe I just had a well-balanced 84 (it was a recall motor).||||reg||1

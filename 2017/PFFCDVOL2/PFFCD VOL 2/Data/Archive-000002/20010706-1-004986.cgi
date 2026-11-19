@@ -1,0 +1,4 @@
+A||N||2||Haze_Performance||ATTN: 2xsess ||||12||
+Z||000000||Haze_Performance||12-28-2000||09:19 PM||||I got your package. It was great.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>Thank You, Thank You, Thank You!!!!!!!!!!!<P><BR>Please let me know if I can ever help you in any way.<P><BR>Carl  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/goodlogo1_1.gif">    <BR><B>"AHHHHH!!! All Fiero's don't start on fire you BONEHEAD!!"</B>||||reg||12
+Z||000001||2xsess||12-29-2000||01:03 AM||||Glad it was what you needed  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P><P>------------------<BR>Jeff<BR> <IMG SRC="http://www.fiero.nl/uploads/My_car_(large)sig_1.JPG"> ||||reg||1
+Z||000002||Black88GT||12-29-2000||12:57 PM||||group hug||||reg||12

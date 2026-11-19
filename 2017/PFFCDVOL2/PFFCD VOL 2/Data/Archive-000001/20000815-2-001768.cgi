@@ -1,0 +1,3 @@
+A||||1||87PegasusGT||More Power||||5||
+Z||000000||87PegasusGT||12-21-1999||03:35 PM||||Any info on building a 3.8 SC to 300hp +<BR>would be much appreciated.Also, where can I get a Countach style wing for my Fiero?<BR>Will Mangels series 77 fit on my Fiero? 15 X 9 on the rear? Can you put 9" tires on a Fiero?||||reg||5
+Z||000001||terryk||12-22-1999||10:52 PM||||Intercooler or NOS. You can increase the boost (smaller pulley), but it will detonate and retard the timing if you don't cool the intake. 300 honest-to-god HP will take some work. Port, polish, smaller pulley, remove the crossover and intercool it. The GPX required the intercooler to handle the increased boost.<p>[This message has been edited by terryk (edited 12-22-1999).]||||reg||1

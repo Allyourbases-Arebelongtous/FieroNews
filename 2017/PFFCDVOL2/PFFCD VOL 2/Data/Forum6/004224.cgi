@@ -1,0 +1,6 @@
+A||||4||Heretic||Could somebody make me a sig?(BIG PIC)||||5||
+Z||000000||Heretic||11-11-2001||02:37 PM||||I dont have photoshop yet and the program I have for now doesnt allow me to resize stuff..bummer. <BR> <IMG SRC="http://www.fiero.nl/uploads/Jd_3.jpg"> <P>Hope this pic works...<BR>||||reg||5
+Z||000001||Phil||11-11-2001||02:56 PM||||Try this one.<BR>  <IMG SRC="http://www.fiero.nl/uploads/Sig_1.jpg"> <p>[This message has been edited by Phil (edited 11-11-2001).]||||reg||1
+Z||000002||Heretic||11-11-2001||03:05 PM||||Thanks!<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/Sig_1.jpg">      <BR>Word of the week:"Circular"||||reg||1
+Z||000003||Jake_Dragon||11-11-2001||05:04 PM|||| <IMG SRC="http://www.fiero.nl/uploads/huh.GIF"> <P>------------------<BR>         <IMG SRC="http://www.fiero.nl/uploads/left.gif">                      <IMG SRC="http://www.fiero.nl/forum/smiley_brow.gif">                     <IMG SRC="http://www.fiero.nl/uploads/right.gif">          <BR>              <IMG SRC="http://www.fiero.nl/uploads/gt2_3.GIF"> ||||reg||1
+Z||000004||Heretic||11-11-2001||06:01 PM||||Lookin Good. thanks a lot.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/huh.GIF">       <BR>Thanks Jake_Dragon!<BR>Word of the week:"Circular"||||reg||14

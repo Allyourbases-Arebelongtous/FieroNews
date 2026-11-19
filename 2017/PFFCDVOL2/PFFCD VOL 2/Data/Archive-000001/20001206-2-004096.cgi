@@ -1,0 +1,5 @@
+A||||3||ponya||Plenum removal||||1||
+Z||000000||ponya||06-03-2000||09:44 PM||||Tried to get top of plenum off to check out some vacuum hose. Found out that previous owner had some work done and when the plenum was replace, gasket cement was used. Any suggestions on how to seperate these halves with destroying the plenum. Any suggestion<BR>appreciated. thanks bob||||reg||1
+Z||000001||bad88||06-04-2000||02:08 PM||||you're talking about the intake plenum I assume.  Try using a paint scraper.  It will trash the gasket but you'll want to replace that anyway when you put it back together.  If you have a good metal scraper you can usually tap it with a hammer around the edge and the manifold should eventually pull off with the gasket shredded...that's the fun part!!!||||reg||1
+Z||000002||Dan||06-05-2000||06:51 PM||||2" putty knife.<p>[This message has been edited by Dan (edited 06-05-2000).]||||reg||1
+Z||000003||Linx||06-05-2000||10:40 PM||||Use a rubber mallet to knock the plenum off- tap it on the side and it'll shear off easily.<P>Clean off the old rtv with a wire brush wheel on your moto-tool.  too easy- doesnt marr the surfaces.  wipe clean with a rag.||||reg||1

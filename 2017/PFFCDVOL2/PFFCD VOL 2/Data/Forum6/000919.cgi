@@ -1,0 +1,5 @@
+A||||3||Seanh||Sig. testing and resizing. IGNORE||||1||
+Z||000000||Seanh||11-13-2000||06:42 PM|||| <IMG SRC="http://www.fiero.nl/uploads/Sig.gif"> ||||reg||1
+Z||000001||Seanh||11-13-2000||06:46 PM|||| <IMG SRC="http://www.fiero.nl/uploads/seanhsig2.gif"> ||||reg||1
+Z||000002||Seanh||11-13-2000||06:50 PM||||...<P>------------------<BR><A HREF="http://www.kdsi.net/~sean" TARGET=_blank>     <IMG SRC="http://www.fiero.nl/uploads/seanhsig2.gif">     <BR>Sean's Fiero Page</A><BR>Sean Heberly<BR>Silver 86 GT 2.8 Auto<BR>Going on to 3.4 in Jan.<BR><I>"If you smoke after sex, you're doing it way to fast".</I>||||reg||1
+Z||000003||DaRkLoRD||11-14-2000||12:07 AM|||| <IMG SRC="http://www.fiero.nl/uploads/count-sig.gif"> <P>just testing a sig I made for the count.. hope you don't mind that I used your thread.   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>   <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>   <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A><p>[This message has been edited by DaRkLoRD (edited 11-14-2000).]||||reg||2

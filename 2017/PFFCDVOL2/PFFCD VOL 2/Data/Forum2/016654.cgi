@@ -1,0 +1,7 @@
+A||||5||Fiero_24||Oil pressure sending unit removal||||1||
+Z||000000||Fiero_24||12-24-2001||03:31 PM||||What happens if you remove it and use a manual oil pressure gauge instead?  Will the car run right?<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/driverside41.jpg"> <BR>  <A HREF="http://www.geocities.com/fiero_24" TARGET=_blank>http://www.geocities.com/fiero_24</A> <BR>1987 GT||||reg||1
+Z||000001||GTDude||12-26-2001||09:59 PM||||yes, the op switch has no effect on the running of the engine on the 87 model.  Just one wire going to it.  1986 is a different story.<P>------------------<BR>GTDude's 86GT||||reg||1
+Z||000002||Fiero_24||12-26-2001||10:31 PM||||So should I leave the old sender plugged in, or can I just take it completely off?||||reg||1
+Z||000003||hugh||12-27-2001||07:34 AM||||Why not just put a T fitting in,keep your light as a backup and have a gauge too?<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/hugh_sig.gif"> ||||reg||1
+Z||000004||Fiero_24||12-27-2001||08:13 AM||||I looked for T fittings, but I can not find the right one.  Anyone have any suggestions on where to get them?<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/driverside41.jpg"> <BR>  <A HREF="http://www.geocities.com/fiero_24" TARGET=_blank>http://www.geocities.com/fiero_24</A> <BR>1987 GT||||reg||1
+Z||000005||hugh||12-27-2001||05:50 PM||||You should be able to get them from any auto supply store.||||reg||1

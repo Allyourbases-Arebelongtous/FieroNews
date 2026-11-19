@@ -1,0 +1,3 @@
+A||||1||Robert||News overload......||||9||
+Z||000000||Robert||09-11-2001||11:06 PM||||After watching/listening to the news for the last 14 hours, starting with me turning on the TV at 6:15 am West Coast time, I’m so overload with sadness I can’t stand to watch the news any longer.<BR>Just for the heck of it, I switched the channel over to one of my “favorites” list and there was good old “Law and Order” reruns.<BR>It was such a relief to see something “normal” for a change   <BR>||||reg||9
+Z||000001||Urchin||09-11-2001||11:14 PM||||I know what you mean... I went for a drive around town for awhile just to get some fresh air and relax a little..<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/final.jpg"> <BR>If you can read this, I'm parked.||||reg||1

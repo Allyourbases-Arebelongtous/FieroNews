@@ -1,0 +1,5 @@
+A||N||3||x-thumpr-x||2.2L conversions?||||5||
+Z||000000||x-thumpr-x||08-10-2001||04:17 PM||||ALLO <BR>  Does anyone know if there has been a conversion done with a 2.2L turbo possibly from a daytona? I might be able to get my hands on one and read that it can give out 175hp  <IMG SRC="http://www.fiero.nl/forum/eek.gif">. Any info would be helpful. ||||reg||5
+Z||000001||Slammed Fiero||08-10-2001||05:01 PM||||quad 4 , 190hp stock and you won't get the ridicule for putting it in a fiero. I have seen a 2.2ltr turbo in the back seat of a CRX<P>JM ||||reg||1
+Z||000002||fiero56||08-10-2001||06:01 PM||||One of the locals here(previous forum member) is in the works of a turbo 2.2 right now. I can't wait to find out how it turns out along with everything else on the car.||||reg||1
+Z||000003||Wannabe||08-10-2001||06:37 PM||||You can get a lot more than 175hp out of a 2.2l turbo. That was the rating from the factory. There are Chrysler minivans out there running 12's with that engine. It wouldbe a tough job puting one in a Fiero though...everything is in the wrong place.<p>[This message has been edited by Wannabe (edited 08-10-2001).]||||reg||1

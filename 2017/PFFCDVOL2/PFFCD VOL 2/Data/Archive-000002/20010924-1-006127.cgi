@@ -1,0 +1,4 @@
+A||||2||Tweek||What kind of wheel is this?||||1||
+Z||000000||Tweek||03-09-2001||04:09 PM||||Anybody happen to recognize what kind of wheel this is, or what car it came from???<P> <IMG SRC="http://w3.ime.net/~valor/ted/wheel.jpg"> <P>The wing on the car is for sale on ebay: <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=566365899" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=566365899</A> ||||reg||1
+Z||000001||Raydar||03-09-2001||04:26 PM||||I think I've seen those wheels on late 80s Dodge Daytonas and Chrysler Lazers.<P>------------------<BR>Raydar - aka Steve<P>88 T-top Formula<BR>88 soon-to-be-V6 coupe||||reg||1
+Z||000002||Songman||03-09-2001||11:34 PM||||Yep... I had grey ones like that on my 86 Turbo Laser...<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1

@@ -1,0 +1,6 @@
+A||||4||86_Fastback||Monroe vs. KYB shocks
+Z||000000||86_Fastback||05-17-99||07:03 AM||||Anyone have any opinions or comments on Monroe sensa-trac or KYB shocks?  My '86 GT is still sporting the originals. 
+Z||000001||RICK||05-17-99||05:00 PM||||I just put the Monroe shocks on the front of my 87 and they work great.  The whole front end was still the orginal (EVERYTHING).  I also rebuilt the compleate front end while I was down there.
+Z||000002||theogre||05-17-99||07:41 PM||||monroe makes products designed for street use. They are very good product. I've use them a number of times over the years.<p>KYB, Koni, and others, typically make race grade parts. They are all excelect product. While they might trim a few tenths off your autocross time, you probably won't notice a huge improvement in handling over a "street" shock like Monroe's.
+Z||000003||PaUL||05-17-99||09:23 PM||||I think gas charged shocks/struts are much better than the standard hydralic type. Any brand would be a great improvment as long as they have this feature.
+Z||000004||86_Fastback||05-18-99||02:34 PM||||Thanks for everyones input.  I think there is a special promotion going on by Monroe for $25 off a pair of sensa-tracs.  If that is the case I will get them.  If not, I will pay $10 more and get the KYB's.

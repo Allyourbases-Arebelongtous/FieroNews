@@ -1,0 +1,6 @@
+A||||4||Cooter||Hey 3800 S/C guys!||||1||
+Z||000000||Cooter||03-12-2001||11:30 PM||||I need a factory S/C pulley that you replaced when you put on the overdrive pulley! It is for a custom project that I am working on and the 3 inch pulley that I have will give too much boost. C'mon, I know that somebody has one.||||reg||1
+Z||000001||terryk||03-13-2001||01:13 AM||||Call Magnuson Products and see if they will part with one.||||reg||1
+Z||000002||1FST2M6||03-13-2001||08:36 AM||||get a hold of Greg Allen - GTallen - i think he has the stock one... ||||reg||1
+Z||000003||Raydar||03-13-2001||10:50 AM||||Cooter, You gonna S/C your 3.4?  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Raydar - aka Steve<P>88 T-top Formula<BR>88 soon-to-be-V6 coupe||||reg||1
+Z||000004||Cooter||03-13-2001||04:14 PM||||That is top secrete information. If I told you, I'd have to kill you.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>Only time will tell. I have a plan, a blower and a custom crank pulley. All I need is the time to fabricate a proper mount. "If" it is possible, I will share everything with you guys (but y'all knew that already!)<P>------------------<BR>Just because you can't do it doesn't mean it can't be done.||||reg||1

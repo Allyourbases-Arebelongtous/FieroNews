@@ -1,0 +1,2 @@
+A||||0||Philphine||indy scoop comparision||||1||
+Z||000000||Philphine||08-29-2001||11:55 AM||||<BR>i'm about ready to play with my chopper project some more so i'm gonna go ahead and get a new indy scoop soon. i have an irm one now but i'm just wondering if anyone has any experience with the ones from showtime or focoa. about the same quality? any shipping probs? since i went with irm before they'll probaly get the nod but i thought i'd ask to get any info i can. thanks for any help.||||reg||1

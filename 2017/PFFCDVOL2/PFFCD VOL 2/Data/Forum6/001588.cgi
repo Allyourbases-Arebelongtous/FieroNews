@@ -1,0 +1,8 @@
+A||N||6||1FST2M6||20 rice fed HP REALLY cheap!! ||||1||
+Z||000000||1FST2M6||03-06-2001||02:18 PM|||| <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=566321719&r=0&t=0" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=566321719&r=0&t=0</A> <P>how LAME!||||reg||1
+Z||000001||TheFiero64||03-06-2001||03:37 PM||||LOL, I can see someone with them now. They look down and get blinded then hit something<P>------------------<BR>Josh<BR>  <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg"> <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||1
+Z||000002||ThatRickGuy||03-06-2001||03:56 PM||||They'd be neat for a show car, but I don't think I'd invest in them.||||reg||1
+Z||000003||KRMFiero||03-06-2001||06:16 PM||||how long would the last for lol.... if you slammed your foot on the brake you would probley break them<P>My friend wants them for his Jeep though||||reg||1
+Z||000004||danny boy||03-06-2001||06:25 PM||||Um,no.||||reg||1
+Z||000005||DaRkLoRD||03-08-2001||12:26 AM||||Hmm.. those do look kinda cool, but I think I'll stick with my original choice.. the plain old JC Whitney imitation MOMO pedal covers..  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||10
+Z||000006||Shiner||03-08-2001||02:55 PM||||That's what they have on bonafide racin' cars, dontcha know?<p>[This message has been edited by Shiner (edited 03-08-2001).]||||reg||1

@@ -1,0 +1,4 @@
+A||||2||72vinman||FERARRI_MOMO - Are you out there?||||1||
+Z||000000||72vinman||11-05-2001||01:40 PM||||Pat, It looks like your web page is down and I have lost your email. I need your mailing address to send the money for the trunk scoop. <BR>If anyone else might have Pat's email address can you please post it. Thanks||||reg||1
+Z||000001||ferrari_momo||11-05-2001||01:44 PM||||Vince,<BR> my email is ferrari_momo@yahoo.com  i thought that the webmaster had some upgrade work done to the site last night.  so i thought it was temporary down.  but i came back today. it is still down.  i am going to call.  i am upset with these people.  but thanks for the comment on the notchback euro taillight.   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>pat k<BR>email me for the address and stuff.<P>------------------<BR>||||reg||1
+Z||000002||72vinman||11-05-2001||01:51 PM||||Thanks Pat. You have mail.||||reg||1

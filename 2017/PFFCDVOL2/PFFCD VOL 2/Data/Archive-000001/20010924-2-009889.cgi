@@ -1,0 +1,3 @@
+A||||1||dreams||84 air conditioning wont work||||9||
+Z||000000||dreams||04-23-2001||10:07 PM||||I just replaced my engine and recharged the a/c and now I cant get the compressor to cycle. what did I do? Any help would be great.||||reg||9
+Z||000001||TheFiero64||04-25-2001||04:47 PM||||Try checking the pressure switch up front. It is on the Receiver/drier. Unplug it and ground the 2 connections together to see if your clutch cycles.<P>------------------<BR>Josh<BR>  <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg"> <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||3

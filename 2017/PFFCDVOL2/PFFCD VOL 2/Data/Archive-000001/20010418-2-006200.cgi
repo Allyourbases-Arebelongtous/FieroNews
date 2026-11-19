@@ -1,0 +1,3 @@
+A||||1||oreif_GT87||Cavalier Dash ?||||3||
+Z||000000||oreif_GT87||10-13-2000||12:08 PM||||Would a Dash from a 2000 Cavalier fit a fiero ..I have access to a wreck Cav ..but would like to know before i lay down the bread for it.<P>Thanks ||||reg||3
+Z||000001||DaRkLoRD||10-13-2000||03:58 PM||||Can you post some pics?<P>measurements would also be nice.. I was looking at an 87 Cavalier dash myself, but I gave up on that project cause so much would need to be modified.. I never really took the time to do detailed measurements though.. if it will fit, then I might look into it again.<P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||5

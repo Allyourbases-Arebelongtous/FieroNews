@@ -1,0 +1,7 @@
+A||||5||Heretic||HOLY SHYTE!||||10||
+Z||000000||Heretic||10-12-2001||08:48 PM||||Might be a bit off topic but , Check this out!<BR> <A HREF="http://go.stileproject.com/?id=534fc" TARGET=_blank>http://go.stileproject.com/?id=534fc</A><P>now how cool would be to have on your fiero!<BR>EDIT: DONT CLICK ON PICS , SOMETHING NASTY MIGHT COME UP!<BR>------------------<BR>   <IMG SRC="http://shopping.yimg.com/images/muze/album/390/399801_th.jpg">      <BR>TOOL OWNS j00!<P>[This message has been edited by Heretic (edited 10-12-2001).]<p>[This message has been edited by Heretic (edited 10-12-2001).]||||reg||10
+Z||000001||Uaana||10-13-2001||12:50 AM||||Hey Heritic. <BR>You might want to put a disclaimer on that one. The pics on the page alone are enough to get most in trouble at work and the pop ups are just plain annoying.||||reg||1
+Z||000002||sloth85GT||10-13-2001||12:57 AM||||You might want to check this link out:<BR> <A HREF="http://www.fiero.nl/forum/Forum6/HTML/003728.html" TARGET=_blank>http://www.fiero.nl/forum/Forum6/HTML/003728.html</A> <P>------------------<BR>     <IMG SRC="http://www.mts.net/~kuzma/fieronl.gif">     <BR>Dan<BR>1985 Silver GT||||reg||1
+Z||000003||Heretic||10-13-2001||11:49 AM||||My bad...||||reg||1
+Z||000004||Gerald||10-13-2001||12:27 PM|||| <IMG SRC="http://www.fiero.nl/forum/smiley_wtf.gif">||||reg||1
+Z||000005||FieroMontreal||10-13-2001||09:15 PM||||Damn, is that an MR2...?||||reg||1

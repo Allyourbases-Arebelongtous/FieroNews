@@ -1,0 +1,3 @@
+A||||1||ponya||Headliner panel spray?||||5||
+Z||000000||ponya||12-02-2000||12:02 PM||||I know I have seen the answer to this question but I just can't find it. I remember someone posting that after repairing the headliner you can apply polyuretane to stiffen it up. My question is can you use a spray type or does it have to be brushed on.<BR>Does it get applied to one side or both? Thanks for any info.     BOb||||reg||5
+Z||000001||Greg Piet||12-02-2000||12:22 PM|||| <A HREF="http://www.geocities.com/MotorCity/Garage/5007/fiero_osg/headliner.html" TARGET=_blank>http://www.geocities.com/MotorCity/Garage/5007/fiero_osg/headliner.html</A> <P>brushing allows it to soak into the headliner material||||reg||1

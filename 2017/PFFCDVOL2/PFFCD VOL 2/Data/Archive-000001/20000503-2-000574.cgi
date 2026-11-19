@@ -1,0 +1,8 @@
+A||||6||kornholio||removing spray paint from tail light lenses
+Z||000000||kornholio||08-07-99||06:30 PM||||Does anyone know if it is possible to remove black spray paint from the tail light lense covers?  The previous owner of this 86 SE spray painted letters on both sides and I would like to remove it without melting the plastic with harsh chemicals.  Thanks.
+Z||000001||JetroGT||08-07-99||08:16 PM||||Try brake fluid. If you have the notch back, I would go to the local junk yard get replacements.
+Z||000002||Phil||08-08-99||04:06 AM||||You could try a mild abrasive like toohpaste and polish it out but you might wind up having to do the entire lens.
+Z||000003||kornholio||08-08-99||09:50 AM||||I've checked the local junkyard and they want $50 for the whole tail light assembly and they've got a few cracks in it.  Mine is in perfect condition.  I just don't like the lettering.
+Z||000004||kornholio||08-20-99||03:22 PM||||Hi,<br>I tried Testor's model paint thinner and the paint came off with lots of pressure.  Man, are my hands sore.  And I doubt this stuff will eat away at the plastic since this stuff is made for model kits.
+Z||000005||Dale||08-24-99||02:59 AM||||Go to your local paint store and ask for a product called GOOF-OFF.  Dont use to much at once though, it can distort some plastics but is friendly to most.
+Z||000006||Elmo||09-01-99||12:44 PM||||This may sound stupid but try nail polish remover. Hey if it works on the polish ladies  use for there nails, it has to work on spay paint! I use it to remove old stickers from windshields and bumpers. Just stinks to Hi Heaven for a few hours or so. hehe. Hell get your woman to do it then. She's used to the smell. 

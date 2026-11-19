@@ -1,0 +1,2 @@
+A||N||0||erapp||speedometer calabration||||5||
+Z||000000||erapp||02-05-2001||09:07 AM||||I am installing a 1996 3100 v/6 w/4t60e auto in a 1996 fiero w/120 mph speedo and what is the correct wireing and or resistor to make the speedo work correctly . the speed sensor go to the 96'obd2 computor first and if you tap into the speed sensor wire's at the computor to go to the speedo the speedo read's very fast||||reg||5

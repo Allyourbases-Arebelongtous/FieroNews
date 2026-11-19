@@ -1,0 +1,5 @@
+A||||3||Formula||MY NEW FIERO||||1||
+Z||000000||Formula||03-14-2000||09:43 PM||||I agreed to purchase an 86GT today!!!!!<P>Getting it friday, it needs a new head so I'm probably going to restore it in the summer!!!!!!!!!!!!!!!<P>thats makes 2 for me LOL,<P>88 Formula, 86 GT 4-speed||||reg||1
+Z||000001||bHooper||03-14-2000||09:47 PM||||kewl!!!!  congrats!  dont forget the pictures!||||reg||6
+Z||000002||Formula||03-14-2000||09:55 PM||||I'll have pics of the new GT and of monkeys tailight mod in the next couple of weeks.||||reg||1
+Z||000003||DXR_DAD||03-14-2000||10:24 PM||||Way to go Formula!!! <IMG SRC="http://www.fiero.nl/forum/smile.gif"> "Keep Hope Alive" Fieros were made to drive. I was glad when I got my 2nd one, but now I'm looking for that 88GT. It will be for DXR_MOM she is into this fiero thing. I have the 86SE "The Little Black Toy" and the 87 Coupe "Code 21" she likes them but wants a fastback. If I'm going to get a GT.......well it's gotta be the 88 <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||14

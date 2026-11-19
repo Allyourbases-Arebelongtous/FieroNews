@@ -1,0 +1,5 @@
+A||||3||151 in. of love||Timing||||1||
+Z||000000||151 in. of love||02-06-2001||02:59 PM||||Where did I read that you can take off the connector for the distributer and do the same thing as eliminating the ECM through the ALDL.<P>Well I tried every connector and every time the engine died.<P>Does this mean that my timing was off.<BR>After that I tried to time by ear and almost lost my ear through the fireball up through the TB. HAH<P>Can anyone confirm this?||||reg||1
+Z||000001||Bob Englert||02-06-2001||03:35 PM||||Why bother?  All you need to do is short the 2 adjacent connectors with a paperclip to put the car in diag mode to set the timing.  <P>Remove 2 screws at the cigar lighter and insert the paperclip.  Couldn't be easier.<P>------------------<BR>Bob<BR>2 - 87 GT's<BR>85 SE 4 cyl||||reg||1
+Z||000002||151 in. of love||02-06-2001||07:07 PM||||I know where its at,what it does, and how to do it, I was just wondering if anyone had additional information on the connectors.||||reg||1
+Z||000003||Indiana_resto_guy||02-06-2001||08:23 PM||||It's the 4 wire connector that you can unplug at the distributor, not the 2 (it comes from the coil)||||reg||1

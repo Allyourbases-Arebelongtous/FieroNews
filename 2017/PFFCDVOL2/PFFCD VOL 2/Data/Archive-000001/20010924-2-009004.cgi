@@ -1,0 +1,2 @@
+A||||0||86 GT||Jumpy timing mark 86 V6||||1||
+Z||000000||86 GT||03-17-2001||02:55 PM||||We are trying to set the timing on our 86 V6 fiero. The ECM is grounded properly and the timing mark is set at 10 degrees using #1 and #4 plug wires. The problem is after running for about 2 minutes the timing mark jumps aprox 1/2 inch forward or advances, the distributor has been tighted up and confirmed at 10 degrees after tightening. Wo wierd noises everthing apears to be normal, are we looking at a new distributor?||||reg||1

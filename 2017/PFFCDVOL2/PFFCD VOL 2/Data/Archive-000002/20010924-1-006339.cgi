@@ -1,0 +1,4 @@
+A||||2||Loki||HEY SLUPPY!!!!!!!! GOT SOME ???'S||||1||
+Z||000000||Loki||03-21-2001||08:29 PM||||PLease e-mail me..Im looking to redo my headliner and rear firewall board in vynil and people said your the person to talk to...<P><P>------------------<BR>Loki<BR>ICQ# 16477998<BR> <IMG SRC="http://cwm.ragesofsanity.com/s/net4/headshot.gif"> ||||reg||1
+Z||000001||sluppy123||03-21-2001||09:35 PM||||Hey Loki, I tried to E-mail you but it keeps getting returned. <P>Try E-mailing me- FieroGT321@aol.com<P><P>------------------<BR>-Brian, Toolmaker<BR>Lincoln, NE<BR>85' SC & 87' GT-Leather, Lowered, Nitrous<BR>   <IMG SRC="http://albums.photopoint.com/j/View?u=247832&a=7653930&p=37756786&Sequence=0"> ||||reg||10
+Z||000002||Loki||03-21-2001||09:40 PM||||Akk...I need to update me e-mail....my bad<P><P>------------------<BR>Loki<BR>ICQ# 16477998<BR> <IMG SRC="http://cwm.ragesofsanity.com/s/net4/headshot.gif"> ||||reg||1

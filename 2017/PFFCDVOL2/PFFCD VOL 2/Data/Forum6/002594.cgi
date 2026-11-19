@@ -1,0 +1,5 @@
+A||||3||West Coast Fiero||Yet another CarFax favor to ask||||1||
+Z||000000||West Coast Fiero||07-08-2001||12:28 AM||||was wondering to those of you who have carfax, if they could run my truck - im beginning to question many things about it<P>1GNEV18K1MF147845<P>thanks to all in advance!<P>Eric - West Coast Fiero <A HREF="http://www.cwestco.com" TARGET=_blank>www.cwestco.com</A> <BR>310-305-4111<P>||||reg||1
+Z||000001||West Coast Fiero||07-08-2001||12:35 AM||||never mind guys, check this out - when you go to carfax.com, simply click on Account Holders, then type in the email of " carfax@carfax.com " - and you will get EVERYTHING for free.<P><BR>Eric - West Coast Fiero <A HREF="http://www.cwestco.com" TARGET=_blank>www.cwestco.com</A> <BR>310-305-4111||||reg||1
+Z||000002||isthiswhereiputausername?||07-08-2001||09:51 AM||||Thanks!!||||reg||1
+Z||000003||Songman||07-08-2001||12:14 PM||||Outstanding! Thanks!<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||10

@@ -1,0 +1,4 @@
+A||N||2||TTiger||Just another dumb question...||||1||
+Z||000000||TTiger||04-07-2001||01:26 AM||||Just wondering if anyone has any idea what a Fiero of any year or body type (GT/notchback) would weigh without the engine and transmission.  Just throwing together a few ideas in my mind.  <P>Thanks,<BR>Tony  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000001||Oreif||04-07-2001||01:33 AM||||1984 without engine and trans weighed in at 1967 pounds according to the Pontiac Performance Plus Magazine. OOPS it says without rear cradle assembly. So I would guess that the rear suspension and cradle weight is not included.||||reg||1
+Z||000002||Indiana_resto_guy||04-07-2001||02:07 AM||||1967 . . . . . . . that was a good year.<BR>I have Barracuda made in that year, what a rag top!||||reg||1

@@ -1,0 +1,3 @@
+A||||1||PTW87GT||New Tires Sway Bar||||1||
+Z||000000||PTW87GT||11-03-2000||09:13 AM||||I am getting ready to buy new tire.  I currently have  215/60 on the front and 225/60 on the rear.  I am thinking of adding a stock fiero front sway bar to my rear of my 87 GT.  What is the best.  I use the car as a daily driver, 50 mile hwy each way.||||reg||1
+Z||000001||Oreif||11-03-2000||09:49 AM||||BFGoodrich tires have worked well for me.<BR>Many people here also recommend Dunlop's and Yokohama's. They are all very good tires.<BR>I have heard that the Firestone Firehawks and the Goodyears are not too good in adverse weather (snow and rain) I had Goodyear Eagles on my car and I didn't like them. (they came on the car) A week later I put on BFG's. ||||reg||1

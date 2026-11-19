@@ -1,0 +1,2 @@
+A||||0||isthiswhereiputausername?||shockwave racing game||||1||
+Z||000000||isthiswhereiputausername?||11-19-2001||09:46 AM||||Check this out  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P> <A HREF="http://www.tv4.se/lattjo/kojan/bilbanan.asp" TARGET=_blank>http://www.tv4.se/lattjo/kojan/bilbanan.asp</A> <P>almost looks like little fieros  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>||||reg||1

@@ -1,0 +1,4 @@
+A||||2||RossT||Cliff, did your Fiero make it thru the storm?||||1||
+Z||000000||RossT||12-05-1999||11:51 AM||||CNN was showing pictures from Denamark, Holland and many other places where a storm<BR>of the century went thu on Friday. Lots of structural damage everywhere. Just wondering if Cliffs Fiero made it thru?<BR>Ross.||||reg||1
+Z||000001||batboy||12-05-1999||12:59 PM||||Dang! Let's hope Cliff made it through the storm ok too. At least his server appears to have survived.||||reg||1
+Z||000002||Cliff Pennock||12-05-1999||04:19 PM||||Actually, I hardly noticed there has been a storm at all. Yeah, it was supposedly one of the worst of the last few decades but it lasted only for a few hours and it didn't even come close to what I saw when I was in Houston back in '88 (what was that storm called again - Gilbert?).||||reg||7

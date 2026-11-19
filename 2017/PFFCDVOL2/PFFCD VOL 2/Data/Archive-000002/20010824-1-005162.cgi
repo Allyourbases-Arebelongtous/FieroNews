@@ -1,0 +1,7 @@
+A||||5||Racer 1||Check out these scooter perfect for gheto kids.||||10||
+Z||000000||Racer 1||01-09-2001||10:46 PM||||These babies are sweet!<BR> <A HREF="http://www.ghettoscooter.com/" TARGET=_blank>http://www.ghettoscooter.com/</A> <P>------------------<BR>  <IMG SRC="http://spitfire.cwv.net/~cdbailey/images/gifssucl/eyes2/evil_eyes.gif"> ||||reg||10
+Z||000001||Cheever2||01-09-2001||11:09 PM||||At first I wasn't impressed, but that fold-down video was SO informative.  And anything with the Rocky theme gets my attention.<BR>"Your CNT2001 may feature: " - MAY feature?!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>||||reg||6
+Z||000002||bHooper||01-10-2001||07:13 AM||||th "Johnny Razor vs Ghetto Man" battle really one me over!  <P>I ordered 5 of these... I think they will make great gifts!<P>hoop||||reg||1
+Z||000003||jerpro||01-10-2001||11:30 AM||||yeah!!! they are cool!!!!<BR>I wonder if I could do a northstar converion on them... <BR>handling is poor, but hey! check out those wheels !!!! they can take anything!!!<BR>||||reg||1
+Z||000004||p4n1c||01-10-2001||12:19 PM||||LMAO, I think people at work are looking at me funny.  I couldn't stop laughing.  That's the best thing since sliced bread.<P>------------------<BR>-=-=-=[ p4n1c ]=-=-=-=-<BR>-=[ Come out swingin' ]=-||||reg||10
+Z||000005||Joe4x4||01-11-2001||02:37 AM||||LMAO<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/vegasdieBLK.gif">     <IMG SRC="http://www.fiero.nl/uploads/animated_cat.gif"> ||||reg||6

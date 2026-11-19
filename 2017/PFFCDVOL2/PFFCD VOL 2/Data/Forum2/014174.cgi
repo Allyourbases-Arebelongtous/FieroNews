@@ -1,0 +1,5 @@
+A||||3||Adrift||What is the "dead pedal" area?||||5||
+Z||000000||Adrift||10-05-2001||01:05 AM||||What/where is the "dead pedal" area? Any pics?||||reg||5
+Z||000001||JetroGT||10-05-2001||01:08 AM||||I think your supposed to put your foot on it to steady yourself when you go into turns. It's that vinal pad on the wheel well.<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/NewSigt.jpg">  <BR>I work where all the missing paperclips go.<BR>Wanted: 86/87 Red GT, auto, pw, pl, pm, rear defrost,pt, Gray int, Spoiler. May be willing to trade the blue car.||||reg||1
+Z||000002||btoth||10-05-2001||09:59 AM||||I really wish the auto Fieros had a brake pedal the size of the manuals with a real dead pedal right about where the clutch would be. ||||reg||1
+Z||000003||GodSend||10-05-2001||10:57 AM||||I think you are asking this in reference to your 6.5' speakers?  If so, this area is otherwise known as ... kickpanels.. <p>[This message has been edited by GodSend (edited 10-05-2001).]||||reg||1

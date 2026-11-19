@@ -1,0 +1,4 @@
+A||||2||Old Lar||Fiero Trouble shooting guide||||3||
+Z||000000||Old Lar||01-27-2001||09:07 AM||||I found this in my list of favorites,  I must have pulled the site from the forum at some time in the past. <BR> <A HREF="http://www.qtm.net/~lcur/osg.htm" TARGET=_blank>http://www.qtm.net/~lcur/osg.htm</A> <P>Lots of information of Fieros.  Many of the same questions continually appear.  Here isa resource.<p>[This message has been edited by Old Lar (edited 01-27-2001).]||||reg||3
+Z||000001||Wade87GT||01-29-2001||09:50 AM||||Thanks Old Lar for the link. Definately a lot of good info worth going through.||||reg||1
+Z||000002||bHooper||01-29-2001||10:35 AM||||thats one of my most frequently visited sites!<P>lots of good info there.<P><P>------------------<BR>hoop<BR>Red '86 GT<BR>KYB's, Eibach's,<BR>Poly Bushings||||reg||1

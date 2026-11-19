@@ -1,0 +1,3 @@
+A||||1||Adrift||Smoke for the first time!||||1||
+Z||000000||Adrift||11-30-2001||05:56 PM||||While hooking up my alarm today I got smoke for the first time out out of my car! I hooked up the relays for power door locks which somehow resulted in a short circuit, which caues some wires to began melting! Was scary as hell, but im ok now. Hopefully My Alarm brain is OK though, haven't really figured out how to program it or anything yet so I don't know if its workign the way its supposed to...<BR>||||reg||1
+Z||000001||Pyric||11-30-2001||06:13 PM||||Maybe your car could use the Nicotine patch.   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Just kidding. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

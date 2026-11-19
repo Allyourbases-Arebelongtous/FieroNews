@@ -1,0 +1,5 @@
+A||||3||4-WHEEL||Test||||1||
+Z||000000||4-WHEEL||04-16-2001||07:22 PM||||I couldn't test on the test page. It said I wasn't a valid user. Oh well!!<BR> <IMG SRC="http://www.fiero.nl/uploads/4-Wheel2_2.jpg"> <P>------------------<BR>||||reg||1
+Z||000001||TheFiero64||04-17-2001||10:23 AM||||What test page????<P>------------------<BR>Josh<BR>  <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg"> <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||5
+Z||000002||FieroJoe||04-17-2001||10:25 AM||||It's a <B>magic</B> page, only for sig tests!<P><BR> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>AIM: Snowboarder0311<BR>87 Coupe 5sp. - big resto in progress<BR>  <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||12
+Z||000003||Jaygee79||04-17-2001||01:28 PM||||There's a test page?  OK, where is it, I don't see it anywhere.<P>------------------<BR>Jaime<BR> <A HREF="mailto:Jaygee79@aol.com">Jaygee79@aol.com</A> ||||reg||1

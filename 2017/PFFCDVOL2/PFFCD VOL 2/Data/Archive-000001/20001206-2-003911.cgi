@@ -1,0 +1,8 @@
+A||||6||gmata||Ram air side scoops||||5||
+Z||000000||gmata||05-24-2000||11:18 AM||||Has anyone bought the ram air side scoops from gscustom?  I'm thinking about buying them, but was wondering if I could easily install them.  They really look cool. <P>Are there any other suppliers that carry the air side scoops?<P>||||reg||5
+Z||000001||Uaana||05-24-2000||02:59 PM||||You can try RS motorsports in canada, theres are about 249US and if you can find them Mecham scoops look the best they are the ones with the strakes inside that were used on the IMSA models.||||reg||1
+Z||000002||Gokart||05-24-2000||08:44 PM||||gmata, could you please post the web site for this GS Custom! Or their phone # to order a catalog...tks!||||reg||1
+Z||000003||DaRkLoRD||05-24-2000||09:25 PM|||| <A HREF="http://www.gscustom.com/" TARGET=_blank>http://www.gscustom.com/</A> ||||reg||1
+Z||000004||Flash Box||05-24-2000||09:46 PM||||The Fiero Store carries them part number 92004. There phone number is 1-800-882-5769 (24hrs) They forgot to list the price in the catalog and they aren't pictured on their web site ( <A HREF="http://www.fierostore.com" TARGET=_blank>http://www.fierostore.com</A>  )  but are pictured in their Catalog.||||reg||2
+Z||000005||William||05-24-2000||11:10 PM||||I bought a pair from Gary and they did NOT match. If held next to each other they look slightly different. It's a shame because his are shaped better than many of the others. Most I've seem sort of bubble out at the front. Mine are tapered the full lenth of the panel.||||reg||8
+Z||000006||MotherGoose||05-25-2000||08:57 AM||||I heard that Gary(GSCUSTOM) is going out of business.  Plus there is a site on the web that tells ALL the problems he had with them.||||reg||1

@@ -1,0 +1,8 @@
+A||||6||recluse||Fiero desktop items?||||5||
+Z||000000||recluse||12-12-2001||10:59 PM||||Anyone have any Fiero Icons or anything similar?  Thanks||||reg||5
+Z||000001||FieroHarry||12-12-2001||11:18 PM||||Hey Recluse, did you go to RFTH last time with a friend?||||reg||1
+Z||000002||recluse||12-12-2001||11:20 PM||||Yeah im the one that followed you back part of the way.  ||||reg||1
+Z||000003||FieroHarry||12-12-2001||11:22 PM||||I just saw your pic in the previous post about owners.<BR>I thought that was you but maybe my dazed memory was just acting up........<P>So hows your car coming along?<BR>Anything new?||||reg||1
+Z||000004||recluse||12-12-2001||11:32 PM||||I finally got my side scoops on, they look good, no pics yet though. I just put a bored out throttle body and intake from Darrell Morse on, and an adjustable fuel pressure regulator.  I still have to get a gauge and do some adjusting but so far so good.  I plan on getting some rims and tires after Christmas.  So many things to do, so little money!  I noticed from some other threads that you got some scoops on and lowered yours, looks good.  take it easy||||reg||1
+Z||000005||Cyberkhat||12-13-2001||04:48 PM||||Hey Recluse - If you want a paperweight w/ a picture of your car in it I can make it.My family has a business called Aurora preserved flowers that embeds flowers in polyester resin.Of course anything else can be embedded also.They have a round dome and an octogon shape paperweight. Interested?||||reg||1
+Z||000006||recluse||12-13-2001||10:59 PM||||Actually what I meant was computer desktop items like icons.  Thanks anyways though.||||reg||1

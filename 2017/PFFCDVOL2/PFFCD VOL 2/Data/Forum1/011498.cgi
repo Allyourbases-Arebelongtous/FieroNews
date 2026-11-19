@@ -1,0 +1,4 @@
+A||||2||edbone||Blue chop top fiero scoops\ground affects||||5||
+Z||000000||edbone||11-02-2001||08:12 PM||||Just wondering if anybody knows where I could find those scoops\ground affects on the blue chop top Fiero that Ive seen posted around here. Thanks Eddie||||reg||5
+Z||000001||fix||11-02-2001||08:19 PM||||You must be speaking of LT1 Chop Top's car.  Those side scoops and rocker panels are one piece units that are available from IRM.  They don't have a webpage, but here is their contact info:<P>Order Desk: 1-800-367-8423 or 1-301-948-3301<BR>Fax: 1-301-774-6909<BR>Email: IRMFIERO@aol.com<P>You can also do a search and find FieroMaster's IRM quick catalog online.  He scanned the catalog and put it online so people like us can see what they have to offer.  ||||reg||1
+Z||000002||LT1 Chop Top||11-02-2001||08:33 PM||||what he said.......||||reg||1

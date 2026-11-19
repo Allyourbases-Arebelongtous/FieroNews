@@ -1,0 +1,7 @@
+A||||5||jch82||While I was Surfing||||1||
+Z||000000||jch82||01-21-2001||05:43 PM||||Just ran into this website. Seems to have a lot of fieros for sale.<BR> <A HREF="http://www.lookinhere.com/automobiles/fiero/fierosale.html" TARGET=_blank>http://www.lookinhere.com/automobiles/fiero/fierosale.html</A> <P>Josh<P>||||reg||1
+Z||000001||2xsess||01-21-2001||06:23 PM||||I used to check that site like everyother day and even after not checking it for almost a month the same cars are still listed.<P><BR><P>------------------<BR>Jeff<BR>AOL IM : Only2xsess<BR>    <IMG SRC="http://www.fiero.nl/uploads/My_car_(large)sig_1.JPG">   <BR> <A HREF="http://kresgeus.homestead.com/FieroPage.html" TARGET=_blank>http://kresgeus.homestead.com/FieroPage.html</A> ||||reg||1
+Z||000002||bHooper||01-21-2001||06:37 PM||||yeah, look under the '86 models, that red SE sith the chick was for sale 1 1/2 years ago, i know!<P>||||reg||1
+Z||000003||jch82||01-21-2001||10:42 PM||||And I thought I found something. Oh well, if anyone has any sites that have updated fiero's for sale I would appreciate it a lot.<P>Josh||||reg||1
+Z||000004||MooCow||01-22-2001||12:03 AM||||if you need a Fiero site you know where to go.  Just come to my house and I will hook you up cause I have bunches of sites.<P>                                Thanks Ken||||reg||10
+Z||000005||jch82||01-22-2001||10:49 AM||||Thanks bud. I'll do that.<P>Josh||||reg||10

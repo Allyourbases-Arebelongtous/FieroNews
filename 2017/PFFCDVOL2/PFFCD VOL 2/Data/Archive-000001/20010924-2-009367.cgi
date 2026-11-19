@@ -1,0 +1,4 @@
+A||||2||fierocd||dash removal||||8||
+Z||000000||fierocd||04-02-2001||10:16 PM||||I am removing the dash on my 86 GT, I got everything disconnected but when I try to lift the dash out it gets caught on the drivers side where the steering and gauges are.  Is there anything I am missing????||||reg||8
+Z||000001||Carrolles||04-03-2001||08:12 AM||||I believe you are supposed to remove the instrument cluster pod first.||||reg||1
+Z||000002||GoCartGuy||04-03-2001||08:59 PM||||Yes you have to remove the instrument cluster, but that's not whats holding it down.  Under the plastic around the instrument cluster is 2 top screws just about the steering column.  You have to remove the cluster so you can actually get the dash out, it won't fit between the cluster and the window.<P>Best of luck.<BR><P>------------------<BR>'85 GT "The GoCart"||||reg||1

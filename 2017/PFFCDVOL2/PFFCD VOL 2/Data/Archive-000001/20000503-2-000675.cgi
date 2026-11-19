@@ -1,0 +1,3 @@
+A||||1||Johnsonis15||ADS Chips
+Z||000000||Johnsonis15||08-23-99||02:21 AM||||I am going to purchase either a ADS Strip chip, or an ADS street chip. I have my cadalitic converter removed and straight piped, so the strip chip should work out. My main concern is what kind of fuel milage will  I get after, and how much more horsepower? Any info, much appreciated. 
+Z||000001||K9||09-01-99||11:07 PM||||Hay I was going to get a ADS Chip but changed my mind after reading an artical. Check it out your self at http://www.fiero.org/text/firedup.txt        The artical says that there is no hp gain but you have a stright pipe so it might make a different. If you still get the chip tel me about the outcome. E-mail me at mickyterrior@sprint.ca

@@ -1,0 +1,4 @@
+A||||2||LAMBO||My Indy||||10||
+Z||000000||LAMBO||06-10-2000||11:24 PM||||WooooHoooo! I can now call FieroDave's Indy mine. I can't wait till I pick it up! Sorry, I just had to tell someone (my wife just isn't showing the same enthusiasm as me).||||reg||10
+Z||000001||blayde8||06-10-2000||11:27 PM||||congradulations on your new Indy,Lambo.  Tell me how you like it when you get to drive it. Now how many fiero's do you own?||||reg||1
+Z||000002||fierodave||06-11-2000||06:52 AM||||Lambo  <BR>I did tell you the Diamond found in the Indy was not included right?   lol  congrats on the Indy, Give her a good home!  Once your wife see's the car she will have a change of heart and you will have a hard time getting your turn to drive it!<BR>Good luck and have fun with <BR>««««««««««««YOUR NEW INDY!»»»»»»»»»»»<BR>FD||||reg||1

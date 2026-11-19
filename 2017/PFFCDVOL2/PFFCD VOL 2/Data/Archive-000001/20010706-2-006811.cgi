@@ -1,0 +1,4 @@
+A||||2||rodmcneill||Tach. filter tip||||14||
+Z||000000||rodmcneill||11-16-2000||12:06 AM||||I had problems with my 86 GT tachometer flickering at idle and also when driving. I was going to replace the tach. filter when I noticed that the white plastic connector on the pigtail was in poor condition(lot of heat in that location)I spliced in a weatherproof 2 prong trailer connector and had no more problems in 2 years. On electrical devices sometimes its the connection and not the part that is bad.||||reg||14
+Z||000001||Predator||11-16-2000||07:47 AM||||Thanks for the info. I have been having the same problem, and haven't got around to replacing the Tach Filter yet. I will take a look at, and probably go ahead and replace the wire first. ||||reg||6
+Z||000002||Alex4mula||11-16-2000||11:17 AM||||My tach filter is 12.5 years old & is working OK. But that connector gets loose once in a while & is in very bad shape. Anyone knows where to find a replacement?||||reg||1

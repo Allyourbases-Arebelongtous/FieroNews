@@ -1,0 +1,4 @@
+A||||2||fotofrank||replacement mufflers||||11||
+Z||000000||fotofrank||06-26-2000||05:47 PM||||OK gang. How do I "hang" a replacement muffler that does not have the hooks for the springs? This is for a performance muffler <BR>I got on e-bay and will go on my '84 2M4.<BR>Or whould anyone like to buy my performance muffler? lol||||reg||11
+Z||000001||Old Lar||06-26-2000||08:30 PM||||My Borla system hangs from the cat pipe (new cat) to the rear hangers from the car.  The Borla did not have those umteen brackets welded to it for the springs etc.  I had Monroe muffler-break do the install.  The "technician" said welding stainless steel would be a problem.  I took his word rather than have him burn a hole in my $500 muffler.  <P>No problems so far.||||reg||1
+Z||000002||stimpy||06-26-2000||08:56 PM||||Likewise with my Flowmaster, hangers on each exhaust pipe, nothing on the muffler. Solid as a rock, no leaks, squeeks, or tweaks.||||reg||1

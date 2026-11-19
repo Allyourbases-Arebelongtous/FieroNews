@@ -1,0 +1,4 @@
+A||||2||SCCA FIERO||Try this...||||1||
+Z||000000||SCCA FIERO||11-16-2001||01:35 AM||||In Microsoft Word type "Q33 NY" then enlarge to 72 and change font to wingdings.||||reg||1
+Z||000001||Mach10||11-16-2001||01:39 AM|||| <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif"> You got THAT one too?<BR>Too bad the flight number's fake  <IMG SRC="http://www.fiero.nl/forum/tongue.gif">  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||10
+Z||000002||bHooper||11-16-2001||06:49 AM||||Glad to see your back, SCCA... even if it is just for a visit!<P> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P><P>------------------<BR>hoop<BR><FONT SIZE="3"><FONT COLOR="red"><B>Red</B></FONT></FONT> 86 GT 5 speed<BR><FONT SIZE="3"><B>Black</B></FONT> <u>86 SE Automatic</u>||||reg||1

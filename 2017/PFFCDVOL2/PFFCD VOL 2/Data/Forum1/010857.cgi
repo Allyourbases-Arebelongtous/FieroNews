@@ -1,0 +1,2 @@
+A||||0||ginoferrari||autocross||||1||
+Z||000000||ginoferrari||10-09-2001||09:16 PM||||Does anyone know of any autocross events going on in Las Vegas the last weekend in October. I will be down there and was wondering if I should bring the car.<P>------------------<BR>                   <IMG SRC="http://www.imagestation.com/picture/sraid26/p7613d50e8b0b8d24287a2bbd52de31ce/fe399e88.jpg">                        <BR>84 2M4<BR>84 SE<BR>87 Coupe||||reg||1

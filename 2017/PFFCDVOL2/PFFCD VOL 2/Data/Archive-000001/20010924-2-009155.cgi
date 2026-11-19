@@ -1,0 +1,3 @@
+A||N||1||Fiero_Freak||3.4 Starter Hole Depth||||5||
+Z||000000||Fiero_Freak||03-24-2001||05:47 PM||||I've gotten my hands on a drill guide for the starter holes... but I just needed to know how far I need to go?  Thanks.<P>||||reg||5
+Z||000001||Fierowrecker||03-25-2001||10:01 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Fiero_Freak:<BR><B>I've gotten my hands on a drill guide for the starter holes... but I just needed to know how far I need to go?  Thanks.<P></B><HR></BLOCKQUOTE><P>All the way...<P>Sorry, couldn't resist!!!<BR>So, how far do the bolts stick out from the starter? 3 inch? Then go 3.5 or 4 inch...<BR>Don't forget to use a bottoming tap if the hole is blind...<BR>crash...||||reg||1

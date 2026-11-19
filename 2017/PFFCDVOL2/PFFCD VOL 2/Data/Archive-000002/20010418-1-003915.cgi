@@ -1,0 +1,3 @@
+A||||1||Seanh||Anyone want links on my new website?||||1||
+Z||000000||Seanh||10-07-2000||11:58 PM||||Hey, just thought I would ask. I am building a new website about Fieros and related information. It will mainly be about the stereo system when I get it all done, but I will have other things also. Please post here if you want me to put a link to your website on mine. Also, the address of your website wouldnt hurt either. Thanks<P>------------------<BR>Sean Heberly<BR>Silver 86 GT 2.8<BR>Killer Stereo System||||reg||1
+Z||000001||Seanh||10-07-2000||11:59 PM||||Oops. My bad, just ignore this thread. Post on the other one please.||||reg||1

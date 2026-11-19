@@ -1,0 +1,3 @@
+A||||1||Wolfhound||Down in Alabama||||6||
+Z||000000||Wolfhound||06-16-2000||08:10 AM||||Here is one of my playgrounds. a real treasure of the state of Alabama, a 44,000 acre lake. (Lake Martin)<BR>From the Index page check out the antique Car and boat show from this past weekend. Lots of great photos. For a general view of the lake look over the Memorial Day photos.<BR> <A HREF="http://www.lakemartin.com" TARGET=_blank>www.lakemartin.com</A>  <BR>Coy||||reg||6
+Z||000001||Monkeyman||06-16-2000||10:42 AM||||Been there.  Wish I was there again. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

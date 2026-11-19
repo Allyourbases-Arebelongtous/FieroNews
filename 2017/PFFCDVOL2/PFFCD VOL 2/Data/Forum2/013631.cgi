@@ -1,0 +1,6 @@
+A||||4||Kasdan||Another Motor Question||||1||
+Z||000000||Kasdan||09-13-2001||09:34 AM||||exactly WTH is a quad 4?  is it just a quad cam high output 4 cylender?<P>------------------<BR>Tyler Morgan, 1986 GT<BR> <IMG SRC="http://www.fiero.nl/uploads/Fiero21.jpg">         <BR>Power Steering, Holley Scoop<BR>Aim=FieroDriver1986||||reg||1
+Z||000001||Phil||09-13-2001||09:51 AM||||yep||||reg||1
+Z||000002||Carrolles||09-13-2001||01:44 PM||||Not quite.  It is a four valve per cylinder high output 4 cylinder engine, not a 4 cam engine.||||reg||1
+Z||000003||Kasdan||09-13-2001||04:07 PM||||ok thanks, that questioin has been plagueing me for months<P>------------------<BR>Tyler Morgan, 1986 GT<BR> <IMG SRC="http://www.fiero.nl/uploads/Fiero21.jpg">         <BR>Power Steering, Holley Scoop<BR>Aim=FieroDriver1986||||reg||1
+Z||000004||mrfixit58||09-13-2001||04:10 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Kasdan:<BR><B>ok thanks, that questioin has been plagueing me for months<P></B><HR></BLOCKQUOTE><P>Noone should have the plague. Ask for help sooner next time.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P><BR><P>------------------<BR>Roy  :D <BR>Just another stock Blue 87 GT   <BR>  <IMG SRC="http://www.fiero.nl/uploads/pennocksize.JPG">    <IMG SRC="http://www.fiero.nl/uploads/halfpole.gif"> ||||reg||1

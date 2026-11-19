@@ -1,0 +1,5 @@
+A||||3||Fierowrecker||KP/H Speedo faces?||||5||
+Z||000000||Fierowrecker||05-05-2001||07:50 AM||||Is there a KP/H speedo face available???<BR>I have an 86 that I am looking for a speedo face, and it would be nice to have it in KP/H with or without MP/H markings...<BR>Anyone out there have one by chance???<BR>crash...||||reg||5
+Z||000001||FieroBUZZ||05-05-2001||06:34 PM||||Hey, we all have them up here in Canada!!!<BR>If you just need the face, I can ask at the local speed shop.  I know they have different ones for the Ricers.<P>Gary||||reg||12
+Z||000002||JohnnyK||05-05-2001||07:43 PM||||I have a whole canadian cluster I would love to sell! write here or email me at jkrikorian@home.com||||reg||1
+Z||000003||Jay||05-06-2001||10:57 AM||||I also have a km/h with mph speedo.  Just put in a digital gauge so I don't need the stock one anymore.  If it doesn't work out with JohnnyK email me.<P>1986 Northstar GT <A HREF="http://www.members.home.net/jaygrande" TARGET=_blank>www.members.home.net/jaygrande</A> <BR>Jaygrande@home.com||||reg||1

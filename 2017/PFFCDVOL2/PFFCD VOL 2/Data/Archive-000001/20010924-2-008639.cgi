@@ -1,0 +1,6 @@
+A||||4||Loki||Causes of rpm surge?||||1||
+Z||000000||Loki||02-26-2001||03:49 PM||||My new 86SE has started to surge form idle (about 900 rpms) to about 2200 roms and just go back and forth (up-down-up-down) what couild be some possible causes?<P><P>------------------<BR>Loki<BR>ICQ# 16477998<BR>   <IMG SRC="http://members.home.net/loki137/loki5.jpg">  <BR> <IMG SRC="http://cwm.ragesofsanity.com/s/net4/headshot.gif"> ||||reg||1
+Z||000001||loafer87gt||02-26-2001||05:52 PM||||Are you getting any error codes? It sounds like it could be your Throttle position sensor. Another thing you might want to check is your tach filter, this was causing my GT to stumble last summer.||||reg||1
+Z||000002||Carrolles||02-26-2001||05:56 PM||||9 times out of 10 this is caused by a cracked EGR tube.||||reg||1
+Z||000003||rockcrawl||02-26-2001||07:46 PM||||Or a vacuum leak. Check the juice can for rust through.<p>[This message has been edited by rockcrawl (edited 02-26-2001).]||||reg||1
+Z||000004||Loki||02-26-2001||08:24 PM||||OK something new to add...After about 3-5  minutes of the surging it levels off and runs fine????<P><P>------------------<BR>Loki<BR>ICQ# 16477998<BR>   <IMG SRC="http://members.home.net/loki137/loki5.jpg">  <BR> <IMG SRC="http://cwm.ragesofsanity.com/s/net4/headshot.gif"> ||||reg||1

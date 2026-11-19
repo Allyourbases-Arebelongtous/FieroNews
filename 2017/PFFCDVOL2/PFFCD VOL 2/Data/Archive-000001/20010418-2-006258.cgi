@@ -1,0 +1,2 @@
+A||N||0||Xtreme Fiero's||1FST2M6: Turbo ??? or anybody||||5||
+Z||000000||Xtreme Fiero's||10-16-2000||06:02 PM||||<BR> What Turbo comes with the Design one system. I want to use a TD-06 16g I can get a TD-06 here for a "Good" price new at Extreme Motorsports in Jessup MD. Can I use this turbo with the design one setup? with no mods or can anybody point me in the right direction to finding this out?||||reg||5

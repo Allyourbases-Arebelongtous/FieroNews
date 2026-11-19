@@ -1,0 +1,5 @@
+A||||3||RossT||electric fiero for sale on traderonline||||1||
+Z||000000||RossT||09-12-2000||04:47 AM||||Check this out:  <A HREF="http://www.collectorcartraderonline.com/addetail.html?508467" TARGET=_blank>http://www.collectorcartraderonline.com/addetail.html?508467</A> <P>and I thought people were just joking about moving the "BATTERY" up front!!! <p>[This message has been edited by RossT (edited 09-12-2000).]||||reg||1
+Z||000001||Monkeyman||09-12-2000||05:35 AM||||That car would really suck in the umm...sunny (not)...North West. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||theogre||09-12-2000||12:01 PM||||That car was used in a movie...... I think it was the second austin powers flick but I'm not sure right now.||||reg||1
+Z||000003||KnightRyder31||09-12-2000||04:31 PM||||Some guy let me drive his electric Fiero. It was an 86' SE 5-Speed. They are pretty quick...faster than the GT. Although I could'nt drive it long(battery powered, remember?) it was still fun.||||reg||1

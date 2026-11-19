@@ -1,0 +1,5 @@
+A||||3||84 2in1||Fuel gauge problim||||1||
+Z||000000||84 2in1||06-09-2001||01:29 PM||||What would cause the fuel gauge to show way over full ALL the time?Please help me.-B-||||reg||1
+Z||000001||Fierowrecker||06-10-2001||12:36 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by 84 2in1:<BR><B>What would cause the fuel gauge to show way over full ALL the time?Please help me.-B-</B><HR></BLOCKQUOTE><P>You could have an open ground in the sender resistor...<BR>crash...||||reg||1
+Z||000002||84 2in1||06-10-2001||06:31 PM||||Do you mean in the sender resister that is in the tank?-B-||||reg||1
+Z||000003||CoolBlue87GT||06-18-2001||10:54 PM||||I had this problem, It showed up one day. I turned the key off & on a few times, and it went back to it's normal operation.<P>Not sure what this did, but it's been fine ever since.  Who knows it may come back, but so far so good. <BR> <IMG SRC="http://www.fiero.nl/uploads/CoolBlue87GT.gif">  <BR><p>[This message has been edited by CoolBlue87GT (edited 06-18-2001).]||||reg||6

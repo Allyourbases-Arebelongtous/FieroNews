@@ -1,0 +1,3 @@
+A||||1||js||Where is the cruise control module?||||5||
+Z||000000||js||05-15-2000||08:24 PM||||I am tracing an electrical short, and I think it is between the stalk connector on the steering column and the cruise control module. But I don't know where the cruise conrol module is. Can you tell me where it is?  I have an '86 SE 2m6<P>Thanks in advance, <P>Jeff MIller||||reg||5
+Z||000001||Brian||05-15-2000||08:53 PM||||You should be able to find it on the drivers side of the center "tunnel", just below the <BR>where the center console is located. It's behind the carpet there. You should be able to locate it by feel. It's snapped into a number of clips on the tunnel & it's wiring runs straight forward.<P>Hope that helps,<BR>Brian||||reg||1

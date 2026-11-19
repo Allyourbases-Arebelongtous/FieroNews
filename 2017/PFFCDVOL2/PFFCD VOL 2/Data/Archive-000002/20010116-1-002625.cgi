@@ -1,0 +1,9 @@
+A||||7||GT Bastard||Check out 1FST2M6's new rims.... ||||4||
+Z||000000||GT Bastard||06-20-2000||12:08 PM|||| <A HREF="http://www.tirerack.com/mycar/baseframeset.jsp?model=Fiero+GT&make=Pontiac&year=1987" TARGET=_blank>http://www.tirerack.com/mycar/baseframeset.jsp?model=Fiero+GT&make=Pontiac&year=1987</A> <P>I think they'll look great!||||reg||4
+Z||000001||Oreif||06-20-2000||12:41 PM||||When I clicked on the link all I got was a red 87 coupe with the stock 14" wheels. (??)||||reg||1
+Z||000002||Monkeyman||06-20-2000||12:42 PM||||Nothing personal, but I don't see anything great about stock 14" Tech/Turbo rims.||||reg||1
+Z||000003||lennyb4||06-20-2000||12:49 PM||||That could be one nice site if they just had more wheel options, Allthough the konies K-1 looks real good on the fiero. Heck i might just have to pick a set of them up.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000004||1FST2M6||06-20-2000||01:44 PM||||after the new paint job on august 17th i'll be adorning the new GT with some nice shiney 18s... I'd like a set of Racing Hart C5s, or 5Zidgen but i can't justify $600+each! 2 or 250 each os ok.. like Konig Monsoons. I had a set of 18s for my current car but sold them in march... casue i couldn't afford tires... tires aren't an issure anymore. 18x8 with 45mm offset... ||||reg||1
+Z||000005||GT Bastard||06-20-2000||02:21 PM||||Oh damn... I was hoping it would take you to the link with those nasty "daisy" rims for the new VW beetles... hehe, oh well.  It woulda been funny.||||reg||1
+Z||000006||TheFiero64||06-20-2000||04:17 PM||||Hey, Why don't you like my rims GT bastard?<BR><B>lol</B><BR> <IMG SRC="http://www.fiero.nl/uploads/Fiero_6.jpg"> ||||reg||1
+Z||000007||DaRkLoRD||06-20-2000||05:36 PM||||LOL..<P>I think those aren't too bad, on a Beetle.. any other car? no thanks. hehe..<P>My sister wants a beetle, with those rims.. and cow pattern seat covers.. and a Roadrunner horn (Meep! Meep!)||||reg||1

@@ -1,0 +1,2 @@
+A||||0||SS_304||'fess up: whose Fiero conv't was it?||||1||
+Z||000000||SS_304||10-29-2001||04:23 PM||||Today, while speeding down Roselle road in Inverness, IL, in my CRX HF, a stunning cherry red Fiero convertible roared past, causing me to turn my head at incredible speeds.<P>As I'm sure the owner is a member of this board, fess up, because that Fiero was FRICKING AWESOME.<P>I don't know which year it was, but I recall it having the stock spoiler, and the convertible top was black.||||reg||1

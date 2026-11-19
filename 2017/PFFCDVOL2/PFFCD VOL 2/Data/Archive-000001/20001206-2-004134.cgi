@@ -1,0 +1,2 @@
+A||||0||JohnnyK||If someone has their wheel off, can they tell me this?||||1||
+Z||000000||JohnnyK||06-05-2000||05:10 PM||||On the rear, where the front part of the a-arm attaches to the engine subframe/cradle, could you tell me how far in the hole is (that the bolt goes through) from the edge of the piece? Draw a diagram if possible? Don't want to have to guess and have my alignment all off.. THanks||||reg||1

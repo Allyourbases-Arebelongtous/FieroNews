@@ -1,0 +1,5 @@
+A||||3||85ZainoGT||fiero||||5||
+Z||000000||85ZainoGT||12-16-2001||02:28 PM||||im makin a new screen name on AOL.. I want it to have to do with my fiero.. an 87gt.. what do you think I should make my sn?<P>------------------<BR>Paul Ventimiglia<BR>1987 GT all the options :)<BR>     <IMG SRC="http://www.fiero.nl/uploads/sigpicNEW3bsmall2.gif"> ||||reg||5
+Z||000001||avengador1||12-16-2001||04:06 PM||||87FieroGT. <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1
+Z||000002||85ZainoGT||12-16-2001||04:16 PM||||heh, thats what I was thinkin too..<P>------------------<BR>Paul Ventimiglia<BR>1987 GT all the options :)<BR>      <IMG SRC="http://www.fiero.nl/uploads/sigpicNEW3bsmall2.gif"> ||||reg||1
+Z||000003||GTFiero1||12-16-2001||04:38 PM||||thats probably taken, FieroGT was when i tried it so i made mine GTFiero   try 87GTFiero<P>------------------<BR>Adam J. B.<BR>   <IMG SRC="http://www.fiero.nl/uploads/fiero_3.jpg">   <BR>you gotta keep on keepin on...<BR>IM AOL: GTFiero &  Rumpdetective (dont ask)||||reg||1

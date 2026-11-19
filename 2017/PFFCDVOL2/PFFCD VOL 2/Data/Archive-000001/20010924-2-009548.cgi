@@ -1,0 +1,2 @@
+A||N||0||Jhonny||Wheel hub diameter for hubcentric rings ?||||1||
+Z||000000||Jhonny||04-10-2001||02:48 AM||||Hi,<P>What is the hub diameter when using hubcentric rings for my wheels ?<P>/// Jhonny<P>------------------<BR>Jhonny Sokura<BR>Vadstena, Östergötland Sweden<BR><A HREF="http://www.vadstena.se/turism/engelsk/index.html" TARGET=_blank> Welcome to Vadstena</A><P><A HREF="http://home.swipnet.se/jks/fiero3.jpg" TARGET=_blank> Pontiac Fiero GT -87 , V6 5spd<BR> </A>||||reg||1

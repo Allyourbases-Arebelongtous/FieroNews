@@ -1,0 +1,4 @@
+A||||2||JohnnyK||How do I go about selling my car?||||1||
+Z||000000||JohnnyK||02-03-2001||11:34 AM||||I want to sell it certified, so this is what I was thinking. I am going to take it down there today to see if can get certified (not to actually get it certified). And then, if it doesn't need anything, I'm going to put it up for sale, and when it's sold, I'll certify and get the paper? Does this sound right? I'm paying for certification twice? However, he did say the second time it's only like $25 because it's just a "recheck"?||||reg||1
+Z||000001||killerb15||02-04-2001||02:33 PM||||whatcha' got for sale?||||reg||1
+Z||000002||JohnnyK||02-04-2001||05:42 PM||||85 Fiero SE... 5spd, 4cyl. p/l p/w p/m  Sunroof, A/C (currently not working/disconnected).. Looking for $1700.. (Might be optimistic, but oh well).||||reg||1

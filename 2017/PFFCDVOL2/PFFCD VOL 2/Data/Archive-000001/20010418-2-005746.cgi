@@ -1,0 +1,3 @@
+A||N||1||fropuff||Oil Pressure Port||||1||
+Z||000000||fropuff||09-15-2000||09:10 PM||||Hey, I have a little problem.  I need to find the oil pressure port on my 80 Cutlass.  It's a 231 3.8 Liter V-6.  I'm adding a new oil pressure gauge and water temperature gauge, and I need to find the port to hook it up.  Can someone help?||||reg||1
+Z||000001||StuGood||09-17-2000||06:00 PM||||First place I'd look is near the oil filter.  Well, alright - actually I'd try the top of the front housing first, since it's easier to get to, and you don't have to get dirty.  If I didn't find it there, I'd look near the base of the oil filter.  <P>In general, I'd look for the oil pressure (idiot light) switch, if the car is equipped with an idiot light.        ||||reg||5

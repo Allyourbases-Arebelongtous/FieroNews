@@ -1,0 +1,3 @@
+A||||1||Uaana||Yank converters||||1||
+Z||000000||Uaana||11-28-2000||03:33 AM||||I've seen all the guys on ls1 talking about slapping these into their trannies, now since they also list "f" bodies which means possibly some 3.4's would one of these work on a 2.8? are they only for manuals?<BR>Do they really work?||||reg||1
+Z||000001||afRaceR||11-28-2000||10:18 PM||||Are you talking about a stall convertor?<BR>If so, these are only for automatics.<BR>What kind of motor you have is not that important, it depends on the transmission, there are splines on the trans shaft that have to match. <BR>You should be able to get a higher stall convertor but you really don't need it unless you have some good mods on your engine.||||reg||1

@@ -1,0 +1,2 @@
+A||||0||Loki||Web Site Updated||||1||
+Z||000000||Loki||12-27-2001||12:23 AM||||Well not a big update but I did add a pic of me and also added a file in my sons link thats a video/slideshow set to music.. 36mb but well worth I think   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR> <A HREF="http://www.fieroloki.com" TARGET=_blank>www.fieroloki.com</A> <BR><P>------------------<BR>  <IMG SRC="http://www.fieroloki.com/lokisig1%20copy.jpg">   <BR>"All Fieros broke right now" :(||||reg||1

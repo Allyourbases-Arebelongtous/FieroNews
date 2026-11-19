@@ -1,0 +1,5 @@
+A||||3||Nashco||I'll be gone...as if anybody cared....||||1||
+Z||000000||Nashco||06-06-2001||04:12 AM||||Just in case anybody is looking for me for the next 10 days or so, I'm out of town for business and won't have access to email.<P>Yes, I still want to buy it.<P>Yes, I still want to sell it.<P>I'll get back to my emails by the 18th.<P>Oh, and above all, I'll miss you all!  10 days without the forum, email, internet, ugh...yuck!<P>Bryce<BR>88 GT||||reg||1
+Z||000001||Jaygee79||06-06-2001||08:29 AM||||Have a good time!  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>Jaime<BR>84SE red<BR>AOL IM: Jaygee79<BR><A HREF="http://www.geocities.com/jaygee79/index.html" TARGET=_blank>Jaygee79's Web Page</A><BR>     <IMG SRC="http://www.fiero.nl/uploads/pooheey1.jpg"> ||||reg||1
+Z||000002||Cliff Pennock||06-06-2001||10:12 AM||||See ya in 10 days, Bryce!||||reg||1
+Z||000003||rogergarrison||06-06-2001||01:33 PM||||thats why i got a laptop.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>||||reg||1

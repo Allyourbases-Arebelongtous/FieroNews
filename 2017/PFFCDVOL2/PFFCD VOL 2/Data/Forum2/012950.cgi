@@ -1,0 +1,6 @@
+A||||4||FAXKID||white instament background||||5||
+Z||000000||FAXKID||08-19-2001||10:27 PM||||Does anyone recall where I can download the white gauge incerts?Also are they very<BR>hard to install?||||reg||5
+Z||000001||My7Fieros||08-20-2001||02:09 AM||||Go up top and and go back about a month...AusFiero has some posts about white face guages w/ pics to print if I recall. Sorry, I don't remember the thread title, but you'll know it when you see it. <IMG SRC="http://www.fiero.nl/forum/smiley_brow.gif"> &lt;---I just like that smilie lol.<P>------------------<BR><FONT SIZE="3"><FONT COLOR="red"><B><I>My 7 Fieros</FONT></FONT></B></I>||||reg||1
+Z||000002||MinnGreenGT||08-20-2001||10:44 AM||||Just search the forum (check the top-right corner of your screen) for "white face gauges" and you'll come up with some stuff.<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/grngtsig2.jpg">    <P>Medium Metallic Green 87 GT<BR>3.1L High Output<BR>4 Spd OD Tranny<BR>Open (read: Loud) Exhaust<BR>and More!<BR>-Rob Bartlett||||reg||1
+Z||000003||OcalaFiero||08-20-2001||11:18 AM||||You have mail, I just sent the zip file to you.<P>||||reg||1
+Z||000004||Kasdan||08-20-2001||04:06 PM||||oooo send it to me!  Kasdan@home.com||||reg||1

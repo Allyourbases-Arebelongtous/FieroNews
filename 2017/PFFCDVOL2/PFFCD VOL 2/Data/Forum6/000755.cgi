@@ -1,0 +1,2 @@
+A||||0||BroCar 87||signature stuff...under construction||||4||
+Z||000000||BroCar 87||10-04-2000||07:54 PM||||Just checkin my "make due" signature. It used to say JUST north florida fieros.... now north florida south georgia fieros WHOO HOO!!! I hope its small enough!<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Signature2.jpg"> <BR>87 Coupe "IRON BEAST"<BR>84 SE (project)||||reg||4

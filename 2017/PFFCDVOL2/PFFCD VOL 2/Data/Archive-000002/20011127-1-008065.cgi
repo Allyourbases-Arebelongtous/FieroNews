@@ -1,0 +1,2 @@
+A||||0||DecadenceR||NJ Fieros for sale||||1||
+Z||000000||DecadenceR||06-11-2001||11:34 AM||||I know someone was looking for a GT for sale...<BR>Well if you go to <A HREF="http://www.autpshoppermagazine.com" TARGET=_blank>www.autpshoppermagazine.com</A>  there are 2 GTs for sale in NJ.<BR>Clik the search button at the top of the page, then in the fields State put NJ, make Pontiac, model Fiero. I left all the other fields blank.<BR>Good luck..||||reg||1

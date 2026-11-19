@@ -1,0 +1,2 @@
+A||||0||ds21||LCD module's on sale||||1||
+Z||000000||ds21||11-08-2001||02:05 PM||||For those of you intrested in puting a LCD for a "Play Station" GPS MP3 or other such things in your Fiero, <A HREF="http://www.partsexpress.com" TARGET=_blank>www.partsexpress.com</A>  has LCD's on sale right now! Just ordered a 5.6" for my MP3 blah blah blah... computer sys. (PRICES $84.38 for a 4"  $119.55 for a 5" and $138.50 for a 5.6") Good for winter Project!||||reg||1

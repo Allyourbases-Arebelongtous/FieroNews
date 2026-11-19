@@ -1,0 +1,8 @@
+A||||6||KEV||Digital Dash for sale $250!!! not a joke!||||1||
+Z||000000||KEV||04-26-2001||01:05 PM||||hi all i really need to sell this dash, its made by Dakota Digital, they make many hot rod dashes, it works great i changed my mind after i installed it, and went back to the stock gauges. <P>------------------<BR>BLACK85GT 3800V6 2"DROP&DIGITAL GAUGES||||reg||1
+Z||000001||LAMBO||04-26-2001||01:11 PM||||Damn, you're going to have to change your sig now. <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||12
+Z||000002||gabriel||04-26-2001||01:29 PM||||Pics??||||reg||1
+Z||000003||elfiero||04-26-2001||02:00 PM||||actually,it does'nt work all that great,does<BR>it KEV?remember we just could'nt make it<BR>work right with the signal from the 3800ECM.<BR>just thought these fine folks should have<BR>ALL the facts!||||reg||6
+Z||000004||KEV||04-26-2001||04:19 PM||||Well the fact is yes it does work great on the stock set-up,until we did my swap to a 3800 it didn't work becuase it needed a reducer. Well you couldn't make it work and you didn't wire it from the right connector. ||||reg||1
+Z||000005||rogergarrison||04-26-2001||04:46 PM||||is this setup a plug in replacement for stock instruments? What gages does it have, how high is speedo and tach? can you email me a pic of all of it?||||reg||1
+Z||000006||KEV||04-26-2001||05:02 PM||||sorry i don't have scanner but if your really intrestred i can mail you them, the gauges take about a 1.5 hours to install and the speedo goes to 200 and the tach to 8500 rpm it will work on 4,6,8 cyl by changing a switch on the brain box, have complete instructions also.||||reg||1

@@ -1,0 +1,6 @@
+A||||4||walsh2001||Headliner woes!!!||||11||
+Z||000000||walsh2001||04-17-2001||11:44 AM||||My 84 Fiero does not have a headliner  <IMG SRC="http://www.fiero.nl/forum/frown.gif">. Are they easy to remove and install? How would I go about doing it? thanks||||reg||11
+Z||000001||fierojunky||04-17-2001||11:54 AM||||go to <A HREF="http://www.surf.to/FIERO_OSG" TARGET=_blank>http://www.surf.to/FIERO_OSG</A>  and click on interior - headliner removal.||||reg||1
+Z||000002||skitime||04-17-2001||11:58 AM||||They are fairly easy to remove and install. Remove sunvisors, remove trim along doors, remove panel beside seat that house rear speaker. (Good time to replace speakers) Drop headliner unless you have sunroof. If you have a sunroof pull off rubber trim from inside sunroof and pull material free from sunroof. Install in reverse. <P>Good luck and have fun||||reg||1
+Z||000003||DXR_DAD||04-17-2001||12:00 PM||||Here's some info:<BR> <A HREF="http://www.fiero.nl/forum/Forum2/HTML/005937.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/005937.html</A> <P><BR>DXR_DAD||||reg||12
+Z||000004||Oreif||04-17-2001||12:15 PM||||Here's the thread with pics included!<BR> <A HREF="http://www.fiero.nl/forum/Forum1/HTML/006609.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/006609.html</A> <BR>||||reg||1

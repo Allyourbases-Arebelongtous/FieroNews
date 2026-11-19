@@ -1,0 +1,6 @@
+A||||4||tpeerson||Indy Snorkel Scoop w/ strobes on ebay. Ends 8/25/01||||1||
+Z||000000||tpeerson||08-18-2001||08:31 PM||||Got an 84 Indy Fiero style snorkel scoop with strobe lights on ebay.<BR>See <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=594464839" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=594464839</A> <BR>.<P>The auction ends Aug-25-01 16:29:35 PDT.<P>Thanks!<BR><P>------------------<BR>Tim Peerson<BR>87 V8 Testarossa rebody in progress<BR>http://www.MoreThanMeetsTheEye.com/vroom||||reg||1
+Z||000001||mrfixit58||08-19-2001||12:44 PM||||$600 and it still has six days left! Too rich for me!<P><P>------------------<BR>Roy :D<BR>87 GT   <IMG SRC="http://www.fiero.nl/uploads/pennocksize.JPG"> ||||reg||11
+Z||000002||cadaver||08-20-2001||12:02 AM||||Maybe I need to get some strobe and put them in my snorkel and sell it<BR>||||reg||1
+Z||000003||firstfiero||08-20-2001||09:21 AM||||I want it.....I can't afford it right now...but I want it!!<P>------------------<BR><BR>   <IMG SRC="http://www.fiero.nl/uploads/firstfiero.gif"> ||||reg||14
+Z||000004||firstfiero||08-20-2001||09:21 AM||||I want it.....I can't afford it right now...but I want it!!<P>------------------<BR><BR>   <IMG SRC="http://www.fiero.nl/uploads/firstfiero.gif"> ||||reg||14

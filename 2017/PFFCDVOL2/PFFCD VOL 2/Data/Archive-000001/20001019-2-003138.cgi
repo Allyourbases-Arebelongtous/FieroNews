@@ -1,0 +1,2 @@
+A||||0||sully5||alternator||||5||
+Z||000000||sully5||04-11-2000||06:07 PM||||Finally got the old alt bracket out of the car, now just waiting on the new one. In the mean time, should I pull the alternator out and do anything to it? It was working fine before the car went into the garage this time. Not sure of the age on it, but IF it is original, it has 141K on it.TIA for any help. sully||||reg||5

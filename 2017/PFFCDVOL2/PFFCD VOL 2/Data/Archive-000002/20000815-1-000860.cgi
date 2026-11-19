@@ -1,0 +1,15 @@
+A||||13||Patrick||Is "666" significant?||||4||
+Z||000000||Patrick||12-30-1999||03:43 PM||||<BR>I've just noticed as <B>1999</B> is about to end that this forum has registered member number <B>666</B>.<P>Coincidence, you say...||||reg||4
+Z||000002||WKDFIRO||12-30-1999||03:54 PM||||So you are saying that you didn't know that the Fiero is the Official Pace Car of the Apocolypse? As well as the "company" car for Hellan Brimstone Corporation? <P>You are not well informed....||||reg||6
+Z||000003||DaRkLoRD||12-30-1999||04:04 PM||||haha  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000004||Phil||12-30-1999||05:20 PM||||One of our cars has the registration number PR666||||reg||1
+Z||000005||Monkeyman||12-30-1999||07:46 PM||||It's the devils number.||||reg||1
+Z||000006||BENGAL4||12-30-1999||08:46 PM||||I have a friend who's house number was 666. Also, he is a pastor of a large charismatic church. He would just laugh and say it didn't bother him, but it bothered his wife and they ended up moving. ||||reg||1
+Z||000007||DaRkLoRD||12-31-1999||01:52 AM||||I remember the first time I heard the real story behind this number.. I'm not gonna bother to try to explain, as I'm sure I'll mess it up.. but it's somehow related to the name of a roman emperor who was against christianity.. this got twisted around and the meaning was changed over time, and now.. well. I think Monkeyman summed it up nicely. hehe..<P>I'm not meaning to offend anyone, I just find it humorous how so many people just attach a certain meaning to a number without knowing how that number became significant.||||reg||1
+Z||000008||Patrick||12-31-1999||02:46 AM||||<BR>Identify yourself, Satan!!!<P>What name have you chosen to use at this forum O Evil One?<P>And the most important question...<P><B>What year and model is your favorite Fiero?</B>||||reg||4
+Z||000009||cobra427||12-31-1999||03:02 AM||||hey ,would anyone care to know the biblical understanding of the # 666 and why it was used? would be happy to try and explain...||||reg||1
+Z||000010||Phaeton||12-31-1999||03:32 AM||||Need to get a different site to get into the details of why codes were needed by early christians and why satan drives a light green 86.||||reg||1
+Z||000011||fierospeeder||12-31-1999||03:55 AM||||At the end of the movie "omen" theres some bible quote that says the beast will be awaken wearing the number 666.  What is damien doing today?  I still got 3 more movies to watch, seen the first 2.||||reg||1
+Z||000012||dogtired||12-31-1999||04:04 AM||||Buy 4 Fiero's   <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>The Devil Made me Do IT!||||reg||6
+Z||000013||superXmotorsports||12-31-1999||05:10 PM||||I remember from church the pastor saying "the anti-christ will come to you as Fiero Forum member 666"  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  How do you know what # you are?  Happy New Year everyone!||||reg||2
+Z||000014||Gokart||12-31-1999||06:46 PM||||Well, at least were at 6"69" now. UH OO. That ain't too religous either! But it's alot more fun than any ol'devil can provide!<p>[This message has been edited by Gokart (edited 12-31-1999).]||||reg||10

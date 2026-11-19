@@ -1,0 +1,8 @@
+A||||6||Cooter||Happy "birthday" to. . . ||||1||
+Z||000000||Cooter||06-17-2000||08:57 PM||||ME!!!!! I have been here for one whole year and 998 posted messages. Where is the cake? Monkeyman is bringing the drinks and Batboy is bringing the women! Should be a great party. Now, I wonder who is going to jump out of that big cake?????||||reg||1
+Z||000001||Cliff Pennock||06-17-2000||09:26 PM||||<B>Tah-daaaaah</B>!<P>Oh - were you expecting some cute girl???<P>Happy Birthday, Cooter!||||reg||7
+Z||000002||Cliff Pennock||06-17-2000||09:27 PM||||Happy "<B>Forum</B>-Birthday" that is.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||SCCA FIERO||06-17-2000||09:29 PM||||Happy B-day Cooter!<P>If you haven't found somebody to jump out of the cake, I could dust off my Speedos  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000004||SCCA FIERO||06-17-2000||09:30 PM||||Actually I knew your Forum B-day was coming. Did you get the 5 bucks I sent for your present?<p>[This message has been edited by SCCA FIERO (edited 06-17-2000).]||||reg||1
+Z||000005||Cooter||06-17-2000||09:36 PM||||LOL- My wife opened the box and took the cash. At least she told me about it! Thanks for the rebate on the shifter, I was not expecting that. ||||reg||1
+Z||000006||tgowens||06-18-2000||12:11 AM||||Happy B'day Cooter -- as for jumping out of a cake -- were you aware that there is a porn star named "Fiero" - I keep getting listings of her movies when I do a search for "Fiero" on eBay............<P>anyway -- congratulations on surviving on here for a year without going insane (you <I>are</I> sane, aren't ya??||||reg||1

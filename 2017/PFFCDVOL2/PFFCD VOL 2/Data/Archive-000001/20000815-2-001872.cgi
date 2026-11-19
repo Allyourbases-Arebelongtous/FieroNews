@@ -1,0 +1,5 @@
+A||N||3||TRL46202||EGR Tube||||1||
+Z||000000||TRL46202||01-04-2000||01:20 PM||||Where can I get a new or used EGR tube? I have an 87GT 2.8||||reg||1
+Z||000001||cobra427||01-05-2000||01:12 AM||||Try IRM ...International Research Motorssports out of Rockville MD.  Tele# 301-948-3301. They have no e=mail or web site. The cost is $90.00 plus s/h. Worth every bit of it too.Never have to replace again.Forget FOCOA. You'll be an old man before you get it.(they also carry a similar one as the IRM). You could also try Kick Hill Farms. They have a lot of used parts.B Parker is a good guy to deal with as well. Tele# 860-642-4362. He does have a web site.http://www.kickhill.com     or maybe someone here has one for sale as well...||||reg||1
+Z||000002||TOM||01-05-2000||12:03 PM||||I have a good used one. Never been cracked. You will have to use your blanket. $25||||reg||1
+Z||000003||David Gamache||01-05-2000||10:45 PM||||I have a stock pile of these just in case. If you need one the price the other gentleman quoted is quite fair considering how much the dealed quotes. 25.00$||||reg||1

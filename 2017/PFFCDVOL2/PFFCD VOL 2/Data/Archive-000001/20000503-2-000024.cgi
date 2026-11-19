@@ -1,0 +1,3 @@
+A||||1||raceknb||Clutch problems.
+Z||000000||raceknb||03-21-99||02:48 PM||||I have an 86 GT and 4 weeks ago, I had a new clutch put in.  Now  today, the clutch went away.  It was an "all of the sudden" type thing.  Felt like the pressure just went away on it.  The pedal has been getting softer the past week, and then today...GONE<br>Any suggestions???  The clutch master ahs fluid in it.  so its not a lack of fluid problem.  
+Z||000001||theogre||03-30-99||06:04 PM||||yup. sounds like the clutch diaphram quit. probably some rebuilt thing that didn't get a new diaphram put in it.<p>make the shop fix it under waranty, if they won't sue them in small claims court. no way a clutch goes dead like that unless some one hosed up the job, or you got a lame part.

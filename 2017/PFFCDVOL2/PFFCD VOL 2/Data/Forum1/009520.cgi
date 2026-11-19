@@ -1,0 +1,4 @@
+A||||2||fieronv||Postcard for Beverly Hills||||7||
+Z||000000||fieronv||08-15-2001||02:06 AM||||A member of our club just returned from Beverly Hills and found this postcard in the hotel lobby and bought a couple. I thought it was a great shot and makes me want to visit this classy hotel!!!<BR> <IMG SRC="http://www.fiero.nl/uploads/Postcard_WEB.jpg"> <P>------------------<BR>85GT (twoloud)||||reg||7
+Z||000001||Boomtastic||08-15-2001||09:27 AM||||Very cool indeed!<P>------------------<BR>Boomtastic<BR>  <IMG SRC="http://www.fiero.nl/uploads/mirror_md_clr.gif"> ||||reg||14
+Z||000002||fierohoho||08-15-2001||09:43 AM||||Boomtastic that is the coolest sig pic I've seen so far <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>'84 SE 2.5l<BR>'85 Coupe 2.5l now getting a 3800<BR>'86 SE 2.5l||||reg||1

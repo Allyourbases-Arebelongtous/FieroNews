@@ -1,0 +1,2 @@
+A||||0||fierodave||Recall help for you||||2||
+Z||000000||fierodave||08-29-2001||11:53 PM||||<BR>The only info you need is this photo for this recall on the V-6 Fiero.  <P> <IMG SRC="http://albums.photopoint.com/j/View?u=101570&a=13695445&p=53547543&Sequence=3&res=high"> <P>This one took me about 2 minutes to get linned up at the dealer yesterday on a 88 GT  It is my 7th car to have recall work done at the dealer (FREE) Read  the date and the recall number!<BR>So you can now go armed to your dealer with this photo of the invoice for this recall<P>FD||||reg||2

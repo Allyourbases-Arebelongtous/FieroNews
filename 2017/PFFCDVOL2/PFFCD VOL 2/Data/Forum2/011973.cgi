@@ -1,0 +1,4 @@
+A||N||2||new fiero||Vista Vent install||||5||
+Z||000000||new fiero||07-11-2001||08:53 AM||||How hard is it to install a vista vent into a fiero that does not have one?  Fount one at the Salvage yard glass, wind deflector and all!!  Also picked up a dash that has one small crack by the driver side speaker for $19.00...looks great!<P>------------------<BR>newfiero<BR>(swapping 88 L4 to 86 and having fun!)<BR>Yahoo! Messenger id: newfiero||||reg||5
+Z||000001||mbramble||07-11-2001||09:04 AM||||Here is a good how-to for doing the job.  <BR> <A HREF="http://www.cyberverse.com/~cyco/fieroparts/tips/sunroof.htm" TARGET=_blank>http://www.cyberverse.com/~cyco/fieroparts/tips/sunroof.htm</A> ||||reg||1
+Z||000002||new fiero||07-11-2001||09:09 AM||||Thanks mbramble I'll check it out!<BR><P>------------------<BR>newfiero<BR>(swapping 88 L4 to 86 and having fun!)<BR>Yahoo! Messenger id: newfiero||||reg||1

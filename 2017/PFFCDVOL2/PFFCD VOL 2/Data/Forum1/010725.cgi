@@ -1,0 +1,4 @@
+A||||2||BUCK WILLIAMS||CAR SHOW AT WARNER ROBBINS GA||||6||
+Z||000000||BUCK WILLIAMS||10-04-2001||01:55 PM||||DOES ANYONE HAVE ANY INFO ON THE CAR SHOW AT WARNER ROBBINS GEORGIA? I THINK IT IS SUPPOSED TO BE OCT 13TH AND 14TH. WILL THERE BE ANY FIEROS THERE? IF YOU ARE GOING WITH YOUR CAR LET ME KNOW. I LIVE ABOUT 100 MILES AWAY AND LIKE TO MEET OTHER OWNERS.||||reg||6
+Z||000001||1FST2M6||10-04-2001||04:03 PM||||humm...  got directions and pricing for entry? i might be game for that... <P>------------------<BR>0-60 in 4.91||||reg||1
+Z||000002||Ronnie||10-04-2001||04:44 PM||||Hey Buck , Travis, Go to the Ga. Fieros site in the message board, there's a thread there. But , here's the addy<BR> <A HREF="http://www.museumofaviation.org" TARGET=_blank>http://www.museumofaviation.org</A> ||||reg||6

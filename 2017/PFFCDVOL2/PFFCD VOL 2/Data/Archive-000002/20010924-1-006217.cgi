@@ -1,0 +1,7 @@
+A||N||5||Adam Draper||anyone selling back wrap around spoiler?||||5||
+Z||000000||Adam Draper||03-14-2001||10:08 PM||||       I'm looking for a wrape around spoiler to put in my "84" fiero so I can finish painting it. Also a front one to.<P>Email king200084118@yahoo.com<P>ps. Include prices!!||||reg||5
+Z||000001||c m west||03-14-2001||10:10 PM||||try Phil at FOCOA||||reg||1
+Z||000002||Cheever2||03-14-2001||10:25 PM|||| <A HREF="http://www.geocities.com/fieromaster/quickcat.html" TARGET=_blank>http://www.geocities.com/fieromaster/quickcat.html</A> <P>See page 6.<BR>For the front, see page 5.<P><p>[This message has been edited by Cheever2 (edited 03-14-2001).]||||reg||1
+Z||000003||DaRkLoRD||03-14-2001||11:38 PM|||| <A HREF="http://www.thefieroshop.com" TARGET=_blank>http://www.thefieroshop.com</A> <P>Race-Tech has it for $300 CDN I think<P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||3
+Z||000004||deceler8||03-15-2001||09:29 AM||||Try a spoiler from a '87-94 Dodge Shadow or Plymouth Sundance. I understand it's a pretty good fit and probably cheaper.||||reg||1
+Z||000005||Adam Draper||03-17-2001||12:25 AM||||       ha  theres the rube I will finally finish painting my baby. If I was to put a indy scoop on my car will it change my heating vent operiation.||||reg||6

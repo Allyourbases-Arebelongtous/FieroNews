@@ -1,0 +1,2 @@
+A||N||0||count_iblis||New 2.8 needed or maybe not?||||1||
+Z||000000||count_iblis||11-10-2000||04:43 PM||||I have been told that I need a new 2.8 for my GT.  Now my question is this, they said that it is the bottom end of the motor, now I have heard that you can transform a 2.8 to a 3.1?  If i bought this kit, but it work and will the car be drivable again?  Anyone have any info on this kit or where i can get one for real cheap?<P><BR>chris||||reg||1

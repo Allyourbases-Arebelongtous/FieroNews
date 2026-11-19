@@ -1,0 +1,2 @@
+A||||0||Shaun41178||GMforums.com Rules!||||1||
+Z||000000||Shaun41178||12-26-2001||10:05 PM||||Went over there today after much procrastination.  Tons of usefull info about our engines(sorry iron pukes)  I suggest you guys check it out.  Good info about modding all V6 60 degree engines and computer stuff.  Pretty much everything.  <P>------------------<BR>SOLD 85 GT w/ nitrous.<BR>Looking for another.<BR>FOR SALE: Aluminum v6 block.<BR>Shaun41178@hotmail.com<BR>PORN FOREVER!||||reg||1

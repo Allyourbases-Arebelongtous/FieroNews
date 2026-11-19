@@ -1,0 +1,5 @@
+A||N||3||warkior||MAX'ed out oil pressure||||4||
+Z||000000||warkior||03-23-2001||09:22 PM||||Hey, I just got a Fiero and have found that the oil pressure guage max's out every time I drive it.  When the engine is on, the gauge is all the way to the other side.  I've heard that this is somewhat common.  Any suggestions?||||reg||4
+Z||000001||GoCartGuy||03-23-2001||09:26 PM||||Mine does the same thing, I see everyone posting about low pressure, but when the car warms up it slides right off the scale.  Never had a problem with it though.<P>------------------<BR>'85 GT "The GoCart"||||reg||1
+Z||000002||Fierowrecker||03-23-2001||11:13 PM||||Get a mechanical gage hooked up and see what is going on...||||reg||1
+Z||000003||voyagerspe||03-23-2001||11:17 PM||||hi<BR>You probably have a high volume oil pump or a sending unit thats failing.  You need to put a mechanical gauge on to make sure you dont have a problem.  If you still have high pressure with the mechanical gauge you definately have the high voulume oil pump.  Make sure you keep your engine full of oil because if you dont that pump can suck your pan dry.||||reg||1

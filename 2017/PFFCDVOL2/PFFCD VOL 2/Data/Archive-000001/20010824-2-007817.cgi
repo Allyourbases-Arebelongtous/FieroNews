@@ -1,0 +1,5 @@
+A||||3||Smokin87||fiero value?||||3||
+Z||000000||Smokin87||01-13-2001||08:54 PM||||well, ive finally finished my project. and now it is time to sell it for a better one.  I have an 87 GT.  60,000 original miles. garage kept. auto, sunroof, all options for that year. Cherry car.  how much do you think this would go for on the market?<BR>i love it, but i want a manual transmission.  i got this one from my uncle at a deal i couldnt refuse.||||reg||3
+Z||000001||Old Lar||01-13-2001||10:01 PM|||| <A HREF="http://www.fiero.net" TARGET=_blank>http://www.fiero.net</A> ||||reg||1
+Z||000002||Joe4x4||01-14-2001||10:52 AM||||Hmmmmm.......how about a pic, Shamong township....OHHHHH NOOOO that`s where I cracked up on my street bike.( CBR900RR )<BR>Not yo far from your welcome to the site.<P>------------------<BR>Fiero got fire<BR>  <IMG SRC="http://www.fiero.nl/uploads/exp.gif">        <IMG SRC="http://www.fiero.nl/uploads/animated_cat.gif"> ||||reg||6
+Z||000003||maninblack||01-14-2001||02:04 PM||||if it is in such a good condition i suggest you keep it and do an tranny swap||||reg||1

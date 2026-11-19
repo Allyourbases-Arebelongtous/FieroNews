@@ -1,0 +1,2 @@
+A||||0||Standard||Score!!||||14||
+Z||000000||Standard||06-14-2000||02:02 AM||||After I got my GT I had been getting pretty bad gas mileage, around 10-12 mpg.  Now, after 4 months and replacing some things, I'm averaging a steady 20 mpg!  woohoo!  Well, my driving habits have settled down a little, too, now that I'm used to the v6.. but I'd say it's pretty good for an engine with 146,500 miles on it!||||reg||14

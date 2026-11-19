@@ -1,0 +1,6 @@
+A||||4||BOILERMAKER||Technical book for Getrag Transmission||||5||
+Z||000000||BOILERMAKER||11-25-2001||12:17 PM||||Does anybody know where I can pick up a technical manual or service manual for the Getrag Transmission.  I have the service manual for the car, but it doesn't go into very good internal detail.  What I need is an internal service manual for the Transmission itself.<P>Anybody know where I can go to get one?||||reg||5
+Z||000001||avengador1||11-25-2001||12:18 PM||||Try Rodney Dickman, I think he'll be able to help.||||reg||1
+Z||000002||FormulaJoe||11-25-2001||12:34 PM||||Are you looking at the factory service manual?  They have a  teardown and rebuild of the trans (in my '88 manual anyway).  Might try the public library, they have Motor and  Helms (I think, I forget) manuals you can photocopy.<P>------------------<BR>Yellow Formula<BR>(soon to be 3.4 DOHC)||||reg||6
+Z||000003||fiero56||11-25-2001||12:51 PM||||As was mentioned, '88 factory service manual has tear-down rebuild info. Just a note, '88 is the only year factory manual with the tranny info. Rodney sells copies of that info, or did?||||reg||1
+Z||000004||BOILERMAKER||11-25-2001||02:27 PM||||Thanks guys, I just placed my order with Rodney.||||reg||1

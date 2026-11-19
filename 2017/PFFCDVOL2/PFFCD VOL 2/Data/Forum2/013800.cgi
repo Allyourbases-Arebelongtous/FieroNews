@@ -1,0 +1,4 @@
+A||||2||Santa Cruzer||Power lock's not working?||||1||
+Z||000000||Santa Cruzer||09-20-2001||12:13 PM||||everytime i try to use the power lock function i hit the buttuon and it makes a clicking sound but dosen't do anything all i can hear is click click click  can anyone tell me how to fix this?<P>------------------<BR>BlOw bIg cHuNkS oF aMeRiCaN v6 YoU rIcE CrApEr'S! <A HREF="http://www.geocities.com/fierose_1986/se.html" TARGET=_blank>www.geocities.com/fierose_1986/se.html</A>||||reg||1
+Z||000001||k2m4||09-20-2001||01:08 PM||||Take your door apart (from the inside) near the center of the door you will see the actuater for the lock. Lube the crap out of it with WD-40 while exercising the lock. My GT had the same problem, and that took care of it. Oh yeah take some while grease and lube the lock slider and that should take care of the problem<BR>k||||reg||2
+Z||000002||Santa Cruzer||09-20-2001||01:15 PM||||thanks dude ill go try that out now..!||||reg||7

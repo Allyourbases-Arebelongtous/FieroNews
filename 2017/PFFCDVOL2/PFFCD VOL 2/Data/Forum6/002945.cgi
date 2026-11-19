@@ -1,0 +1,2 @@
+A||||0||Leadfoot||Eagle summit manual||||1||
+Z||000000||Leadfoot||08-13-2001||12:01 PM||||Anyone know where I can find one.  I was looking for a hanyes or chilton manual (cause they're cheap) and it seems like none exist for and eagle summit.  I need it to diagnose my friend's car.  I am looking for something around $20.....which is about the value of the car.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> ||||reg||1

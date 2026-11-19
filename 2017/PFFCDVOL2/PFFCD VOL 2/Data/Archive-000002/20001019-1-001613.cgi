@@ -1,0 +1,4 @@
+A||||2||Brian84SE||I'm soooooo happy...||||6||
+Z||000000||Brian84SE||03-22-2000||08:19 PM||||After replacing the headlight switch, 1 headlight relay, and rebuilding both headlight motors, I finally have headlights that go up and down!! <BR>Life is good, life is very good.<P>Happiness is owning an 84.||||reg||6
+Z||000001||Monkeyman||03-22-2000||09:59 PM||||Or, "The future's so bright..."||||reg||1
+Z||000002||ChadMan||03-23-2000||08:06 AM||||You know what's really cool about owning an 84?  So many of them were loaded with air, premium stereo and all the power goodies.  So many of the later Coupes (like my 88) were strippers.<P>The other cool thing about owning an 84 is spanking everybody's a$$ to 25 mph (if you've got the 4-speed/4.10, that is).  Of course, when you shift to 2nd, the race is over!||||reg||1

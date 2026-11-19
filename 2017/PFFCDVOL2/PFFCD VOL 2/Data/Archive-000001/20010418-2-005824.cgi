@@ -1,0 +1,4 @@
+A||||2||henrik||Supercharger om a Fiero? Anyone?||||10||
+Z||000000||henrik||09-20-2000||02:40 PM||||Does anybody know something about superchargers? Possible to install one on a Fiero? Anybody who have tried that? Results?<P>I have a v6 which is rebuilt with a performance kit from Fiero Store(crane cam, trw pistons etc + ads superchip, free-flow type headers and a performance exhaust system). Would it be possible to install a supercharger on this engine and what model/size/make would be appropriate? What needs to be modified?<P>/ Henrik  ||||reg||10
+Z||000001||Cliff Pennock||09-20-2000||02:57 PM||||Hi Henrik,<P>There are a lot of threads about super/turbocharging the Fiero. You can do a search if you like by clicking on "search" on the top of the page.||||reg||1
+Z||000002||maninblack||09-20-2000||03:00 PM||||try this site <A HREF="http://webhome.idirect.com/~rsm1/" TARGET=_blank>http://webhome.idirect.com/~rsm1/</A> ||||reg||1

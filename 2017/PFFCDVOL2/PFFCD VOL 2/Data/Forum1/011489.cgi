@@ -1,0 +1,6 @@
+A||||4||gtsonly||Sig test let me know what you think||||1||
+Z||000000||gtsonly||11-02-2001||03:34 PM||||I am in the coast guard and this is my new sig thanks to jay!!!!  viva la coast guard<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/myfiero001_copy_1.jpg"> ||||reg||1
+Z||000001||Indyrestoguy_JR||11-02-2001||03:35 PM||||Nicely Done. Looks good!<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/imsa4.jpg"> <BR>85 IMSA<P>Do or Do Not, there is no Try.||||reg||1
+Z||000002||avengador1||11-02-2001||05:12 PM||||Looks real cool Jay made one for me too.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1
+Z||000003||88CoupeV6||11-02-2001||09:50 PM||||Looks Great Chris.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>Josh<BR>   <IMG SRC="http://www.fiero.nl/uploads/88coupeV6.jpg">       <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>    <A HREF="http://www.fieropride.com/nefa.htm" TARGET=_blank>Join New England Fiero Association</A>||||reg||7
+Z||000004||Darren's 87 coupe||11-02-2001||11:20 PM||||very nice man, Jay gave me one too.  Mind if I try it out? <IMG SRC="http://www.fiero.nl/uploads/blueman_copy_4.jpg"> <P><BR>------------------<BR><p>[This message has been edited by Darren's 87 coupe (edited 11-02-2001).]||||reg||1

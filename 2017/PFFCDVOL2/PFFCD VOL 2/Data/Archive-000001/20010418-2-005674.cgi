@@ -1,0 +1,3 @@
+A||||1||gtsonly||ac delco theftlock||||5||
+Z||000000||gtsonly||09-12-2000||06:37 AM||||anybody got any ideas or sites to go to to find generic codes to re-program ac delco radios with theftlock? dealership wants 30+ dollars to do it, seems alot of cash to just hit a few numbers!!!<P>------------------<BR>Chris Hatch <BR>1986 GT w/T-TOPS<BR>http://www.fiero.nl/cgi-bin/fiero/ubbmisc.cgi||||reg||5
+Z||000001||mrfixit58||09-12-2000||07:36 AM|||| <A HREF="http://www.newellelectronics.com/" TARGET=_blank>http://www.newellelectronics.com/</A> <P>Roy  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||14

@@ -1,0 +1,3 @@
+A||||1||Gokart||Action Jackson||||13||
+Z||000000||Gokart||02-16-2000||07:34 PM||||With all the hype at e-bay for those quarter panels I figured I'd rent the movie to check out the Fiero because I didn't remember it. I probably didn't remember it because I stopped the movie half way through! IT SUCKED! Take my advice, if you rent this movie to see the Fiero, fast forward all the way to the last 5 minutes! They should've called it "Slacktion Jackson"!||||reg||13
+Z||000001||Raydar||02-17-2000||01:11 AM||||At a company where I used to work, we had a female "sales weasel" that we called Action Jackson. For entirely different reasons.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>Of course, she *was* the top sales person in the building. ||||reg||1

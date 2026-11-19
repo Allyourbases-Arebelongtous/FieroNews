@@ -1,0 +1,7 @@
+A||N||5||Seanh||Steering Columns?||||1||
+Z||000000||Seanh||08-03-2001||10:34 AM||||So will steering columns from other GM cars around the same year work on my 86GT Automatic, tilt, delay? I need a damn column, but the only one I can find locally is $125 and thats too freakin' much for me. Which ones will fit? Anyone have one they wanna sell me, please email me. Thanks!||||reg||1
+Z||000001||PBJ||08-03-2001||11:18 AM||||why can't you fix your column-we are good for repair advice.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||Seanh||08-03-2001||11:22 AM||||Because the problem is within the black upper caseing, and I don't feel like completly disassembling this thing, especially with tilt. I find it would probally be easier to buy another one. Unless anyone has an exact procedure on removing the case from it to repair it, I don't wanna try.||||reg||1
+Z||000003||Seanh||08-03-2001||11:28 AM||||Also, I'v been looking on ebay and seen a few auctions that say their column if from a manual tranny car, but will work with an automatic. Is that true? If so I can get a manual one alot cheaper. <BR>||||reg||1
+Z||000004||84Bill||08-03-2001||12:24 PM||||I have a tilt column if you want it, 40 bucks + ship about 10 bucks or less.||||reg||14
+Z||000005||Seanh||08-03-2001||12:28 PM||||If thats for an automatic, I'll take it. I'll email you about it also, so we can arranage payment. Thanks Man!||||reg||1

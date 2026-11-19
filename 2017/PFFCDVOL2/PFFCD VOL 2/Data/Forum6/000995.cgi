@@ -1,0 +1,6 @@
+A||N||4||stimpy||Begging for a little help...||||1||
+Z||000000||stimpy||11-26-2000||10:18 PM||||I need some help from a computer guy.  I have been trying to get some pics scanned and emailed to me for... well, a very long time. Finally got it done and behold it was sent as a Zip file, which WebTV cannot digest.  Could someone break it down for me if I forward it and send back to me as individual jpegs?  I would be most gratified.  <BR><P>------------------<BR>Loud Pipes Save Lives!      <IMG SRC="http://www.fiero.nl/uploads/stimpy_sig.gif"> ||||reg||1
+Z||000001||Oreif||11-26-2000||10:55 PM||||I can do it. Email them to me and I can unzip them and send them as .jpg's. Is there any size you would like them? I can make bigger or smaller.<BR>Email at: se1986@home.com<BR>||||reg||1
+Z||000002||Oreif||11-26-2000||11:18 PM||||Got them, Already sent them to you.||||reg||12
+Z||000003||stimpy||11-26-2000||11:30 PM||||Yep, got em. Thanks much. ||||reg||1
+Z||000004||stimpy||11-27-2000||12:05 AM||||Well, either photopoint doesn't like to receive them as being attached files (as opposed to viewable images) or it's just very busy tonight and the queue is too long, as it hasn't responded yet. Hopefully we'll get this sorted out!||||reg||1

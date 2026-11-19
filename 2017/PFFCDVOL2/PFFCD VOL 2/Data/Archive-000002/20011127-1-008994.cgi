@@ -1,0 +1,3 @@
+A||||1||DrRodey||Any Interest in restarting A Colorado Club??||||1||
+Z||000000||DrRodey||07-23-2001||01:16 PM||||I know it's been done before with minimal success, however If i could get three or four others to help out and enough other support I'd like to give it a go.  Any interested parties please E-mail me.<P>Dan.<P>------------------<BR>Hi... My names Dan, and i'm addicted to Fieros.<BR>'88 Formula CONVERTIBLE<BR>'85 Coupe<BR>'84 coupe T-Top<BR>AOL IM = drrodey<BR>         <IMG SRC="http://www.fiero.nl/uploads/sig_2.JPG">    <BR> <A HREF="http://freepages.ugo.com/RodeysPlace/HomePlace.html" TARGET=_blank>freepages.ugo.com/RodeysPlace/HomePlace.html</A>||||reg||1
+Z||000001||DrRodey||07-24-2001||12:21 AM||||Anyone???||||reg||1

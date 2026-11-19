@@ -1,0 +1,4 @@
+A||N||2||Rob Durham||IRM's Intergrated Rockers||||5||
+Z||000000||Rob Durham||05-25-2001||03:04 PM||||3 weeks ago IRM said it would be 6 weeks before they would ship, talked to them today they said it would be a good 6 weeks more.<P>If anyone has a pair I would pay for shipping from you to me and back and include a second set of intergrated rockers for the chance to make molds off of the intergrated rockers.<P>Rob Durham<P><p>[This message has been edited by Rob Durham (edited 05-25-2001).]||||reg||5
+Z||000001||cadaver||05-26-2001||12:47 AM||||Hmmm? Not willing to sculpt your own set?||||reg||1
+Z||000002||TRiAD||05-26-2001||08:42 PM||||If you find them, or a new supply for them, PLEASE let me know!<BR>These things ROCK!<P><BR>thanks!<P>------------------<BR><B><I>Looking for a white '88 GT 5 sp</I></B>||||reg||7

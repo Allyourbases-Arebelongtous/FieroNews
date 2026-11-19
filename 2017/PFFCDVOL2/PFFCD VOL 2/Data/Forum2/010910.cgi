@@ -1,0 +1,12 @@
+A||||10||baptistheart||wheels||||8||
+Z||000000||baptistheart||05-31-2001||08:16 PM||||Did the normal wheel for the fiero have air stem on the inside of the wheel, and if it was it seems like some kind of sick joke to make me buy new tires!<P>------------------<BR>Joe||||reg||8
+Z||000001||LZeitgeist||05-31-2001||09:22 PM||||Say whaaaaaaat??  <IMG SRC="http://www.fiero.nl/forum/eek.gif"> <IMG SRC="http://www.fiero.nl/forum/confused.gif"><P>Your valve stem is mounted on the *inside* of the rim?????||||reg||1
+Z||000002||Formula88||05-31-2001||09:24 PM||||Once more, in English. I completely don't know what you're talking about.||||reg||5
+Z||000003||DecadenceR||05-31-2001||09:27 PM||||I dunno exactly what you mean, but all radial tires have a "snap in" stem unless you get one of those trucks that have the screw in ones that you can never get back out...<BR>And I don't think I've ever seen a rin where the stem wasn't accessable from the front. <BR>But all in all, what does that have to do with you getting a new tire?||||reg||1
+Z||000004||baptistheart||05-31-2001||09:42 PM||||on my rims the stem is located on the inside of the rim i have to take my wheel completely off to air it up. apparently this is not stock on a fiero or you would have known right away what i was talking about Thanks anyway.<P>------------------<BR>Joe||||reg||8
+Z||000005||Shiner||06-01-2001||12:28 AM||||HOLY SHINTO!||||reg||4
+Z||000006||Tigger||06-01-2001||12:22 PM||||Wow  <IMG SRC="http://www.fiero.nl/forum/eek.gif"><P>Which size or style stock wheels are they?<P><BR>||||reg||4
+Z||000007||Neal||06-01-2001||02:43 PM||||That is crazy speak<P>The valve is on the inbound side of the wheel?<BR>are they a stock?||||reg||1
+Z||000008||isthiswhereiputausername?||06-01-2001||03:02 PM||||did the last owner put the rims on backwards when he was drinking?  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000009||DecadenceR||06-01-2001||03:24 PM||||That's the same thing I was thinking. There are some rims you can actually do that and not notice it too much if you're new at this thing...<P>Can you give us a pic of these rims? I'm VERY curious.||||reg||1
+Z||000010||danny boy||06-02-2001||01:35 AM|||| My boss just got a set of Motegi wheels for his MINIVAN and the valve stems were mounted in board. Had to use special "shorty" stems because the standard ones got torn off by the calipers.Fortunately this was before he left the place and not driving down the road.||||reg||1

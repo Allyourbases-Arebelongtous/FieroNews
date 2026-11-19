@@ -1,0 +1,7 @@
+A||||5||ArchMagi||Lowell's Ride (hey, thats me!)||||6||
+Z||000000||ArchMagi||04-19-2001||12:44 AM|||| <IMG SRC="http://www.fiero.nl/uploads/FieroLowell.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/FieroLowell2.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/FieroLowell3.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/FieroLowell4.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/FieroLowell5.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/FieroLowell6.jpg"> <P>Sorry for the bad pics, Iv got a weird logitech scanner.  The Green "N" is to let everyone on the road im a "new" driver, but thats gone in a month.  It sure is a difference switching to a fiero from a 1970 bug!  Enjoy the Pics.<P>Later||||reg||6
+Z||000001||ArchMagi||04-19-2001||12:45 AM||||Sorry for the double post...<P>grrr...Moocow, ill take you up on that offer!||||reg||1
+Z||000002||ArchMagi||04-19-2001||12:50 AM|||| <IMG SRC="http://www.fiero.nl/uploads/FieroLowell.jpg"> ||||reg||1
+Z||000003||Black88GT||04-19-2001||12:53 AM||||Still dont work||||reg||1
+Z||000004||ArchMagi||04-19-2001||01:01 AM||||I followed the instructions...<P>oh well, im going to bed...||||reg||1
+Z||000005||MooCow||04-19-2001||10:25 AM||||Send me the pics.  I will be more than happy to post them for you.<P>                              Thanks Ken<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sig.jpg"> <BR>87 GT, 3.4 engine with a 4:10 tranny, and Viper Yellow!||||reg||1

@@ -1,0 +1,5 @@
+A||||3||ezsurf||Water Neck Corrosion||||1||
+Z||000000||ezsurf||04-10-2000||10:03 PM||||I need a quick fix if anyone has one.  When I rebuilt my engine I bead blasted the water neck inside and out.  The paint I used on the outside is holding up fine, but the inside is now corroding.  I really didn't expect this with fresh anti-freeze.  I'm now looking for something to coat the inside of the water neck.  I doubt any type of paint would hold up.  Anyone have any ideas?||||reg||1
+Z||000001||theogre||04-11-2000||10:11 AM||||two part marine epoxy paint should work. Glyptol might but the only place I know of most people can get it is Eastwood and they are over priced.||||reg||1
+Z||000002||Linx||04-11-2000||07:12 PM||||Most motorcycle shops sell a product called "Kreem"; it's a 3 part coating used to seal the interior of cycle tanks and protect them from rust.  The first two parts are an etchant, to remove rust.   The 3rd is the coating.  It's about $14.||||reg||1
+Z||000003||theogre||04-11-2000||07:18 PM||||Linx, if that's a thick coating it might not work. thick coatings could make the thermostat dificult or imposible to stuff all the way down the neck.||||reg||1

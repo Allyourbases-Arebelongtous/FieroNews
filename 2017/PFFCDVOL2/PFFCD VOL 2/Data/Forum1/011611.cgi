@@ -1,0 +1,2 @@
+A||||0||NEO Cesek Racing||Anyone in my area?||||1||
+Z||000000||NEO Cesek Racing||11-06-2001||02:17 PM||||Didn't know if i should post this here or in the off topic string. <BR>Just wondering if there's anyone in my area or the cleveland area. i'm going to the Weezer concert at the Convocation Center on Dec 8th and i'll be driving my fiero. didn't know if anyone else was going and wanted to meet up and talk shop while we stand in line all day.<BR>-AJ<BR><P>------------------<BR>I used to have a handle <BR>on life but it broke.||||reg||1

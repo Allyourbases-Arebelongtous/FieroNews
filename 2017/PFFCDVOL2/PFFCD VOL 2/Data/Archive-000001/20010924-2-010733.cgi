@@ -1,0 +1,3 @@
+A||||1||Brucepts||Engine Idle help?||||1||
+Z||000000||Brucepts||05-25-2001||08:25 AM||||I have a 84 SE 2.5 automatic, the problem is sometimes when sitting at idle the engine will just up and die. This only happens when in gear at a light or stop sign. Idles fine out of gear. No codes get set, vacuum is good at 18" all other readings on the scantool appear to be normal. Happens with engine cold or hot and not all the time. Any hints? I don't want to "shotgun" parts at this.||||reg||1
+Z||000001||ROB MAC||05-25-2001||10:05 AM||||Check alternator belt tension and if O.K. , check alternator output voltage. I am assuming all wire connections are clean and solid.||||reg||1

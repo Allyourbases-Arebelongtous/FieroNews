@@ -1,0 +1,4 @@
+A||N||2||MR2KLR||Oil presure gauge, how do I check it?||||1||
+Z||000000||MR2KLR||12-01-2001||01:22 PM||||<BR>my aux oil gauge sits way below "0" with the engine off (2.5) pulses while cranking and then sits in the red while it idles and goes a bit above the red when I give it gas. how can I ceck the gauge?<P>------------------<BR>  <IMG SRC="http://members.tripod.com/wawoonigootphet/images/af/3in1_vu1.jpg">  <A HREF="http://community-2.webtv.net/TOMTOM81/MYNEWTOY/" TARGET=_blank>Tom's Page</A>||||reg||1
+Z||000001||PBJ||12-01-2001||04:56 PM||||The easyest way of checking the guage is to put in a NEW (not used) sensor and if it does not fix it, you know it the guage.||||reg||1
+Z||000002||rogergarrison||12-01-2001||05:40 PM||||borrow a 'REAL' pressure gauge and see what it reads before you spend any money.||||reg||1

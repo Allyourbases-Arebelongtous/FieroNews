@@ -1,0 +1,2 @@
+A||||0||mbramble||Sunroof Questions||||1||
+Z||000000||mbramble||04-10-2001||11:48 AM||||Can the strips/channels that the sunroof gasket mounts in be purchased separately???  They look to be riveted in place and a couple of them on my sunroof are pretty much rusted away.  I also just found a sunroof panel at a u-pull-it but two of the four pieces of channel are missing.<P>Anyone know of a source and/or part numbers for these items???<P>Thanks,<BR>Mike<BR>||||reg||1

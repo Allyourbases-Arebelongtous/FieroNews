@@ -1,0 +1,3 @@
+A||||1||Pheagey||3500 member! Wow||||4||
+Z||000000||Pheagey||11-08-2001||08:29 AM||||Thats more people than the total population of the town I lived in for eight years!<P>------------------<BR>'88 coupe, 5 speed: Status: destiny unknown.<BR>Broken down: 3 times<BR>Broken into: 2  times (w/i 2 days).<BR>Killed: '97 Civic LX Auto,<BR>Killed by: '93 Civic EX 5 speed,<BR>[link]Http://www.LithiumEffects.com/car.html[/link] (B4 vandalism)||||reg||4
+Z||000001||3.8T Fiero GT||11-08-2001||04:36 PM||||So move to TORONTO!!!!!!!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>You'll luv it!!!!!!!!!!!!<P>------------------<BR> <IMG SRC="http://cache.ucr.edu/~currie/turbo-t.jpg">  <BR><B>"A 3.8T makes and excellent "RICE" cooker"</B>||||reg||6

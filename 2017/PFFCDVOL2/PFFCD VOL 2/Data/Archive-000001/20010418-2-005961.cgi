@@ -1,0 +1,3 @@
+A||||1||MooCow||How to fix a spoiler?||||5||
+Z||000000||MooCow||09-29-2000||06:11 AM||||Will autobond work on fixing my spoiler??  I have a chip in it and a 1-2 inch crack.  I think that I would rather fix it then to have to mess with UPS and try to get my money back for it.  Which should I do fix or try to get my money back then have to find another spoiler in great shape like this one for $120 or so??  If autobond will not work what will and how hard do you think it will be??<P>                      Thanks Ken||||reg||5
+Z||000001||contra||09-29-2000||07:00 AM||||use fiberglass<BR>sand the whole thing down<BR>fiberglass the bad spots<BR>then sand again<BR>touch up any spots that bubbled<BR>then sand again<BR>then paint and clearcoat<BR>that's what i did||||reg||1

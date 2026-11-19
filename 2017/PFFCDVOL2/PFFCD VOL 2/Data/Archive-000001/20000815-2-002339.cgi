@@ -1,0 +1,4 @@
+A||||2||otis||EGR Vacuum Manifold||||5||
+Z||000000||otis||02-14-2000||09:45 PM||||I just reinstalled my lower intake to<BR>correct vacuum leak at the gasket. In<BR>putting the vacuum lines back I have<BR>forgotten which line goes where on the<BR>EGR vacuum manifold. The ported vacuum and<BR>the EGR vacuum line run from this manifold<BR>which is mounted on the front of the motor.<BR>There are two inlet ports, one top and one<BR>bottom. Which line goes  where in re-<BR>lation to these ports on the manifold?||||reg||5
+Z||000001||AL||02-14-2000||11:41 PM||||hey otis check your sticker for emissions,it is on the right hand side of the deck.if you don't have this let me know i will look at my car.is this v6 or 4?||||reg||1
+Z||000002||AL||02-14-2000||11:41 PM||||hey otis check your sticker for emissions,it is on the right hand side of the deck.if you don't have this let me know i will look at my car.||||reg||1

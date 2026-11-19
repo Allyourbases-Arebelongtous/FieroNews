@@ -1,0 +1,5 @@
+A||||3||fierofreek2001||carpet dying..how do i do it??!||||1||
+Z||000000||fierofreek2001||03-29-2001||06:55 PM||||ive never dyed anything any color before but i would like to dye the carpeting in my coupe white or black, i know how to get it out and all, but where do i start with the actual coloring? what do i need ?   its a new experience for me!<BR>thanks<BR>steve||||reg||1
+Z||000001||Bluebottlejunky||03-29-2001||07:24 PM||||Im changeing my carpet color too.  I started with using Rit Dye you can buy at almost any store.  I mixed it with warm water (about 1/2 water 1/2 dye and put it in a good spray bottle and spray away.  It worked really good, I had to do at least 4-5 coats of the dye to get a Dark Black.  I also used the dye for the door carpet. Hope this helps!<P><BR><P>------------------<BR>Mike<BR>85' GT 4sp||||reg||1
+Z||000002||fierofreek2001||03-29-2001||07:30 PM||||oh ok i know what that rite dye is, i see it everywhere, i didnt realize it was just spray!   thats great, thanks for the info!||||reg||1
+Z||000003||rogergarrison||03-30-2001||06:53 AM||||never try dying anything white-never works, go for the black.||||reg||1

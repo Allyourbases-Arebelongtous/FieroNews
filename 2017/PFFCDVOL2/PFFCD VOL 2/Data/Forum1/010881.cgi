@@ -1,0 +1,7 @@
+A||N||5||mercurio||Fiero 84 Identification number ||||5||
+Z||000000||mercurio||10-10-2001||07:09 PM||||Hi, do you know where can i find the vehicle identification number on a fiero 84, i need to know another place besides the label below the windshield, thanx||||reg||5
+Z||000001||fieroparts.com||10-10-2001||07:14 PM||||remove the left frt. speaker and grill<BR>you will see it under the speaker about a foot down.||||reg||14
+Z||000002||AL||10-10-2001||08:36 PM||||de que parte de mexico eres? y bienvenido.<BR><B>AL</B> <IMG SRC="http://www.fiero.nl/uploads/AL_sig.gif"> <BR>84 INDY (STOLE IT)250$<BR>86 GT<BR>89 WS6GTA<P>------------------<BR> ||||reg||1
+Z||000003||mercurio||10-10-2001||09:24 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by AL:<BR><B>de que parte de mexico eres? y bienvenido.<BR>[b]AL</B>  <IMG SRC="http://www.fiero.nl/uploads/AL_sig.gif">  <BR>84 INDY (STOLE IT)250$<BR>86 GT<BR>89 WS6GTA<P>[/B]<HR></BLOCKQUOTE><P>Gracias del D.F.<BR>||||reg||1
+Z||000004||AL||10-11-2001||06:57 PM||||donde compraste tu carro? no tienes fotos? comete una torta de lomo con aguacate por mi, por que aca no saben igual!||||reg||1
+Z||000005||FieroMontreal||10-11-2001||10:28 PM||||Ummm... Yo Quiero Taco bell.... <BR>Me Illamo Alex.. umm... !Hola! ?Que'tal? ok... thats about it for my grade 9 Spanish class... haha.. 1 full year and thats all I know.. lol||||reg||1

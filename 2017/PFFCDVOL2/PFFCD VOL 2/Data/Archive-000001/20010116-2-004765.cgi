@@ -1,0 +1,2 @@
+A||N||0||FieroSTETZ||ATTENTION FIEROSHOP||||1||
+Z||000000||FieroSTETZ||07-15-2000||01:32 AM||||fieroshop, how much to have a 3.4 or a 3800 installed in my 87 gt 5spd? if possible i would like the prices for both- including the engine itself and anything that can't be used from my 2.8... thanks!<BR>also, people keep telling me how easy the 3.4 is to install- how do i know where the started holes need to be drilled?||||reg||1

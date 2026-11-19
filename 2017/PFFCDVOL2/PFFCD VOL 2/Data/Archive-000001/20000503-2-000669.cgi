@@ -1,0 +1,5 @@
+A||||3||Andy||Fuelfilter replacment
+Z||000000||Andy||08-22-99||07:59 AM||||Need to change fuelfilter on a V 6.Hanes manuel reads that I need to use GM fuel gauge <br>J-34730 to relief the pressure.The problem is I can't find that Gauge.Can't I just do the same as for a V4.Disconnect the fuse for the pump than crank the car and let it run till the fuel supply in the lines is depledet?I also going to add some Engine treatment to the fuel,shoud I add it before or after I changed the filter.Thanks for any help.<br>   Andy
+Z||000001||Stroker||08-22-99||11:43 AM||||I always do the fuse pull method on my v6 and it works fine.<br>I would add the engine(fuel)treatment to the fuel AFTER the filter change.The cleaner the fuel, the better the cleaner works.
+Z||000002||Gokart||08-22-99||05:57 PM||||Pulling the fuse works for me too. I also use a pair of needle nose vise grips for each hose. Just be careful not to clamp them too tight or you may split one.
+Z||000003||DJRice||08-23-99||08:02 AM||||The fuse pull method is the only way to go....

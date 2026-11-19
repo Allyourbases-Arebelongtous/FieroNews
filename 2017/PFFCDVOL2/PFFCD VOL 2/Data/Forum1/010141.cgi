@@ -1,0 +1,4 @@
+A||||2||Fiero_24||Finally have pics of my 87 GT||||10||
+Z||000000||Fiero_24||09-08-2001||12:36 AM||||Well I finally have pics (a little big, but I will scale them down when I have more time).  Too bad it will not make it to Fierorama this weekend due to the new motor not being finished yet.<BR> <A HREF="http://www.geocities.com/fiero_24/myfiero.html" TARGET=_blank>http://www.geocities.com/fiero_24/myfiero.html</A> ||||reg||10
+Z||000001||Fiero_24||09-08-2001||12:40 AM||||Sorry for the large pics (they are bigger than I originally thought), I just realized how slow they load.  <P>Craig <A HREF="http://www.geocities.com/fiero_24" TARGET=_blank>www.geocities.com/fiero_24</A> ||||reg||8
+Z||000002||My7Fieros||09-08-2001||02:23 AM||||Good find....take care of her!  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR><FONT SIZE="3"><FONT COLOR="red"><B><I>My 7 Fieros</FONT></FONT></B></I>||||reg||14

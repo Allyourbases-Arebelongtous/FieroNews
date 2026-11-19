@@ -1,0 +1,7 @@
+A||||5||isthiswhereiputausername?||I was bored (fiero emblem screensaver)||||6||
+Z||000000||isthiswhereiputausername?||09-26-2001||01:59 PM||||Just a simple screensaver I made with the fiero emblems.. <P>The file will extract it to the correct location but you will need to set it as your default screensaver if you like it  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>go to  <A HREF="http://www.angelfire.com/extreme/nwarules/pennocks/" TARGET=_blank>http://www.angelfire.com/extreme/nwarules/pennocks/</A>  and grab the fieroemblem.exe<P>||||reg||6
+Z||000001||Cheever3000||09-26-2001||02:55 PM||||Cool.<BR> <IMG SRC="http://www.fiero.nl/forum/cool.gif"><BR>||||reg||1
+Z||000002||MsBeth||09-27-2001||01:17 AM||||Very nice...thanks.<P><BR><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/blue_2.gif">  <P>MsBeth||||reg||7
+Z||000003||Hippocrat||09-27-2001||01:26 AM||||That is pretty cool! <P>What language is it written in?||||reg||14
+Z||000004||isthiswhereiputausername?||09-27-2001||06:23 AM||||It was actually created really easy with the <BR>Axialis Professional Screen Saver Producer <P> <A HREF="http://www.axialis.com/" TARGET=_blank>http://www.axialis.com/</A> ||||reg||1
+Z||000005||Fiero5||09-27-2001||11:39 AM||||MAC version please  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Steve<P>------------------<BR>                                <IMG SRC="http://a1040.g.akamai.net/f/1040/759/1h/206.29.192.139/info/pics/sept11.jpg">                             <BR>http://www.kelleyfamilyfieros.homestead.com/index.html||||reg||6

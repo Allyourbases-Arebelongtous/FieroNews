@@ -1,0 +1,6 @@
+A||||4||GTMike||can some oen help me shrink down my picture||||1||
+Z||000000||GTMike||10-04-2001||08:35 PM||||i just got my new pics of my car downloaded but they are huge.  i want to shrink this one down to 30% for my sig pic.  can some one do this for me.  i dont have the software to do it.<BR> <IMG SRC="http://www.fiero.nl/uploads/Dscn0025crop.jpg"> ||||reg||1
+Z||000001||FieroBUZZ||10-04-2001||08:48 PM|||| <IMG SRC="http://www.fiero.nl/uploads/gtmike.jpg"> <BR>or maybe<BR> <IMG SRC="http://www.fiero.nl/uploads/gtmike1.jpg"> ||||reg||10
+Z||000002||FieroBUZZ||10-04-2001||09:10 PM||||Actually, the O/T pic was better.<BR>Just a quickie but something like this??<BR> <IMG SRC="http://www.fiero.nl/uploads/gtmikesig_1.jpg"> ||||reg||10
+Z||000003||Cliff Pennock||10-04-2001||09:31 PM||||How about something smaller? Like this:<P> <IMG SRC="http://www.fiero.nl/uploads/gtmike.gif"> <BR>||||reg||1
+Z||000004||GTMike||10-04-2001||09:32 PM||||wow.  thanks alot.   i just have the trial version of adobe. and it wont let me save anything. but i'm learning to change things around i'll probably get the full version this weekend so i can save pictures. thanks alot i'm going to use that for my sig if you dont mind    <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

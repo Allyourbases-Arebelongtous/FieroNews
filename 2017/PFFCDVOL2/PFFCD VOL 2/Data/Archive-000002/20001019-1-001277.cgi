@@ -1,0 +1,5 @@
+A||||3||fieroc4||New take on subwoofers||||3||
+Z||000000||fieroc4||02-18-2000||08:30 AM||||If you are aiming to shake the neighborhood why even mount your subs in the passenger compartment at all?  You could just mount them in the trunk and vent the sound out the bottom, this will give a rather large box and since a sub is non-directional (omni-directional?) with enough power you still could hear it inside the passenger compartment.<P>Dan||||reg||3
+Z||000001||Formula||02-18-2000||06:40 PM||||while shaking your engine into little bitty pieces. just kidding.<P>I thought of this before, my friend and I were going to put 4 american bass 12" subs in my fiero but I decided to just put 1 10" sub in the front compartment.<P>"GREAT MINDS THINK ALIKE."<BR>                       monkeyman 2000<BR>or did someone else make up that quote?||||reg||1
+Z||000002||Monkeyman||02-18-2000||11:37 PM||||20<B>04</B>.  Don't get me elected before I'm ready.  I've still got lots of things to plan. (hehehe)||||reg||1
+Z||000003||Phil||02-18-2000||11:53 PM||||Isn't that what they make those little trailers for- to carry your sound gear?||||reg||1

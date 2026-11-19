@@ -1,0 +1,5 @@
+A||||3||Gerald||Winter brings all new problems||||9||
+Z||000000||Gerald||10-24-2001||11:53 AM|||| Well winter is in Edmonton and I have to drive my fiero for another month. Whats the best way to keep my door from frezing shut? Mine didnt want to open too nicly this morning and I would really hate to rip the door handle off.<P>------------------<BR>87 coupe 5 spd||||reg||9
+Z||000001||btoth||10-24-2001||01:03 PM||||Last winter my problem was that my window would freeze to the weather stripping. The actual door never froze.  I would that that if you got a cover for it, a cheap one or something, to keep the water from collecting between the door and the rest of the car you shouldn't have a problem.||||reg||1
+Z||000002||FieroBUZZ||10-24-2001||01:26 PM||||If it's just the door freezing to the car, you can wipe the contact spots with Pam or WD 40.  If you mean the mechanism inside the door, spray some lock deicer or WD 40 everywhere you can.<BR>Gary<BR>||||reg||1
+Z||000003||Gerald||10-24-2001||07:29 PM||||Thanx, will do||||reg||1

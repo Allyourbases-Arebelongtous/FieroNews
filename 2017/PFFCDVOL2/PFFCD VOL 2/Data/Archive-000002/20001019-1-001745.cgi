@@ -1,0 +1,8 @@
+A||||6||Robert||Floor Mats on the move..........||||5||
+Z||000000||Robert||04-05-2000||10:42 PM||||My floor mat on the drivers’ side won’t stay put.  It’s always creeping forward.  Has anyone come up with a simple device to keep it in place?  I was thinking of attaching a “thingamajig” to the seat rail and a snap to the underside of the mat. I don’t want to “recreate the wheel” if someone has already come up with something better.  Any ideas?<P>||||reg||5
+Z||000001||Standard||04-05-2000||11:24 PM||||Both my floor mats have velcro on the end by the seat.  they don't budge..||||reg||1
+Z||000002||Patrick||04-05-2000||11:27 PM||||<BR>I've used the do-hickeys that hold armcovers on a chesterfield. (That's a <I>couch</I> for all you Americans <IMG SRC="http://www.fiero.nl/forum/smile.gif">) ||||reg||1
+Z||000003||Old Lar||04-06-2000||09:47 AM||||I think original equipment floor mats (mine did) had the velcro swatch stitched on the bottom.  They don't move, but after 13 years, the carpet where they stick gets a little frazzeled.  I tried using "sticky" tape to velcro swatchs to newer carpets to hold them down, but the stuck velcro doesn't stay stuck and the carpets move.||||reg||1
+Z||000004||Brian84SE||04-06-2000||12:15 PM||||GM has put out a tech bulletin on this.  Basically, it involves gluing a piece of velcro onto the bottom of the mat (hook side?) and it catches the carpet.||||reg||1
+Z||000005||Robert||04-06-2000||07:41 PM||||Thanks for all the responses. I went out and bought some Velcro today.  Looks like its going to work great.||||reg||10
+Z||000006||Patrick||04-07-2000||02:38 AM||||<BR>Pardon the pun, but I'm sticking with my do-hickeys... <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||14

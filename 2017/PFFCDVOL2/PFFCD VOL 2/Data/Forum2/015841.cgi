@@ -1,0 +1,3 @@
+A||||1||84fieroman||crazy speedo||||8||
+Z||000000||84fieroman||11-27-2001||09:55 PM||||Speedo gone crazy.  The thing stays on 15mph when vehicle stopped and when car gets up some speed it goes to 75 and when slows down back to 15.  The odometer keeps working.  Anyone else experience similar problem??<p>[This message has been edited by 84fieroman (edited 11-27-2001).]||||reg||8
+Z||000001||clayatandalusia||11-27-2001||10:18 PM||||Check the sending unit .... Its in the top of the tranny close to the rear of the car... if you change it out make sure the gear is the same # of teeth as the old one or put the old one on the unit it feels stuck but it just pulls off ... i'd check the speedo first... a 85 mph or a 120 mph will plug up and work ||||reg||1

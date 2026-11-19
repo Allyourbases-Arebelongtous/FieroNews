@@ -1,0 +1,3 @@
+A||||1||AL||cliff||||1||
+Z||000000||AL||11-26-2001||10:46 PM||||<BR>why is it that when i post something i can't see it? even when i reload i still can't see it, it seems i have to wait a couple of hours to see it posted,it never did this before, you could see it imediateley after i would post an answer.why? <IMG SRC="http://www.fiero.nl/uploads/al_sig4.gif">   <P>------------------<BR> <p>[This message has been edited by AL (edited 11-26-2001).]||||reg||1
+Z||000001||Nashco||11-27-2001||03:17 AM||||I've got that same deal at work..I figured it was how work has our browser set up.  It is SO damn annoying, especially if I need to edit a post, forgot to mention something, or need a quick reply.<P>Bryce<BR>88 GT||||reg||1

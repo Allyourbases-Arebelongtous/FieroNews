@@ -1,0 +1,5 @@
+A||||3||86SE||2.8 HO heads on a 3.4||||5||
+Z||000000||86SE||09-24-2000||06:37 PM||||Will the 2.8 high output heads bolt onto a 3.4 (93-95 Camaro/Firebird)?  Will it make it a 3.4 HO??<P>Whats the difference between the two? if any...<P>------------------<BR>'86 Special Edition,<BR>High-Output V-6 Yellow Fiero<BR>Special Rally Heavy Duty Suspention||||reg||5
+Z||000001||fiero56||09-24-2000||06:50 PM||||There is no difference. They are the same. Aluminum heads have splayed valves, but all the 60 degree v-6 HO iron heads are the same.||||reg||1
+Z||000002||86SE||09-24-2000||07:05 PM||||Alright, cool.  Do the Camaro 3.4's come with the HO heads?  What cars do not come with the HO heads (with the 3.4)??<P>------------------<BR>'86 Special Edition,<BR>High-Output V-6 Yellow Fiero<BR>Special Rally Heavy Duty Suspention||||reg||1
+Z||000003||Cooter||09-24-2000||07:47 PM||||"All" fuel injected 60 degree engines are considered HO. The carb engines from the early 80's had smaller valves and were considered non-HO.||||reg||1

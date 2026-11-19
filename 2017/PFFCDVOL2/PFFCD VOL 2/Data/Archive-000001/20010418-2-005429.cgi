@@ -1,0 +1,4 @@
+A||||2||RLMay||Steering Rack||||1||
+Z||000000||RLMay||08-26-2000||06:25 PM||||Can anyone shed some light on the Fiero steering rack?  GM lists two different part numbers, one for the 86-88 GT and the other for all other models.  The part number for the GT is also listeed for 84-85 with WS6 handling package.  Is it a different steering ratio?  I have seen parts listing for a sport steering option which says the steering wheel turns 3 turns lock to lock.  The regular rack says it turns 3 1/2 turns lock to lock.  Is this the difference in the parts?  Any information would be greatly appreciated.   TIA.<P>Ron||||reg||1
+Z||000001||theogre||08-27-2000||02:13 PM||||yes, that's the diferance.||||reg||1
+Z||000002||terryk||08-27-2000||08:20 PM||||GM only supplies the 3.5T racks for all applications.<P>Personally, I can't tell any difference from the 3.0T.||||reg||1

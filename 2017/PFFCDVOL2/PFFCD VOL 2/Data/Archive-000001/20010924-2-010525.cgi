@@ -1,0 +1,2 @@
+A||||0||cardealer||v8 tilton starter ques||||5||
+Z||000000||cardealer||05-17-2001||09:54 PM||||i recieved a new tilton starter today to replace the starter (i drilled my own holes in) that been causing some starting problems. do i drill out (enlarge) the holes in the tilton as they are smaller than the ones setup for my adaptor plate?<BR>tranny is auto<BR>is this even making sense??? <P>||||reg||5

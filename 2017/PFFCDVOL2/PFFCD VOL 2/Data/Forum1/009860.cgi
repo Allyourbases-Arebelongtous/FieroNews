@@ -1,0 +1,14 @@
+A||||12||Ronnie||Amazing what new paint will do!||||10||
+Z||000000||Ronnie||08-27-2001||11:33 PM||||Here's a few pics of the Formula with a new facelift.<BR> <IMG SRC="http://www.fiero.nl/uploads/new_paint_front_1_1.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/new_paint_rear_2_1_1.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/new_paint_side_view_10.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/newpaint_rear_angle_1.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/formula_engine_10.jpg"> ||||reg||10
+Z||000001||Urchin||08-27-2001||11:42 PM||||Very sharp!  Have any before pics?<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/side_cut_sig_4.jpg">  <BR>If you can read this, I'm parked.||||reg||1
+Z||000002||Ronnie||08-27-2001||11:51 PM||||Yeah , here you go, this was my old sig pic<BR> <IMG SRC="http://www.fiero.nl/uploads/3fierossign_1.jpg"> <P>------------------<BR>88GT auto,88Formula T-Top,86GT 4spd<BR>  <IMG SRC="http://www.fiero.nl/uploads/new_sig_new_paint_1.jpg"> ||||reg||6
+Z||000003||rodmcneill||08-28-2001||01:00 AM||||Love those Formula's! Nice paint.||||reg||14
+Z||000004||rogergarrison||08-28-2001||04:03 AM||||Looks great. Paint is always the first thing I do on a new 'toy'. The one single thing that makes the biggest difference.||||reg||1
+Z||000005||Raydar||08-28-2001||07:11 AM||||Nice job! The pics don't do it justice, though.<P>------------------<BR>Raydar - aka Steve<BR><FONT SIZE="1"><BR>Black 88 Formula.<BR>Red 88 Duke coupe. "The Project" <BR>88 Formula parts car. "The Donor"<BR></FONT>||||reg||14
+Z||000006||MrPBody||08-28-2001||07:15 AM||||Lookin' good, Ronnie!<BR>||||reg||1
+Z||000007||Tigger||08-28-2001||08:08 AM||||Very Smoooth!  Very Nice!<P>You should post that engine pic in the <A HREF="http://www.fiero.nl/forum/Forum1/HTML/009777.html" TARGET=_blank>Clean Engine Compartments</A> Thread.<p>[This message has been edited by Tigger (edited 08-28-2001).]||||reg||14
+Z||000008||85ZainoGT||08-28-2001||04:39 PM||||how much did it cost ya?||||reg||1
+Z||000009||Joe Torma||08-28-2001||04:47 PM||||Looks great!!<BR><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/simplesig.gif"> ||||reg||1
+Z||000010||Ronnie||08-28-2001||08:31 PM||||The engine just cleaned up good using purple power and then spraying it down with WD40.<BR>The paint job cost me $550 bucks!!!! LOL.<BR>Not bad huh?||||reg||6
+Z||000011||KRMFiero||08-28-2001||08:50 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Ronnie:<BR><B>The engine just cleaned up good using purple power and then spraying it down with WD40.<BR>The paint job cost me $550 bucks!!!! LOL.<BR>Not bad huh?</B><HR></BLOCKQUOTE><P>Who painted it? did you have to sand down any paint or anything? I want to get my new 86 painted.. e-mail me<BR>Thanks<BR>Kyle<BR>||||reg||1
+Z||000012||Ronnie||08-28-2001||10:05 PM||||KRM , you've got mail.||||reg||6

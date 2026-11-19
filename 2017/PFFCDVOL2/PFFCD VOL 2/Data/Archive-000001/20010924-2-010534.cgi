@@ -1,0 +1,3 @@
+A||||1||Loki||Whats the effects of a dis. cap not all the way on?||||1||
+Z||000000||Loki||05-18-2001||11:50 AM||||My dis. cap is only screwed down on one side do to the other side being stripped. (Im lazy and havnt fixred it) What are some possible problems that can occure?<BR><P>------------------<BR>Loki<BR>ICQ# 16477998<BR>www.cox-internet.com/fiero  !!!UPDATED!!!||||reg||1
+Z||000001||Wolfhound||05-18-2001||12:31 PM||||Interference between the the rotor button and the cap for one thing as well as moisture.<BR> A smaller shafted threaded screw and nut might be a good temporary fix.||||reg||1

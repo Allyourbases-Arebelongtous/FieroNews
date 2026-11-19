@@ -1,0 +1,3 @@
+A||||1||2FAST4U||Paging Mr. GoKart||||1||
+Z||000000||2FAST4U||01-01-2000||12:32 AM||||The emblems or on page 20 of the new 2000 catalog. Part numbers for the quarter window emblems is 68876<BR>Hope this helps.<P>Joe||||reg||1
+Z||000001||Gokart||01-01-2000||08:25 AM||||Thanks for your help 2FAST4U, those are the pontiac emblems that go on a coupe's quarter window panel. If you have a copy of the FOCOA you'll see the product I bought from them and see that it's like the front facia emblem but smaller. Horn emblem size to be exact! I hate being so picky but these quarter window replacements will need all the help they can get to look just right!||||reg||2

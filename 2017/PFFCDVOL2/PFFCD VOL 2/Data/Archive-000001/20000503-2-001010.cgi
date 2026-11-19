@@ -1,0 +1,2 @@
+A||N||0||VAROOM||Too many sparks||||5||
+Z||000000||VAROOM||10-03-1999||09:27 PM||||I have a 87 GT that when you hook up the battery you can hear a spark jump somewhere on top of the motor. If I unplug the cold start switch it stops. If I leave the battery hooked up this short will kill the battery. Any ideas on what else is in this line, and do I have to take the intake system off to get to it??   ||||reg||5

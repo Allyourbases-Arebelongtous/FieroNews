@@ -1,0 +1,5 @@
+A||||3||fiero56||Your other cars||||1||
+Z||000000||fiero56||12-23-2000||11:34 PM||||Searching...<P>You've got a better memory than I. That thread is <B>almost</B> a year old. Look what I came across in the archives though. <A HREF="http://www.wagoneers.com/pages/RocketCar/rockit.html" TARGET=_blank>http://www.wagoneers.com/pages/RocketCar/rockit.html</A> Anyone else remember the "rocket car?"<BR><p>[This message has been edited by fiero56 (edited 12-24-2000).]||||reg||1
+Z||000001||Black88GT||12-23-2000||11:57 PM||||Hmm, not to long ago we had a big thread on this topic, it was a couple pages.  Use the search function to find it.<P>------------------<BR>Jeff<BR>'88 GT t-top 3.4<BR>Baltimore, MD||||reg||3
+Z||000002||Black88GT||12-24-2000||09:15 AM||||Try "almost" a month<BR> <A HREF="http://www.fiero.nl/forum/Forum6/HTML/001025.html" TARGET=_blank>http://www.fiero.nl/forum/Forum6/HTML/001025.html</A> ||||reg||12
+Z||000003||fiero56||12-24-2000||04:20 PM||||That one didn't come up when I ran the search, plus, you guys aren't allowed to have discussions going on while I was on vacation anyway.||||reg||1

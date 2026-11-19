@@ -1,0 +1,4 @@
+A||||2||ray b||how many getrags in 88||||1||
+Z||000000||ray b||01-07-2001||01:15 PM|||| mr fiero who I respect said 4500+ I thought it was around 1500 but cant remember sorse.maybe 88 database nut tried e-mail him but it cameback.is he or other numbers people know exact numbers on list?fformula 88 said total number 5 spds in 88 but no getrag only numbers.     thanks ray||||reg||1
+Z||000001||Old Lar||01-07-2001||01:36 PM||||According to the "Fiero Spotter's Guide" There were 14008 5 speed code MM5 produced.<P>7312 coupes, 2897 Formulas and 3799 GTs.  Now if 4 cylinder coupes had the Isuzu 5 speed, that means that there were 6696 getrag 5 speed transmisons for 1988.||||reg||3
+Z||000002||ray b||01-07-2001||01:58 PM|||| wow more than 1/2 5 spds way more than I thought. owell one of 2897 is still rare just not as rare as I thought. thanks  ray||||reg||1

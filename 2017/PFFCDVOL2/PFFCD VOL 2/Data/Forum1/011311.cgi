@@ -1,0 +1,2 @@
+A||||0||tgowens||Classifieds open to the public...||||1||
+Z||000000||tgowens||10-26-2001||02:54 AM||||The classified section of the Classic Fiero Owners Group International web site is open to anyone who wishes International exposure for the sale of Fieros and Fiero parts.<P>The classified page may be seen on the CFOG-International web site at  <A HREF="http://www.cfog-i.org" TARGET=_blank>www.cfog-i.org</A> <P>Terry Owens, Chairman<BR><A HREF="http://www.cfog-i.org" TARGET=_blank>Classic Fiero Owners Group International</A>||||reg||1

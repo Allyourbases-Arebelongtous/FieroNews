@@ -1,0 +1,3 @@
+A||||1||phillip||pre northstar caddy v8||||1||
+Z||000000||phillip||06-21-2000||08:12 AM||||<BR>during one of our pre northstar discussions i mentioned a short article where a 4.9 was put in a fwd monte carlo. i just came across the mag.<P>car craft nov. '97<P>not a lot of info beyond the fact that they did it. it dose say they used a corvette computer for more power (not what year) but stock caddy computer will work. stock caddy exhaust manifolds with s-10 cat converter. 2.25" exhaust.<P>like i said, not much info but every little bit helps.||||reg||1
+Z||000001||mrfixit58||06-21-2000||08:17 AM||||Good find phillip,<P>Now I'm going to have to dig through my stack of old magazines...<P>Thanks,<BR>Roy||||reg||14

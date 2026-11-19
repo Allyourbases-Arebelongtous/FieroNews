@@ -1,0 +1,6 @@
+A||N||4||count_iblis||help me pic out wheels part duce||||1||
+Z||000000||count_iblis||11-03-2000||12:35 AM||||how about the deep dish look?  &gt; <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P> <IMG SRC="http://www.fiero.nl/uploads/sw86-87Odyssey.jpg"> <P><P>------------------<BR>COUNTIBLIS <BR>"HUG YOUR KIDS SPANK THE SOUND BARRIER"||||reg||1
+Z||000001||loafer87gt||11-03-2000||01:01 AM||||Doesn't wet my whistle. I think it would look good on a truck, but not so great on a fiero. Just my opinion||||reg||1
+Z||000002||count_iblis||11-03-2000||01:17 AM||||yeah me too, im getting tired and more and more as i look at it i hate<P>------------------<BR>COUNTIBLIS <BR>"HUG YOUR KIDS SPANK THE SOUND BARRIER"||||reg||1
+Z||000003||Tigger||11-03-2000||02:00 AM||||Deep dish I think would only work with IMSA flares or you'd be sandblasting the sides of your Fiero with them sticking out past the body.  However, some people around here think that is cool for some reason, I dunno why?  <IMG SRC="http://www.fiero.nl/forum/confused.gif">||||reg||4
+Z||000004||1FST2M6||11-03-2000||08:47 AM|||| <IMG SRC="http://www.fiero.nl/uploads/wbigdeep.jpg"> <P>deep dish look with out the rock chips and offset problems. <P>my $.02<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/1fstsig1.jpg"> ||||reg||1

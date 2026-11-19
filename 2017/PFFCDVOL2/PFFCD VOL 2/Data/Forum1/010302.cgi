@@ -1,0 +1,2 @@
+A||N||0||CoolBlue87GT||Who's got my old 84 Coupe, & 85 SE ?||||5||
+Z||000000||CoolBlue87GT||09-16-2001||12:23 AM||||Was wondering who's has my old 84 & 85 SE.<P>Both were red w/sunroof, stock alum whls.<P>These numbers look familiar ?<BR>The 84 VIN: 1G2AM37R9EP215054  4 cyl.<P>The 85 VIN: 1G2PF3793FP224466  6 cyl.<P>A note about the 85, I had the dealer swap the stereo from the 84 into the 85.<P>It sounded much better, 84 had the 5 band EQ system.<P>Hope their still being loved by someone.||||reg||5

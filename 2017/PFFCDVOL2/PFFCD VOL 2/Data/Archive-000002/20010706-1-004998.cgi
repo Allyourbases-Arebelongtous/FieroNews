@@ -1,0 +1,5 @@
+A||||3||Rodney||Exhaust hangers needed||||1||
+Z||000000||Rodney||12-29-2000||10:41 AM||||Looking for 4 cylinder exhaust hangers. Must be in fair condition. The u-bolt should be there but can be broken off at the threads. But the rest needs to be intact. I'll trade some parts. Need 84 L&R. 85-87 and 88. Could also use a set of 86 GT V-6 L&R. For prototyping them as I'll be doing them in 304 stainless. ||||reg||1
+Z||000001||bHooper||12-29-2000||01:48 PM||||Rodney, are you talking about the hangers that mount just behind the tips (v-6) and mount to the cradle?<P>If so, put me down for a set for the v-6!  Mine has been bust for years.<P>hoop||||reg||5
+Z||000002||tgowens||12-29-2000||02:21 PM||||Rodney, let me look around here and see what I can come up with -- I'm sure we have them (now, if I can only find them!!)||||reg||1
+Z||000003||Indiana_resto_guy||12-29-2000||10:42 PM||||If those are the ones that you are in need of, let me know! I just dug some up for a restoration that I just installed the cradle in last week. Reasonable prices!<P>Send via e-mail (NEW STUFF! fits great, can't tell the difference!)||||reg||1

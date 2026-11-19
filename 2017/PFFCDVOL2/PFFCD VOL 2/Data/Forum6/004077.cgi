@@ -1,0 +1,4 @@
+A||||2||AutoXdbdragSE||Played unreal II today :)||||10||
+Z||000000||AutoXdbdragSE||11-03-2001||12:41 AM||||all i gotta say is UT2 is gonna be frigin incredible.. don't ask how i played it.. in fact.. never mind i didn't<BR>||||reg||10
+Z||000001||Formula88||11-03-2001||03:06 AM||||Ok, so I'm asking.  And while you're at it, how about a little more in depth review?  Any idea when it'll be readily available?  I would guess they want it out for Christmas.||||reg||1
+Z||000002||AutoXdbdragSE||11-03-2001||03:27 PM||||my friend found an alpha for the game, and we played it. it has every level, and a few weapons, but the drops arent' working, and there is no AI, but the visuals are awsome.. the maps are all rounded, everything is soft looking.. all in all very nice.. gameplay is smooth, weapons are very nice.. it's gonna be awsome when it comes out.. oh and sorry for the vaugue post, i was rather tierd..||||reg||1

@@ -1,0 +1,3 @@
+A||||1||Fformula88||Front Lower Ball Joint ?'s||||1||
+Z||000000||Fformula88||07-01-2000||12:06 PM||||My Fiero failed its NYS safety inspection due to bad lower ball joints.  However, I was lookin at them, trying to move the wheel and cannot find any accessive play in the ball joints.  Is it possible for them to be bad if they appear solid?  I have dealt ith this shop a lot and they have never seemed to try to rip me off, but I am just not sure.  I don't want to have to replace them if I don't have to.  ||||reg||1
+Z||000001||gixxer||07-01-2000||12:33 PM||||You may not be able to move them because they're under pressure from the spring. If you put a jack under the lower A-arm, this'll unload the ball joint and permit it to move, if it's worn....     ||||reg||1

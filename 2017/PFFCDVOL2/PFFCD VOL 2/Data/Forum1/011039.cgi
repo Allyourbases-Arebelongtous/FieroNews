@@ -1,0 +1,3 @@
+A||||1||fierodoug5||Anyone in the columbia SC area??||||1||
+Z||000000||fierodoug5||10-15-2001||08:08 PM||||I'll be driving my 86 SE from NJ to cloumbia SC in the morning for a family thing. Any of ya's in the area?? I'll be there till Sunday. Wish me luck, it's a 11 hour drive!!  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>Doug V  NJ<BR>85 GT  86 SE  86 SE  86 GT  87 SE||||reg||1
+Z||000001||turbo86se||10-15-2001||11:08 PM||||Hey Doug, I'm a couple hours east of Columbia, on the coast. Nobody has ever heard of Murrells Inlet, so I refer to it as Myrtle Beach <IMG SRC="http://www.fiero.nl/forum/eek.gif">. We're just a small coastal town.<BR>LMK if you plan to make your way to the beach! ||||reg||1

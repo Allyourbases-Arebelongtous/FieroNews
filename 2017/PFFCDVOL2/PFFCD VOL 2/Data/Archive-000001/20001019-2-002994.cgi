@@ -1,0 +1,3 @@
+A||||1||fiero_86_se||temperature guage||||5||
+Z||000000||fiero_86_se||04-02-2000||03:45 AM||||does anyone know how to fix the temo guage....they seem to be a common problem with fieros.  I know a few people that theirs does not work either.||||reg||5
+Z||000001||Ozzy||04-02-2000||04:05 AM||||What are the symptoms? What model/year Fiero?<P>I had a problem with my '88 Coupe...the temp guages get a surge of 12 v as soon as you hit the ignition. This causes them to 'pin'. In my case it had caused the needle to break loose of the base it is glued to. It was a simple case of removing the guage from the dash and re-glueing it. Of course I had not realised this untill I had placed new senders first.<P>Ozzy<BR>||||reg||1

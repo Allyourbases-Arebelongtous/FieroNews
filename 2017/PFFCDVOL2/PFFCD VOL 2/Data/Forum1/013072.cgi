@@ -1,0 +1,2 @@
+A||||0||85Josh||Ausfiero ? lower skirt application||||1||
+Z||000000||85Josh||12-30-2001||12:51 AM||||Aus, I was just looking at your website, and noticed that it dosn't mention what models the lower skirts will fit. I was hoping that you will be able to make them adaptable to all models, since I think they will improve the appearance of my 85 coupe until I can afford to add an aero nose and your scoops. TIA<P>------------------<BR>85 2M4(Lil' Bit)||||reg||1

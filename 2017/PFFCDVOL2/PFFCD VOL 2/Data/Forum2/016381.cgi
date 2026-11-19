@@ -1,0 +1,4 @@
+A||||2||Shinerdc||Pating out in Ontario "SHAFTED"||||8||
+Z||000000||Shinerdc||12-15-2001||09:02 AM||||for those whp were lining up for parts.....sit tight....when i went to get the car...gave him his $200.00...he was pleasant...asked ok lets get the seats and stuff and he said no that was'nt included.....EXCUSE ME...he told me he had the seats all the console ect...now he wants more cash for the interior...because it sure as hell aint in the car....i'm a little p_ssed off but told him keep it...if there is any change i"ll let yous know....||||reg||8
+Z||000001||Shinerdc||12-15-2001||09:05 AM||||i know i should of used spell check....parting not pating||||reg||1
+Z||000002||KillerX||12-16-2001||02:14 AM||||hey hows it goin...im from Strathroy so were kinda nabours...now where did ya get the lining? and where did they say that didnt include the inside?  do ya know anywere in London to get fiero parts?||||reg||1

@@ -1,0 +1,3 @@
+A||||1||skitime||5 Fiero Classes & 1 Drag Race Class - Englishtown All Pontiac Show - May 12||||1||
+Z||000000||skitime||05-09-2001||10:34 AM|||| <A HREF="http://www.fieropride.com/etown.htm" TARGET=_blank>http://www.fieropride.com/etown.htm</A> <P>We will be there.  Who else is going?||||reg||1
+Z||000001||Black88GT||05-09-2001||11:36 AM||||I was planning on going but I need to spend all my time/money/effort on getting ready for Carlisle.  I don't have much time or money so I can't go to e-town.  I was planning on it but then I noticed I have some cosmetic issues on my car that I need to work out before Carlisle.  Plus I wanted to have ported heads and NOS before I took it too the track..||||reg||9

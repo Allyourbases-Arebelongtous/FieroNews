@@ -1,0 +1,5 @@
+A||||3||Uaana||Sleds||||1||
+Z||000000||Uaana||09-03-2000||05:21 AM||||On a diff topic caught some fellow members sleds. <BR>So come clean who else has had/has one?<BR>Had 74 1/2  Bonnieville 455ho w/turbo.. how's that for rare. got more for the turbo than the rest of the car when I finally let it go.||||reg||1
+Z||000001||Monkeyman||09-03-2000||05:36 AM||||What's a sled?  The only "sleds" I've ever heard of are the early '50s leadsleds (chopped, channeled, Frenched, smoothed, etc, etc).||||reg||1
+Z||000002||hugh||09-03-2000||08:38 AM||||I'd say a 74 Bonneville is not a sled but a tank.They were so big a family of 4 could live comfortably in one.||||reg||1
+Z||000003||Philphine||09-03-2000||12:44 PM||||sled or tank, you decide. i have a '63 continental conv. that should be in a junkyard but is under a tarp in my back yard. hoping for the right combo of time, MONEY, parts, and ability to work on it. the biggest regularly driven car was a '73 grand prix. 400ci 4 barrel with sidepipes and huge mags and tires.||||reg||1

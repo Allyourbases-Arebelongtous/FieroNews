@@ -1,0 +1,11 @@
+A||||9||DaRkLoRD||Hey Monkeyman..||||1||
+Z||000000||DaRkLoRD||01-18-2000||01:33 AM||||I sent you a couple emails recently, but no reply.. did they get through ok?||||reg||1
+Z||000001||Monkeyman||01-18-2000||05:15 PM||||I didn't get any, but who's to say that it wasn't the dam*, stupid, freakin', pain-in-the-a**, worthless, &*@*(#@(*&^%)!!@_*&$!(%+!+$&@!#$_!&%)(#!%&_)#!& virus.  I seem to have the virus under control now so please resend the emails if you can.  Thanx.||||reg||1
+Z||000002||DaRkLoRD||01-18-2000||06:46 PM||||resent.||||reg||1
+Z||000003||TOM||01-18-2000||07:37 PM||||Hey monkey. You need to wear gloves when you type to keep ths virus from jumping to you computer||||reg||1
+Z||000004||william_thorniii||01-18-2000||11:41 PM||||Tom,<P>That is he-I-lar-e-ous!  Have you seen the movie Outbreak?  Has anyone been in direct contact with the Monkey... Oh $#!^, I have met him in person.  All of a sudden, I'm not feeling so good.<P>William T. Thorn, III||||reg||10
+Z||000005||olympic||01-18-2000||11:50 PM||||    Computers are like humans, if you put your "disk" in too many "drives" you're bound to catch something.||||reg||10
+Z||000006||Monkeyman||01-19-2000||06:01 PM||||Now I remember sneezing on my computer just before this happened.  I wonder if that could have caused any of this?  And why does the Center for Communicable Diseases keep calling me?  Wait...I think someone's knocking on my door right now.  That's funny.  They're wearing what looks like space suits.  Wonder why? ||||reg||1
+Z||000007||Formula||01-19-2000||07:47 PM||||space suits?<P>We found life on other planets!!!!!<P>WOOOOOHOOOOOOO||||reg||1
+Z||000009||Standard||01-20-2000||12:54 AM||||No, so far as I know Monkey is on the same planet as us..  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> of course, if he's not, that could explain that Fiero sighting on mars.  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000010||Monkeyman||01-20-2000||08:30 PM||||Yup.  That was me.  Actually Mars is just where my vacation home is.  I really live on Planet X.  Easy directions in case anyone wants to visit.  Go exactly 3.2683 light years due east from the moon and hang a left at Alpha Centari.  You can't miss my place.  Now that Area 51 has been decommissioned, I might buy it for a summer cottage.  What do you think they'd sell it for?||||reg||1

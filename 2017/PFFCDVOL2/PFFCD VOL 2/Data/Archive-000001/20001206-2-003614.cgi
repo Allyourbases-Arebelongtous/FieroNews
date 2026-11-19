@@ -1,0 +1,4 @@
+A||N||2||costly86gt||dying fiero||||5||
+Z||000000||costly86gt||05-07-2000||09:55 PM||||Awhile ago I posted what I thought was an alternator problem and you responded with a dirty iac.Well I cleaned that and it stoped dying but now when I am stopped the car seems to jerk when the rpm's go down.The car normally idles at 1000 and then dips to 5 or 4.At the same time the voltage meter dips very fast and the engine loses power.The meter then goes back up very slowly.What could be the problem now?||||reg||5
+Z||000001||Old Lar||05-07-2000||10:15 PM||||Same type problem.. Check to see if any codes are there. 32 code usually...EGR.<P>My problem was the timing was off and the TBI was carboned up.  Reset timing, cleaned the throttle body.||||reg||1
+Z||000002||costly86gt||05-07-2000||10:34 PM||||By the way I did check for any codes, didn't get any.The timing was just set and everything has been cleaned throughly.||||reg||1

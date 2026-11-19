@@ -1,0 +1,14 @@
+A||||12||GT Bastard||How many Auto GT's?||||5||
+Z||000000||GT Bastard||03-29-2000||03:07 AM||||Anybody know how many auto GT's were made in 1987? Raise your hand if you have one.||||reg||5
+Z||000001||Uaana||03-29-2000||04:14 AM||||hand goes up, head goes down...<BR>Used to think having an auto in a sports car<BR>was like kissing your sister. "ya ya got a kiss but it's not like the real thing"<BR>But for dealing with commuter traffic...<BR>ask my recent 85 SE who now resides in a bone<BR>yard.||||reg||10
+Z||000002||Dan87GT||03-29-2000||07:21 AM||||I have a Black 87GT with an automatic, all options except the sunroof||||reg||1
+Z||000003||mrfixit58||03-29-2000||08:46 AM||||I currently have an 87 GT with auto.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> This is my second. I used to have a 85 GT with auto and put 80,000 trouble free miles on it before I sold it. <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>For those of us who have to deal with heavy traffic  <IMG SRC="http://www.fiero.nl/forum/mad.gif"> on a frequent basis, an automatic is much easier to deal with...  <IMG SRC="http://www.fiero.nl/forum/tongue.gif">||||reg||14
+Z||000004||BluByYou||03-29-2000||09:37 AM||||'87 GT Auto.  All options except subwoofer and rear defroster.  Nifty blue color, too!||||reg||14
+Z||000005||Dave85||03-29-2000||11:03 AM||||'85 GT, Loaded. 114,000 miles.||||reg||1
+Z||000006||sluppy123||03-29-2000||05:47 PM||||Black 87' GT auto, all options except wing & sunroof.||||reg||14
+Z||000007||GT Bastard||03-29-2000||06:56 PM||||Mine is a Maroon/silver 87GT w/ everything but the onions. Anybody have production numbers?||||reg||1
+Z||000008||1FieroGTRacingInc||03-29-2000||11:13 PM||||Mine is Maroon and silver also.. 87 GT w/auto and all option's including sunroof..   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000009||chris6878||03-30-2000||05:00 PM||||85 GT, Auto, Air, Power windows/trunk release, sunroof, and no motor (gets v8 soon  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">)||||reg||7
+Z||000010||Robert||03-30-2000||11:00 PM||||Count me in.  The best thing about an auto is being able to enjoy a cup of coffee during the morning drive to work.<P>Here is a picture of my 87GT Fastback AUTO  (cost = $800 + $4,000) with my best friend on the day he bought his $23,000 Acura.<P>I think I have the better deal<P> <IMG SRC="http://www.fiero.nl/uploads/Peter&i.jpg"> ||||reg||10
+Z||000011||chris6878||03-31-2000||12:38 AM||||sweet car robert (meaning the fiero of course  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> )  gonna have to put some of those side scoops on my 85 GT..  Looks good..<P>||||reg||14
+Z||000012||Sage||03-31-2000||08:44 AM||||White w/blk trim 87GT auto.  What Robert said, I like coffee too.||||reg||1

@@ -1,0 +1,8 @@
+A||||6||88FORMULA-T-TOP-GUY||What was the original color of the "FORMULA" lettering?||||1||
+Z||000000||88FORMULA-T-TOP-GUY||05-02-2001||02:10 PM||||The lettering on my 88 Formula is Grey on the outside and purple on the inside. It is adhesive tape, not paint.  The car is black. <BR>Does that sound original or aftermarket?<P>||||reg||1
+Z||000001||Alex4mula||05-02-2001||02:56 PM||||My red Formula came with silver lettering. I think it only came silver and black. Purple definitely is not stock. Maybe on an Indy C5 Vette...||||reg||1
+Z||000002||LZeitgeist||05-02-2001||07:01 PM||||The only two original colors available were metallic silver, and dark metallic charcoal (not black). The charcoal, for all intents and purposes *looked* black, but it was actually not black. <P>(Trust me - I've worked in computer-cut vinyl for the last 5 1/2 years.)||||reg||1
+Z||000003||KissMySSFiero||05-02-2001||08:13 PM||||what do you mean purple on the inside?  do you mean its on the inside of the car somewhere?  are the letteres faded and look purple on the inside of the lettering.  mine are charcoal.||||reg||1
+Z||000004||Fiero5||05-02-2001||10:46 PM||||It's silver on Marians black Formula.<P>Steve||||reg||7
+Z||000005||88FORMULA-T-TOP-GUY||05-03-2001||04:24 AM||||I mean that the letters are grey on the outside and purple on the inside of the letters, as in two tone. ||||reg||1
+Z||000006||LZeitgeist||05-03-2001||08:25 AM||||The outlined letters may or may not be the factory original ones, but the color inside the letters is supposed to be the body color of the car. The purple is not a factory option.<P>Sounds like something the previous owner added to the decal. ||||reg||1

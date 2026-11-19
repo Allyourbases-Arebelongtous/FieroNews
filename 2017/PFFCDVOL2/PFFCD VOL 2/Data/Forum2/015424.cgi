@@ -1,0 +1,5 @@
+A||N||3||CoolBlue87GT||We all need your help, open, and follow path, everyone needs to help, Please||||3||
+Z||000000||CoolBlue87GT||11-14-2001||04:29 PM||||Please help us get a diecast Fiero made.<P>Follow path, and lend your help, it will benefit all of us.<BR> <A HREF="http://www.fiero.nl/forum/Forum1/HTML/011712.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/011712.html</A> <P>Thank you<p>[This message has been edited by CoolBlue87GT (edited 11-15-2001).]||||reg||3
+Z||000001||rogergarrison||11-14-2001||04:48 PM||||also might try Franklin Mint. There 1/43 scale and more expensive (around $125) but they do make more small production cars and vehicles.||||reg||1
+Z||000002||CoolBlue87GT||11-14-2001||08:09 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by rogergarrison:<BR><B>also might try Franklin Mint.</B><HR></BLOCKQUOTE><P>Good Idea. <BR>||||reg||1
+Z||000003||CoolBlue87GT||11-15-2001||11:54 AM||||This is a plain old 'bump'||||reg||6

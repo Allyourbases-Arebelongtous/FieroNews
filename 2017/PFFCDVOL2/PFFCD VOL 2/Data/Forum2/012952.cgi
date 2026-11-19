@@ -1,0 +1,5 @@
+A||||3||fldevel||THUMP THUMP THUMP!! grr||||1||
+Z||000000||fldevel||08-19-2001||11:26 PM||||ok .. today some dip schitt cut across in front of me on a side road and i locked up the breaks on the new formula i had just gotten a week r so ago now i have a flat spot on the left front  tire whre it had locked and now at low speeds it "thumps"  .. its really anoying is there anyway to get rid of this ? i went down some back roads at like 40 mph and rutting from one side of the roadd to the other really sharply to see if i could wear the tires enoguh to keep it from doing this but no luck ...thump thump ahh!!<BR>||||reg||1
+Z||000001||85fierogt||08-19-2001||11:29 PM||||new tire?!?!?!||||reg||1
+Z||000002||fldevel||08-19-2001||11:32 PM||||kool .. a new set of tires . u payin ??  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000003||cadaver||08-19-2001||11:39 PM||||A friend of mine spun his car at like 90 and flat spotted all four. Man that sucked to ride till he got tires.||||reg||1

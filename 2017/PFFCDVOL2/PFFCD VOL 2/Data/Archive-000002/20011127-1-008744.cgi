@@ -1,0 +1,6 @@
+A||||4||84Bill||Anthony Barber||||14||
+Z||000000||84Bill||07-12-2001||12:10 AM||||I was doing a search for "rust" of all things and I saw this thread. <A HREF="http://www.fiero.nl/forum/Forum1/HTML/005195.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/005195.html</A> <BR>I was moved by the support everyone gave this guy and was wondering how he was doing.||||reg||14
+Z||000001||Galen||07-12-2001||02:32 AM||||I was wondering on a update if there was one.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> <P>------------------<BR>   <IMG SRC="http://www.webjolt.f2s.com/pictures/redcreature.gif">   <BR><FONT SIZE="1">To whom it may concern, The preceeding message was the opinion of this person and not of this forum. If you do not like it. Oh well</FONT>||||reg||1
+Z||000002||wkayl||07-12-2001||10:34 AM||||Check out this site......<BR> <A HREF="http://www.fierowayne.homestead.com/fierowayne.html" TARGET=_blank>http://www.fierowayne.homestead.com/fierowayne.html</A> ||||reg||1
+Z||000003||mrgone||07-12-2001||01:38 PM||||eww. rust. a bunch of my threads prolly showed up eh?||||reg||1
+Z||000004||84Bill||07-12-2001||01:41 PM||||Yeah and not a one of them was about your trunk!||||reg||11

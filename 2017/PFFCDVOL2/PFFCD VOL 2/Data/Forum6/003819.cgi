@@ -1,0 +1,6 @@
+A||||4||JohnnyK||Speaking of R/C||||1||
+Z||000000||JohnnyK||10-17-2001||02:32 AM||||I have a .10 engine for a car here without a piston (I was collecting off a friend who owed me money, but I guess he thought he'd better take the piston out..  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> ANyways.. i am thinking of firing up the lathe and forging a piston for it. My question is, I would assume those only have 1 ring. Anyone have an idea of how I can make the ring, and what is the maximum gap the ring can have (at it's seperation point?) Thanks||||reg||1
+Z||000001||84Bill||10-17-2001||07:33 AM||||Some have rings but most don't Look on the manufacturers website for specs on that particular engine. or better yet just order a piston and sleve from them  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||14
+Z||000002||JohnnyK||10-17-2001||02:27 PM||||Order one? I don't want to actually use the engine. I just want to see if I can do this..  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000003||fierospeeder||10-17-2001||03:53 PM||||im just guessing, <BR>   but you can try a washer, and machine it down thin enough? and in diameter.<BR>grind and drill?<P>||||reg||1
+Z||000004||JohnnyK||10-17-2001||04:34 PM||||Hmm.. Missing the connecting rod.. Maybe it's ebay time..  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1

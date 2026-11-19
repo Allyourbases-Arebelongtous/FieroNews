@@ -1,0 +1,6 @@
+A||||4||151 in. of love||replacing the fuel regulator||||1||
+Z||000000||151 in. of love||02-05-2001||11:46 PM||||Hey Guys/Gals<P>I have never replaced the fuel regulator on a 2.5 TBI -85 auto before<BR>I will be doing so this weekend.<BR>My buddy says just buy a new Throttle Body<BR>NAH- <BR>Has anyone done this before?<BR>Could ya give me some tips?<P>||||reg||1
+Z||000001||theogre||02-06-2001||07:16 PM||||Buy the rebuild kit and replace everything. Don't waste time on just the fuel reg.<P>work slowly and lay everything out in the order you removed it. They aren't rocket sceince. There are no adjustments you need to worry about. The ECM will accomodate any slight change to base idle caused by the repairs.<P>If this one is hosed you could likely get a used one easy enough and rebuild it instead.||||reg||1
+Z||000002||151 in. of love||02-06-2001||10:13 PM||||Thanks once again Ogre<P>Where would you go to get one of those?<P>Are they at any parts store?<P>I would imagine it's in the port of the return line hose or no?||||reg||1
+Z||000003||theogre||02-07-2001||07:10 PM||||the regulator is in the top with the injector. There are pictures in the haynes book.<P>you can get the rebuild kit at any parts store.||||reg||1
+Z||000004||mrossum||02-08-2001||11:29 AM||||i have a spare tbi unit if you end up needing one||||reg||1

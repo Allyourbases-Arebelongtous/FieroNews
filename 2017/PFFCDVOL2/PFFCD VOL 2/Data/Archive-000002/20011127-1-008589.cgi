@@ -1,0 +1,4 @@
+A||||2||Denny||photos from the All-GM Nationals||||6||
+Z||000000||Denny||07-04-2001||07:32 AM||||I've finally gotten some photos posted, just the winners who were present on Sunday.  I'll post more as I get time.<BR> <BR>Enjoy!<BR>  <A HREF="http://albums.photopoint.com/j/AlbumIndex?u=34301&a=13442079&f=0" TARGET=_blank>http://albums.photopoint.com/j/AlbumIndex?u=34301&a=13442079&f=0</A> ||||reg||6
+Z||000001||CoolBlue87GT||07-04-2001||08:21 AM||||Still wish I could have been there.<P>Looks like they had some nice trophies.<P> <IMG SRC="http://www.fiero.nl/uploads/Dsc00135.jpg">  <BR>||||reg||6
+Z||000002||skitime||07-04-2001||09:06 AM||||Hey CoolBlue you know I was pleading and pleading with you to come.  Williamsburg is you next show correct?  We are not sure yet if we will make that one.<P>------------------<BR><UL TYPE=SQUARE><BR><LI>Red 88 GT T-TOP<BR><LI>Red 86 GT<BR></UL><BR>      <IMG SRC="http://www.fiero.nl/uploads/pictures-1_5.jpg"> ||||reg||1

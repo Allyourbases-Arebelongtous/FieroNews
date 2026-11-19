@@ -1,0 +1,3 @@
+A||||1||theogre||Cave Update||||10||
+Z||000000||theogre||07-26-2000||10:27 PM||||I added a couple more pages and fixed a broken link. A few other pages have minor tweeks.<P>------------------<BR>Lake Superior? Is that what I stepped in? Sorry.||||reg||10
+Z||000001||2M4 Dale||07-26-2000||11:45 PM||||Hey Ogre, I just wanted to tell you THANKS !!! I installed a power trunk release in my Fiero this past weekend using the directions from your "Cave". Question though...I used a harness from a 85GT on my 87 coupe. Even after mounting everything (switch, relay, solenoid, harness) I still had to run an additional ground wire from the solenoid to the frame. Do I have a ground problem elsewhere ? With the "extra" ground wire everything works. Without it nothing.||||reg||5

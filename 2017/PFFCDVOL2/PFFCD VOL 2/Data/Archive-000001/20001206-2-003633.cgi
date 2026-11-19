@@ -1,0 +1,4 @@
+A||||2||Richard Parnell||Slave replacement||||5||
+Z||000000||Richard Parnell||05-08-2000||03:35 PM||||Where can I but the correct slave cyl for the clutch?  I want the one that looks like a tube about the diameter of a quarter an 6-8 inches long, not the thick short cast one from Raybestos. It will not work with that cast cyl..  I'm limping along right now with the old slave that I had ATF in and it will not hold pressure.  I'm barely able to shift the gears right now.||||reg||5
+Z||000001||Phil||05-08-2000||09:58 PM||||You most likely know that the slave you want is the one for the Isuzu 5sp. The parts store should have a listing for the 4cyl cars||||reg||1
+Z||000002||theogre||05-08-2000||10:31 PM||||put a seal kit in it. All that should be wrong with the one you have is a swollen seal.||||reg||1

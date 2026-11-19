@@ -1,0 +1,3 @@
+A||||1||Songman||Welcome IndySid!||||1||
+Z||000000||Songman||07-22-2001||03:00 AM||||Glad to see you finally made it! I was bragging about your metallic Indy Wind decals not too long ago on the forum. We have quite a few people on the forum here that have Indy's. I still haven't used the other two sets that I got from you yet or I'd probably be ordering some more...<P>Anyway... welcome.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1
+Z||000001||IndySid||07-22-2001||03:41 AM||||Thanks Songman!  It's taken a while, but I'm here!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">  Man, this is a great site.||||reg||1

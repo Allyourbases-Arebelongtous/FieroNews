@@ -1,0 +1,19 @@
+A||||17||tgowens||My sympathies to.....||||1||
+Z||000000||tgowens||09-11-2001||01:38 PM||||those families who have lost loved ones in the tragedies befalling the nation this morning. My heart goes out to you and you are in my prayers.||||reg||1
+Z||000001||Formula88||09-11-2001||01:48 PM||||Yes.  In all of our ardor and anger to punish those responsible, let's not forget the victims in our haste.  My thoughts and prayers are with the victims and their families.  <P>||||reg||9
+Z||000002||GT Bastard||09-11-2001||01:54 PM||||This sh*t is almost dream-like... This is why I stay away from the news.  Sometimes the world is so full of sh!t I can't stand it.  My heart goes out the families of the dead.<P>------------------<BR>     <IMG SRC="http://www.fiero.nl/uploads/gtbastard.gif">     <P>"My heroes are John Wayne, the Simpsons, and whoever canceled Full House/Bob Saget."||||reg||4
+Z||000003||Brandon86SE||09-11-2001||01:57 PM||||I agree our main concern should be with the vicitms and their families.  My thoughts are with all of them.<P>Brandon||||reg||1
+Z||000004||DRH||09-11-2001||02:08 PM||||...||||reg||9
+Z||000005||California Kid||09-11-2001||02:44 PM||||...||||reg||1
+Z||000006||Jaygee79||09-11-2001||02:49 PM||||my prayers are with the victims and their families.||||reg||1
+Z||000007||Galen||09-11-2001||04:03 PM||||My deepest sorrow goes out to the families, friends.. basicly to everyone. Truely a sad sad day in US history. <P>------------------<BR>Ray -  <A HREF="mailto:galen@ezrpg.com">galen@ezrpg.com</A>   - <A HREF="http://www.fierolinks.f2s.com/" TARGET=_blank><B>Fierolinks!</B></A> - <FONT COLOR="blue">Carolina Panthers: <B>1-0-0</B></FONT><BR><FONT COLOR="purple">1988 Hawaiin Orchid Coupe</FONT> - AIM<B>:</B> Fiero88cpe - ICQ<B>:</B> 98668558||||reg||1
+Z||000008||Urchin||09-11-2001||04:05 PM||||...<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/final.jpg"> <BR>If you can read this, I'm parked.||||reg||9
+Z||000009||85Josh||09-11-2001||04:26 PM||||...<P>------------------<BR>85 2M4(Lil' Bit)||||reg||1
+Z||000010||sqoach||09-11-2001||04:49 PM||||Yes, this is a very sad day. I'm at a loss for words...  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>------------------<BR>-Adam<BR><FONT COLOR="BLUE">sqoach@yahoo.com</FONT><BR>        <IMG SRC="http://www.fiero.nl/uploads/sqoach.gif">        <BR>^^^^^^<B>new project</B>^^^^^^<BR><LI><FONT SIZE="1">84 SE (FOR SALE)*sale pending*<BR><LI>85 Coupe (parts car)($50)*sale pending*<BR><LI>86 SC (FOR SALE)</FONT>||||reg||9
+Z||000011||Hank is Here||09-11-2001||05:26 PM||||...||||reg||1
+Z||000012||Mach10||09-11-2001||05:29 PM||||So senseless. My condolences to the families friends and co-workers...||||reg||8
+Z||000013||MsBeth||09-11-2001||07:28 PM||||<P>MSBeth||||reg||9
+Z||000014||formula2||09-11-2001||08:13 PM||||My condolences to all the american people.......................................................................................<P><BR>||||reg||9
+Z||000015||coolcat||09-12-2001||12:38 AM||||Tuesday,September 11,2001....The world is forever chainged.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/headbang.gif"> Gettin good players is easy,gettin them to play together is the hard part||||reg||9
+Z||000016||Tonker||09-12-2001||01:22 AM||||Whole-heartedly agree.||||reg||1
+Z||000017||Kasdan||09-12-2001||08:29 AM||||With the way the world is becoming, i envy those who died.  We should all be so fortunate.<P>------------------<BR>Tyler Morgan<BR>1986 GT Fastback, <BR>  <IMG SRC="http://www.fiero.nl/uploads/FIERO2.JPG">       <BR>Holley Ram-Air, Power Steering, K&N Filtercharger, Bosch Wires, Bosch Platinum Plugs, Conrad Distribuiter Cap/Rotor, New GT Seats, New Headliner, New Carpet, Ocelet Exhaust, Red Underbody Light Kit (coming soon)<BR>Aim=FieroDriver1986||||reg||1

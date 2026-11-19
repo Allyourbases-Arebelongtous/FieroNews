@@ -1,0 +1,6 @@
+A||N||4||jazer||Honda V-Tec Head Question||||5||
+Z||000000||jazer||03-24-2001||03:14 PM||||My buddy is looking into a V-Tec swap for his 91 Civic 1.6L Si.  He figures that while the cam is off that he wants to put in a decent cam.  What type should he put in to maximize his performance?  Thanks.  <P>P.S. Does anybody know of some good sites with upgrade info?||||reg||5
+Z||000001||ferg||03-26-2001||03:05 PM|||| <A HREF="http://pages.prodigy.net/honda-man/" TARGET=_blank>http://pages.prodigy.net/honda-man/</A> <P>this is my friends site- he's totally into honda's and performance, I'm sure he's got some links or info for your friend<P>hope this helps||||reg||1
+Z||000002||KRMFiero||03-26-2001||10:04 PM||||I have friends with Honda's the Vtecs are nice but not much faster then the regular honda engines||||reg||1
+Z||000003||Sleeper||03-26-2001||11:44 PM||||of course <A HREF="http://www..cranecams.com" TARGET=_blank>www..cranecams.com</A>  and <A HREF="http://www.crower.com" TARGET=_blank>www.crower.com</A>  has cams...though a guy at my work built a vtec with alot of SKUNK2 racing products(almost the whole motor) <A HREF="http://www.skunk2.com" TARGET=_blank>www.skunk2.com</A>  i think ||||reg||1
+Z||000004||Will||03-28-2001||10:31 PM|||| <A HREF="http://www.clubsi.com" TARGET=_blank>www.clubsi.com</A> ||||reg||1

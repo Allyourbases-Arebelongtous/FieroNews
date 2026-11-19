@@ -1,0 +1,5 @@
+A||||3||MooCow||I need a 3.4 engine pic!||||5||
+Z||000000||MooCow||01-31-2001||05:15 PM||||Hey someone please post on here an picture of a 2.8 or better yet a 3.4.  I know they are the same so eiter or will be good.<P>                                Thanks Ken<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/kensig_1.jpg"> ||||reg||5
+Z||000001||Steven||01-31-2001||05:20 PM||||Go to this web site <A HREF="http://www.geocities.com/calgaryfieros/3400engine.htm" TARGET=_blank>http://www.geocities.com/calgaryfieros/3400engine.htm</A> ||||reg||1
+Z||000002||MooCow||01-31-2001||05:25 PM||||Thanks very much.  Hey where is White Lake MI?  How far away are you from GR or even Muskegon?<P>                               Thanks Ken<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/kensig_1.jpg"> ||||reg||10
+Z||000003||Steven||01-31-2001||05:45 PM||||White Lake is about 10 to 15 min away from where all of our beloved Fieros were built. It is about 30 min south of Flint (if you don't mind driving kinda fast).<BR>||||reg||1

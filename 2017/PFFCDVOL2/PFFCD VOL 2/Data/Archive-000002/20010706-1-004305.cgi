@@ -1,0 +1,3 @@
+A||N||1||nighthawkbl||Engine?||||1||
+Z||000000||nighthawkbl||11-08-2000||08:31 PM||||What is the best Engine to put in a fiero 84SE or formula? I've been thinking a 3.1 or 3.2.....with a 4 or 5 speed stick?<P>Also, I've not seen a lot of tran... info...on the web or in manuals... Having a powerful engine and a poor trany... well you get the idea....||||reg||1
+Z||000001||batboy||11-08-2000||09:57 PM||||Lots of extra work needs to be done to an 84 to swap a V6 in, since it never was an option that year. Maybe the best engine would be a 3800? The four speed Muncie is a good tranny as is the Getrag five speed.||||reg||1

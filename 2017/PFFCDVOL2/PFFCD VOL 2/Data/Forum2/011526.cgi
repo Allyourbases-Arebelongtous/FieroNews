@@ -1,0 +1,3 @@
+A||||1||prtzlboy||code 21||||1||
+Z||000000||prtzlboy||06-24-2001||12:36 PM||||Ok, so my check engine light comes on and I check the codes.  Code 21 pops up, and my book says "Throttle position sensor (high voltage)" for this code.  What does this mean, and how can I fix it?<P>Forgot to mention, 85 GT v6<p>[This message has been edited by prtzlboy (edited 06-24-2001).]||||reg||1
+Z||000001||starfighter007@msn.com||06-24-2001||03:36 PM||||I am not sure well I dont Know what engine you have what year but probaly you have a misadjusted or bad tpi.I understand Tpi's dont like to get wet as when you wash egine compartment if that happened I would start with a new Tpi.||||reg||1

@@ -1,0 +1,5 @@
+A||||3||Todd Sullivan||3.1 swap
+Z||000000||Todd Sullivan||05-19-99||07:12 PM||||I have a 86 GT with the 2.8 and also have an 91 berreta for a engine doner. can I use the wire harness out of the berreta in the <br>GT or is this a no no .If I can use it what is involved as far as the speedo and ecm,and etc.<br>
+Z||000001||Hock||05-25-99||11:58 AM||||the fiero wiring harness is one of a kind.  to get that swap to work you will have to use the fiero V6 heads, intake, and exhaust manifolds.  not to mention the fac. wiring harness and an aftermarket chip.  but as far as everything else goes the swap should go just fine.
+Z||000002||Carrolles||05-25-99||02:47 PM||||Check to see if the starter is located on the same side of each motor.  Many of the 60 degree v-6 engines have the starter on the opposite side from the Fiero motor.
+Z||000003||PaUL||05-25-99||07:22 PM||||Since the beretta is FWD, the starter should be on correct side, its only the RWD 2.8s that had the starter on the opposite side. <p>As for the wiring harness, I would use the one from the beretta along with the ECM.

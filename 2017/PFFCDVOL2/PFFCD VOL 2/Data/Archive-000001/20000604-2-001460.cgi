@@ -1,0 +1,3 @@
+A||N||1||chris6878||anyone play need for speed 3... i have a fiero car||||1
+Z||000000||chris6878||11-19-1999||06:39 PM||||anyone want to race.. u can race via the internet .. up to 8 players...      let me know  <P>chris||||reg||1
+Z||000001||batboy||11-19-1999||08:54 PM||||Chris, there are several of us that have the Need For Speed 3 game and Fiero now. There has been some discussion about maybe an internet match. We have a long thread currently going on in the "general section" right now, which is probably more appropriate place for this to be instead of here in the "technical section." Check it out!||||reg||1

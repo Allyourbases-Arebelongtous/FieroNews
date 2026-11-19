@@ -1,0 +1,4 @@
+A||||2||87PegasusGT||89 Fiero GT ????!!!!||||1||
+Z||000000||87PegasusGT||01-06-2000||04:52 PM||||Here is a picture of an "89" Fiero GT.<BR>Anyone have any take on this?<BR>Where can you get a styling package like this?http://www.euronet.nl/users/fo_elmo/photos.htm<P>||||reg||1
+Z||000001||DRH||01-06-2000||05:16 PM||||I've seen those same pictures before listed as the 89 Prototype. Since the Fiero wasn't killed until spring of 88, I'm sure prototypes existed. After it was killed, it probably got easier to "leak" the pics. The real question is... How do I get one of the prototype cars ???  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||Monkeyman||01-06-2000||06:24 PM||||Try the back of some corporate heads garage. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

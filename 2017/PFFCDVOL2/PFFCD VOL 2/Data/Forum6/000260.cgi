@@ -1,0 +1,3 @@
+A||||1||sdm1964||My Guard Unit||||1||
+Z||000000||sdm1964||04-25-2000||11:05 PM||||I have been in the military for 15 years, 10 active and 5 guard. I work full time for the Georgia National Guard. I really love it and work with some of the best people. This is my units web page, visit if you want. Loads kinda slow but free.   Go Army!!<P>oops: sorry monkey<BR>here it is    <A HREF="http://www.battledragons.com" TARGET=_blank>www.battledragon.com</A> <P>[This message has been edited by sdm1964 (edited 04-26-2000).]<p>[This message has been edited by sdm1964 (edited 04-26-2000).]||||reg||1
+Z||000001||Monkeyman||04-26-2000||10:16 AM||||Ummm...You wanna post the URL??||||reg||1

@@ -1,0 +1,4 @@
+A||N||2||truxpin||need dimentions between tires||||5||
+Z||000000||truxpin||09-26-2001||05:30 PM||||Anyone got time to measure their car 4 me ? <BR>I need to know the width between tires. From inside the left(front or rear) to the inside of the right(front or rear). <BR>I think I found a nice low trailer to haul my fiero home, but it is a "rail" type trailer. The price was right(free) but I need to make sure the fiero wheels are at least 46 inches in width from the inside measurements. <BR>Thanks agian, soon I will have my fiero with chiltons book in hand. And won't have to ask too many more odd questions. ( I hope!! ) ||||reg||5
+Z||000001||Mark||09-26-2001||08:10 PM||||I measured about 51 inches, front and rear, on my stock '86 GT.||||reg||1
+Z||000002||truxpin||09-26-2001||08:50 PM||||PERFECT!!! <BR>Thanks Mark.||||reg||10

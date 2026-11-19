@@ -1,0 +1,3 @@
+A||||1||Gold-86SE||F-body Forum?||||1||
+Z||000000||Gold-86SE||09-26-2000||12:58 PM||||<BR>I have a friend who just purchased, a-hem, a Camaro and he is learning autos, what do you guys suggest as a good forum where he can learn and ask questions regarding the F-body?<BR><P>------------------<BR> <IMG SRC="http://www.txconnect.com/home/rharris/signature-a.jpg"> ||||reg||1
+Z||000001||whamel||09-26-2000||01:43 PM||||I go to <A HREF="http://www.f-body.org" TARGET=_blank>www.f-body.org</A>  or read the numerous alt.autos.camaro etc. etc. You didn't mention the year, so it would be hard to tell you which 'generation' forum to turn to.  F-body.org should have enough links to get him started no matter what 'era' it's from.<BR>Wade||||reg||1

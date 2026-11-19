@@ -1,0 +1,5 @@
+A||||3||Mi Junk||Questions on Auto to 4 spd?||||5||
+Z||000000||Mi Junk||01-14-2001||11:04 PM||||I'm looking at buying a package deal on a couple of 86 Fieros for 1650 cdn. One is a 4 cyl 5 spd and the other is a GT w/ auto. <BR>I want to switch the GT to a 4 spd. Can I use parts from the 5 spd and get the cables and tranny else where? How about the shifter?<BR>Thanks<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/85_sig_2.jpg"> <p>[This message has been edited by Mi Junk (edited 01-14-2001).]||||reg||5
+Z||000001||1FST2M6||01-15-2001||02:53 PM||||you can.. but you'll need a manual V6 ECU, and the obvious pedal swap... i'm not sure that all the work/time and additional $s you'll put into it would be cost effective... <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sig1fst.jpg"> ||||reg||1
+Z||000002||danny boy||01-15-2001||07:11 PM|||| I  did this, and the shifters are different from 4sp to 5 sp.  ||||reg||1
+Z||000003||Mi Junk||01-15-2001||08:23 PM||||Daany Boy how much work is it and did it cost you alot?||||reg||5

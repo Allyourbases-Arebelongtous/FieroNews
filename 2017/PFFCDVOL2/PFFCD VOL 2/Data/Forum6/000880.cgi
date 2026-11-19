@@ -1,0 +1,3 @@
+A||||1||loafer87gt||Anyone have a RV?||||1||
+Z||000000||loafer87gt||11-05-2000||05:43 PM||||I am working on an animation for a Toursim center at work, and I would like to have a couple of Motorhomes and RV's parked in the lot outside the building. Unfortunately, we have about a foot of snow on the ground and there is no RV's to be found in the city for me to photograph. Any of you guys have a digital camera that you could snap off a front, side, and back view of your trailer so that I could build a 3D model of it? Thanks in advance, cheers||||reg||1
+Z||000001||Monkeyman||11-05-2000||08:04 PM||||A foot of snow??  I guess there really are some advantages to being a Hoosier.||||reg||1

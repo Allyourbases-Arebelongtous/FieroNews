@@ -1,0 +1,4 @@
+A||||2||sluppy123||My CD changer-pics||||10||
+Z||000000||sluppy123||03-03-2001||08:54 PM||||This is where I stuck my CD changer. Now you see it.  <IMG SRC="http://albums.photopoint.com/j/View?u=247832&a=11172186&p=40189742&Sequence=0"> <P>Now you don't.   <IMG SRC="http://albums.photopoint.com/j/View?u=247832&a=11172186&p=40189805&Sequence=0">  <P>------------------<BR>-Brian, Toolmaker<BR>Lincoln, NE<BR>85' SC & 87' GT-Leather, Lowered, Nitrous<BR>    <IMG SRC="http://albums.photopoint.com/j/View?u=247832&a=7653930&p=37756786&Sequence=0">  <p>[This message has been edited by sluppy123 (edited 03-03-2001).]||||reg||10
+Z||000001||RNGCRSH||03-04-2001||02:15 AM||||I sent you e-mail||||reg||1
+Z||000002||deceler8||03-04-2001||10:27 AM||||Nice. Exactly where I'm gonna put mine.<P>Any wiring issues ?<P>And can I drive down to Lincoln and have you put mine in ?<P>The red lug wrench is pretty cool too.||||reg||1

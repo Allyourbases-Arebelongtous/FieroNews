@@ -1,0 +1,3 @@
+A||N||1||Xtreme Fiero's||Recall INFO?!?||||5||
+Z||000000||Xtreme Fiero's||08-24-2000||09:02 PM||||<BR>I have a 84' Fireo SE with a locked motor, it seems to have locked up due to rod failure. I have heard of recals for this it it to late to get  fixed through GM? how can i find out can i got to a pontiac dealer what do i need? how do i know if the recall has already been taken care of. sory if i sound like a moron  <IMG SRC="http://www.fiero.nl/forum/redface.gif">||||reg||5
+Z||000001||My7Fieros||08-24-2000||10:32 PM||||Call 1-800-PMCARES and give them the VIN #...or the VIN # thats on the engine since it came from a diff. car.......they should be able to tell you if the recall was done on that engine or not.||||reg||1

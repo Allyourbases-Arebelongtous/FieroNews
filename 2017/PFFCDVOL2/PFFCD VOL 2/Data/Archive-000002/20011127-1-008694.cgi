@@ -1,0 +1,3 @@
+A||||1||mrgone||speaker fits?||||1||
+Z||000000||mrgone||07-09-2001||12:49 AM||||stock, i know the fronts are 4x10 and rear are 4x6<P>i have a pair of pioneer 5x7's and wanna know which place (front or rear) would the new speakers fit with the least modification.<P>------------------<BR>      <IMG SRC="http://www.fiero.nl/uploads/signature_9.jpg">   <BR><B>86.5 2m4 5speed turd 241,000kms</B>||||reg||1
+Z||000001||b lo 0||07-09-2001||12:56 AM||||Prob up front, as you don't have to widen the opening, just figure out a way to screw it in.  I would reccomend covering the excess speaker hole with metal or plywood (UNDERNEATH the dash), screwing the wood in the stock place, and mount the speaker on the wood, with appropriate holes cut.||||reg||1

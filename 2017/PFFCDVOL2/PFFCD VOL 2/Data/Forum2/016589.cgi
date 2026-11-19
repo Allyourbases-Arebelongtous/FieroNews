@@ -1,0 +1,3 @@
+A||||1||yaya842m4||engine swap||||1||
+Z||000000||yaya842m4||12-21-2001||10:00 PM||||i have a 84 2m4,can i drop in a v6,without a ton of changes or is it impossible,i'm on a slim budget||||reg||1
+Z||000001||Old Lar||12-21-2001||11:06 PM||||Slim budget = no V6 swap.<P>A 4 needs a little wiring work.  There was no v6 in the 84 plan so the car needs to be rewired in the front.<P>A straight used Fiero V6 swap would probably be a high milage engine which would need a rebuild.  <P>You may find a low milage 3.1 that would work for less money or even a 3.4.  Unless you do the work yourself, I'd suspect it would be at least $2k US for the job at the Fiero Shop or some other reputable mechanic.||||reg||1

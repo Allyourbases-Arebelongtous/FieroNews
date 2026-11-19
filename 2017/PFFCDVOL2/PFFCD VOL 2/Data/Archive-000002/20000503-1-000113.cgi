@@ -1,0 +1,5 @@
+A||||3||HF6582||Trans woes
+Z||000000||HF6582||06-07-99||06:54 PM||||I lost reverse in my trans the other day.<br>Today I lifted the car up and put it on stands, so I can drop the craddle( oh joy ).<br>It's an auto, and usually when you lose reverse you lose a forward ( I didn't ).<br>I guess I'll have it rebuilt.<br>If anyone else had their auto do this drop<br>me a line I would like to hear from you.
+Z||000001||lowCG||06-07-99||07:29 PM||||You probably already checked,but could the shifter/cable be skipping R and going for N?<br>Have you heard of any autotrans that can be shifted from the steering wheel(electronic) for these cars?
+Z||000002||GREENDANO||06-07-99||08:22 PM||||My 125 did the same thing.  The dude that rebuilt it for me said it was beat pretty bad.  I took the oppotunity to put a shift kit in at the same time.  It's worth the extra thirty bucks.<br>  Dan-O
+Z||000003||theogre||06-08-99||07:32 AM||||The TH125 is a very common GM unit. Any competant shop should be able to handle it as well as upgrade things like the TCC valve that is known for being a turd.

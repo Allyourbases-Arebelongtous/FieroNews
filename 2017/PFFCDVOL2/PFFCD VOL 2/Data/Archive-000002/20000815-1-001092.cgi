@@ -1,0 +1,8 @@
+A||||6||fierosound||Fiero Wallpaper for your PC||||6||
+Z||000000||fierosound||01-26-2000||05:58 PM||||I put this together as a desktop wallpaper.  To use as a wallpaper, you will have to convert it to BMP.  Enjoy!!!<P>  <IMG SRC="http://www.geocities.com/fierosound/Twallpaper.jpg">  <P>Download a 1024x768 version by clicking the webpage below:<BR> <A HREF="http://www.geocities.com/fierosound/wallpaper.jpg" TARGET=_blank>http://www.geocities.com/fierosound/wallpaper.jpg</A> <P>Download a 800x600 version by clicking the webpage below:<BR> <A HREF="http://www.geocities.com/fierosound/wallpaper2.jpg" TARGET=_blank>http://www.geocities.com/fierosound/wallpaper2.jpg</A> <P><p>[This message has been edited by fierosound (edited 01-26-2000).]||||reg||6
+Z||000001||Raydar||01-26-2000||09:13 PM||||Very Cool! Thanks!||||reg||1
+Z||000002||fierosound||01-27-2000||11:21 PM||||Raydar...<P>Is this desktop picture working out for ya??  Anyone else?/  Looking for something else??<BR>||||reg||10
+Z||000003||mrfixit58||01-28-2000||08:17 AM||||Worked for me. Thanks. My only problem is what to do with all my icons so I can see the pictures.||||reg||14
+Z||000004||Jim Baumann||01-31-2000||12:50 AM||||I put all my icons on my Windows office bar and then hide it on the rt side of my monitor.  Just a suggestion.||||reg||1
+Z||000005||Monkeyman||01-31-2000||04:45 AM||||JB--explain to me about the office bar.  I'm running windows98 if it makes a difference.  I'd like to be able to hide my icons, too.||||reg||1
+Z||000006||Robert||01-31-2000||07:29 PM||||This is where I put all the short cuts on my computer.<P>C:\WINDOWS\Application Data\Microsoft\Internet Explorer\Quick Launch||||reg||1

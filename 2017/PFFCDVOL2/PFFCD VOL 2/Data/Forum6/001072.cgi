@@ -1,0 +1,4 @@
+A||||2||Red2m4||Ricer Cartoon||||10||
+Z||000000||Red2m4||12-10-2000||12:32 AM||||This is kinda funny -  <A HREF="http://www.newgrounds.com/portal/view.php?id=7" TARGET=_blank>http://www.newgrounds.com/portal/view.php?id=7</A> <P><BR>||||reg||10
+Z||000001||fierospeeder||12-10-2000||04:18 AM||||its better then fantasia ||||reg||1
+Z||000002||Black88GT||12-10-2000||11:19 AM||||Has some potential.  He needs to work on the car, maybe rims and stickers like most ricers. <P>------------------<BR>Jeff<BR>'88 GT t-top 3.4<BR>Baltimore, MD<BR>     <IMG SRC="http://cgi.tripod.com/smilecwm/cgi-bin/s/sp/cartmanico.gif">           <IMG SRC="http://cgi.tripod.com/smilecwm/cgi-bin/s/sp/kennyico.gif">         <IMG SRC="http://cgi.tripod.com/smilecwm/cgi-bin/s/sp/stanico.gif">       <IMG SRC="http://cgi.tripod.com/smilecwm/cgi-bin/s/sp/kyleico.gif">           <IMG SRC="http://cgi.tripod.com/smilecwm/cgi-bin/s/sp/chefico.gif"> ||||reg||1

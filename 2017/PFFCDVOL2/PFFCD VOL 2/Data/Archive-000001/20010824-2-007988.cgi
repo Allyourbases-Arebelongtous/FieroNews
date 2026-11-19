@@ -1,0 +1,3 @@
+A||N||1||FIERO1985||Headrest Speakers||||4||
+Z||000000||FIERO1985||01-22-2001||09:30 PM||||I did a dumb thing when re-wiring some aftermarket speakers and cut the headrest speaker wires off and cant remember which wire was connected to which the connection was behind the passenger seat at the bottom I believe there is 4 wires if any one can tell me the correct connections wire to wire I would be greatly appreciative!!<P><BR>Thanks So Much<BR><P>------------------<BR>1985 GT V6 <BR>"LETS RACE"||||reg||4
+Z||000001||Indiana_resto_guy||01-22-2001||11:24 PM||||They should be the same color as the harness at the radio for left and right.||||reg||1

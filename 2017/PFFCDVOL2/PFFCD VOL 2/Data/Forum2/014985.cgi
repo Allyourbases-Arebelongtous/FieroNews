@@ -1,0 +1,6 @@
+A||||4||Adrift||Hooking two sensors into one alarm brain||||1||
+Z||000000||Adrift||11-01-2001||03:29 PM||||My alarm brain (Audiovox Prestige APS-410) Only has one input for a sensor. I have two sensors (bought a microwave sensor seperately) - can I just splice the wires of the two sensors together and plug them into the brain that way?||||reg||1
+Z||000001||isthiswhereiputausername?||11-01-2001||04:11 PM||||Mine has 2 sensors plugged into the 2 wires.. think they spliced it||||reg||1
+Z||000002||falconhulk||11-01-2001||04:23 PM||||If the sensors are just switches, ie open or closed, then tie the ends of both sensors together.  What i mean by this is tie wire 1 of sensor 1 to wire 1 of sensor 2 and wire 2 of sensor 1 to wire 2 of sensor 2.  This way when either close it will trigger the alarm.  ||||reg||1
+Z||000003||Adrift||11-01-2001||06:46 PM||||There are four wires on each sensor because they are two stage sensors||||reg||1
+Z||000004||grinthock||11-01-2001||06:52 PM||||That's fine your system needs to support 2 stage sensors, mine does.  There are 4 pins, 2 PREWARN and 2 ALARM pins.<P>Just put all the PREWARN pin 1's togeather, pin 2's togeather, and the warn pin 1's and teh warn pin 2's.<P>It's just a make brake connection.  The only reason to split on a system with multiple inputs is if you want to differentiate which one went off.||||reg||1

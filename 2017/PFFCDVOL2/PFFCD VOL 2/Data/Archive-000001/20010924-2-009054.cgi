@@ -1,0 +1,2 @@
+A||||0||Wannabe||Series II 3800 205hp||||1||
+Z||000000||Wannabe||03-20-2001||07:52 AM||||When did the 205 hp series II first appear? Was it in '92 in the full size cars, or not until '96? I know that the 170 hp version cam in the itermediates until '96, but still haven't found a straight answer on the 205 hp version. Also, the 205 hp version can be identified by the "intertwined runner" plastic intake, right? TIA.||||reg||1

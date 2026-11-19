@@ -1,0 +1,8 @@
+A||||6||gmata||Pics of Rims||||10||
+Z||000000||gmata||06-09-2000||04:05 PM||||I want to buy some new rims for my 1986 Fiero GT.  I was wondering if you guys had some pics of your wheels.  Would like to see some on a Fiero.<BR>||||reg||10
+Z||000001||triker||06-09-2000||04:21 PM||||'Prime' silver painted 15 inch. <IMG SRC="http://www.fiero.nl/uploads/GTsideview_2.jpg"> ||||reg||1
+Z||000002||BBBAD GT||06-09-2000||05:05 PM||||MiM 16x7" wheels, cost me $75 each brand new, they were below cost on a closeout deal from tiresdirect.<P> <IMG SRC="http://scribers.midwest.net/bbbad50/tracer/Fieroside1.jpg"> ||||reg||1
+Z||000003||BroCar 87||06-09-2000||05:56 PM||||Gmata, There is a website that shows pics on various types of cars... tirerack.com I don't know if they have the GT but they do have a red Fiero on there. <P>Just a little help  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000004||1FST2M6||06-09-2000||07:03 PM|||| <IMG SRC="http://www.fiero.nl/uploads/travis1_2.jpg"> <P>sorry for the grainy pic... 17x7 front 17x8 rear  215-40/ 245-40  Konig GT-R w yokohama A520s||||reg||1
+Z||000005||87FieroGT||06-11-2000||07:44 PM|||| <IMG SRC="http://www.fiero.nl/uploads/frontview2_1.jpg"> <P>Konig Rush Rims W/ 245/45/ZR 16's all around. Tire brand is Continental. I repainted the car and pics will be posted soon.<p>[This message has been edited by 87FieroGT (edited 06-11-2000).]||||reg||1
+Z||000006||batboy||06-11-2000||08:43 PM||||Gmata, let me know if you want to get rid of your old 15" GT wheels for a reasonable price. I just can't seem to scrape up enough cash for new ones due to all my projects.||||reg||1

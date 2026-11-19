@@ -1,0 +1,2 @@
+A||||0||Phantom Rage||Good General Maintence Site||||7||
+Z||000000||Phantom Rage||04-17-2000||05:45 AM||||As usual this is not an endorsement, just found this site useful, it answered some of my questions. Hope this helps someone.  Has a good category about general auto repair, ECT.  <BR> <A HREF="http://www.autosite.com/garage/garmenu.asp" TARGET=_blank>http://www.autosite.com/garage/garmenu.asp</A> <BR>||||reg||7

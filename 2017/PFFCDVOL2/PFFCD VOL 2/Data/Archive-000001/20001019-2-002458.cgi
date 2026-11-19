@@ -1,0 +1,3 @@
+A||||1||86SE||How much exhaust tubeing??||||5||
+Z||000000||86SE||02-24-2000||10:13 PM||||My cat. just blew up (exhaust cat) and I dont havt the money right now to replace it, so im going to cut it out and put a 2.5 inch tube in there until i can get a cat.<P>How much tubeing does it take if I cut it out??  I was thinking about 24 inches but i cant get under there to measure it.<P>Its a 86 V-6 if that helps.||||reg||5
+Z||000001||1FST2M6||02-24-2000||10:36 PM||||24" will be fine just make sure you put plenty of tac welds on it to hold it in place cause if your exhast system is twisted just a little bit she won't fit.. had that problem with my Random Cat... removed and installed it about 4 times before we finally got it right... ||||reg||1

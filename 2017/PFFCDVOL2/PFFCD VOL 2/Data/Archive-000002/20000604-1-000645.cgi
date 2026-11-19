@@ -1,0 +1,10 @@
+A||||8||fiero56||Hey Cliff||||1||
+Z||000000||fiero56||12-01-1999||05:19 PM||||Pardon my ignorance, but what side of the road do you drive on?  What I'm getting at is, are your cars right or left hand drivers?  I just took a good look at the Banner up top, and it looks to me like the  windshield wipers go the opposite direction than our left hand driver cars. Maybe because the driver is on the other side of the car???||||reg||1
+Z||000001||Patrick||12-01-1999||06:09 PM||||<BR>...or it could be because the image is simply flipped over from right to left.||||reg||4
+Z||000002||Cliff Pennock||12-01-1999||06:15 PM||||Patrick is right... That image is flipped. We drive on the right hand side of the road, although I'm mostly to be found on the left side.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>I have been causing quite a lot of confusion with my image flipping haven't I? (the previous logo also had a <I>flipped</I> Fiero)||||reg||10
+Z||000003||fiero56||12-01-1999||06:52 PM||||I had never noticed the wipers going the other way until today.  Never even considered the image being flipped over but that works for me. Did everyone else know the image was flipped and I was just left out of the loop? <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||14
+Z||000004||kel||12-01-1999||06:59 PM||||Yep!!!||||reg||7
+Z||000005||batboy||12-02-1999||11:07 AM||||We had a similar discussion last summer about the old logo, I think someone noticed the gas filler door was on the wrong side or something like that. Just goes to show, we have some very observant folks on the Forum.||||reg||1
+Z||000006||bHooper||12-02-1999||02:06 PM||||so what you are saying is... this is really the OREIF forum, not the FIERO form?  No wonder I've been confused........||||reg||3
+Z||000007||Formula||12-02-1999||05:18 PM||||Then WHY are my wipers the SAME as the one in the pic? just kidding   <IMG SRC="http://www.fiero.nl/forum/wink.gif"><p>[This message has been edited by Formula (edited 12-02-1999).]||||reg||12
+Z||000008||Phil||12-02-1999||05:39 PM||||That's because you are on the inside of the car looking out.||||reg||1

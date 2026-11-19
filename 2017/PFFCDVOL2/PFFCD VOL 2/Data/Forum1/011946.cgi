@@ -1,0 +1,5 @@
+A||||3||fierospeeder||Bumpsteer Kit in Kit Car magazine nov 2001||||1||
+Z||000000||fierospeeder||11-17-2001||10:03 PM||||im not sure if anyone posted this already or not.  <P>They didn't need me at work, so i check out the magazines.  Nov 2001 issue of kitcar has an issue on how to correct fiero bumpsteer in the rear.  <P>held motorsports sells a kit for $625 bucks<BR> <A HREF="http://www.heldmotorsports.com" TARGET=_blank>http://www.heldmotorsports.com</A> ||||reg||1
+Z||000001||fldevel||11-17-2001||10:25 PM||||define bumpsteer???? ||||reg||1
+Z||000002||fierospeeder||11-17-2001||10:28 PM||||"bumpsteer is a change in the toe setting as the wheels move up and down.  This condition is responsible for twitchy handling you may have experienced during transition from a straight line into a corner, and it can be the reason for most high-speed instability problems.  Zero bumpsteer is ideal."||||reg||1
+Z||000003||rogergarrison||11-18-2001||06:43 AM||||I read it when it came out, great article.||||reg||1

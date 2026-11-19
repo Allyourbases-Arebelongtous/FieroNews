@@ -1,0 +1,10 @@
+A||||8||Shiner||Gas Milage
+Z||000000||Shiner||08-04-99||12:13 AM||||What kind of gas milage should an '84 sport coupe with 3speed tranny be getting? I am getting about 20-22 right now.  I have a good air filter, and great compression.  <p>Warren<br>'84 SC
+Z||000001||SkinnyJ||08-04-99||12:27 AM||||from what i know, about 25 city, and near 30 highway
+Z||000002||JetroGT||08-04-99||10:28 PM||||That sounds about right considering you have the 3 spd.
+Z||000003||Dave85||08-08-99||02:31 PM||||I have a V-6 auto and on a trip to Colorado I averaged 32 mpg. On the return going down the mountains probably with a tail wind I got 50 mpg!
+Z||000004||overlord||08-11-99||12:07 PM||||i have 84 (with 87 2.5) and i get about 26 on the hiway..on a good day.
+Z||000005||theogre||08-11-99||01:47 PM||||Overlord,<br>27 highway? in an 87? you got problems. not huge ones, but problems. 87 DIS 2.5 even with the automatic should do better than that.<p>Is the thing an auto tranny? If it is, next time your on the highway, at a constant speed, tap the break while you watch the tach. If the needly doesn't jump about 100 or so RPM, then the torq converter may not be locking up. That would sure a heck screw up gas milage, as well as heat up the tranny more than normal.
+Z||000006||Cooter||08-11-99||08:09 PM||||My 85 4cyl 5 speed got an average of 30 mpg on a recent 300 mile road trip. That was with the ac running the whole time and partly in the rain. During the dry part of the trip, the little beast kept the speedo glued on the 85 mark- about 3,000 rpms. I was very pleased with that kind of economy, just wished my tires were balanced better.
+Z||000007||ChadMan||08-12-99||07:34 AM||||You guys are getting some kick-butt mileage.  Here's what I've gotten:<p>84 4sp, 25-27 city, 30 hwy (70-75 mph)<br>86 4sp V6, 20-22 city, 27 hwy<br>86 auto V6, 20-21 city, 26 hwy<br>88 5sp 4cyl, 28-29 city, 32 hwy<p>And if I go much more than 80 in the 4-bangers, the mileage goes right in the commode.
+Z||000008||Phil||08-17-99||08:29 AM||||I just got back from a cross country trip and I averaged 30.2 mpg-- 5sp V6(S/C 3800)

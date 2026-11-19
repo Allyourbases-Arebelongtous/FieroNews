@@ -1,0 +1,3 @@
+A||||1||fierodude||Power lock question?||||1||
+Z||000000||fierodude||07-02-2001||06:08 PM||||my power locks don't seem to want to work,they make a funny tapping sound any sugestions?<P>------------------<BR>slice the rice! it dosen't pay to drive jap - crap!||||reg||1
+Z||000001||Leadfoot||07-02-2001||06:37 PM||||I had a similiar problem except that the locks would only partially work (i.e. move the slider only half way).  The problem was that the internal components were dry.  Take off the interior panel of the door and spray all the lock components with oil.  That tapping noise might mean the soleniod is working but that the sliders are bound up.||||reg||1

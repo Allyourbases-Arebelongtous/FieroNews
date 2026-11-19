@@ -1,0 +1,2 @@
+A||N||0||danny boy||FORMULA!!! HELLO?!!!||||1||
+Z||000000||danny boy||05-18-2001||08:08 PM|||| We are leaving at 7 AM in the morning.CALL ME ASAP!!!! I need to know if you are going with us for sure!!! We are meeting at my house. If I don't hear from you we may not wait.Also, If you want to take my car (no,not the Stealth) LMK, I'll put the pass seat back in for Jess.<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/PFF_sig_2.jpg"> ||||reg||1

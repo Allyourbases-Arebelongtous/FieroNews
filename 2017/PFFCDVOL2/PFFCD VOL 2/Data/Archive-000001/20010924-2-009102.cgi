@@ -1,0 +1,2 @@
+A||||0||GoCartGuy||Engine swap with the stock tranny?||||5||
+Z||000000||GoCartGuy||03-22-2001||01:27 AM||||I've got an 85 GT V-6 with a 3-speed auto tranny.  What I was wondering is whether or not there is a larger engine swap that I can do and keep the stock 3 speed or if there's one that'll work with an aftermarket 3 speed (is there such a thing)?  I just love the kick that tranny has, blowin many away on the start up.<P>------------------<BR>'85 GT "The GoCart"||||reg||5

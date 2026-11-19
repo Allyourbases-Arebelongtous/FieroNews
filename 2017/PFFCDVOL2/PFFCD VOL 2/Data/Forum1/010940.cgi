@@ -1,0 +1,3 @@
+A||||1||Smoooooth GT||PAGING: 86seYellow:||||1||
+Z||000000||Smoooooth GT||10-12-2001||05:12 PM||||Hi..  MinnGrenn, said that you might be looking for a 120mph speedo cluster..  If you are..  I have one in the mall.  <P>------------------<BR>NOS Injected 2.8L V/6<BR>UNDER CONSTRUCTION   <IMG SRC="http://www.fiero.nl/uploads/smooth_sig2_4_1.jpg"> ||||reg||1
+Z||000001||86seyellow||10-12-2001||07:42 PM||||yea, I am in need of a 120 speedo. I need to know mileage, How much. I will be gone for 2 weeks leaving for high point. Dont have much cash this exact time, put alot of money into car lately, engine and etc. Tell me what ya got and how much<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/86seyellow_new1.JPG"> <BR>All Stock plus goodies||||reg||1

@@ -1,0 +1,6 @@
+A||||4||XDrewX||Catalytic converter disposal ???||||1||
+Z||000000||XDrewX||09-01-2001||04:25 PM||||Are there any laws regarding the disposal of old converters?  ||||reg||1
+Z||000001||Mach10||09-01-2001||05:46 PM||||In Manitoba, my province, It's illegal to huck them at cop cars...<P>Most people I know just leave them where they fall off the car  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||6
+Z||000002||PBJ||09-01-2001||07:35 PM||||In ontairo you can get about $20.00 for an old one if you take it to the right scrap yard.<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/forsalestart.jpg"> ||||reg||1
+Z||000003||Wolfhound||09-01-2001||08:07 PM||||Platinum is the active catalyst.<p>[This message has been edited by Wolfhound (edited 09-01-2001).]||||reg||1
+Z||000004||theogre||09-02-2001||08:39 PM||||The catalyst is very recyclable. The shells go to scrap metal after the core material is seperated for processing.<P>Leggaly, That one seems to depend allot on where you live. The catalyst isn't hazardous material as far as I know, but the platinum is recoverable. Many areas make recycling rules to reduce land fill volume as much as anything else.<P>Many muffler shops and larger service centers will take them. And some places do pay for them. call around.||||reg||1

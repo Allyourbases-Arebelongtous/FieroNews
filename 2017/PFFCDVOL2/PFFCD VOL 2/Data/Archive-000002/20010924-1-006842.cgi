@@ -1,0 +1,6 @@
+A||||4||Mr.Frosty||Got my Sail panels from Paul McKibben......||||10||
+Z||000000||Mr.Frosty||04-13-2001||11:26 AM||||And they look great.I recommend them to every<BR>one.Quality work I must say.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> I'm going to start stock piling these suckas.<P>------------------<BR>88 Formula T-top <BR>85 GT Turbo||||reg||10
+Z||000001||Mr.Frosty||04-13-2001||01:39 PM||||Just a friendly nieghborhood "BUMP"<P>------------------<BR>88 Formula T-top-ForSale <BR>85 GT Turbo-project car||||reg||10
+Z||000002||My7Fieros||04-13-2001||08:17 PM||||Pics?<BR>||||reg||1
+Z||000003||Fierowrecker||04-15-2001||08:18 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Mr.Frosty:<BR><B>And they look great.I recommend them to every<BR>one.Quality work I must say.   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> I'm going to start stock piling these suckas.<P></B><HR></BLOCKQUOTE><P>I agree!<BR>Paul does good work!<BR>If you want pics, <A HREF="http://www.walnutgrovefarm.net" TARGET=_blank>www.walnutgrovefarm.net</A> <BR>crash...||||reg||1
+Z||000004||Bluebottlejunky||04-15-2001||08:22 PM||||Sweet I just got mine in a few days ago they look GREAT!<P>------------------<BR>Mike<BR>85'GT 4sp, <BR>AOL IM: Fierofanatic2001||||reg||6

@@ -1,0 +1,4 @@
+A||||2||AdoRe||3.61 Trans???||||5||
+Z||000000||AdoRe||10-18-2000||03:17 PM||||Wich transmission is the 3.61 is it the getrag 5spd??<BR>my frend would like to have a 3.61 final drive ratio for his sunbird 2.0T and we where wondering from wich car ther off????<BR>thanks||||reg||5
+Z||000001||lou_dias||10-19-2000||12:04 AM||||Yes, but alot of people seem to think it's 3.65, but that was the 4 speed.||||reg||1
+Z||000002||Standard||10-19-2000||01:38 AM||||Good luck trying to get a Getrag from a Fiero guy  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>Mike -<BR>Black 86.5 GT 5 Spd, 151,000 miles and counting!         <IMG SRC="http://www.fiero.nl/uploads/BURNOUT.gif">      <BR>Red 84 Sport Coupe - winter donut maker   <IMG SRC="http://www.fiero.nl/uploads/asthanos.gif"> ||||reg||1

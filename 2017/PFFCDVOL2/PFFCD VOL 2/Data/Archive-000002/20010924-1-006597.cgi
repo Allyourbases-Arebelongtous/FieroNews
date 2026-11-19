@@ -1,0 +1,6 @@
+A||N||4||fierojunky||pics of my car - mabey||||6||
+Z||000000||fierojunky||04-03-2001||11:09 AM||||I hope this works <A HREF="http://albums.photopoint.com/j/View?u=1626470&a=12428885&p=45618923" TARGET=_blank>http://albums.photopoint.com/j/View?u=1626470&a=12428885&p=45618923</A>  and <A HREF="http://albums.photopoint.com/j/View?u=1626470&a=12428885&p=45618920" TARGET=_blank>http://albums.photopoint.com/j/View?u=1626470&a=12428885&p=45618920</A>  ||||reg||6
+Z||000001||stimpy||04-03-2001||11:14 AM||||[QUOTE]Originally posted by fierojunky:<BR> <IMG SRC="http://albums.photopoint.com/j/View?u=1626470&a=12428885&p=45618923">    <IMG SRC="http://albums.photopoint.com/j/View?u=1626470&a=12428885&p=45618920">   <P>||||reg||1
+Z||000002||fierojunky||04-03-2001||11:16 AM||||thanks stimpy   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> i'll figure it out someday  <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif"><p>[This message has been edited by fierojunky (edited 04-03-2001).]||||reg||1
+Z||000003||Kelvin Vivian||04-03-2001||04:05 PM||||What model and year Fiero is that?<P>My guess is that it's an 87 SE V6.<P>I like it a lot...<p>[This message has been edited by Kelvin Vivian (edited 04-03-2001).]||||reg||1
+Z||000004||fierojunky||04-03-2001||04:53 PM||||Hit it right on the nose 87SE V6  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||14

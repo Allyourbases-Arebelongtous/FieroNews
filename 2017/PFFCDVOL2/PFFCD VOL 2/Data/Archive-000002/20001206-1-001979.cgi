@@ -1,0 +1,6 @@
+A||N||4||85gt||Car Pics||||6||
+Z||000000||85gt||04-26-2000||09:40 PM||||Here a picture of my car.<BR>[img]http://www.fiero.nl/uploads/Matt's Fiero.jpg[/img][img]http://www.fiero.nl/uploads/Matt's Fiero 2.jpg[/img]<BR>She's a 85SC with GT front and rear facia. She's not in great shape, but she will be and for $500 I couldn't pass her up.||||reg||6
+Z||000001||TheFiero64||04-27-2000||10:29 AM||||The spaces between matt's & Fiero is messing pip up<BR>I think this fixes it<BR>  <IMG SRC="http://www.fiero.nl/uploads/Matt's%20Fiero.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/Matt's%20Fiero%202.jpg"> <P><p>[This message has been edited by TheFiero64 (edited 04-27-2000).]||||reg||10
+Z||000002||TheFiero64||04-27-2000||10:49 AM||||Yay  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> I fixed it!!! I replaced the spaces in the url with %20 and it fixed it. Like this w.fiero.nl/uploads/Matt's%20Fiero.jpg<BR>Hope this helps someone.||||reg||10
+Z||000003||Raydar||04-27-2000||10:51 AM||||85... Not bad! Any idea what kind of wheels those are? What size?||||reg||1
+Z||000004||85gt||04-27-2000||05:25 PM||||Thanks. The wheels are Cragars. I don't know the exact model they are. They were on the car when I bought it. I need to find some center caps for them. I have one but actually need 4 new ones.<p>[This message has been edited by 85gt (edited 04-27-2000).]||||reg||6

@@ -1,0 +1,6 @@
+A||||4||MrPBody||Blues for MrPBody||||8||
+Z||000000||MrPBody||03-17-2001||07:38 PM|||| <IMG SRC="http://www.fiero.nl/uploads/broken01.jpg"> <P>I <I>broke</I> a swine-fornicating <B>HEAD BOLT</B>!  Middle one on the exhaust side of my ’85 Duke.  I assume the head is stuck on the remaining 9/10ths of the bolt, because the head doesn’t even wiggle under the influence of a 3-lb copper hammer and a crowbar.  (Yes, the other 9 bolts are out.)  The bolt stub is now soaking in penetrating oil to loosen its coat of black crud (looks like exhaust deposit.)  If I ever get the coprophagic cylinder head off, I hope I can remove the broken bolt with a stud extractor.<P><B>AND</B> I think it’s going to rain.  (Of course I’m doing this in the back yard.)  Looks like I’ll be taking the bus to work Monday.<P>The day began so nicely, too.<BR>||||reg||8
+Z||000001||Old Lar||03-17-2001||08:40 PM||||Sorry!||||reg||1
+Z||000002||MrPBody||03-18-2001||10:07 AM||||New day; sun is shining; back to work on the <I>(expletive deleted)</I> head bolt.<BR>||||reg||1
+Z||000003||voyagerspe||03-18-2001||10:14 AM||||Good luck, hope you get the #@$@% thing out.  keep us posted<BR>||||reg||14
+Z||000004||Raydar||03-18-2001||01:26 PM||||Damn, man.<BR>I hate it when that happens.<BR>Good luck.<P>Raydar||||reg||1

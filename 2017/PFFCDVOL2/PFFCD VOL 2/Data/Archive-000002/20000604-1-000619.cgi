@@ -1,0 +1,3 @@
+A||||1||RZURCTN||I just have to say....||||10
+Z||000000||RZURCTN||11-27-1999||05:06 PM||||...a big, heart-felt thanks to FieroDave.  His help has given me a great start at getting my Fiero back on the road.  He gave me a great deal that was just too good to pass up(in fact, I feel kind of bad for having to take advantage of it <IMG SRC="http://www.fiero.nl/forum/smile.gif">) and he has been more than nice and understanding.  I highly recommend him to all of you.  Thanks Dave and good luck!||||reg||10
+Z||000001||AL||11-28-1999||02:06 AM||||i second that also, he is a true friend to have.||||reg||14

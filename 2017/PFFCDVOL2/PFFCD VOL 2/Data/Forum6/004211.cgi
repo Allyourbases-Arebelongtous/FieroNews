@@ -1,0 +1,2 @@
+A||||0||GTFiero1||protable MP3 player help||||1||
+Z||000000||GTFiero1||11-10-2001||03:17 PM||||and body have a JAM protable MP3 player?  i can seem to get this program to work good. the instrustions are crap. it says a can get music from the internet but it doesnt tell me how to put them on the MP3 player. i have Kazaa witha ton of music on it...can any body help?<P>------------------<BR>Adam J. B.||||reg||1

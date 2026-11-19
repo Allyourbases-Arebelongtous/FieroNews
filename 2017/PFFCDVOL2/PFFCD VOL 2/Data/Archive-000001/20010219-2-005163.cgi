@@ -1,0 +1,5 @@
+A||N||3||Spyro86SE||can someone help ||||9||
+Z||000000||Spyro86SE||08-09-2000||12:12 AM||||<BR>i just put a tps sensor in my 86 se v-6 i was wondering does the sensor have to be adjusted to a certain way if any one knows all info will be appriceated thanks ||||reg||9
+Z||000001||mshill||08-09-2000||12:37 AM||||You will probably need to reset the ECM to get it to relearn with the new sensor in it.||||reg||1
+Z||000002||Spyro86SE||08-09-2000||12:56 AM||||i reset everything already now the computer reads adjust tps sensor and or change oxygen sensor so i was just wondering as if the tps sensor has to be adjusted i would try that before i change the oxygen sensor try to save money any way i can ||||reg||9
+Z||000003||Spyro86SE||08-09-2000||12:56 AM||||i reset everything already now the computer reads adjust tps sensor and or change oxygen sensor so i was just wondering as if the tps sensor has to be adjusted i would try that before i change the oxygen sensor try to save money any way i can ||||reg||9

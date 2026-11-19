@@ -1,0 +1,9 @@
+A||N||7||d825077||K&N air filter||||10||
+Z||000000||d825077||02-25-2000||11:05 PM||||Would I notice any difference with my 1984 fiero if I put a K&N air filter in?  Is it worth the extra money?||||reg||10
+Z||000001||ounmongk||02-25-2000||11:09 PM||||you know, I have the same question. Ive heard some dodo claiming that he got close to a 20 hp increase just by changing the filter. Urban legends... I hope someone sheds some light on this. ||||reg||1
+Z||000002||Carolina 88GT||02-25-2000||11:14 PM||||Carefull....sometimes the simplest of questions will get you the worse results..(See the topic on the Sprint Manifolds)..all I wanted to know was.....was anyone using them....and I got all kinds of responses from Quantum Pys. to genetic engineering  <IMG SRC="http://www.fiero.nl/forum/smile.gif">   But of course if you can take a sample of my oil and clone me a GT...||||reg||1
+Z||000003||GT Bastard||02-25-2000||11:18 PM||||I can almost guarantee that you will not notice it.  Remember, it's just an air filter.....||||reg||1
+Z||000004||GT Bastard||02-25-2000||11:50 PM||||In case you're wondering, I've seen dyno results that get anywhere from 2-5hp, and those gains were above 3000rpm. ||||reg||1
+Z||000005||Oreif||02-26-2000||12:39 AM||||The extra money you spend for a K&N is saved later since you don't need to replace it for years. K&N's are cleaned with the "recharge" kit. I have one on my V-6 and did not notice any change.(it might have slightly helped my gas milage but nothing really noticeable) I have cleaned mine once every 5000 miles and had it for 5 years. ||||reg||1
+Z||000006||Formula||02-26-2000||09:18 AM||||It does make a cool sucking noise and I think it might even make the exhaust (2.8) rumble a little bit more. IMHO||||reg||1
+Z||000007||ka4nkf||02-26-2000||10:46 PM||||Test run your car without a filter, and i dont think you will see any increase in power, so that should tell you something.||||reg||1

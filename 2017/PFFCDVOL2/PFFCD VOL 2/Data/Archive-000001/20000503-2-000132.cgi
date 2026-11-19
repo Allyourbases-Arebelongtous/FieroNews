@@ -1,0 +1,2 @@
+A||||0||overlord||any tips apprecaited
+Z||000000||overlord||05-03-99||12:00 PM||||i bought my fiero with decals on it. On both sides under the doors, FIERO is on there. Its a black decal on a red car.<br>My problem is that one one side the decal has started to come off, not bad but enough that u can notice.  How would i go about to fix this? without replacing the whole thing.<br>Is there a product out there for touching up?<br>thanx.

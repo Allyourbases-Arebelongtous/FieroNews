@@ -1,0 +1,3 @@
+A||N||1||SloPonti||third brake light questions||||1||
+Z||000000||SloPonti||02-01-2000||12:23 AM||||i have an 84 coupe and i bought the third brake light from tom! how do i install it! i have not got it yet so i have no idea what it looks like or how it mounts to the roof! do i have to cut the headliner! any info would be of great help!<BR>thanks<BR>Rob||||reg||1
+Z||000001||Monkeyman||02-01-2000||04:29 PM||||I'm getting one from a fellow forum member (thanx again, Mr. Anonymous!).  I plan to put it in my '85 GT but I think I'll mount it at the bottom of the rear window on the ledge.  I plan to install either 5" or 7" wing stands in the spring so this should be able to be seen fairly well.  Just an idea.||||reg||1

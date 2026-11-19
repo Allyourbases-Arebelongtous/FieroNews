@@ -1,0 +1,5 @@
+A||||3||Oreif||Temp gage Problem! Need Help.||||5||
+Z||000000||Oreif||04-22-2000||12:27 PM||||I installed an 87 dash into my 86SE. Nere is my problem: When I start the car (cold) the temp gage reads 140. When warmed up it sits at about 220/230. I went to the temp sensor by the distributor and pulled the wires. Gage still says 140. Ground either wire (both are green) and temp gage pegs. touch short the connector out and gage still reads 140. Am I looking at the right semsor? Has anyone had this problem before? Everything else on the dash works correctly. Even with the ignition on engine not running I read 140.||||reg||5
+Z||000001||coyote||04-24-2000||02:09 PM||||have you followed the trouble shooting guide in your service manual??. Sounds like the sensor could be bad. want a replacement to try out???<P>Coyote||||reg||1
+Z||000002||theogre||04-24-2000||02:25 PM||||put the old temp gauge in the new dash. sounds like the replacement gauge has had the needle knocked off.||||reg||1
+Z||000003||Oreif||04-25-2000||01:44 AM||||Coyote, Do you have one I could try-out? The one I got from the auto parts store is the wrong one.||||reg||1

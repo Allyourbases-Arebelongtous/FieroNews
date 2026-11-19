@@ -1,0 +1,9 @@
+A||||7||Cliff Pennock||Anyone here have a Minolta Digital Cam?||||1||
+Z||000000||Cliff Pennock||07-10-2001||05:40 PM||||Someone gave me a broken Minolta Dimage V and I've fixed it and now it's working perfectly again. But the problem is I don't have any software to download the images from it. I do have the serial cable. I know I could just get myself one of those SmartCard drives, but since I want to experiment with the Cam first, I thought I'd ask if anyone here has the Minolta transfer software.<BR>||||reg||1
+Z||000001||Mach10||07-10-2001||07:35 PM||||I might be able to help you.<BR>Give me till the end of this evening.||||reg||7
+Z||000002||DJRice||07-10-2001||08:56 PM||||Cliff, <P>Youve got mail.  Let me know if the attachment came thru as it was a 5meg zip.<P>--<BR>Dillon||||reg||1
+Z||000003||Mach10||07-10-2001||09:20 PM||||Never mind then  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000004||Cliff Pennock||07-10-2001||09:26 PM||||Dillon, thanks for the file. I tried it but it didn't work...  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>Everytime I click "Connect Camera" I get a message that it couldn't find the camera. I've tried playing with the settings, but that didn't help. Thanks anyway.||||reg||1
+Z||000005||Cliff Pennock||07-10-2001||09:30 PM||||Mach10, by all means, <B>do</B> mind! The software I got didn't work, so if you have something that <B>does</B> work...  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||6
+Z||000006||DJRice||07-10-2001||10:18 PM||||I surfed on over to driverguide.com and I think I found what you need.  You have mail again.  Hope this helps.  ||||reg||1
+Z||000007||Cliff Pennock||07-11-2001||02:08 AM||||Dillon, for some reason I couldn't open the file you had attached with your email (I don't use Outlook) but I had a look at driverguide.com and found what you were trying to send me. It works! Thanks again!||||reg||1

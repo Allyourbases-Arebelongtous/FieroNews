@@ -1,0 +1,3 @@
+A||||1||85fierogt||notchback to a fastback||||5||
+Z||000000||85fierogt||08-19-2001||11:28 PM||||aight guys am i just imagining something or did i see a kit out there to turn your notch to fast if so can you please post the website and or info on it im just curios and is it even possiable, thanxs a million<BR>-brad||||reg||5
+Z||000001||cadaver||08-19-2001||11:44 PM||||Well there is two was to go. Most people just swap fastback parts onto there notch and turn it into one.<BR>Pisa sells a kit or they did called a GTFX witch added the fastback style to a notch but kept the notch deck lid and taillights. <BR>Personnaly I didnt like the way it looked and one of the best parts of doing this is getting the GT lights.||||reg||1

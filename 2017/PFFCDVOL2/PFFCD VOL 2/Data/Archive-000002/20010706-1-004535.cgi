@@ -1,0 +1,3 @@
+A||||1||Philphine||so much for cheap thrills||||1||
+Z||000000||Philphine||11-27-2000||12:11 PM||||<BR>i've decided to get the wing i've been wanting for a fiero. every time a look at a muscle mustang mag i see it and imagine it on a fiero. i had decided to let my cheap fiero stay a cheap car but this wing will pretty much blow that concept. <P>actually i paid so little for the car initially that even with custom wheels and now the wing i'm still around $1000. <P>------------------<BR>Phil T<P>'87 coupe (feral)<BR>'84 indy<BR>'84 coupe (cheap thrill)||||reg||1
+Z||000001||Pontiaddict||11-27-2000||04:26 PM||||Just tell everybody you bought it from some guy in an alley for $50, no questions asked.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||6

@@ -1,0 +1,3 @@
+A||||1||Standard||You have to go read..||||14||
+Z||000000||Standard||04-13-2000||02:04 AM||||the magazine scan at <A HREF="http://www.fierodrivers.com/magazines/index.html" TARGET=_blank>http://www.fierodrivers.com/magazines/index.html</A>   the collectible automobile one.  Lots of  information!  must read!  lot's of pics of the would-be 89 Fiero, too.||||reg||14
+Z||000001||bHooper||04-13-2000||03:24 PM||||what a beautiful article about the developement of the fiero!  also a lot of neat info about the 2nd Generation Fiero!  i have been sad all day at the thought of that car never haveing been produced!  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>btw, is it me, or does the grey 2nd generation car look a lot like the '93 camaro/firebird?||||reg||1

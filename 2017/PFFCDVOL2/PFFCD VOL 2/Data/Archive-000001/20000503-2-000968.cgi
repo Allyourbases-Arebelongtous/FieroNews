@@ -1,0 +1,4 @@
+A||N||2||kornholio||V6 voltmeter||||5
+Z||000000||kornholio||09-29-1999||06:24 PM||||What does the voltmeter in your V6's read?  Mine looks like it's between 10.5v and 12.5v most of the time.||||reg||5
+Z||000001||David||09-29-1999||09:03 PM||||Your voltmeter should read about 14 volts while the engine is running.  I would think that the manual would tell the exact voltage, but it will be within a range, say from 14.0 to 14.7 or something like that.  Your low reading means that either the alternator is not charging or the gage is defective.  If the battery doesn't go dead rule out option 1.||||reg||1
+Z||000002||terryk||09-29-1999||10:34 PM||||I would check the voltage at the battery and compare it. Then the alternator. Then the ground wires to the block/cradle. Somewhere there will be a drop. Of course your alternator may be dying or the battery. ||||reg||1

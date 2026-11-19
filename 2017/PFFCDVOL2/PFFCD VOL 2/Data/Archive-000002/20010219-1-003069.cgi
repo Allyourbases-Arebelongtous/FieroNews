@@ -1,0 +1,4 @@
+A||N||2||b lo 0||More nitro junk||||2||
+Z||000000||b lo 0||07-27-2000||11:08 AM||||Hey guys.  Sorry to keep rapping on this subject, but if anyone knows where I can get a used or cheap nitrous system, please let me know.  I'm gonna check Ebay and Excite classifieds.  Thanks.<P>------------------<BR>'85 GT (in progress)  <BR>titled ICE-plates B LO 0 <BR>  <IMG SRC="http://www.angelfire.com/ga3/audioimagery/ice.gif">  <BR>Go to <A HREF="http://www.audioimagery.i-p.com" TARGET=_blank>www.audioimagery.i-p.com</A>  !!!||||reg||2
+Z||000001||1FST2M6||07-27-2000||01:38 PM||||might want to check with Super Truck and Performance.. they are the local INSANELY fast mustang and f-body shop  in kennesaw  678-355-1393  thats where i had my bottle filled... ask for justin||||reg||1
+Z||000002||b lo 0||07-27-2000||02:22 PM||||Thanks 1FST2M6, I'll all 'em this afternoon.||||reg||1

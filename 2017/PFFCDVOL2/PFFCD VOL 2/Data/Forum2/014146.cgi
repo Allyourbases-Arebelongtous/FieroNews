@@ -1,0 +1,5 @@
+A||||3||kempo||is a 3.8Super Charged engine worth it?||||1||
+Z||000000||kempo||10-03-2001||09:58 PM||||I am keeping track of one on eBay, brand new unit used for the quality assurance program, never installed in a car.  I really want the power, and want the biggest bang for my buck engine, and have a 3.4, but I think I'd like the 3.8 S/C engine.  Is it worth $1500 for a new 3.8s/c engine?  Thanks!||||reg||1
+Z||000001||Hank is Here||10-03-2001||10:01 PM||||does it include an ECM and harness?    Tranny?||||reg||1
+Z||000002||kempo||10-03-2001||10:10 PM||||I'd mate it with the 5-speed I already have.  To my knowledge, it does NOT include the ecm or harness.  My local Pontiac dealers said that they'd offer me the same engine, brand new, 0 miles, for $3400.  What suggestions do you have?||||reg||1
+Z||000003||Rick 88||10-03-2001||10:42 PM||||You could save $$$ by purchasing a late model "drop out" SC 3800 from a wreck along with all the accessories, harness, and matching ECM.<P>Rick 88||||reg||1

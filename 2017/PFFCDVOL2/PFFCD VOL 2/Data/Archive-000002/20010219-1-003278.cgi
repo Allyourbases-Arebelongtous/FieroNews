@@ -1,0 +1,2 @@
+A||N||0||1FST2M6||heat deflectors?||||1||
+Z||000000||1FST2M6||08-14-2000||08:36 PM||||does anyone make new heat deflectors for the underside of the rear facia? I just took the ones off my GT before it goes to the body shop for paint and I've polished the CRAP out of them and they are still tarnished. by the heat i would assume... I don't remember my SE having nice Metal ones.. this a GT only thing?||||reg||1

@@ -1,0 +1,3 @@
+A||||1||TOM||Hey 88 database nut||||1||
+Z||000000||TOM||01-16-2000||08:47 PM||||Here are some more numbers<BR>1G2PE11R6JP216208<BR>RED 4 CYL 4SPD GREY<BR>1G2PE11R4JP216367<BR>RED 4 CYL AUTO<BR>1G2PE11R2JP208879<BR>AAA AR9 A01 CD4 C60 D35 D7V E5Z E9Y E9Z FX4 K60 LR8 MM5 MT2 NB2 N73 PB4 PON QAB UM6 U66 VG8 VK3 V73 WV9 YF5 1SA 4OU 6RD 7RD 8UC 82B 82I 829 9UC<BR>All three are going to the crusher.||||reg||1
+Z||000001||88 Database Nut||01-17-2000||01:52 PM||||Hey Tom, Thanks a bunch.  Three more gone, without your help I could never have documented them.  It's guys like you who make this little database project move along quickly.  We've got 917 cars now, one year since I started the project.  Keep up the good work!<P>Thanks,  88 Database Nut (aka John Willhoff)||||reg||9

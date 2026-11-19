@@ -1,0 +1,3 @@
+A||||1||isthiswhereiputausername?||carbine 3000 plus alarms?||||5||
+Z||000000||isthiswhereiputausername?||06-26-2001||06:40 PM||||Does anyone have one of these in their car?<P> The two yellow wires that went to my fusebox came loose, And I cant find out where they were origionally. <BR>(hook one up to the positive, it works, but when I try to trip the alarm, it just shuts itself off again..When I hook both yellow up, the alarm wont work at all..)<P><BR> I dont have my book that came with it, it was misplaced in a move. <BR> Is there anywhere I can get an replacement wiring diagram or photo of the wiring? <P><BR>Thanks<P><BR>||||reg||5
+Z||000001||isthiswhereiputausername?||06-27-2001||12:25 AM||||anyone?  <IMG SRC="http://www.fiero.nl/forum/frown.gif">||||reg||1

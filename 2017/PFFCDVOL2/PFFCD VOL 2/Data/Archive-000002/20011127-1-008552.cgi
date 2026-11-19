@@ -1,0 +1,2 @@
+A||||0||qwikgta||signature pic test..thanks||||1||
+Z||000000||qwikgta||07-02-2001||11:52 PM||||just checking my signature for a new pic<P>Rob<P>------------------<BR>qwikgta@yahoo.com<BR>88 T-Top coupe, 65K, Header no Cat, 16" GTZ rims, short shifter, swaybar, open element air cleaner, hood vents.<BR>http://robsfieroproject.homestead.com/index.html<BR>http://vafiero.com<BR> <IMG SRC="http://www.fiero.nl/uploads/sigpic_1.jpg"> ||||reg||1

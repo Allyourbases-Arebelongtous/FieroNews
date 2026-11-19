@@ -1,0 +1,3 @@
+A||N||1||poupas||isthiswhereiputausername||||1||
+Z||000000||poupas||06-08-2001||03:35 AM||||Hello, by chance, being from PEI, do you drive or know of a yellow fiero, with rims, a notchback, but with GT taillights and rearend, with over-the-roof scoops? My brother was down there a few years ago and took a picture of that car. It is stuck up right beside my car in my mechanics garage. ||||reg||1
+Z||000001||isthiswhereiputausername?||06-08-2001||10:37 AM||||I saw that car also, The driver lives in summerside and works at a bodyshop..guess he builds the panels he has on his.. he has a 4cyll  in it though  <IMG SRC="http://www.fiero.nl/forum/frown.gif"> <P>||||reg||1

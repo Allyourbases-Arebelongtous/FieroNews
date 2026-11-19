@@ -1,0 +1,3 @@
+A||||1||lowfierogt||Fiero tech session||||2||
+Z||000000||lowfierogt||08-24-2001||10:10 AM||||Anyone up for a tech session at my place.  I have started getting the parts for my car and can use some help to fix it.  Im going to start Saturday if anyone is free that day?   <P>Tony<P>------------------<BR>     <IMG SRC="http://lowfierogt.no-ip.com/87%20fiero_files/Jun0302.JPG"> ||||reg||2
+Z||000001||MinnGreenGT||08-24-2001||10:33 AM||||Tony-<P>I'd like to, but already have plans for the weekend.  Sorry.<BR><P>------------------<BR>      <IMG SRC="http://www.fiero.nl/uploads/grngtsig3.jpg"> <BR>Medium Metallic Green 87 GT<BR>3.1L High Output<BR>4 Spd OD Tranny<BR>Open (read: Loud) Exhaust<BR>and More!<BR>-Rob Bartlett||||reg||1

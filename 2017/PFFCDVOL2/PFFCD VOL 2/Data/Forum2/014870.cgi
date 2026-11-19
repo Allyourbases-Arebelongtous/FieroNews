@@ -1,0 +1,4 @@
+A||||2||JohnF||ECM Query||||5||
+Z||000000||JohnF||10-29-2001||10:46 AM||||How do I identify C1 and C2 of ECM?  This is first step of troubleshooting cruise and checks out stalk (which I suspect).||||reg||5
+Z||000001||theogre||10-29-2001||11:53 AM||||what year car and what motor.<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/forum/fullstaff.gif">  <FONT COLOR="blue"><I><B>11-Sept-01, The day the world as we knew it ended.</B></I></FONT>||||reg||1
+Z||000002||JohnF||10-29-2001||12:00 PM||||'88 Tech 4 w/auto!  I have checked continuity of stalk switches - all seem good.  I don't know about voltage.<P>I have checked brake switch solid GRN wire.  Got &lt;3 ohms w/key in RUN so ground circuit is supposed to be correct according to technician (and brake light works great).  <P>Cruise worked properly about 10 times when I installed new stalk, then quit completely.||||reg||10

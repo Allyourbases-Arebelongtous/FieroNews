@@ -1,0 +1,2 @@
+A||||0||Fiero_24||Snowboard for sale.||||4||
+Z||000000||Fiero_24||11-22-2001||10:03 PM||||Selling to buy more stuff from ferrari_momo.<BR> <A HREF="http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=1037520185" TARGET=_blank>http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=1037520185</A> <P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/driverside41.jpg"> <BR>  <A HREF="http://www.geocities.com/fiero_24" TARGET=_blank>http://www.geocities.com/fiero_24</A> <BR>1987 GT||||reg||4

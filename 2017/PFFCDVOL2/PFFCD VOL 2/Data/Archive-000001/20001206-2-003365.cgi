@@ -1,0 +1,6 @@
+A||N||4||d825077||back-up lights||||5||
+Z||000000||d825077||04-25-2000||07:54 PM||||Today when I put my 5 speed 1988 Fiero in reverse I noticed the lights did not light up.  I checked the bulb, but they work fine in the break lights.  The turn signals work, so I know it is not the fuse.  IF I shake the shifter in reverse the lights will come on.  Does anyone have idea as to what is wrong?  Thank you.<p>[This message has been edited by d825077 (edited 04-25-2000).]||||reg||5
+Z||000001||87GT||04-25-2000||08:03 PM||||I have the same problem with my back ups, I have fiddled with the switch but it still wont work.  It will light up for a second but then go out.  I need help on this too. It looks like a pain in the butt side to fix||||reg||1
+Z||000002||DXR_DAD||04-25-2000||08:22 PM||||Use the search Luke??<BR> <A HREF="http://www.fiero.nl/forum/Forum2/HTML/000918.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/000918.html</A> ||||reg||14
+Z||000003||Bruce||04-25-2000||09:20 PM||||Try adjusting the clutch cables- something wears out that affects the movement of the shift lever to the backup light switch.||||reg||1
+Z||000004||DXR_DAD||04-25-2000||09:28 PM||||Whatzup Bruce?<P>That was the same thing you said on the other post. Have we been there before?  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||12

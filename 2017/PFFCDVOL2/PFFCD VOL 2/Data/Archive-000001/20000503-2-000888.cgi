@@ -1,0 +1,2 @@
+A||||0||theogre||part source note||||6||
+Z||000000||theogre||09-19-1999||04:13 PM||||Pep Boys now carries Borg Warner for it's plug wires. Most of the rest of the ignition, and carb parts are also B/W from what I've seen of late.<P>I just put a set of the B/W Select life time wires on my 86 caravan. Nice product and good fit. Seems to be a pretty tough wire. 7mm Helical core wire on a Kevlar/Glass center. The b/w cap & rotor also seemed well made. Prices for all where reasonable.||||reg||6

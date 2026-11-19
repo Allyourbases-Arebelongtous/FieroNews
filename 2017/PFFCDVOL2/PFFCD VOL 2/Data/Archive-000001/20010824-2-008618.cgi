@@ -1,0 +1,4 @@
+A||||2||overlord||washer pump replacment||||1||
+Z||000000||overlord||02-25-2001||04:58 PM||||can i just go to wal-mart and get their #15 washer pump and plug er in?<P>or do fieros need some special kind?||||reg||1
+Z||000001||FieroJoe||02-25-2001||09:39 PM||||I dont think there is a special kind, I would assume that it is a standard GM type pump.  If their cross reference tells you that all Fiero's use that #15, and it looks about the same and the electrical connector is in the right place and of the right type, I would say go for it.<P>------------------<BR>AIM: Snowboarder0311<BR>87 Coupe 5sp. - big resto in progress<BR>  <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1
+Z||000002||Carrolles||02-25-2001||10:34 PM||||I bought a replacement for my 85Se at AutoZone for about $12.00 US.  Works great.||||reg||1

@@ -1,0 +1,11 @@
+A||N||9||smowknm||3800 SC II Intake question - 1st of many||||1||
+Z||000000||smowknm||08-26-2001||11:02 PM||||Been a voyuer on the board for a couple of months.  Great info on everything.  Got a free 86 SE a few months age. Needed an engine.  Well, on account of you guys (reading the board daily), I have a 3800SC II sitting on my garage floor.  Came from a wrecked 96 Riviera.  <P>Does the intake on the supercharger have a slight curve?  Hope it didnt't get damaged in the wreck.<P>Thanks in advance, a million questions to follow.  Never done any kind of swap before.<P>------------------<BR>86 Fiero SE Auto (all over garage)<BR>90 Corvette 6spd||||reg||1
+Z||000001||rodmcneill||08-26-2001||11:16 PM||||I had a feeling someone was watching.... Welcome!||||reg||10
+Z||000002||smowknm||08-27-2001||01:32 AM||||Thanks, glad to be here.||||reg||1
+Z||000003||pontiacs4me||08-27-2001||01:39 AM||||Its supposed to be curved, but you better check to be sure its really a series 2 supercharged, the series 2 didnt come out until 97.  It came out in GTP's, park ave. ultras, regal GS, and Bonneville SSEi,  If it came in a Rivera it is most likely a series I.  ||||reg||1
+Z||000004||smowknm||08-27-2001||01:54 AM||||How can I tell if it is a Series I or II. Vin?  <P>------------------<BR>86 Fiero SE Auto (all over garage)<BR>90 Corvette 6spd||||reg||1
+Z||000005||terryk||08-27-2001||01:59 AM||||Series II SC's came out in 96, not 97.<P>Series II's have silver/grey blowers and Series I's have light tan blowers. <P>||||reg||1
+Z||000006||pontiacs4me||08-27-2001||02:05 AM||||I dont know much about those engines, a friend of mine was at my house, when I was on here, and he told me to reply, with the info he gave me.  He told me the series II wasnt out until 97 so Ill believe him, for now, he has one (a 98) in his 91 lumina.  He knows everything about these engines, so Ill leave it at that...||||reg||1
+Z||000007||pontiacs4me||08-27-2001||02:15 AM||||Ill admit it when im wrong, I looked up information on the buick riviera, and it said the 96 has a series 2.  So Tom was wrong!||||reg||1
+Z||000008||smowknm||08-27-2001||02:27 AM||||Thanks guys for giving me back those additional 35 horses!||||reg||1
+Z||000009||rockcrawl||08-27-2001||06:57 AM||||I believe the series II has evenly spaced exhaust ports, the Series I has them staggered like a 2.8. ||||reg||1

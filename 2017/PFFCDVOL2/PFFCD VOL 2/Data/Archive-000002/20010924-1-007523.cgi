@@ -1,0 +1,4 @@
+A||||2||Haagster||Early Pics from Carlisle||||6||
+Z||000000||Haagster||05-19-2001||09:39 AM||||Here are a couple early pics (weather is supposed to clear up later...)<P> <IMG SRC="http://albums.photopoint.com/j/View?u=1690083&a=12972710&p=48746198"> <P> <IMG SRC="http://albums.photopoint.com/j/View?u=1690083&a=12972710&p=48746199"> <BR>||||reg||6
+Z||000001||Bluebottlejunky||05-19-2001||09:46 AM||||MmMmmmmMMMMmmmm, online car show..<P>------------------<BR>Mike<BR>85'GT 4sp, "Im just glad she drives!" oh..wait!<BR>AIM: Fierofanatic2001||||reg||1
+Z||000002||Haagster||05-19-2001||09:58 AM||||Since this aparently works...<P> <IMG SRC="http://albums.photopoint.com/j/View?u=1690083&a=12972710&p=48746197"> <P>Wayne's World of Fieros<P> <IMG SRC="http://albums.photopoint.com/j/View?u=1690083&a=12972710&p=48746773"> <P>Does this classify as a "rebody"?<P> <IMG SRC="http://albums.photopoint.com/j/View?u=1690083&a=12972710&p=48746774"> ||||reg||7

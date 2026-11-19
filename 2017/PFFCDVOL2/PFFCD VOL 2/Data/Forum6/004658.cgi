@@ -1,0 +1,7 @@
+A||||5||jharmon||test||||1||
+Z||000000||jharmon||12-05-2001||07:15 PM||||Sorry about the test posts.  I thought that I could delete them after I was finished but I can't.  Would the moderator please delete them.<P>Thanks,<BR>John<p>[This message has been edited by jharmon (edited 12-05-2001).]||||reg||1
+Z||000001||jharmon||12-05-2001||07:17 PM||||test2<P>------------------<BR> <IMG SRC="http://www.community.webshots.com/scripts/editPhotos.fcgi?action=showMyPhoto&albumID=22177717&photoID=26560720&security=rYcFiMKXiP"> ||||reg||1
+Z||000002||jharmon||12-05-2001||07:18 PM||||try#3<P>------------------<BR> <IMG SRC="http://community.webshots.com/scripts/editPhotos.fcgi?action=showMyPhoto&albumID=22177717&photoID=26560720&security=rYcFiMKXiP"> ||||reg||1
+Z||000003||jharmon||12-05-2001||07:22 PM||||last try<P>------------------<BR> <IMG SRC="http://www.community.webshots.com/scripts/editPhotos.fcgi?action=showMyPhoto&albumID=22177717&photoID=26560720&security=rYcFiMKXiP"> ||||reg||1
+Z||000004||jharmon||12-05-2001||07:30 PM||||really the last try<P>------------------<BR> <IMG SRC="http://wsphotofews.excite.com/021/om/zz/3B/JX11628.jpg"> ||||reg||1
+Z||000005||Jake_Dragon||12-05-2001||08:30 PM|||| <IMG SRC="http://www.fiero.nl/uploads/left.gif">          <IMG SRC="http://www.fiero.nl/uploads/chs.gif">          <IMG SRC="http://www.fiero.nl/uploads/right.gif">          <IMG SRC="http://www.fiero.nl/uploads/gt2_3.GIF">  <BR>||||reg||1

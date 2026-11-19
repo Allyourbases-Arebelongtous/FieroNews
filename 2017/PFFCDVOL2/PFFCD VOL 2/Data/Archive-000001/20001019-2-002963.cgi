@@ -1,0 +1,3 @@
+A||||1||BAM-BAM||What's the difference?||||5||
+Z||000000||BAM-BAM||03-30-2000||10:53 PM||||   Hey guys/gals,<BR> What's the difference,if any, between the brakes and suspension of an 87GT and an 85GT.<BR>I was thinking of upgrading to the newer modle suspension and brakes. I know that there is a difference in the 88GT, but wasn't<BR>sure about the 87. Any info is greatly appriciated.<P>  Thanx, BAM-BAM  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>P.S. Mine is an 85 <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||5
+Z||000001||Ed||03-30-2000||10:57 PM||||No difference between cars with the same size engine.  <P>I do recommend adding a rear sway bar at the least to cut down understeer.  ||||reg||1

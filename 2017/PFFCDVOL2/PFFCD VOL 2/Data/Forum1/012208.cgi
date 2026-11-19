@@ -1,0 +1,2 @@
+A||||0||fierodave||Testarossa wide body Fiero kit car $3,500 Now on ebay||||14||
+Z||000000||fierodave||11-27-2001||09:52 AM||||<BR>Testarossa wide body Fiero kit car only $3,500 on ebay with no reserve. <BR> <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=598506855" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=598506855</A> <BR>||||reg||14

@@ -1,0 +1,3 @@
+A||N||1||johnt671||msd ?||||1||
+Z||000000||johnt671||03-13-2001||10:14 AM||||saw the msd coil on one of the vendors sites and it sounds good.. been reading about an msd system that some of are using with good results and was wondering about what this system is and the cost.<BR>car is an 84 se 4 cyl.<P>------------------<BR>||||reg||1
+Z||000001||Wade87GT||03-13-2001||11:38 AM||||I haven't tried the MSD, but while you're waiting for some current info you can use the search function here. There has been several posts in the past on this coil and also comparisons with the Accel coil too.||||reg||1

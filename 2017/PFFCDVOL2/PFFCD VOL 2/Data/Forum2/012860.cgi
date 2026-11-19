@@ -1,0 +1,5 @@
+A||||3||Kwez||rad fan, what temp ON ?||||5||
+Z||000000||Kwez||08-16-2001||08:54 PM||||I stopped by the road to answer my cell phone yesterday & noticed the temp needle was higher than usual (about right in the middle, 105 I think is the number)<P>I guess it was the 1st time I let the car run idling for 5 mins ...<P>I don't think the rad fan turned ON,<BR>at what temp is it supposed to turn ON,<BR>anything special I could do to test this ?<P>The temp went down to normal as soon as I started driving by the way.<P>Thanks<BR>Philippe||||reg||5
+Z||000001||KRMFiero||08-16-2001||09:07 PM||||fan goes on at eahter 220 or 235  i forgot, i belive 235 or so....    I dont think your engine was at 105* if it was right in the middle, more like 200-220* somewhere  (its been a while since i have been in a running Fiero  <IMG SRC="http://www.fiero.nl/forum/tongue.gif"><P>Kyle||||reg||1
+Z||000002||theogre||08-16-2001||10:51 PM||||article in my cave about fans covers all that.||||reg||1
+Z||000003||Kwez||08-18-2001||10:20 PM||||ok, thank you.<BR>I'll check the cave||||reg||1

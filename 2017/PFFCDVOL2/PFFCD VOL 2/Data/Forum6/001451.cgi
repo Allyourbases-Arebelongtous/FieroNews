@@ -1,0 +1,3 @@
+A||||1||FIEROGOD||something to be said||||1||
+Z||000000||FIEROGOD||02-15-2001||02:17 AM|||| Just seen the commercial for girls gone wild and girls gone wild coed. Well Hmmmm! What would their parents think or maybe their boyfreinds. Still like it!||||reg||1
+Z||000001||FieroSTETZ||02-15-2001||02:40 AM||||go to <A HREF="http://www.bearshare.com-" TARGET=_blank>www.bearshare.com-</A>  download that software then use it to download the divx version- the whole tape is like 200 megs... mmmm... b00bies... drool.... bearshare is like napster, but yo can do movies too- downloaded gone in 60 seconds in about 40 minutes<P>------------------<BR>  <IMG SRC="http://albums.photopoint.com/j/View?u=1012904&a=7460757&p=25516673&Sequence=0&res=high"> ||||reg||1

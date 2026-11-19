@@ -1,0 +1,6 @@
+A||N||4||JohnsFiero||Brake problem ||||1||
+Z||000000||JohnsFiero||01-02-2001||06:39 AM||||Okay - have an 84 SE.  Got stopped by a train on a hill.  After train passed, brakes went soft - all the way to the floor.  Brakes were working perfectly before that night.  Went out to visit my baby this morning, and now the brake light comes on.  E-brake is completely disengaged though.  First time I have ever had this problem or seen this.  Any ideas as to where to start?!  Bleeding and then move forward or something more drastic?  TIA.||||reg||1
+Z||000001||Phil||01-02-2001||07:26 AM||||The brake light comes on either when the e- brake is applied or when one of the two (front/rear) systems fail. Fill the res. and pump the brakes then check for brake fluid leaks. ||||reg||1
+Z||000002||theogre||01-02-2001||08:42 PM||||loosen the 2 nuts that hold the master cyl to the booster and see if there is brake fluid there. If so the MC let go.||||reg||1
+Z||000003||TheFiero64||01-03-2001||05:08 PM||||The might be a slow leak. Check the fluid first I bet it is low. Then do what theogre said to see if the fluid leaked into the booster.||||reg||1
+Z||000004||Indiana_resto_guy||01-03-2001||08:03 PM||||Check for rusted lines front and rear. Check them closely, also check the rubber hoses at each wheel.||||reg||1

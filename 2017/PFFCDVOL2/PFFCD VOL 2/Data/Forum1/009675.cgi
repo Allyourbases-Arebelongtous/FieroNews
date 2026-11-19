@@ -1,0 +1,2 @@
+A||||0||FieroSoul||Phil's Twofor||||6||
+Z||000000||FieroSoul||08-21-2001||06:51 AM||||  Hey, Big Congratulations to Phil Randolph. He has had his car in two major magazines in one year! Phil, met you the first time at Daytona in March and you told me about finally getting your bar in Hot Rod (I bought a copy when it came out).  Now I saw it in Pontiac Performance this month!  Awesome!  Take care.||||reg||6

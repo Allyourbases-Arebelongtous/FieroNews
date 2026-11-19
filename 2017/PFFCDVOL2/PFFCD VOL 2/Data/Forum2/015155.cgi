@@ -1,0 +1,2 @@
+A||||0||kneebarx||Engine rebuilders in NYC?||||1||
+Z||000000||kneebarx||11-06-2001||01:53 PM||||Hi you guys, <BR>  Does anyone know of a good fiero mechanic in the NYC/westchester area?<BR>  I was looking to get the lower half of my fiero V6 GT 2.8L engine rebuilt(the top was already rebuilt by previous owner and I don't have contact with the previous owner).  And how much would it cost me?||||reg||1

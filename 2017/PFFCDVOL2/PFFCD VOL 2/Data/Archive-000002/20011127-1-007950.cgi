@@ -1,0 +1,3 @@
+A||||1||Cheever2||Here's the Parts Relay website||||3||
+Z||000000||Cheever2||06-06-2001||03:03 AM||||I've been distracted with other matters, so instead of waiting for this to be made perfect, I'll just share it with you anyway.<BR> <A HREF="http://home.houston.rr.com/fierofanatix" TARGET=_blank>http://home.houston.rr.com/fierofanatix</A> <P>There have been one or two additions sent to me which I still need to add (including our first Canadian!).<BR>||||reg||3
+Z||000001||FieroHarry||06-06-2001||09:11 AM||||Hey Cheever, please change mine to 2 hour drive, clean parts please!<P>Thanks<P>------------------<BR><B>Harry Waggoner</B><BR>1985 GT 264K+ <I>FOCOSEVA,FOCOA</I><BR><B>"Im not driving to fast, Im flying to low!"</B>||||reg||1

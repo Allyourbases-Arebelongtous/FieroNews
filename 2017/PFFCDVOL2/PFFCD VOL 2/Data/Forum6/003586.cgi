@@ -1,0 +1,2 @@
+A||||0||Cheever3000||"Let me stay for a day"||||14||
+Z||000000||Cheever3000||09-26-2001||10:51 PM||||Have you heard about this Ramon guy from the Netherlands who is traveling the world with just a backpack?  <A HREF="http://www.letmestayforaday.com/" TARGET=_blank>http://www.letmestayforaday.com/</A> <BR>I think it's cool.  Haven't submitted my home yet as a place for him to stay, but I think I will.  I need to read more of his site first.<BR>||||reg||14

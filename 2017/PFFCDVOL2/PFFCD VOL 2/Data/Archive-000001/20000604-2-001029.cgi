@@ -1,0 +1,13 @@
+A||||11||theogre||dingy blue box ( chime unit )||||1
+Z||000000||theogre||10-05-1999||08:39 PM||||We've had a number of posts about random ringing of the chime box. I've found one of the causes. After having my interior trim apart recently my chime would randomly ding allot more than normal.<P>the clearance of the switch in the hand brake handle is a bit tight. If you watch as you move the handle you'll see a tab on the switch that hits the brake lever. carefully bend this tab down a little bit.<P>After doing this my chime has been quiet unless it supposed to be dinging. No more random B.S.||||reg||1
+Z||000001||bHooper||10-06-1999||12:09 PM||||of course you could just pull the "blue box" and toss it.  i did this 10 years ago and haven't had a problem with the chime since. ||||reg||10
+Z||000002||Greg Piet||10-26-1999||04:58 PM||||I found one of these at the boneyard, and plugged it in.  HOW TERRIBLY ANNOYING!!!!<BR>Just thought I would comment, and if someone desperately needs one let me know!||||reg||1
+Z||000003||theogre||10-26-1999||06:39 PM||||If we took the bones out................<P>It's suposed to be annoying.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> ||||reg||1
+Z||000004||Cliff Pennock||10-26-1999||07:16 PM||||And it's even more annoying when you've just locked your keys inside the car...||||reg||12
+Z||000005||Linx||10-26-1999||10:26 PM||||And I just noticed mine was <I>missing</I>.  Autozone dont carry 'em. ||||reg||1
+Z||000006||lowCG||10-27-1999||01:19 AM||||Where is the blue box? Next to the fuse box?In the fuse box?      I forget.<BR>The reason I'm wondering,is because out of 17 Fieros at the junkyard,I couldn't see any in all of the cars.<BR>Maybe all of the owners had removed them. ||||reg||5
+Z||000007||WisconsinGT||10-27-1999||01:26 AM||||Low, it is under the dash on the passengers side. ||||reg||1
+Z||000008||batboy||10-27-1999||08:08 AM||||Greg, I've been looking for one of those blue dingy boxes. If it's cheap enough, I'll buy it.||||reg||1
+Z||000009||theogre||10-27-1999||09:04 AM||||Oh Joy,<P>guess what..... the random ping is also caused by something loose in the socket under the dash.<P>I had to unplug mine to shut it up while I worked on the headlights..... now it's being trollish again. Oh well.||||reg||1
+Z||000010||DJRice||10-27-1999||09:19 AM||||The first time my Girlfriend rode in the car after I had installed the chime unit and heard it.  It scared her.  <P>"You wanted it to do that?" She asked....<P>||||reg||1
+Z||000011||Monkeyman||11-20-1999||01:52 AM||||Anybody want my chimy thing?  Just pulled it out of the car (I'll take my chances if I leave my headlites on!).  Just pay for shipping and it's yours.||||reg||1

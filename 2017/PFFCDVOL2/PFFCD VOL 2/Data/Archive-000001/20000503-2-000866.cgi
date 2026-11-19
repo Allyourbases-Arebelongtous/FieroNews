@@ -1,0 +1,4 @@
+A||N||2||SloPonti||focca is out of the replica side scoop-help to find one!!!||||9
+Z||000000||SloPonti||09-15-1999||10:45 PM||||about two weeks ago i called focca and ordered the replica fiero side scoop for 30.00 and i still have not received it yet so i called them and they said that they do not have it in stock and they are not sure when they will be getting one in!  i really want this item and actually i really want the real holley side scoop but can not find one!  can someone give me a phone number or a web site so i can order one of these!!! thanks<BR>Rob||||reg||9
+Z||000001||TOM||09-16-1999||11:07 AM||||I will be working on one shortly.||||reg||1
+Z||000002||SloPonti||09-16-1999||05:56 PM||||great-let me know when it is done!-how much and how long till you think you will have one ready? and what will you be making it out of?<BR>thanks||||reg||10

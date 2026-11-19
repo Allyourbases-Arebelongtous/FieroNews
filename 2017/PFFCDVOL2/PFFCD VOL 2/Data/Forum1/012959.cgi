@@ -1,0 +1,15 @@
+A||||13||LoW_KeY||DXR or anyone w/ intake pics again..?||||5||
+Z||000000||LoW_KeY||12-25-2001||10:45 AM||||Just curious you have those pics still? and do you offer the tube in a carbon fiber look? should have the money in two weeks for one these.. sorry to keep ya on hold  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P><BR>-KC <P>------------------<BR>AIM: FierFormula88   <P>   <IMG SRC="http://www.fiero.nl/uploads/low_keysig.gif"> ||||reg||5
+Z||000001||DXR_DAD||12-25-2001||05:03 PM||||LoW KeY check your PM<P> <IMG SRC="http://photos.netclubs.com/live/photos/photocenter/g/m/c/d/cdomf5ah0f7475cqnbief3nlrc/006%5F4%5F0001_tn.jpg"> <P> <IMG SRC="http://photos.netclubs.com/live/photos/photocenter/g/m/c/d/cdomf5ah0f7475cqnbief3nlrc/sstube%282%29_tn.jpg"> <P>DXR_DAD||||reg||1
+Z||000002||DXR_DAD||12-25-2001||05:24 PM||||No I don't have a carbon fiber Look tube, just the polished.<P> <IMG SRC="http://www.fieroproject.com/dxr/air/thumbs/coldair10.jpg"> <P> <IMG SRC="http://www.fieroproject.com/dxr/air/coldair24.jpg"> <P><BR>DXR_DAD||||reg||13
+Z||000003||Smoooooth GT||12-25-2001||06:20 PM||||DXR... I like those...   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000004||LoW_KeY||12-25-2001||06:37 PM||||Take it the filters K&N..? I would guess from it being red but ya never know  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>-KC||||reg||1
+Z||000005||DXR_DAD||12-25-2001||07:10 PM||||The filters are AEROSPEED samr as the ones the Fiero store sells with their set up! They are reuseable/washable.<P>Thanks Smooooth.<P>The pic of my engine has a cone sheilded fitler. I don't sell this filter! its 39.00 from summit.<P>DXR_DAD||||reg||1
+Z||000006||85 gt fiero||12-25-2001||07:20 PM||||DXR_DAD do you have any of those still avaliable i might be interested, Thanx    Randy<P>------------------<BR>17 YEAR OLD WITH A RALLY CAR, FULL ROLL CAGE, SKID PLATES, LIGHT BARS, SCS SUSPENSION, KONI ADJUSTERS,HIGH POINT CUTOFFS,||||reg||1
+Z||000007||DXR_DAD||12-25-2001||07:45 PM||||Yep, I got em"<P>DXR_DAD||||reg||14
+Z||000008||DXR_DAD||12-25-2001||07:50 PM|||| <IMG SRC="http://photos.netclubs.com/live/photos/photocenter/g/m/c/d/cdomf5ah0f7475cqnbief3nlrc/sstube3.jpg"> <P> <IMG SRC="http://photos.netclubs.com/live/photos/photocenter/g/m/c/d/cdomf5ah0f7475cqnbief3nlrc/sstube1.jpg"> <P>$75.00 + $7.00 S&H  <B>Tube only!</B><P><BR>DXR_DAD||||reg||10
+Z||000009||85 gt fiero||12-25-2001||08:46 PM||||Hhmmmm.... i'll talk to my parents and let you know in a bit.  Thanx||||reg||1
+Z||000010||DXR_DAD||12-25-2001||09:02 PM||||Thanks everybody!!!! Just let me know when you want them  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P><BR>DXR_DAD||||reg||10
+Z||000011||Smokin' GT||12-26-2001||02:49 PM||||DXR_DAD, you have mail, I want one!<P>------------------<BR>-87 Bright Blue Metallic GT-<BR>          -Joel||||reg||2
+Z||000012||DXR_DAD||12-26-2001||03:32 PM||||Joel, Red filter, Red collar and polished tube, Waiting for ya  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> <B>YOU HAVE MAIL!</B><P><BR>THANKS<BR>DXR_DAD||||reg||12
+Z||000013||DXR_DAD||12-27-2001||02:11 PM||||Joel, Got your email!   Thanks for the order!<P>DXR_DAD||||reg||14

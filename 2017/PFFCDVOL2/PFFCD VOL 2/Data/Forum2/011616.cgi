@@ -1,0 +1,3 @@
+A||||1||fierodude||GUESS WHAT!!!!!!!!!!!!!!!||||1||
+Z||000000||fierodude||06-26-2001||10:23 PM||||i just scored an 86 se 139,000k spolier, mint interior,american racing mags,sunroof,cracked windshiled,a little peeled paint on the nose for $650! canadian! im so happy, since the fact my gt has never ran since i got it "with a blown motor" i thought id never said this but its gye gye gt!!' as i said $500 firm!<P>------------------<BR>slice the rice! it dosen't pay to drive jap - crap!||||reg||1
+Z||000001||mrgone||06-26-2001||11:03 PM||||yeeew basta'd <BR>that se shuda been mine!!<P>4000$ and counting 86 2m4 peice of crap||||reg||1

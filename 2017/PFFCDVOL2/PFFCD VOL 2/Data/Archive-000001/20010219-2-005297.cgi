@@ -1,0 +1,4 @@
+A||||2||nivlek68||rack bolts||||1||
+Z||000000||nivlek68||08-17-2000||01:01 PM||||does anyone know what size bolts the steering rack uses. there is four of them,i notice that one is broke off and need to replace it. <P>||||reg||1
+Z||000001||nivlek68||08-18-2000||02:36 PM||||i would like to find out,without having to remove one in the parking lot of the parts store.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> ||||reg||1
+Z||000002||hrocker||08-20-2000||05:33 AM||||Just replaced my rack 2 weeks ago...be careful, the bolts wil probably break and you'll have to chisel the welded on nut off the back of the frame bracket. The bolts are 8x1.5mm (commonly known as a coarse thread), and hardened grade 8. Around 50mm long....any good auto parts place should have them....don't go to a hardware store to get these! If you have to chisel the mount nut off, use a good hardened nut from your auto store and some loctite.||||reg||14

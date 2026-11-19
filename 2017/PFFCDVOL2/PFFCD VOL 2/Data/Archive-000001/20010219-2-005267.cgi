@@ -1,0 +1,2 @@
+A||||0||JohnnyK||Slow steering causes?||||1||
+Z||000000||JohnnyK||08-15-2000||04:11 PM||||I have fairly bad steering. If I jerk the wheel, it takes the car a second to follow (makes for an interesting feel..  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> Doesn't feel to unsafe, just not too sporty. I welded the back a-arm support on, and put new bushings in the front upper a-arms, so it's probably a bit out of alignment (doesn't track real bad or anything). What else would cause this steering? Thanks||||reg||1

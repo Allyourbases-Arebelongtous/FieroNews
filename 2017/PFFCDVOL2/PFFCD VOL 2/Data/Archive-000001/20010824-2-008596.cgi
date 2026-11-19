@@ -1,0 +1,3 @@
+A||||1||rodmcneill||88 alternator||||5||
+Z||000000||rodmcneill||02-24-2001||02:27 AM||||Can I put(adapt) a late model(88) alternator in a 86 Fiero GT? Is there a physical difference or is it the connecting plug? I have seen on Ebay recently a company selling high output(130) amp alternators, listed for 88 Fiero only.||||reg||5
+Z||000001||theogre||02-24-2001||03:08 PM||||87 and later alternators use a diferant plug on the side. It is still a 2 terminal setup. I'm not sure if there are any mounting diferances or not. I've not had the 2 versions side by side to look at them. <P>You should be able to buy alternators over 100a right off the shelf for your year.||||reg||1

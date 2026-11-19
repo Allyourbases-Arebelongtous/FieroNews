@@ -1,0 +1,2 @@
+A||||0||Tweek||Smokey's||||1||
+Z||000000||Tweek||06-21-2001||12:47 PM||||Does anyone else have the "pleasure" of having Smokeys Greater shows set up in their back yard for 2 weeks??  All night the lights are on guys are working and the generator is going, oh well, at least I get the best parkin spot in town!<P>You can see a bit of it in this pic<BR> <IMG SRC="http://www.oswg.net/Ted/smokeys0001.jpg"> <P>------------------<BR><BR> <IMG SRC="http://www.oswg.net/Ted/tweek.jpg"> ||||reg||1

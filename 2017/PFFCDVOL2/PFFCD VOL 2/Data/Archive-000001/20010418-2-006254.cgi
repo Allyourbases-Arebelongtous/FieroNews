@@ -1,0 +1,5 @@
+A||||3||btoth||seat reclining handle||||5||
+Z||000000||btoth||10-16-2000||04:00 PM||||well, i was cleaning out the inside of my car yesterday and when i pulled on the driver-side seat's handle to tilt it forward the spring that attaches to the bottom of the handle came disconnected near the floor and i can't reach it.  so now the handle has a habit of moving by itself and loosening my seat (not very safe!)  i tried to remove the whole recliner assembly but those bolts seem awfully long.  is it nessessary to remove the whole seat to remove the assembly??<P>TIA<P>~brian.||||reg||5
+Z||000001||Phil||10-16-2000||04:03 PM||||Just as easy to remove the seat only 4 bolts plus you can clean underneath at the same time.||||reg||1
+Z||000002||Carrolles||10-16-2000||04:26 PM||||Phil is right.  Just remove the seat.<P>BTW those bolts are about 3-1/2" long.||||reg||1
+Z||000003||theogre||10-16-2000||06:39 PM||||First time I took out those bolts I started wondering if the freaking things went all the way thru the seat.||||reg||1

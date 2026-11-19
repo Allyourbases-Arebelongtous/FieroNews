@@ -1,0 +1,2 @@
+A||||0||p4n1c||JET Stage 2 Chip||||1||
+Z||000000||p4n1c||06-01-2001||09:56 AM||||Anyone had any experience with this?  On the S10 forum some guy is claiming 14-17hp/20 ft/lbs torque, I don't know if he pulled those numbers out of an ad or what.<P>Thanks,<BR>Derek<P>------------------<BR>-=-=-=[ p4n1c ]=-=-=-<BR>1988 Olds Cutlass Supreme International<BR>2.8L MPFI V6/TH440-T4 OD auto<BR>"Ride the geriatric mobile.. err..  rocket"||||reg||1

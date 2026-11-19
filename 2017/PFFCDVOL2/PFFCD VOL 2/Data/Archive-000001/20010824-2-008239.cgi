@@ -1,0 +1,5 @@
+A||N||3||COUNTIBLIS||the flywheel||||1||
+Z||000000||COUNTIBLIS||02-02-2001||02:34 PM||||im sorry but where is it? i mean if my mechanic swaped the entire 2.8 for the 3.1 didnt he take the 3.1 flywheel with him?<BR><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/count3.gif"> ||||reg||1
+Z||000001||Oreif||02-02-2001||02:41 PM||||I don't know. Where is the engine he pulled out? Is there a big gear on the backside of the motor? Did the 3.1L come from an auto car or did it come from a manual trans? Did the 3.1L come with a flywheel? (where did the 3.1 come from?)||||reg||1
+Z||000002||COUNTIBLIS||02-02-2001||02:50 PM||||*head explodes*  It came out of a auto beretta.  I dont know if the fly wheel came with it or not, how do i tell!<P><BR>||||reg||1
+Z||000003||Hank is Here||02-02-2001||02:58 PM||||Well, <BR>the truth be said there is no flywheel at all.  Auto's have flexplates.  So there is no  flywheeel just flexplates on both engines.  The flexplate is bolted to the end of the crankshaft on the back of the engine.  <BR>I would look on the back of your old 2.8 to see if the flexplate is still there, if he used it this may be the problem.||||reg||1

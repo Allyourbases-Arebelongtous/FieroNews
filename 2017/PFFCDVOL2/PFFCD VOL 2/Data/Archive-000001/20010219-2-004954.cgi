@@ -1,0 +1,4 @@
+A||N||2||kornholio||messed up speedo||||8||
+Z||000000||kornholio||07-27-2000||04:11 PM||||Does anyone know why my speedo starts to fluctuate as the car warms up?  By the time my car is fully warmed up, the speedo reads constantly at 0 unless I punch the gas.  This has only started happening these last 2 days. I've also noticed that my car has been idling at around 750 RPM. (it used to idle at 900 RPM)  If I leave the car for about 2 hours the speedo works normal again until the car has warmed up.  I have an automatic.  Thanks.<p>[This message has been edited by kornholio (edited 07-27-2000).]||||reg||8
+Z||000001||StuGood||07-27-2000||04:20 PM||||Well, at the risk of stating the obvious - check the obvious  <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif"> .  Like the speedometer sending unit & connector - easy stuff first.  HTH   ||||reg||4
+Z||000002||kornholio||07-28-2000||01:58 PM||||Thanks.  It was just a loose connector.||||reg||14

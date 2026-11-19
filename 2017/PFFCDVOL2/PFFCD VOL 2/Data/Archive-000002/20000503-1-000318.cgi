@@ -1,0 +1,3 @@
+A||||1||WisconsinGT||Fierorama!||||14
+Z||000000||WisconsinGT||09-12-1999||09:16 PM||||I just returned from Fierorama. What a great event. I met alot of wonderful people. The Fiero's were HOT! Every Fiero (Except mine.) was a sight to see. Thanks to NIFE for putting on such a grand event.||||reg||14
+Z||000001||SCCA FIERO||09-12-1999||10:16 PM||||We had a big car show here too. It was not a Fiero show, it had mostly old custom cars, but there were 4 Fieros there. A Formula, an 87 GT and 2 86 GTs. None were really modified, but the 87 GT had 18,000 miles and was flawless. I drove my Fiero along with 2 other Fieros, an 86GT and an 87GT. We drove in a line on the way, that was fun.||||reg||6

@@ -1,0 +1,7 @@
+A||||5||86SE||MIG weld a crack in a manifold?||||5||
+Z||000000||86SE||07-08-2000||01:50 AM||||Is it possible to MIG weld a small 1.5 inch easily accessable crack on cylinder #1 on the front manifold, WITHOUT burning through it and at the same time, (provided a good weld), it will last a long time (at least a year or 4000 miles)???<P>I will have access to a MIG selder and a wire feed welder this weekend.<P>------------------<BR>'86 Special Edition,<BR>High-Output V-6 Fiero||||reg||5
+Z||000001||tgowens||07-08-2000||02:00 AM||||yes sir, it is, I have seen George at the Fiero Shop do it.......<P>------------------<BR>  <IMG SRC="http://www.tgowens.com/my_fiero_sig.gif">   <BR>'87 Fiero GT -  <A HREF="http://www.tgowens.com/fiero/" TARGET=_blank>www.tgowens.com/fiero</A>||||reg||1
+Z||000002||TOM||07-09-2000||11:48 PM||||I weld manifolds all the time with real good results. But you do kind of need to know how to weld not just have access to one;.||||reg||1
+Z||000003||Zman302||07-10-2000||12:28 AM||||Theres nothing to welding those manifolds.  The best way is to practice on some metal of the same gauge to get your heat setting and wire speed where you need it.  I done one about 6 yrs ago on a 2.0 cavalier and its still fine today.   ||||reg||1
+Z||000004||Linx||07-10-2000||09:33 AM||||hmmmm.  then maybe I can send you mine?   <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000005||86SE||07-10-2000||11:59 PM||||Got it welded today, with excellent results!! No TICKING!!  It was a piece of cake!||||reg||10

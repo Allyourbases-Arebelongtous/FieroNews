@@ -1,0 +1,5 @@
+A||N||3||Madrox's Brother||MY 86 GT  HAS GOT TO GO!!!!!||||9||
+Z||000000||Madrox's Brother||12-09-2000||11:53 PM||||SOMEONE.....ANYONE WHO WANTS IT.  I WILL GO AS LOW AS $1,250 FOR IT.  I NEED THE MONEY. I NEED MY MONEY FOR MY CAR AND KRIS GETS THE REST FOR ANOTHER CAR WITH A BACK SEAT AND A TRUNK.  WILLING TO TRADE MABEY FOR A CAR WITH TRUNK AND BACKSEAT.  I CANT STRESS TO ALL OF YOU HOW MUCH I NEED TO GET THIS THING SOLD OR TRADED!  I HATE TO PART WITH IT....BUT THE MX3 NEEDS NEW SPRINGS..AND THE REST OF ITS GOING TO KRIS.  SO PLEASE PLEASE PLEASE.....SOMEONE OUT THERE PLEASE TAKE IT.<BR>||||reg||9
+Z||000001||Madrox's Brother||12-10-2000||10:59 AM||||.||||reg||1
+Z||000002||stimpy||12-10-2000||12:17 PM||||Trade you for a Mazda 323 GTX. Turbo 16 valve all wheel drive... has back seat! Only 99k miles on the clock.||||reg||1
+Z||000003||Greg Piet||12-10-2000||02:14 PM||||It just sucks when these things present themselves but it impossible due to being just way to friggin far away!<BR>(but some useful info would be...<BR>auto/stick?<BR>miles?<BR>pic(s)?)||||reg||1

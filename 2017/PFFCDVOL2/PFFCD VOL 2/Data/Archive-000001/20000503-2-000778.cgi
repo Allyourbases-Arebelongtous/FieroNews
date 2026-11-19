@@ -1,0 +1,2 @@
+A||||0||K9||Where dose this pipe go?
+Z||000000||K9||09-03-99||03:12 PM||||While changing the spark plug wires I found a 1" pipe. The pipe is located by the inner (towards the front of car) valve cover and leads to the air cleaner. Not into the air cleaner but by it. It is not the pipe that goes from the valve cover to the intake. The pipe starts off as rubber then connects to a metal pipe. the pipe is not connected to anything but looks like it should be. I dont konw where it connects, can any one help.

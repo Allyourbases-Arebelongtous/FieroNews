@@ -1,0 +1,3 @@
+A||||1||isthiswhereiputausername?||replacement shifter ?||||5||
+Z||000000||isthiswhereiputausername?||07-11-2001||02:19 PM||||Is there any replacement shifters that are interchangable with any other cars?<BR>(firebirds,etc?)<P>(automatic shifter that goes on the console) <P>also looking for the bracket that attachs my cable to the transmission.. are there any other cars I can grab one off that will fit?(or can be made to fit?)<P>I'm hitting the junkyard tomorrow in search.<P>||||reg||5
+Z||000001||starfighter007@msn.com||07-11-2001||03:36 PM||||I dont know about which things fit from what.But the junk yard is your best betthey have those books that tell them what interchanges with what.besides they will prob.have exactly what you need goodluck||||reg||1

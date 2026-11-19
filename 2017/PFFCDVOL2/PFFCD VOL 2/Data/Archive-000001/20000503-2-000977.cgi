@@ -1,0 +1,4 @@
+A||||2||GT Bastard||How much should this suck?||||1
+Z||000000||GT Bastard||09-30-1999||12:06 PM||||I hooked up a vacuum gauge to a vacuum port in the intake manifold the other day, and I'm pulling about 17 inches of vacuum.  Is this good or bad?  I didn't come across any statistics in my shop manual, so I thought I'd just break down and ask.  Anybody else given their car the vacuum test?||||reg||1
+Z||000001||GT Bastard||09-30-1999||09:55 PM||||anybody?||||reg||1
+Z||000002||Dan||10-02-1999||11:01 AM|||| The old vacuum test just isn't what it used to be. There are too many variables in todays<BR>engines verses 60's and 70's engines for a vacuum test to be indicative as it used to be. It is still helpful in diagoising some problems such as the fluctuatinf needle which may indicate leaky valves. Ever since the map sensors Manifold Absolute Pressure and even before that , the old vacuum reading just ain't what it used to be. ||||reg||1

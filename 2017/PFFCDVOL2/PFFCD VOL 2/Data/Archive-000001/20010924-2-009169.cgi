@@ -1,0 +1,3 @@
+A||||1||Mach10||Suggested mods to TH-125 3-spd||||7||
+Z||000000||Mach10||03-25-2001||03:16 AM||||Looks like I may have an '86 GT-auto coming my way sometime soon. I don't really like auto, but have little choice in the matter. Mostly, I'm worried about performance. Anyone recommend changes that might help me? What can I expect from a performance standpoint? I don't mind bumpy ride  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||7
+Z||000001||TheFiero64||03-26-2001||12:13 PM||||I would try a shift kit first. The Fiero Store has one cheap.<P>------------------<BR>Josh<BR>  <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg"> <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||1

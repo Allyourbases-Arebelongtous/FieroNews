@@ -1,0 +1,4 @@
+A||N||2||Lou Christopher||Aluminum Radiator||||1||
+Z||000000||Lou Christopher||09-06-2001||12:42 PM||||For those of you who have been following this thread.  My radiator is finished and the mfg, Mc cullough radiators will be showing it at the Car parts show, this Fri Sat, and Sun.  It is being held at Clark County Fairgrounds, Springfield Ohio.  If anybody in that area is interested you will get to see it before I do. It was designed with very small side tanks and cap to maximize core area.  I do not know who is in that area but i am told this is a very big show.||||reg||1
+Z||000001||Alex4mula||09-06-2001||01:55 PM||||I'm interested to know how it works in your V8. I guess is cheaper than Archie's unit. Am I right?||||reg||1
+Z||000002||Tina||09-06-2001||07:05 PM||||Great Job,Lou.<BR>Make sure you post some picks for us, before you drop it in.<P>Tina <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

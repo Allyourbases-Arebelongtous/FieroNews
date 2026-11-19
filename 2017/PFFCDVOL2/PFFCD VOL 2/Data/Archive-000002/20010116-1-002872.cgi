@@ -1,0 +1,3 @@
+A||||1||Homicidal||Hey Haze.......ummmmmmm.......||||1||
+Z||000000||Homicidal||07-10-2000||08:13 PM||||Could you use this pic instead of the ones you have OR the one's I posted below?  The one's you have already are too dark and the others are too bright.  There are "just right."<P> <IMG SRC="http://www.members.home.net/lov/images/Pic2.jpg"> <P>Thanks!||||reg||1
+Z||000001||Haze_Performance||07-11-2000||02:24 AM||||No Problem. Ill do it ASAP  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/hazeperformance.jpg">     My Website's  <A HREF="http://www.drive.to/WS6_Fiero.com" TARGET=_blank>WS6 Fiero</A> &                  <A HREF="http://www.drive.to/HMP" TARGET=_blank>H.M.P. </A>||||reg||1

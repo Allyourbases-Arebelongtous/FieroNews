@@ -1,0 +1,2 @@
+A||N||0||fropuff||LeBra Question||||10||
+Z||000000||fropuff||05-26-2000||10:16 PM||||Hey, I was wondering if any of you know if I can shorten the pieces of the bra covering the fenders, next to the hood.  I hope you know what I mean.  FieroDave has a LeBra on his GT.  They do look very nice, but they go too high for my liking, and I was wondering if there is a way to cut and sew the bra together again.  Thanks.||||reg||10

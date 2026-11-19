@@ -1,0 +1,3 @@
+A||N||1||fropuff||Wanted:  OEM sub box picture||||1||
+Z||000000||fropuff||10-29-2000||01:56 PM||||Hey, I am searching for a picture of a stock subwoofer box for a Fiero.  I need to know what one looks like.  Thanks a lot.  I might have to give up on my plan for the time being.  Thanks again.||||reg||1
+Z||000001||dogtired||10-30-2000||04:52 AM||||I didn't jump over there to look, BUT sometimes there are some offered on eBay that have had photos in the past?  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>If you don't find one I may have one on a disk somewhere, but would take time to find.<BR>It is one strange looking DUCK  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>What is your IDEA / PLAN ???<BR>GOOD LUCK||||reg||6

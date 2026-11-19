@@ -1,0 +1,4 @@
+A||||2||jerpro||fisher body||||1||
+Z||000000||jerpro||02-01-2001||10:34 PM||||waht is the fisher body style?<BR>I have two little plastic pieces on each door that say that. Do all fieros have it?<BR>My 87 does not....<P>------------------<BR>Only try your best, and if at first you don't succeed... TRY HARDER.||||reg||1
+Z||000001||Standard||02-01-2001||10:46 PM||||Fisher was the name of the (in-house?) company that did most of GM's bodywork.  Don't know if they're still around, or any real specifics, but I know that they stopped putting the Fisher plaques on Fiero's after 85 or early 86.  My 84 SC has one, but my 86 GT doesn't.||||reg||
+Z||000002||Old Lar||02-02-2001||07:52 AM||||A GM cost saving idea was to use the plain black plastic cover on the Fiero rocker panel versus one that said body by Fisher.  Same with the larger cover on the rocker panel.  84 & 85 had the Fiero logo on the cover.  Big cost savings.||||reg||4

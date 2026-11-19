@@ -1,0 +1,5 @@
+A||||3||Eric||Trans Tips
+Z||000000||Eric||08-19-99||08:09 PM||||While I have the engine out of the cradle should I have my transmission looked at.  It's a five speed Getrag out of an 88GT with 140,000 miles on it.  To my knowledge, there has been no transmission work before and it still shifts and runs throught the gears just fine.  I've heard these things were bulletproof, but could it really use an overhaul or would some new oil suffice?
+Z||000001||batboy||08-19-99||09:54 PM||||At the very least, I would change out all the seals and put clean lube back in. Now's the time to carefully inspect the CV joints and rear axle bearings too.
+Z||000002||theogre||08-19-99||11:57 PM||||do everything the batty one said. no question. not even close to worth the B.S. if you don't.
+Z||000003||terryk||08-20-99||12:37 AM||||While stout, the Getrag is not bulletproof and believing that will be di$appointing.<p>Be nice to it and it will treat you well. But if and whenit blows, only one tranny appears to be more expensive to rebuild and that's the Ford AXOD. I think the Northstar's 4T80E might have pushed the Getrag to #3. <p>The brass alone in a Getrag is $600+. Trust me.

@@ -1,0 +1,2 @@
+A||||0||V8Fiero||Testing new sig.....||||14||
+Z||000000||V8Fiero||07-02-2001||10:47 PM||||Testing 1, 2<BR>Ok. it worked. Now if I can get my name changed. Cant do it with this email and my hotmail account wont work......HELP!!!<P>P.S. I hope RedRavenGT isnt taken already  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>------------------<BR>86 SE Gold<BR>86 GT Red <BR>  <IMG SRC="http://www.fiero.nl/uploads/RedRavensig.JPG">  <p>[This message has been edited by V8Fiero (edited 07-02-2001).]||||reg||14

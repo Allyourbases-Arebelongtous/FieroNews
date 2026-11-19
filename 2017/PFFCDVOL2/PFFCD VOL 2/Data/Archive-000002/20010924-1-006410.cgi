@@ -1,0 +1,3 @@
+A||N||1||Eric_PA||Found Northstar in a junk yard||||1||
+Z||000000||Eric_PA||03-26-2001||01:33 PM||||On my search last weekend to find a 4.9 caddy engine I did come across a Northstar. It was damaged a bit or I would have taken that thing right out of there on the spot. I didn't check to see if the computer was there. Also the front head was cracked due from the impact of the accident it was in. If anyone is looking for parts, this engine is in the Harry's U-Pull-It in Hazleton, PA.||||reg||1
+Z||000001||Dingo||03-26-2001||07:42 PM||||Hi,<P>I am new to Fiero again. I have not owned a Fiero in years. What is the Northstar conversion used for and what gains are made?||||reg||10

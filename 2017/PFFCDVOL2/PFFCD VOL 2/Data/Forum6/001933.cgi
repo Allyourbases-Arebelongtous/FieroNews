@@ -1,0 +1,7 @@
+A||||5||JSocha||Things that you really need for your computer||||10||
+Z||000000||JSocha||04-25-2001||11:02 PM|||| <A HREF="http://rita.thegourmet.com/computers.html" TARGET=_blank>http://rita.thegourmet.com/computers.html</A> <P>Buckwheat say: "Dis sez it all!" <P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/jnjsochasig.jpg"> ||||reg||10
+Z||000001||Cameron||04-26-2001||01:39 AM||||Ok...that's hilarious.  'Nuff' said.<P><P>------------------<BR>Cameron<BR> <A HREF="http://Fiero.NetMARC.com" TARGET=_blank>http://Fiero.NetMARC.com</A> ||||reg||1
+Z||000002||Cheever2||04-26-2001||01:55 AM||||I liked the last one.<P>But what was that about "Terminate smart-ass IT technician".  Hey!  (We get NO respect)<P>||||reg||6
+Z||000003||Formula88||04-26-2001||08:31 AM||||I used to have a desktop wallpaper of a Program Error Box that read:<P>Internet Explorer: This program is crap and will be shut down.<P>You can't believe how many people thought it was a real error message at first look!  If I can find it, I'll throw it on here for people.||||reg||1
+Z||000004||Mach10||04-28-2001||08:24 PM||||"Err100010: THERE IS NO ERROR"<BR>||||reg||6
+Z||000005||JSocha||04-29-2001||11:27 PM||||How bout's the old <B><I>ID 10 T</I></B> error?<P>I love using this one as the explanation for problems with the computers at work when the employees ask what was wrong with their computer.  The funny part is that they have not caught on yet!||||reg||1

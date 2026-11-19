@@ -1,0 +1,5 @@
+A||||3||MD_Fiero||Maryland fieros!!......||||1||
+Z||000000||MD_Fiero||08-09-2001||02:14 PM||||today, i passed a red GT fiero today...some part of baltimore city...perhaps near woodlawn some?..it was parked on the side of the road, next to a window tinting car shop...it has chrom rims...focal's i think...just wondering if it was anyone's car on here...looooooked real nice...clean job too.||||reg||1
+Z||000001||Black88GT||08-09-2001||03:27 PM||||I think I know which one your talking about, I used to see it a lot but not recently. Never got a chance to talk to him though. Did it have any decals?  ||||reg||1
+Z||000002||turbo86se||08-09-2001||03:50 PM||||I passed a sweet white '88GT Sunday on I-68 going through Cumberland. It had black wheels, no spoiler. He didn't notice me in my black SE. <BR>There's also a rough plum '87 coupe F/S near Oakland.||||reg||1
+Z||000003||MD_Fiero||08-09-2001||05:32 PM||||BLACK88, I THOUGHT it was maybe you, guess not....but nah, no decals...strickly red...very clean!!||||reg||1

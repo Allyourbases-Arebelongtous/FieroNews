@@ -1,0 +1,3 @@
+A||||1||Ronen||bent frame||||9||
+Z||000000||Ronen||06-19-2001||02:00 PM||||I just took the front fascia, bumper honeycomb and the metal bar (bumper?) off my 85 Fiero GT. I am looking at the chassis itself and I noticed it is inch bent in a little. How much would it take to have a bent frame?||||reg||9
+Z||000001||Fiero_24||06-19-2001||02:51 PM||||Pound it out with a sledge hammer.  I have to do the same to my 87 GT.  I have had estimates ove over $1000 to fix the front corner.<P>------------------<BR> <A HREF="http://www.geocities.com/fiero_24" TARGET=_blank>http://www.geocities.com/fiero_24</A> <BR>1987 GT||||reg||1

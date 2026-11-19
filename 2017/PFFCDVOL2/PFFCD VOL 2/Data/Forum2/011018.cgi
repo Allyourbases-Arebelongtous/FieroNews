@@ -1,0 +1,2 @@
+A||||0||ROB MAC||ELENORS SHIFTER PROBLEM||||1||
+Z||000000||ROB MAC||06-05-2001||12:30 PM||||There IS another alignment hole. You must find it. If the black plastic cable sleeve  ( NOT the rubber dust cover) is broken and part is sliding loose on the shift cable, that CAN impede proper gear selection. I had to slide the piece back in place and secure it with a tiny hose clamp in order to get my 1st gear to work. ||||reg||1

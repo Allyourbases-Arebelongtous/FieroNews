@@ -1,0 +1,8 @@
+A||||6||DXR_DAD||SAVE THE HEAT SHEILD??||||5||
+Z||000000||DXR_DAD||04-20-2000||03:28 PM||||Is the tape over the EGR tube just aluminum foil duct tape? The blanket seems to be ok, but the silver tape is peeling off.<P>Just for looks?||||reg||5
+Z||000001||1FST2M6||04-20-2000||03:37 PM||||I rewraped mine with ceramic header tape... I'm sure it won'd to any damage to the motor or any of it's parts.. check and make sure NONE of your coil leads, vacuum lines, cold start leads and stuff are on it.. then you can take it off... take the tube to a radiator shop have them "dip it" and you'll have a shiney clean hollow again tube. (mine was all nasty and packed full of carbon and oil deposits cause i had bad valve stem seals) ||||reg||1
+Z||000002||DXR_DAD||04-20-2000||03:42 PM||||THANKS 1FST2M6, I'll do just that.||||reg||14
+Z||000003||theogre||04-20-2000||08:11 PM||||That is Not "Duct" tape. It is allot tougher than that. Using the header tape on that should be fine.||||reg||1
+Z||000004||Gokart||04-20-2000||09:43 PM||||When I had mine off a few months back I had the same question and took Batboy's suggestion of replacing it with the silver, peel back muffler tape. It's holding out nice and looks good as well.||||reg||1
+Z||000005||DXR_DAD||04-20-2000||10:05 PM||||Do I remove the old stuff?, it looks ok just the silver is peeling off, or can I just rap over it?||||reg||1
+Z||000006||Gokart||04-21-2000||06:37 AM||||I peeled all of it off before putting the muffler wrap on Bill. It's hard to get the stuff wrapped around it unless you got it off like I did. Then you get it even and looks professional if I do say so myself!||||reg||2

@@ -1,0 +1,2 @@
+A||||0||fierosound||SOUND DOMAIN - Great Car Audio Website||||14||
+Z||000000||fierosound||04-19-2000||08:49 PM|||| <A HREF="http://www.sounddomain.com/" TARGET=_blank>http://www.sounddomain.com/</A> <P><BR>This store has a great website.  Lots of components, forums, online catalogs with specs., and even features installs for different cars.  There are 4 Fiero installs listed, but they lack pictures, and many are "what I plan to do" as opposed to "what I've done".  Still worth a look though!!||||reg||14

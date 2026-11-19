@@ -1,0 +1,7 @@
+A||N||5||Jay||Passed emmissions! California?||||1||
+Z||000000||Jay||11-20-2001||02:25 PM||||Well I got the car emmission tested in order to sell it...see link<BR> <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=598121072&r=0&t=0" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=598121072&r=0&t=0</A> <P>Here are the results:<P>Gas cap pressure test: Pass<BR>HC ppm  reading: 17    Limit: 108  Pass<BR>CO%     reading: 0.03  Limit: 0.60 Pass<BR>NO ppm  reading: 9    Limit: 1365 Pass<P>Rpms during test averaged 1441 rpms Pass<BR>Dilution 14.3 Pass<P>So it passed with flying colors for Ontario Canada.  Would this have passed in California?<P>------------------<BR>Jay<BR> <IMG SRC="http://www.fiero.nl/uploads/newsig2_copy_1.jpg"> ||||reg||1
+Z||000001||mshill||11-20-2001||03:29 PM||||Hard to tell because in CA they test at idle and 25mph and have different limits for each of the tests.<P>from the readings at 1441 rpm it looks like it would pass though.  If your EGR system is working and you have a cat that is working, it will likely pass in CA regardless.<P>||||reg||1
+Z||000002||Jay||11-20-2001||09:34 PM||||The car was on a dyno @ about 40km/hr||||reg||1
+Z||000003||PBJ||11-20-2001||09:41 PM||||doesn't Calif. require a working "service engine soon light" too???||||reg||1
+Z||000004||Jay||11-20-2001||09:55 PM||||I have that also.||||reg||1
+Z||000005||terryk||11-21-2001||01:21 PM||||California tests aren't really any tighter, we just test every car expect for a few remote areas.||||reg||1

@@ -1,0 +1,6 @@
+A||N||4||SloPonti||85mph 4cyl gagues to 120mpg gt backlight gauges?||||5||
+Z||000000||SloPonti||01-10-2001||12:10 AM||||will the 86-88 backlight gt 120mph and fuel and tack gauges plug and play for a 84 4cyl 85mph gauges? or do i have to recalibrate the speedo and tach of the gt v6 gauges?<BR>thanks<BR>Rob ||||reg||5
+Z||000001||kevin||01-10-2001||02:06 AM||||I have the same question. Perhaps if another question appears on the post someone will answer. Will they adapt easily?||||reg||1
+Z||000002||2xsess||01-10-2001||05:42 AM||||As far as I've heard the tach needs to be recalibrated to the 4cyl, other than that it is plug and play.<P><BR>Not much info but I hope it helps.<BR><P>------------------<BR>Jeff<BR>AOL IM : Only2xsess<BR>  <IMG SRC="http://www.fiero.nl/uploads/My_car_(large)sig_1.JPG"> ||||reg||1
+Z||000003||87ECO5||01-10-2001||07:50 AM||||SloPonti - are you going to go with white faces on these backlit gauges?  I ask because I'm wondering if your reflector gauge white decals are peeling like mine are ...  <IMG SRC="http://www.fiero.nl/forum/mad.gif">||||reg||8
+Z||000004||286SE'S||01-10-2001||03:52 PM||||Go to Olivers tach page for the conversion info:<BR> <A HREF="http://www.franken.de/users/dagobah/luke/Tach.html" TARGET=_blank>http://www.franken.de/users/dagobah/luke/Tach.html</A> ||||reg||1

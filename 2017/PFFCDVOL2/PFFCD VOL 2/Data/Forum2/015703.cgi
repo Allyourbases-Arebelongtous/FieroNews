@@ -1,0 +1,3 @@
+A||||1||lowfierogt||ECM?||||5||
+Z||000000||lowfierogt||11-23-2001||10:44 AM||||I want to put a V6 in my 87 coupe and was wondering if a 85 GT 4 speed ECM will work on a Isuzu 5 speed.  Will I have problems?<BR>I don't have a ECM for a 5 speed. <P> <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>   <IMG SRC="http://lowfierogt.no-ip.com/lowfierogtsig.gif">        <BR>http://lowfierogt.no-ip.com<BR>86 1/2 GT<BR>85 GT Project<BR>87 coupe daily driver over 300k miles||||reg||5
+Z||000001||terryk||11-23-2001||12:40 PM||||Yes it will work, only your upshift light will turn on at odd times.||||reg||1

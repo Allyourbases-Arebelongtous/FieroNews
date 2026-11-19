@@ -1,0 +1,2 @@
+A||N||0||Haze_Performance||$800 Indy Fiero on ebay (Illinois)||||14||
+Z||000000||Haze_Performance||12-18-2001||06:51 PM|||| <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=599294593&r=0&t=0" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=599294593&r=0&t=0</A> <P>------------------<BR>     <IMG SRC="http://www.fiero.nl/uploads/goodlife.gif">       <BR><FONT SIZE="1"><FONT COLOR="red">1984 Indy For Sale ~ <A HREF="http://www.ClassicFiero.com" TARGET=_blank>Click Here</A> </FONT></FONT>||||reg||14

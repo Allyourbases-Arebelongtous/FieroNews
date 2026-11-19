@@ -1,0 +1,3 @@
+A||||1||MooCow||Hey I need a tranny picture and clutch!||||3||
+Z||000000||MooCow||01-31-2001||05:36 PM||||Sorry but now I need a Tranny picture from a Fiero and also a clutch picture from a V6 Fiero.  Sorry but I am doing this for my web page in class.<P>                                Thanks Kee<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/kensig_1.jpg"> ||||reg||3
+Z||000001||fieroshop||02-01-2001||12:03 AM||||MooCow, I have a picture of a clutch on my web site.  <A HREF="http://www.fieroshop.net" TARGET=_blank>http://www.fieroshop.net</A> <BR>Just copy it to your computer.<P>------------------<BR> <BR>      <IMG SRC="http://www.fiero.nl/uploads/fieroshop_sig_1.gif"> ||||reg||6

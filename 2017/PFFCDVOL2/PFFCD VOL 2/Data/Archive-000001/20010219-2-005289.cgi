@@ -1,0 +1,3 @@
+A||||1||MooCow||Is this just a simple ground wire loose?||||5||
+Z||000000||MooCow||08-16-2000||11:47 PM||||Everytime now when I drive my car on the highway the battery gage goes physico.  It lights up that little volt light on it and the needle moves from half then to full.  The oil gage does it to a little but hardley ever.  Do I just need knew gauges or is it in the wireing????<P>                               Thanks Ken||||reg||5
+Z||000001||Thor||08-17-2000||01:22 AM||||I believe It's the gauge. The same thing happened to my 86GT in 91 so I had the gauge replaced...[NOT CHEAP]...However,after 100,000 miles the gauge still functions fine.||||reg||4

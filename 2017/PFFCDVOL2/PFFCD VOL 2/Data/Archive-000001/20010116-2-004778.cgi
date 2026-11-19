@@ -1,0 +1,6 @@
+A||||4||ponya||L/R Quarter panel removal||||5||
+Z||000000||ponya||07-15-2000||10:10 PM||||I have to remove the left rear quarter panel to repair part of the substructure that was dented somehow. I have the manual which shows how to remove the panel, but I have a question. Do I have to remove the sail panel to get the quarter panel off. There is a strip that seems to go under the sail. Haven't started yet, thought I would ask the forum the right way to remove the quarter. Any help appreciated, thanks, Bob||||reg||5
+Z||000001||My7Fieros||07-16-2000||12:17 AM||||you have to remove the interior sail panel for removal of a screw in the 84 models..the others, pull em off...thats what I did, and worked fine. This is for the notchback application..for fastback, theyre held on by some SUPER strong adhesive tape...pull a string through to cut the foamy tape..thats it  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000002||ponya||07-16-2000||09:29 AM||||I appreciate you response, but I wasn't asking how to take out the sail panel, I was asking does the sail panel have to be removed to allow me to remove the left rear quarter panel. Thanks, Bob||||reg||1
+Z||000003||Phil||07-16-2000||04:41 PM||||No||||reg||1
+Z||000004||ponya||07-16-2000||10:21 PM||||Thanks Phil!<P>Bob||||reg||6

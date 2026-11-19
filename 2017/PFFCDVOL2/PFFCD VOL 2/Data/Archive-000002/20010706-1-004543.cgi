@@ -1,0 +1,3 @@
+A||||1||RNGCRSH||Who lives in Dallas Texas?||||5||
+Z||000000||RNGCRSH||11-27-2000||08:41 PM||||Trying to find fiero owners to help, and be helped by, with repairs and upgrades.<P><BR>Basicly anyone in the Dallas/ Fort Worth area.<p>[This message has been edited by RNGCRSH (edited 11-27-2000).]||||reg||5
+Z||000001||Cheever2||11-27-2000||08:49 PM||||Check this out... <A HREF="http://www.michiganfieroclub.org/cgi-local/foldinstructions.htm" TARGET=_blank>http://www.michiganfieroclub.org/cgi-local/foldinstructions.htm</A> <BR>It shows 13 owners in the Dallas area.  One of them added the comments "want to start my own club or join one that is not stuck up".  <p>[This message has been edited by Cheever2 (edited 11-27-2000).]||||reg||1

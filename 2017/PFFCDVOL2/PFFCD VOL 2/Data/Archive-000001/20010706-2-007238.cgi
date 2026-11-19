@@ -1,0 +1,2 @@
+A||||0||88/2.8||formula vs. a v6 magnum||||14||
+Z||000000||88/2.8||12-09-2000||11:35 AM||||I raced a v6 magnum in my dads 76' 350  cutlass supreme and he had a hard time keeping up with me!!! the cutlass is a heavy car but that 350 has some power, and it isn't modified. I had him beat until he got to about 4th gear. The truck had a custom exhaust and it sounded like a different tranney. Would my 88 v6 fiero keep up with something like that?||||reg||14

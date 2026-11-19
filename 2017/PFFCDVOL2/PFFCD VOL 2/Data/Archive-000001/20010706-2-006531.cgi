@@ -1,0 +1,3 @@
+A||N||1||Deicide||Clutch on '86 Fiero Izuzu tranny||||1||
+Z||000000||Deicide||10-31-2000||10:32 PM||||Well I have another question about the Fiero I'm hopefully buying.  The owner is saying that the transmission cannot get out of gear when the engine is running but can put it in all gears when the engine is off.  What could this problem possibly be, and would it be an expensive fix?<P>This is making it a lot harder to convince my dad to add a 5th car to the driveway...<P><P>------------------<BR>--Deicide||||reg||1
+Z||000001||2xsess||10-31-2000||10:37 PM||||Check out the thread titled "clutch info uncovered" Last time I looked at it there were 5 pages of info there.<P>Good Luck<P>------------------<BR>Jeff<BR>85GT||||reg||1

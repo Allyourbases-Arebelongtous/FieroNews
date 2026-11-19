@@ -1,0 +1,3 @@
+A||||1||Phantom Rage||Twin turbo Chevy 60-degree V6||||1||
+Z||000000||Phantom Rage||11-05-2000||04:23 AM||||Hehe, figure this may be of intrest to you v6 guys/girls.  This beast of a motor resides with-in a Datsun 510.<BR> <A HREF="http://www.bryanf.com/mycars/510V6.htm" TARGET=_blank>http://www.bryanf.com/mycars/510V6.htm</A> <P>||||reg||1
+Z||000001||Raydar||11-05-2000||02:33 PM||||I've seen this car. In person. The first owner (the guy in Atlanta) brought it to us to have a radio/telephone installed in it. <BR>We all gathered around and drooled all over it. Was one <I>sweet</I> installation. Looked like a factory job. Not a wire out of place. Too bad the owner beat the hell out of it.  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>raydar||||reg||1

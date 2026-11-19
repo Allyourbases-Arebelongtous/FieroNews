@@ -1,0 +1,10 @@
+A||N||8||BlueMnM09||Easiest Upgrades?||||1||
+Z||000000||BlueMnM09||05-04-2000||07:26 PM||||i wanted to know what are the easiest upgrades that i can do to my fiero to make it/have it 200 hp. i got an 86 SE. where should i start?||||reg||1
+Z||000001||GT Bastard||05-04-2000||09:53 PM||||Nitrous...  Good luck getting 200 "easy" hp any other way.||||reg||1
+Z||000002||geyser||05-04-2000||11:03 PM||||Get the "add a cylinder" kit from the Fiero Shop. If you get two, you can make it a V8.||||reg||1
+Z||000003||2birds||05-04-2000||11:19 PM||||Once the nitrous has ventilated your 14 year old pistons, you can spend your money on a 3.4, 3.8 (205 or 245 horse flavors), or the previously mentioned cylinder add-on kit.  Any of those would be better than trying to wring an extra 65+HP out of an old engine.   ||||reg||9
+Z||000004||SCCA FIERO||05-05-2000||12:02 AM||||Cheapest and best thing to do for a start is to port the exhaust manifolds. Next thing to do is gasket match the intake manifolds. This should bring about another 10 hp and help the motor respond to other mods better.<BR>Good luck.<P>||||reg||1
+Z||000005||RobertVol||05-05-2000||12:15 AM||||Explain the add a cylinder kit from the fieroshop for me please ||||reg||1
+Z||000006||TalShino||05-05-2000||12:17 AM||||Could always add a VTEC sticker, or a coffee can?||||reg||1
+Z||000007||Cliff D.||05-05-2000||12:46 AM||||Jokes aside, the fiero store is a good place to start. They have enough goodies that you will REALLY not know where to start. Personally, I would start with upgrading the brakes so when you do get the power you want, you won't get dead or anything. In my opinion, the other place to look at is the overly restrictive stock exhaust manifolds. Good luck.... 200HP in a street driven SE sounds like a blast.||||reg||1
+Z||000008||ounmongk||05-05-2000||05:44 PM||||I've heard that the headers are actually quite free flowing. The only problem with those(so I hear) is that they tend to crack..  The cat. and the muffler are the restrictive parts of the exhaust, maybe you could start there. ||||reg||1

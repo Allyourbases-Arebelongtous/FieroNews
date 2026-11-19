@@ -1,0 +1,5 @@
+A||||3||V8Dreamer||Sloppy shifter getting to be TOO sloppy :( how to fix?||||1||
+Z||000000||V8Dreamer||12-17-2001||11:18 AM||||Well, I've been driving my 86 2m4 with the isuzu 5spd for about 2 years now and the shifter was pretty sloppy when I got it, but it's only getting worse.... is there a simple solution?  Maybe replace the bushings?  Does anyone know the exact size or part # ?<P>TIA,<BR>Ryan||||reg||1
+Z||000001||johnt671||12-17-2001||05:01 PM||||Not positive on this but I think I remember a thread saying that the rebuild kits sold for Hurst shifters had the bushings need to rebuild the shifter.||||reg||1
+Z||000002||TylerB11||12-17-2001||05:40 PM||||Rodney sells replacement brass bushings. better then the original plastic. very nice.||||reg||1
+Z||000003||V8Dreamer||12-18-2001||09:27 AM||||I guess I'll have to head over to Rodney's site and check it out then.... I hear he sells replacement hinge pins for the doors too, has anyone had any experience with these??  (I have 2 terribly sagging doors right now....)<P>-Ryan||||reg||1

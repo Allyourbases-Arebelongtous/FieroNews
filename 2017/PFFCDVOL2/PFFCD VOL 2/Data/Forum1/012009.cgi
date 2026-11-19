@@ -1,0 +1,5 @@
+A||||3||ChopTop||Photoshop Wizards Request||||1||
+Z||000000||ChopTop||11-20-2001||02:33 PM||||Could one of you photoshopwizards take a 87/88 white coupe (86/87 SE would be even better)and black out the front portion of the roof, and the hood?  If I can explain this further. I'd like the black to extend a 1/2 inch down past the bottom of black sail panels and run vertically to the front bumper cover following the moulded in design of the 87/88 rub strip.  Hopefully I haven't confused you too much.   Thanks very much.||||reg||1
+Z||000001||Jay||11-20-2001||02:42 PM||||Sorry but I'm confused!  Say again differently?<P>------------------<BR>Jay<BR> <IMG SRC="http://www.fiero.nl/uploads/newsig2_copy_1.jpg"> ||||reg||1
+Z||000002||ChopTop||11-21-2001||09:19 AM||||Basically a two tone paint job.  A white coupe, with the front hood made black, and the front roof portion also being black (where a sunroof goes).<BR>Can anyone do this?||||reg||1
+Z||000003||Pyric||11-21-2001||09:39 AM||||I could in Paintshop pro, but I'd need a picture of the white SE you wanted altered.||||reg||1

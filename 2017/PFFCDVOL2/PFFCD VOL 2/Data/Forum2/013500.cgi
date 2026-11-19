@@ -1,0 +1,6 @@
+A||||4||Sootah||Anybody put on Grand Prix mirrors?||||1||
+Z||000000||Sootah||09-07-2001||08:49 PM||||I really like the way the Grand Prix's mirrors look. Anybody put them on the Fiero? Or would they be too big? (Havent seen them up close and personal in quite a while) Somebody wanna photoshop some on?<P>Thanx<BR>-<B>Sootah</B>||||reg||1
+Z||000001||Cheever3000||09-07-2001||11:43 PM||||This car has em.  Belongs to a Lone Star Fieros member.  I may see him tomorrow at the Bud Classic car show.  They DO look great on a Fiero! <A HREF="http://www.flash.net/~newboy/clinton.html" TARGET=_blank>http://www.flash.net/~newboy/clinton.html</A> <BR>||||reg||6
+Z||000002||Dan Robinson||09-08-2001||12:06 AM||||Those look like Firebird mirrors to me.||||reg||5
+Z||000003||Sootah||09-08-2001||12:21 AM||||Those look like the older ones. I wonder what the new ones would be like. Come on now somebody photoshop!! I'd do it (try, anyway), but my computer is 150 miles or so away and I am on a P233 here  <IMG SRC="http://www.fiero.nl/forum/frown.gif">.<P>------------------<BR><I>Never pull your pants down in Cosco, the dang monkeys will getcha</I>||||reg||1
+Z||000004||Dan Robinson||09-08-2001||12:13 PM||||They look great.  How would you put them on so that you can still adjust them.  How hard or easy is it?||||reg||5

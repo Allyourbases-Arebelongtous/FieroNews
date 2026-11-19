@@ -1,0 +1,4 @@
+A||||2||otis||An Exhausting Solution||||14||
+Z||000000||otis||03-11-2000||10:41 PM||||Okay members, here is what may be the ultimate exhaust upgrade(maybe). A "Y" pipe<BR>from the cat to the rear. Install 2" baffles<BR>now available from "Summit" racing and cap<BR>with baffled chrome tips. Instant Ferrari<BR>ala Fiero pocket book exhaust note. Found a<BR>mom and pop shop who  will gladly make "Y"<BR>as seen on ebay out of stainless 50.00 +<BR>2" baffles 100.00 + tips 50.00+<BR>total=200.00 +or- and no exposed hanging<BR>muffler in back.||||reg||14
+Z||000001||kupop87gt||03-12-2000||03:33 AM||||Take the hood off of your car and remove the exhaust manifolds.||||reg||1
+Z||000002||GT Bastard||03-12-2000||04:46 PM||||I dunno man, I think it would end up sounding like a Pickup with a glasspack.  ||||reg||1

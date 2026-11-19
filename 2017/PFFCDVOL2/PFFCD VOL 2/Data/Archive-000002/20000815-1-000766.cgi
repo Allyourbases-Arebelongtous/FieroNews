@@ -1,0 +1,7 @@
+A||||5||SpeedPhreak||Graduation Party at my house...||||6||
+Z||000000||SpeedPhreak||12-16-1999||02:46 AM||||im a MEMBER now.  hope u like margaritas & techno.||||reg||6
+Z||000001||Patrick||12-16-1999||02:52 AM||||<BR>Any babes...?||||reg||10
+Z||000002||SpeedPhreak||12-16-1999||03:02 AM||||i thought that was implied by the word party... but then again so is the fact there will be unhealthy beverages & music - areas i have strong preferences. where as babes just need a smooth complexion, a fit body, & a perty face....all of which are standards that degrade in relation the the amount of liquid consumed on said night.  so there fore i felt i did not need to mention that...sorry.  YES babes even though they may get bored with a bunch of drunken fiero owners talken smack about the cars...but who cares right  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||14
+Z||000003||deceler8||12-16-1999||10:42 AM||||I guess Cliff's lettin' in anyone now...some of us (relative) oldsters had to put up 30 (sometimes inane) posts to get in the door (LOL)...<P>Just kidding. Welcome to the club...Is there like a secret handshake to get into the party, or will just bringing my favorite fuel additive do ?||||reg||11
+Z||000004||DJRice||12-16-1999||11:20 AM||||Bring your tool kits, Floor Jacks, and Jack Stands.....||||reg||1
+Z||000005||Monkeyman||12-16-1999||04:26 PM||||Cliff changed that a few months back.  I believe it's 10 posts now.  I had a thread about that a while ago.||||reg||1

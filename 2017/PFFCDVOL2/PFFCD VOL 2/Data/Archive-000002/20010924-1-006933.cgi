@@ -1,0 +1,9 @@
+A||||7||Formula||The Need For Speed!!!!!!!||||1||
+Z||000000||Formula||04-18-2001||09:55 AM|||| <IMG SRC="http://www.fiero.nl/uploads/steeringwheel_2.jpg"> <P>whatcha think about that? lol<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/sigformulagt.jpg"> ||||reg||1
+Z||000001||Phil||04-18-2001||10:48 AM||||Think your speedo broke because the engine doesn't appear to be running(at least no gas and ice cold.||||reg||1
+Z||000002||Formula88||04-18-2001||11:36 AM||||And MAN, that must be some overdrive you've got.  I can't even see your tach needle.  You must be taching less than 2000 rpms at that speed!  WOW!   <IMG SRC="http://www.fiero.nl/forum/tongue.gif">||||reg||6
+Z||000003||Formula||04-18-2001||02:44 PM||||actually I was going around 60 mph and inverted(photoshop) the needle.  The tach is on about 2.5k and the temp is on 180 like normal.........the gas gauge is just broken lol<p>[This message has been edited by Formula (edited 04-18-2001).]||||reg||1
+Z||000004||sqoach||04-18-2001||02:51 PM||||Haha...go waste your time somewhere else  <IMG SRC="http://www.fiero.nl/forum/tongue.gif">||||reg||1
+Z||000005||beer_stud_21||04-18-2001||04:09 PM||||How about watching the road instead of having your head behind the camera...  You might not see that big ass tractor trailor thats parked in the road in front of you.....   *squish*<P>-Marlin||||reg||1
+Z||000006||Jake2m4||04-20-2001||02:32 PM||||Maybe he could slide under the tractor trailer.<P>------------------<BR>'85 Fiero Sport Coupe<BR>'95 Pontiac Grand AM SE||||reg||1
+Z||000007||Spektyr||04-20-2001||03:21 PM||||Hey, now THERE'S an idea...<P>2 inch suspension drop, 3 inch roof chop... you could slide under a big rig trailer and fool the cops, just like in the movie 'High Speed'.<P>At least until you slowed down or sped up too much and the truck ran over you...<P>------------------<BR>85 GT (to be modified...)<p>[This message has been edited by Spektyr (edited 04-20-2001).]||||reg||1

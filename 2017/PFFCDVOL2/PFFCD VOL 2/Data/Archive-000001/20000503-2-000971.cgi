@@ -1,0 +1,4 @@
+A||N||2||SloPonti||what is it worth??||||5
+Z||000000||SloPonti||09-29-1999||10:32 PM||||i have a complete intake and valve covers for a gt v6 fiero motor! the intake has all the vacuum hoses and the red paint is in pretty good shape and the bottom part of the intake is also good!  the valve covers are also red and in pretty good shape also! are there people out there that need this and what do you think this stuff is worth?? thanks<BR>also should i keep or should i sell-i drive a 4 banger but want a gt some day-would this be needed??||||reg||5
+Z||000001||TOM||09-30-1999||12:25 AM||||You could send it to me. I am think of porting and polishing an intake.||||reg||1
+Z||000002||SloPonti||09-30-1999||12:30 AM||||how much would you give me for it? or what would you trade for it also-i need a gt wing-leater seats? let me know!<BR>||||reg||1

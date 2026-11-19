@@ -1,0 +1,4 @@
+A||||2||rogergarrison||Winston Cup Race||||1||
+Z||000000||rogergarrison||09-23-2001||01:15 PM||||I never saw so many American flags in one place. The releasing of red, white, and blue doves was excellent. Look out Bin Ladin, your gonna be seeing some soon too, preferably sticking out of your cowardly  corpse!||||reg||1
+Z||000001||rogergarrison||09-23-2001||05:47 PM||||cool!<BR> <IMG SRC="http://www.fiero.nl/uploads/win.jpg"> <P>------------------<BR>         <IMG SRC="http://albums.photopoint.com/j/View?u=1234884&a=11878523&p=52990885"> ||||reg||1
+Z||000002||Lady Pegasus||09-24-2001||10:58 PM||||E Jr.=HOTTIE!!<BR>BTW....I love you 87!! <IMG SRC="http://www.fiero.nl/forum/wink.gif"> <IMG SRC="http://www.fiero.nl/forum/smiley_brow.gif"><P>------------------<BR>Hey pretty....don't you wanna take a ride with me...through my world?||||reg||1

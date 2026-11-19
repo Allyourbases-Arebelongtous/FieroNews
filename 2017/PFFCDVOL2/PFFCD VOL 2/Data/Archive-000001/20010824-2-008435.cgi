@@ -1,0 +1,7 @@
+A||||5||v8vinnie||axle adapters?||||11||
+Z||000000||v8vinnie||02-12-2001||08:37 PM||||any body used those adapters for your axle shafts that the fiero store sells?, since i put the poly trans mounts in the extra vibration in the drive train is a little annoying, i know that i need new tires but i went under tne car again and i noticed my right side(the longer one) drive shaft is a little lose in the trans end this could deffinetly cause the extra vibration i feel, i guess the stock trans mounts soaked up the loseness, so did any of you guys use this adapter or reanforcement that the fiero store sells,cause i orderd a set today, also it seems pretty easy to put it on, any thoughts?||||reg||11
+Z||000001||Will||02-13-2001||10:38 AM||||I've heard that they reduce vibration. I'm going to be using them when I get my conversion done.||||reg||1
+Z||000002||v8vinnie||02-13-2001||06:51 PM||||well i guess ill find out this weekend if i get them buy friday?||||reg||1
+Z||000003||lou_dias||02-14-2001||09:08 AM||||What axle adapters?<BR>Are these to fit a different hub and braking system?||||reg||1
+Z||000004||batboy||02-14-2001||08:17 PM||||If you mean the bearing seals, I have them and they seem to work pretty good. They were not any harder than installing regular seals.||||reg||1
+Z||000005||v8vinnie||02-15-2001||07:01 AM||||i got them in the mail yesterday, they look pretty stout items im going to install them saterday, thanks for the feed back!!||||reg||1

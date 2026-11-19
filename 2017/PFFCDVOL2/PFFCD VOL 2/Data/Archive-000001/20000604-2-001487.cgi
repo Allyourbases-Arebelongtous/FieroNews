@@ -1,0 +1,8 @@
+A||N||6||Monkeyman||car won't idle||||5
+Z||000000||Monkeyman||11-22-1999||09:12 PM||||Just bought an '862m4 (auto).  Starts a little hard and, once it warms up it won't idle in gear.  It usually idles in Park or Neutral, but not always.  I'm not much of a mechanic, so...HELP!!!||||reg||5
+Z||000001||Linx||11-22-1999||11:55 PM||||Man- Ive seen this problem on my 2M6 so many times...<BR>It's always vacuum.  A leaky manifold gasket, a broken vacuum tube, a leaky hose.  Always <I>something</I> to do with vacuum.||||reg||1
+Z||000002||DXR_DAD||11-23-1999||12:05 AM||||First, is the check engine light on???<BR>Use the search, this post and other post like it are fairly new, go back a week or two you can find some good info!!<P>Good luck with it.<P>Vacuum,  Vacuum,   Vacuum||||reg||1
+Z||000003||Monkeyman||11-23-1999||01:18 AM||||The check engine lite is not on, but that doesn't necessarily mean anything.  The previous owner didn't take very good care of my new baby. (Bastard!-I wonder if I can have him arrested for child abuse?)  I'll look for anything that might have a vacuum line or something, but I may just have to break down and visit my local mechanic.  I hate to spend any more $$ than I have to since I'm planning on upgrading to a 2.8 (?3.?) in the spring.||||reg||1
+Z||000004||deceler8||11-23-1999||12:42 PM||||Won't idle in gear ? Did you try disconnecting the harness to the torque converter clutch ?  If that solves your problem, you need a new TCC.||||reg||1
+Z||000005||theogre||11-23-1999||07:26 PM||||did you check static timing yet? if the distributor is off it's static mark then you could have such a problem. ||||reg||1
+Z||000006||Monkeyman||11-24-1999||12:16 AM||||ogre--what is static timing and how do I tell if it's off?||||reg||1

@@ -1,0 +1,4 @@
+A||||2||Phantom Rage||New Toy for 87-88 Dukes||||7||
+Z||000000||Phantom Rage||02-06-2001||05:48 PM||||MSD has come out with a new programmable direct ignition system box (programmable DIS-2).  Just wanted to spread the news.||||reg||7
+Z||000001||theogre||02-06-2001||06:59 PM||||Unless you are using a turbo on it you don't need it. DIS already produces over twice the power of a distributor ignition. If you ever find a performance problem with DIS it will involve one or more bad parts. ||||reg||1
+Z||000002||Phantom Rage||02-06-2001||07:48 PM||||You’re right, that is the exact reason. Their old DIS-2 was rpm/max timing dependent.  The programmable DIS-2 can be set up to reference boost as well as rpm, when used in conjunction with a 2 or 3 bar map sensor.  Unfortunately I do not know the price of the unit.||||reg||7

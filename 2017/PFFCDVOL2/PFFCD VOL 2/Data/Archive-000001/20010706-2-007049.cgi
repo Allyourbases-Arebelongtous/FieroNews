@@ -1,0 +1,2 @@
+A||N||0||Sndfr||Fieros in Photopoint...||||7||
+Z||000000||Sndfr||11-29-2000||11:53 PM||||Could you guys post up the albums you have in Photopoint <B>of you doing any kind of work on your cars</B>?<P>All the albums I've seen are pretty good and it's not like I can browse through them.<P>------------------<BR>-<B>matthew d.</B><BR><I>"who's yo daddy?"</I><P>'84 SE<p>[This message has been edited by Sndfr (edited 11-30-2000).]||||reg||7

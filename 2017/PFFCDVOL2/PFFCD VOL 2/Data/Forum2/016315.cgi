@@ -1,0 +1,4 @@
+A||N||2||madspeed||which fan?||||1||
+Z||000000||madspeed||12-13-2001||02:26 AM||||what years have the good cooling fans? This is for a custom application, not for replacement in fiero. When the 2 speed is on high, does it move more air than the single speed does??||||reg||1
+Z||000001||GTDude||12-15-2001||08:19 PM||||Welcome to the group.  The only year with 2 speed fan was 84.  You don't want that one.  You want 85 and up.  They are virtually all the same.  If anything I would try to squeeze a 2 fan system from a Grand Prix in there, but unless you have something pretty radical, the standard fiero setup should work well.  That and a 4 core radiator. Hope this helps.<P>Phil<P>------------------<BR>GTDude's 86GT||||reg||10
+Z||000002||madspeed||12-17-2001||01:31 PM||||Thanks MAN! I found what I was looking for right here!!||||reg||1

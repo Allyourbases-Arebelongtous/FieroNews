@@ -1,0 +1,3 @@
+A||N||1||wla21841||Tachometer pegs||||5||
+Z||000000||wla21841||08-20-2000||02:25 PM||||I have a 84 SE 2.5 that the engine has been replaced. The garage that did it says it is an 85 and ALL 2.5's are the same. Thay did not use the original engine harness but the one that came on the replacement engine. Now the tach pegs when the engine is running. I replaced the tach filter with no avail. The tach wire in the harness is Wht/Blk.||||reg||5
+Z||000001||theogre||08-20-2000||04:16 PM||||They should use the 84 harness. 84 & 85 engines are effectivly the same but the wiring is not.<p>[This message has been edited by theogre (edited 08-20-2000).]||||reg||1

@@ -1,0 +1,6 @@
+A||||4||RedGTFieroKCMO||Removing the V-6 Distributor (need some pro advice)||||5||
+Z||000000||RedGTFieroKCMO||12-20-2001||05:34 PM||||What methods did you use to get the distributor hold down bolt untightened?? With a small space like that, I'm overwhelmed at how I should approach it.  Did you remove some other components to get to it or what? <P>Suggestions, pics, anything is welcome!!!??||||reg||5
+Z||000001||fiero_nightmare||12-20-2001||06:05 PM||||im not really a "pro" but i do know that you can buy a wrench made for distributor bolts. go to a parts store and ask an employ if they have one.  a distributor wrench makes the job a lot easier.||||reg||1
+Z||000002||GTDude||12-20-2001||08:07 PM||||15mm swivel socket on a 6" extension with a ratchet....piece of cake!<P>------------------<BR>GTDude's 86GT||||reg||1
+Z||000003||rogergarrison||12-20-2001||08:53 PM||||or use a 'crowfoot' socket. Looks like an open end wrench, but fits a rachet/extention.||||reg||1
+Z||000004||BC-GT||12-20-2001||10:02 PM||||You can just use a regular wrench by going in over the crossover pipe or a ratchet w/extension. Just had mine out and used both methods.<P>------------------<BR> <IMG SRC="http://www.imagestation.com/picture/sraid27/pe8dae45bb8bf084e93628ae50c338631/fe1839db.jpg.orig.jpg"> ||||reg||1

@@ -1,0 +1,4 @@
+A||||2||Philphine||northstar on ebay||||1||
+Z||000000||Philphine||11-10-2000||02:55 AM||||<BR>don't know how to type up the link. guy says he has 3. starts at $2500. wish i had it.<P>how much would you pay for a pretty much compleat northstar?||||reg||1
+Z||000001||87ECO5||11-10-2000||07:44 AM||||Here ya go:<P> <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=493571032&r=0&t=0" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=493571032&r=0&t=0</A> ||||reg||1
+Z||000002||strdream||11-10-2000||02:36 PM||||Something to consider is that that engine does not have a transaxle.  It looks really nice, but unless you get a transaxle for that engine you would need an engine bellhousing adaptor, I suppose they exist, it is something one should locate before investing in a different engine like this.||||reg||1

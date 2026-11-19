@@ -1,0 +1,6 @@
+A||||4||FieroBUZZ||Think happy thoughts for Aus!!!||||14||
+Z||000000||FieroBUZZ||07-13-2001||10:49 AM||||All:<BR>As far as I remember today is AusFiero's big day.  Having spent the last couple of weeks tending to family members in two different hospitals, I know every little bit helps.  Take a minute to wish the best for Jim!<BR>Gary||||reg||14
+Z||000001||Raydar||07-13-2001||01:43 PM|||| <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Amen!<P>------------------<BR>Raydar - aka Steve<BR><FONT SIZE="1"><BR>Black 88 Formula.<BR>Red 88 Duke coupe. "The Project" <BR>88 Formula parts car. "The Donor"<BR></FONT>||||reg||14
+Z||000002||DecadenceR||07-13-2001||02:22 PM||||My best wishes and thoughts go out to our friend from down under!||||reg||1
+Z||000003||b lo 0||07-13-2001||03:49 PM||||Hope Aus's surgery goes well, he's a great guy.  Plus I wanna see his new body kit  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000004||Monkeyman||07-13-2001||10:04 PM||||I'm anxiously awaiting an email from Aus' wife.  It's just after noon Saturday in Australia so I'm hoping that the reason I haven't heard anything yet is because Angie is still at the hospital with Jim, not because anything happened.  I'll start a thread as soon as I hear something.<P>------------------<BR>'Consciousness:  That annoying time between naps.'<P>MM||||reg||1

@@ -1,0 +1,3 @@
+A||N||1||Jeff's '86 1/2 GT||A/C Question?||||5||
+Z||000000||Jeff's '86 1/2 GT||05-24-2000||12:08 PM||||<BR>Does anyone know thw location of the high & low side serive ports on the A/C system?  I am Retrofiting the R12 to 134a, and need to change the ports.  ||||reg||5
+Z||000001||Carrolles||05-24-2000||12:44 PM||||Both are located in the front storage compartment where the spare tire is located.<P>The low side  port is on the dryer (silver colored  cylinder mounted on the firewall just below the passenger side windshield wiper).<P>The high side is on the line that runs along the bottom of the firewall near the bottom edge of the spare tire.  Remove the spare tire and you'll see it.||||reg||1

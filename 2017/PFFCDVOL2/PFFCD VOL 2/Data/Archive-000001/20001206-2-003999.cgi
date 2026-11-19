@@ -1,0 +1,6 @@
+A||||4||GT Bastard||Cleaning injectors... Diesel fuel?????||||1||
+Z||000000||GT Bastard||05-29-2000||01:03 PM||||It was recommended to me that I use diesel fuel to clean my injectors.  Bad88 suggested I soak them(or at least the ends) in it overnight.  Anybody tried this?  It sounds like reasonable suggestion.||||reg||1
+Z||000001||GT Bastard||05-29-2000||09:08 PM||||?||||reg||1
+Z||000002||fierospeeder||05-29-2000||10:19 PM||||i guess no one wants to be held liable,<P>you can try that fuel injection cleaner,<BR>my uncle use to clean his motorcycle with diseal fuel, and it did do a good job.||||reg||1
+Z||000003||Raydar||05-29-2000||11:14 PM||||If you haven't taken it apart yet, find someone who sells gas with ethanol in it. I believe some unleaded gas has ethanol in it. It's just not advertised. Run several tanks of the stuff through your engine. The ethanol will dissolve a lot of stuff from your fuel system. You should probably change your fuel filter, afterward. This may not cure all your ills, but it's waaayyyy cheap.   ||||reg||1
+Z||000004||GT Bastard||05-29-2000||11:21 PM||||Well, I think I'll try the diesel fuel...  It's already apart, and I'm going to put it back together tomorrow, so I think I'll be the lab rat and give it a try.  I'll let you guys know if my car bursts into flames afterwords!  <P>chow, baby||||reg||1

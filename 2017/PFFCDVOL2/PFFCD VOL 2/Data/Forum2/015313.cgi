@@ -1,0 +1,9 @@
+A||||7||Hank is Here||luggage racks||||1||
+Z||000000||Hank is Here||11-11-2001||11:48 PM||||Okay, <BR>I was wondering if there is a difference between the notchback and fastback luggage racks?   I have never seen a fastback one in person.  Please inform  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Hank||||reg||1
+Z||000001||sloth85GT||11-12-2001||03:11 AM||||didn't think a fastback one existed....<P>------------------<BR>     <IMG SRC="http://www.mts.net/~kuzma/fieronl.gif">     <BR>Dan<BR>1985 Silver GT||||reg||1
+Z||000002||Ferrari_cdn||11-12-2001||04:25 AM||||I saw a picture of a fastback with luggage rack somewhere.<P>------------------<BR><A HREF="http://www.geocities.com/ferrari_cdn" TARGET=_blank> <IMG SRC="http://www.fiero.nl/uploads/ferrari_cdn.JPG">  </A>  <BR>AIM: CanadianFiero||||reg||1
+Z||000003||stimpy||11-12-2001||08:16 AM||||Like the Loch Ness Monster and Sasquatch, they exist but are rarely seen in captivity.<BR> <IMG SRC="http://pip.pennock.nl/uploads/webshot.jpg"> <BR>And it's the same rack that's on the notchback.||||reg||6
+Z||000004||MR2KLR||11-12-2001||06:40 PM||||That is the first fastback I have ever seen with a rack on it.||||reg||1
+Z||000005||stimpy||11-12-2001||08:09 PM||||Purty, ain't it?||||reg||1
+Z||000006||tgowens||11-13-2001||01:17 AM||||guess ya gotta have a luggage rack to get a GT to turn sideways into a driveway, right Stimpy??  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> (takes the place of power steering in the option list)<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/signature_TGO.jpg"> <P><A HREF="http://www.cfog-i.org" TARGET=_blank>Classic Fiero Owners Group International</A>||||reg||1
+Z||000007||stimpy||11-13-2001||07:42 AM||||Yep, works as a handle to carry the ass end around that 90 degrees.  BTW, like them ruts? I had to get towed out of my own front yard after some heavy rains lately.||||reg||1

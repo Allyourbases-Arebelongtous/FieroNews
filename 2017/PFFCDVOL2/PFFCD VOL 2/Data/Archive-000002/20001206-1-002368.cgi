@@ -1,0 +1,3 @@
+A||||1||loafer87gt||Thank you Bob Steiger!!! ||||1||
+Z||000000||loafer87gt||05-30-2000||01:55 AM||||Hey guys, I finally managed to track down the interior and exterior parts I needed for my car thanks to Bob Steiger at Twin Lakes fiero. I chatted with him a bit on the phone and he sounds like a super guy. What I found really interesting is that it sounds like he is building my absolute dream car for a customer: a 88 GT with t-tops and a yamaha SHO engine, with dodge metallic silver paint. SAWEET! But anyways, just wanted to say thanks to Bob and all of you guys that pointed me towards him, later guys and gals||||reg||1
+Z||000001||Raydar||05-30-2000||12:40 PM||||SHO?!?<P>OMG!!!||||reg||1

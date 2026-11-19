@@ -1,0 +1,4 @@
+A||||2||superdlux||fastback taillights/trunk on a notchback GT
+Z||000000||superdlux||09-01-99||04:55 PM||||What is involved in taking the taillights and decklid from an '86 GT and "grafting them onto an '85 GT? I saw something similar on a conv. conversion, and was wondering if anyone knows of a kit or has done this to a car themselves. I imagine it will take some fiberglass work, but let me know. Thanks 
+Z||000001||JetroGT||09-01-99||06:44 PM||||I have an actual fast back clip that I need to get rid of. It should bolt right up to your car.
+Z||000002||TOM||09-02-99||08:01 AM||||Obviously super means just making the trunk lid and tail lights work with a notchback. Not doing the whole fastback conversion thing. I think it would be a bit of work but not too bad if you know the ins and outs of fiberglass.

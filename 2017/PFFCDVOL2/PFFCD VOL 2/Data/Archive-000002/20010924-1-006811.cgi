@@ -1,0 +1,3 @@
+A||||1||86SE||Anyone heard from 86SE lately??||||6||
+Z||000000||86SE||04-12-2001||12:26 AM||||Im back.  "It has been a while." I have been pretty busy lately.  Fiero is running pretty good, with only a few problems, mainly gas milage.  But I thought I'd drop a note sayin wassup!<P><P>------------------<BR> <IMG SRC="http://fierodude.hypermart.net/mysig.jpg"> <BR>'86 Special Edition,<BR>High-Output V-6 Yellow Fiero -- 3.4L Conversion *SUSPENDED* --<BR>Special Rally Heavy Duty Suspention||||reg||6
+Z||000001||DaRkLoRD||04-12-2001||01:09 AM||||whoa, deja-vu.. I just typed that. LOL<P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||6

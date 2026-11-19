@@ -1,0 +1,3 @@
+A||||1||Wannabe||3800 SC + 5 speed Questions||||1||
+Z||000000||Wannabe||10-16-2001||10:44 PM||||Once upon a time I heard that 3800SC/5 speed installs had a problem with the engine cutting out on downshift or deceleration, amoung other problems, all related to the absence of the signals from the auto trans. After a few long searches and reviewing the sites that have info on this swap, I haven't found any reference to it. Is there any info on how to deal with this, or is still something that's being put up with for this swap?||||reg||1
+Z||000001||Phil||10-16-2001||10:45 PM||||I never noticed it with mine.||||reg||1

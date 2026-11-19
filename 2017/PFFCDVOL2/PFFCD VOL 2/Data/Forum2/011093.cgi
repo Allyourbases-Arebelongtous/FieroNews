@@ -1,0 +1,6 @@
+A||||4||Philphine||gt exhaust flow||||1||
+Z||000000||Philphine||06-07-2001||06:16 PM||||will a stock gt exhaust (except with free flow cat) flow free enough for a 4.9 caddy swap? i was told it would when i got it (it's on a 4cyl coupe now), but as i try to close in on doing it i want to be sure. what if a turbo fell under the hood with it (hey, if you're dreaming, might as well dream big)?<P>------------------<BR>Phil T<P>'87 coupe (feral)<BR>'84 indy<BR>'84 coupe (cheap thrill)<BR>'84 chop top (project. or at least an interesting collection of parts)||||reg||1
+Z||000001||hyhy4u||06-07-2001||11:26 PM||||Yeah..i think a stock unit is free flowing enough to not be a problem.||||reg||1
+Z||000002||WKDFIRO||06-09-2001||12:13 PM||||But a 2.5 inch exhaust would do wonders. It does wonders for stock 2.8s!||||reg||14
+Z||000003||Philphine||06-10-2001||11:17 PM||||e-mailed bubbajoe. he says if the exhaust is at least 2 1/4 it should be ok. anyone know what the stock gt exhaust pipe dia. is?||||reg||1
+Z||000004||Tweek||06-10-2001||11:39 PM||||use a strip of paper around the outside to get the circumference...  divide by 3.1415926535897932384626433832795... (or just 3.14) this will give you the outer diameter, then subtract 1/8th inch (0.125) to get inner diameter.<p>[This message has been edited by Tweek (edited 06-10-2001).]||||reg||1

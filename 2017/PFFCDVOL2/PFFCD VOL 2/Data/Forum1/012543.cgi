@@ -1,0 +1,3 @@
+A||||1||3.8T Fiero GT||HAHAHA.....u guys are gonna enjoy this one!||||10||
+Z||000000||3.8T Fiero GT||12-08-2001||09:40 PM|||| <A HREF="http://www.airbagit.com/civic_demo.html" TARGET=_blank>http://www.airbagit.com/civic_demo.html</A> <P>BLING BLING!<P>------------------<BR>*Your ASS here*   <IMG SRC="http://www.plaudersmilies.de/rough/zzwhip.gif"> <BR><B>"A 3.8T makes and excellent "RICE" cooker"</B>||||reg||10
+Z||000001||stingant0||12-08-2001||09:52 PM||||try this site  <A HREF="http://www.angelfire.com/ny5/ricerroni/roni.html" TARGET=_blank>http://www.angelfire.com/ny5/ricerroni/roni.html</A> ||||reg||1

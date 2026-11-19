@@ -1,0 +1,5 @@
+A||||3||DrRodey||Transport from MD||||5||
+Z||000000||DrRodey||12-11-2000||09:04 PM||||Is there anyone in the Cumberland MD area with a trailer that would be willing to pick up a car for me and meet me halfway.  I'll reimburse you for your troubles...?  tia<P>------------------<BR>'88 Formula CONVERTABLE<BR>'85 Coupe<BR>      <IMG SRC="http://freepages.ugo.com/RodeysPlace/files/fieroPage.JPG">      <BR> <A HREF="http://freepages.ugo.com/RodeysPlace/HomePlace.html" TARGET=_blank>freepages.ugo.com/RodeysPlace/HomePlace.html</A><p>[This message has been edited by DrRodey (edited 12-11-2000).]||||reg||5
+Z||000001||msweldon||12-12-2000||02:51 PM||||too bad I'm in GA...sorry<P>and to bring this to the top again.<P>marc||||reg||1
+Z||000002||Hank is Here||12-12-2000||03:39 PM||||hey I want that car too  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>||||reg||12
+Z||000003||DrRodey||12-12-2000||05:18 PM||||Somebody????????<P>Anybody????????<P><BR>I'M BEGGIN YA HERE&gt;&gt;&gt; <P>PLEASE!!!!!!!!||||reg||1

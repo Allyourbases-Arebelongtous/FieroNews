@@ -1,0 +1,5 @@
+A||||3||DRH||Water in the oil||||5||
+Z||000000||DRH||03-08-2000||06:01 PM||||After replacing a bad head gasket... what steps would you guys recommended to clean out the milky oil/coolant mix that is now in the oil side of the engine?<P>Thanks, David.<P><BR>||||reg||5
+Z||000001||theogre||03-08-2000||06:18 PM||||Pour some Kerosene or Diesle in it and let it sit awhile to thin out the mess. Don't run it. You don't want to ciculate it more than you have too.<P>If it's really gooy put a heatlamp or magnet heatter on the pan to warm it.||||reg||1
+Z||000002||RICK||03-08-2000||06:47 PM||||I always had that problem with my old 4-wheeler when I went creek riding.  I'd get a little (lot) to deep and get water in the oil.  I'd drain the oil and fill it with cheep oil ($.60 a qt), let it run and then drain it. I might have to do it 1 or 2 times to get clear oil out, then I'd fill it with my normal oil.||||reg||1
+Z||000003||David||03-08-2000||08:48 PM||||I have heard, but have never tried, that dishwasher soap will do the job.  Doesn't leave an oily film.||||reg||1

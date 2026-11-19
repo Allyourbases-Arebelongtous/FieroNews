@@ -1,0 +1,4 @@
+A||||2||the need for speed||fiero euro shifter||||1||
+Z||000000||the need for speed||10-19-2000||12:06 AM||||does any one have any pictures of the euro shifter sold by focoa i think, installed in a fiero??? or any other type of sifter, would like something a little more modern||||reg||1
+Z||000001||2xsess||10-19-2000||10:53 AM||||Check with either Tom or FieroDave, they both sell shortened shifters. Here's Toms website link: <A HREF="http://www.fieroproject.com/tom/" TARGET=_blank>http://www.fieroproject.com/tom/</A> <P>I don't have Daves website link handy or I'd post that too.<P>------------------<BR>Jeff<BR>85GT||||reg||1
+Z||000002||Spyder||10-19-2000||12:13 PM||||Here is a link to buy some shifters and the Euro shifter. <A HREF="http://www.rodneydickman.com/shifters.html" TARGET=_blank>http://www.rodneydickman.com/shifters.html</A> <BR>Sorry I don't have any pics of one installed.||||reg||1

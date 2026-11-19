@@ -1,0 +1,4 @@
+A||||2||shiloh187||paint...||||1||
+Z||000000||shiloh187||03-21-2001||09:05 PM||||I have an 87 Fiero and I would like to make the interior panels red.  HOw would one recommend this.  <P>thank you<BR>shiloh||||reg||1
+Z||000001||FieroJoe||03-21-2001||09:17 PM||||Welcome to the Forum!<P>If you are thinking about painting the plastic parts, just use a good spray paint.  If you are talking about the vinyl parts, you can ususally dye them and the results may come out better.  I personally have not done this, Im sure you'll have a few more replies from people who have.<P>------------------<BR>AIM: Snowboarder0311<BR>87 Coupe 5sp. - big resto in progress<BR>  <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1
+Z||000002||Fierowrecker||03-21-2001||09:28 PM||||I have used leather dye to do leather and vinal, and the results are great!<BR>I use a good shoe quality dye, and it lasts real well and is easy to touch up if scuffed or worn...<BR>crash...||||reg||1

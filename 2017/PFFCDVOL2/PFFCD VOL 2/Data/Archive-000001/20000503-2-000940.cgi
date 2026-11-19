@@ -1,0 +1,4 @@
+A||||2||AL||drivers side brake light assembly for 86 gt||||5
+Z||000000||AL||09-25-1999||12:12 AM||||<BR>ok guys ,let see if you can help me. my lens on the drivers side broke.i can't seem to find one that is decent, the one's that i've seen have a nick or big scratch and they want 120  dollars.now i'm married and have everything that goes with it(mortgage etc etc etc)so does any one have one, that i can afford.if so please help, my car is a gt fastback. ||||reg||5
+Z||000001||87FieroGT||09-26-1999||03:57 PM||||You need to post this in THE MALL section of this forum, but good luck finding those lenses. One of the cheapest places to find them is the Junkyards. If none are good then try the Fiero Store and your local dealership and compare prices.||||reg||1
+Z||000002||Carrolles||09-27-1999||06:43 AM||||Try Ed Parks at the Fiero Factory<P>fierofactory@juno.com||||reg||7

@@ -1,0 +1,2 @@
+A||||0||CUTTER||Fiero Dutch Classic?||||1||
+Z||000000||CUTTER||07-01-2000||12:56 AM||||I just checked out the "upcomming events for july" and there is a Fiero Dutch Classic at the blackhorse. I didnt hear anything about it and I live 2 miles from this place. Anyone know anything about this or is anyone here going? I will be the one with the blue87GT that has scratches on the passenger side and no sail pannel on the passenger side. I also have the "Ram Air V6" eblem above my holly side scoop, Looks great! So if anyone is going look for me!||||reg||1

@@ -1,0 +1,3 @@
+A||N||1||chrissherman||what are these relays||||5||
+Z||000000||chrissherman||01-15-2001||11:57 PM||||what are the 4 relays on the fire wall on the driver side of the engen compartment?      Are they A/C and fuel pump relays!         And what are the auther 2 relays for?        they are the same as the first set!||||reg||5
+Z||000001||Rodrv6||01-16-2001||07:49 PM||||On my 84 the other two relays are for the stoplights/turn signal in the tail lights.  The funny thing is that they only operate the most outboard bulb in each light!  I don't know why Pontiac designed the system that way!<P>------------------<BR>Rod Schneider, Woodstock, Ga.  84 SE, 330,000 miles and counting :)||||reg||1

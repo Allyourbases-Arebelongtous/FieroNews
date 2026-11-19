@@ -1,0 +1,2 @@
+A||||0||phillip||north -south engine||||1||
+Z||000000||phillip||03-19-2000||10:33 AM||||<BR>in dream mode again. in a pontiac mag. i saw where some one had put a 455 in a fiero north-south with a riviera trans. he worked out his own cradle and suspension. i have also seen rhane's n-s cradle but it is about $3000. has any one seen or heard of some one moding a stock cradle to turn the engine around and what tranny they used, especialy if it was a manual?thanks for any help.||||reg||1

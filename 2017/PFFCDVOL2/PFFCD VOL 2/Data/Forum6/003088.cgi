@@ -1,0 +1,5 @@
+A||||3||Kasdan||bored at home||||1||
+Z||000000||Kasdan||08-24-2001||10:41 PM||||*sings*  *looks left*  *looks right* *breakdances*  *looks left*  *looks right*  *wonders if hes the only 16 year old male, and if there are any teenage females here*<P>------------------<BR>Tyler Morgan<BR>1986 GT Fastback, Holley Ram-Air, Power Steering, K&N Filtercharger, Bosch Wires, Bosch Platinum Plugs, Conrad Distribuiter Cap/Rotor, New GT Seats, New Headliner, New Carpet, Ocelet Exhaust, Red Underbody Light Kit (coming soon)<BR>Aim=FieroDriver1986||||reg||1
+Z||000001||Kasdan||08-24-2001||11:45 PM||||*bump...*||||reg||1
+Z||000002||fogglethorpe||08-25-2001||12:44 PM||||Athens, GA, huh? It's the home of two very important things...REM and Carrier Transicold. But you probably knew that, living there and all.<P>------------------<BR>I don't think so;therefore, I'm probably not.||||reg||1
+Z||000003||Kasdan||08-25-2001||05:49 PM||||your forgetting UGA  <IMG SRC="http://www.fiero.nl/forum/smiley_watchout.gif">||||reg||1

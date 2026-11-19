@@ -1,0 +1,6 @@
+A||N||4||TRL46202||Radio braces......||||1||
+Z||000000||TRL46202||01-12-2001||02:42 PM||||Where can I get the side braces that hold the radio against and has the srcews to hold it in place??????? The radio that I have for my car didn't come with any.<P>Tom||||reg||1
+Z||000001||Raydar||01-12-2001||05:50 PM||||You might try a "recycler" or a car stereo retailer. They might have some laying around.<BR>You might post your question in the mall. <BR>Or just watch this thread...<BR>Someone here is bound to have some.||||reg||1
+Z||000002||theogre||01-12-2001||08:21 PM||||yeah, a salvage yard or a dealer is about it. Maybe a stereo shop but usually they have to transfer those to the adapter kits for aftermarket radios.||||reg||1
+Z||000003||overlord||01-12-2001||08:23 PM||||if u mean the plastic part that the radio screws go into...then i just wanted to say mine broke apart when installing new radio..grrrrr. So i had to make some braces (steel) That radio doesnt budge, and i made it so any theif would have to take at least half hour to get  out (including me).||||reg||1
+Z||000004||fierofreek2001||01-12-2001||11:53 PM||||wal-mart  .. if its the kind that does not fit a gm dash, they have kits .. 10$<BR>steve <A HREF="http://www.fierosteve.com" TARGET=_blank>www.fierosteve.com</A> ||||reg||1

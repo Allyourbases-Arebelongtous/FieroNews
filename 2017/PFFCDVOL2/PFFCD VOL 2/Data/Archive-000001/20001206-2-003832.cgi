@@ -1,0 +1,4 @@
+A||||2||ponya||Door Hinges||||1||
+Z||000000||ponya||05-19-2000||12:41 PM||||My 86SE is in desperate need of lower door hinges. The piece that rides the round bushing was never lubed and it has actually<BR>cut right into that bushing. Went to Pontiac<BR>this morning and their parts guy could not find the part or the number. He has not been able to help me yet with any info. Is there a re-build kit or do you have to buy the whole hinge? Guys have been great answering my last couple of question. Appreciate it,  Bob||||reg||1
+Z||000001||Dan87GT||05-19-2000||12:55 PM||||The only place I know that sells the hinges is the Fiero Store, they rebuild the lower hinges with new plastic bushings $10 core charge. ||||reg||1
+Z||000002||theogre||05-19-2000||02:36 PM||||door hinge pin parts are available from any GM dealler or your local parts stores. The parts stores usually have a little kit with the pin & bushings. you need 2 kits per door.||||reg||1

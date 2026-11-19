@@ -1,0 +1,6 @@
+A||N||4||V8Dreamer||anyone know the part # for exhaust hangers?  ||||1||
+Z||000000||V8Dreamer||08-17-2001||10:52 AM||||Hopefully someone knows the part # for the exhaust hangers, mine are rusted to he!! and I wanna order new ones from GMpartsdirect.  btw, it's a V6.<P>TIA,<BR>Ryan||||reg||1
+Z||000001||Bluebottlejunky||08-17-2001||12:08 PM||||The exhaust hangers are discontinued, sorry, I was looking for some befor..noperz..none..ditto that is  <IMG SRC="http://www.fiero.nl/forum/smiley_bs.gif"> <P>------------------<BR>Mike<BR>85'GT 4sp<BR>AIM: <B>KilleRedGT</B>||||reg||1
+Z||000002||Rodney||08-17-2001||01:39 PM||||I have reproduced them in 304 stainless steel.<BR> <A HREF="http://www.rodneydickman.com/engine.html" TARGET=_blank>http://www.rodneydickman.com/engine.html</A> <P>||||reg||1
+Z||000003||grinthock||08-17-2001||03:51 PM||||As ususal RODNEY TO THE RESCUE!!!<P>One Question Rodney, these hangers we are talking about are the ones just before the tips right?  (You should put a pic on the web site) because my left side one is toast, so I was considering getting the full set from ya.<p>[This message has been edited by grinthock (edited 08-17-2001).]||||reg||1
+Z||000004||Rodney||08-17-2001||04:11 PM||||Yes these are the ones close to the exhaust tips. These are the only exhaust hangers on a Fiero. I hope to get pictures on my web page soon. ||||reg||1

@@ -1,0 +1,9 @@
+A||||7||Butter||Power Window Switch Buttons||||5||
+Z||000000||Butter||08-30-2001||02:01 PM||||Hey Yall,<BR>The power window switch buttons on my car are both broken in the middle.  They still work its just the plastic is cracked in the middle.  I know I could repair them with some sort of plastic epoxy, but I was wondering if there is a better way or if anyone has found a tried and true epoxy that works well?||||reg||5
+Z||000001||cadaver||08-31-2001||12:24 AM||||Buy new ones they are pretty cheap. I mounted power lock switches for my windows to get a smoother look.||||reg||1
+Z||000002||MikeSchaefer||08-31-2001||01:29 AM||||Do you have pictures of that cadaver?  Sounds cool.<BR>Thanks,<BR>Mike||||reg||14
+Z||000003||Butter||08-31-2001||11:20 AM||||cadaver,<BR>Where did you purchase your swithches or switch faces?||||reg||10
+Z||000004||JetroGT||08-31-2001||02:05 PM||||Do they make the flat switches with the orange backlighting?||||reg||1
+Z||000005||rogergarrison||08-31-2001||02:14 PM||||I think the gray part of the switch pops off and just pop new one on. Ive done that to Cadillacs and assume Fiero is the same. There already broken so try it. If they do just pick up a few when you go to the junkyard.||||reg||1
+Z||000006||Butter||09-05-2001||09:46 AM||||I'd like to try the back lighted pop on switches but where do I find such an item?  Right now they work just fine but the sunlight has taken its toll on the plastic.||||reg||5
+Z||000007||Bill Osmer||09-05-2001||01:40 PM||||The "rocker" part of the switch does come off (with gentle persuasion), and therefore can be replaced. <P>Have you checked Ogre's cave for my switch replacement/enhancement suggestion?? Replace with late-90's Pontiac back-lit switches - it's an extra challenge but worth it.<P>------------------<BR>Bill Osmer<BR> <IMG SRC="http://www.fiero.nl/uploads/forumcardsig2.jpg"> ||||reg||14

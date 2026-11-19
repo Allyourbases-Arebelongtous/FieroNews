@@ -1,0 +1,14 @@
+A||N||12||fieroshop||You Gotta Make A Comment||||10||
+Z||000000||fieroshop||06-12-2000||04:54 PM||||Well I finally went and did it and had my GT done. I still need to put a few items on but here is what it looks like. I still have to install the following. Scoops screens, headlight doors, wing and mirrors.<BR>By the way I accidently put this topic on the technical side, I tried to delete but could not.<BR> <IMG SRC="http://www.fiero.nl/uploads/Gt6.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/Gt5_1.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/Gt4_1.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/Gt3_1.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/Gt2_3.jpg"> <BR> <IMG SRC="http://www.fiero.nl/uploads/Gt1_3.jpg"> ||||reg||10
+Z||000001||bHooper||06-12-2000||05:05 PM||||George, looking good!<P>Jealous in NC!<BR>hoop||||reg||1
+Z||000002||Raydar||06-12-2000||05:27 PM||||Oh yeah!!!||||reg||1
+Z||000003||Raydar||06-12-2000||05:27 PM||||Oh yeah!!!||||reg||14
+Z||000004||tgowens||06-12-2000||06:12 PM||||George -- couldn't get in to do it right but here is a shot I took of the green on your car yesterday in the sunlight......... <IMG SRC="http://www.fiero.nl/uploads/green.jpg"> ||||reg||1
+Z||000005||Big O||06-12-2000||10:36 PM||||George,<P>One of the GGF club members told me you're going to paint three white stripes across the top.  Tell me it isn't so.||||reg||1
+Z||000006||GT Bastard||06-12-2000||11:34 PM||||To be honest I thought those wheels looked pimp-like before, but I think they look pretty nice on the car now.  Nice color... ||||reg||14
+Z||000007||tgowens||06-13-2000||12:02 AM||||Big O, if he does that he'll be makin' all left turns!!||||reg||1
+Z||000008||fieroshop||06-13-2000||12:28 AM||||BigO as far as adding white stripes to my GT, well frankly speaking, they probably look good but not on my car. In other words "HELL NO"||||reg||10
+Z||000009||tgowens||06-13-2000||01:19 AM||||hey Big O, ya think that since they were going to be on the top that they went over his head?? (Dr. George, are ya smilin'??)||||reg||1
+Z||000010||ChadMan||06-13-2000||09:08 AM||||The green paint and those turbine wheels look really classy in a British sort of way - almost Aston-Martinish.  <P>The big question is, have you installed the ejector seat, oil slick and smoke-screen options yet? ||||reg||1
+Z||000011||BlackGT||06-14-2000||03:08 PM||||The car looks good and my girlfriend wants to paint her GT that color as well. When will<BR>the hood scoops be ready for the rest of us?<BR>I got two GT`s waiting for that mod!!||||reg||1
+Z||000012||fieroshop||06-14-2000||04:15 PM||||Black GT, They will be done sometime in July after the western regional's ar San Diego, Ca. on July 7-9. I am in the process of getting my GT ready for the show and will not have time to do it until after the show. But i will keep you posted.||||reg||10

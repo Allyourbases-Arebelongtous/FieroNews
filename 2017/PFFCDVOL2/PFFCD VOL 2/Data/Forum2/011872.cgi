@@ -1,0 +1,5 @@
+A||||3||eastex87gt||Headlight Viagra!!||||6||
+Z||000000||eastex87gt||07-07-2001||01:20 AM||||It took me a total of 2 hours and Rodney's kit to do it, but my car's headlights finally got a rise.  This kit is easy to install and comes with great instructions.  Thanks Rodney!<P>------------------<BR> <IMG SRC="http://www.geocities.com/sirvega/fierosig.jpg"> ||||reg||6
+Z||000001||Janson||07-07-2001||01:28 AM||||Congrats!<P>------------------<BR>- Janson||||reg||1
+Z||000002||Galen||07-07-2001||05:55 AM||||Did ya arms get <B>stiff</B> working in such tight space taking em out and puttin em in?  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR> <IMG SRC="http://www.webjolt.f2s.com/pictures/boyandpc.gif"> <BR>"To whom it may concern, The preceeding message was the opinion of this person and not of this forum. If you do not like it. Oh well"||||reg||1
+Z||000003||Mach10||07-07-2001||01:03 PM||||Glad it worked out for you. Those headlights can be <B>hard on</B> your sanity||||reg||1

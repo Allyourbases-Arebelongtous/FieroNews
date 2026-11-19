@@ -1,0 +1,5 @@
+A||||3||Phantom Rage||Quick Tip (stuck coolant cap)||||7||
+Z||000000||Phantom Rage||11-05-2000||07:19 PM||||I ran into this problem a while back, when putting in my 180-degree thermostat. I ended using my brother’s old 86 SC duke's oil filter wrench.  I was amazed at how easy it came off with the oil filter wrench, especially after a few friends and I tried to muscle it off by hand.  P.S. this only work's with the smaller sized wrenches. If your wrench is slightly too big, try wrapping the cap with some rags first.||||reg||7
+Z||000001||overlord||11-05-2000||07:47 PM||||after 10 mins of trying to wrestle mine off......i just went and grabbed a pipe wrench......||||reg||1
+Z||000002||Bob Englert||11-05-2000||08:53 PM||||I also use an oil filter wrench when removing the thermostat housing cap.  Works well.<P>------------------<BR>Bob<BR>2 - 87 GT's<BR>87 Coupe<BR>85 SE (For Sale)||||reg||1
+Z||000003||deceler8||11-06-2000||09:30 AM||||To make the cap easy to re-install and remove again, spray Armor-all or Son of a Gun on the rubber gasket before putting it back on.<P>Works like a charm.||||reg||1

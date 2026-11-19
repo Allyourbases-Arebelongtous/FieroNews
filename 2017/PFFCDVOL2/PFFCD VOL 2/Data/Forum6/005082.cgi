@@ -1,0 +1,2 @@
+A||||0||malacite||Anyone play Jedi Knights online?||||1||
+Z||000000||malacite||12-28-2001||10:18 PM||||looking for someone to practice playing with, who isn't an @ss and doesn't cheat<P>for some reason they always F--- with the newbies<BR> <A HREF="http://www.zone.com" TARGET=_blank>www.zone.com</A>  is where i play.<BR><P>------------------<BR>Malacite<P>Grendel-88 Fiero RIP<BR>'94 Saturn SW2 RallySport<BR>'95 Saturn SL1 Touring||||reg||1

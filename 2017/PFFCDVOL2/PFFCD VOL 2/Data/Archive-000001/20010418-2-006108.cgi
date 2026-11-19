@@ -1,0 +1,5 @@
+A||||3||Ed||Ponari and Quad Four||||1||
+Z||000000||Ed||10-07-2000||08:53 PM||||Anyone had any experience with:<P>1. The Ponari rebody (A Ferrari 308 copy)?<P>2. The 160 hp Quad Four engine in a Fiero chassis?  <P>I'm looking at a running car with the Quad Four having been put in professionally.||||reg||1
+Z||000001||Quadfiero||10-08-2000||10:00 AM||||Hi Ed,<BR>    I have a 180Hp Quad in my 88 and I am rally happy with it. The early Quads had a problem with head gasket failures and Ignition coil cover problems. There are a few news groups for Quad owners out there that can help you keep it running. Let me know if you have any questions and I will try to answer them.<BR>     Bob '88GT QuadFour HO<BR>||||reg||1
+Z||000002||Ed||10-08-2000||11:18 PM||||The Ponari is actually badged as a Ferrino.  Does that name ring a bell for anyone? ||||reg||1
+Z||000003||Philphine||10-09-2000||12:43 PM||||ponari rings a bell, but not the one you're thinking about. whoever thought up that name didn't grow up in the city, and if he did he had to know what it sounds like. ||||reg||1

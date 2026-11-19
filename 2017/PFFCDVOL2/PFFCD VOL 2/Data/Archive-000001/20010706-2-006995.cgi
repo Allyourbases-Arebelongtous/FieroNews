@@ -1,0 +1,3 @@
+A||||1||Formula 18||How many of there are there ||||1||
+Z||000000||Formula 18||11-27-2000||11:46 AM||||I am looking for some production number. <BR>I have a 88 Formula and I know that they made about 5500 but how many came with what? <P>How many Sunroofs? How many red? How many with PW and How many with Metric gauges? <P>That kind stuff . Anyone got the number?? <P><BR>TIA<BR>||||reg||1
+Z||000001||robertjay||11-27-2000||10:29 PM||||<A HREF="http://www.fiero.mn.org/Knowledge/Features/Fieroproduction.htm" TARGET=_blank>This Site</A> has pretty decent production numbers for the 88's, not much for other years though.  Hope this helps.<P>Robert||||reg||1

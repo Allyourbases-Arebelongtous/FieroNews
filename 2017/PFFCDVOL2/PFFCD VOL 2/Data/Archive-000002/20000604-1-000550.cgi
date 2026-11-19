@@ -1,0 +1,4 @@
+A||||2||COUNTIBLIS||cheap head gasket||||1
+Z||000000||COUNTIBLIS||11-15-1999||04:35 PM||||I was wondering what would a head gasket run for a 86 4 cyl.  Also I was told that Nationals would be in Lousivlle in 2000 can someone tell me a website where i can get more info on this?<P><BR>thanks||||reg||1
+Z||000001||RZURCTN||11-15-1999||10:09 PM||||I just paid $14.99(US) for a head gasket for an 89 Cavalier at Advanced Auto.  That is a 2.0L 4cyl.  One for a 2.5L should cost the same.||||reg||1
+Z||000002||theogre||11-15-1999||10:52 PM||||the price dif from best to worst is only a couple dollars usually. get the better ones. I usually use Felpro for heads, preferably their Print O Seal ones. never once had a problem with one. The whole head gasket kit is only around 20-30$us I think. You might as well stick in the valve stem seals while it's off.||||reg||1

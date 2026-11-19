@@ -1,0 +1,2 @@
+A||N||0||Roy Grooms||350.00 ON BRAKE PARTS AND STILL GOING||||1||
+Z||000000||Roy Grooms||08-07-2001||03:09 PM||||JUST A UP DATE REPLACED FT LINES AND CALB.S AND PAD, NOW ON TO THE BACK, GOT THE READ CALB,PADS  AT AUTO ZONE, IN STOCK TO( BELIVE THAT) .HAD TO ORDER THE REAR LINES WELL BE WELL GET THEM TOMM,<BR>had one HELL of a time with the rear calb. remover rusted calb bolts broke two t 50,s on them<BR> but there off now up date later<BR> Roys /toy<BR>||||reg||1

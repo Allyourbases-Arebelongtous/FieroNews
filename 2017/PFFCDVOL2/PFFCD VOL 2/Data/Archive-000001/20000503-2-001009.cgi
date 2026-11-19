@@ -1,0 +1,4 @@
+A||N||2||Zzaaak||Possible 87 Fiero Parts!!!||||7
+Z||000000||Zzaaak||10-03-1999||09:00 PM||||Hi I am going to an a Auction on 10/6/99 that has a 1987 Fiero.  I havve no clue as to what condition the parts are in or what kind of motor is in it, or even it it has a motor.  I'll only need a few parts to my 87 fiero...  So just tell me what parts you need and what your willing to pay for them.  I am not sure if I will buy it.  But your parts request may influence my dicision on whether I get it or not.||||reg||7
+Z||000001||AL||10-04-1999||01:01 AM||||OK ZZACK needrivers side breaklight asembly, for my 86 gt fastback, if you can get it for a realy good price(60 t0 80 bucks) i would appreciate it.||||reg||1
+Z||000002||bHooper||10-04-1999||07:38 AM||||Zack,<BR>I need a 5 speed tranny for my '86.5 Gt.  let me know what you find.<BR>Brian||||reg||1

@@ -1,0 +1,8 @@
+A||||6||Pretender||6.5hp engine swap||||1||
+Z||000000||Pretender||04-06-2001||04:33 AM||||I seen the new honda lawnmower at work had a 6.5 hp engine with improved cooling and gas-milage, not to mention more torque then the new gsr!, Wait 'till the rice boys see that thing, engine swaps out the kazoo, fart can exhausts and all those stickers!!! That would be one bad ass civic if i could say so myself. haha.. L8r guys<P>98typeSH||||reg||1
+Z||000001||FieroJoe||04-06-2001||09:31 PM||||Jeez, at first I thought that you were going to do a Briggs and Stratton swap into a Fiero!  I was worried!<P>------------------<BR>AIM: Snowboarder0311<BR>87 Coupe 5sp. - big resto in progress<BR>  <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||10
+Z||000002||fieros suck||04-07-2001||12:54 AM||||If you did that engine swap, at least your pos would run then.||||reg||1
+Z||000003||862M4inCA||04-07-2001||01:32 AM||||Sad thing is it would run faster and better than yer MR2. ||||reg||1
+Z||000004||Mach10||04-07-2001||06:26 PM||||Woodent soun as phat. too hrad to fiit a performanc 2/1/2 inch cat-bak exhaust sysstem on that Honda enjinn.<P>V-TEK Fo-evah!<BR>||||reg||4
+Z||000005||Pontiaddict||04-07-2001||10:27 PM||||Yep, Fiero's suck the doors off of the Camaro's that losers drive and are so ashamed of that they have to lie and say that their MR2 that they don't even have is better. Even with 6.5hp Honda lawnmower engines.<P>LottaBalls indeed!||||reg||1
+Z||000006||Terrybogin||04-07-2001||10:41 PM||||Yeah, I went to the bathroom and just thought I had to MR1, but instead I had to MR2 and left a streak in my last pair of clean underwear. Man, that sucks.||||reg||1

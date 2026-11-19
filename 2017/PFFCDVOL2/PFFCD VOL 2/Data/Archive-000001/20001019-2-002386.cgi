@@ -1,0 +1,2 @@
+A||||0||mshill||4sp Transmission Axle Seals?||||1||
+Z||000000||mshill||02-18-2000||05:30 PM||||I have an 86SE V6 and am cleaning up the cradle and wanted to replace the transmission seals while I had the cradle out.<P>At wrenchhead.com I see that there are seals for about $5 and then there are some for around $20.  I assume that the $5 ones are simple seals.  The $20 ones had descriptions like "redi-sleeve" and "speedi-sleeve".  Are these the ones with roller bearings attached to the seals like the Fiero store advertises?<P>||||reg||1

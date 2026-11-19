@@ -1,0 +1,4 @@
+A||N||2||Will||Is that a Fiero in the background?||||1||
+Z||000000||Will||03-28-2001||09:32 PM||||check out this link:<BR> <A HREF="http://www.angelfire.com/nc2/northcarolinabeaters/offroad.html" TARGET=_blank>http://www.angelfire.com/nc2/northcarolinabeaters/offroad.html</A> <P>Is that yellow fender with deep dish wheel in the background a fiero or an F-body?<P>The rest of this site is pretty funny, too.||||reg||1
+Z||000001||Slammed Fiero||03-28-2001||09:44 PM||||Looks like a Avenger kit car , bricklin or a puma<P>JM ||||reg||1
+Z||000002||Black88GT||03-28-2001||10:04 PM||||Looks like an old Camaro to me, like the early 80s type, but I'm probably wrong<P>------------------<BR>Jeff<BR>'88 GT t-top 3.4<BR>Baltimore, MD - MAFOA<BR>      <IMG SRC="http://88database.homestead.com/files/AF.gif"> ||||reg||1

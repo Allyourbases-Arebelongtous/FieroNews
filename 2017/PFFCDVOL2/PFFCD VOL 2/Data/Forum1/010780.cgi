@@ -1,0 +1,2 @@
+A||||0||Sootah||*****VTAIL*****||||4||
+Z||000000||Sootah||10-06-2001||11:39 PM||||Where, oh where, have you gone? Mailed you a few times bout your car. No response...<P>Thanx<BR>-<B><I>Sootah</I></B><P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/Sootah__Nuclear_Happy_Face_Sig.jpg">    <BR><sup><I>Never pull your pants down in Cosco, the dang monkeys will getcha</I></sup> <BR><sup><B>AIM</B>: KSSouter</sup><BR><FONT SIZE="1"><B>WANTED</B>: Aero Fiero in good condition, Manual, V6 preferred.</FONT>||||reg||4

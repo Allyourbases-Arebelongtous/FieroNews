@@ -1,0 +1,4 @@
+A||||2||carpetviper||shifting?||||1||
+Z||000000||carpetviper||12-17-2001||03:31 PM||||For those who have V6 4spd manuals. At about what speed or rpm do you shift at all through the gears?  <IMG SRC="http://www.fiero.nl/forum/smiley_watchout.gif"><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/carpetviper.gif"> ||||reg||1
+Z||000001||StuGood||12-17-2001||04:06 PM||||Such a tach-y question! I'm terribly offended!!  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> <P>It depends.  Ordinarily, I upshift at around 3000-3500 rpm (roughly).  Or, around 5000-5500 if showing off  <IMG SRC="http://www.fiero.nl/forum/wink.gif">  If just "oozing" around town, 2500-3000 is plenty.       ||||reg||12
+Z||000002||mshill||12-17-2001||05:43 PM||||I shift at 1500 rpm when my shift light <BR>comes on... NOT.||||reg||1

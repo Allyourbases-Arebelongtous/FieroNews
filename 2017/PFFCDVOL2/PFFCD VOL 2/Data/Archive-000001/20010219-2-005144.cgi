@@ -1,0 +1,4 @@
+A||||2||Philphine||gas tank||||1||
+Z||000000||Philphine||08-08-2000||12:47 PM||||<BR>got the tank out of my '84 to change the pump. looked too rusty inside so i took it to a radiator shop for an expert opinion. too rusty. clean and coat, $100, replace, $150. normal price? i guess i could try a few places to get a better one. would tou risk another used one? maybe a larger tank from a later year (thought i heard they don't fit though) while i'm at it. any one with more experience on this? thanks for any help.<P>------------------<BR>Phil T<P>'87 coupe (feral)<BR>'84 indy<BR>'84 coupe||||reg||1
+Z||000001||286SE'S||08-08-2000||01:12 PM||||The 88 tank won't fit so forget that. $150 is<BR>reasonable for a good used tank. I paid $200 for mine.<BR>Terry||||reg||1
+Z||000002||Philphine||08-09-2000||11:29 AM||||so just '88's have the larger tank? i may have to do the junk yard thing and need to know.<P>||||reg||1

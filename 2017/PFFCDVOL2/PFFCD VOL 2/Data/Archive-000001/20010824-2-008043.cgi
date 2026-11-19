@@ -1,0 +1,3 @@
+A||||1||TheHans||I know what you did.......||||1||
+Z||000000||TheHans||01-25-2001||12:03 PM||||I got some seat covers... But they are not tight against the original..<P>I know that a lot of you guys have probably done this before. <P>I want it to look just like new. <BR>Any advice from the Fiero Mafia? (hey a new car club).<BR>Thanks in advance. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000001||DXR_DAD||01-25-2001||01:22 PM||||Get more padding from fabric store.<BR>Lots of different types???? tell them what your doing and they should be able to help.<P>I used the cotton stuff when I did mine, just on the bolsters & sides, Foam for seat & back<P>DXR_DAD||||reg||14

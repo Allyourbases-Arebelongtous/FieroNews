@@ -1,0 +1,4 @@
+A||||2||Dreamer||84 conversions for wiring||||1||
+Z||000000||Dreamer||01-23-2001||11:03 PM||||Im installing a 2.8 or a 3800 motor in my 84 manuel car. any thoughts on the wiring problem I will have with this 84 model?||||reg||1
+Z||000001||chrissherman||01-24-2001||03:36 AM||||Look up kick hill on lycos by puting in fiero he can help you out <P>------------------<BR>  <IMG SRC="http://sites.netscape.net/shermanchris777/Jan1902.jpg">  <BR>NO SNOW IN JUNEAU ALASKA||||reg||1
+Z||000002||TheFiero64||01-24-2001||10:33 AM||||Just find an 86-88 parts car and pull all the wiring from the dash back and install it into your 84.<P>P.S. <A HREF="http://www.kickhill.com" TARGET=_blank>www.kickhill.com</A> <P>------------------<BR>Josh<BR>88 Coupe V6<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif">   <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||1

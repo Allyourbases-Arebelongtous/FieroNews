@@ -1,0 +1,3 @@
+A||||1||riverpete||first gear problems
+Z||000000||riverpete||07-11-99||05:16 PM||||I have a problem getting into first gear when  I stop take the car out of gear then most of  the time I have to push the clutch in a  two to four times to get it into first gear.  Is there an adjustment to solve this problem  or is this just a design flaw with linkage  or cable.  
+Z||000001||theogre||07-11-99||05:43 PM||||dig back in the list and find a thread called "clutch info uncovered" and start there. it could be the clutch hydro system, the pilot bushing, and a few other things. It's pretty much all in that thread.

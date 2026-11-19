@@ -1,0 +1,6 @@
+A||N||4||mpicanso||Loss of power||||8
+Z||000000||mpicanso||10-06-1999||01:51 PM||||Hi all just a quick question.  I have a 87GT with a 5 SPD, all stock.  The problem is that the car has no get up and go, the engine runs fine, but when I start moving the car feels like it has no acceleration.  Plus when it gets above 3500 RPM the power feels like it is dropping off.  Any help please.||||reg||8
+Z||000001||theogre||10-06-1999||01:58 PM||||disconnect the tach filter and try it. small tin can with a couple leads bolted to the block some place near the dist or coil.||||reg||1
+Z||000002||mpicanso||10-06-1999||01:59 PM||||What is a Tach Filter???||||reg||5
+Z||000003||Carrolles||10-06-1999||04:14 PM||||Also check the catalytic converter.  It may be plugged.||||reg||1
+Z||000004||GT Bastard||10-06-1999||04:37 PM||||Also, you may want to get the engine timing checked.  I've got an 87 GT also and I'm pretty sure the timing is suppose to be 10 degrees advanced(on the auto's at least.)  If the timing is retarded(less than 10 degrees), it could make the engine perform very poorly.  One sign that the engine is suffering from "retardation"(hehe) is when the engine starts very quickly and has poor throttle response.  It's worth checking into. later..||||reg||3

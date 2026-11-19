@@ -1,0 +1,6 @@
+A||||4||spit||idle question||||1||
+Z||000000||spit||10-27-2001||02:42 PM||||I've got an 86 4 cylinder fiero.  For a while, when I would accelerate, the engine would fade in and out (vrrmmmm..VRRMMM..vrrm..VRRMMM..etc).  Then one day, it just died when i came to a stop.  Now, I can start it, but it will die after 30 seconds or so, and as soon as I put it in another gear it dies.  I have a friend that owns a fiero who told me it was the throttle positioning sensor, so I got a new one and installed it, and nothing changed.  If anyone can help me with this it would be most appreciated.||||reg||1
+Z||000001||johnt671||10-27-2001||05:25 PM||||Is your check engine light on and if so check your codes. It could be as simple as a fuel filter giving you enough fuel to idle but not to power up.||||reg||1
+Z||000002||spit||10-28-2001||06:26 PM||||Oh, sorry, I forgot to mention that when i checked the codes for the check engine light it keeps flashing 12, so it doesn't say there's anyhthing wrong with it.  Hmmm...., any suggestions?||||reg||1
+Z||000003||spit||10-29-2001||04:21 PM||||Anyone???||||reg||1
+Z||000004||Indiana_resto_guy||10-29-2001||06:35 PM||||Check your EGR valve and related vac. hoses.||||reg||1

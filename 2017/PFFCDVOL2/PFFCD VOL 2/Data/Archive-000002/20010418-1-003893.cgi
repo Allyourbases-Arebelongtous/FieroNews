@@ -1,0 +1,6 @@
+A||||4||AL||fiero spotted in zacatecas mexico||||1||
+Z||000000||AL||10-06-2000||05:30 PM||||well i finally spotted a fiero down here, it;s a 84 4 banger from california. i did not stop to chat with her but i will tell her the next time i see her about are forum.who saids are cars aren.t reliable!<B>AL</B> <IMG SRC="http://www.fiero.nl/uploads/AL_sig.gif"> <P>------------------<BR> ||||reg||1
+Z||000001||80's BOY||10-06-2000||09:08 PM||||did have gold wheels and hop up and down???||||reg||5
+Z||000002||hugh||10-06-2000||09:24 PM||||Have you spotted any Lemmas yet? ||||reg||1
+Z||000003||stsmithgt||10-07-2000||10:13 AM||||Dang, I'd be worried about driving too deep down into Mexico in a Fiero.  Those federalies would pull me over in a heart beat and fine me for something or other.  I wouldn't want to lose my car because I don't have enough bribe money. <IMG SRC="http://www.fiero.nl/forum/smile.gif">  That's too risky for me.  Can you say rental car?||||reg||1
+Z||000004||AL||10-07-2000||01:44 PM||||well the car is stock but it needs a paint job as far as the roads down here they are better then some of our potholed roads in calif but it must of been a long drivebut it made it,well guys i leave tomarrow to tj and from there back home.<B>AL</B> <IMG SRC="http://www.fiero.nl/uploads/AL_sig.gif"> <P>------------------<BR> ||||reg||1

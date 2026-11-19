@@ -1,0 +1,6 @@
+A||||4||burdell1||Seat Belt Replacement
+Z||000000||burdell1||04-17-99||08:16 AM||||I wanted to get a different set of seat belts (cause mine are way too dirty to clean), but wasn't sure what you have to do in order to take them out.  Anyone out there have any ideas?<br>
+Z||000001||theogre||04-17-99||03:07 PM||||it's not hard, just time eating.<p>you need to pull the seat, and some interior trim. there are 2 large Torx(tm) bolts anzhoring them as I recall. T-50 I think.  Been a while since I messed with GM seat belts.
+Z||000002||burdell1||04-18-99||12:00 AM||||Pull the seat forward or totally out of the car?
+Z||000003||Patrick||04-18-99||01:39 AM||||Take the seats right off and get them out of the way. There's just four nuts to remove that hold the guide rails to the floor. I've had the entire interior out of my Fiero. Taking the seats out was probably the easiest thing that I had to do.
+Z||000004||theogre||04-18-99||09:42 PM||||a 13mm flexy socket comes in really handy taking off that flaming nut by the tilt latch. anyother socket combo tends to want to tear the seats. If it's not rusted you can get it with a straight wrench, and then just use you fingers, but so far I ain't been that lucky.

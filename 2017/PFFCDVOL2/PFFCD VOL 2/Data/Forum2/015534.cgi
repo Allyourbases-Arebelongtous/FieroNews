@@ -1,0 +1,2 @@
+A||N||0||MR2KLR||3.1L ?||||1||
+Z||000000||MR2KLR||11-17-2001||10:53 PM||||<BR>Did any FWD GM cars come with a NON-DIS 3.1? I looked for about an hour in the junk yard where I work and I found about 7 3.1L V6's all where DIS motors. what should I look for?<P>------------------<BR> <IMG SRC="http://community-2.webtv.net/TOMTOM81/MYNEWTOYPICS/scrapbookFiles/importD3.gif"> <A HREF="http://community-2.webtv.net/TOMTOM81/MYNEWTOY/" TARGET=_blank>Tom's Page</A> <A HREF="mailto:Tomtom81@webtv.net">Tomtom81@webtv.net</A> ||||reg||1

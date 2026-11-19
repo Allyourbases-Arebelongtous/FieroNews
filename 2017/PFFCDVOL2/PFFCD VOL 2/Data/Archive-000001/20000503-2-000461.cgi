@@ -1,0 +1,3 @@
+A||||1||BENGAL4||CRANKSHAFT TIMING SPROCKET
+Z||000000||BENGAL4||07-21-99||09:41 PM||||Help. I am trying to remove the timing sprocket from the crankshaft and I don't seem to have the right puller. The one they loan @ Autozone has a bar and 3 bolts. From looking at the Haynes Manual, it looks like this needs a claw type puller. I purchased one and I cant get the thing on. Is there a special one just for the 2.8L V6? If anyone knows the correct type and style, please let me know.<p><br>Bill
+Z||000001||DJRice||07-22-99||07:00 AM||||I had to borrow two different pullers from a local auto parts store before I manage to get my sprocket off.  Getting those claws in is a pretty tight situation.  Good Luck

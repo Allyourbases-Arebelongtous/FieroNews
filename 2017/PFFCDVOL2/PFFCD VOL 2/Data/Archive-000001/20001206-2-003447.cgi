@@ -1,0 +1,3 @@
+A||N||1||Jeff's '86 1/2 GT||Back lit Stereo Lights?||||5||
+Z||000000||Jeff's '86 1/2 GT||04-29-2000||01:29 PM||||<BR>How do you replace the bulbs in the Stock Stereo?  The ones that light up the controls.  I just did the Heater/AC control panel, but couldn't find where to replace the bulbs in the stereo.  <IMG SRC="http://www.fiero.nl/forum/frown.gif">||||reg||5
+Z||000001||Monkeyman||04-29-2000||06:53 PM||||I don't know about the stock stereos in a Fiero specifically, but I've taken aftermarket/stock stereos from big trucks into dealerships to have the lights replaced.  Big hassle and not really cheap, but it can be done, I'd think.  (Big help, wasn't I?)||||reg||1

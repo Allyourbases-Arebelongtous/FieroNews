@@ -1,0 +1,3 @@
+A||||1||EMF||where can i...
+Z||000000||EMF||05-04-99||01:52 PM||||where can i get one of those bars that  connects to the strut towers to hold the engine in place, so i could drop my cradle?
+Z||000001||PaUL||05-04-99||02:12 PM||||you could probably use a heavy steel bar or pipe. Once I helped some friends remove the engine from an X car which is very similar. We attached chains to the heads and lifted the engine out with a pipe. 

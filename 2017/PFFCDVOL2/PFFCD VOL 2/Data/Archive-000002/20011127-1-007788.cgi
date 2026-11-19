@@ -1,0 +1,7 @@
+A||||5||Loki||Who sells trim fasteners?||||1||
+Z||000000||Loki||05-30-2001||08:04 PM||||I need to replace ALL my trim and need new fasterners...Anyone know who sells em?<BR><P>------------------<BR>Loki<BR>ICQ# 16477998<BR>www.cox-internet.com/fiero  !!!UPDATED!!!||||reg||1
+Z||000001||DXR_DAD||05-30-2001||08:45 PM||||Loki, There always on Ebay, but I thing the dealer still has them???<P><BR>DXR_DAD||||reg||4
+Z||000002||operator64||05-30-2001||09:28 PM||||   I bought some for my door trim at TheFieroStore.com .<BR>||||reg||1
+Z||000003||theogre||05-31-2001||03:59 PM||||Source depends some on which fasteners.... Allot of them, or something compatible, are available thru the MotorMite catalog. (Body-Tite! line) You can get those almost any place. <P>I'm not sure about the ones for the side moulding tho. Those you'll have to dig for I think.||||reg||1
+Z||000004||mbramble||05-31-2001||04:14 PM|||| <A HREF="http://www.ardeldistributors.com/category.html?UCIDs=414669%7C656537" TARGET=_blank>http://www.ardeldistributors.com/category.html?UCIDs=414669%7C656537</A> <P>You can often find their items cheaper on ebay in bulk quantities.  Fast delivery...<p>[This message has been edited by mbramble (edited 05-31-2001).]||||reg||1
+Z||000005||Loki||05-31-2001||06:09 PM||||Thax for all the info peeps..But found out Rodney Dickman has em...Thax though..<P><P>------------------<BR>Loki<BR>ICQ# 16477998<BR>www.cox-internet.com/fiero  !!!UPDATED!!!||||reg||1

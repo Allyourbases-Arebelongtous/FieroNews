@@ -1,0 +1,5 @@
+A||||3||b lo 0||Ausfiero?||||1||
+Z||000000||b lo 0||11-22-2001||11:22 PM||||Anybody seen Jim?  I know I haven't been on in a while, I wanted to see how the S2GT kit was coming.  So Jim, how goes it?||||reg||1
+Z||000001||AusFiero||11-23-2001||01:53 AM||||Still waiting for bloody garage to be finished. Insurance company have screwed around, well the builder actually. I want to ship before christmas though so I have a busy few weeks in front of me.<P>I still have the scoops for the 1/4s just need to finish things when I get my work space back.<BR>Cheers<BR>Jim||||reg||1
+Z||000002||MinnGreenGT||11-23-2001||09:54 AM||||AUS- glad to hear that you're almost back up & running!  I just sold my old '84SE to finance the Stage-2 side scoops!  WooHoo!<P> <IMG SRC="http://www.fiero.nl/uploads/custgreengt.jpg"> <BR> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  Just reminding myself...<P>------------------<BR>              <IMG SRC="http://www.fiero.nl/uploads/GreenGT6.gif"> ||||reg||1
+Z||000003||Philphine||11-23-2001||11:39 AM||||are the facia pieces still somewhere down the line too?||||reg||1

@@ -1,0 +1,7 @@
+A||||5||DXR_DAD||Stock 14's||||1||
+Z||000000||DXR_DAD||11-27-2000||09:50 PM||||All you guys with the stock 14" rims, What size tires are you using??? and what brands?<P>Thanks<BR>DXR_DAD||||reg||1
+Z||000001||RaeQwan||11-27-2000||09:58 PM||||I'm using stock cavilier rims, 14's.. using 206/60's.. my speedo is still right  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/raeqwancfa.gif"> ||||reg||1
+Z||000002||DXR_DAD||11-27-2000||10:36 PM||||Would the 205/60's on a lowered (1 1/2")fiero be ok??  Do you have a pic? just checking the wheel well gap.<P>THANKS<BR>DXR_DAD||||reg||1
+Z||000003||Cooter||11-27-2000||11:07 PM||||I had 215/60-14's on the old 85 se. They were generic Douglas M+S tires. No interference on the car at stock ride height.||||reg||1
+Z||000004||2M4 Dale||11-27-2000||11:52 PM||||I use P215-60R-14's on my aluminum "stock" wheels. My tires are GOODYEAR Eagle GTII's. I love 'em !!! Look good , wear good , good allaround traction properties.||||reg||6
+Z||000005||Oreif||11-28-2000||01:42 AM||||My original tires on the stock 14X6" wheels then an aftermarket set(also 14X6) were 235/60R14. I had these on my car even after I lowered it. there was a slight rubbing during hard cornering from the front but a 215/60R14 wouldn't rub. Now I'm running 225/50R15's on GT wheels.<p>[This message has been edited by Oreif (edited 11-28-2000).]||||reg||1

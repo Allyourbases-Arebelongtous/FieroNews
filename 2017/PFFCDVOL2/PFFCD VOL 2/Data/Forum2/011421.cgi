@@ -1,0 +1,3 @@
+A||||1||fierodude||a\c clusters||||6||
+Z||000000||fierodude||06-20-2001||10:36 PM||||hello ive got a fiero gt that dosent have the a\c option can i put the cluster in ? without actually installing the whole a\c<BR>just for show kinda thing if anyone is selling this cluster let me know!!<P>ciao||||reg||6
+Z||000001||Songman||06-20-2001||10:44 PM||||You mean the dash control box? You can put it in, but I don't know if the wiring harness and everything is the same. You might lose your heat if you do...<P>Pondski said he had a nice one...<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1

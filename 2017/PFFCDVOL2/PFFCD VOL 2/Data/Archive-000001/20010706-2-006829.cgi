@@ -1,0 +1,3 @@
+A||N||1||polomeno||What is needed to swap 2.8 for a 3.4||||1||
+Z||000000||polomeno||11-17-2000||06:21 PM||||Hi, I just wanted to know what extra parts were needed to swap in a 3.4 , you dont need a kit like the v8's? .. any extra parts or wiring  etc... what engins are exceptable? i heard a camaro 3.4 would work? .. i'm just trying to get a general idea on what kind of work and parts this swap would take.. thanks<P>John||||reg||1
+Z||000001||batboy||11-17-2000||07:39 PM||||Here's a place to start learning more about the 3.4 swap. No it doesn't need a kit, but does need the starter relocated.<P> <A HREF="http://members.yourlink.net/dragon/parks/e-conv.htm" TARGET=_blank>http://members.yourlink.net/dragon/parks/e-conv.htm</A> ||||reg||1

@@ -1,0 +1,3 @@
+A||N||1||shamrock||NEED SOME ADVICE PLEASE||||9||
+Z||000000||shamrock||03-27-2001||08:26 PM||||hi all<BR>i have an 1985 2 m 4<BR>it starts up fine but when i go to give it gas it backfires and drives about 25mph max<BR>but it idles perfectly<BR>i changed the altenator and im wondering if this could be the problem???<BR>or could it be an e c m  problem???<BR>any ideas<BR>thanks<BR>folks<P>------------------<BR>shamrock||||reg||9
+Z||000001||My7Fieros||03-27-2001||08:36 PM||||Timing is way off and/or clogged cat.<P>------------------<BR>1986 Fiero Se V6 4 spd<BR>1986 Fiero GT 5 spd<BR>1988 Fiero Formula auto<BR>2001 Mustang 5 spd||||reg||1

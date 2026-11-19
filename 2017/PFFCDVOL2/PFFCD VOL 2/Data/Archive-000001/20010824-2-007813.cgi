@@ -1,0 +1,3 @@
+A||N||1||erapp||4spd auto trans ||||3||
+Z||000000||erapp||01-13-2001||07:34 PM||||trying to install a 4T60E auto trans. in my 1985 fiero and the 95' 4spd trans. having a problem fitting the left axle any info out there.||||reg||3
+Z||000001||terryk||01-13-2001||08:04 PM||||As assume you mean the passenger side. You need a 26003925 shaft from GM (about $35). This is the same shaft found in A cars (Ciera, Century) with the 4T60E, not the 440 or 4T60. Or the same shaft from any 92-97 U-van with the 3800. They all had the 4T60E. And of course, the manual trans Fiero outer CV's.<BR>The 4T60E is slightly longer on the passenger side.<BR>TK||||reg||1

@@ -1,0 +1,2 @@
+A||||0||Kasdan||RAYDAR, help!||||1||
+Z||000000||Kasdan||11-18-2001||11:16 AM||||hey man, i need some help getting my manifold off, you free?  today?  travis said hed weld it for me.  drop me an E-Mail...Kasdan@home.com<P>------------------<BR>Tyler Morgan, 1986 GT<BR>  <IMG SRC="http://www.fiero.nl/uploads/kassig2.gif">                  <BR>Aftermarket Power Steering, Rebuilt 2.8<BR>http://www.geocities.com/mtyler14/index.html||||reg||1

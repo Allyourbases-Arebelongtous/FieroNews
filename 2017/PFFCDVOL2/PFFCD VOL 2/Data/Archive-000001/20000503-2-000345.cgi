@@ -1,0 +1,7 @@
+A||||5||87fiero_gt||87 GT runs for a scond after start
+Z||000000||87fiero_gt||06-29-99||04:08 PM||||OK guys I'm stumped. Problem - when I try to start the thing fires for about a second, then quits. It will do this twice then it has to sit for awhile, then does the same thing. I have disconnected the tach filter, replaced the dist, coil, pickup coil, ignition module, rotor and cap. I need to set the timing but its doing the same thing it did before I replaced all the parts. So far everything I replaced needed it. But it wasn't enough. Keep the ideas coming PLEASE.
+Z||000001||Cooter||06-29-99||07:10 PM||||It sounds like the timing is really low. try twisting the distributer around to advance the timing alot and see what happens.
+Z||000002||Phil||06-29-99||07:21 PM||||have you checked the key switch? Also if you have no oil pressure your fuel pump will shut down soooo no spark no run no fuel no run. There's always something to check
+Z||000003||87fiero_gt||06-29-99||07:29 PM||||I do have oil pressure. I have been having problems with the ignition switch. It is hard to get it out of lock......is that where I should concentrate first. 
+Z||000004||Phil||06-30-99||05:49 AM||||I would try hot wiring your switch to test it first. Pulling the steering wheel requires a special tool (I made one up from an old piece of 1 1/2 in square tubing) but it's not too bad of a job
+Z||000005||87fiero_gt||06-30-99||10:00 AM||||How do I go about hotwiring the ignition?

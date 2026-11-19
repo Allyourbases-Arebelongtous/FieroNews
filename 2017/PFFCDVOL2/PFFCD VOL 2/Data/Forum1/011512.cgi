@@ -1,0 +1,3 @@
+A||N||1||MR2KLR||How do I work this UBB thing?||||1||
+Z||000000||MR2KLR||11-03-2001||07:27 AM||||<BR>My first question is how to post a link? I want to post the address of my webpage for all to happily click on but I don't know how.&gt;&gt;&gt;&gt;<BR> <A HREF="http://community.webtv.net/TOMTOM81/FIERO" TARGET=_blank>http://community.webtv.net/TOMTOM81/FIERO</A> <P>Second my webtv had a master reset proformed by webtv network/ MSN and now I have to type in my member name & password every time I post where do I go to set it back to "Save password for 1 year"<BR>  Thanks<BR>||||reg||1
+Z||000001||MR2KLR||11-03-2001||07:32 AM||||never mind about the likng then I see all I have to do is type the address.||||reg||1

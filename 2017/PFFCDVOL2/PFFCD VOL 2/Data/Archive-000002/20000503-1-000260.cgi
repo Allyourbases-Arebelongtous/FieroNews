@@ -1,0 +1,4 @@
+A||||2||CUTTER||VW Corado Vs. 87GT
+Z||000000||CUTTER||08-26-99||10:06 PM||||What do you think would be the outcome of a race between a stock 87GT, and a stock VW Corado? what would accel. better? what has the better top end speed? I heard the Corado is a tiny bit faster but yet to race one. 
+Z||000001||Pretender||08-27-99||04:03 AM||||My friend has one, there are two kinds of corados out there, supercharged 4 bangers and the powerful 2.8 VR6(195 hp), the v-6 is faster then the g60(supercharged) and also faster then the stock '87 fiero. of coarse in the salom and road racing we got them beat, but in accel, and top speed i'd have to say the VW is faster, but i could be wrong about the top speed.
+Z||000002||DXR_WILL||08-27-99||11:05 AM||||I think the g60 has something like 140 or 158HP and the new VR6 has 178 HP.  The g60 does the 1/4 in about 16.0 to 16.2 and does 0 to 60 in 8.3 seconds and the VR6 does the 1/4 in about 15.3 and does 0-60 in 6.8 seconds.

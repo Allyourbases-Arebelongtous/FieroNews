@@ -1,0 +1,5 @@
+A||N||3||kornholio||limiting decklid travel||||1||
+Z||000000||kornholio||12-08-1999||07:11 PM||||Anybody have a way to limit how far the decklid travels?<P>Here's my situation:<BR>I moved the pin for the tension spring to the 3rd (hardest) setting and when I open the trunk, if I let go of the lid, it goes slamming upward.  I'm sure one of these days, the decklid will snap or crack at the bracket where it is attached to due to the force (and my carelessness).<BR>I noticed that there is 1 piece of thick wire on each side that limits the travel.  These 2 wires are not enough to slow the decklid on it's upward travel.  Thanks.||||reg||1
+Z||000001||theogre||12-08-1999||07:53 PM||||they are not intended to slow anything. this problem is part of why rodney sells the gas springs. they will only go up or down so fast.||||reg||1
+Z||000002||TOM||12-08-1999||08:32 PM||||Then why did you pick the hole with the most tension?||||reg||1
+Z||000003||kornholio||12-08-1999||08:56 PM||||I picked the hardest tension because it was the next step up.  It was originally in the centre hole and that hardly kept the decklid up.||||reg||1

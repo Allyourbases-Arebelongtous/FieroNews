@@ -1,0 +1,4 @@
+A||||2||JohnnyK||Clutch master. 1st design and 2nd??||||1||
+Z||000000||JohnnyK||04-14-2001||04:50 PM||||I was browsing the Fiero store, and came across a 1st design for master cylinders and 2nd designs? WHat is the difference. I have a 1985, 4 cyl, 5 spd.. What design would i have? I want to get the kit from my local supplier (if they stock it) but I don't think they will have the optino of 1st design and 2nd design..||||reg||1
+Z||000001||Bob Englert||04-14-2001||10:14 PM||||You would need whatever you now have in your car.  The difference is the routing of clutch line from the MC.  They aren't interchangable unless you change the clutch hydralic line. <P>I think the 84-85 used the 1st design.  I think the 2nd design was introduced in 86 (??).<P><P>------------------<BR>Bob<BR>2 - 87 GT's<BR>85 SE 4 cyl||||reg||1
+Z||000002||JohnnyK||04-15-2001||12:35 AM||||Thats the only different? Nothing internally?||||reg||1

@@ -1,0 +1,4 @@
+A||||2||DavidHenshaw||American racing mag wheels||||1||
+Z||000000||DavidHenshaw||05-16-2001||09:56 PM||||Ok, I like a nice looking stock fiero as much as anyone but I gotta say the Estrella wheels from American Racing look awsome on my white 86 GT. If anyone is considering wheels don't overlook the Estrella. They look like they were made for the car. Sorry I don't have a digital camera or I would post photos.<P>Dave<P>86 GT||||reg||1
+Z||000001||Raydar||05-17-2001||08:52 AM||||Went to their site. Couldn't find 'em. Drat!<BR>Must be really new.<P>------------------<BR>Raydar - aka Steve<P>88 black Formula<BR>88 Duke coupe <BR>88 "wadded up" Formula (parts car)||||reg||1
+Z||000002||kslish||05-17-2001||10:25 AM||||They are under New Designs....<P> <IMG SRC="http://web.americanracing.com/newdesigns/big/Estrella.jpg"> <P>Ken S.<BR>'87GT and '86SC<BR> <A HREF="http://www.westpennfiero.org" TARGET=_blank>www.westpennfiero.org</A> ||||reg||1

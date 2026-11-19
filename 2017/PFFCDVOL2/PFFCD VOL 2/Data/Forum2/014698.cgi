@@ -1,0 +1,2 @@
+A||N||0||Formula88||Trim Paint Question||||5||
+Z||000000||Formula88||10-23-2001||10:47 AM||||I've got to repait the black moulding across the rear bumper on my Formula.  Sure, it had to be the rear bumper since that's integral to the fascia and not a replaceable moulding like the sides.  <P>My question is, what type and color of paint should I use to most closely match the factory look of the other mouldings?  I don't want to have to paint them all, and I want them to match, if possible.||||reg||5

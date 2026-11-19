@@ -1,0 +1,10 @@
+A||||8||2M4 Dale||I can't believe I won !!!||||7||
+Z||000000||2M4 Dale||07-31-2000||10:21 AM||||Check it out...My first car show and I took third place in my class. (AA Custom) WOOHOO  <IMG SRC="http://www.fiero.nl/uploads/Mvc-003s.jpg">  <p>[This message has been edited by 2M4 Dale (edited 07-31-2000).]||||reg||7
+Z||000001||2M4 Dale||07-31-2000||10:23 AM|||| <IMG SRC="http://www.fiero.nl/uploads/Mvc-024s.jpg"> ||||reg||12
+Z||000002||DXR_DAD||07-31-2000||10:33 AM||||Yep and it's another BLACK notchback  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>what is AA Custom?????<P>DXR_DAD||||reg||14
+Z||000003||2M4 Dale||07-31-2000||10:37 AM||||AA Custom was the lowest custom class...More than five changes from stock put me into that class. I think that custom paint or non-stock color also gets you into AA Custom.||||reg||1
+Z||000004||tgowens||07-31-2000||10:45 AM||||Congratulations Dale, you deserved it!! The paint is awesome too!! (of course it helped that Christine spent so much time wiping it down every time it got dripped on!!!) -- Congratulations to you and Christine both!!<P>------------------<BR>   <IMG SRC="http://www.tgowens.com/MY_SIGNATURE.gif">               <BR><A HREF="http://www.tgowens.com/fiero" TARGET=_blank>www.tgowens.com/fiero</A>||||reg||1
+Z||000005||ChadMan||07-31-2000||11:06 AM||||Man, I wish there were a way to photograph Dale's car and have the "prismatique" effect show up.  Everybody that saw it during the few moments the sun was out just couldn't stop talking about how cool it was.<P>Congratulations, Dale!<p>[This message has been edited by ChadMan (edited 07-31-2000).]||||reg||1
+Z||000006||2M4 Dale||07-31-2000||02:33 PM||||O.K.Chadman ....heres the paint in living color compliments of Christine!!!! <IMG SRC="http://www.fiero.nl/uploads/Mvc-013s_1.jpg"> ||||reg||1
+Z||000007||2M4 Dale||07-31-2000||02:38 PM||||I can take pics as well clean cars Terry!!!<BR>(Christine) <IMG SRC="http://www.fiero.nl/uploads/Mvc-011s.jpg"> ||||reg||1
+Z||000008||Monkeyman||08-01-2000||01:59 AM||||Congratulations.||||reg||1

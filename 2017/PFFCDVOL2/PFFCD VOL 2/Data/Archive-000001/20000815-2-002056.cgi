@@ -1,0 +1,4 @@
+A||||2||87 Steve GT||Fuel Regulaor ||||1||
+Z||000000||87 Steve GT||01-19-2000||08:18 AM||||Hmmm...  I tried the search for this but, no result's...  <IMG SRC="http://www.fiero.nl/forum/frown.gif">  Where is the fuel regulator for the 2.8 v-6???  and Is it adjustable?? I know this has been asked before sorry... thank you all for your patient's... Steve||||reg||1
+Z||000001||BOILERMAKER||01-19-2000||09:48 AM||||The stock fuel pressure regulator for the V6 is located under the upper intake manifold and is not adjustable (as far as I know) without dissassembling the regulator itself (which means that the upper intake manifold must come off, unless you are VERY good with small places).||||reg||1
+Z||000002||87 Steve GT||01-19-2000||03:52 PM||||Thank You Boilermaker.... It was just something I was thinking about...  =)<BR>||||reg||1

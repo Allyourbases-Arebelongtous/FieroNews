@@ -1,0 +1,2 @@
+A||||0||Formula||Automatic to Manual conversion with a 3.4||||1||
+Z||000000||Formula||12-13-2001||03:00 PM||||how is there anything that would not be straight forward when putting a 4 speed muncie in a Formula with a 3.4?<P>Is the 4 speed muncie with 4.10s a good transmission or would there be a better choice?  I'm looking for flat out acceleration.<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/Untitled-1_copy.gif"> ||||reg||1

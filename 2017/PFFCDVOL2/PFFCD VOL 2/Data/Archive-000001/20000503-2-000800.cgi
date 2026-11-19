@@ -1,0 +1,4 @@
+A||||2||kensfiero||hyperutectic piston
+Z||000000||kensfiero||09-06-99||02:42 PM||||i see that the fiero store sales hyperutectic<br>pistons what are they and what advange are <br>they
+Z||000001||Eric||09-06-99||04:38 PM||||They are supposed to be stronger than the standard cast pistons.  I, however, don't really know.  I bought Federal Mogul hypereutectics from Summit because there wasn't a reasonable (price wise) forged piston available for my 3.1 rebuild.  If you have the 2.8 motor, you should expect to pay around $100 for the set.  I don't know about prices for the four cylinder.  If this is a high performace rebuild on the 2.8, you can get Federal Mogul/TRW forged pistons for around $280.
+Z||000002||Dale||09-06-99||08:48 PM||||Check out the thread on 8/27 called "3.1L V6 questions.  This should answer some of your questions. 

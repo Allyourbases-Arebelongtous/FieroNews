@@ -1,0 +1,4 @@
+A||||2||Loki||Anyone ever play Ultima Online||||1||
+Z||000000||Loki||12-21-2001||01:49 PM||||If so and would like to play agian but without paying, I play a reall cool player run shard. All you need is the UO cd and d/l the files form here. <A HREF="http://scottking.org/uo/" TARGET=_blank>http://scottking.org/uo/</A>  Its real fun....<P><P>------------------<BR>  <IMG SRC="http://www.fieroloki.com/lokisig1%20copy.jpg">   <BR>"All Fieros broke right now" :(||||reg||1
+Z||000001||GarethWright||12-22-2001||03:30 AM||||I play on Asgard at <A HREF="http://208.16.68.68" TARGET=_blank>http://208.16.68.68</A>   Also free, and Never crowded despite the 200 odd accounts  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000002||Mach10||12-22-2001||03:44 AM||||Too addictive  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||10

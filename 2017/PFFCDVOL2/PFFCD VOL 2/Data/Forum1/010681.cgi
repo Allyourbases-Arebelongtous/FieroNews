@@ -1,0 +1,2 @@
+A||||0||86seyellow||MinnGreen||||1||
+Z||000000||86seyellow||10-02-2001||01:25 PM||||Rob, <P>I know how good you are at changing colors. I am thining about going with a neon yellow and black trim, or a purple with  green trim.<BR>Could you maybe try these out before I really paint it. I want this car to stand way out in a crowd or far away. Thanks<P>------------------<BR>I can go as fast as I want unless I get caught<BR>   <IMG SRC="http://www.fiero.nl/uploads/fieropix1.JPG"> ||||reg||1

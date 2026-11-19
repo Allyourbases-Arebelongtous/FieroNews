@@ -1,0 +1,2 @@
+A||N||0||cid_colada||Won't start...||||9||
+Z||000000||cid_colada||10-24-2001||01:26 AM||||I have always had a problem starting(had to prime the TBI) but today I started it and the cocpit filled up with smoke(smelled like burning rubber). Now it will start, but won't run...<P>When the car filled with smoke the tach went nuts(bounced around between 6000 and past all the numbers)<P>I suspect that this would be the ECM how do I check...<BR> <BR>             Thanks ||||reg||9

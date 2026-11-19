@@ -1,0 +1,2 @@
+A||||0||mrfixit58||I Need a TPI 350 V-8 Technical Wizard||||4||
+Z||000000||mrfixit58||02-02-2001||12:43 PM||||I've posted a request for information in the Off Topic section on installing a 350 TPI into a 68 Camaro. I need some advise. If you think you can help, please post your responses in the O/T section of the Forum. <P>Thanks for the space,<BR>Roy  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||4

@@ -1,0 +1,3 @@
+A||||1||pontiacs4me||fuel filter question||||1||
+Z||000000||pontiacs4me||04-14-2001||03:41 AM||||I was wondering, can a clogged fuel filter effect gas mileage?  I dont see how it could, but someone told me once, that a plugged filter can cause mileage to drop off.  ???||||reg||1
+Z||000001||Fierowrecker||04-14-2001||10:30 PM||||You would think the engine would run lean, but the ecm tells it to run rich...<BR>Water can clog the filter, so add alcohol (99% isopropyl) to the fuel tank first, before replacing the filter...<BR>DO NOT use 70 % isopropyl, as the water in the alcohol will seperate out in the gas...<BR>crash...||||reg||1

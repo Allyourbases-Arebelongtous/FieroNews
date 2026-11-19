@@ -1,0 +1,4 @@
+A||||2||DavidHenshaw||Three gray GT spoked wheels||||1||
+Z||000000||DavidHenshaw||05-16-2001||09:17 PM||||I have three gray spoked GT wheels available. The fourth wheel has damage to one of the lug nut seating areas so I don't think anyone would want that one. The shiny ring part on the three good ones needs refinished but the spoked portion on each looks fine.<P>I have no idea what they are worth. If you're interested or can tell me what they usually sell for let me know.<P>Dave<P>86 GT||||reg||1
+Z||000001||cadaver||05-18-2001||10:16 PM||||I too have three of those. LOL maybe somebody will need six.||||reg||1
+Z||000002||Monkeyman||05-19-2001||10:19 PM||||I need 4, but I might be willing to take all 6 if the prices are right.  How about you two emailing me with some pics, prices, etc.<P>dandc1@hoosierlink.com<P>MM<p>[This message has been edited by Monkeyman (edited 05-19-2001).]||||reg||1

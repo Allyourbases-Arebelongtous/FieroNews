@@ -1,0 +1,3 @@
+A||||1||Richard Parnell||Clutch continued||||5||
+Z||000000||Richard Parnell||05-06-2000||08:41 PM||||Can air leak back into the clutch line around the threads of the bleeder valve?  I can't seem to get any pressure built up now that I've replaced the master and slave.  I see air bubbles coming out the bleeder when I pump the clutch but when I push down on the loosened bleeder the air stops coming out.||||reg||5
+Z||000001||Richard Parnell||05-06-2000||09:13 PM||||Also.  The slave cyl. I put in is thicker and shorter than the one I replaced.  The rod that is pushed out when the clutch is depressed is also much shorter that the (2") than the replacement rod.  I put the old longer one in with the new slave.  Should I have done that?||||reg||1

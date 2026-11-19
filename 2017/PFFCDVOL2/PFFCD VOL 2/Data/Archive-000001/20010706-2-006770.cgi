@@ -1,0 +1,4 @@
+A||N||2||winddancer||help please!!!!!!!!!!!||||4||
+Z||000000||winddancer||11-13-2000||06:24 PM||||i need some help if anyone knows anything that can help me with my prob. please go to tranny help thank you <BR>i like this car it is fun to drive and this is my frist major prob. with it i would like to get it fixed with the least amount of money i am tired of driving my wifes neon to big not enought power thanks for the help ||||reg||4
+Z||000001||StuGood||11-13-2000||06:32 PM||||Omigosh -!<BR>If I had known you were having to drive a Neon, I would have responded immediately  <IMG SRC="http://www.fiero.nl/forum/wink.gif"> !<P>(J/K, if there's a Neon fan out there).<P>Answered your original post.  Hope it helps.  Welcome to the Forum  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> ||||reg||12
+Z||000002||winddancer||11-13-2000||06:39 PM||||that was funny but ever since i got this car i cant drive any thing else you know what i mean ha haha||||reg||10

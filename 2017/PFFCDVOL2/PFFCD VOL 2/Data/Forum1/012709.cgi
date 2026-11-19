@@ -1,0 +1,4 @@
+A||||2||84fierotrevor||Well MY fiero is home ! and she barley made it !||||1||
+Z||000000||84fierotrevor||12-14-2001||08:36 PM||||I finaly got my fiero home !<BR>problem is she keep's staliing and the engine is runiing ruff.........<BR>she conqued out and she wouldn't start we opend the back and jiggled around a few wires and she started up again !<BR>anyone know what the problem might be ?<BR>also the tach keep's jumping up and down all the time.<BR>the mecanic said the tach was broken so I don't know.<BR>anyone got any idea's what it may be or how I could get it running better ?<BR>Ill post pic's tommorow.||||reg||1
+Z||000001||tgowens||12-14-2001||08:57 PM||||check the coil wire and make sure it is plugged into the distributor and the coil tightly.....||||reg||1
+Z||000002||Jefrysuko||12-14-2001||09:00 PM||||Get a new mechanic  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

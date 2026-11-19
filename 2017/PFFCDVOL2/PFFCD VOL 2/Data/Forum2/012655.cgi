@@ -1,0 +1,7 @@
+A||||5||8Ball||How much am I looking to spend?||||1||
+Z||000000||8Ball||08-09-2001||11:20 PM||||I am buying an 87 2m6 next week. I have to havbe the inner tie rod replaced. How much am I looking to spend to have a shop do this? Anyone Know?||||reg||1
+Z||000001||cadaver||08-09-2001||11:26 PM||||Why not do it yourself? I just did one on mine. They are no biggie||||reg||1
+Z||000002||8Ball||08-10-2001||08:04 AM||||I can work on the motor but something about messing with the front end kinda scares me.<BR>I am afraid I will either get my alignment all screwy or I will be driving along and poof my wheel will fall off  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||PBJ||08-10-2001||01:09 PM||||You will need a alignment toe set anyways and you will see once you get in there you cant really screw it up.  Just use thread lock on rack/gear end.  Labour would be around an hour plus toe set.||||reg||1
+Z||000004||8Ball||08-10-2001||11:16 PM||||Well I called Pep Boys and they said They will replace the inner tie rod and align it all for 150 plus tax  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>Looks like they got the job.<BR>The Pontiac dealship wanted 340 just for labor no alignment and not includeing the parts. WHAT A RIP!!!!!<P>Not that I would have taken it to the dealership anyway. I just wanted to see what the absolute most I could look to spend was.<P>Randy||||reg||1
+Z||000005||cadaver||08-11-2001||12:35 AM||||When I did mine it cost me like $30 for the part and I set the toe myself.||||reg||1

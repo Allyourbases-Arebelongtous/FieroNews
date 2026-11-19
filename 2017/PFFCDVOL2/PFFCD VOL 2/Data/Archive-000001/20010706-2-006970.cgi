@@ -1,0 +1,3 @@
+A||N||1||2xsess||Tranny question (non-Fiero)||||1||
+Z||000000||2xsess||11-25-2000||05:24 PM||||My 97 Pontiac Transport (3.4 auto)is acting strange. When backing up with light acceleration the tranny feels like it's skipping, I guess that's how to describe it. I just changed the tranny fluid and filter, the old stuff looked like it had been in the whole 70,000miles. I found one small metal fragment in the bottom of the pan. If it gets any worse I'll be taking it in and letting the warranty company take care of it. <P>TIA<P>Jeff||||reg||1
+Z||000001||terryk||11-25-2000||07:41 PM||||Look on the bottom pan. Is it a 4T60E?||||reg||1

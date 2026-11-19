@@ -1,0 +1,4 @@
+A||N||2||new fiero||Throttle Cable help||||1||
+Z||000000||new fiero||07-02-2001||08:59 PM||||I have moved my L4 engine from my wrecked 88 coupe to my recently aquired 86 coupe and got it up and running.  I am experiencing a problem with the throttle cable, it seems like there is too much play in it.  Any thoughts?||||reg||1
+Z||000001||Rodrv6||07-02-2001||09:27 PM||||Didn't the 88's use a different throttle body than the 86's?  If so, then you may have to use the cable out of the 88--they might be a little different.<P>------------------<BR>Rod Schneider, Woodstock, Ga.  84 SE, 330,000 miles and counting, 88 GT, not nearly as many miles :)||||reg||1
+Z||000002||new fiero||07-03-2001||01:41 AM||||Yes, I moved the cable over to the 86 and was having the problem.  Seems I fixed it tonight.  The 88 has 2 different locations to attach the cable from the pedal.  I moved it to the bottom location and it seems to be working fine...thanks||||reg||7

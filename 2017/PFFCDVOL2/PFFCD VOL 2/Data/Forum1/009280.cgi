@@ -1,0 +1,2 @@
+A||||0||skitime||Williamsburg Prep Pics||||1||
+Z||000000||skitime||08-06-2001||10:52 AM||||Hey just thought I share pics and break them into catagories. Prep,Cruise,Show,Banquet Please post your pics too. But I don't have any prep pics because I was too busy preping myself so I hope other could post pics.<P><P>------------------<BR><UL TYPE=SQUARE><BR><LI>Red 88 GT T-TOP<BR><LI>Red 86 GT<BR></UL> <IMG SRC="http://www.fiero.nl/uploads/signature-1.JPG"> ||||reg||1

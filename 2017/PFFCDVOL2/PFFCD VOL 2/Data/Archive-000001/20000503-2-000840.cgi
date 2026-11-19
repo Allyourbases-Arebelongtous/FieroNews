@@ -1,0 +1,3 @@
+A||||1||PaUL||Parts Brands||||1
+Z||000000||PaUL||09-13-1999||05:27 AM||||I need to change one of my rear hub/bearing assemblies. When I went to my favorite online parts site, they listed several brands with prices ranging from $120 for AC Delco and $70 for a never heard of brand. The ones that were priced in the middle were: BCA, Chicago Rawhide, and L&S. Anyone here have any experience with these brands? I want to spend the least amount possible for a good quality, long lasting part. ||||reg||1
+Z||000001||theogre||09-13-1999||12:03 PM||||Assuming these are new, not rebuilt ones, I think you will find they are all made by the same people.<P>I got mine awhile back at Advance Auto. Paid about 70$ each. They are actually heavier built than the originals.||||reg||1

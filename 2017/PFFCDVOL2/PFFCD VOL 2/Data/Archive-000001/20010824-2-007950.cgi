@@ -1,0 +1,5 @@
+A||||3||Smokin87||Oil gauge||||5||
+Z||000000||Smokin87||01-20-2001||09:11 PM||||my oil gauge works, but only when im applying constant pressure to the accelerator.  whenever i am not pushing the gas, it shoots up to 80, and even when it does work, it jumps around.||||reg||5
+Z||000001||2birds||01-20-2001||10:14 PM||||Common problem, the way I understand it.  Happened to me twice.  Replace your sending unit before it sticks and keeps the fuel pump running (will drain the battery quickly).  <BR>||||reg||1
+Z||000002||TheHans||01-20-2001||10:17 PM||||Why would that keep the pump going?<BR>Do Fiero's have that fuel pump shutoff if the oil pres flatlines?||||reg||5
+Z||000003||2birds||01-20-2001||11:22 PM||||Trace it out in the Haynes manual schematics.  It bypasses the fuel pump relay when there is adequate oil pressure (or the sending unit sticks).  The FP relay is powered by the ECM on startup for about two seconds to run the fuel pump long enough to build up enough pressure to start the engine before the oil pressure builds up.<BR>It's kind of a fail safe.  You lose oil pressure and the engine shuts down.||||reg||1

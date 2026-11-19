@@ -1,0 +1,3 @@
+A||||1||stingant||cool website||||1||
+Z||000000||stingant||11-28-2001||11:15 PM||||I found this web site and I think it is very interesting. If you have never been there then click here!! <A HREF="http://www.bgsoflex.com/auto.html" TARGET=_blank>http://www.bgsoflex.com/auto.html</A> ||||reg||1
+Z||000001||Smoooooth GT||11-29-2001||12:13 AM||||Welcome to the Forum... Alway's glad to see another new memeber!!! Enjoy it!! Steve<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/smooooothgtsig_9.gif">    <A HREF="http://www.fibersmith.com" TARGET=_blank>www.fibersmith.com</A>   Technical Support (903) 825-7744 (Steve)<BR>Shaved door handles, sidetrim, exhaust outlet's, etc.... smooooth!!!||||reg||1

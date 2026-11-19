@@ -1,0 +1,2 @@
+A||||0||rogergarrison||Road kill||||1||
+Z||000000||rogergarrison||10-11-2001||12:10 PM||||OK, I got smoked last nite. Should have known better. At a car show in Cosocton, Ohio. Ran into a guy with a brand new Z06. Tried it before, this one was same result. <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>         <IMG SRC="http://albums.photopoint.com/j/View?u=1234884&a=11878523&p=52990885"> ||||reg||1

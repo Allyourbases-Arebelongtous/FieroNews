@@ -1,0 +1,2 @@
+A||||0||88Style||speedo question||||1||
+Z||000000||88Style||10-07-2001||11:26 AM||||I am swapping in a FWD getrag but it is one with a HAL sensor in it. Can the speedo guts from a fiero getrag be swapped into it? I have both sitting on hand but before I break them open I want to know if it can be down. I've read Rodney Dickman's website and I will call him if need be but I thought this might be a good question for this board.<P>||||reg||1

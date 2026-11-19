@@ -1,0 +1,3 @@
+A||||1||billfredmike24||Fiero bra on e-bay||||10||
+Z||000000||billfredmike24||12-06-1999||07:12 PM||||Check out this bra <A HREF="http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=211417187" TARGET=_blank>http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=211417187</A> <BR>anyone have one of these, or know anything about'em, looks good, like to see it on a car.<BR>Anybody know what make it is, that says fiero  on it like this one.<p>[This message has been edited by billfredmike24 (edited 12-06-1999).]||||reg||10
+Z||000001||Monkeyman||12-06-1999||07:53 PM||||There is an old thread about bras.  Search for it.||||reg||1

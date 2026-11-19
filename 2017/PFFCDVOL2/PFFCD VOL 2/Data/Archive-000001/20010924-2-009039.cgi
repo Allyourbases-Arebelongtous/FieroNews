@@ -1,0 +1,6 @@
+A||||4||Richard Parnell||Speedo prob still||||5||
+Z||000000||Richard Parnell||03-19-2001||03:08 PM||||My speedo reads 35 mph all the time whether the motor is on or off, car is moving or stopped.  I've had the ssu out cleaned contacts, etc.  Still no workee.  Any suggestions.  Also checked fuses.  Any help would be appreciated.||||reg||5
+Z||000001||862M4inCA||03-19-2001||03:35 PM||||sounds like a dead speedo to me, unless you have a bad connection behind the dash.||||reg||1
+Z||000002||terryk||03-19-2001||07:27 PM||||Could be the VSS at the trans or C210 under the console by the ECM. Yellow and purple wires.||||reg||1
+Z||000003||Richard Parnell||03-19-2001||07:59 PM||||  You know, since we removed the ecm and used that area to mount the MSD ignition module, the wire to the speedo was probably cut or is not connected.  I'll open up that area and check.||||reg||3
+Z||000004||Taijiguy||03-20-2001||06:23 PM||||There's no power gettting to it. It's easy to check. Pull the bottom cover off the cluster. The connector for the speedo is right there on the bottom to the left. The Black/white wire is ground, and the yellow wire is positive. Pull the plug, turn the ignition on, and check for voltage at the yellow wire. Check the black/white wire for ground. One of those has a problem. BTW, the yellow get's its power from the radio circuit. ||||reg||1

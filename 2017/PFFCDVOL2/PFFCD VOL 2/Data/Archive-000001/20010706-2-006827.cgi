@@ -1,0 +1,3 @@
+A||||1||Vlad||Park/Neutral switch||||5||
+Z||000000||Vlad||11-17-2000||03:46 AM||||Hello<P>Do we know how to test Park/Neutral switch <BR>for proper operation?<P>85 GT Auto||||reg||5
+Z||000001||theogre||11-17-2000||09:17 AM||||it should only start in park or neutral. I don't think the V6 ECM will report that variable thru a scanner.<P>the only other way to test is to have the terminal and function maps for the switch. you'd move the switch to each position and test it with a meter.<P>If you have good reason to think it might be bad then it might be easier to just replace it. After all this time the original ones are probably showing a good amount of internal wear. high wear can cause intermitan problems that are often hard to test for.||||reg||1

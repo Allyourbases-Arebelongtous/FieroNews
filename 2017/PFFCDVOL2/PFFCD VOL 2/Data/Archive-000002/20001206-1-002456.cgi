@@ -1,0 +1,2 @@
+A||N||0||Rodney||Ferrari logo caps||||9||
+Z||000000||Rodney||06-07-2000||08:55 AM||||If you have a Ferrari kit or are looking to build a Ferrari kit in the near future you may want to buy a set or two of the Ferrai logo valve stem caps. The company that makes them has been told not to sell them anymore. There should be a fairly good stock at various Ferrari dealers for now. Soon these will be gone and you will not be able to get them anymore.||||reg||9

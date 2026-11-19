@@ -1,0 +1,9 @@
+A||||7||maryjane||Cliff-avators?||||1||
+Z||000000||maryjane||09-01-2001||06:24 PM||||I've noticed a few people use avators in their posts. How do you get the avator to show up in the area below you're username?<BR>Or would you rather us not use them?||||reg||1
+Z||000001||Cliff Pennock||09-01-2001||07:17 PM||||Hmmmm. I haven't seen anyone using avatars. Could you direct me to an example?||||reg||1
+Z||000002||maryjane||09-01-2001||07:36 PM||||evidently, I'm goin nuts. I would have sworn there were some last month, but did a search and can't find any. My apologies, I think I need a nap, a long one.||||reg||1
+Z||000003||Monkeyman||09-01-2001||10:07 PM||||What's an aviator?  Wait.  Isn't that someone who pilots an airplane?  Seriously.  What is it?||||reg||1
+Z||000004||maryjane||09-01-2001||10:40 PM|||| Avators are little graphics placed in the empty space below your username to the left of the post. Some forums use them. Sorta like a sig. A waste of resources when you think about it. I emailed a link so you can see an example.||||reg||1
+Z||000005||Monkeyman||09-02-2001||04:14 AM||||Thanx, maryjane.  Now I know what they are.  Disregard my return email to you.  I think they're kind of neat sometimes.  <P>------------------<BR>'Consciousness:  That annoying time between naps.'<P>MM||||reg||1
+Z||000006||Mach10||09-02-2001||01:54 PM||||Galen had one for a while, didn't he? I remember seeing those too...||||reg||5
+Z||000007||maryjane||09-02-2001||02:02 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by Mach10:<BR><B>Galen had one for a while, didn't he? I remember seeing those too...</B><HR></BLOCKQUOTE><P>I dunno, I would have sworn MontannaFiero had one but guess I'm seein things. <IMG SRC="http://www.fiero.nl/forum/smiley_dizzy.gif"> No big thing, we have plenty of toys and extras Cliff has graciously supplied.||||reg||1

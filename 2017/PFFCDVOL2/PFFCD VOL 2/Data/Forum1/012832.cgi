@@ -1,0 +1,3 @@
+A||||1||Shaun41178||Smooth Gt's old nitrous kit.  mine too||||1||
+Z||000000||Shaun41178||12-19-2001||11:04 PM||||Ok just trying to figure out if my old nitrous kit and smooth's old nitrous kit ever got installed.  I forget who bought it and all and have not seen an update on the install of this kit.  just wondering how it went or is going.<P>shaun<P>------------------<BR>SOLD 85 GT w/ nitrous.<BR>Looking for another.<BR>FOR SALE: Aluminum v6 block.<BR>Shaun41178@hotmail.com<BR>PORN FOREVER!||||reg||1
+Z||000001||fropuff||12-19-2001||11:29 PM||||I believe it was fastback87 that bought it.  I'm curious too; I plan on getting a kit sometime soon.||||reg||1

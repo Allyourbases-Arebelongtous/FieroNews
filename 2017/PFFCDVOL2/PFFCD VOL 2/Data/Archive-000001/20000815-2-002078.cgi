@@ -1,0 +1,4 @@
+A||N||2||David Johnson||? how to fix a small paint scratch||||1||
+Z||000000||David Johnson||01-21-2000||12:29 PM||||My 6 year old scratched his teachers 2 week old car.  Its a silver/ grey and barely noticable but it goes across the door onto a panel and the lowest estimate is 350$<BR>Anyone know Any "CHEAP" way to fix it  ?<BR>Thanks in advance<BR>David||||reg||1
+Z||000001||Cooter||01-21-2000||07:52 PM||||If the scratch won't buff out, then it got through the clear into the basecoat. When that happens, the panel will have to be recleared. $350 sounds cheaper than what I would charge for 2 reasons. <BR>#1 I am a teacher<BR>#2 I also paint cars||||reg||1
+Z||000002||Monkeyman||01-21-2000||08:22 PM||||#3--What about the donation to the Monkeyman Foundation for the Mentally Unstable (aka the Fiero Fund)??||||reg||1

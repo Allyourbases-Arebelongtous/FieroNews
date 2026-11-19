@@ -1,0 +1,7 @@
+A||||5||Phil||Refurbished Radios||||1||
+Z||000000||Phil||04-20-2001||07:29 PM||||Does anybody have a link to the place that sells refurbished car radios? - Tried the local junk yards, nobody has what I want.||||reg||1
+Z||000001||Monkeyman||04-20-2001||08:10 PM||||Try <A HREF="http://www.aatechnologies.com" TARGET=_blank>www.aatechnologies.com</A>  .  I'm pretty sure that's the one you're looking for.  If not, try <A HREF="http://www.newell.com" TARGET=_blank>www.newell.com</A>  .<P>MM||||reg||1
+Z||000002||tgowens||04-20-2001||08:20 PM||||Phil.......what are you looking for? I have some here at the shop - you can call, the toll free number is listed at the left on my profile info.......<P>Also, Bobby Newell (the link for newell.com) is not selling the Delco Radios anymore as he sold out that business.<P>Hope this helps.........<P>Terry||||reg||1
+Z||000003||Oreif||04-20-2001||09:25 PM||||Newell Electronics was sold to M&R electronics.<BR>They have a ton of Factory radios and adapters to fit newer radios into older cars.<BR> <A HREF="http://mnrelectronics.com/" TARGET=_blank>http://mnrelectronics.com/</A> <P><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/LOGO3.jpg"> ||||reg||1
+Z||000004||Monkeyman||04-22-2001||10:04 AM||||What's a "control head"?  Does it control radio, CD changer, & cassette deck?  Or is it just a radio?  Or none of the above?<P>MM||||reg||1
+Z||000005||bHooper||04-22-2001||10:33 AM||||Head Units, or Control heads are car stereo's that control CD Changers.  ||||reg||1

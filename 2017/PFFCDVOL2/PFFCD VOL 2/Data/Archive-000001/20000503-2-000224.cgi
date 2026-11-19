@@ -1,0 +1,4 @@
+A||||2||Hock||85 T-Top
+Z||000000||Hock||05-25-99||12:11 PM||||I have a 85 T-top.  I'm having trouble finding out information on it. This is what I already know: the conversion was done in January 1986 by Cars and Concepts (they did the 88 T-tops), it was first titled in February of 1986.  So this makes me think that it was optioned by the dealer that originaly sold it.  I believe all teh parts are interchageable with an 88, but I'm having trouble finding those parts too.  Anybody with any info or parts PLEASE let me know.
+Z||000001||Carrolles||05-25-99||02:43 PM||||Write to Ed Parks at the Fiero Factory at<p><br>fierofactory@juno.com<p>He can probably get you some answers.<p>Good luck,<br>Carroll
+Z||000002||mrfiero||06-05-99||11:18 PM||||What do you need to know?  I have owned 4 T-Top Fieros and may be able to help you out.

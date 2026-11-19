@@ -1,0 +1,3 @@
+A||||1||VISCERAL||NEW FORUM !!!
+Z||000000||VISCERAL||08-18-99||08:32 PM||||Found this one on the fiero digest.<br>It's for v8 fieros. It's pretty new.<br>Check it out, there is a guy getting a longitudinal kit with a caddy trans ready and he is gonna show how to do it yourself when he's done.<br>I also found a site that makes adapter plates, flywheels, brackets and motor/tranny mounts for a v8 swap. It's not a complete kit just the big parts. The little stuff one can figure out by combining v8 archie's kit and these big important parts to save some money  
+Z||000001||VISCERAL||08-18-99||08:55 PM||||oops, it's<p>http://www.egroups.com/group/v8fieros/

@@ -1,0 +1,5 @@
+A||||3||btoth||Interior Windsheild Pillar Fasteners||||5||
+Z||000000||btoth||10-04-2001||12:02 PM||||Is the Fiero Store the only place that sells them?  The guy at NAPA said he had "never seen a faster that looks like that"... of course, he didn't bother to look through the giant book of fasteners.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> If so, does someone have a part #?<P>Otherwise, has anyone purchased them from the Fiero Store?  $1.50 per clip seems kinda high-priced for a little piece of plastic.<P>And does anyone know off hand, how many clips it would take for both pillars?<P>Thanks in advance.||||reg||5
+Z||000001||Tigger||10-04-2001||12:09 PM||||4 clips - two per side||||reg||1
+Z||000002||Rodney||10-04-2001||01:24 PM||||I have aftermarket ones for $0.80 each. They have the GM ones that have the foam piece to prevent rattles. Not on my web page yet but a have enough in stock. Make you own foam and save some $$.||||reg||1
+Z||000003||Phil||10-04-2001||05:37 PM||||Dealer still has them too.||||reg||1

@@ -1,0 +1,9 @@
+A||||7||Wade87GT||Unknown error! when posting with PIP||||9||
+Z||000000||Wade87GT||04-07-2001||07:17 PM||||I need some help with this one. Using the PIP, whenever I try to upload a pic I receive this: Unknown error (12019). If I click the history button (in PIP) I get another error, then the program crashes. I've downloaded and installed it twice, which took forever since Sprint claims there are bad phone lines in my area (20K max). Any ideas, other than "Get Cable"!<P>Wade||||reg||9
+Z||000001||rogergarrison||04-07-2001||07:59 PM||||lisa or me have never been able to get PIP to work. We get the error too. Ive tried it over and over till my fingers were sore. she has AOL, I have Corecom and webtv.||||reg||1
+Z||000002||Cliff Pennock||04-07-2001||08:40 PM||||Error 12019 is a bug in Windows (what else is new?). Which version of IE (or AOL) ar you using?||||reg||1
+Z||000003||Wade87GT||04-07-2001||09:15 PM||||I'm using Netscape 4.7. I tried Ver 6.0 but didn't like it very much (reminded me too much of AOL) and I still have Windows 95 at here home.||||reg||1
+Z||000004||Cliff Pennock||04-07-2001||10:10 PM||||Yes, but what version of IE is installed on your computer (even though you're not using it)?||||reg||1
+Z||000005||rogergarrison||04-08-2001||12:36 AM||||my puter has windows 98, IE 5.0, I dont know what lisa has on her AOL. I know she has a Sony Vio, that all.||||reg||1
+Z||000006||Wade87GT||04-08-2001||10:26 AM||||I still have IE 4.4 and I have a partial installation of IE 5.0. I always lose my network connection during extended downloads.<P>Wade||||reg||1
+Z||000007||Wade87GT||04-09-2001||12:07 AM||||Well, I still can't get the PIP to work for me, so I threw together a web page; <A HREF="http://home.sprintmail.com/~wadeolsen/index.html" TARGET=_blank>http://home.sprintmail.com/~wadeolsen/index.html</A> <BR>Now everyone can see that I actually have a Fiero.<P>Wade||||reg||7

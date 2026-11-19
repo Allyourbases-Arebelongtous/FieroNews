@@ -1,0 +1,3 @@
+A||||1||mrgone||darn guages.    what will i find under the dash?||||1||
+Z||000000||mrgone||05-30-2001||08:15 PM||||those guages are bugging me now,<BR>my oil and water temp/pressure guages are going up and then falling beyond the limits<BR>so im told its a bad ground <P>so what should i look for when i take the dash cover off?<BR>ive never seen the inside of a dashboard before.<P>bats and springs arent going to fly out when i open it are they?||||reg||1
+Z||000001||PBJ||05-30-2001||09:48 PM||||You find alot of 7mm screws and 10 mm bolts and nuts and when your all done you'll probably have some extras screws left over.  Nothing scarry, but be carful the trim is dry and cracks easy.  You could splice into the existing ground and give it a new dedicated ground.||||reg||1

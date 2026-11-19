@@ -1,0 +1,3 @@
+A||N||1||Haze_Performance||Need Indy pics||||10||
+Z||000000||Haze_Performance||12-08-2000||02:56 AM||||Im adding a Indy page on my site... Im looking for any Indy Pics that are not on there now...<P>Please take a look <A HREF="http://www.geocities.com/ws6_fiero/indy.html" TARGET=_blank>http://www.geocities.com/ws6_fiero/indy.html</A> <P><BR>If you got a Indy pic post it..<BR> <BR>Thanks<BR>Carl<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/goodlogo1_1.gif">    <BR><B>"AHHHHH!!! All Fiero's don't start on fire you BONEHEAD!!"</B>||||reg||10
+Z||000001||Stoic||12-08-2000||04:32 AM||||Some nice pics, but sorry I don't have any that you don't already||||reg||1

@@ -1,0 +1,4 @@
+A||||2||William Federle||Dist O ring for '84 Fiero||||1||
+Z||000000||William Federle||02-05-2000||05:03 PM||||Does anyone know where you can get just the O ring for the distributer for a 1984 Fiero (4 cyl)? I checked Parts America and the guy said they only came with a new distributer. I could take my dist. out and measure it and then go try to find one but I'd like to find one first. Does anyone know the dimensions of a new one?||||reg||1
+Z||000001||Gokart||02-05-2000||06:56 PM||||Go to the dealer and get the exact one! That's what I just did for my 87GT and it was a buck. If its off in size just a little it could fall off. You don't want that!||||reg||4
+Z||000002||turbo86se||02-06-2000||11:11 AM||||I got mine from Advance Auto Parts for around a buck for my 86SE V6. Sure did stop that small oil leak!||||reg||1

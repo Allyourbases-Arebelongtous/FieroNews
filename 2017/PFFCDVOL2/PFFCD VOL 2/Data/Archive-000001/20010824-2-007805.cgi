@@ -1,0 +1,4 @@
+A||||2||Smokin87||Spark number on my 87 GT||||5||
+Z||000000||Smokin87||01-13-2001||12:01 PM||||I am trying to do my ignition timing, and i know that i have to take an average of no.1 and no.4, but i dont know which are which.  could someone please fill in the distributor puzzel.  this is a 87 GT, with a 2.8 litre engine.<P>Front of car<BR>       (?)<BR>    (?)   (?)<BR>    (?)   (?)<BR>       (?)<BR>Rear of car||||reg||5
+Z||000001||Indiana_resto_guy||01-13-2001||12:23 PM||||#1 is the one closest to the pully side of the engine at the rear of the car.<BR>#4 is the one in the center nearest the passenger compartment.<BR>Don't forget to ground terminals A & B at the ADAL connector inside the car. 10* BTDC avg.<p>[This message has been edited by Indiana_resto_guy (edited 01-13-2001).]||||reg||1
+Z||000002||Oreif||01-13-2001||12:40 PM||||Front<BR> /\<BR>6-4-2  Front of engine<BR>5-3-1<BR> \/<BR>Back||||reg||1

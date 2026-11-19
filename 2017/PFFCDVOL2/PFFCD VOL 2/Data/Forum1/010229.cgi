@@ -1,0 +1,2 @@
+A||||0||Kasdan||Paging Ronnie!||||1||
+Z||000000||Kasdan||09-12-2001||04:45 PM||||Ronnie, do you have any of those pictures from the Drive-In at the Varsity developed?  id really like to see them!<P>------------------<BR>Tyler Morgan<BR>1986 GT Fastback, <BR>  <IMG SRC="http://www.fiero.nl/uploads/FIERO2.JPG">       <BR>Holley Ram-Air, Power Steering, K&N Filtercharger, Bosch Wires, Bosch Platinum Plugs, Conrad Distribuiter Cap/Rotor, New GT Seats, New Headliner, New Carpet, Ocelet Exhaust, Red Underbody Light Kit (coming soon)<BR>Aim=FieroDriver1986||||reg||1

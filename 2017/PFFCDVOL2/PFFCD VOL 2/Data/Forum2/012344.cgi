@@ -1,0 +1,3 @@
+A||N||1||Mike Gonzalez||Stubborn headlights||||8||
+Z||000000||Mike Gonzalez||07-28-2001||09:02 AM||||I just put a new stereo in my '86 daily driver, and now the headlights are acting funny. They dont alwys close right away when you turn them off. But if they are staying up when I switch them off all I have to do is hit my Brights and they will go down. Any Ideas anybody??<P>------------------<BR>Mike<BR>'86 3800 supercharged<BR>'86 Fiero SE original<BR>'85 Fiero SE||||reg||8
+Z||000001||Indiana_resto_guy||07-28-2001||12:09 PM||||Tough to say without knowing how you wired your stereo. It seems fairly obvious that you did something wrong!||||reg||1

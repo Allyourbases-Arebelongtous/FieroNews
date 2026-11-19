@@ -1,0 +1,4 @@
+A||||2||saleenfiero||How would you start up a local fiero club?||||1||
+Z||000000||saleenfiero||05-21-2001||07:41 PM||||What is involved? How could you get the word out to the people?  I feel my town needs one! <P>------------------<BR>'86 SE - My car is actually a MacLaren F1 with a Fiero body kit; or not.||||reg||1
+Z||000001||kslish||05-21-2001||08:06 PM||||Start by asking around.  Also make up flyers (or business cards) that you can put on Fieros that you come across with your contact information on it (phone number, e-mail address, etc.) so you can be contacted by any owners interested in a club.  <P>Ken S.<BR>'87GT and '86SC<BR> <A HREF="http://www.westpennfiero.org" TARGET=_blank>www.westpennfiero.org</A> ||||reg||1
+Z||000002||tgowens||05-21-2001||09:48 PM||||saleenfiero, call me, toll free at 866-534-8486||||reg||1

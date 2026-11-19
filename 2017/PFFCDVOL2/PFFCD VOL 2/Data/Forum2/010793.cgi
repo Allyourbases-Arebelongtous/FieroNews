@@ -1,0 +1,5 @@
+A||||3||leetee@webaccess.net||Alternator Bracket for 86 v6||||1||
+Z||000000||leetee@webaccess.net||05-27-2001||11:57 PM||||I need to buy the Alternator Bracket for my 86 v6.  It is aluminum and someone tightened it too much and it cracked.  Anyone have one? ||||reg||1
+Z||000001||88CoupeV6||05-28-2001||10:28 AM||||Try calling Bob Parker at Kickhill Farm (860) 642-4362 <A HREF="http://WWW.KICKHILL.COM" TARGET=_blank>WWW.KICKHILL.COM</A> <P>------------------<BR>Josh <B>(known by TheFiero64 for first 1239 posts)</B><BR>     <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg">    <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||3
+Z||000002||Eric_PA||05-28-2001||10:31 AM||||Mine broke so I got it Tig welded a year ago and it still didn't crack. It cost me $5 from a welding shop. Maybe you could find someone local who could do that for you.<BR>Eric||||reg||1
+Z||000003||Fformula88||05-28-2001||11:01 AM||||You can still get new ones from the dealer.  I bought a new one last year when mine broke.  It wasn't very expensive, although I don't remember the exact price. ||||reg||1

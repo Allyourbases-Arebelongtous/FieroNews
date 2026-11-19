@@ -1,0 +1,3 @@
+A||||1||loafer87gt||Schools out for WINTER!||||1||
+Z||000000||loafer87gt||12-05-2001||12:48 PM||||Last day of class at university! You guys know what that means? ROAD TRIP! Don't know where were going, but me and my buddies just finished loading up the car and were headed somewhere south. I can't believe how fast the term went by, its crazy. ||||reg||1
+Z||000001||JSocha||12-05-2001||02:20 PM||||Rugby's South of the border!  <IMG SRC="http://www.fiero.nl/forum/wink.gif">  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> hehehe<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> ||||reg||1

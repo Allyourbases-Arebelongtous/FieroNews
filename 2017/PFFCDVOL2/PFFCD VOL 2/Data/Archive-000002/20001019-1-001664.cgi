@@ -1,0 +1,5 @@
+A||N||3||jhogans||Bonneville Dash in a Fiero!!!!!||||1||
+Z||000000||jhogans||03-27-2000||08:50 PM||||I was doing some random fiero surfing and came across this link at Gary Customs.  They are selling a Finale for $18000 with a 3800 supercharged engine.  The thing that caught my eye was that it had a Bonneville dash installed with a working Heads Up Display.  Has anybody else seen this dash conversion.<BR>From what I can see.  It looks awesome.||||reg||1
+Z||000001||jhogans||03-27-2000||08:52 PM||||I forgot the link.<BR> <A HREF="http://www.gscustom.com/kits.htm" TARGET=_blank>http://www.gscustom.com/kits.htm</A>  <A HREF="http://www.gscustom.com" TARGET=_blank>http://www.gscustom.com</A> ||||reg||1
+Z||000002||DaRkLoRD||03-28-2000||12:32 AM||||I've seen that page before.. that's one sweet car.<P>I like the idea of a HUD, but not the rest of the dash. I'd love to put a cavalier Z24 dash into a GT however...  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||Raydar||03-28-2000||12:07 PM||||I like it! I wonder how difficult it is to do.||||reg||14

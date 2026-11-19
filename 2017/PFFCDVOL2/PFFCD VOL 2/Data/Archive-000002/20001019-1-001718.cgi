@@ -1,0 +1,5 @@
+A||||3||Standard||Really good deal on Enkei's at tirerack.com||||1||
+Z||000000||Standard||04-03-2000||01:15 AM||||Enkei type 17, 17x7"  $85 each! <A HREF="http://www.tirerack.com/mycar/baseframeset.jsp?model=Fiero" TARGET=_blank>http://www.tirerack.com/mycar/baseframeset.jsp?model=Fiero</A> ||||reg||1
+Z||000001||lowCG||04-03-2000||10:37 PM||||That's the same wheel I got for my car,but in a 16X7.If they were 17X8,I'd get some for the rear,since they'd match,and are discontinued.<BR>They're alot like an OZ wheel,don't know which model though.||||reg||1
+Z||000002||Standard||04-03-2000||11:22 PM||||If I had the money I'd get them in a second!  I really like the style.||||reg||14
+Z||000003||GT Bastard||04-03-2000||11:56 PM||||I just traded my GT rims to another Fiero owner.  My GT rims were in pretty bad shape(scuff marks on all of them and some chips.)  The guy traded my a set of almost mint condition 5-spoke alloys.  They're 15 by 6's instead of 15 by 7's, but they look damn cool! I was thinking about keeping the GT rims for origionality, but they weren't in good enough shape.  ||||reg||1

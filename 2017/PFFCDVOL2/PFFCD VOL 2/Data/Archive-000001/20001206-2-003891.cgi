@@ -1,0 +1,3 @@
+A||||1||ounmongk||here's another pic for you all, you'll like this one. :) ||||1||
+Z||000000||ounmongk||05-23-2000||03:36 AM|||| <IMG SRC="http://www.fiero.nl/uploads/headinass2.jpg"> <P>Remind us of anyone? really, take a guess!   <IMG SRC="http://www.fiero.nl/forum/smile.gif"> take it easy, guys. has any of us gotten prosecuted yet? I mean, really. When EPA knocks on my door and arrests me, I'll shut up. but until then... enjoy the pics, folks. <p>[This message has been edited by ounmongk (edited 05-23-2000).]||||reg||1
+Z||000001||sloGT||05-23-2000||07:24 AM|||| <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

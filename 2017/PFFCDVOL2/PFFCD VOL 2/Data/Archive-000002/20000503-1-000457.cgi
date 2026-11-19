@@ -1,0 +1,4 @@
+A||||2||Gokart||Ultimate dog bone makes big difference!||||14
+Z||000000||Gokart||10-24-1999||07:24 AM||||I've seen alot of posts about what a difference the polyurethane ultimate dog bone makes. Put the one I got that came with the parts car I got last week today and she handles and runs much smoother. Highly recommend!!<p>[This message has been edited by Gokart (edited 10-24-1999).]||||reg||14
+Z||000001||sdm1964||10-26-1999||08:41 PM||||got any parts that you want to part with from that parts car? I know that was a play on words, hey got to have fun now and then. Looking for a console plate and leather boot for an automatic, also a wind deflector for a sun roof.||||reg||9
+Z||000002||DJRice||10-27-1999||08:53 AM||||go to "the mall" section and look at what Tom has to offer, I believe he has some wind deflectors for sale.  You may have to set the forum to display back 30-60 days to find his post.||||reg||1

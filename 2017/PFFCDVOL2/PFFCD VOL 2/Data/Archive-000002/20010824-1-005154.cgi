@@ -1,0 +1,4 @@
+A||N||2||count_iblis||pics of my friends 85GT||||1||
+Z||000000||count_iblis||01-09-2001||05:10 PM|||| <IMG SRC="http://www.fiero.nl/uploads/stewcar2.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/stewscar.jpg"> <P>He just bought it friday,  and this makes his third one.  <P><BR><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/count-sig.gif"> ||||reg||1
+Z||000001||Philphine||01-09-2001||07:22 PM||||was that on a lot down there? it looks like one that was in the paper a while back.||||reg||1
+Z||000002||count_iblis||01-09-2001||10:10 PM||||Good eye!  Yeah it was a repo and my friend lucked out and bought it for around 1000.00<P><BR>We really need to get together sometime and have a chat about our fieros over some coffee and dennys or something.<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/count-sig.gif"> ||||reg||1

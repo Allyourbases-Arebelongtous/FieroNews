@@ -1,0 +1,3 @@
+A||||1||baldlobo||attention: mach10 or any manitoban||||1||
+Z||000000||baldlobo||07-12-2001||04:21 PM||||just thought you people might want to join the Manitoba Pontiac Association. if so go to this site <A HREF="http://www.mpa.8m.net/index.htm" TARGET=_blank>http://www.mpa.8m.net/index.htm</A>  it has all the info you need.<P>And today's message is brought to you by a current member(I don't want to be the only one with a Fiero there), the letter bong, and the number 3. ||||reg||1
+Z||000001||Mach10||07-12-2001||05:26 PM||||Of COURSE the meetings have to be on the days that I always work  <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif"><BR>I'll be thinking seriously about it  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

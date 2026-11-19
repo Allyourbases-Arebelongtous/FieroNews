@@ -1,0 +1,13 @@
+A||||11||Zoom88||Ok lets see one of these on a Fiero ;)||||1||
+Z||000000||Zoom88||12-31-2001||11:49 AM|||| <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=599698520&r=0&t=0" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=599698520&r=0&t=0</A> <P>Hmmmmmmmmmmmmmmmmmmmmmmm.......||||reg||1
+Z||000001||Raydar||12-31-2001||12:06 PM||||I can see it now... <BR>The next new (not gonna say "ricer") fad will be Ram Air stickers. We'll start seeing Ram Air Civics and Ram Air PCs and freaking Ram Air lunchboxes.  <IMG SRC="http://www.fiero.nl/forum/smiley_watchout.gif"><P>------------------<BR>Raydar<BR><FONT SIZE="1"><BR>From the Department of Redundancy Department.</FONT>||||reg||1
+Z||000002||80's BOY||12-31-2001||12:19 PM||||wow, that Dodge Ram looks really Tejano to me. unfortunately, i've seen worse than that on Southbound Highway 59. uuuugh!!<p>[This message has been edited by 80's BOY (edited 12-31-2001).]||||reg||13
+Z||000003||Turbo88||12-31-2001||12:51 PM||||OMG, A WS6 INTEGRA!!!!!!!!!!!!!! I think the world is coming to an end!||||reg||1
+Z||000004||rogergarrison||12-31-2001||01:07 PM||||no thanks, and whats with the blue fender?||||reg||1
+Z||000005||avengador1||12-31-2001||02:44 PM||||I think it makes the car look grotesque, like having an extra big nose.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1
+Z||000006||84fierotrevor||12-31-2001||05:24 PM||||that's awsome !!<BR>i'm gonna buy that for my fiero.<BR>really what's wrong with it ?<BR>it looks cool.<BR>I think i'm going to be deemed the ricer of the forum.<BR>but that's ok||||reg||1
+Z||000007||Formula88||12-31-2001||05:42 PM||||Type WS-6<B><I><FONT COLOR="red">R</B></I></FONT><P> <IMG SRC="http://www.freakygamers.com/smilies/s2/cwm/3dlil/puke.gif"> ||||reg||1
+Z||000008||SKIDMARK||12-31-2001||06:32 PM||||I think from the front it's like looking up someone's nostrils.<BR>Maybe if you turn it around....||||reg||1
+Z||000009||FieroRacer||12-31-2001||11:28 PM||||I liked the non-2002 Firehawk scoops!!||||reg||1
+Z||000010||Blacktree||01-01-2002||04:24 AM||||That thing would be totally NON-functional on a Fiero... unless you find a way to fit it on the driver's side quarter panel.<P>So, uhh... when people are washing their cars and digging the bugs out of the scoops... are they picking their car's nose?  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR><A HREF="http://www.tweaktech.com" TARGET=_blank>Tweaktech</A>||||reg||1
+Z||000011||Indiana_resto_guy||01-01-2002||06:38 AM||||With all the trapped air in there it would rob 4 MPG off your fuel! = 40 miles or so less per tank full than your used too!||||reg||1

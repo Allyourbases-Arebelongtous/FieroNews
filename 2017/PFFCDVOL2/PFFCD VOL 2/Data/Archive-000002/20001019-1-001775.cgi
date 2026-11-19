@@ -1,0 +1,2 @@
+A||N||0||FieroSTETZ||Might be getting this GT!||||10||
+Z||000000||FieroSTETZ||04-10-2000||12:47 AM||||hey all! I just turned 18 as of march 17th, and want to build up my credit history, sooooooo, I am getting a car loan and getting this  black GT. (hope the pic sent right) well, i am gonna try to use my 86SE as a trade in, but i doubt ots worth that much maybe i can get a grand for it? anyways, the GT is black, with GREAT paint, groovy interior, and 40k miles on it. anyone have any opinions? any offers for the 86?||||reg||10

@@ -1,0 +1,4 @@
+A||||2||fldevel||What do i need to bolt a 2.8 v6  to a 4 cyl auto tranny ?||||1||
+Z||000000||fldevel||10-09-2000||12:23 PM||||im just doing a little swap and was wondaring if some of you have done this and what if any problems you had and some tips ||||reg||1
+Z||000001||StuGood||10-09-2000||01:02 PM||||Ummmm... you need bolts.  And a torque wrench.  To bolt a 2.8 V6 to an auto transaxle, that is  <IMG SRC="http://www.fiero.nl/forum/wink.gif">.<P>Oh, and to install it in the car and make it run right, I imagine you'll need mounts, the ECM to go with the V6, the proper MPFI fuel pump, and engine harness.  I've never done it, myself.  I apologize if you already knew this much.  ||||reg||1
+Z||000002||fldevel||10-09-2000||04:19 PM||||i know this much ..but ill take any help i can get .. probibly looks like a bigger project then it really is ..and post some pics also with tips if you have any ..<BR>Thanks forum members ||||reg||1

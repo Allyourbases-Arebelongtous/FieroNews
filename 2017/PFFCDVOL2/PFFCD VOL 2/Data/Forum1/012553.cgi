@@ -1,0 +1,3 @@
+A||||1||fldevel||smile :D||||1||
+Z||000000||fldevel||12-09-2001||01:56 PM||||ok .. ive seen soem cool lil smilie face emotes in the forum ... but i dunno how to do them .. ||||reg||1
+Z||000001||Mark Matthews||12-09-2001||03:42 PM||||When posting a messege, on the left you'll have a link that says:  Smilies Legend<P>Hit that and another window will open up and show you the smilie with what you need to type in to get it too work.  HTH<P>------------------<BR>Mark Matthews<BR>'57 Chevy BelAir<BR>'70 BMW 2002<BR>'87 GT Fastback T-top<BR>'96 4x4 Tahoe<BR>'74 Wife, not happy about cars!  ;)||||reg||1

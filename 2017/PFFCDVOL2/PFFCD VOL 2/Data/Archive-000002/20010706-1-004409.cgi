@@ -1,0 +1,3 @@
+A||||1||fldevel||anyone with a pic of the sprint headers installed ?||||1||
+Z||000000||fldevel||11-18-2000||02:59 PM||||just want to see what they look like to see how much room i have left over after installation . thanks for the space <BR>||||reg||1
+Z||000001||Oreif||11-18-2000||07:44 PM||||Here's the best pics I could find of my car.<BR>Hope it helps. Sorry about the size but I scanned them in at a high resolution so you can see the details.<P>   <IMG SRC="http://www.fiero.nl/uploads/engine1.jpg">  <P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/LOGO3.jpg">  <p>[This message has been edited by Oreif (edited 11-18-2000).]||||reg||1

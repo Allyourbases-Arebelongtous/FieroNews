@@ -1,0 +1,4 @@
+A||||2||AusFiero||Testing PIP...No need to look||||1||
+Z||000000||AusFiero||04-10-2001||05:40 AM|||| <IMG SRC="http://www.fiero.nl/uploads/pontiac_symbol.gif"> ||||reg||1
+Z||000001||Songman||04-10-2001||08:50 AM||||We always look... We're all afraid we might miss something!<P>There are two ways to make sure someone looks at something on this forum.<P>1) Say 'Don't look.'<P>2) Say you are a young helpless female! haha<P><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/songman_1.gif"> <BR><A HREF="http://members.home.com/tnfieros" TARGET=_blank>Tennessee Fiero Owners</A>||||reg||1
+Z||000002||TheFiero64||04-10-2001||04:42 PM||||Sorry, I needed to look. I can't help it.<P>------------------<BR>Josh<BR>  <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg"> <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||1

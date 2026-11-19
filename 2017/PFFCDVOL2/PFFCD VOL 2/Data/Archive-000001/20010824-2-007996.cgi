@@ -1,0 +1,4 @@
+A||N||2||fierojunky||4x4 fiero||||5||
+Z||000000||fierojunky||01-23-2001||08:48 AM||||Does anyone have or know of any articles on either professionally done or home-made 4x4 fieros?  It looks like theres a picture of one in the gallery.  I have an 87 SE and i want to pick up another fiero and convert it to a 4x4.  <BR>||||reg||5
+Z||000001||TheFiero64||01-23-2001||10:47 AM||||Bob Parker at Kick Hill Farm has this one <A HREF="http://www.kickhill.com" TARGET=_blank>www.kickhill.com</A> <P><BR> <IMG SRC="http://www.fiero.nl/uploads/Aug27^06.jpg"> <P>------------------<BR>Josh<BR>88 Coupe V6<BR> <IMG SRC="http://www.fiero.nl/uploads/TheFiero64_signature1.gif">   <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||1
+Z||000002||fierojunky||01-23-2001||12:03 PM||||thanks for the photo; hopefully i can get some info on what all needs done.  so far i think everyone has used blazar frames?||||reg||1

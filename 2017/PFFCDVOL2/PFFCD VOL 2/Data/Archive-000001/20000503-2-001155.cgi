@@ -1,0 +1,7 @@
+A||N||5||J.JONES||PREP AND PAINTING||||5
+Z||000000||J.JONES||10-19-1999||10:42 PM||||  I'VE ELIMINATED THE "CROWS-FEET" CRACKS AND HAVE WET SANDED WITH 320 GRIT. I'LL BE USING AN EPOXY SEALER PRIMER AND ACRYLIC ENAMEL WITH A CATALYST AND FLEX ADDITIVE FOR BUMPERS AND FACIA. IT'S BEEN A LONG TIME SINCE I'VE PAINTED ONE AND I'M A LITTLE NERVOUS. ANY LAST MINUTE WORDS OF WISDOM FROM YOU GUYS WITH EXPERIENCE WOULD BE APPRECIATED. THANKS.||||reg||5
+Z||000001||Linx||10-20-1999||12:12 AM||||Man- I wish I could offer some advice...but since you're up to doing it, will you repaint mine, too?   <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||lowCG||10-20-1999||12:44 AM||||Use Prep-Sol,or Acriliclean,or some other kind of wax/grease remover,filter the paint,and don't spray too soon after the tack coat.<BR>What color?||||reg||1
+Z||000003||J.JONES||10-20-1999||06:15 PM||||Thanks for the prep info. I'm going back with the original black.||||reg||1
+Z||000004||squid||10-20-1999||10:29 PM||||Dont wipe down exposed fibers with solvent (I.E. the hood). They will soak it up and after its painted and gets hot it will cause small bubbles everywhere. Use a tack rag instead.||||reg||1
+Z||000005||mutfish||10-21-1999||11:07 PM||||I'm in the process of repainting my '88 gt.just try to keep primer as thin as possible. As far as flex agent in the paint, as long as you don't strip existing paint,you can skip it.||||reg||1

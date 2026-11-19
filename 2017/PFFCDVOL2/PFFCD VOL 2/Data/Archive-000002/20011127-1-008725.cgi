@@ -1,0 +1,11 @@
+A||N||9||NOS3800||Maple Grove Show||||1||
+Z||000000||NOS3800||07-10-2001||07:34 PM||||Anyone here planning on attending the All Pontiac show and Drag Race at Maple Grove Raceway in PA on July 29th?  My brother and i are planning on attending but would like to see what kind of turn out to expect.  We are bringing my 3.8L Purple GT with NOS and hes bringin his 3.8L Supercharged Fiero.||||reg||1
+Z||000001||skitime||07-10-2001||07:40 PM||||If we are around we will be going.  Welcome to the forum.  I just put 2 and 2 together and just realized who you are. Dave here with the red t-top at Carlisle.  You got first and I lucked out with a third in the custom class.  You got a beautiful purple machine.   <P>------------------<BR><UL TYPE=SQUARE><BR><LI>Red 88 GT T-TOP<BR><LI>Red 86 GT<BR></UL><BR>       <IMG SRC="http://www.fiero.nl/uploads/pictures-1_5.jpg">  <p>[This message has been edited by skitime (edited 07-10-2001).]||||reg||1
+Z||000002||Fleabitdog||07-10-2001||10:49 PM||||I will be going and a friend is coming with his 86 GT. Know a few other people in the area I will ask to come. See you there  Dave||||reg||1
+Z||000003||FieroGT 914||07-11-2001||09:37 AM||||I should be there with my 86 GT too - hope there's a good turn out... I heard there is a "Fiero only" drag racing class for an extra 15 bucks or something in addition to the show fee. can anyone confirm that this is true???<BR>----------<BR>-Joe<P>------------------<BR>Joe<BR>-White 86 1/2 GT<BR>-Maroon 87 GT||||reg||1
+Z||000004||Fierochic88||07-11-2001||03:11 PM||||I'll be there with one of my cars...hopefully my 88 will be back on the road by then...<P>Jennifer<P>------------------<BR>IM Username:  FieroChic88<BR>Silver 1988 GT<BR>Silver 1986 2m4<BR>Cobalt Blue 85 GT<P>  <IMG SRC="http://www.webjolt.f2s.com/pictures/jenscar-sig1.jpg"> ||||reg||1
+Z||000005||Denny||07-12-2001||07:48 AM||||I be there.||||reg||6
+Z||000006||FieroGT 914||07-23-2001||12:00 PM||||**BuMp**||||reg||1
+Z||000007||grgoyl86||07-23-2001||12:14 PM||||I plan to be there to show and watch.<BR>||||reg||6
+Z||000008||kempo||07-23-2001||12:23 PM||||_kempo_ is going to try to attend too =)||||reg||1
+Z||000009||Haagster||07-23-2001||01:31 PM||||Planning, but wont know until Friday...  The story of my life...||||reg||6

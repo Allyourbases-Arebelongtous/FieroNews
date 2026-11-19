@@ -1,0 +1,3 @@
+A||||1||PeaceDawg||New shocks||||6||
+Z||000000||PeaceDawg||06-20-2001||11:10 PM||||Just had new shocks put on the front today. Monroe Sensatracks.  Supposed to be pretty good.  I had gas shocks on before. I have always found my car to be a bit of a rough ride.  Could always feel every little bump.<BR>Well I can still feel every little bump but it is not nearly as bad.  Is it just my car or is this common with Fieros?<P>------------------<BR>||||reg||6
+Z||000001||DecadenceR||06-20-2001||11:43 PM||||This is a common Fiero thing. It's made for sports use - firm ride and grip. <BR>most of the guys in here upgrade their shocks for a firmer ride. Like I purchased the KYB shocks.<BR>but whatever you like, go for it!!!||||reg||1

@@ -1,0 +1,2 @@
+A||||0||wkayl||Colorado snow on my Fiero||||9||
+Z||000000||wkayl||03-16-2000||11:43 AM||||I am in the process of doing some remodeling in my house.  My garage is being used as a woodworking shop.  The black 86GT is my son's car.  My red 86GT is behind it.<P>  <IMG SRC="http://www.fiero.nl/uploads/fierosnowone.jpg">  <P>ps: These pictures were taken this morning at about 7:00  It is now 9:45 and most of the snow has melted off both cars.<p>[This message has been edited by wkayl (edited 03-16-2000).]||||reg||9

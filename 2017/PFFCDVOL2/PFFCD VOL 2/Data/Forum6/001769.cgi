@@ -1,0 +1,2 @@
+A||||0||onfire||Free Parking||||6||
+Z||000000||onfire||04-03-2001||03:06 AM||||Its a little late for today's baseball game, but I work (swing shift)about 2-3 blocks from the stadium. Instead of paying $10-$20 for parking why not park where I work. Everyone else does.So if you want free parking for a Baseball game or any event for that matter, just post here or email me. And I will let you now exactly where I work.||||reg||6

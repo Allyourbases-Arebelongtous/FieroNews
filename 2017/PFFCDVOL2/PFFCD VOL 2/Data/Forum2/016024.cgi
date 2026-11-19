@@ -1,0 +1,5 @@
+A||||3||Linc1Tampa||4 cyl, will not run||||1||
+Z||000000||Linc1Tampa||12-03-2001||08:49 PM||||1987, 4 cyl, 5sp<BR>The car will start and then quickly dies.  The fuel injector seems to be shooting an extremely large amount of fuel and flooding the engine.  <BR>So far I have replaced the following<BR>- MAP sensor<BR>- IAT (air temp sensor)<BR>- Engine coolant temp sensor<BR>- O2 sensor<BR>- IAC <BR>- Throttle position sensor<BR>- Vacuum lines<BR>- Throttle body<BR>- Throttle body gasket and intake manifold gasket<BR>- Engine computer<BR>Anyone have any suggestions?   This has everyone I know and I stumped?   <BR>||||reg||1
+Z||000001||mech312||12-03-2001||11:57 PM||||check and see if ignition switch is correctly<BR>adjusted||||reg||1
+Z||000002||My7Fieros||12-04-2001||03:10 PM||||Timing<BR>Fuel pump<BR>Dist components (spark)||||reg||1
+Z||000003||DaveL||12-04-2001||03:33 PM||||What about the fuel pressure control? There is a rubber sort of valve in the 700 throttle body that you might want to replace.<P>------------------<BR>||||reg||1

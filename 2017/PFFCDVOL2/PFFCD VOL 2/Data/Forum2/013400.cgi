@@ -1,0 +1,4 @@
+A||||2||sloth85GT||Is this possible?||||5||
+Z||000000||sloth85GT||09-04-2001||02:42 AM||||Just curious, I was searching some old threads and came across <A HREF="http://www.fiero.nl/forum/Forum1/HTML/006394.html" TARGET=_blank>this one</A>. Tell me if this is possible and how much time it would take and what is involved. What I'm interested in is the smoothing of the door panels. Removing the trim. I think that looks amazing.<P>------------------<BR>  <IMG SRC="http://www.mts.net/~kuzma/fieronl.gif">  <BR>Dan<BR>1985 Silver GT<P>WITH THE NEW WHEELS!!!!! WOOHOO!!!!!!||||reg||5
+Z||000001||Pontiaddict||09-04-2001||02:52 AM||||Ask SmooothGT||||reg||1
+Z||000002||sloth85GT||09-04-2001||06:22 AM||||Okay, no more posts on this topic anymore, just look here  <A HREF="http://www.fiero.nl/forum/Forum2/HTML/013402.html" TARGET=_blank>http://www.fiero.nl/forum/Forum2/HTML/013402.html</A> ||||reg||1

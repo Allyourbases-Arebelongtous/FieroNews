@@ -1,0 +1,5 @@
+A||||3||Philphine||radio wiring||||1||
+Z||000000||Philphine||11-01-2001||02:58 PM||||at work with no manual. can some one tell me what the two wires are that are separate from the rest of the bundle on the stock radio? putting in a radio and can't remember if i need them. stock '86 radio/cassette. thanks.||||reg||1
+Z||000001||avengador1||11-01-2001||04:03 PM||||Might be for subwoofer, I believe all the cars came prewired this way since it was cheaper to make one wire harness assembly.<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1
+Z||000002||mbramble||11-01-2001||05:05 PM||||There is a 2 conductor connector (C208) with brown and orange wires.  Brown is to dim the stock radio backlighting.  Like the lights in the instrument panel.  The orange wire is hot at all times to maintain presets in the radio.||||reg||1
+Z||000003||Philphine||11-02-2001||01:55 AM||||thanks. scaled back from my original plan and got the lower priced gm size pioneer radio. did it on breaks and free time and in the dark. not sure if i gt the dimming right but everything else is good for now. thanks again.||||reg||1

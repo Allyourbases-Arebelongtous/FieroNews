@@ -1,0 +1,6 @@
+A||N||4||danny boy||Hey AUSFiero.....||||1||
+Z||000000||danny boy||09-19-2001||06:06 PM||||Hey, just wondering.....Since you guys get all of Japans finest toys down there, do you know if you can get Ralliart stuff (from Mitsubishi)? We don't get crap here and I'm looking for a few trinkets for my GTO project. (3000GT VR4/Stealth)<P> ||||reg||1
+Z||000001||AusFiero||09-20-2001||09:44 AM||||We sure can Danny. They just previewed the new model on TV on the weekend actually. Quite a kick arse machine. What are you after?<P>------------------<BR>    <IMG SRC="http://www.jadeweb.com.au/fiero/ausfiero1.gif">   <BR><A HREF="http://www.jadeweb.com.au/fiero" TARGET=_blank>My Fiero</A> | <A HREF="http://www.fieroshop.com.au" TARGET=_blank>Fiero Accessories</A>||202.139.20.3||reg||1
+Z||000002||danny boy||09-20-2001||09:59 PM||||Mainly a Blow Off Valve and some interior goodies. Shifter Knob, Floormats, ETC. Maybe some Drivetrain parts when I get to that point. We have the viscus(sp?) coupling differential in these cars and they are terrible.I have been told that Ralliart makes a replacement that is better quality.||||reg||1
+Z||000003||AusFiero||09-21-2001||09:10 AM||||I will try to find out if some sort of catalogue is available.||||reg||1
+Z||000004||danny boy||09-21-2001||06:37 PM||||Thanks, I'd appreciate it.||||reg||1

@@ -1,0 +1,4 @@
+A||||2||Cheever3000||Fiero Spotter's Guide||||2||
+Z||000000||Cheever3000||08-24-2001||01:46 AM||||This needs repeating, judging from some of the questions brought up recently by new members (no flame, just fact).<P>So I'm bringing it to the attention of anybody who didn't know about it.  If you have any interest in Fieros at all, you simply MUST get one of these.  Five dollars American includes shipping, best Ben Franklin you can spend. <A HREF="http://wtv-zone.com/fierodave/spottersguide.html" TARGET=_blank>http://wtv-zone.com/fierodave/spottersguide.html</A> <BR>||||reg||2
+Z||000001||RossT||08-24-2001||02:39 AM||||Best 5 buck you will ever spend on a fiero.<P>I cary mine in my pack that goes everywhere with me!!!<P>Cheeve, you up late again! working?||||reg||1
+Z||000002||Cheever3000||08-24-2001||04:11 AM||||Third shift guy took 3 nights vacation, and I'm the guy who gets to fill in for him.  Yay.  <IMG SRC="http://www.fiero.nl/forum/rolleyes.gif"><BR>||||reg||1

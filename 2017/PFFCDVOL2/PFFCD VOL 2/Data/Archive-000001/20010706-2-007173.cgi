@@ -1,0 +1,4 @@
+A||||2||JohnnyK||Wiring (chime) went nuts!!!!||||1||
+Z||000000||JohnnyK||12-05-2000||10:34 PM||||Ok, this happened all of a sudden. Driving along, and then all of a sudden, the chime dings when the lights are on, and doesn't respond to the e-brake. The dings kind of change when I hit bumps (dings speed up and stuff) so I assume to wires are rubbing or something, but where would I locate this? is there a big bunch behind the "convenience centre" or something? It's real anoying to have the chime controlled by the lights and not the e-brake (please, help me. Don't just say unplug the chime)..  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000001||theogre||12-05-2000||11:14 PM||||In my cave, read the chime article.||||reg||1
+Z||000002||JohnnyK||12-06-2000||12:22 PM||||FOund the problem. The chime box was hanging barely by it's contacts.||||reg||1

@@ -1,0 +1,6 @@
+A||||4||retrostudd||installing factory cruise on a fiero without it||||5||
+Z||000000||retrostudd||03-17-2001||11:27 PM||||any body know how to wire in the factory cruise off one fiero onto another, ie i need wiring schematics<P>PS i know its posted twice but the other was getting no responses, i thought the subject was too vague||||reg||5
+Z||000001||Indiana_resto_guy||03-17-2001||11:44 PM||||Get the tail light harness from the doner car, makes it easy.||||reg||1
+Z||000002||retrostudd||03-17-2001||11:51 PM||||i dont get it, waht do i need off o the tail light harness, i have all of the light fittings, from the doner but i dont know how to run the wiring, i have the proper control in the steering counsel but dont know how to wire it, anybody, please help||||reg||1
+Z||000003||Carrolles||03-18-2001||10:34 PM||||What model cars are you working with?<P>The early year cars had a separate cruise control module.  In the later year cars the cruise control is controled by the ecm.||||reg||1
+Z||000004||Standard||03-19-2001||12:21 AM||||From what I've heard, it's not worth doing.  Really hard to get everything running right.  You're much better off getting an aftermarket cruise control.  ||||reg||1

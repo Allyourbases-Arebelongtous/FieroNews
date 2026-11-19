@@ -1,0 +1,3 @@
+A||||1||WisconsinGT||Excessive fuel consumption
+Z||000000||WisconsinGT||07-19-99||11:15 PM||||<br>Hello,<p>Recently, I have noticed that my Fiero is<br>consuming lots of gas. Would anyone know what the problem my be? I went to the local Pontiac dealer. He fixed an o ring on one of my injectors. But, I still am still watching my fuel gauge go down faster then it should. Also, they found a vacuum leek where the crossover pipe meets the EGR. Would this cause bad gas mileage?<p>Thanks,<br>Brian
+Z||000001||theogre||07-20-99||07:42 PM||||sure would. any vac leak would. so could a worn out TPS, or injectors, or a number of things.<p>make sure there are no ECM codes set.... that will drink gass too.

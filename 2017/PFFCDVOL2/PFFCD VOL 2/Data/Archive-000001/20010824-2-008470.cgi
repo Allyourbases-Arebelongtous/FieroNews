@@ -1,0 +1,6 @@
+A||||4||FIEROGOD||Z24 digital dash||||1||
+Z||000000||FIEROGOD||02-15-2001||12:59 AM||||I have a gage pod out of a 87 Z24. A buddy wants to put it in his 84 poop. Anyone done this? ||||reg||1
+Z||000001||Oreif||02-15-2001||01:15 AM||||Email Paul Vargyas of NIFE club. He was looking at doing it and he even had a drawing of how to hook it up.<BR>paulv@xnet.com||||reg||1
+Z||000002||DaRkLoRD||02-15-2001||01:39 AM||||How much did the gauge pod cost, and does it work?<P>I love the looks of a digital dash.. my favorites are the Probe LX one, and the Lincoln Continental.. never seen a Cavalier one in person, but they look pretty good in pictures.<P>------------------<BR>  <A HREF="mailto:steve@fieroproject.com">steve@fieroproject.com</A>  <BR><A HREF="http://www.fieroproject.com" TARGET=_blank>http://www.fieroproject.com</A>||||reg||5
+Z||000003||terryk||02-15-2001||02:05 PM||||Make sure the one you get has the Remanufactured label on it. They had lots of problems with them and had to replace tons.||||reg||1
+Z||000004||rogergarrison||02-15-2001||02:09 PM||||they do look great.....but if one gauge on them go bad, you have to get whole panel rebuilt or buy a new one. Just had to do that on a Vette here. $1200...just something to think about.||||reg||1

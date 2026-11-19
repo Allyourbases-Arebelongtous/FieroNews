@@ -1,0 +1,8 @@
+A||||6||mrgone||sig test||||1||
+Z||000000||mrgone||07-04-2001||03:07 AM||||please work<P>------------------<BR><B>86 2m4 5speed turd 241,000kms</B><BR>    <IMG SRC="http://www.fiero.nl/uploads/signature_9.jpg"> ||||reg||1
+Z||000001||mrgone||07-04-2001||03:08 AM||||yeehaw<P>------------------<BR>     <IMG SRC="http://www.fiero.nl/uploads/signature_9.jpg">  <BR><B>86 2m4 5speed turd 241,000kms</B>||||reg||1
+Z||000002||Cheever2||07-04-2001||10:58 AM||||I don't do the link thing often enough to remember how, so testing...<BR><P>------------------<BR><I>Chuck Hodges</I><BR>[IMG]http://home.houston.rr.com/fieropartsrelay <B>Fiero Parts Relay</B> administrator||||reg||1
+Z||000003||Cheever2||07-04-2001||10:59 AM||||Darn.  Forgot a little something.<BR><P>------------------<BR><I>Chuck Hodges</I><BR>[IMG]http://home.houston.rr.com/fieropartsrelay <B>Fiero Parts Relay</B>[/img] administrator||||reg||1
+Z||000004||Cheever2||07-04-2001||11:04 AM||||think I got it now...<BR><P>------------------<BR><I>Chuck Hodges</I><BR><A HREF="http://home.houston.rr.com/fieropartsrelay" TARGET=_blank> Fiero Parts Relay</A> administrator||||reg||1
+Z||000005||Cheever2||07-04-2001||11:06 AM||||Now to clean it up a bit...<BR><P>------------------<BR>--<I>Chuck Hodges</I>--<BR><A HREF="http://home.houston.rr.com/fieropartsrelay" TARGET=_blank> Fiero Parts Relay</A> administrator<BR>------------------||||reg||1
+Z||000006||Cheever2||07-04-2001||11:08 AM||||Yuck that was too much.<BR>How's this?<BR><P>------------------<BR>- <I>Chuck Hodges</I> -<BR><A HREF="http://home.houston.rr.com/fieropartsrelay" TARGET=_blank> Fiero Parts Relay</A> administrator||||reg||1

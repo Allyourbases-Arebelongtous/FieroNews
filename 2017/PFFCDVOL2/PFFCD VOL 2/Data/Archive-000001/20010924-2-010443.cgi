@@ -1,0 +1,6 @@
+A||||4||Ed||Steering wheel replacement||||1||
+Z||000000||Ed||05-14-2001||11:30 PM||||I'm going to replace my GT wheel with another.  I've checked the archives, Ogre's cave, Fiero service websites, shop manual, etc. Instructions are scanty. <P>What tools do I need and how big a deal is it?  One archived comment was that it could be done in the parking lot of the parts house!  In a half hour!  Is that all there is to it?  ||||reg||1
+Z||000001||Seanh||05-15-2001||12:04 AM||||Its very easy, 1/2 hour seems kinda long. Anyway, all you will need is a ratchet set(not sure which sizes will be required), pliers, and a steering wheel puller. ||||reg||1
+Z||000002||PBJ||05-15-2001||12:09 AM||||instructions would be scanty. remove horn pad and unplug. remove lock ring. remove 13/16 nut and use a steering wheel puller to pull wheel of shaft.  simple ehh.||||reg||1
+Z||000003||sqoach||05-15-2001||12:36 AM||||Just pulled one off my 85 and put it on my 84. Total time about 15 minutes. Easy job.<P>------------------<BR>sqoach@yahoo.com<P>            <IMG SRC="http://www.fiero.nl/uploads/sqoach2.JPG">   <BR>84 SE (project car?)<BR>85 Coupe (parts car)<BR>86 SC (daily driver)||||reg||1
+Z||000004||Ed||05-15-2001||01:10 AM||||OK<P>Thanks all.||||reg||1

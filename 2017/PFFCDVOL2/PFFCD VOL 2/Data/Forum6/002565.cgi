@@ -1,0 +1,5 @@
+A||||3||saleenfiero||Does anyone remember what the orignal Pronto concept looked like?||||5||
+Z||000000||saleenfiero||07-05-2001||02:29 PM||||I am so sick of these Pt crusiers around here.  But I was thinking about how cool the original concept car was.  Not that stupid convertible thing, but the precursor to the PT.  Cool looking car.||||reg||5
+Z||000001||Pontiaddict||07-05-2001||10:35 PM||||I remember it, I didn't like it then either, but it looked better than the production one.<P>Before it came out, some car mag had some artist renderings of what they would do with a PT. One of them was a cool looking wood sided pickup version.||||reg||1
+Z||000002||saleenfiero||07-06-2001||02:37 PM||||Well the PT Crusher (Henessey's Viper engined powered PT) is awesome.  3.5 to 60.||||reg||1
+Z||000003||mrgone||07-06-2001||05:09 PM||||the crusher was rear wheel drive too, mind you<P>------------------<BR>      <IMG SRC="http://www.fiero.nl/uploads/signature_9.jpg">   <BR><B>86.5 2m4 5speed turd 241,000kms</B>||||reg||1

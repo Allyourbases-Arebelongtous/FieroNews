@@ -1,0 +1,6 @@
+A||||4||Bens88GT||Are there mudflaps for the Fiero?||||5||
+Z||000000||Bens88GT||05-07-2000||07:32 PM||||I'd like  to get a set for my 88GT. If there are some, where can I buy them? Thanks!<P>-Ben||||reg||5
+Z||000001||mrfiero||05-07-2000||08:24 PM||||Yes there are!  I believe the Fiero Store in Connecticut (www.fierostore.com) sells them.  They are original GM mudflaps which have long since been discontinued from GM.  I used to have a bunch of these, but I only have one new set left (and I'm keeping them!)<P>If the Fiero Store is out then I can get you a slightly used set.....still in good shape, just not "new".<BR> ||||reg||10
+Z||000002||Bens88GT||05-07-2000||09:13 PM||||OK, mrfiero, I'll see if I can find new ones, and if I can't, I'll drop you an email about those used ones. Thanks!||||reg||10
+Z||000003||fierosound||05-07-2000||09:38 PM||||YES...  mine came with the original FIERO mudflaps.  They were getting grungy looking, and I took them off, with the intentions of getting new ones.  I decided I liked the look better without them...  so I never did put new ones on!||||reg||10
+Z||000004||Dan86gt3.8||05-08-2000||10:44 AM||||I believe autozone and pep boys have some back off mud flaps with yosemite sam.||||reg||1

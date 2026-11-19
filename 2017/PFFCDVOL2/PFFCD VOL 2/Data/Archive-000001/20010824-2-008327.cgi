@@ -1,0 +1,3 @@
+A||N||1||aubicon||trunk seal Q's||||1||
+Z||000000||aubicon||02-06-2001||11:09 PM||||i have stripped my fiero to the frame and have plated the trunk. there is a type of sylicone or apoxy or something that they used around the base of the trunk and around the cab, it was applyed rite over the paint. now what i want to reseal around the new plate i cannot figure out what this stuff is if anyone has any idia af what this stuff is and where i can get it, the help would be greatly appriciated.||||reg||1
+Z||000001||Phil||02-07-2001||07:20 AM||||It's paintable seam sealer, check with your local automotive paint supplier- he will have both the brushable and gun types.||||reg||1

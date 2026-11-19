@@ -1,0 +1,5 @@
+A||||3||Mickey_Moose||EPROM Programming||||5||
+Z||000000||Mickey_Moose||11-16-2001||06:09 PM||||Is there any place on the web I can find info for programming the Fiero's EPROM? (ie: EPROM layout, software to use).<P>thanks<BR>Tim<BR>||||reg||5
+Z||000001||Mickey_Moose||11-17-2001||10:16 AM||||bump<BR>||||reg||1
+Z||000002||Mickey_Moose||11-18-2001||10:09 AM||||bump  <IMG SRC="http://www.fiero.nl/forum/smiley_dizzy.gif"><BR>||||reg||9
+Z||000003||DRH||11-18-2001||11:05 AM||||Here's a good link to start with. Follow the links from it to find more:<BR> <A HREF="http://www.diy-efi.org/gmecm/" TARGET=_blank>http://www.diy-efi.org/gmecm/</A> <P>Also do some searches on here on "ECM programming". Look in Tech and archives. <P>You'll need a couple of hundred worth of hardware. You will also need software unless you are a REAL bit head and can decode the info yourself. There are a lot of editors out there for other ECMs, but I believe the only one for the Fiero is by terryk on here. I can't find a link for it or even remember what it's called. You might want to email or PM him.<BR>||||reg||1

@@ -1,0 +1,3 @@
+A||||1||sloGT||Hey tgowens||||5||
+Z||000000||sloGT||08-13-2000||01:01 AM||||Just wondering if you ever recieved that light I sent,my e-mail is not working correctly(keep getting an error messg.).||||reg||5
+Z||000001||tgowens||08-13-2000||10:13 PM||||I just got it but haven't even had a chance to open the box yet to see what I can do with it -- i'll look into it the first of this week and see if it is fixable -- i'll be in touch either by email or here..........thanks!! the lens looks like good shape but i want to polish it out and see for sure - the laminate i might be able to fix.......||||reg||1

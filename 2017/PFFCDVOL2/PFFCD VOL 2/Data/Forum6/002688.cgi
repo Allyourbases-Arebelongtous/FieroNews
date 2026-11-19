@@ -1,0 +1,4 @@
+A||||2||Rodrv6||Just a PiP test||||1||
+Z||000000||Rodrv6||07-18-2001||03:55 PM|||| <IMG SRC="http://www.fiero.nl/uploads/sunroof1a_3.JPG"> (edited 07-18-2001).]<p>[This message has been edited by Rodrv6 (edited 07-18-2001).]||||reg||1
+Z||000001||Steve Normington||07-18-2001||04:48 PM||||Just my own test.<P> <IMG SRC="http://www.fiero.nl/forum/confused.gif"> :artist: :baby: :cry: :dead: :disgust: :dizzy: :evil: :kiss: :angered:  <IMG SRC="http://www.fiero.nl/forum/tongue.gif">irate: :happy: :whacko: :sick: :sleep: ||||reg||1
+Z||000002||Galen||07-19-2001||10:27 AM||||you're rate? hehe..<P>------------------<BR><FONT COLOR="purple">Ray</FONT> <FONT COLOR="gray">-</FONT> <FONT COLOR="purple">"It may be the opinion of the court, but its still wrong"</FONT><BR><A HREF="http://www.geocities.com/ray19nc/download.html" TARGET=_blank>Download FieroProject.com Chat Client v1.22 Today</A>||||reg||1

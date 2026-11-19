@@ -1,0 +1,3 @@
+A||||1||Chris Thomas||Knott's Berry Farm Kit Car Show||||5||
+Z||000000||Chris Thomas||04-06-2001||03:05 AM||||Does anyone know the exact dates and times of this years show?  Also is the show actually at Knott's Berry Farm facilities?  If someone has a link to this particular show, I would greatly appreciate it.<P>Thanks,<BR>Chris||||reg||5
+Z||000001||Cheever2||04-06-2001||09:24 AM||||This is the only thing I've found so far...<BR> <A HREF="http://www.kitcar.com/articles-kitcar/knotts00/kbf00-awards.html" TARGET=_blank>http://www.kitcar.com/articles-kitcar/knotts00/kbf00-awards.html</A> <BR>||||reg||6

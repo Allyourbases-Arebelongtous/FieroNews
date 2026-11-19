@@ -1,0 +1,6 @@
+A||||4||JamesWM83||Gator Eyes?||||1||
+Z||000000||JamesWM83||07-29-2001||02:15 AM||||I seen these on a fiero before. They go on the flip up lights... and they looks like Gator things... I don't know if anyone knows what I mean.. but they're neat lookin. I was wonderin where to get more info on them. thanks<P>------------------<BR>~JAmes||||reg||1
+Z||000001||gargoyle||07-29-2001||02:37 AM|||| <A HREF="http://www.cybercars.com/mnfr/fierohq/gator.html" TARGET=_blank>http://www.cybercars.com/mnfr/fierohq/gator.html</A> <P>Here is the site you want for your gator eyes.||||reg||6
+Z||000002||87FieroGTx||07-29-2001||02:44 AM|||| Sorry but they are the most ugly thing's I've ever seen!||||reg||1
+Z||000003||rogergarrison||07-29-2001||08:45 AM||||im with ya on that U G L Y||||reg||1
+Z||000004||fropuff||07-29-2001||01:29 PM|||| <A HREF="http://www.fiero.nl/forum/Archives/Archive-000002/HTML/20010418-1-003784-2.html" TARGET=_blank>http://www.fiero.nl/forum/Archives/Archive-000002/HTML/20010418-1-003784-2.html</A> <P>&gt;The part I hate the most is the headlight covers.  That purple one w/o them is nice looking!  I think.  Check for the post by Pontiaddict. <P>------------------<BR>Fiero:  If it ain't broke, it's on fire.  If it ain't on fire, it's broke.||||reg||1

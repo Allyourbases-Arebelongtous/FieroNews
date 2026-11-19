@@ -1,0 +1,8 @@
+A||||6||DecadenceR||89 Fiero for sale???||||1||
+Z||000000||DecadenceR||07-20-2001||03:19 PM||||Um, can you say print mistake? That, or someone doesn't know their car...<P> <IMG SRC="http://www.fiero.nl/uploads/Image1_5.jpg"> ||||reg||1
+Z||000001||72vinman||07-20-2001||03:55 PM||||Same thing in Toronto. Someone has listed a 1989 Fiero on <A HREF="http://WWW.autotrader.ca" TARGET=_blank>WWW.autotrader.ca</A>  only $1500<BR>Sounds like a deal for a car that does not exist, or maybe it does.||||reg||1
+Z||000002||Sootah||07-20-2001||04:04 PM||||Sure, 3 of them exist (I think). But I heard they got crushed for some reason.<p>[This message has been edited by Sootah (edited 07-20-2001).]||||reg||1
+Z||000003||tomanyfieros||07-20-2001||05:12 PM||||i have fought with car dealers, this guy told me he had a 1990 Fiero coupe, i laughed and said they only made them to 88, went and looked, 88 coupe..... i laughed again, and he said, no its an 1990, he looked at the title and told me to get out..... i was laughing the whole time i was walking out.... <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/dreamer.gif">    <BR><B>We all have dreams, but not everyone gets them...</B>||||reg||1
+Z||000004||My7Fieros||07-20-2001||05:28 PM||||typo||||reg||1
+Z||000005||DecadenceR||07-20-2001||10:20 PM||||I had a kid SWEAR to me he had a 90 fiero. he's like nah, it's a 90, it's got the pontiac that lights up and all...<BR>Some people just don't listen.||||reg||1
+Z||000006||Cheever2||07-20-2001||10:22 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by My7Fieros:<BR><B>typo</B><HR></BLOCKQUOTE>Yeah, it's probably a '90 with 89k <BR> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P><BR>||||reg||1

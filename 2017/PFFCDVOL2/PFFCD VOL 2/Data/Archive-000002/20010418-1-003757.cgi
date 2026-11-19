@@ -1,0 +1,6 @@
+A||||4||My7Fieros||Michael Douglas drives a Fiero||||14||
+Z||000000||My7Fieros||09-22-2000||08:00 PM||||Ok so I was watching E! the other day and they had some show on called "extravagaza" or something. Anyway they did this segment where one of the E! guys bought a "map to the stars" in Hollywood and went driving around to see if it was any good.<BR>Well he says "theres Michael Douglas's house"...there was one of those horseshoe shaped driveways in front of the house, and there was a Lotus (I believe) and a solid yellow 88 Fiero Gt! Just thought it was cool.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||14
+Z||000001||Archie||09-22-2000||08:42 PM||||Maybe that sweet young thing he married drives it.<P>Archie<p>[This message has been edited by Archie (edited 09-22-2000).]||||reg||1
+Z||000002||My7Fieros||09-23-2000||01:56 PM||||Hmmm, didnt think about that Archie, well that makes it even better!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||12
+Z||000003||Cheever2||09-23-2000||09:20 PM||||I WANT those seats!!!<BR>||||reg||6
+Z||000004||Patrick's Dad||09-23-2000||10:30 PM||||I'd like to be reincarnated as those seats....<P>If I believed in reincarnation....<P>------------------<BR>This should work until my site comes online....   <IMG SRC="http://homestead.deja.com/user.rshuman/files/Tmh.jpg"> ||||reg||12

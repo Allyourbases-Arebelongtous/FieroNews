@@ -1,0 +1,2 @@
+A||||0||Pike||New Tires, Yahooo!||||1||
+Z||000000||Pike||10-08-2001||10:11 PM||||Hi guys...bought a set of tires today for my 87 GT. Since I'm keeping the stock rims, I went with Yokahama P215/60R15s on the rear and the P205/60R15s on the front. These are the 425s series tire. A slightly harder compound than I would have prefered , but they have that nice rounded look to them where sidewall blends into tread.<BR>Pike||||reg||1

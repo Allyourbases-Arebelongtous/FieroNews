@@ -1,0 +1,3 @@
+A||||1||Scratchy||Fiero Spec.||||1
+Z||000000||Scratchy||11-22-1999||09:22 PM||||Hi,<P>I need to find the specification for the fiero, like length, height, wheelbase, width front and rear, track, etc.<P>Any clue where they are available?<P>Thanks||||reg||1
+Z||000001||fiero56||11-22-1999||09:49 PM||||Well,<BR>Wheelbase is: 93.4"<BR>Height is: 46.9"<BR>Width is: 68.9"<BR>Length depends on model,<BR>STDI(84-86) with black bumper pads is: 160.7"<BR>STDII('87) is: 162.7"<BR>STDII('88) is: 163.1"<BR>with aero nose is: 165.1"<BR><p>[This message has been edited by fiero56 (edited 11-22-1999).]||||reg||10

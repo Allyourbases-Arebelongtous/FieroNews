@@ -1,0 +1,5 @@
+A||||3||TONY_C||question for Hugh||||1||
+Z||000000||TONY_C||07-10-2001||03:11 PM||||Hugh,<BR>is that your car with the longitudinally mounted SBC?  If so i would love to ask a few questions as i am attempting a similiar swap. Please let me know. Thanks.||||reg||1
+Z||000001||hugh||07-10-2001||05:35 PM||||Yes it is,and I have been seriously thinking of selling it.I have a stock 88 with only 66,000 miles and I have been talking to Rockcrawl about putting in a 3800SC that I have.<P>------------------<BR>  <IMG SRC="http://www.fiero.nl/uploads/hugh_sig.gif"> ||||reg||1
+Z||000002||TONY_C||07-11-2001||07:50 AM||||Hugh,<BR>thanks for the reply. I was wondering how you overcame the problem of mating axles from the Fiero to the TH425 tranny. I have seen one design where the Fiero axles were welded to a steel plate which bolted to the tranny and i have been contemplating using some type of machined adapter instead. I would appreciates some input. Also, how much are you asking for the car and do you have some pics?  my email is tonyc_32@hotmail.com.<BR>Thanks again,<BR>Tony||||reg||1
+Z||000003||hugh||07-11-2001||09:20 PM||||Tony,you've got mail.||||reg||1

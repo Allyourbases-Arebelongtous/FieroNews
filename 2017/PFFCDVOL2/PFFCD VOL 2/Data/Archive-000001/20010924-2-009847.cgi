@@ -1,0 +1,8 @@
+A||N||6||anthony_86gt||rims???||||5||
+Z||000000||anthony_86gt||04-22-2001||04:22 PM||||I need info on the rims of this fiero.  How much??? Where do i get them??  ect... <P>[img]http://www.fieroproject.com/gallery/Fred01.jpg[img]||||reg||5
+Z||000001||FieroLisa||04-22-2001||04:50 PM|||| <IMG SRC="http://www.fieroproject.com/gallery/Fred01.jpg"> ||||reg||1
+Z||000002||Slammed Fiero||04-22-2001||05:00 PM||||There called TSW blades and are no longer manufactured...<P>I don't know exactly how old the design is , but the first set I saw was about 4 years ago on a friends miata.<P>sorry <P>JM||||reg||1
+Z||000003||FieroLisa||04-22-2001||08:32 PM||||I thought they were the TSWs... anthony, there are a lot of Fiero owners with them, maybe you'll get lucky and find someone selling them.||||reg||1
+Z||000004||Bluebottlejunky||04-22-2001||10:54 PM||||TSW makes the same rim in a way it looks very much like the blade goto <A HREF="http://www.tsw.com" TARGET=_blank>www.tsw.com</A>  and the rims is called avaus R (Sp)?  Like I said not the same but pretty close.<P>------------------<BR>Mike<BR>85'GT 4sp, <BR>AOL IM: Fierofanatic2001||||reg||1
+Z||000005||Slick781||04-22-2001||11:31 PM||||anybody knwo prices on these rims?  ||||reg||1
+Z||000006||qwikgta||04-23-2001||03:34 PM||||Tony...check ebay under wheels, I have seen some deals from rim wholesalers for under $500 for a set of 4.  Remember you want 5x100mm and offset around 38-41 or so.  I have seen 17x7 and some great deals.<P>Rob<P>------------------<BR>qwikgta@yahoo.com<BR>88 T-Top coupe<BR>http://robsfieroproject.homestead.com/index.html<BR>http://vafiero.com||||reg||1

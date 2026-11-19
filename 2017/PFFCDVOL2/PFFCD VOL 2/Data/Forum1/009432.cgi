@@ -1,0 +1,5 @@
+A||||3||Tabs||handling by lotus??||||1||
+Z||000000||Tabs||08-11-2001||03:02 PM||||I heard a rumor that the 1988 Fiero gt's had an option 4 lotus handling. Is the true or not cuz I've seen Fiero with the handling bby Lotus plates on their side fenders!<P>Tabs||||reg||1
+Z||000001||Mach10||08-11-2001||03:08 PM||||That is a not-truth. Lotus never touched the Fiero. The 88 suspension geometry was loosley based on a lotus car, yes, but Lotus never sold anything to GM for that project. If it says "Handling By Lotus" it's worth as much as a "Type R" sticker on a VW Rabbit.||||reg||7
+Z||000002||Oreif||08-11-2001||04:00 PM||||You will actually see old magazines that say the suspension was by Lotus because the first review by Car and Driver called it "Lotus-like handling" and the media forgot the "like". As Mach10 stated, The geometery is simular but that is as close as it gets.||||reg||1
+Z||000003||gtjeff||08-11-2001||04:31 PM||||GM actually owned Lotus in the 1980's only to sell them later. Read recently in Autoweek that Lotus may be up for sale. Would be a great brand for GM to reaquire.||||reg||1

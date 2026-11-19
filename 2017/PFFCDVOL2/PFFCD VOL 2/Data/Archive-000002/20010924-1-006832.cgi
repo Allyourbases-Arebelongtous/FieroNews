@@ -1,0 +1,3 @@
+A||||1||JAMIE||Thanks to mrfiero and Fiero Parts and Appraisals||||1||
+Z||000000||JAMIE||04-12-2001||10:06 PM||||Just a quick note to thank both Mike Valentine and Tim Perrigo for their help in supplying me with 4 pairs of new GM mudflaps for my Fiero collection. These are very difficult to find and I am greatful to both of you for your continuing help in supplying such hard-to-find items. <P>Jamie||||reg||1
+Z||000001||mrfiero||04-12-2001||10:58 PM||||No problem Jamie.....glad I could help.<P><BR>BTW......thanks for waiting so long on these.  I will be shipping them out in the morning, so you should see them sometime next week.<P>I'm still waiting on those other things, so bear with me.||||reg||10

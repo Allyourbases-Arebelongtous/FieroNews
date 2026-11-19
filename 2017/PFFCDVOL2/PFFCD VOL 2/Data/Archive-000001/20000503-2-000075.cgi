@@ -1,0 +1,3 @@
+A||||1||JBuck||Gauge Pod
+Z||000000||JBuck||04-17-99||05:15 AM||||Last weekend I put a gauge pod from a 86SE on<br>my 85GT. I disconnected the in dash oil gauge<br>now my turning signal lights and high beam<br>light are dimly lit when my parking lights<br>are on. It seems like a grounding problem.<br>Also when I turn on the turning signal the<br>voltage gauge pulses and the tack. I cann't<br>figure this out. Help Please
+Z||000001||theogre||04-17-99||03:21 PM||||As I recall...... the cars with aux guages also have a diferant dash unit. you don't just "add" the aux setup. you need the rest of the dash, and wiring harness for it.

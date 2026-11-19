@@ -1,0 +1,2 @@
+A||||0||Shinerdc||Attn: "Lethal"||||1||
+Z||000000||Shinerdc||12-19-2001||07:06 PM||||well you know i appreciate the beauty of your car....used it in my first web site....let me know if you mind.....can link the pic to your site if you want....comments on a beginning site appreciated....<BR>site is <A HREF="http://www.ShinersIcce.Homestead.com" TARGET=_blank>www.ShinersIcce.Homestead.com</A> <BR>thanks||||reg||1

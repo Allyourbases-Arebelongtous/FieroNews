@@ -1,0 +1,4 @@
+A||||2||DecadenceR||Sunroof Weatherstrip||||1||
+Z||000000||DecadenceR||07-02-2001||10:02 PM||||I have the sunroof weatherstrip coming any day now. I just wanted to know if there's anything special I have to do to install it. Does it just slide / snap / fasten into place? do I need to use silicone? Any tips or tricks? TIA<BR><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/SigPic.jpg"> <BR>AIM - DecadenceR||||reg||1
+Z||000001||84Bill||07-03-2001||07:46 AM||||It pretty much goes in the way the old one came out, but more or less the opposite  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P><BR>It will slip into the channel and is not that hard. you need to get a sealer to seal the corners of the gasket down.||||reg||6
+Z||000002||DecadenceR||07-03-2001||11:13 AM||||OK thanks Bill!||||reg||1

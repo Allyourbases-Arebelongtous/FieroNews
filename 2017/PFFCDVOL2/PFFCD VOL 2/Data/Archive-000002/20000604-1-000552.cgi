@@ -1,0 +1,14 @@
+A||||12||sdm1964||becoming a member||||10
+Z||000000||sdm1964||11-15-1999||09:46 PM||||How long do you have to be a junior member before you become a member?||||reg||10
+Z||000001||RZURCTN||11-15-1999||09:52 PM||||i think it's after 30 posts.  i've seen some with less though.  Cliff?  What is the correct answer?||||reg||1
+Z||000002||Cliff Pennock||11-16-1999||04:43 AM||||30 posts is correct.||||reg||7
+Z||000003||sdm1964||11-16-1999||11:03 PM||||Thanks, It might take me a while to ask or reply 30 times. But i will do my best.<P>ps. Cliff you are doing a great job, keep it up.||||reg||14
+Z||000004||RFMike||11-16-1999||11:14 PM||||You could start by telling us what you drive, or want to, or what you have done or intend to do with it, or why you like Fieros, or......||||reg||1
+Z||000005||sdm1964||11-17-1999||07:34 PM||||Ok mike i will,<BR>I have an 85 fiero GT. White, automatic, power locks, windows, mirrors, sunroof. New paint, interior, carpet, seat covers, looks and drives like new. I bought it 2 months ago for $1,600.00. I fell in love with these cars when i worked at a pontiac dealer. I had a nice Z28 camaro until 2 months ago when a high school kid pulled out if front of me. I will fix it back up. But i found this GT and just had to have it. One of the finest cars i have owned. Not real roomy for a guy 6"5' but not too bad. I really like this forum and have learned many things i did not know about this car.There aren't many of these cars in Georgia so i get stares everywhere i drive it. Isn't that why we all drive sports cars?   ||||reg||14
+Z||000006||sdm1964||11-17-1999||07:35 PM||||hey,<BR>I am a member!!!!!! cool.||||reg||1
+Z||000007||Patrick||11-17-1999||08:00 PM||||<BR>With only <B>12</B> posts ??!!!<P>Man, that Cliff is getting too soft... <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>Welcome to the forum, <B>sdm1964</B>.<BR>||||reg||4
+Z||000008||four50four||11-17-1999||08:04 PM||||maybe if your a junior member for a certain amount of time you are automatically promoted to a member. i seen profile with only 3 posts and he was a memeber||||reg||6
+Z||000009||Cliff Pennock||11-17-1999||08:14 PM||||Yeah, I can remember something like that when going through this software's docs... 30 posts or a certain amount of time - whichever comes first.||||reg||1
+Z||000010||Gokart||11-17-1999||09:58 PM||||Cliff, this forum is getting so big that you could make new requirements for going from jr.member to member like let's say: 1) Sending in a set of exhaust tips ripped off a Honda Prelude! 2) Take pictures of your burned arm from changing a hot O2 sensor! or 3) Find a living Pegasus! ||||reg||1
+Z||000011||Cliff Pennock||11-18-1999||04:23 AM|||| <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000012||DJRice||11-18-1999||08:22 AM||||How about pictures of busted knuckles after doing most any other work on the car????||||reg||1

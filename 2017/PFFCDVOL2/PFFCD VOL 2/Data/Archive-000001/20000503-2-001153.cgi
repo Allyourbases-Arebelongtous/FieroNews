@@ -1,0 +1,4 @@
+A||||2||Scott2M4||Painting a Fiero||||5
+Z||000000||Scott2M4||10-19-1999||06:49 PM||||Hey, folks.<P>I've heard that painting a plastic-bodied car (like a Fiero or Corvette) requires extra (and possibly more costly) steps.<P>Can anyone elaborate on this?  Have any of you had your Fiero repainted recently?  May I ask what it ran you - $$$-wise?<P>TIA||||reg||5
+Z||000001||Cooter||10-19-1999||08:19 PM||||People may tell you that the Fiero requires special prep. - like a flex agent in the paint etc.- but modern base coat clear coat paints will do well on the flexible panels. Now, if you hit something with the bumper, yes the paint will crack, but any paint would. There has been several threads on this subject, just set your forum to go back 100 days instead of two and find the topics.||||reg||13
+Z||000002||Patrick||10-20-1999||02:39 AM||||<BR>Or use the <B>Search</B> function and look up "<B>paint</B>".||||reg||4

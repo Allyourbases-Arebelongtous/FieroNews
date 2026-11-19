@@ -1,0 +1,3 @@
+A||||1||Pheagey||Lookin for a search engine||||1||
+Z||000000||Pheagey||11-09-2001||03:05 PM||||Im kinda strapped for tie and woundering if anmyone in here knows of a place that offers intersite search engine services (not general search engines liek hotbot's lil search feature. Something more proffesional).<BR>thanks.<P>------------------<BR>'88 coupe, 5 speed.<BR>"The car formerly know as Dj's Fiero."||||reg||1
+Z||000001||Butter||11-09-2001||04:17 PM||||Try This out and see if you can find what you want. <A HREF="http://www.startingpage.com/" TARGET=_blank>http://www.startingpage.com/</A> ||||reg||1

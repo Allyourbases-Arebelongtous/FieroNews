@@ -1,0 +1,11 @@
+A||||9||88formula||3.1 9:1 Compression Ratio ||||1||
+Z||000000||88formula||05-06-2000||10:48 PM||||What pistons can I get/use to get a 9:1 compression ratio for the 3.1 liter engine with the fiero heads?||||reg||1
+Z||000001||Eric||05-07-2000||12:55 AM||||We don't know yet.  Shaun said he was going to let his machinist figure out the CR on the Federal Mogul H562Ps.  Those are the pistons I have so I'm really interested in what #s he gets.  If they are too low, you may have to go with a custom made forged piston from JE or somebody, but be ready to fork over the $.||||reg||1
+Z||000002||terryk||05-07-2000||02:17 AM||||3.1L Iron head 8.8:1 PN 1486 $23.38<BR>     <BR>From Silvolite. Then mill the heads about .020" (have the lower plenum matched.)<P>||||reg||1
+Z||000003||88formula||05-07-2000||10:21 AM||||COOL!||||reg||1
+Z||000004||Eric||05-07-2000||07:10 PM||||Those pistons are dished just as much as the Fed. Moguls if I'm not mistaken.||||reg||1
+Z||000005||terryk||05-08-2000||02:01 AM||||I talked with them and they said they are 3.1L iron head (U-van) pistons. Yes, they are slightly dished. <P>The AL head pistons are a different number. The 1496 is the AL head piston.<BR> <A HREF="http://www.kb-silvolite.com/slvpg23.htm" TARGET=_blank>http://www.kb-silvolite.com/slvpg23.htm</A> ||||reg||1
+Z||000006||N_Man||05-08-2000||01:07 PM||||with a 9:1 CR on this engine what kind of fuel grade is required||||reg||1
+Z||000007||88formula||05-08-2000||04:47 PM||||Terryk, Would those pistons give you 8.8 to 1 compression with the aluminum heads (which have smaller combustion chambers than the iron heads) or with the iron heads (which have larger combustion chambers)?||||reg||1
+Z||000008||terryk||05-08-2000||07:17 PM||||The AL combustion chambers are far smaller. These pistons (1486) with AL heads would go way up. Seems to me it was 10+, but don't quote me. I'd have to run the numbers.<P>Even at 9:1, 87 would work unless the spark was cranked up. Stock is 8.9:1. 8.8, 9.1, pretty close for the most part.<P>If I have time here in the next few days I'll run the combinations. ||||reg||1
+Z||000009||88formula||05-08-2000||08:56 PM||||Yeah, if you could run those numbers that would be great.  <P>Thanks||||reg||1

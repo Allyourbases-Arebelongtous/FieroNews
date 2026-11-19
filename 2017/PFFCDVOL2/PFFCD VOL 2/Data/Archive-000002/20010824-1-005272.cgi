@@ -1,0 +1,4 @@
+A||||2||mrfixit58||Where's TOM ??||||5||
+Z||000000||mrfixit58||01-16-2001||07:41 AM||||Has anyone heard from TOM lately? Is he still in the Fiero business? IF so, does anyone have his E-mail address. I need to send him a note.<P>Thanks,<BR>Roy  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||5
+Z||000001||Haze_Performance||01-16-2001||07:45 AM||||I emailed him a few days ago.. I was looking for his Headlight kit. He told me he was working long hours + 6 days a week. I told him to get back to me when he had time.<P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/WS6Fiero.gif">    <BR><B>"AHHHHH!!!!!!!! All Fiero's don't start on fire you BONEHEAD!!!!"</B>||||reg||12
+Z||000002||mrfixit58||01-16-2001||01:07 PM||||Hase,<P>Can you forward to me his e-mail address?<P>Thanks,<BR>Roy  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||7

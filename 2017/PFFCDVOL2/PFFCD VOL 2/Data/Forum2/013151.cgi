@@ -1,0 +1,4 @@
+A||||2||Neal||exaust bolts||||1||
+Z||000000||Neal||08-26-2001||11:03 PM||||For my exaust manifold to cross over pipe bolts could i use a stainless 12.9 hardness 6mm allen key bolt?<P>will the heat and corossion hurt the bolts so badly the the 6mm head will not be sufficient to remove them?<BR>||||reg||1
+Z||000001||2birds||08-26-2001||11:29 PM||||I've had plain stainless capscrews on all of my exhaust pipe connections for years now (courtesy of Lowe's Home mprovement).  No problems with disassembly.  Had to use new stainless nuts on the manifold flanges, since the originals snapped free of their welds the first time I unbolted the crossover from them for a clutch job back in 95.<BR>Just recently replaced the manifold to head bolts with stainless, no problems.  Had them in the forward head for 4 months and they came out real easily (I use anti-sieze on everything, and flat/lockwashers, too).||||reg||1
+Z||000002||Neal||08-27-2001||05:35 PM||||bump||||reg||1

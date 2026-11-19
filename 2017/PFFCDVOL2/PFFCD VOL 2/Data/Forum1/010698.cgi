@@ -1,0 +1,2 @@
+A||||0||Cheever3000||Houston Bud Classic show pics (link to album)||||2||
+Z||000000||Cheever3000||10-03-2001||10:54 AM||||30 pics of recent carshow, all taken by my son who is 14 today.<BR> <A HREF="http://photomail.photoworks.com/sharing/album.asp?Key=1806700780430506" TARGET=_blank>http://photomail.photoworks.com/sharing/album.asp?Key=1806700780430506</A> <BR><p>[This message has been edited by Cheever3000 (edited 10-03-2001).]||||reg||2

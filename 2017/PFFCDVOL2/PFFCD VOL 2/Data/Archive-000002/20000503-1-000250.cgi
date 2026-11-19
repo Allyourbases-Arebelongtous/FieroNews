@@ -1,0 +1,5 @@
+A||||3||JimiZ||Do BigBlocks and Fieros mix???
+Z||000000||JimiZ||08-23-99||09:54 PM||||Just wondering if anybody knows of a person installing a Chevy Big Block in a Fiero?<br>Will it fit inside the engine compartment?<br>
+Z||000001||SCCA FIERO||08-23-99||11:17 PM||||They will fit, but since overheating and deadly handling plague them, not many around.
+Z||000002||batboy||08-24-99||06:44 AM||||Well, a couple people have stuffed big blocks into Fieros, but they don't exactly fit and they are a lot of weight. Even the small block Chevy is a little big and heavy for the Fiero. I doubt those Fiero transmissions can hold up long with all that big block torque.
+Z||000003||FieroGT||08-24-99||10:20 AM||||I've actually seen one. I had the pleasure of touring "Exotic Illusions" (a kitcar place) in Dickson City, PA. Essentially, it was a Fiero which was cut right behind the rear glass/firewall and had a Toronado front-end welded onto it, complete with suspension/brakes/tires and all. Interesting project, but I never did see it completed. Wonder what ever happened to it......

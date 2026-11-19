@@ -1,0 +1,3 @@
+A||N||1||Haze_Performance||Called "Fiero Conversions" Im not to happy ||||1||
+Z||000000||Haze_Performance||06-05-2000||08:04 PM||||I called them to find out more about there Euro-Hood. I was looking at the picture in the "Big Fiero Parts Book" (pg11) and its very bright. You cant really tell what it looks like. I asked them for a photo and they said that they dont have one, but they have two hoods in stock and they look good. Im NOT going to send them $290.00 for a hood that they wont even take a photo of and send me. Im familiar with the look of the hood but I would like to see a clear photo of it.  Not very helpful if you ask me.||||reg||1
+Z||000001||80's BOY||06-05-2000||11:39 PM||||boy THAT'S no lie!!!!! had a similar experience....same company...||||reg||1

@@ -1,0 +1,2 @@
+A||||0||ray b||ways to spark||||5||
+Z||000000||ray b||02-14-2001||10:08 PM||||distributors are gone from twincam<BR>GM motors, anyway to reuse it with chain<BR>drive? or drive off cam as is used on water<BR>pump in N* or other ideas.<BR>why do it ?? cheaper than eltroic FI contoler<BR>with spark and then can use older cheaper chevy v6 hacked unit or v8 LT1 on N* or carbs retro fitted motors.||||reg||5

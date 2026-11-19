@@ -1,0 +1,3 @@
+A||N||1||pollock||FWD 3.4 cam specs||||5||
+Z||000000||pollock||07-12-2000||10:22 AM||||I drove my sister's new 3.4 Grand Am last night.  Tached up like crazy.  I let the auto shift on its own, and it went all the way to 5500 every time in first gear.<P>Kinda fast, but not very torquey.<P>Does anybody know what the cam specs are for the FWD 3.4s?  How 'bout compression ratio?<P>The owner's manual claimed 170 hp.  No torque spec listed.||||reg||5
+Z||000001||batboy||07-12-2000||09:33 PM||||2000 Pontiac Grand Am GT Coupe<P>Base Engine Size: 3.4 liters<BR>Base Engine Type: V6<BR>Horsepower: 175 hp @ 5200 rpm <BR>Torque: 205 ft-lbs. @ 4000 rpm ||||reg||1

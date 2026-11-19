@@ -1,0 +1,3 @@
+A||||1||Homicidal||Hey DXR-DAD!||||10||
+Z||000000||Homicidal||12-23-2000||03:58 AM||||Just curious how you got your rims to shine so brightley!<P>If you had them done, how much does it run to get all 4 done?<P>||||reg||10
+Z||000001||DXR_DAD||12-23-2000||01:05 PM||||Thanks,  Take a look here: <A HREF="http://www.fiero.nl/forum/Forum1/HTML/004196.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/004196.html</A> <P>But it takes alot of cleaning & polishing <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>to keep them looking g@@d !<BR>There in on clear coat on them, just the shine<P>DXR_DAD <p>[This message has been edited by DXR_DAD (edited 12-23-2000).]||||reg||14

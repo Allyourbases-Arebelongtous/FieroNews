@@ -1,0 +1,7 @@
+A||||5||JohnF||Texas Get-together||||10||
+Z||000000||JohnF||09-06-2001||06:09 PM||||Firmed up the reservation today at Southlake, Tex. for previously announced Oct 13th, 2001 Fiero get-together!  Bring cameras and meet and greet others.<P>Looking for all for this informal no judging, no prizes, no FEE cruise-in.  Time reserved is 3 p.m. to 7 p.m.<P>For general directions, go West on Hwy 1709 (Southlake Blvd) of the North end of Dallas/Ft.Worth Airport.  ||||reg||10
+Z||000001||JSocha||09-06-2001||10:16 PM||||I'm going to be a few weeks early! hehehehe  <IMG SRC="http://www.fiero.nl/forum/tongue.gif"><P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> ||||reg||10
+Z||000002||Cheever3000||09-06-2001||10:20 PM||||I recently did a Members List search by location.  First using "texas" then with "tx", and I couldn't count how many there were!  Of course there's plenty of room in this state, which is why I don't see many Fieros around.  But they're out there.<P><BR>||||reg||1
+Z||000003||JohnF||09-07-2001||09:25 AM||||Yeah!  BIG state - little cars, hehehehe!||||reg||6
+Z||000004||JetroGT||09-21-2001||06:14 AM||||Hey John, are these directions correct? Mabie you can add to them. <BR> <IMG SRC="http://www.fiero.nl/uploads/Map.jpg"> ||||reg||1
+Z||000005||JohnF||09-21-2001||08:55 AM||||Good map.  Thanks.  Everyone needs to remember this is near D/FW airport - then with your map, they can't fail to get there.  Thanks again.||||reg||14

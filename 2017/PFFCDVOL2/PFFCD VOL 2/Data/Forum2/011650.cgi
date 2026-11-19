@@ -1,0 +1,7 @@
+A||||5||CJ||Fog Lamps||||1||
+Z||000000||CJ||06-28-2001||08:39 AM||||Haven't done much posting, just testing to see if I can post a photo...<P>Here's a photo of a fog lamp installation on our 88 GT.  I have no idea how big this photo will be in the post...just trying this...<P> <IMG SRC="http://www.geocities.com/cjanik1/fog_lamp.jpg"> ||||reg||1
+Z||000001||CJ||06-28-2001||08:42 AM||||Well, that didn't work...I tried adding the image as described in the FAQ...like this...<BR>[img]http...[/img]<P>what did i do wrong?<BR>||||reg||1
+Z||000002||stsmithgt||06-28-2001||10:34 AM||||Did you use the Pennock's Image Poster program posted at the bottom of the page prior to posting your picture?? <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000003||CJ||06-28-2001||07:20 PM||||Thanks for the tip about the PIP program....trying it here with one of my photos on the foglamp installation...<P> <IMG SRC="http://www.fiero.nl/uploads/Fog_Lamp_wires_underhood_to_exterior.jpg"> ||||reg||1
+Z||000004||stsmithgt||06-28-2001||07:41 PM||||Woah! <IMG SRC="http://www.fiero.nl/forum/eek.gif"> big picture.  At least you figured it out.  I didn't think it would take much instruction. <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||3
+Z||000005||pHoOl||06-29-2001||12:09 AM||||it doesn't have to, but we decided not to half ass it when we did it.<P>------------------<BR>Rice mobiles are like tampons... Every p@#%y has one.<P>AIM: phool88fiero<P>       <IMG SRC="http://www.gvsuphool.homestead.com/files/phoolsig1.jpg"> ||||reg||1

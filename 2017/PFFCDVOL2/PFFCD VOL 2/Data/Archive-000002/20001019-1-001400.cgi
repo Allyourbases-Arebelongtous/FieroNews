@@ -1,0 +1,2 @@
+A||||0||ChadMan||Quad Fourmula with GTFx bodywork - pix||||1||
+Z||000000||ChadMan||02-29-2000||03:24 PM||||I think this car belonged to Joe Wynman of NJ.  You either love or hate the GTFx bodywork...I love it.<BR> <IMG SRC="http://www.fiero.nl/uploads/quad4mula1.jpg"> <BR>No doubt what he's packing.  Love that blue.<BR> <IMG SRC="http://www.fiero.nl/uploads/quad4mula2.jpg"> <BR>This is the business end. <IMG SRC="http://www.fiero.nl/uploads/quad4mula3.jpg"> <BR>||||reg||1

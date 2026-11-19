@@ -1,0 +1,5 @@
+A||||3||Formula||Haze........||||1||
+Z||000000||Formula||03-26-2001||09:20 PM||||Thanks Again for the RAM AIR V6 Emblem, I can't wait to see how it looks on the car!!<P>I got it today and they didnt bend it or anything.<P>Thanks Again, if you ever need something small that I can do for ya just let me know<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/yellowtored3.jpg"> ||||reg||1
+Z||000001||Formula||03-27-2001||08:53 AM||||;||||reg||1
+Z||000002||Formula||03-29-2001||11:27 PM||||bump||||reg||1
+Z||000003||Haze_Performance||03-30-2001||12:10 AM||||No problem...I was happy to help ya.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>Thanx<BR>Carl<P>------------------<BR><A HREF="http://www.ws6fiero.com" TARGET=_blank><BR>     <IMG SRC="http://www.fiero.nl/uploads/ttttttt.gif">     </A>       <BR><A HREF="http://www.geocities.com/WS6_Fiero/photo.html" TARGET=_blank><BR>Pennock's Fiero Forum Members Photo Page</A><BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1431213" TARGET=_blank><BR>Photopoint Gallery</A>||||reg||12

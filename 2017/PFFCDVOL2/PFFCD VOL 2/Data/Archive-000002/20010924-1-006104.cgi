@@ -1,0 +1,6 @@
+A||||4||V8 Fiero Fan||Michigan Fiero Club||||1||
+Z||000000||V8 Fiero Fan||03-08-2001||11:32 AM||||I have lost my link to the Michigan Fiero Club....does anyone have the new link?||||reg||1
+Z||000001||Tigger||03-08-2001||11:52 AM||||<A HREF="http://www.michiganfieroclub.org/index.html" TARGET=_blank>Michigan Fiero Club</A><P>BTW are you a member too?<p>[This message has been edited by Tigger (edited 03-08-2001).]||||reg||1
+Z||000002||FieroJoe||03-08-2001||08:37 PM||||V8 Fiero Fan - Welcome to our Forum!<P>Is clinton township by any chance in clinton county?  I can't remember if so or not, and I can't find a map with townships on it.<P>What kind of Fiero do you have?<P>------------------<BR>AIM: Snowboarder0311<BR>87 Coupe 5sp. - big resto in progress<BR>  <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1
+Z||000003||pHoOl||03-08-2001||09:47 PM||||I'm a member, tigger<P>------------------<BR>Fuzz busters are for those who can't outrun the cops.<P>AIM: phool88fiero<P>    <IMG SRC="http://www.gvsuphool.homestead.com/files/pHoOl_sig.gif"> ||||reg||1
+Z||000004||V8 Fiero Fan||03-09-2001||08:11 AM||||Clinton Twp is near Mt. Clemens (Northeast of Detroit)<P>I don't have a Fiero yet, but I am looking.||||reg||1

@@ -1,0 +1,4 @@
+A||||2||BAM-BAM||Sail panels!!!!||||5||
+Z||000000||BAM-BAM||03-19-2000||09:52 PM||||  I remember a couple of weeks ago, someone had a post where they mentioned a site that they could get sail panels from. Does anyone remember the site or where I can get some GT panel for an 85GT? <P>  Thanx, BAM-BAM <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||5
+Z||000001||SCCA FIERO||03-19-2000||10:10 PM|||| <A HREF="http://www.angelfire.com/biz/fierosails/info.html" TARGET=_blank>http://www.angelfire.com/biz/fierosails/info.html</A> ||||reg||1
+Z||000002||1FST2M6||03-20-2000||01:01 PM||||Got my new sails form Paul.  He's a GREAT guy and works pretty quick too.. had them in 3 days. Went from stock nasty cracked SE to SWEET shiney and still stock looking NOS the only thing remotely obvious about the cars ability.. Thanks Paul!||||reg||1

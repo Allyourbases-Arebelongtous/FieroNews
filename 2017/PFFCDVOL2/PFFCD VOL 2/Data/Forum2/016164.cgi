@@ -1,0 +1,6 @@
+A||||4||bad911||WS washer dial-in?||||1||
+Z||000000||bad911||12-07-2001||11:46 PM||||Mine's great for hosing the sunroof and wasting 75% of the juice. Anyone re-engineered this bit of Pontiac marvel? <P>------------------<BR>87 2.8 AT SE<BR>85 4.9 project||||reg||1
+Z||000001||FieroJoe||12-08-2001||12:28 PM||||Thats how most of them are.  You can try to heat up the sprayers a little bit and bend them down some.  I've always wondered why they didn't come with the little balls you can move like all the other ones.||||reg||1
+Z||000002||LZeitgeist||12-08-2001||01:04 PM||||If you drive twice as fast, the increased wind pressure should blow the fluid where it belongs.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>Your washers aren't out of whack - you're just driving too slow!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000003||bad911||12-09-2001||10:27 AM||||"oh hello occifer, the spray won't reach the lower windshield until about 130 don't you see, and I..."<P>Kinda right there with "the dog ate my homework", eh?  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Thanks guys.<P> <P>||||reg||1
+Z||000004||T-top Fiero||12-09-2001||11:14 AM||||The factory service manual for my '84 says to just use a wedge shaped shim under the nozzle to adjust the spray pattern up or down.||||reg||1

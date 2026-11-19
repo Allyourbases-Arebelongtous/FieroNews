@@ -1,0 +1,5 @@
+A||N||3||87ECO5||"Official" Pontiac Decal Website||||1||
+Z||000000||87ECO5||08-21-2000||10:38 PM||||Sorry if this is a duplicate thread (I didn't search before posting - OK, you can stop slapping my hand now!    <IMG SRC="http://www.fiero.nl/forum/wink.gif">   ).<P>Found this hiding out on the web and thought some of you might find it interesting:<P> <A HREF="http://www.motorsportsdesigns.com/pontiacdecals.htm" TARGET=_blank>http://www.motorsportsdesigns.com/pontiacdecals.htm</A> ||||reg||1
+Z||000001||Oreif||08-22-2000||02:11 AM||||Interesting site! We should get everyone to Email them and maybe they can put out a set for the 84 Indy Fiero. At least they have different versions of the windsheild logos for the Fiero.||||reg||1
+Z||000002||87ECO5||08-22-2000||09:49 AM||||Try this:<P> <A HREF="http://www.phoenixgraphix.com/gm/1984if.htm" TARGET=_blank>http://www.phoenixgraphix.com/gm/1984if.htm</A> ||||reg||1
+Z||000003||286SE'S||08-22-2000||02:04 PM||||Then there is:<BR> <A HREF="http://STENCILSANDSTRIPES.COM/" TARGET=_blank>http://STENCILSANDSTRIPES.COM/</A> ||||reg||7

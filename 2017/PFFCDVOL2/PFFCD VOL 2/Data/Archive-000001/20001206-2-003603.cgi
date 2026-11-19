@@ -1,0 +1,3 @@
+A||||1||loafer87gt||Can't get car into gear||||1||
+Z||000000||loafer87gt||05-07-2000||12:42 PM||||Hi guys, I was going to drive my car down to the insurance adjusters after it was broken into, and I can't get the car into gear. If you shut the car off, you can put it in gear, but if it running it will not go into gear. The clutch pedal feels like it has no pressure when I press it down. I just replaced the clutch last fall, and did the shifter cables a month ago. Does anyone have any ideas?||||reg||1
+Z||000001||bHooper||05-07-2000||02:39 PM||||check the master cylinder and the lines to the slave cylinder.<P>what is the pedal feel like?<P>kinda sounds like there is no hydraulic action.<P>hoop||||reg||1

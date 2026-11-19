@@ -1,0 +1,3 @@
+A||||1||wilburt||Need help with loose wire||||5||
+Z||000000||wilburt||04-13-2000||05:59 PM||||'87 GT, automatic, A\C.<P>Coming out of the main wireing harness (against the firewall), same place where the O2 sensor wire comes out, is a large black wire. It easily reaches the starter, but nothing else.  <P>Since it is black, I'm thinking it's a ground? The end connector looks like it should be on the starter.<P>Please help before I send 12 volts to my ECM!!     Thank-you..  wilburt<BR>||||reg||5
+Z||000001||theogre||04-13-2000||06:09 PM||||If you mean the wire I think you do it should go to stud head on a bellhousing bolt. Hard to say for sure without seeing it.||||reg||1

@@ -1,0 +1,7 @@
+A||||5||danny boy||aluminum heads||||5||
+Z||000000||danny boy||02-21-2001||11:32 PM|||| What are the benifits of running aluminum heads? I have heard chambers are smaller and they are definately lighter, do they flow better? What about valve size? there are some that'll work for us isn't there?||||reg||5
+Z||000001||Pontiaddict||02-21-2001||11:51 PM||||Aluminum heads conduct heat better so you can run a higher compression ratio without detonation.||||reg||1
+Z||000002||Cooter||02-22-2001||12:43 AM||||The latest generation aluminum heads flow better than the earlier Al. heads and much better than the iron heads. Remember- the pistons must match the heads.||||reg||1
+Z||000003||ray b||02-22-2001||02:14 AM||||whole lot more than pistons must match<BR>the al. heads on v6 .like all of intake and ext. cams and valve train and opps where does<BR>that dist. go in now with no hole[intake in way]so you need new CPU and wired in, just as hard to do as dohc swap||||reg||1
+Z||000004||danny boy||02-22-2001||03:00 PM|||| ok, what I,m really asking is if I can get a set of heads that are a bolt on exact replacement in aluminum, and do they flow better. ||||reg||1
+Z||000005||Will||02-22-2001||03:22 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by danny boy:<BR><B> ok, what I,m really asking is if I can get a set of heads that are a bolt on exact replacement in aluminum, and do they flow better. </B><HR></BLOCKQUOTE><P>1) No.<P>2) Yes.||||reg||1

@@ -1,0 +1,2 @@
+A||N||0||fierodave||need a Getrag trani||||6||
+Z||000000||fierodave||03-17-2000||09:01 PM||||<BR>Happy friday to you all!  I have a customer that needs a very low mile 5-speed Getrag Trani,  I expect to pay  for what it is worth  the lower the miles the better, I need a warranty that it is in tip top condition!  no rebuilders please!  thanks to all who care   lol  email me directly Please.  Hey DJ  your wing is on it's way!  lol<BR>Thanks for the space<BR>FD  ||||reg||6

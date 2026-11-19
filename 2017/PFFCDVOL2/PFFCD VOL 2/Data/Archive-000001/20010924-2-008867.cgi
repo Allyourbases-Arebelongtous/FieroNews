@@ -1,0 +1,2 @@
+A||N||0||3fifty||Timing 2.8||||8||
+Z||000000||3fifty||03-11-2001||10:34 AM||||My 2.8 has been running fine. This am when I<BR>turned the key I knew something was wrong as<BR>soon as I heard the engine. It felt like it jumped time. It started to crank and then that little slip "you know". The motor is not locked, it just won't fire. Can this be<BR>fixed without going into the motor? Please help. Is it really time for the 350 now!!!!!!!! ||||reg||8

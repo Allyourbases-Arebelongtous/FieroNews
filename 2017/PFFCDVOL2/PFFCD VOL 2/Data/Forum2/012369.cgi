@@ -1,0 +1,7 @@
+A||||5||gtsonly||Brain Box Question. Anyone?||||5||
+Z||000000||gtsonly||07-29-2001||07:24 AM||||I have aquired another Brain Box or ECM and I am wondering, how do you tell what kind of engine the box is for, I.E.   V6 with a 4 speed or V6 with a 5 speed or was there even a difference? Are there SN# on the box to tell?<P>------------------<BR>Chris Hatch <BR>1986 GT w/T-TOPs||||reg||5
+Z||000001||DecadenceR||07-29-2001||12:20 PM||||There should be a stickerm or more like a piece of paper stuck to the box, that has a serial number and a model number. I'm not sure how to tell what it goes to from the numbers tho.||||reg||1
+Z||000002||Indiana_resto_guy||07-29-2001||01:56 PM||||The boxes for 84-86 4 bangers are the same, boxes for 87 & 88 4 bangers are the same. The proms are different for automatics vrs. manual transmissions.<BR>The brain boxes are the same for the V-6 cars with the same case of the proms will vary with trans. type and can vary per year as well.<BR>Hope this does you good.||||reg||1
+Z||000003||maryjane||07-29-2001||02:44 PM||||I'm pretty sure the #'s are in Ogre's Cave||||reg||1
+Z||000004||theogre||07-29-2001||02:51 PM||||Go to <A HREF="http://www.cruzers.com/~ludis/" TARGET=_blank>http://www.cruzers.com/~ludis/</A>  V6 data is there. I only list some 4 cyl data. Ludis lists many of the chip ID codes.||||reg||1
+Z||000005||terryk||07-29-2001||09:05 PM||||The V6's are 1226869 for 85 and 1227170 for 86-88.||||reg||1

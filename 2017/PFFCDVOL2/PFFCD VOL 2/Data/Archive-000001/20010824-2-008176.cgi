@@ -1,0 +1,2 @@
+A||||0||Jhonny||AC compressor hp need ?||||1||
+Z||000000||Jhonny||01-31-2001||02:50 AM||||Hi,<P>How much hp does the AC compressor "steal" when in use ? <BR>My AC doesn't work so I will remove the AC belt to be sure it's not disturbing the engine in any way.<P>/// Jhonny<P>------------------<BR>Jhonny Sokura<BR>Vadstena, Östergötland Sweden<BR><A HREF="http://www.vadstena.se/turism/engelsk/index.html" TARGET=_blank> Welcome to Vadstena</A><P>Pontiac Fiero GT -87 , V6 5spd||||reg||1

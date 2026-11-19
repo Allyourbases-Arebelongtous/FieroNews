@@ -1,0 +1,2 @@
+A||||0||jbowles||moisture in valve cover
+Z||000000||jbowles||08-08-99||10:13 PM||||My 85 4 cylinder has what I consider to be a <br>significant quantity of moisture in the valve cover where the air cleaner fits over a vent valve. Engine runs good, I just noticed it <br>replacing a valve cover gasket. This is a 1 owner summer car not abused, engine internals very clean, moisture only in that area and not on the top surface of the head. Any ideas<br>would be appreciated.<br>Thanks<br>John

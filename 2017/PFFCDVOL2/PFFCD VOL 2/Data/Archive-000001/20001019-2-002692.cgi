@@ -1,0 +1,4 @@
+A||||2||sinoloa||disclaimer...||||4||
+Z||000000||sinoloa||03-13-2000||05:38 PM||||I just re-read my post below, under the heading 'for sale' and it gives the impression that I'm trying to sell it on-line.  That would probably scare most people away who might could help me otherwise.  I'm just looking for a price quote.  ||||reg||4
+Z||000001||Motorhead||03-13-2000||06:51 PM||||Nothing wrong with selling the car online.  But give us some more details, check blue book, and set a price.  What's the mileage?  How long have you owned it?  Any options?  What's the condition of the interior and paint?  Does everything work?  Any body damage?  <P>Be 'pacific!  Lot's of cars sell here.  So tell everybody about your "Baby" at the mall.  ||||reg||1
+Z||000002||Motorhead||03-13-2000||06:58 PM||||Sure you want to sell though?  The words BABY and SELL don't seem to go together!||||reg||1

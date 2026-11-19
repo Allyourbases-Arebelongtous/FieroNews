@@ -1,0 +1,4 @@
+A||||2||Monkeyman||custom plates||||5
+Z||000000||Monkeyman||11-24-1999||12:45 AM||||Anybody have any cool custom license plates?  Just wondering.  I'll get mine in Feb.  It'll say, "MNKY MAN".  For the overseas members...can you even get custom plates?  I know the Canadians can.||||reg||5
+Z||000001||WKDFIRO||11-24-1999||12:55 AM||||On my Med Red Metalic 87 4 cyl 5 spd I was building it up to the point where I could at least keep up with the stock V6s. It was the.....<BR>WLDFIRO<P>Now that I have a 2.8 V6 Ive had to build it up just to keep up with the 3.4 V6s! Soon it will be....<BR>WKDFIRO||||reg||1
+Z||000002||four50four||11-24-1999||07:03 AM||||try this  <A HREF="http://www.fiero.nl/forum/Forum1/HTML/000534.html" TARGET=_blank>http://www.fiero.nl/forum/Forum1/HTML/000534.html</A> ||||reg||6

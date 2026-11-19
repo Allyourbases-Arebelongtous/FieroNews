@@ -1,0 +1,5 @@
+A||N||3||Jay||NORTHSTAR PAGE UPDATED||||1||
+Z||000000||Jay||08-08-2001||06:42 PM||||It's been a while since I updated my page so I did.  Check it out and let me know what you think.  Added new photos (thanks guys) and some modification stuff in the Update section.  Don't forget to sign my book.  Thanks.  <A HREF="http://www.members.home.net/jaygrande" TARGET=_blank>www.members.home.net/jaygrande</A> <P>------------------<BR>Jay<BR>1986 Northstar GT<BR>www.members.home.net/jaygrande<BR> <IMG SRC="http://www.fiero.nl/uploads/cayuga3_3.jpg"> ||||reg||1
+Z||000001||Cheever2||08-08-2001||06:48 PM||||Looks great.  Can we get a closer look at the shifter/console area?  Thanks.<BR>||||reg||1
+Z||000002||Tabs||08-08-2001||08:08 PM||||Jay nice pics<P>I get my car serviced at Race Tech and I've heard alot about u<P>Maybe I'll c u at this years Fiero show??<P>Tabs||||reg||1
+Z||000003||starfighter007@msn.com||08-08-2001||08:27 PM||||Pretty slick.I wish I had the ambition to do something like that.||||reg||14

@@ -1,0 +1,3 @@
+A||||1||Shaft||Quad 4 in Super Street||||10||
+Z||000000||Shaft||04-10-2001||07:58 PM||||I was just reading the April 2001 issue of Super Street and was shocked to find a very thurough article of the Quad 4. Usually this mag is filled with only Civis, Integras, etc. It details the changes the engine went through year by year and suggests which parts to mix and max to make the strongest Q4. Anyone looking into this conversiion, or already having one shoved pick this issue up.||||reg||10
+Z||000001||Philphine||04-11-2001||01:46 AM||||the same article was in hotrod or carcraft a few months back. must have the same publisher.||||reg||1

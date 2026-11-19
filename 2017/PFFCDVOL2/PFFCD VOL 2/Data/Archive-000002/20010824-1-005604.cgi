@@ -1,0 +1,4 @@
+A||N||2||TwisT||Wanted:  sources for hood scoops/  wings/  air ducts and grills||||1||
+Z||000000||TwisT||02-03-2001||04:08 PM||||I'm looking for places that sell custom or reproduction scoops/ wings/ air-ducts and grills for modern or classic cars.  Any ideas or experience with this?  I haven't been able to find much on the 'Net.  <P>I have some ideas I'm working with for use on my '88 Fiero GT.    ||||reg||1
+Z||000001||TwisT||02-03-2001||06:30 PM||||Ok,  from another post:<BR> <A HREF="http://www.mpmotorsports.net" TARGET=_blank>http://www.mpmotorsports.net</A> <P>More,  more,  more!||||reg||1
+Z||000002||Raydar||02-03-2001||10:19 PM||||Try this...<BR> <A HREF="http://www.yearone.com" TARGET=_blank>http://www.yearone.com</A> <P>They have a few things online. Send for one of their catalogs. <P>------------------<BR>Raydar - aka Steve<P>88 T-top Formula<BR>88 soon-to-be-V6 coupe||||reg||1

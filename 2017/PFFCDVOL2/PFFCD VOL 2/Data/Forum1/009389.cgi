@@ -1,0 +1,2 @@
+A||||0||Cheever2||Carcoon||||4||
+Z||000000||Cheever2||08-09-2001||11:08 PM||||Have you seen this "Carcoon" thing? <A HREF="http://www.carcoon.com/" TARGET=_blank>http://www.carcoon.com/</A> <P>I guess serious collectors would be interested.  Looks like a Fiero would need a size 5, which goes for I think $500 or $600.<P>You guys with low-mileage mint condition cars may want to check this out.<BR>||||reg||4

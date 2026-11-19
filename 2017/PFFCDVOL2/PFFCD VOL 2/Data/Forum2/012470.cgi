@@ -1,0 +1,4 @@
+A||||2||Wolfhound||Engine Swap Question!||||1||
+Z||000000||Wolfhound||08-02-2001||08:54 AM||||I have an 88 Coupe Auto with a bad 2.5 engine and a low milage 86 Auto with a good 2.8.<P>I want to swap to the V6 to the coupe and was wondering if there are issues with the cradle being different. Will I need different motor mounts.<P>beside the fuel pump, EMC and wireing harness what else do I need to do the swap.<P>Thanks Coy ||||reg||1
+Z||000001||ironhedno3||08-02-2001||01:09 PM||||yes the cradle is different between the 86 and 88..use the one you have from the 88 and get v6 mounts||||reg||6
+Z||000002||Wolfhound||08-02-2001||01:21 PM||||So the 88 V6 motor mounts are different from pre 88. Thanks! <BR>Is the wrap around tranny mount the same for the 88 4 and 6? <BR>Coy<p>[This message has been edited by Wolfhound (edited 08-02-2001).]||||reg||1

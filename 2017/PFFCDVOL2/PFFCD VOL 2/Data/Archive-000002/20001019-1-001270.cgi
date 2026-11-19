@@ -1,0 +1,3 @@
+A||||1||HotFieroGT||262 Hp 3.4 from Pontiac ||||7||
+Z||000000||HotFieroGT||02-18-2000||02:18 AM||||Has anyone seen the new Pontiac GTO concept car on the MotorTrend website.  It is a GrandAm with a 3.4 liter V-6 and an Eaton M62 supercharger backed by a 4-speed Auto or the the Getrag 5-speed manual.  Performance numbers are awesome, 262HP and 289FTLbs of torque.  I wonder if that motor and the supercharger will fit in my Fiero GT?||||reg||7
+Z||000001||ChadMan||02-18-2000||08:47 AM||||Great minds!  I saw the same article and had the same thought.  It's really encouraging that they're planning to build a 5-sp manual and a 4-sp auto.||||reg||10

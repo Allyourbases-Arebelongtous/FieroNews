@@ -1,0 +1,7 @@
+A||||5||Shinerdc||Looking for Canada Links||||1||
+Z||000000||Shinerdc||12-19-2001||07:15 PM||||just created my first web site..... <A HREF="http://www.ShinersIcce.Homestead.com" TARGET=_blank>www.ShinersIcce.Homestead.com</A> <P>the links page is empty right now...looking for Fiero links...Canadian stuff...i know there is lots to the south....exchange is a killer.....<P>so go ahead and suggest away...||||reg||1
+Z||000001||FieroMontreal||12-19-2001||07:20 PM||||Do you only want stores or will any fiero site do?||||reg||1
+Z||000002||banditbalz||12-19-2001||08:33 PM||||You can use my site if you feel it's worthy. I got a few fiero videos and a Need for Speed Fiero download. <BR> <A HREF="http://www.geocities.com/banditbalz/" TARGET=_blank>www.geocities.com/banditbalz/</A> <P><BR> <IMG SRC="http://www.fiero.nl/uploads/blackwhite2_3.jpg"> ||||reg||14
+Z||000003||4BanGinFun||12-19-2001||08:54 PM||||hey i have soom fiero stuff on my page <P>the link is in my sig <P>------------------<BR>85 se 2m4 5spd white<P> <IMG SRC="http://www.stopstart.fsnet.co.uk/flags/canada.gif"> <BR>www.angelfire.com/super/camaro0/||||reg||1
+Z||000004||Shinerdc||12-19-2001||11:00 PM||||any and all links would be great thanks....||||reg||1
+Z||000005||Adrift||12-20-2001||12:13 PM||||The forum I run is canadian, but open to kit car lovers of the world....<BR> <A HREF="http://www.kitcar.ca" TARGET=_blank>www.kitcar.ca</A> <BR>||||reg||1

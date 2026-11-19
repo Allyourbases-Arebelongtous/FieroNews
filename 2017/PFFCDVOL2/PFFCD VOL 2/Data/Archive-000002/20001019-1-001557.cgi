@@ -1,0 +1,10 @@
+A||||8||86SE||NFS: IV -  3D modeled Fiero!!!||||14||
+Z||000000||86SE||03-17-2000||12:26 AM||||This is a screenshot I took of the Fiero I made for Need For Speed: High Stakes.  Its based on someone elses but I totaly redesigned it.  (I got arrested!!)  It goes about 150 MPH, 6.10 gear ratio, extreme racing tires can make any corner at any speed without spinning out of control.  I'll take some more screen shots, make different models of fieros, different colors and differnt mods to beat any high performance sports car on the game!!<P>What do ya think??<BR> <IMG SRC="http://fierodude.hypermart.net/nfs.jpg"> ||||reg||14
+Z||000001||overlord||03-17-2000||08:37 AM||||not bad..<BR>i started a fiero for nfs4..but abandoned it after a while...<P>ever since i installed my new 3d card most games dont run (have to reinstall windows...aaarrr...) i am only able to pplay quak3 right now...but now i must get nfs4 running again if i can drive a fiero!!||||reg||1
+Z||000002||86SE||03-17-2000||10:30 PM||||Changed the looks and performance!!  Now it goes about 200MPH, 0-60 in about 3.5, 1/4 mile in about 10.9-11.5 seconds!!<P>Screenshot of the yellow Fiero power braking.  Sweet!!!<P> <IMG SRC="http://fierodude.hypermart.net/power.jpg"> ||||reg||6
+Z||000003||GT Bastard||03-18-2000||02:00 AM||||Cool... I've got NFS4.  You should make a maroon and silver gt like mine and send it to me!  ;o)||||reg||1
+Z||000004||86SE||03-18-2000||01:19 PM||||ok, i'll change the color and put a nice spoiler on it 4 ya.   <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000005||86SE||03-18-2000||02:26 PM||||ok, GT bastard, hows it look??<P> <IMG SRC="http://fierodude.hypermart.net/gt.jpg"> ||||reg||1
+Z||000006||86SE||03-19-2000||07:55 PM||||The spoiler on it looks terrible, but i'll try to fix it so it looks right.||||reg||1
+Z||000007||Pretender||03-20-2000||01:07 AM||||thats cool! to bad i can't run that game on my pc...stupid windows 3.1...||||reg||14
+Z||000008||86SE||03-20-2000||05:20 PM||||Thanks Pretender!  You should buy a new system with a PIII and Win98 then I'll send you a Fiero for NFS4.   <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||10

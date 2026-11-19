@@ -1,0 +1,3 @@
+A||||1||Uaana||Cheap Ferrari "kinda"||||1||
+Z||000000||Uaana||11-06-2001||11:54 PM||||For those looking something to drop that hot engine they've been building for the last year. Heres your candidate. <BR>And as a bonus you get a backup 2.5<BR> <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=597448950" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=597448950</A> <P>Might be interested if I had the extra cash for a long term project.||||reg||1
+Z||000001||Mach10||11-07-2001||12:10 AM||||Looks good, the price is about right... But that engine must GO.||||reg||14

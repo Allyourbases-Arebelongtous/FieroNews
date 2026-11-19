@@ -1,0 +1,4 @@
+A||||2||Mattyman||Western PA Fiero Club????||||5||
+Z||000000||Mattyman||12-13-2001||12:01 AM||||I was wondering if any fellow forum members belong to the WPAFC or know if they still are together and do stuff.  I emailed them and never got a response and I would really like to get involved in a club and the fact that the guy that started it lives in Jeannette like 5min. from me isn't bad either.  I love gettin together with other Fiero owners and would like to go on a few cruises.  So if anyone knows anything about the club it would be greatly appreciated.  <IMG SRC="http://www.fiero.nl/forum/smile.gif"> ||||reg||5
+Z||000001||Denny||12-13-2001||09:42 AM||||kslish (Ken Slish) is a member of the WPAFC.<P>You can email him at  <A HREF="mailto:kjslish@hotmail.com">kjslish@hotmail.com</A> ||||reg||1
+Z||000002||Denny||12-14-2001||10:10 AM||||You're welcome.<BR> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||6

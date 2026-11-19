@@ -1,0 +1,4 @@
+A||||2||Loki||A-piller gauge pod that fits  ||||1||
+Z||000000||Loki||01-14-2001||09:59 PM||||90-93 Acura Integra...Fits real close......The pics ive seen look like it matches perfecttly..........Ill try and chace em down<P><P>------------------<BR>Loki<BR>ICQ# 16477998<BR>  <IMG SRC="http://members.home.net/loki137/loki5.jpg"> ||||reg||1
+Z||000001||FieroJoe||01-14-2001||10:16 PM||||FieroMaster88 also has some A-pillar gauges that looked really great when I saw them, I think that he got them from Summit.  I dont have a pic though...<P>------------------<BR>FieroJoe<BR>c311t@yahoo.com<BR>AIM: Fiero87311, Snowboarder0311<BR>  <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1
+Z||000002||MoneypitGT||01-14-2001||11:19 PM||||I used a dual gauge pod from my buddies '00 Civic Si, a little heat gunning and it fits great.||||reg||14

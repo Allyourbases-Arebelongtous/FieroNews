@@ -1,0 +1,2 @@
+A||||0||Pyric||What size is the Master Cylinder Resivoir cover?||||4||
+Z||000000||Pyric||12-19-2001||05:59 PM||||My master cylinder cover is warped and letting air escape.  I've replaced the seal but it still leaks air.  <P>I found a metal/chrome replacement, but I need to know if it is 3-1/2" x 6" or 4-1/2" x 6-7/8" for an 85 GT V6.<P>I'm at work and I can't go measure it. It'll be dark when I get home.  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>Help please!<BR>||||reg||4

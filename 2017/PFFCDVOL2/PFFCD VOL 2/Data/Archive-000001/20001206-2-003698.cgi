@@ -1,0 +1,4 @@
+A||||2||VAROOM||Seats? Will They FIT ?||||5||
+Z||000000||VAROOM||05-11-2000||11:18 PM||||While doing my favorite thing today, I came across a set of buckets in a 86 grand am turbo. Does anyone know if this can be done?  Thanx. ||||reg||5
+Z||000001||Cooter||05-11-2000||11:36 PM||||I have seats from a 95 Camaro in my Fiero. I had to use the seat tracks from the Fiero seats, but they fit fine. I believe that you can use the GA seats because my brother put a set of GA seats in his F-body. If GA seats fit an f-body and f-body seats fit a Fiero. . .  ||||reg||1
+Z||000002||DaRkLoRD||05-12-2000||01:59 AM||||How much bigger than the factory seats are they? I've heard with the T/A seat conversion you lose a bit of space.. at 6'2", I need all the room I can get... I fit perfectly in an 86 GT with sunroof and factory cloth seats.. any bigger seats and my spiked hair might be sticking out of the sunroof.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

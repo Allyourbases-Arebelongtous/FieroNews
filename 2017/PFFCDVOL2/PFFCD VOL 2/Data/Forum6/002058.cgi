@@ -1,0 +1,8 @@
+A||||6||RobertVol||Test !!! DONT LOOK DONT LOOK !!!||||10||
+Z||000000||RobertVol||05-16-2001||11:25 PM||||TOLD YA ~!  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>I am still practicing with this photo post thing<P>  <IMG SRC="http://www.fiero.nl/uploads/MyGT_6.jpg">  <P><BR>  <IMG SRC="http://www.fiero.nl/uploads/ROBERTSGT.jpg">  <BR><p>[This message has been edited by RobertVol (edited 05-16-2001).]||||reg||10
+Z||000001||Loki||05-16-2001||11:39 PM||||AHHH!!!!! MY EYES!!!! I just had to look...Im sowwy..But now I never see agian   <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>------------------<BR>Loki<BR>ICQ# 16477998<BR>www.cox-internet.com/fiero  !!!UPDATED!!!||||reg||1
+Z||000002||TheFiero64||05-17-2001||08:35 AM||||I didn't look  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>Josh<BR>  <IMG SRC="http://people.ne.mediaone.net/fiero64/Fiero642.jpg"> <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||12
+Z||000003||RobertVol||05-17-2001||10:15 PM||||hmmm I told ya not to look!!<P>Wouldnt be funny if something like this became the longest post...<P>hmmmmm  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR><p>[This message has been edited by RobertVol (edited 05-17-2001).]||||reg||1
+Z||000004||RobertVol||05-17-2001||10:17 PM||||By looking at this car.... With no leaks in the t tops and only 61k miles on it ....What do you think it would be worth?<P>||||reg||1
+Z||000005||Black88GT||05-17-2001||10:21 PM||||Robert, do you still have that dye for beechwood interiors?  Do you know where I can get it from?<P>thanks!||||reg||1
+Z||000006||RobertVol||05-17-2001||10:44 PM||||Actually I Got it a NAPA. It works good !||||reg||1

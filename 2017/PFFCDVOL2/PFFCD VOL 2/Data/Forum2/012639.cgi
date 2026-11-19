@@ -1,0 +1,4 @@
+A||||2||mrfixit58||Building your own Adjustable Fuel Regulator?||||5||
+Z||000000||mrfixit58||08-09-2001||04:30 PM||||I've seen a web page that showed how to convert a stock fuel pressure regulator into an adjustable regulator. But now, I can't seem to find the URL. If anyone knows, could you please post it's location?<P>Thanks,<P>------------------<BR>Roy :D<BR>87 GT   <IMG SRC="http://www.fiero.nl/uploads/pennocksize.JPG"> ||||reg||5
+Z||000001||pherder||08-09-2001||05:01 PM||||Here you go, mrfixit58!<P> <A HREF="http://members.aol.com/mmmm999/3rd-degree/tips/afpr/afpr.htm" TARGET=_blank>http://members.aol.com/mmmm999/3rd-degree/tips/afpr/afpr.htm</A> <P>Paul||||reg||1
+Z||000002||mrfixit58||08-09-2001||05:24 PM||||Thanks... I knew some here would have it.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P><P>------------------<BR>Roy :D<BR>87 GT   <IMG SRC="http://www.fiero.nl/uploads/pennocksize.JPG"> ||||reg||14

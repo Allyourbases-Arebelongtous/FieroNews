@@ -1,0 +1,5 @@
+A||N||3||turbo86se||Removing rust on driveway||||5||
+Z||000000||turbo86se||08-06-2000||12:08 PM||||<BR>As a result of a section of my exhaust and flanges rusting on my 88 coupe, I'm left with several ugly rust areas on my driveway. Is there any way to remove this? <BR>TIA!  <IMG SRC="http://www.fiero.nl/forum/smile.gif"><BR>joel||||reg||5
+Z||000001||Monkeyman||08-06-2000||01:01 PM||||Try IronOut.  It's a powder.  Sprinkle some on your driveway, water it down, let it sit a while, scrub it with a stiff brush and rinse.  It won't hurt your driveway.  People use it in the washing machine all the time.||||reg||1
+Z||000002||turbo86se||08-06-2000||01:09 PM||||Thanks Monkeyman, I'll give that a try tomorrow!!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000003||Taijiguy||08-07-2000||09:08 AM||||There's also a product called CLR (for calcium, lime, and rust) It works pretty well. I think it contains mostly just vinegar though, which would be a whole 'nother suggestion.<P>-Taiji||||reg||1

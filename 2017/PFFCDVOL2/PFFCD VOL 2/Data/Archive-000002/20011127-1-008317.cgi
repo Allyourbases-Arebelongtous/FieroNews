@@ -1,0 +1,3 @@
+A||||1||84Bill||Trim fasteners and rivets||||14||
+Z||000000||84Bill||06-22-2001||03:19 PM||||I needed some of those funky plastic rivits and body fasteners for my Indy and I wanted the right stuff. I found this site and figured what the heck for those looking for the "proper" fasteners to do the job.<P>Here are 2 links  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><BR> <A HREF="http://www.crestnetsales.com/restore/" TARGET=_blank>http://www.crestnetsales.com/restore/</A>  <A HREF="http://www.autofastco.com/" TARGET=_blank>http://www.autofastco.com/</A> ||||reg||14
+Z||000001||rogergarrison||06-22-2001||04:04 PM||||I hate all those rivets, wish theyd put Fieros together with bolts like other cars ..  <IMG SRC="http://www.fiero.nl/forum/frown.gif">||||reg||1

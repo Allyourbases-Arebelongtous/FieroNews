@@ -1,0 +1,8 @@
+A||||6||Oreif||Door Emblem pic.||||14||
+Z||000000||Oreif||05-20-2000||01:59 AM||||Here's a pic of the door emblems I did for a friends maroon 88 Formula. I used the actual car touch-up paint mixed with the epoxy so it has the same metallic color as the exterior of his car!<BR>How do they look?<P> <IMG SRC="http://www.fiero.nl/uploads/Pemblem.jpg"> ||||reg||14
+Z||000001||Haze_Performance||05-20-2000||04:51 AM||||Once again..very cool<P>What kind of clear coat do you use?? + How many coats??||||reg||14
+Z||000002||Oreif||05-20-2000||10:30 AM||||Haze, I use 2 coats of clear polyurethane spray. It's actually call "wheel Paint" It's from Trak Auto for spraying a clear coat over aluminum wheels!||||reg||1
+Z||000003||Monkeyman||05-20-2000||12:54 PM||||Oreif--Email me about this, please.||||reg||1
+Z||000004||Coconut||05-20-2000||01:12 PM||||orief, now that is a cool idea! Looks like I've got another item to add to the "to do" list. Thanks for the posting. BTW-GREAT looking job, very nice! ||||reg||14
+Z||000005||Oreif||05-20-2000||11:30 PM||||I have 2 sets of all white and 2 sets ready for color. ("FIERO" is white and the horse/crest can be just about any color) For GT's I can do white letters/silver horse/red crest. Simular to the emblem on the GT steering wheel. These are all done with Epoxy paint so the colors do not fade or yellow out.<BR>Monkeyman I sent you E-mail.<P> <IMG SRC="http://www.fiero.nl/uploads/Emblems_1_1.jpg"> <P> <IMG SRC="http://www.fiero.nl/uploads/GTstyle_1.jpg"> <P><p>[This message has been edited by Oreif (edited 05-20-2000).]||||reg||7
+Z||000006||Monkeyman||05-21-2000||01:28 PM||||Got it...Sent one back...It's the details that make the difference. <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1

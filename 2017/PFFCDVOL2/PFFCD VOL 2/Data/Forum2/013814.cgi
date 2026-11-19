@@ -1,0 +1,3 @@
+A||||1||85ZainoGT||ok this is weird||||1||
+Z||000000||85ZainoGT||09-20-2001||09:31 PM||||I dont think my heater works, I have to put it on A/C then put it all the way to hot, because the heater doesnt blow out of the vents and barely comes out of the vent thingy right by the windshield, any ideas of how to check or fix it?  my a/c doesnt work either  <IMG SRC="http://www.fiero.nl/forum/frown.gif">||||reg||1
+Z||000001||Phil||09-20-2001||09:47 PM||||The heater doesn't blow out the vents, it comes out the bottom in the foot wells. There is a very slight amount of heated air directed thru the defroster whilst in heat mode.||||reg||1

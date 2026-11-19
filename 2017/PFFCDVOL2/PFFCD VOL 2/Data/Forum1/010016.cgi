@@ -1,0 +1,6 @@
+A||||4||FieroKyle||ATTN: Tigger, on Mich. Fiero meet||||1||
+Z||000000||FieroKyle||09-02-2001||07:46 PM||||Hey were you still gonna try to get every to meet in Lansing again? If so I need things like date, time, and directions. Thanks.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Kyle||||reg||1
+Z||000001||jch82||09-03-2001||02:27 AM||||yeah.....what he said<P>Josh  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||12
+Z||000002||Fierowrecker||09-03-2001||06:47 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by jch82:<BR><B>yeah.....what he said<P>Josh   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"></B><HR></BLOCKQUOTE><P>DITTO!<BR>crash...||||reg||1
+Z||000003||Tigger||09-03-2001||01:03 PM||||The meet will be Saturday September 22.<P>It's going to be from 2:00 to about 5:00 at Frances Park in Lansing.<P>Here's a link to <A HREF="http://travel.michigan.org/search/dynamic.asp?p=G21747" TARGET=_blank>map and driving directions</A> to the park.<P>All are welcome, even those from out of state and canada if they can make it.  I'm going to make a post this week to give everybody enough time to make arrangements.<p>[This message has been edited by Tigger (edited 09-03-2001).]||||reg||1
+Z||000004||FieroKyle||09-03-2001||01:44 PM||||alright good, sounds like a plan.....||||reg||1

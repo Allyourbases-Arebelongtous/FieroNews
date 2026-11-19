@@ -1,0 +1,3 @@
+A||N||1||mope||-=What is L44 i saw it on a fiero? real or add on?||||5||
+Z||000000||mope||01-07-2001||09:48 PM||||i saw on a 86 gt a decal "L44" it was in front og the side scoop...does this mean anything was it just the owners favorite number? it looked original to me....i dunno though...if this means something real please let me know because i am going to buy this fiero that i saw it on...my moms cheaking on insurance costs for me as we speak...as long as that goes ok i will have my very own fiero.<P>so yeah! L44 what does it mean?<P>m0pe||||reg||5
+Z||000001||Raydar||01-07-2001||10:15 PM||||L44 was the RPO# for the 2.8 V-6. All of them. ||||reg||1

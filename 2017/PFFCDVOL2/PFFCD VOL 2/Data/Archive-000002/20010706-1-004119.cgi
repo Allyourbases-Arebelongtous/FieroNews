@@ -1,0 +1,5 @@
+A||||3||Madrox86GT||CFA members what do you think??||||1||
+Z||000000||Madrox86GT||10-24-2000||10:54 PM||||ok CFA members what do you think of making this into a Vinal sticker for the back glass???  its a rough sketch but it can be cleaned up alot more......looks like the fiero GT emblem but instead of GT...it says CFA???  what do you think?<P>------------------<BR>You know my saying is:<P>"life is  a  B I T C H... then you marry one."<P>-Red 84 SE for parts(or 300 all together)-<BR>-Trade/Sell 86 GT-<BR>-New Pioneer Raido and 4X10's-<P>-Silver V6 SE(wrecked) $300<BR>-Black 85 coupe(parts car)$500<BR>-or both black and sliver for $750||||reg||1
+Z||000001||RaeQwan||10-25-2000||01:14 AM||||?? hehe.. it sounds like it'd be cool  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||Madrox86GT||10-25-2000||04:16 PM|||| <IMG SRC="http://www.fiero.nl/uploads/CFA.jpg"> <P>hopefully you will like it.<p>[This message has been edited by Madrox86GT (edited 10-25-2000).]||||reg||1
+Z||000003||Madrox86GT||10-26-2000||06:48 PM||||what do you guys think?||||reg||1

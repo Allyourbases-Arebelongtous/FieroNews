@@ -1,0 +1,11 @@
+A||N||9||TwisT||Is this RICE?||||1||
+Z||000000||TwisT||03-08-2001||09:37 AM||||Please tell me...<BR> <A HREF="http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=566827966" TARGET=_blank>http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=566827966</A> <P>Thanks,<P>Brett (ROFLAO)||||reg||1
+Z||000001||stimpy||03-08-2001||09:44 AM||||Wow, four different threads in one week! (yawn)||||reg||1
+Z||000002||FieroLisa||03-08-2001||10:15 AM||||haha i think its 4 in a couple days i think, not even a whole week...||||reg||1
+Z||000003||TwisT||03-08-2001||01:07 PM||||Guys and gals,  I'm not joining the rice-bashing brude here.  I'm only poking fun at the whole "anti-rice" trend that's been happening here in the forum WAY TOO MUCH.  Please have a sense of humor...  this will be my last "rice" topic to ever be posted,  I promise you that!<P>That being said,  what the HELL was this guy smoking???  Truly unique!  Thank God he didn't do it to a Fiero...<P>Brett <P><p>[This message has been edited by TwisT (edited 03-08-2001).]||||reg||1
+Z||000004||frontal lobe||03-08-2001||02:44 PM||||TwisT,  I think they are referring to how many threads have been made about that particular car (it still is a car?) auction, not how many rice threads you have or have not done.||||reg||1
+Z||000005||286SE'S||03-08-2001||04:18 PM||||Nice to see somebody found something to do with their old MR2 after they blew up the engine.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000006||TwisT||03-08-2001||06:01 PM||||Frontal,  how the HELL did I miss that???  Geez,  maybe I'm not paying attention.  Or maybe it's the Budwieser... <P>Brett||||reg||1
+Z||000007||JBGehling||03-08-2001||09:26 PM||||That is just downright funny.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>Josh||||reg||1
+Z||000008||DJRice||03-09-2001||10:11 AM||||And I thought there were 4 jet powered MR2s for sale.....DOH!<P>Its like Toyota Racing Development on Crack...<P>------------------<BR>Dillon<BR>Black '87 SE V6||||reg||3
+Z||000009||Raydar||03-09-2001||10:23 AM||||Toyota Racing Development?<BR>Would they call it "TRD"? <P>------------------<BR>Raydar - aka Steve<P>88 T-top Formula<BR>88 soon-to-be-V6 coupe||||reg||6

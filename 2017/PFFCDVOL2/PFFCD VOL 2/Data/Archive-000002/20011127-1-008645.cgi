@@ -1,0 +1,2 @@
+A||||0||Fformula88||Hey Orief!  Thanks!!||||1||
+Z||000000||Fformula88||07-06-2001||05:51 PM||||Just wanted to say thanks for the door emblems you did for me.  I received them a couple weeks ago, but have been in Chicago and just the other day had a chance to install them in the car.  They look fabulous!  <P>------------------<BR>John  <BR>AOLIM: Fformula88<BR> <IMG SRC="http://www.fiero.nl/uploads/fierosig2.JPG"> <BR>1988 Fiero Formula<BR>1985 Fiero SE 2M6||||reg||1

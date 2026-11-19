@@ -1,0 +1,2 @@
+A||||0||DTH||heads||||5||
+Z||000000||DTH||12-05-2001||05:21 PM||||Could anyone tell me if this head will work on my 84? The casting # of the 84 head is 10022373 E184. The casting number for the replacement 87 head is 10038808 A167. I noticed when I was matching head & intake gaskets there was a difference. Or do I need to get the 87 intake manifold?  All replies will be appreciated.    Thanks   Dan||||reg||5

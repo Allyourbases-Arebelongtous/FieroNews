@@ -1,0 +1,4 @@
+A||||2||Wolfhound||Lego out corners Fiero on test track!||||12||
+Z||000000||Wolfhound||04-05-2001||09:55 AM||||New lego out corners Fiero on test track. Said to corner like it was on rails.   <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><BR>  <IMG SRC="http://www.fiero.nl/uploads/Technicars.JPG">  <BR>This is a is in San Diego, Lego World. My Nephew was project manage. <BR>  <IMG SRC="http://www.fiero.nl/uploads/Ridesteel.JPG">  <BR>Oh, It is on rails.<P><p>[This message has been edited by Wolfhound (edited 04-05-2001).]||||reg||12
+Z||000001||COUNTIBLIS||04-05-2001||09:57 AM||||Which ride is that?  That is sweet!  We have a Six Flags here in KY and I buy season passes each year!  <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/count3.gif"> ||||reg||1
+Z||000002||bHooper||04-05-2001||10:04 AM||||there is an amusement park called "Lego World"?!  cool!||||reg||1

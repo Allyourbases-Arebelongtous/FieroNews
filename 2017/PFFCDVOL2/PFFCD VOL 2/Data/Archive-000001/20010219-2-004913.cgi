@@ -1,0 +1,6 @@
+A||||4||GT Bastard||Thoughts on smallblock rods on a V6....||||5||
+Z||000000||GT Bastard||07-24-2000||11:20 PM||||Does anybody have any thoughts on using smallblock chevy rods on a 3.2?  I've got a set of rods from a sb400 that are practically new.  I know that I would need to have them machined to accomadate my 3.2 stroker, but would it be a practical modification?  I mean, how much of an increase in strength are we talking about? Also, any ideas on how much the machine work would cost?  Thanks guys...||||reg||5
+Z||000001||GT Bastard||07-24-2000||11:36 PM||||Just to clarify... Connecting rods, not pushrods. sorry||||reg||1
+Z||000002||terryk||07-24-2000||11:44 PM||||I used them on one of my X-11 engines. Don't bother. Nothing to gain. You just wind up with rods that will handle 10x what you need rather than 5x.<P>Bragging rights only.<P>Terry<BR><p>[This message has been edited by terryk (edited 07-25-2000).]||||reg||1
+Z||000003||HYPTNOTiSE||07-26-2000||12:07 AM||||yep braggin rights rule. I've got em. They're cool, but ones off a SBC400 wont work. they have to be pre-67 small journal crankshaft, like a 289 or 327 whatever. <P>Mike LeCompte||||reg||1
+Z||000004||2FAST4U||07-26-2000||12:43 AM||||60 degree V-6 rods are forged so just polish the beams and add ARP rod bolts. There is nothing to gain from SBC rods.||||reg||1

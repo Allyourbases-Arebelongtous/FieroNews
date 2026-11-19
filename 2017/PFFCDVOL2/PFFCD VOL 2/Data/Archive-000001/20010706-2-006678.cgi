@@ -1,0 +1,4 @@
+A||N||2||chrissherman||Need Help in ALASKA Wiring????||||5||
+Z||000000||chrissherman||11-09-2000||01:03 AM||||AAAAAAAAAArg Need to know the wiring diagram off the black termnal's next to the ecm going to the dash color code wood be cool A thrue R with I and O left out||||reg||5
+Z||000001||StuGood||11-09-2000||12:48 PM||||See if this has something you can use:<BR> <A HREF="http://www.euronet.nl/users/fo_elmo/techno.htm" TARGET=_blank>http://www.euronet.nl/users/fo_elmo/techno.htm</A> ||||reg||5
+Z||000002||chrissherman||11-09-2000||03:29 PM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by StuGood:<BR><B>See if this has something you can use:<BR> <A HREF="http://www.euronet.nl/users/fo_elmo/techno.htm" TARGET=_blank>http://www.euronet.nl/users/fo_elmo/techno.htm</A> </B><HR></BLOCKQUOTE><BR>nope I need the clear conector with 2 black conector's going to the dash thanks Chris<BR>||||reg||1

@@ -1,0 +1,9 @@
+A||N||7||Springtyme||Painted Rims?||||5||
+Z||000000||Springtyme||09-11-2001||09:28 AM||||Well this is a really sketchy image (paint sucks, I want photoshop!) but I've been thinking about painting the inside of my rims... what do you think?<P> <IMG SRC="http://www.fiero.nl/uploads/fiero_paint.jpg"> <BR><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Springtyme.jpg"> <P>            ~Springtyme~||||reg||5
+Z||000001||MrPBody||09-11-2001||09:44 AM||||I sorta like it!  But I'm still gonna paint mine black.<BR>||||reg||1
+Z||000002||Springtyme||09-11-2001||09:48 AM||||Also, for those who have already painted their rims, can you  just use normal paint you would use on a car? Because I need to paint my beretta hood to white and I was just gonna use some of the paint from that to do the rims. Is that safe?<P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Springtyme.jpg"> <P>            ~Springtyme~||||reg||5
+Z||000003||fiero_hunter85||09-11-2001||09:58 AM||||it will work if you sue chip guard in the paint. ||||reg||1
+Z||000004||Springtyme||09-11-2001||10:01 AM||||Whats chip guard?||||reg||5
+Z||000005||Rick 88||09-11-2001||10:07 AM||||Looks good! Just make sure you highlight the "Pontiac" cast in the wheels in black to emphasize it. I have seen some older Grand Am GT's done this way. They look sharp.<P>Rick<BR>yellow 88 GT 5-speed||||reg||6
+Z||000006||Philphine||09-11-2001||10:14 AM||||since you want white you might consider looking out for a set of indy wheels. fron an '84 fiero indy pace car replica.||||reg||1
+Z||000007||mbramble||09-12-2001||05:13 PM||||I painted mine with the same paint I used for painting panels on the car.<P>See here: <A HREF="http://www.bramblett.com/fiero/bef-aft.jpg" TARGET=_blank>http://www.bramblett.com/fiero/bef-aft.jpg</A> <p>[This message has been edited by mbramble (edited 09-12-2001).]||||reg||1

@@ -1,0 +1,4 @@
+A||||2||DreXteR||ECM question..............||||1||
+Z||000000||DreXteR||05-31-2001||07:43 PM||||I hear that the 85 ECM have a knock sensor capability, also that 85 was rated 140hp and the 86~88 where really 135. That whould be 'cause the ecm?? <BR>That the 85 ecm have something dif from other years, regarding performance or something??<P><BR>DreX ||||reg||1
+Z||000001||Predator||05-31-2001||08:37 PM||||The 85 is the only year to have a provision for a knock sensor. I have one. The performance numbers is the same across all the years. It looks higher in 85 because of a different RPM for emissions. The knock sensor is good for if you are going to Turbo or Supercharge the engine. <P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Fiero4_1.jpg"> ||||reg||1
+Z||000002||DreXteR||05-31-2001||09:40 PM||||Thanx Predator.<P><BR>DreX||||reg||1

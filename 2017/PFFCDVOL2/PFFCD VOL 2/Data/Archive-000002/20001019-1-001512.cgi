@@ -1,0 +1,2 @@
+A||||0||sinoloa||Fieros on t.v.||||7||
+Z||000000||sinoloa||03-13-2000||03:52 PM||||Last monday night on Jay Leno, Jay held up a classified ad for an '88 Fiero. The ad said,  'must sell. New wife too fat for car.' I love the Fiero!! Then, yesterday, I was watching "A View to a Kill" (a James Bond movie) and there was a Fiero in it! I couldn't believe it.  It would've given my ego a boost if James had been driving it, but  I guess that would be asking too much.||||reg||7

@@ -1,0 +1,6 @@
+A||||4||Carolina 88GT||MAD COW (Food for Thought)||||7||
+Z||000000||Carolina 88GT||02-28-2000||10:06 AM||||Everytime I catch one of these articles it kinda cracks me up. About europes mad cow disease.  Dont get me wrong, I understand that its a very serious situation. BUT, everytime I hear it, I have pictures of CUJO were the St. Bernard is replaced by a raging black and white heffer hell bent on eating a woman and boy in an orange pinto.||||reg||7
+Z||000001||Cliff Pennock||02-28-2000||04:19 PM||||Fortunately, some cows are responding quite well to a new therapy that involves plenty of rest and relaxation:<P> <IMG SRC="http://www.fiero.nl/uploads/koe1.jpg"> ||||reg||6
+Z||000002||Monkeyman||02-28-2000||09:24 PM||||I wonder if that cow resort offers mud baths?<BR>I wonder why she's walking away from that chair?  Maybe another cow asked her to mooove?<BR>I think this whole Mad Cow thing is "udderly" ridiculous. (JK)<BR>Sorry.  Just trying to "milk" this for all it's worth!<BR>This really is "bull sh**"!<BR>||||reg||1
+Z||000003||Carolina 88GT||02-28-2000||09:47 PM||||Hey MM...dont make me come over there and tan yer hide||||reg||1
+Z||000004||Monkeyman||02-29-2000||06:35 AM|||| <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

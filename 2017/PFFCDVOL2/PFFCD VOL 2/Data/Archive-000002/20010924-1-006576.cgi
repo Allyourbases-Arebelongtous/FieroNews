@@ -1,0 +1,5 @@
+A||||3||Formula88||Mechanic recommendation needed||||5||
+Z||000000||Formula88||04-02-2001||11:51 AM||||Hi guys (and ladies).  Sorry this isn't Fiero related, but I trust your opinions, so I'll ask.  A friend of mine has a Toyota truck that she thinks has a blown head gasket.  Problem is, I'm in Raleigh NC and she's in Boulder CO.  Anyone know an honest, competent mechanic in the Boulder area that they trust?  It would be much appreciated.||||reg||5
+Z||000001||bHooper||04-02-2001||02:06 PM||||... sory, i cant be of any assistance.<P>hoop||||reg||1
+Z||000002||Formula88||04-02-2001||02:17 PM||||Thanks, Hoop.  It's not like she needs wing nuts or anything.  -geez-   <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||12
+Z||000003||stsmithgt||04-02-2001||02:36 PM||||Just guessing here, but I was wondering...maybe the "Better Business Bureau" has a list of at least satisfactory shops in the area.  The BBB hasn't done me any good, but it was a just a thought <IMG SRC="http://www.fiero.nl/uploads/Bulb_1.gif">  anyway.||||reg||1

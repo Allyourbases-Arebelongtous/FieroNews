@@ -1,0 +1,2 @@
+A||N||0||CoolBlue87GT||Add in morning paper - Fiero parts for sale||||6||
+Z||000000||CoolBlue87GT||12-04-2001||09:08 AM||||From today's paper here in Punta Gorda Fl.<P>Reads as follows;<BR>_____________________________________________<BR>FIERO PARTS -Bumber to Bumber $1 - $300<P>(941)474-9121  (941)474-7219  Ask for Steve<BR>_____________________________________________<P>Hope this helps someone out, Dave||||reg||6

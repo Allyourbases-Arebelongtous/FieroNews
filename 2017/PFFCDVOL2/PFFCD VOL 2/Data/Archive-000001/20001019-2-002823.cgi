@@ -1,0 +1,7 @@
+A||N||5||Haze_Performance||Gauge problems||||5||
+Z||000000||Haze_Performance||03-21-2000||06:46 PM||||Im having some problems with my gauges on my 1985 2M4. When the car is off the speedo reads 7 miles an hour and the tach reads 1700 rpm. But when I start the car it will act normal(0 speedo, and rmp is at 800/1000). I just got the car and its acted this way since I got it. This is the only problem the car has, it has 38,000 miles on it and its 100% orginal. Thanks for any help.  <p>[This message has been edited by Haze_Performance (edited 03-21-2000).]||||reg||5
+Z||000001||fiero56||03-21-2000||07:00 PM||||I believe that is a normal condition. I'm not sure which ones do that and which ones don't. I have seen two '87 4-cyl guages, both of them do that. I think the v-6 guages "zero out," and the 4-cyl guages don't.||||reg||1
+Z||000002||Monkeyman||03-21-2000||07:01 PM||||I don't know about the speedo, but the tach is supposed to do that.  As long as the tach works correctly when the car is running, don't worry about it.  The tach needle won't return to 0 when you kill the motor.  Something about magnets???||||reg||1
+Z||000003||batboy||03-21-2000||08:22 PM||||This is normal with the Fiero gauges.||||reg||1
+Z||000004||Rodrv6||03-21-2000||09:51 PM||||The tach and speedo in my 84 both "float" when the ignition is off.  This is a normal condition and as long as the gauges read correctly when the ignition is on then there is nothing to worry about.||||reg||7
+Z||000005||Haze_Performance||03-21-2000||11:06 PM||||Thanks All||||reg||6

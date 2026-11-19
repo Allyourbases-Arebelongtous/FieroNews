@@ -1,0 +1,6 @@
+A||N||4||SloPonti||check out the new pontiac magazine -february2000||||14||
+Z||000000||SloPonti||12-29-1999||01:17 AM||||hey guys check out the new pontiac high performance magazine! the february 2000 issue has a red 84 fiero with a transverse v8 in it! very good car! check it out and let me know what you think!<BR>thank<BR>Rob||||reg||14
+Z||000001||Monkeyman||12-29-1999||03:32 AM||||Where can you get the Pontiac High Performance mag?  I've tried all of the usual places (grocery store, WalMart, etc) and can't find one anywhere.||||reg||5
+Z||000002||Formula||12-29-1999||11:06 AM||||I bought mine at rite aid.  That car looks almost factory except for the rear wheels and the scoops on it.||||reg||1
+Z||000003||SloPonti||12-29-1999||07:14 PM||||i got mine at the local grocery store! let me know if you need one and we can work something out!<BR>thanks<BR>rob<P>what do you think of the car? i like it except for the wheels! i thought that 12s was a little slow for having a v8 but what do i know-i have a four banger!||||reg||1
+Z||000004||Monkeyman||12-30-1999||12:18 AM||||I need one.  Do ya have access to a scanner?  Just scan the Fiero pages and email them to me.  (Convert them to JPEG 1st if you can.)  Thanx.||||reg||1

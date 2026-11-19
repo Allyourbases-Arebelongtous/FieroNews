@@ -1,0 +1,8 @@
+A||||6||88CoupeV6||Priceless :)||||7||
+Z||000000||88CoupeV6||10-11-2001||04:37 PM||||Here is a link, I didn't want to post it open as it has a bad word in it <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">. <BR> <A HREF="http://www.fiero.nl/uploads/priceless.jpg" TARGET=_blank>http://www.fiero.nl/uploads/priceless.jpg</A> <P>------------------<BR>Josh<BR>   <IMG SRC="http://www.fiero.nl/uploads/newsig.jpg">    <BR>:D  <BR><A HREF="http://albums.photopoint.com/j/AlbumList?u=1249362" TARGET=_blank>My pics</A>||||reg||7
+Z||000001||Kasdan||10-11-2001||04:39 PM||||rofl!  thats some funny sh!t!||||reg||1
+Z||000002||88CoupeV6||10-11-2001||04:43 PM||||Here is an edited ver. <P> <IMG SRC="http://www.fiero.nl/uploads/priceless1.jpg"> ||||reg||7
+Z||000003||Pheagey||10-11-2001||04:48 PM||||Hel!yea!!!<BR>Thats the kinda sh!t they they should show on the news!<BR>Moth!@f*cking terrorists deserve to be bombed outta thery skull, not showing themselves off on international TV broadcasts. Can I get an AMEN?<BR>||||reg||1
+Z||000004||DreXteR||10-11-2001||05:01 PM||||AMEN!<P>Nuke 'em to HELL!! <IMG SRC="http://www.fiero.nl/forum/smiley_damon.gif"><P><BR>DreX||||reg||1
+Z||000005||rogergarrison||10-11-2001||05:09 PM||||I think that would be a good program. give all them a flag/ lighter/ and fluid so they burn themselves all up. we wouldnt even have to bury em.  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000006||Wolfhound||10-11-2001||05:49 PM||||That's one of the rare 11 stripe 20 star flags too. It,s called the "scars and yikes!!"  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||7

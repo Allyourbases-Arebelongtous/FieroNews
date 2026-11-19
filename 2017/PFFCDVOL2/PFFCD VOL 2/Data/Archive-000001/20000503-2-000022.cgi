@@ -1,0 +1,2 @@
+A||||0||Boomer||Major Engine Trouble
+Z||000000||Boomer||03-20-99||07:22 PM||||I have an 84 se 2m4 and the head was just just changed due to recent problems which were traced to the cracks in it. Now when i start the engine i get a code 44 (lean exhaust). All the gaskets are new and the vacuum lines are all fine. There is a coolant sensor circuit problem somewhere and i was wondering if that could cause my problem.

@@ -1,0 +1,6 @@
+A||N||4||TRL46202||Help with sound......||||1||
+Z||000000||TRL46202||03-20-2000||08:13 AM||||Would like to reduce the road noise in the cab. I heard about the stuff called dynamat and also some stuff that you can get a Menards?? Any help would do......<P>Thanks!||||reg||1
+Z||000001||Monkeyman||03-20-2000||10:06 AM||||I used Dynamat in a '78 TA once.  Worked great but it's kind of expensive.  I think they make some kind of spray on stuff, too but I'm not familiar with that.||||reg||1
+Z||000002||Raydar||03-20-2000||10:17 AM||||I have heard that Home Depot sells roof membrane that's similar to Dynamat, but at a fraction of the cost.<BR>||||reg||1
+Z||000004||phillip||03-20-2000||01:23 PM||||i don't know how to get there by giving you an address,but if you can find the corvette forum (i originaly found it by typing in corvette shark on my search,i have a '74),it's just like this one,go to the category '68 to '82. there is a fairly long thread discussing keeping those years quiet(if you've ever been in one, you know they need to be having a serious discussion over it).||||reg||1
+Z||000005||Spyder||03-21-2000||12:18 PM||||I found some just like the Dynamat, I bought it in a roll from JC Whitney. It is rubber with the sticky backing. I think it was in the van/rv section. ||||reg||1

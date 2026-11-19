@@ -1,0 +1,3 @@
+A||||1||stingant0||Is this BS or could we do this to are fieros||||1||
+Z||000000||stingant0||12-28-2001||02:23 PM|||| <A HREF="http://www.beretta.net/behind_the_wheel/dyno_results.htm" TARGET=_blank>http://www.beretta.net/behind_the_wheel/dyno_results.htm</A> <P>Look at these claims,,,at the bottom there are "dyno" tests, look at both...he says he got 17hp at the wheels with a UD pulley.||||reg||1
+Z||000001||Patrick's Dad||12-28-2001||04:41 PM||||I wouldn't drive to work that way....<P>His 17hp gain was a combination of things, including removing the belt(s) that drive(s) the A/C and alternator, plus an open intake (no filter. There's a lot of stuff in the air that you don't want making to your valves, much less past them) and a 2.5" custom exhaust.||||reg||1

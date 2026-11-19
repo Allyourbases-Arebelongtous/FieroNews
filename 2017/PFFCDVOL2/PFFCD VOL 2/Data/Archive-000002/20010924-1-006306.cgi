@@ -1,0 +1,5 @@
+A||||3||Tweek||Check out this possible Mod.||||1||
+Z||000000||Tweek||03-19-2001||11:14 PM|||| <A HREF="http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=571248513&r=0&t=0" TARGET=_blank>http://cgi.ebay.com/ebaymotors/aw-cgi/ebayISAPI.dll?ViewItem&item=571248513&r=0&t=0</A> <P>Too funny...   =)||||reg||1
+Z||000001||FieroJoe||03-20-2001||07:52 AM||||I understand the 20HP increase is a joke, but why the heck would you need a 3rd tab?  And the ones in the pic dont look gold, they look like the gray ones.<P>------------------<BR>AIM: Snowboarder0311<BR>87 Coupe 5sp. - big resto in progress<BR>  <IMG SRC="http://www.fiero.nl/uploads/profile_1.JPG"> ||||reg||1
+Z||000002||Voytek||03-20-2001||02:19 PM||||What a joke!  I have a few of thes kicking around the house just in case.  I pick them up for free whenever I find a Fiero at a wrecking yard.||||reg||1
+Z||000003||286SE'S||03-20-2001||03:14 PM||||Last year a pair of these sold on Ebay for over $30. Someone is making money on this stuff. <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

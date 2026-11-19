@@ -1,0 +1,7 @@
+A||||5||XDrewX||Lean or Rich ? tell by smell ?||||1||
+Z||000000||XDrewX||07-20-2001||11:10 PM||||I read somewhere that an experienced mechanic type person can tell if car is runing rich or lean by the smell of the exhaust.<P>Well......mine smells like the exhaust from a school bus.<P>The exhaust does not have a color.....not even on first start up.<P>thanks for any input||||reg||1
+Z||000001||rogergarrison||07-21-2001||12:38 AM||||if your eyes water driving it........its rich.  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000002||b lo 0||07-21-2001||01:11 AM||||rich-will smell sweet, almost gasoliny (is that even a word???) but not quite<P>lean-smell ozoney (like burnt potato chips) almost like something's on fire but subdued.||||reg||1
+Z||000003||Fierowrecker||07-21-2001||06:18 AM||||Some times a person can tell by smell, but with a Fiero, just put in the test jumper and drive it!<BR>Your check light will blink 50/50 if it is right...<BR>crash...||||reg||1
+Z||000004||Mach10||07-21-2001||01:11 PM||||That's the trouble with catalytic converters. They change the smell. On my, non catt'd, Fiero, I can smell if it's running rich. Smells acrid, and a little like gas. Oh, that and it'll backfire when coasting, in my experience.||||reg||6
+Z||000005||lowCG||07-22-2001||01:35 AM||||I used to solder in an adjustable pot(resistance)into the coolant temp circuit,and if things improve with resistance,then it was too lean before,if it doesn't run better,it's rich.<BR>You could always get a smog check.||||reg||1

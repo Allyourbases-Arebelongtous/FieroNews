@@ -1,0 +1,16 @@
+A||||14||DJRice||You want fortune cookie?||||1||
+Z||000000||DJRice||04-04-2001||08:02 PM|||| <IMG SRC="http://www.fiero.nl/uploads/fortune.jpg"> <P> <IMG SRC="http://www.fiero.nl/forum/biggrin.gif"><P>------------------<BR>Dillon<BR>Black '87 SE V6<P>"Who wants somma Debo?"||||reg||1
+Z||000001||85Josh||04-04-2001||08:14 PM||||MMM, Kitty, yummm!<P>------------------<BR>85 2M4(Lil' Bit)||||reg||1
+Z||000002||Cheever2||04-04-2001||08:42 PM||||Hey, didn't that useta say "All your base are belong to us"?  ||||reg||6
+Z||000003||hugh||04-04-2001||09:53 PM||||Not that this has anything to do with it,but why did the man cross the road?||||reg||1
+Z||000004||deceler8||04-05-2001||09:28 AM||||I've always thought it would be fun to make fortune cookies, except all the messages would be "manic depressive"...<P>Like..."Sure, that's a cold sore"<BR>"Punt"<BR>"Social drinker my asss"<BR>"Look out"<BR>"If your life were a Fiero, you'd have thrown a rod by now"<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/deceler8_sig.gif"> ||||reg||1
+Z||000005||FieroLisa||04-05-2001||09:52 AM||||hugh,<BR>i'm dying to know why the man crossed the road?<P>||||reg||1
+Z||000006||Standard||04-05-2001||10:54 AM||||Best fortune I've seen is one a guy I work with got... it said "Love is in sight, go find <B>him</B>"  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">  hehehehe.  He'll never hear the end of it, either.||||reg||10
+Z||000007||FieroLisa||04-05-2001||11:28 AM||||So my question is, why are there like 12 lucky numbers on every fortune??? My last cookie said "The love of your life will appear in front of you unexpectedly" So should I just sit here, whistle and twiddle my thumbs?  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000008||KRMFiero||04-05-2001||01:04 PM||||I love cats, they taste just like chicken||||reg||1
+Z||000009||LZeitgeist||04-06-2001||09:06 AM||||Sorry, Lisa - the doors to the restaurant had already been locked... I couldn't get in...  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1
+Z||000010||Formula88||04-06-2001||09:35 AM|||| <BLOCKQUOTE><font size="1" face="Verdana, Arial, Helvetica">quote:</font><HR>Originally posted by FieroLisa:<BR><B>So my question is, why are there like 12 lucky numbers on every fortune??? My last cookie said "The love of your life will appear in front of you unexpectedly" So should I just sit here, whistle and twiddle my thumbs?   <IMG SRC="http://www.fiero.nl/forum/smile.gif"></B><HR></BLOCKQUOTE><P>You gotta whistle louder so we can find you!  There's a buttload of Chinese restaurants in the area.  <IMG SRC="http://www.fiero.nl/forum/wink.gif">||||reg||1
+Z||000011||PatrickB||04-07-2001||02:08 AM||||LOL, I just got a fortune cookie tonight and on the back it had a coupon for buy.com.||||reg||5
+Z||000012||hugh||04-07-2001||10:31 PM||||Lisa,Because he heard the chicken was a slut!||||reg||1
+Z||000013||FieroLisa||04-07-2001||11:10 PM||||hugh- ya really have to worry about men who go after those easy chickens...  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||1
+Z||000014||Taijiguy||04-08-2001||12:33 PM||||There's a big chain of Chinese places here in Columbus called Mark Pi's. The guy who owns them just wrote a cookbook, it's titled "101 Ways to Wok Your Dog" <P><B>Aaaaaahahahahahaaaa.....</B><P>||||reg||1

@@ -1,0 +1,9 @@
+A||N||7||FieroSTETZ||video of poorly running fiero beating modded probe||||1||
+Z||000000||FieroSTETZ||09-06-2001||04:39 AM||||pulled this from a ford probe site- on the board they say that the fiero was running on 4 of six cylinders and was stock, now has mods and is scary- look what it does to the probe<BR> <A HREF="http://www.shawnrocks.com/fierokill.avi" TARGET=_blank>www.shawnrocks.com/fierokill.avi</A> <P>------------------<BR>     <IMG SRC="http://www.shawnrocks.com/Animation1.gif"> ||||reg||1
+Z||000001||Oreif||09-06-2001||08:14 AM||||I don't know what your using to view it but I tried Media player, Real Player, and Quicktime and none of them were able to play the video portion. Just sound came out.<p>[This message has been edited by Oreif (edited 09-06-2001).]||||reg||5
+Z||000002||chester||09-06-2001||09:03 AM||||Same here.<P>------------------<BR>   <IMG SRC="http://www.fiero.nl/uploads/sigline.jpg">   <BR>Modified 2.8<BR>2.5" Drop<BR>11" Brakes<BR>17" Revolutions<BR>RCC Coilover Suspension||||reg||13
+Z||000003||Formula||09-06-2001||11:03 AM||||I had to download something for microsoft for it to work a while ago.  I think its media player update pack or something.||||reg||1
+Z||000004||FieroSTETZ||09-06-2001||11:29 AM||||try this link then- recompressed it <A HREF="http://www.shawnrocks.com/fierokill.wmv" TARGET=_blank>www.shawnrocks.com/fierokill.wmv</A> <P>------------------<BR>     <IMG SRC="http://www.shawnrocks.com/Animation1.gif"> ||||reg||1
+Z||000005||Oreif||09-06-2001||12:21 PM||||Downloaded Media Player 7.1. It works now.||||reg||1
+Z||000006||kempo||09-06-2001||01:07 PM||||And I thought those probe guys bashing our fiero's were claiming how they could be us...||||reg||1
+Z||000007||85fierogt||09-06-2001||06:22 PM||||funny stuff<BR>peace<BR>-brad||||reg||1

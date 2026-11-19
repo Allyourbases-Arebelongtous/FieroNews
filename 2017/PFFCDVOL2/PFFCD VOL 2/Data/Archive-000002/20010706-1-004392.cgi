@@ -1,0 +1,3 @@
+A||||1||Uaana||FieroDave's pink and red Fiero||||1||
+Z||000000||Uaana||11-16-2000||09:33 PM||||Hmm is the pink on the bottom the reason He didn't offer this to us here? Or are we just not as good as anynomous ppl on ebay..<BR>||||reg||1
+Z||000001||tgowens||11-16-2000||10:46 PM||||nawwwwww, he's a good guy! he just thought it was a part-time Mary Kay car.........<P>------------------<BR>                  <IMG SRC="http://www.tgowens.com/tgowens_sig.gif">                              <P><A HREF="http://www.cfog.org" TARGET=_blank>www.cfog.org</A> - Classic Fiero Owners Group<BR><A HREF="http://www.fieroshop.net/" TARGET=_blank>http://www.fieroshop.net/</A> - Fiero Shop - Richmond, CA - 1-510-23-FIERO||||reg||1

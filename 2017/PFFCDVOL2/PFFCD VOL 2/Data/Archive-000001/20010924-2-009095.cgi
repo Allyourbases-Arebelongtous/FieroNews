@@ -1,0 +1,3 @@
+A||||1||Ben84||Vacuum Lines Help||||9||
+Z||000000||Ben84||03-21-2001||06:34 PM||||I have a 84 2m4 manual.... On the Cruise Control, there is two connection points for vacuum lines.... One of the connection point/vaccum lines leds to horizontal canister, I believe to be the vapor canister.. The second connection point beats the hell out of me where the vaccum would led to.... Thanks for any advice....<P>[This message has been edited by Ben84 (edited 03-21-2001).]<p>[This message has been edited by Ben84 (edited 03-21-2001).]||||reg||9
+Z||000001||Ben84||03-21-2001||07:29 PM||||Thanks... I solve the mystery...hose goes from the upper fitting on the diaphram, to a little vacuum solenoid on the aft firewall.||||reg||1

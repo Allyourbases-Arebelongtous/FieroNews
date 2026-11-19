@@ -1,0 +1,2 @@
+A||||0||My7Fieros||YO!!!! BAM-BAM!!!!||||4||
+Z||000000||My7Fieros||12-03-2000||04:13 PM||||Hey man, I may be wrong, but wasnt it you that installed the rear view mirror with the lights and digi thermometer? If so, can you either tell me alittle more about it, or post the link to the original thread w/ the pics and info...I cant seem to find it. Thanx!  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||4

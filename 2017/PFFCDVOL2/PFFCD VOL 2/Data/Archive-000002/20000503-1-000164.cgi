@@ -1,0 +1,2 @@
+A||||0||BluByYou||Black alloy wheels
+Z||000000||BluByYou||07-20-99||09:30 AM||||Just curious - does anyone have a set of GT wheels (black center) for sale?  I have an '87, so I'd rather stay with the uniform offset wheels (not like the 88's), and I'd like for the outer ring to be in good shape, but not a must.  Thought maybe someone who went aftermarket might be interested in cleaning up the garage and making a couple of bucks.

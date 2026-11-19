@@ -1,0 +1,4 @@
+A||N||2||Haze_Performance||ATTN: Oreif!!!!!!||||14||
+Z||000000||Haze_Performance||09-15-2000||06:21 PM||||Check out my part's page. Am I missing anything?? Also if you can take a before and after pic of your car. My camera sucks  <IMG SRC="http://www.fiero.nl/forum/frown.gif"><P>Let me know.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>       <IMG SRC="http://www.fiero.nl/uploads/mycarsig.jpg">       <B>1985 Sport Coupe - Coming Soon 1987 SE</B><P><BR><B>Website's  <A HREF="http://www.WS6Fiero.com" TARGET=_blank>www.WS6Fiero.com</A> &                  <A HREF="http://www.hazeperformance.com" TARGET=_blank>www.HazePerformance.com </A></B>||||reg||14
+Z||000001||Haze_Performance||09-15-2000||10:23 PM||||.||||reg||1
+Z||000002||Oreif||09-16-2000||12:51 AM||||Haze, That looks cool! Now all I need are more door clips!||||reg||1

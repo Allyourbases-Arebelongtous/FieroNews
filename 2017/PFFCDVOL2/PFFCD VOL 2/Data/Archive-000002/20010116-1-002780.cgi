@@ -1,0 +1,3 @@
+A||||1||Child Of Rod||I need a title for my car!!||||9||
+Z||000000||Child Of Rod||07-03-2000||09:53 AM||||Does anyone know where I could get my parts cars re-titled?<BR>I really only need 2 of them re-titled.<BR>Thanks in advance.||||reg||9
+Z||000001||Old Lar||07-03-2000||10:11 AM||||I'm sure that each state has their own rules on how to retitle cars.  You'll have to go to your states DMV (department of motor vehicles) or what ever your states have named that beuracracy, to find out the rules.<P>The big potential problem is showing your ownership and that the cars don't have total loss in its history (wrecked beyond repair). Then repaired.||||reg||11

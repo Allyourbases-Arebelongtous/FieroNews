@@ -1,0 +1,4 @@
+A||||2||PAUL88GT||Blue 85GT, Is it original paint?||||1||
+Z||000000||PAUL88GT||05-05-2000||12:22 PM||||Possibly found an 85GT for sale. Need lots of attention. It is light-medium blue. Is the paint an original color? I read only the 87GT came in blue.  TIA||||reg||1
+Z||000001||ChadMan||05-05-2000||01:07 PM||||You are right, Paul - 87 was the only year for blue as a factory color (though it was available on the SE and Coupe too, not just the GT).<P>No way is that 85 original - but if the paint job was good enough to make you wonder, it must be a pretty good aftermarket job!||||reg||1
+Z||000002||Oreif||05-05-2000||02:27 PM||||Are you sure it's an 85GT? The 86-87 SE's looked exactly like the 85 GT except the bottom aero skirts are black on SE's and metallic grey on GT's. If it is an 85 GT it is not original paint. Blue was 87 only.||||reg||1

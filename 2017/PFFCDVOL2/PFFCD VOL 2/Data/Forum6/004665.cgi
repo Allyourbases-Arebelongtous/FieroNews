@@ -1,0 +1,7 @@
+A||||5||maryjane||Girls may find this joke funny, I didn't.||||1||
+Z||000000||maryjane||12-06-2001||12:11 AM||||A woman meets this cowboy in a bar. She asks, "Is it true everything in Texas is bigger?" "Yep, sure is." he says.<BR>"Well, I've always heard you can judge the size of a man's **** by the size of his  feet, & you sure have a big pair of boots on. Take me home with you & I'll be the judge of it" The next morning, as she is leaving his bedroom, she leaves a $100.00 bill on his nightstand. He exclaims, "Lady, nobody ever paid me for it before." She says, "Cowboy, it isn't for the lovemaking, you need to take that money & buy you a pair of boots that fit."||||reg||1
+Z||000001||annieL||12-06-2001||01:38 PM||||He!He! That's a good one!  <IMG SRC="http://www.fiero.nl/forum/smile.gif">||||reg||14
+Z||000002||beer_stud_21||12-06-2001||06:19 PM||||LOL!....  But were the boots to big or to small?  hehe<P>-Marlin||||reg||1
+Z||000003||JSocha||12-06-2001||07:11 PM||||See Maryjane, the punchline obviously is all a matter of ones own perspective.  <IMG SRC="http://www.fiero.nl/forum/wink.gif"><P>------------------<BR>    <IMG SRC="http://www.fiero.nl/uploads/jsocha_2.gif"> ||||reg||7
+Z||000004||avengador1||12-06-2001||07:16 PM||||LOL <IMG SRC="http://www.fiero.nl/forum/smile.gif"><P>------------------<BR> <IMG SRC="http://www.fiero.nl/uploads/Avendgador1.jpg"> ||||reg||1
+Z||000005||Jake_Dragon||12-06-2001||08:33 PM||||10 1/2 wide  <IMG SRC="http://www.fiero.nl/forum/biggrin.gif">||||reg||1

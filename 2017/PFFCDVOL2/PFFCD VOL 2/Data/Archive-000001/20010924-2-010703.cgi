@@ -1,0 +1,2 @@
+A||||0||Dan Robinson||What does it take to install a 2.8 into my 86 SE w/ a 2.5||||5||
+Z||000000||Dan Robinson||05-24-2001||04:11 AM||||My 2.5 "Iron Duke" went kablooie and I don't want to put another one of those in.  I don't have the money to put in a engine that wasn't on the options list. (I can't afford a kit to put a non option engine in) I figured it would be cheaper to put the 2.8 V6 because I may not have to alter it that much.  Any help at all would be very appreciated.  Thank You||||reg||5

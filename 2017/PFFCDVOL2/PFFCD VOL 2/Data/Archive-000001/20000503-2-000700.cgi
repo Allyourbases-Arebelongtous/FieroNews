@@ -1,0 +1,4 @@
+A||||2||Fiero64||84 Recall
+Z||000000||Fiero64||08-25-99||06:54 PM||||Just bought/was given my first Fiero.  I have heard from an ex-Pontiac technician that there was an engine recall on the 84 car due to oil starvation.  Apparently Pontiac will replace the long block on the 84 cars if the engine blows due to oil starvation.  Has anyone else heard of this recall?  
+Z||000001||theogre||08-25-99||07:46 PM||||Yes, it's valid. If the motor hasn't been done, then pontiac can tell you. 1800PMCARES. call local dealers to. sometimes you want a few no's to be sure.<p>HMmmmmmmm. I'd forgoten about this..... I know where there is an 84 with some body damage that smokes pretty bad for a car w/&lt;80K...... I wonder..... I'll have to go get that VIN. I might have a free motor for an 84<IMG SRC="/ubb/smile.gif" WIDTH=15 HEIGHT=15> that would be nice.
+Z||000002||DJRice||08-26-99||08:07 AM||||Of course I hear this after doing to 4 cyl swaps...........One has to wonder now.....

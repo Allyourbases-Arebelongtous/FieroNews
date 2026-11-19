@@ -1,0 +1,2 @@
+A||||0||Gerald||Ahhhhhhhhhhhhhrrrrrrrrrrrrrrrrrrrrrrgggggggggg||||1||
+Z||000000||Gerald||10-07-2001||05:34 AM||||Stupid clutch alignment tool. Started my clutch job today. Got it out good enough. But the stupid tool that came wit the clutch kit was so wrong. Tried twice to get the transmission on before I figured it out. So mad. got to finish the job tomorrow. I was doing the clutch at a do it your self place so I wasted about 56 dollars because of this tool. I think I should get reimbursed.||||reg||1

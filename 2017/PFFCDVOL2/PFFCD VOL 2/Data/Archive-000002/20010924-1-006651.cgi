@@ -1,0 +1,4 @@
+A||||2||elfiero||NOTICE TO ALL MEMBERS!!!!!!!!!!!!!!!!!!!!!!!!||||4||
+Z||000000||elfiero||04-05-2001||01:39 PM||||Notice to all members-PLEASE reread the post<BR>by KEV-notice it has been amended.This is why<BR>you don't wash your dirty laundry online!!!!<BR>We have corrected the miscommunication we had<BR>and I did'nt even open my mouth!||||reg||4
+Z||000001||elfiero||04-05-2001||03:52 PM||||bump.||||reg||1
+Z||000002||stimpy||04-05-2001||04:36 PM||||Now, I'm all for clearing one's name and all, but I'm pretty sure everyone got the point. But just to be sure, I'll bump this up for you and then maybe it can be given a rest. So far you have remained pretty classy about all this, but this thread smacks a bit of desperation. I suggest cooling it while you're ahead. Not a flame, and please don't take it as such. ||||reg||1
