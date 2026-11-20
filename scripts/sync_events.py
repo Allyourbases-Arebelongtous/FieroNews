@@ -134,7 +134,7 @@ def generate_events_html(events, sync_timestamp):
         desc_html = f"<p class='event-card-desc'>{clean_desc}</p>" if clean_desc else ""
 
         card = f"""
-        <div class='event-card' data-type='{ev["type"]}'>
+        <div class='event-card' data-type='{ev["type"]}' data-start='{ev["datestart"]}' data-end='{ev["dateend"]}'>
             {pic_block}
             <div class='event-card-body'>
                 <div class='event-card-meta'>
@@ -171,21 +171,42 @@ def generate_events_html(events, sync_timestamp):
 Upcoming Pontiac Fiero car shows, meets, road trips, and anniversary celebrations happening around the world. Synchronized directly with the global Fiero registry at <a href='https://fierohub.com/events/' target='_blank' rel='noopener'><strong>FieroHub.com/events</strong></a>.
 </p>
 
-<div class='events-controls-bar'>
-    <div class='events-filters' id='eventFilterButtons'>
-        <button class='filter-pill active' onclick='filterEvents("all", this)'>All ({len(events)})</button>
-        <button class='filter-pill' onclick='filterEvents("meetup", this)'>🚘 Shows & Meets</button>
-        <button class='filter-pill' onclick='filterEvents("cruise", this)'>🛣️ Cruises</button>
-        <button class='filter-pill' onclick='filterEvents("club", this)'>👥 Clubs</button>
+<div class='events-controls-container'>
+    <!-- Row 1: Status Filters & View Mode Toggle -->
+    <div class='events-controls-row'>
+        <div class='events-btn-group' id='eventStatusButtons'>
+            <button class='filter-pill active' onclick='filterEventStatus("all", this)'>📋 All Events (<span id="eventCountTotal">{len(events)}</span>)</button>
+            <button class='filter-pill' onclick='filterEventStatus("upcoming", this)'>🌟 Upcoming (<span id="eventCountUpcoming">0</span>)</button>
+            <button class='filter-pill' onclick='filterEventStatus("expired", this)'>⏱️ Expired / Past (<span id="eventCountExpired">{len(events)}</span>)</button>
+        </div>
+        <div class='events-view-toggle'>
+            <button class='view-toggle-btn active' id='viewGridBtn' onclick='toggleEventView("grid", this)' title='Card Grid View'>⊞ Cards</button>
+            <button class='view-toggle-btn' id='viewListBtn' onclick='toggleEventView("list", this)' title='Compact List View'>☰ Compact List</button>
+        </div>
     </div>
-    <div class='events-portal-actions'>
-        <a href='https://fierohub.com/events/' target='_blank' rel='noopener' class='event-portal-btn'>🌐 Open Full FieroHub Map & Calendar ↗</a>
+
+    <!-- Row 2: Category Filters & Portal Link -->
+    <div class='events-controls-row secondary'>
+        <div class='events-btn-group' id='eventTypeButtons'>
+            <span class='filter-label'>Category:</span>
+            <button class='filter-chip active' onclick='filterEventType("all", this)'>All Types</button>
+            <button class='filter-chip' onclick='filterEventType("meetup", this)'>🚘 Shows & Meets</button>
+            <button class='filter-chip' onclick='filterEventType("cruise", this)'>🛣️ Cruises</button>
+            <button class='filter-chip' onclick='filterEventType("club", this)'>👥 Clubs</button>
+        </div>
+        <div class='events-portal-actions'>
+            <a href='https://fierohub.com/events/' target='_blank' rel='noopener' class='event-portal-btn'>🌐 Open FieroHub Map ↗</a>
+        </div>
     </div>
 </div>
+
+<div class='events-empty-notice' id='eventsEmptyNotice' style='display:none;'></div>
 
 <div class='events-grid' id='fieroEventsGrid'>
 {cards_joined}
 </div>
+
+<div class='events-pagination' id='eventsPagination'></div>
 
 <div class='events-footer-note'>
     <span>Hosting a Fiero event or meet? <a href='https://fierohub.com/events/' target='_blank' rel='noopener'><strong>Submit your event on FieroHub</strong></a> to have it broadcast to the global Fiero community.</span>

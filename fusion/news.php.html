@@ -119,7 +119,7 @@
 <div class='image'><a href='https://fierohub.com/events/' target='_blank' rel='noopener'><img src='images/news_cats/news.gif' alt='Events' class='news-category'></a></div>
 <div>
 <span class='title'><a href='https://fierohub.com/events/' target='_blank' rel='noopener'>Worldwide Fiero Car Events & Gatherings</a><br></span>
-<span class='poster'><!--news_poster--><img src='themes/sk_bluemarble2/images/bullet.png' alt='' style='vertical-align:middle; border: 0px;'> <span><a href='https://fierohub.com/events/' target='_blank' class='profile-link'>FieroHub Global Feed</a></span> &bull; Synced November 19, 2026
+<span class='poster'><!--news_poster--><img src='themes/sk_bluemarble2/images/bullet.png' alt='' style='vertical-align:middle; border: 0px;'> <span><a href='https://fierohub.com/events/' target='_blank' class='profile-link'>FieroHub Global Feed</a></span> &bull; Synced November 20, 2026
 </span>
 </div>
 <div class='subject'>
@@ -127,21 +127,40 @@
 Upcoming Pontiac Fiero car shows, meets, road trips, and anniversary celebrations happening around the world. Synchronized directly with the global Fiero registry at <a href='https://fierohub.com/events/' target='_blank' rel='noopener'><strong>FieroHub.com/events</strong></a>.
 </p>
 
-<div class='events-controls-bar'>
-    <div class='events-filters' id='eventFilterButtons'>
-        <button class='filter-pill active' onclick='filterEvents("all", this)'>All (16)</button>
-        <button class='filter-pill' onclick='filterEvents("meetup", this)'>🚘 Shows & Meets</button>
-        <button class='filter-pill' onclick='filterEvents("cruise", this)'>🛣️ Cruises</button>
-        <button class='filter-pill' onclick='filterEvents("club", this)'>👥 Clubs</button>
+<div class='events-controls-container'>
+    <!-- Row 1: Status Filters & View Mode Toggle -->
+    <div class='events-controls-row'>
+        <div class='events-btn-group' id='eventStatusButtons'>
+            <button class='filter-pill active' onclick='filterEventStatus("all", this)'>📋 All Events (<span id="eventCountTotal">16</span>)</button>
+            <button class='filter-pill' onclick='filterEventStatus("upcoming", this)'>🌟 Upcoming (<span id="eventCountUpcoming">0</span>)</button>
+            <button class='filter-pill' onclick='filterEventStatus("expired", this)'>⏱️ Expired / Past (<span id="eventCountExpired">16</span>)</button>
+        </div>
+        <div class='events-view-toggle'>
+            <button class='view-toggle-btn active' id='viewGridBtn' onclick='toggleEventView("grid", this)' title='Card Grid View'>⊞ Cards</button>
+            <button class='view-toggle-btn' id='viewListBtn' onclick='toggleEventView("list", this)' title='Compact List View'>☰ Compact List</button>
+        </div>
     </div>
-    <div class='events-portal-actions'>
-        <a href='https://fierohub.com/events/' target='_blank' rel='noopener' class='event-portal-btn'>🌐 Open Full FieroHub Map & Calendar ↗</a>
+
+    <!-- Row 2: Category Filters & Portal Link -->
+    <div class='events-controls-row secondary'>
+        <div class='events-btn-group' id='eventTypeButtons'>
+            <span class='filter-label'>Category:</span>
+            <button class='filter-chip active' onclick='filterEventType("all", this)'>All Types</button>
+            <button class='filter-chip' onclick='filterEventType("meetup", this)'>🚘 Shows & Meets</button>
+            <button class='filter-chip' onclick='filterEventType("cruise", this)'>🛣️ Cruises</button>
+            <button class='filter-chip' onclick='filterEventType("club", this)'>👥 Clubs</button>
+        </div>
+        <div class='events-portal-actions'>
+            <a href='https://fierohub.com/events/' target='_blank' rel='noopener' class='event-portal-btn'>🌐 Open FieroHub Map ↗</a>
+        </div>
     </div>
 </div>
 
+<div class='events-empty-notice' id='eventsEmptyNotice' style='display:none;'></div>
+
 <div class='events-grid' id='fieroEventsGrid'>
 
-        <div class='event-card' data-type='meetup'>
+        <div class='event-card' data-type='meetup' data-start='2026-06-22T08:00:00.000Z' data-end='2026-06-28T17:00:00.000Z'>
             
             <div class='event-card-media'>
                 <img src='https://fierohub.com/event/pictures/9920460080452.png' alt='100th Anniversary of Pontiac' loading='lazy' onerror="this.parentElement.style.display='none';">
@@ -163,7 +182,7 @@ Upcoming Pontiac Fiero car shows, meets, road trips, and anniversary celebration
             </div>
         </div>
 
-        <div class='event-card' data-type='meetup'>
+        <div class='event-card' data-type='meetup' data-start='2026-06-19T08:00:00.000Z' data-end='2026-06-20T18:00:00.000Z'>
             
             <div class='event-card-media'>
                 <img src='https://fierohub.com/event/pictures/3953958880451.jpg' alt='Carlisle GM Nationals' loading='lazy' onerror="this.parentElement.style.display='none';">
@@ -185,7 +204,7 @@ Upcoming Pontiac Fiero car shows, meets, road trips, and anniversary celebration
             </div>
         </div>
 
-        <div class='event-card' data-type='otherevent'>
+        <div class='event-card' data-type='otherevent' data-start='2026-02-21T13:00:00.000Z' data-end='2026-02-21T17:00:00.000Z'>
             
             <div class='event-card-body'>
                 <div class='event-card-meta'>
@@ -204,7 +223,7 @@ Upcoming Pontiac Fiero car shows, meets, road trips, and anniversary celebration
             </div>
         </div>
 
-        <div class='event-card' data-type='cruise'>
+        <div class='event-card' data-type='cruise' data-start='2025-10-25T10:30:00.000Z' data-end='2025-10-25T15:30:00.000Z'>
             
             <div class='event-card-media'>
                 <img src='https://fierohub.com/event/pictures/44012994943_n.jpg' alt='7th Annual Fall Canyon Run' loading='lazy' onerror="this.parentElement.style.display='none';">
@@ -226,7 +245,7 @@ Upcoming Pontiac Fiero car shows, meets, road trips, and anniversary celebration
             </div>
         </div>
 
-        <div class='event-card' data-type='meetup'>
+        <div class='event-card' data-type='meetup' data-start='2025-09-07T08:00:00.000Z' data-end='2025-09-07T20:00:00.000Z'>
             
             <div class='event-card-media'>
                 <img src='https://fierohub.com/event/pictures/779526368ma29.jpg' alt='Fierorama 29' loading='lazy' onerror="this.parentElement.style.display='none';">
@@ -248,7 +267,7 @@ Upcoming Pontiac Fiero car shows, meets, road trips, and anniversary celebration
             </div>
         </div>
 
-        <div class='event-card' data-type='meetup'>
+        <div class='event-card' data-type='meetup' data-start='2025-06-19T08:00:00.000Z' data-end='2025-06-22T12:00:00.000Z'>
             
             <div class='event-card-media'>
                 <img src='https://fierohub.com/event/pictures/466464975isle.png' alt='Carlisle GM Nationals' loading='lazy' onerror="this.parentElement.style.display='none';">
@@ -270,7 +289,7 @@ Upcoming Pontiac Fiero car shows, meets, road trips, and anniversary celebration
             </div>
         </div>
 
-        <div class='event-card' data-type='meetup'>
+        <div class='event-card' data-type='meetup' data-start='2025-06-07T10:00:00.000Z' data-end='2025-06-07T15:00:00.000Z'>
             
             <div class='event-card-media'>
                 <img src='https://fierohub.com/event/pictures/4131420540598.jpg' alt='Back to the 80's' loading='lazy' onerror="this.parentElement.style.display='none';">
@@ -292,7 +311,7 @@ Upcoming Pontiac Fiero car shows, meets, road trips, and anniversary celebration
             </div>
         </div>
 
-        <div class='event-card' data-type='meetup'>
+        <div class='event-card' data-type='meetup' data-start='2024-09-08T08:30:00.000Z' data-end='2024-09-08T16:00:00.000Z'>
             
             <div class='event-card-media'>
                 <img src='https://fierohub.com/event/pictures/8647666361854.jpg' alt='Fierorama 28' loading='lazy' onerror="this.parentElement.style.display='none';">
@@ -314,7 +333,7 @@ Upcoming Pontiac Fiero car shows, meets, road trips, and anniversary celebration
             </div>
         </div>
 
-        <div class='event-card' data-type='meetup'>
+        <div class='event-card' data-type='meetup' data-start='2024-06-20T16:00:00.000Z' data-end='2024-06-23T10:00:00.000Z'>
             
             <div class='event-card-media'>
                 <img src='https://fierohub.com/event/pictures/64195880646_n.jpg' alt='30 Years of Fieros At Carlisle' loading='lazy' onerror="this.parentElement.style.display='none';">
@@ -336,7 +355,7 @@ Upcoming Pontiac Fiero car shows, meets, road trips, and anniversary celebration
             </div>
         </div>
 
-        <div class='event-card' data-type='meetup'>
+        <div class='event-card' data-type='meetup' data-start='2023-09-10T08:30:00.000Z' data-end='2023-09-10T15:00:00.000Z'>
             
             <div class='event-card-media'>
                 <img src='https://fierohub.com/event/pictures/8647953900b12.jpg' alt='Fierorama 27' loading='lazy' onerror="this.parentElement.style.display='none';">
@@ -358,7 +377,7 @@ Upcoming Pontiac Fiero car shows, meets, road trips, and anniversary celebration
             </div>
         </div>
 
-        <div class='event-card' data-type='cruise'>
+        <div class='event-card' data-type='cruise' data-start='2023-09-02T09:31:00.000Z' data-end='2023-09-02T09:32:00.000Z'>
             
             <div class='event-card-media'>
                 <img src='https://fierohub.com/event/pictures/615044747001.jpg,764736597002.jpg,940384552003.jpg' alt='16. Alpenrundfahrt 2023' loading='lazy' onerror="this.parentElement.style.display='none';">
@@ -380,7 +399,7 @@ Upcoming Pontiac Fiero car shows, meets, road trips, and anniversary celebration
             </div>
         </div>
 
-        <div class='event-card' data-type='otherevent'>
+        <div class='event-card' data-type='otherevent' data-start='2023-07-12T15:00:00.000Z' data-end='2023-07-16T10:00:00.000Z'>
             
             <div class='event-card-media'>
                 <img src='https://fierohub.com/event/pictures/18227540355_n.jpg' alt='40th Fiero Anniversary Celebration' loading='lazy' onerror="this.parentElement.style.display='none';">
@@ -402,7 +421,7 @@ Upcoming Pontiac Fiero car shows, meets, road trips, and anniversary celebration
             </div>
         </div>
 
-        <div class='event-card' data-type='meetup'>
+        <div class='event-card' data-type='meetup' data-start='2023-06-22T15:00:00.000Z' data-end='2023-06-25T10:00:00.000Z'>
             
             <div class='event-card-media'>
                 <img src='https://fierohub.com/event/pictures/6766512074662.jpg' alt='29th Fieros At Carlisle' loading='lazy' onerror="this.parentElement.style.display='none';">
@@ -424,7 +443,7 @@ Upcoming Pontiac Fiero car shows, meets, road trips, and anniversary celebration
             </div>
         </div>
 
-        <div class='event-card' data-type='meetup'>
+        <div class='event-card' data-type='meetup' data-start='2023-06-17T10:00:00.000Z' data-end='2023-06-17T15:00:00.000Z'>
             
             <div class='event-card-media'>
                 <img src='https://fierohub.com/event/pictures/115422154nal.avif' alt='Back to the 80's' loading='lazy' onerror="this.parentElement.style.display='none';">
@@ -446,7 +465,7 @@ Upcoming Pontiac Fiero car shows, meets, road trips, and anniversary celebration
             </div>
         </div>
 
-        <div class='event-card' data-type='meetup'>
+        <div class='event-card' data-type='meetup' data-start='2023-06-16T17:00:00.000Z' data-end='2023-06-17T21:00:00.000Z'>
             
             <div class='event-card-media'>
                 <img src='https://fierohub.com/event/pictures/400556762nner.jpg' alt='NW Fiero Fest' loading='lazy' onerror="this.parentElement.style.display='none';">
@@ -468,7 +487,7 @@ Upcoming Pontiac Fiero car shows, meets, road trips, and anniversary celebration
             </div>
         </div>
 
-        <div class='event-card' data-type='cruise'>
+        <div class='event-card' data-type='cruise' data-start='2023-04-15T09:00:00.000Z' data-end='2023-04-15T17:00:00.000Z'>
             
             <div class='event-card-media'>
                 <img src='https://fierohub.com/event/pictures/8386597890938.jpg' alt='28th Annual Run for the Hills Scouting Run' loading='lazy' onerror="this.parentElement.style.display='none';">
@@ -490,6 +509,8 @@ Upcoming Pontiac Fiero car shows, meets, road trips, and anniversary celebration
             </div>
         </div>
 </div>
+
+<div class='events-pagination' id='eventsPagination'></div>
 
 <div class='events-footer-note'>
     <span>Hosting a Fiero event or meet? <a href='https://fierohub.com/events/' target='_blank' rel='noopener'><strong>Submit your event on FieroHub</strong></a> to have it broadcast to the global Fiero community.</span>
