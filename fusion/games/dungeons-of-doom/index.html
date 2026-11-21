@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dungeons of Doom - Retro Rogue</title>
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="crt-theme">
+  <div class="terminal-wrapper">
+    <!-- Top Bar Controls -->
+    <header class="terminal-header">
+      <div class="header-left">
+        <a href="../../news.php.html" class="ui-btn" style="text-decoration: none; color: #ffbe0b; border-color: #ffbe0b; margin-right: 8px;" title="Return to FieroNews">← FieroNews</a>
+        <span class="terminal-badge">DUNGEONS OF DOOM</span>
+        <span class="terminal-version">v1.1 (Re-engineered)</span>
+      </div>
+      <div class="header-right">
+        <button id="btn-toggle-crt" class="ui-btn" title="Toggle CRT scanline effect">CRT FX: ON</button>
+        <button id="btn-show-help" class="ui-btn" title="Show keyboard controls (or press ?)">Help [?]</button>
+        <button id="btn-hall-of-fame" class="ui-btn" title="View Guildmaster's Hall of Fame">Hall of Fame</button>
+        <button id="btn-restart" class="ui-btn ui-btn-danger" title="Restart game">Restart</button>
+      </div>
+    </header>
+
+    <!-- Main Game Terminal Viewport -->
+    <main class="terminal-viewport" id="terminal-viewport">
+      <canvas id="game-canvas" width="960" height="576"></canvas>
+      
+      <!-- Interactive Overlay Layer for Screens / Modals -->
+      <div id="overlay-container" class="overlay-container hidden">
+        <!-- Name Entry Dialog -->
+        <div id="screen-name-entry" class="modal-dialog hidden">
+          <div class="modal-title">THE ADVENTURE GAME</div>
+          <div class="modal-subtitle">Welcome to the Dungeons of Doom</div>
+          <div class="modal-body">
+            <p class="modal-prompt">What is your adventurer's name?</p>
+            <div class="input-line">
+              <span class="prompt-arrow">&gt;</span>
+              <input type="text" id="player-name-input" maxlength="24" placeholder="Adventurer" autocomplete="off" autofocus>
+            </div>
+            <div class="modal-actions">
+              <button id="btn-start-adventure" class="ui-btn ui-btn-primary">Enter the Dungeon [Enter]</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Inventory Dialog -->
+        <div id="screen-inventory" class="modal-dialog hidden">
+          <div class="modal-title" id="inventory-title">PACK INVENTORY</div>
+          <div class="modal-body">
+            <div id="inventory-list" class="item-list"></div>
+            <p class="modal-footer-hint" id="inventory-hint">- Press a letter or Space to close -</p>
+          </div>
+        </div>
+
+        <!-- Direction Picker Prompt -->
+        <div id="screen-direction" class="modal-dialog modal-dialog-sm hidden">
+          <div class="modal-title">TARGET DIRECTION</div>
+          <div class="modal-body">
+            <p>Which direction? Use Arrow keys, Numpad, or H/J/K/L/Y/U/B/N.</p>
+            <p class="modal-footer-hint">[Esc to Cancel]</p>
+          </div>
+        </div>
+
+        <!-- Hand Picker Modal (Left or Right hand for ring) -->
+        <div id="screen-hand-select" class="modal-dialog modal-dialog-sm hidden">
+          <div class="modal-title" id="hand-select-title">EQUIP RING</div>
+          <div class="modal-body">
+            <p id="hand-select-prompt">Which hand? (l)eft or (r)ight hand</p>
+            <div class="modal-actions">
+              <button id="btn-hand-left" class="ui-btn">Left hand [L]</button>
+              <button id="btn-hand-right" class="ui-btn">Right hand [R]</button>
+            </div>
+            <p class="modal-footer-hint">[Esc to Cancel]</p>
+          </div>
+        </div>
+
+        <!-- Level Selector / Debug Modal -->
+        <div id="screen-level-select" class="modal-dialog modal-dialog-sm hidden">
+          <div class="modal-title">LEVEL TELEPORT (DEBUG)</div>
+          <div class="modal-body">
+            <p>Select target dungeon floor (1 to 26):</p>
+            <div class="level-select-grid" id="level-select-buttons"></div>
+            <div class="modal-actions">
+              <button id="btn-close-level-select" class="ui-btn">Close [Esc]</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Help & Reference Dialog -->
+        <div id="screen-help" class="modal-dialog hidden">
+          <div class="modal-title">DUNGEON COMMANDS &amp; CONTROLS</div>
+          <div class="modal-body help-grid">
+            <div>
+              <h3>Movement &amp; Combat</h3>
+              <ul>
+                <li><kbd>Arrow Keys</kbd> / <kbd>Numpad</kbd> : Move orthogonal &amp; diagonal</li>
+                <li><kbd>H</kbd> <kbd>J</kbd> <kbd>K</kbd> <kbd>L</kbd> : Left, Down, Up, Right</li>
+                <li><kbd>Y</kbd> <kbd>U</kbd> <kbd>B</kbd> <kbd>N</kbd> : Diagonal movement</li>
+                <li>Walk into a monster to strike it with weapon</li>
+                <li>Walk into gold (<span class="glyph-gold">*</span>) or items to pick them up</li>
+                <li><kbd>s</kbd> : Search adjacent tiles for secret doors/traps</li>
+              </ul>
+            </div>
+            <div>
+              <h3>Item &amp; Pack Commands</h3>
+              <ul>
+                <li><kbd>i</kbd> : Inventory &amp; equipment status</li>
+                <li><kbd>e</kbd> : Eat food</li>
+                <li><kbd>q</kbd> : Quaff (drink) a potion</li>
+                <li><kbd>r</kbd> : Read a scroll</li>
+                <li><kbd>z</kbd> : Zap a wand or staff</li>
+                <li><kbd>w</kbd> / <kbd>W</kbd> : Wield weapon / Wear armor</li>
+                <li><kbd>T</kbd> : Take off armor</li>
+                <li><kbd>P</kbd> / <kbd>R</kbd> : Put on ring / Remove ring</li>
+                <li><kbd>d</kbd> : Drop item from pack</li>
+              </ul>
+            </div>
+            <div>
+              <h3>Dungeon &amp; System</h3>
+              <ul>
+                <li><kbd>&gt;</kbd> : Descend staircase to next level</li>
+                <li><kbd>&lt;</kbd> : Ascend staircase (requires Amulet on L26)</li>
+                <li><kbd>Shift+Q</kbd> : Quit quest &amp; record score</li>
+                <li><kbd>Space</kbd> : Dismiss <code>--More--</code> messages</li>
+                <li><kbd>Ctrl+L</kbd> : Level selector / jump dialog</li>
+              </ul>
+            </div>
+          </div>
+          <div class="modal-actions">
+            <button id="btn-close-help" class="ui-btn ui-btn-primary">Back to Game [Space / Esc]</button>
+          </div>
+        </div>
+
+        <!-- Game Over Dialog -->
+        <div id="screen-game-over" class="modal-dialog hidden">
+          <div class="modal-title" id="game-over-title">QUEST TERMINATED</div>
+          <div class="modal-body">
+            <p id="game-over-message" class="game-over-message"></p>
+            <div class="game-over-stats" id="game-over-stats"></div>
+            <div class="modal-actions">
+              <button id="btn-view-scores" class="ui-btn ui-btn-primary">View Hall of Fame [Enter]</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Hall of Fame Dialog -->
+        <div id="screen-hall-of-fame" class="modal-dialog hidden">
+          <div class="modal-title">GUILDMASTER'S HALL OF FAME</div>
+          <div class="modal-body">
+            <p class="hof-subtitle">Top Adventurers Ranked by Gold Pieces</p>
+            <table class="hof-table">
+              <thead>
+                <tr>
+                  <th>Rank</th>
+                  <th>Gold</th>
+                  <th>Adventurer</th>
+                  <th>Fate / Outcome</th>
+                  <th>Level</th>
+                </tr>
+              </thead>
+              <tbody id="hof-tbody"></tbody>
+            </table>
+            <div class="modal-actions">
+              <button id="btn-play-again" class="ui-btn ui-btn-primary">Start New Quest [Enter]</button>
+              <button id="btn-close-hof" class="ui-btn">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Bottom Controls & Quick Touch Legend -->
+    <footer class="terminal-footer">
+      <div class="quick-hints">
+        <span><kbd>Move</kbd> Arrows / HJKL</span>
+        <span><kbd>i</kbd> Inventory</span>
+        <span><kbd>e</kbd> Eat</span>
+        <span><kbd>q</kbd> Drink</span>
+        <span><kbd>r</kbd> Read</span>
+        <span><kbd>z</kbd> Zap</span>
+        <span><kbd>s</kbd> Search</span>
+        <span><kbd>&gt;</kbd> Stairs</span>
+        <span><kbd>Q</kbd> Quit</span>
+      </div>
+      <div class="footer-level-debug">
+        <button id="btn-level-jump" class="ui-btn ui-btn-sm" title="Jump to any level 1-26">Floor Select [Ctrl+L]</button>
+      </div>
+    </footer>
+  </div>
+
+  <!-- Game Scripts Modular Pipeline -->
+  <script src="js/constants.js"></script>
+  <script src="js/catalogues.js"></script>
+  <script src="js/dungeon.js"></script>
+  <script src="js/combat.js"></script>
+  <script src="js/storage.js"></script>
+  <script src="js/renderer.js"></script>
+  <script src="js/game.js"></script>
+</body>
+</html>
