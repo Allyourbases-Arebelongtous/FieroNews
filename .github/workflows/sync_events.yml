@@ -30,7 +30,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add fusion/events.json fusion/news.php.html
+          git add fusion/events.json
           if git diff --staged --quiet; then
             echo "No new events or changes detected."
           else

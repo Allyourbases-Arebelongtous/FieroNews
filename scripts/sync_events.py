@@ -268,11 +268,12 @@ def main():
         }, f, indent=2)
     print(f"Saved {EVENTS_JSON_PATH}")
     
-    # Update news.php.html
-    sync_time_str = datetime.now(timezone.utc).strftime("%B %d, %Y")
-    events_html = generate_events_html(normalized, sync_time_str)
-    update_news_html(events_html)
-    print("Events sync complete!")
+    # Note: Events are preserved in fusion/events.json.
+    # Front page injection into news.php.html is disabled to keep original front page look.
+    # sync_time_str = datetime.now(timezone.utc).strftime("%B %d, %Y")
+    # events_html = generate_events_html(normalized, sync_time_str)
+    # update_news_html(events_html)
+    print("Events sync complete (events.json updated)!")
 
 if __name__ == "__main__":
     main()
