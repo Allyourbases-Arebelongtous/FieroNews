@@ -1,18 +1,20 @@
 /**
- * FieroNews Historical Archive - Retro Visitor Page Counter
- * Starts at 0 and increments on EVERY page visit / load across the site.
+ * FieroNews Historical Archive - Unique Visitor Session Counter
+ * Increments ONCE per visitor session (Option 1).
+ * Navigating between categories, articles, and pages preserves the count without inflating it.
  */
 (function() {
-    const STORAGE_KEY = 'fieronews_page_visits';
-    const OLD_STORAGE_KEY = 'fieronews_visitor_hits';
+    'use strict';
 
-    // Clear legacy high baseline counter from previous sessions
+    const STORAGE_KEY = 'fieronews_page_visits';
+    const SESSION_KEY = 'fieronews_session_active';
+    const LAST_ACTIVE_KEY = 'fieronews_last_active_ts';
+    const SESSION_TIMEOUT_MS = 30 * 60 * 1000; // 30 minutes of inactivity = new visit
+
+    // Clean legacy high-baseline keys if any
     try {
-        if (localStorage.getItem(OLD_STORAGE_KEY)) {
-            localStorage.removeItem(OLD_STORAGE_KEY);
-        }
-        if (sessionStorage.getItem('fieronews_session_active')) {
-            sessionStorage.removeItem('fieronews_session_active');
+        if (localStorage.getItem('fieronews_visitor_hits')) {
+            localStorage.removeItem('fieronews_visitor_hits');
         }
     } catch (e) {}
 
@@ -28,13 +30,38 @@
         }
     }
 
-    function recordPageVisit() {
+    function recordVisitorSession() {
         var current = getCount();
-        var nextCount = current + 1; // Increments on EVERY page visit
+        var now = Date.now();
+        var isSessionActive = false;
+
         try {
-            localStorage.setItem(STORAGE_KEY, nextCount);
+            // Check 1: tab/window session flag
+            if (sessionStorage.getItem(SESSION_KEY) === 'active') {
+                isSessionActive = true;
+            }
+            // Check 2: inactivity window
+            var lastActive = localStorage.getItem(LAST_ACTIVE_KEY);
+            if (lastActive && (now - parseInt(lastActive, 10) < SESSION_TIMEOUT_MS)) {
+                isSessionActive = true;
+            }
         } catch (e) {}
-        return nextCount;
+
+        if (!isSessionActive) {
+            // Brand new visit: increment counter once
+            current = current + 1;
+            try {
+                localStorage.setItem(STORAGE_KEY, current);
+                sessionStorage.setItem(SESSION_KEY, 'active');
+            } catch (e) {}
+        }
+
+        // Refresh activity timestamp
+        try {
+            localStorage.setItem(LAST_ACTIVE_KEY, String(now));
+        } catch (e) {}
+
+        return current;
     }
 
     function renderCounter(count) {
@@ -55,7 +82,7 @@
     }
 
     function init() {
-        var count = recordPageVisit();
+        var count = recordVisitorSession();
         renderCounter(count);
     }
 
