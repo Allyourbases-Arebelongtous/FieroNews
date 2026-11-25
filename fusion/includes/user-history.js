@@ -269,6 +269,27 @@
                 });
             }
         }
+
+        // PFF Home Page Search (fierosearch.com)
+        var pffHomeSearch = document.querySelector('input[name="MySearchQuery"]');
+        if (pffHomeSearch) {
+            FieroHistory.attachSearchAutocomplete(pffHomeSearch, function(term) {
+                pffHomeSearch.value = term;
+                if (pffHomeSearch.form) {
+                    if (typeof window.TestData === 'function') {
+                        if (window.TestData()) pffHomeSearch.form.submit();
+                    } else {
+                        pffHomeSearch.form.submit();
+                    }
+                }
+            });
+            if (pffHomeSearch.form) {
+                pffHomeSearch.form.addEventListener('submit', function() {
+                    var val = pffHomeSearch.value.trim();
+                    if (val) FieroHistory.saveSearch(val);
+                });
+            }
+        }
     }
 
     if (document.readyState === 'loading') {
