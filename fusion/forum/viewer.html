@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pennock's Fiero Forum - Web Archive Viewer</title>
     <link rel="stylesheet" href="../themes/sk_bluemarble2/styles.css" type="text/css">
+    <script src="../includes/user-history.js"></script>
     <style>
         * { box-sizing: border-box; }
         body {
@@ -203,6 +204,36 @@
         .thread-link:hover {
             color: #93c5fd;
             text-decoration: underline;
+        }
+        .thread-link.thread-read {
+            color: #94a3b8;
+            font-weight: normal;
+        }
+        .thread-link.thread-read:hover {
+            color: #cbd5e1;
+        }
+        .read-pill {
+            display: inline-flex;
+            align-items: center;
+            font-size: 10px;
+            font-weight: 600;
+            color: #34d399;
+            background: rgba(16, 185, 129, 0.12);
+            border: 1px solid rgba(16, 185, 129, 0.35);
+            border-radius: 4px;
+            padding: 1px 6px;
+            margin-left: 8px;
+            vertical-align: middle;
+            user-select: none;
+        }
+        .threads-table tr.tr-read td {
+            background: rgba(15, 23, 42, 0.35);
+        }
+        .threads-table tr.tr-read:hover td {
+            background: #182a3d;
+        }
+        .thread-icon.icon-dimmed {
+            opacity: 0.65;
         }
         .thread-author {
             color: #cbd5e1;
@@ -614,6 +645,15 @@
                 loadThreads();
             });
 
+            // Attach recent search history autocomplete
+            if (window.FieroHistory) {
+                FieroHistory.attachSearchAutocomplete(document.getElementById("searchInput"), function(term) {
+                    currentQuery = term;
+                    document.getElementById("searchInput").value = term;
+                    doSearch();
+                });
+            }
+
             // Parse initial URL hash
             parseHash();
             window.addEventListener("hashchange", parseHash);
@@ -640,6 +680,9 @@
 
         function doSearch() {
             currentQuery = document.getElementById("searchInput").value.trim();
+            if (currentQuery && window.FieroHistory) {
+                FieroHistory.saveSearch(currentQuery);
+            }
             currentPage = 1;
             updateHash();
             loadThreads();
@@ -708,8 +751,11 @@
             const tbody = document.getElementById("threadsBody");
             const stats = document.getElementById("statsText");
 
+            const readCount = window.FieroHistory ? FieroHistory.getReadCount() : 0;
+            const readInfo = readCount > 0 ? ` &bull; <span style="color:#34d399; font-size:12px;">✓ ${readCount.toLocaleString()} topic${readCount === 1 ? '' : 's'} read</span>` : '';
+
             stats.innerHTML = `Showing ${data.total.toLocaleString()} topic${data.total === 1 ? '' : 's'}` + 
-                (currentQuery ? ` matching "${escapeHtml(currentQuery)}"` : '');
+                (currentQuery ? ` matching "${escapeHtml(currentQuery)}"` : '') + readInfo;
 
             if (!data.threads || data.threads.length === 0) {
                 tbody.innerHTML = `<tr><td colspan="5" class="empty-state">No topics found matching "${escapeHtml(currentQuery)}". Try another search keyword.</td></tr>`;
@@ -721,15 +767,19 @@
                 const iconNum = t.icon || "1";
                 const iconUrl = `${IMAGE_BASE}icon${iconNum}.gif`;
                 const tForum = t.forum || currentForum;
+                const isRead = window.FieroHistory ? FieroHistory.isThreadRead(tForum, t.file) : false;
+                const readClass = isRead ? "thread-read" : "";
+                const readBadge = isRead ? `<span class="read-pill" title="You previously read this topic">✓ Read</span>` : "";
                 return `
-                    <tr>
+                    <tr class="${isRead ? 'tr-read' : ''}">
                         <td style="text-align: center;">
-                            <img src="${iconUrl}" onerror="this.src='${IMAGE_BASE}icon1.gif'" class="thread-icon" alt="icon">
+                            <img src="${iconUrl}" onerror="this.src='${IMAGE_BASE}icon1.gif'" class="thread-icon ${isRead ? 'icon-dimmed' : ''}" alt="icon">
                         </td>
                         <td>
-                            <a href="#forum=${encodeURIComponent(tForum)}&thread=${encodeURIComponent(t.file)}" class="thread-link" onclick="openThread('${t.file}', '${tForum}'); return false;">
+                            <a href="#forum=${encodeURIComponent(tForum)}&thread=${encodeURIComponent(t.file)}" class="thread-link ${readClass}" onclick="openThread('${t.file}', '${tForum}'); return false;">
                                 ${escapeHtml(t.title)}
                             </a>
+                            ${readBadge}
                         </td>
                         <td class="thread-author">${escapeHtml(t.author)}</td>
                         <td class="thread-replies">${t.replies}</td>
@@ -765,6 +815,10 @@
 
         async function openThread(threadFile, forumId) {
             const targetForum = (forumId && forumId !== "all") ? forumId : (currentForum === "all" ? "Forum1" : currentForum);
+
+            if (window.FieroHistory) {
+                FieroHistory.markThreadRead(targetForum, threadFile);
+            }
 
             document.getElementById("listView").style.display = "none";
             const tView = document.getElementById("threadView");
@@ -893,6 +947,7 @@
             document.getElementById("threadView").style.display = "none";
             document.getElementById("listView").style.display = "block";
             updateHash();
+            loadThreads();
         }
 
         function updateHash() {

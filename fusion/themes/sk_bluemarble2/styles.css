@@ -1724,4 +1724,85 @@ img, video, embed, object {
     font-weight: 600;
 }
 
+/* ==========================================================================
+   User Search History Dropdown Menu
+   ========================================================================== */
+.fiero-search-dropdown {
+    position: absolute;
+    background: #0f172a;
+    border: 1px solid #334155;
+    border-radius: 6px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.6);
+    z-index: 1000;
+    max-height: 280px;
+    overflow-y: auto;
+    font-family: inherit;
+    font-size: 13px;
+    box-sizing: border-box;
+    display: none;
+}
+.fiero-search-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 12px;
+    background: #1e293b;
+    border-bottom: 1px solid #334155;
+    font-size: 11px;
+    font-weight: 600;
+    color: #94a3b8;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+.fiero-search-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+    color: #e2e8f0;
+    cursor: pointer;
+    border-bottom: 1px solid #1e293b;
+    transition: background 0.15s ease;
+}
+.fiero-search-item:hover, .fiero-search-item.active {
+    background: #1e3a8a;
+    color: #fff;
+}
+.fiero-search-term {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.fiero-search-remove {
+    color: #64748b;
+    font-size: 14px;
+    padding: 2px 6px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.fiero-search-remove:hover {
+    color: #ef4444;
+    background: rgba(239, 68, 68, 0.15);
+}
+.fiero-search-footer {
+    padding: 6px 12px;
+    background: #0b1120;
+    text-align: right;
+}
+.fiero-search-clear-btn {
+    background: none;
+    border: none;
+    color: #94a3b8;
+    font-size: 11px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.fiero-search-clear-btn:hover {
+    color: #f87171;
+}
+
+
 

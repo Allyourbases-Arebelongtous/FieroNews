@@ -10,6 +10,7 @@
 <link rel='shortcut icon' href='../images/favicon.ico' type='image/x-icon'>
 <script type='text/javascript' src='../includes/jquery/jquery.js'></script>
 <script type='text/javascript' src='../includes/jscript.js'></script>
+<script type='text/javascript' src='../includes/user-history.js'></script>
 </head>
 <body>
 
@@ -110,7 +111,7 @@
         <a href="viewer.html" class="button" style="display:inline-block; padding:8px 16px; background:#2980b9; color:#fff; text-decoration:none; border-radius:4px; font-weight:bold; font-size:13px;">
             Open Web Forum Viewer &raquo;
         </a>
-        <form onsubmit="event.preventDefault(); var q = document.getElementById('pffQuickSearch').value.trim(); window.location.href='viewer.html#forum=all&q=' + encodeURIComponent(q);" style="display:inline-flex; gap:6px; margin:0;">
+        <form onsubmit="event.preventDefault(); var q = document.getElementById('pffQuickSearch').value.trim(); if(window.FieroHistory && q) FieroHistory.saveSearch(q); window.location.href='viewer.html#forum=all&q=' + encodeURIComponent(q);" style="display:inline-flex; gap:6px; margin:0;">
             <input type="text" id="pffQuickSearch" class="textbox" placeholder="Search 34,000+ topics..." style="width:230px; padding:6px 10px;">
             <button type="submit" class="button" style="padding:6px 14px; cursor:pointer; background:#2980b9; color:#fff; border:none; border-radius:4px; font-weight:bold;">Search</button>
         </form>
